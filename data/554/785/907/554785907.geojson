@@ -4,49 +4,51 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:area":0.000002,
+    "geom:bbox":"-118.256716,34.039571,-118.254093,34.041599",
+    "geom:latitude":34.040587,
+    "geom:longitude":-118.255404,
     "iso:country":"US",
+    "lbl:latitude":34.040587,
+    "lbl:longitude":-118.255403,
     "src:geom":"geoplanet",
     "wof:belongsto":[
-        85688671,
+        85688637,
         102191575,
         85633793,
-        85937659,
-        102085577
+        85923517,
+        102086957
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795687"
     },
     "wof:country":"US",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"474e8a196d4337e234b7dcbee3fc7691",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102085577,
-            "locality_id":85937659,
+            "county_id":102086957,
+            "locality_id":85923517,
             "postalcode_id":554785907,
-            "region_id":85688671
+            "region_id":85688637
         }
     ],
     "wof:id":554785907,
-    "wof:lastmodified":1460098670,
+    "wof:lastmodified":1460168000,
     "wof:name":"90079",
-    "wof:parent_id":"85937659",
+    "wof:parent_id":85923517,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -118.256716,
+    34.039571,
+    -118.254093,
+    34.041599
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[-118.256716,34.040455],[-118.254943,34.041599],[-118.25451700000001,34.041122],[-118.254093,34.040736],[-118.25584499999999,34.039571],[-118.25635699999999,34.040124],[-118.25649,34.040256],[-118.256716,34.040455]]],"type":"Polygon"}
 }

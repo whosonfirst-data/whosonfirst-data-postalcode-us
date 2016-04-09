@@ -4,35 +4,52 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:area":0.000017,
+    "geom:bbox":"-84.986789,43.108068,-84.982602,43.112468",
+    "geom:latitude":43.110408,
+    "geom:longitude":-84.984752,
     "gp:parent_id":"12588747",
     "iso:country":"US",
+    "lbl:latitude":43.110408,
+    "lbl:longitude":-84.984752,
     "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688599,
+        102191575,
+        404506041,
+        85633793,
+        102083143
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779060"
     },
     "wof:country":"US",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"90f2a9b1c59528487eb1e33477ec5d59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083143,
+            "localadmin_id":404506041,
+            "postalcode_id":554771123,
+            "region_id":85688599
+        }
+    ],
     "wof:id":554771123,
-    "wof:lastmodified":1460098215,
+    "wof:lastmodified":1460167744,
     "wof:name":"48870",
-    "wof:parent_id":-1,
+    "wof:parent_id":404506041,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -84.986789,
+    43.108068,
+    -84.982602,
+    43.112468
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[-84.985376,43.112468],[-84.983868,43.112447],[-84.982625,43.112449],[-84.982602,43.112154],[-84.982631,43.110863],[-84.982631,43.109948],[-84.98264500000001,43.108526],[-84.98273399999999,43.108518],[-84.983857,43.108518],[-84.985373,43.108504],[-84.985381,43.108094],[-84.986772,43.108068],[-84.986783,43.108848],[-84.98676399999999,43.109954],[-84.986789,43.110761],[-84.986769,43.112257],[-84.986779,43.112429],[-84.985376,43.112468]]],"type":"Polygon"}
 }

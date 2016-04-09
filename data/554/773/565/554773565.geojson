@@ -4,35 +4,50 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:area":0.00001,
+    "geom:bbox":"-92.078856,42.700247,-92.073543,42.702258",
+    "geom:latitude":42.701249,
+    "geom:longitude":-92.076193,
     "gp:parent_id":"12588304",
     "iso:country":"US",
+    "lbl:latitude":42.701249,
+    "lbl:longitude":-92.076193,
     "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688713,
+        102086621
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12780124"
     },
     "wof:country":"US",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c626df77656b1ab29a91465b0e64973a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086621,
+            "postalcode_id":554773565,
+            "region_id":85688713
+        }
+    ],
     "wof:id":554773565,
-    "wof:lastmodified":1460098285,
+    "wof:lastmodified":1460167801,
     "wof:name":"50664",
-    "wof:parent_id":-1,
+    "wof:parent_id":102086621,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -92.078856,
+    42.700247,
+    -92.073543,
+    42.702258
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[-92.07884799999999,42.701266],[-92.078856,42.702238],[-92.078506,42.702224],[-92.076398,42.702238],[-92.0749,42.702243],[-92.074348,42.702245],[-92.07356299999999,42.702258],[-92.073547,42.701278],[-92.073543,42.700259],[-92.07418800000001,42.700261],[-92.074896,42.700263],[-92.075616,42.700265],[-92.077095,42.700257],[-92.07881,42.700247],[-92.078847,42.701107],[-92.07884799999999,42.701266]]],"type":"Polygon"}
 }

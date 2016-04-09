@@ -4,51 +4,51 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:area":0.000001,
+    "geom:bbox":"-122.334674,47.605622,-122.332911,47.606799",
+    "geom:latitude":47.606211,
+    "geom:longitude":-122.333792,
     "iso:country":"US",
+    "lbl:latitude":47.606211,
+    "lbl:longitude":-122.333792,
     "src:geom":"geoplanet",
     "wof:belongsto":[
-        85688741,
+        85688623,
         102191575,
         85633793,
-        85931779,
-        102084889,
-        85869515
+        101730401,
+        102086191
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12798983"
     },
     "wof:country":"US",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"076e2d9fcf7bee53e25997a8f77291d1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102084889,
-            "locality_id":85931779,
-            "neighbourhood_id":85869515,
+            "county_id":102086191,
+            "locality_id":101730401,
             "postalcode_id":554757469,
-            "region_id":85688741
+            "region_id":85688623
         }
     ],
     "wof:id":554757469,
-    "wof:lastmodified":1460097707,
+    "wof:lastmodified":1460167693,
     "wof:name":"98154",
-    "wof:parent_id":"85869515",
+    "wof:parent_id":101730401,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -122.334674,
+    47.605622,
+    -122.332911,
+    47.606799
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[-122.334581,47.606374],[-122.333564,47.606799],[-122.332911,47.606086],[-122.333928,47.605661],[-122.33402100000001,47.605622],[-122.33467400000001,47.606336],[-122.334581,47.606374]]],"type":"Polygon"}
 }

@@ -4,35 +4,88 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:area":0.000001,
+    "geom:bbox":"-73.826235,40.77973,-73.824624,40.781706",
+    "geom:latitude":40.780753,
+    "geom:longitude":-73.825434,
     "gp:parent_id":"12589352",
     "iso:country":"US",
+    "lbl:latitude":40.780753,
+    "lbl:longitude":-73.825434,
     "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        85633793,
+        85977539,
+        102082361,
+        102082377,
+        102081863,
+        102083063,
+        102081779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761769"
     },
     "wof:country":"US",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e8a52103ac4baef85bc95ac3718db97b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "postalcode_id":554785845,
+            "region_id":85688543
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "postalcode_id":554785845,
+            "region_id":85688543
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "postalcode_id":554785845,
+            "region_id":85688543
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083063,
+            "locality_id":85977539,
+            "postalcode_id":554785845,
+            "region_id":85688543
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "postalcode_id":554785845,
+            "region_id":85688543
+        }
+    ],
     "wof:id":554785845,
-    "wof:lastmodified":1460098668,
+    "wof:lastmodified":1460168000,
     "wof:name":"11351",
-    "wof:parent_id":-1,
+    "wof:parent_id":85977539,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -73.826235,
+    40.77973,
+    -73.824624,
+    40.781706
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[-73.826235,40.779921],[-73.82591600000001,40.780518],[-73.82528499999999,40.781697],[-73.82499799999999,40.7817],[-73.824624,40.781706],[-73.825081,40.780714],[-73.82532,40.780297],[-73.825667,40.77973],[-73.825929,40.779808],[-73.826235,40.779921]]],"type":"Polygon"}
 }
