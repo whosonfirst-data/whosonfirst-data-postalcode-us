@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0022,
+    "geom:area_square_m":25333945.865854,
     "geom:bbox":"-157.888001,21.296257,-157.788251,21.36933",
     "geom:latitude":21.339858,
     "geom:longitude":-157.837943,
@@ -15,9 +16,10 @@
     "mz:hierarchy_label":1,
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85937601,
-        85633793,
         85688671,
+        102191575,
+        85633793,
+        85937601,
         102085417
     ],
     "wof:breaches":[],
@@ -28,6 +30,7 @@
     "wof:geomhash":"9a610f8ce02424e18f8047a683ff242a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085417,
             "locality_id":85937601,
@@ -36,7 +39,7 @@
         }
     ],
     "wof:id":554785499,
-    "wof:lastmodified":1470249078,
+    "wof:lastmodified":1480805664,
     "wof:name":"96817",
     "wof:parent_id":85937601,
     "wof:placetype":"postalcode",

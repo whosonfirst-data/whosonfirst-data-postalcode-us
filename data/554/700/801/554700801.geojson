@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000423,
+    "geom:area_square_m":3956675.548684,
     "geom:bbox":"-73.902988,40.800811,-73.868132,40.82297",
     "geom:latitude":40.810619,
     "geom:longitude":-73.884475,
@@ -17,13 +18,10 @@
     "wof:belongsto":[
         85688543,
         102191575,
+        404521211,
         85633793,
         85977539,
-        102082361,
-        102082377,
-        102081863,
-        102083063,
-        102081779
+        102082361
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,45 +34,14 @@
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
-            "locality_id":85977539,
-            "postalcode_id":554700801,
-            "region_id":85688543
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102082377,
-            "locality_id":85977539,
-            "postalcode_id":554700801,
-            "region_id":85688543
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081863,
-            "locality_id":85977539,
-            "postalcode_id":554700801,
-            "region_id":85688543
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102083063,
-            "locality_id":85977539,
-            "postalcode_id":554700801,
-            "region_id":85688543
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081779,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "postalcode_id":554700801,
             "region_id":85688543
         }
     ],
     "wof:id":554700801,
-    "wof:lastmodified":1470247158,
+    "wof:lastmodified":1480843147,
     "wof:name":"10474",
     "wof:parent_id":85977539,
     "wof:placetype":"postalcode",
