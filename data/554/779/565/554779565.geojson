@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000208,
+    "geom:area_square_m":1949493.866553,
     "geom:bbox":"-73.990867,40.67273,-73.97064,40.689901",
     "geom:latitude":40.682417,
     "geom:longitude":-73.979385,
@@ -17,13 +18,10 @@
     "wof:belongsto":[
         85688543,
         102191575,
+        404521211,
         85633793,
         85977539,
-        102082361,
-        102082377,
-        102081863,
-        102083063,
-        102081779
+        102082361
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,45 +34,14 @@
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
-            "locality_id":85977539,
-            "postalcode_id":554779565,
-            "region_id":85688543
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102082377,
-            "locality_id":85977539,
-            "postalcode_id":554779565,
-            "region_id":85688543
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081863,
-            "locality_id":85977539,
-            "postalcode_id":554779565,
-            "region_id":85688543
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102083063,
-            "locality_id":85977539,
-            "postalcode_id":554779565,
-            "region_id":85688543
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081779,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "postalcode_id":554779565,
             "region_id":85688543
         }
     ],
     "wof:id":554779565,
-    "wof:lastmodified":1470248968,
+    "wof:lastmodified":1480793439,
     "wof:name":"11217",
     "wof:parent_id":85977539,
     "wof:placetype":"postalcode",

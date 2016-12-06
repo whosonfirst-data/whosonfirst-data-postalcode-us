@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000385,
+    "geom:area_square_m":3604827.343979,
     "geom:bbox":"-73.795086,40.769708,-73.763784,40.791749",
     "geom:latitude":40.780349,
     "geom:longitude":-73.781548,
@@ -17,13 +18,10 @@
     "wof:belongsto":[
         85688543,
         102191575,
+        404521211,
         85633793,
         85977539,
-        102082361,
-        102082377,
-        102081863,
-        102083063,
-        102081779
+        102082361
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,45 +34,14 @@
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
-            "locality_id":85977539,
-            "postalcode_id":554785683,
-            "region_id":85688543
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102082377,
-            "locality_id":85977539,
-            "postalcode_id":554785683,
-            "region_id":85688543
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081863,
-            "locality_id":85977539,
-            "postalcode_id":554785683,
-            "region_id":85688543
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102083063,
-            "locality_id":85977539,
-            "postalcode_id":554785683,
-            "region_id":85688543
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081779,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "postalcode_id":554785683,
             "region_id":85688543
         }
     ],
     "wof:id":554785683,
-    "wof:lastmodified":1470249082,
+    "wof:lastmodified":1480790269,
     "wof:name":"11360",
     "wof:parent_id":85977539,
     "wof:placetype":"postalcode",

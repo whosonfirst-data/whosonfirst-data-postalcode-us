@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009153,
+    "geom:area_square_m":105260257.90232,
     "geom:bbox":"-158.2836,21.506447,-158.058438,21.587527",
     "geom:latitude":21.55297,
     "geom:longitude":-158.160109,
@@ -14,16 +15,29 @@
     "lbl:longitude":-158.18515,
     "mz:hierarchy_label":1,
     "src:geom":"uszcta",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688671,
+        102085417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12798334"
     },
     "wof:country":"US",
     "wof:geomhash":"ef869a8f9e3f0d0cff47f0512f67fc4c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085417,
+            "postalcode_id":554785639,
+            "region_id":85688671
+        }
+    ],
     "wof:id":554785639,
-    "wof:lastmodified":1470249081,
+    "wof:lastmodified":1480805662,
     "wof:name":"96791",
     "wof:parent_id":102085417,
     "wof:placetype":"postalcode",

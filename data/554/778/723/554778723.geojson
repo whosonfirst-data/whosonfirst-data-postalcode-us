@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003532,
+    "geom:area_square_m":31596023.682946,
     "geom:bbox":"-70.252925,43.620818,-70.146466,43.700148",
     "geom:latitude":43.658641,
     "geom:longitude":-70.19933,
@@ -17,6 +18,7 @@
     "wof:belongsto":[
         85688769,
         102191575,
+        404475429,
         85633793,
         85948877,
         102087463
@@ -32,13 +34,14 @@
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087463,
+            "localadmin_id":404475429,
             "locality_id":85948877,
             "postalcode_id":554778723,
             "region_id":85688769
         }
     ],
     "wof:id":554778723,
-    "wof:lastmodified":1470248960,
+    "wof:lastmodified":1480785910,
     "wof:name":"04109",
     "wof:parent_id":85948877,
     "wof:placetype":"postalcode",
