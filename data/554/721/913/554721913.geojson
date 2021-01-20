@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01212,
-    "geom:area_square_m":114887408.387555,
+    "geom:area_square_m":114887408.387532,
     "geom:bbox":"-83.688908,39.894544,-83.506659,40.019152",
     "geom:latitude":39.953041,
     "geom:longitude":-83.604296,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.952673,
     "lbl:longitude":-83.594161,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"South Vienna",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404523637,
         85633793,
-        102083685
+        102083685,
+        404523637,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777254"
     },
     "wof:country":"US",
-    "wof:geomhash":"52e4e88a79ed115cafeae5c94272de22",
+    "wof:geomhash":"c984c382873c3e28f7dfcefe2b212f85",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554721913,
-    "wof:lastmodified":1480835537,
+    "wof:lastmodified":1611184962,
     "wof:name":"45369",
     "wof:parent_id":404523637,
     "wof:placetype":"postalcode",

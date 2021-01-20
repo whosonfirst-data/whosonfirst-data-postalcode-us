@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001729,
-    "geom:area_square_m":19152977.466202,
+    "geom:area_square_m":19152977.466186,
     "geom:bbox":"-80.121906,26.390958,-80.058064,26.426552",
     "geom:latitude":26.410003,
     "geom:longitude":-80.0891,
@@ -13,20 +13,25 @@
     "lbl:latitude":26.415376,
     "lbl:longitude":-80.088811,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Boca Raton",
+    "mz:postal_locality_alt":[
+        "Highland Beach"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688651,
         102191575,
         85633793,
+        102085845,
         85932083,
-        102085845
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12772348"
     },
     "wof:country":"US",
-    "wof:geomhash":"26955217f81ac394bdc285f76fe2262a",
+    "wof:geomhash":"d0040d5ddedfdf98d0c1a00d10b7885b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554781803,
-    "wof:lastmodified":1480804002,
+    "wof:lastmodified":1611184817,
     "wof:name":"33487",
     "wof:parent_id":85932083,
     "wof:placetype":"postalcode",

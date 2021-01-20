@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031361,
-    "geom:area_square_m":273605952.900178,
+    "geom:area_square_m":273605952.900575,
     "geom:bbox":"-94.905909,44.990077,-94.705977,45.282999",
     "geom:latitude":45.124276,
     "geom:longitude":-94.800775,
@@ -14,20 +14,26 @@
     "lbl:latitude":45.12723,
     "lbl:longitude":-94.812115,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Atwater",
+    "mz:postal_locality_alt":[
+        "Morris",
+        "Bellingham"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404513791,
         85633793,
-        102087635
+        102087635,
+        404513791,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782321"
     },
     "wof:country":"US",
-    "wof:geomhash":"0cb41a8984daf8419ae28aba920532d3",
+    "wof:geomhash":"782adcfcfb6956c4d838a0bc3cee76f6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554730031,
-    "wof:lastmodified":1480785066,
+    "wof:lastmodified":1611182732,
     "wof:name":"56209",
     "wof:parent_id":404513791,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011167,
-    "geom:area_square_m":102132913.073641,
+    "geom:area_square_m":102132913.073611,
     "geom:bbox":"-73.720829,42.252777,-73.507789,42.364212",
     "geom:latitude":42.299828,
     "geom:longitude":-73.633825,
@@ -14,20 +14,22 @@
     "lbl:latitude":42.299922,
     "lbl:longitude":-73.633627,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ghent",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522227,
         85633793,
-        102082369
+        102082369,
+        404522227,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762090"
     },
     "wof:country":"US",
-    "wof:geomhash":"0a46e03a38accc8bc824665ed47f2e62",
+    "wof:geomhash":"f723e0d3333d16181ab03528cc1c7be1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554701151,
-    "wof:lastmodified":1480795660,
+    "wof:lastmodified":1611182615,
     "wof:name":"12075",
     "wof:parent_id":404522227,
     "wof:placetype":"postalcode",

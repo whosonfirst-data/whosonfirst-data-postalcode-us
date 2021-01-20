@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00094,
-    "geom:area_square_m":10073611.654303,
+    "geom:area_square_m":10073611.65431,
     "geom:bbox":"-90.071672,29.883012,-90.041861,29.945334",
     "geom:latitude":29.914436,
     "geom:longitude":-90.053367,
@@ -13,20 +13,25 @@
     "lbl:latitude":29.913421,
     "lbl:longitude":-90.053201,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Gretna",
+    "mz:postal_locality_alt":[
+        "Harvey"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688735,
         102191575,
         85633793,
+        102083179,
         85948301,
-        102083179
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12788123"
     },
     "wof:country":"US",
-    "wof:geomhash":"8130a20e5a9904c5be00257fb383c82d",
+    "wof:geomhash":"83969b614351ecb11584931a259b4557",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554783521,
-    "wof:lastmodified":1480910698,
+    "wof:lastmodified":1611183885,
     "wof:name":"70053",
     "wof:parent_id":85948301,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005949,
-    "geom:area_square_m":55328590.531899,
+    "geom:area_square_m":55328590.531932,
     "geom:bbox":"-81.600542,41.176655,-81.489436,41.287967",
     "geom:latitude":41.228273,
     "geom:longitude":-81.542482,
@@ -14,21 +14,27 @@
     "lbl:latitude":41.22961,
     "lbl:longitude":-81.540017,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Peninsula",
+    "mz:postal_locality_alt":[
+        "Hudson",
+        "Richfield"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404524275,
         85633793,
+        102084807,
+        404524275,
         101713389,
-        102084807
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776727"
     },
     "wof:country":"US",
-    "wof:geomhash":"f3b2d8273fe362a8da75640ddd06ba4d",
+    "wof:geomhash":"04161132265f4e0883fa3534e68d9e7d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554721103,
-    "wof:lastmodified":1480800397,
+    "wof:lastmodified":1611184944,
     "wof:name":"44264",
     "wof:parent_id":101713389,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.134989,
-    "geom:area_square_m":1156240279.080818,
+    "geom:area_square_m":1156240279.080334,
     "geom:bbox":"-88.603772,45.920838,-88.116571,46.420082",
     "geom:latitude":46.15515,
     "geom:longitude":-88.292357,
@@ -14,20 +14,25 @@
     "lbl:latitude":46.138161,
     "lbl:longitude":-88.30225,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Crystal Falls",
+    "mz:postal_locality_alt":[
+        "Amasa"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404507725,
         85633793,
-        102083029
+        102083029,
+        404507725,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779649"
     },
     "wof:country":"US",
-    "wof:geomhash":"c425e301ce5e7dbcb78da6ad36b7e146",
+    "wof:geomhash":"85598ae66171d3be3cc07f425b7d41a3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554725393,
-    "wof:lastmodified":1480843189,
+    "wof:lastmodified":1611183274,
     "wof:name":"49920",
     "wof:parent_id":404507725,
     "wof:placetype":"postalcode",

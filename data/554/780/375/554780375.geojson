@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002159,
-    "geom:area_square_m":20883214.420348,
+    "geom:area_square_m":20883214.420373,
     "geom:bbox":"-75.086461,38.451251,-75.046587,38.609315",
     "geom:latitude":38.548697,
     "geom:longitude":-75.062191,
@@ -14,19 +14,25 @@
     "lbl:latitude":38.547335,
     "lbl:longitude":-75.064161,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bethany Beach",
+    "mz:postal_locality_alt":[
+        "Ocean View",
+        "Millville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688611,
-        102083887
+        102083887,
+        85688611
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765799"
     },
     "wof:country":"US",
-    "wof:geomhash":"aca898c2a9a4ced76f875e45898f4f80",
+    "wof:geomhash":"f3be6a54b03e7b749e58926d282d14a2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554780375,
-    "wof:lastmodified":1480839215,
+    "wof:lastmodified":1611185195,
     "wof:name":"19930",
     "wof:parent_id":102083887,
     "wof:placetype":"postalcode",

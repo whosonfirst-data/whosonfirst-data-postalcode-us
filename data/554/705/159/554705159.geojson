@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012505,
-    "geom:area_square_m":118835423.529738,
+    "geom:area_square_m":118835423.529699,
     "geom:bbox":"-76.86783,39.7204,-76.64562,39.858385",
     "geom:latitude":39.779518,
     "geom:longitude":-76.753225,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.779512,
     "lbl:longitude":-76.753257,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Glen Rock",
+    "mz:postal_locality_alt":[
+        "Gettysburg"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404487713,
         85633793,
-        102080953
+        102080953,
+        404487713,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764741"
     },
     "wof:country":"US",
-    "wof:geomhash":"f92ad371ea12fd8cc36d522165d2784e",
+    "wof:geomhash":"b9feee319602342dda46c6be8168d920",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554705159,
-    "wof:lastmodified":1480903981,
+    "wof:lastmodified":1611184092,
     "wof:name":"17327",
     "wof:parent_id":404487713,
     "wof:placetype":"postalcode",

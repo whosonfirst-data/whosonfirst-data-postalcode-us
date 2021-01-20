@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003785,
-    "geom:area_square_m":31541392.241783,
+    "geom:area_square_m":31541392.241767,
     "geom:bbox":"-122.098433,47.599178,-121.979225,47.657487",
     "geom:latitude":47.622692,
     "geom:longitude":-122.043333,
@@ -13,20 +13,25 @@
     "lbl:latitude":47.622542,
     "lbl:longitude":-122.04421,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Sammamish",
+    "mz:postal_locality_alt":[
+        "Redmond"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688623,
         102191575,
         85633793,
+        102086191,
         101730405,
-        102086191
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"23424685"
     },
     "wof:country":"US",
-    "wof:geomhash":"27a0ee0a9f16714e082104dfca1388b8",
+    "wof:geomhash":"954c60b9cd87957f01564d45e3b7f6dd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554756645,
-    "wof:lastmodified":1480915590,
+    "wof:lastmodified":1611184276,
     "wof:name":"98074",
     "wof:parent_id":101730405,
     "wof:placetype":"postalcode",

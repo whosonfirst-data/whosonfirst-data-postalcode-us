@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.056775,
-    "geom:area_square_m":588825031.479875,
+    "geom:area_square_m":588825031.479819,
     "geom:bbox":"-83.081404,32.846871,-82.65767,33.117244",
     "geom:latitude":32.992448,
     "geom:longitude":-82.896845,
@@ -14,19 +14,24 @@
     "lbl:latitude":32.996417,
     "lbl:longitude":-82.903117,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Sandersville",
+    "mz:postal_locality_alt":[
+        "Davisboro"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688535,
-        102084371
+        102084371,
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12771123"
     },
     "wof:country":"US",
-    "wof:geomhash":"69d07cec76e1307f330d6bb65b378ca0",
+    "wof:geomhash":"c0f2ab44a5d4775c0c749ae22130a689",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554713687,
-    "wof:lastmodified":1480801701,
+    "wof:lastmodified":1611183301,
     "wof:name":"31082",
     "wof:parent_id":102084371,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014895,
-    "geom:area_square_m":141386409.259841,
+    "geom:area_square_m":141386409.259806,
     "geom:bbox":"-78.182264,39.722293,-78.068275,39.982884",
     "geom:latitude":39.858163,
     "geom:longitude":-78.130936,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.858111,
     "lbl:longitude":-78.13094,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Needmore",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485523,
         85633793,
-        102081273
+        102081273,
+        404485523,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764687"
     },
     "wof:country":"US",
-    "wof:geomhash":"453e2327be1e298ddb1d310b697647f0",
+    "wof:geomhash":"66df5654b97db6b8bdd22954b6a9e3fd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554705085,
-    "wof:lastmodified":1480823032,
+    "wof:lastmodified":1611184099,
     "wof:name":"17238",
     "wof:parent_id":404485523,
     "wof:placetype":"postalcode",

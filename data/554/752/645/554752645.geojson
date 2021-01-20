@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020859,
-    "geom:area_square_m":209685156.827092,
+    "geom:area_square_m":209685156.827181,
     "geom:bbox":"-118.604418,35.501282,-118.323639,35.679782",
     "geom:latitude":35.613602,
     "geom:longitude":-118.442689,
@@ -14,20 +14,25 @@
     "lbl:latitude":35.617546,
     "lbl:longitude":-118.452285,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lake Isabella",
+    "mz:postal_locality_alt":[
+        "Mountain Mesa"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102081727,
         85927843,
-        102081727
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796776"
     },
     "wof:country":"US",
-    "wof:geomhash":"3cbaaab90295d5082d186d97d5256841",
+    "wof:geomhash":"3481b38772640eb62333dd1fd9fcdcaf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554752645,
-    "wof:lastmodified":1480831474,
+    "wof:lastmodified":1611182519,
     "wof:name":"93240",
     "wof:parent_id":85927843,
     "wof:placetype":"postalcode",

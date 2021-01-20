@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010237,
-    "geom:area_square_m":91254382.031022,
+    "geom:area_square_m":91254382.031008,
     "geom:bbox":"-76.102659,43.815741,-75.912816,43.926016",
     "geom:latitude":43.872055,
     "geom:longitude":-76.015188,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.872577,
     "lbl:longitude":-76.014735,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Adams Center",
+    "mz:postal_locality_alt":[
+        "Adams"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404521907,
         85633793,
-        102082357
+        102082357,
+        404521907,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762874"
     },
     "wof:country":"US",
-    "wof:geomhash":"0d5e6ec92253a91e88c9919caae63c20",
+    "wof:geomhash":"89198ead25bb1cb36585f0d414d4ff22",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554702453,
-    "wof:lastmodified":1480796163,
+    "wof:lastmodified":1611184146,
     "wof:name":"13606",
     "wof:parent_id":404521907,
     "wof:placetype":"postalcode",

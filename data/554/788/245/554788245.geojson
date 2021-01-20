@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000638,
-    "geom:area_square_m":5889694.816289,
+    "geom:area_square_m":5889694.816294,
     "geom:bbox":"-70.677957,41.728018,-70.624231,41.757088",
     "geom:latitude":41.744915,
     "geom:longitude":-70.653577,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.745017,
     "lbl:longitude":-70.653513,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Onset",
+    "mz:postal_locality_alt":[
+        "Wareham"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476567,
         85633793,
-        102084367
+        102084367,
+        404476567,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758887"
     },
     "wof:country":"US",
-    "wof:geomhash":"b5f1ce9f51680a9409abcae5e08ac074",
+    "wof:geomhash":"c3e034a07565d01910c384bed1917b46",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554788245,
-    "wof:lastmodified":1480802731,
+    "wof:lastmodified":1611184758,
     "wof:name":"02558",
     "wof:parent_id":404476567,
     "wof:placetype":"postalcode",

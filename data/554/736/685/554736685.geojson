@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013201,
-    "geom:area_square_m":125050229.044793,
+    "geom:area_square_m":125050229.044609,
     "geom:bbox":"-95.283272,39.899996,-95.112488,40.094196",
     "geom:latitude":39.995741,
     "geom:longitude":-95.196344,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.001541,
     "lbl:longitude":-95.193666,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Forest City",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404517191,
         85633793,
-        102085283
+        102085283,
+        404517191,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786119"
     },
     "wof:country":"US",
-    "wof:geomhash":"a19ee8a6de172f45a4ac01db85608e4f",
+    "wof:geomhash":"0d35c034cc960b6be0d4ece055b78f79",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554736685,
-    "wof:lastmodified":1480808141,
+    "wof:lastmodified":1611183042,
     "wof:name":"64451",
     "wof:parent_id":404517191,
     "wof:placetype":"postalcode",

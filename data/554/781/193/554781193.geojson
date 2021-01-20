@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00217,
-    "geom:area_square_m":23431356.294568,
+    "geom:area_square_m":23431356.294617,
     "geom:bbox":"-81.074474,29.128866,-80.983093,29.187359",
     "geom:latitude":29.160029,
     "geom:longitude":-81.026907,
@@ -13,20 +13,25 @@
     "lbl:latitude":29.161116,
     "lbl:longitude":-81.02574,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Daytona Beach",
+    "mz:postal_locality_alt":[
+        "South Daytona"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688651,
         102191575,
         85633793,
+        102085865,
         85932623,
-        102085865
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12771514"
     },
     "wof:country":"US",
-    "wof:geomhash":"d205c7859f0b8f76c334df6025577311",
+    "wof:geomhash":"80aabcbcb1095889dcf43e738aae373a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554781193,
-    "wof:lastmodified":1480809126,
+    "wof:lastmodified":1611184810,
     "wof:name":"32119",
     "wof:parent_id":85932623,
     "wof:placetype":"postalcode",

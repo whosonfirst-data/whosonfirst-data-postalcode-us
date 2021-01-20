@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010729,
-    "geom:area_square_m":102444649.846491,
+    "geom:area_square_m":102444649.846474,
     "geom:bbox":"-77.435928,39.392245,-77.226036,39.52778",
     "geom:latitude":39.446051,
     "geom:longitude":-77.334958,
@@ -13,19 +13,24 @@
     "lbl:latitude":39.443557,
     "lbl:longitude":-77.332934,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Frederick",
+    "mz:postal_locality_alt":[
+        "Libertytown"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688501,
-        102081593
+        102081593,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766666"
     },
     "wof:country":"US",
-    "wof:geomhash":"84054f72d5190392bdb12a1b162d16d3",
+    "wof:geomhash":"9b34b1c10d86ad0c6c5290fc6774bd85",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +41,7 @@
         }
     ],
     "wof:id":554707385,
-    "wof:lastmodified":1480825450,
+    "wof:lastmodified":1611183148,
     "wof:name":"21701",
     "wof:parent_id":102081593,
     "wof:placetype":"postalcode",

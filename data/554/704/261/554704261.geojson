@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006822,
-    "geom:area_square_m":63626591.733313,
+    "geom:area_square_m":63626591.733275,
     "geom:bbox":"-79.837067,40.995837,-79.699438,41.090473",
     "geom:latitude":41.04332,
     "geom:longitude":-79.771738,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.044024,
     "lbl:longitude":-79.761496,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Petrolia",
+    "mz:postal_locality_alt":[
+        "Butler"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404484997,
         85633793,
-        102083677
+        102083677,
+        404484997,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764136"
     },
     "wof:country":"US",
-    "wof:geomhash":"db3043d2d39a12104e528777fb180449",
+    "wof:geomhash":"ea9825424fe3a74817e4acb24e788ec9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554704261,
-    "wof:lastmodified":1480841998,
+    "wof:lastmodified":1611184495,
     "wof:name":"16050",
     "wof:parent_id":404484997,
     "wof:placetype":"postalcode",

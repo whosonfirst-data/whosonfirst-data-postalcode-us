@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002222,
-    "geom:area_square_m":20987723.658573,
+    "geom:area_square_m":20987723.658593,
     "geom:bbox":"-75.186782,40.156923,-75.112065,40.220028",
     "geom:latitude":40.186068,
     "geom:longitude":-75.152869,
@@ -14,21 +14,26 @@
     "lbl:latitude":40.186067,
     "lbl:longitude":-75.152867,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Horsham",
+    "mz:postal_locality_alt":[
+        "Hatboro"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485465,
         85633793,
+        102081355,
+        404485465,
         101719587,
-        102081355
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765444"
     },
     "wof:country":"US",
-    "wof:geomhash":"f1251b6752e18657e973cc9a484e839f",
+    "wof:geomhash":"365dd18876b01b5e69fbecec76396b9c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554706199,
-    "wof:lastmodified":1480906420,
+    "wof:lastmodified":1611182703,
     "wof:name":"19044",
     "wof:parent_id":101719587,
     "wof:placetype":"postalcode",

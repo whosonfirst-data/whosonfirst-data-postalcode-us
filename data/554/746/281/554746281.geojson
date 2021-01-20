@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02012,
-    "geom:area_square_m":215612090.065934,
+    "geom:area_square_m":215612090.065999,
     "geom:bbox":"-95.154299,29.842155,-94.966712,30.005064",
     "geom:latitude":29.930193,
     "geom:longitude":-95.05656,
@@ -14,19 +14,26 @@
     "lbl:latitude":29.932872,
     "lbl:longitude":-95.057187,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Crosby",
+    "mz:postal_locality_alt":[
+        "Pasadena",
+        "Huffman",
+        "Clute"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688753,
-        102081111
+        102081111,
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12791674"
     },
     "wof:country":"US",
-    "wof:geomhash":"01f395f222e7767077e4b984aebc93cf",
+    "wof:geomhash":"9e236a52a1b0da4d74c7d8d995e8bab8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +44,7 @@
         }
     ],
     "wof:id":554746281,
-    "wof:lastmodified":1480915799,
+    "wof:lastmodified":1611184002,
     "wof:name":"77532",
     "wof:parent_id":102081111,
     "wof:placetype":"postalcode",

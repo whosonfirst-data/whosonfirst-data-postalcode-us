@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.070087,
-    "geom:area_square_m":578293746.994036,
+    "geom:area_square_m":578293746.994078,
     "geom:bbox":"-101.555489,48.022576,-101.079509,48.254732",
     "geom:latitude":48.142585,
     "geom:longitude":-101.32137,
@@ -13,20 +13,25 @@
     "lbl:latitude":48.144826,
     "lbl:longitude":-101.326016,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Minot",
+    "mz:postal_locality_alt":[
+        "Minot Afb"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688525,
         102191575,
-        404482061,
         85633793,
-        102082117
+        102082117,
+        404482061,
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12783442"
     },
     "wof:country":"US",
-    "wof:geomhash":"ebc71e29d6002406c532f4095ffe377d",
+    "wof:geomhash":"c5960b720d31aa71873da98b8a045cbc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554732239,
-    "wof:lastmodified":1480793445,
+    "wof:lastmodified":1611184399,
     "wof:name":"58701",
     "wof:parent_id":404482061,
     "wof:placetype":"postalcode",

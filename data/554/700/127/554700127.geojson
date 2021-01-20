@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000629,
-    "geom:area_square_m":5873382.443405,
+    "geom:area_square_m":5873382.443406,
     "geom:bbox":"-73.965253,40.9936,-73.92208,41.022542",
     "geom:latitude":41.006699,
     "geom:longitude":-73.942748,
@@ -14,21 +14,26 @@
     "lbl:latitude":41.006364,
     "lbl:longitude":-73.942772,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Northvale",
+    "mz:postal_locality_alt":[
+        "Rockleigh"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477297,
         85633793,
+        102086773,
+        404477297,
         85975963,
-        102086773
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760820"
     },
     "wof:country":"US",
-    "wof:geomhash":"65a56f789453179e4c5f305310d29642",
+    "wof:geomhash":"d677f6b8e35f3e87da26d98e473c3e34",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554700127,
-    "wof:lastmodified":1480908560,
+    "wof:lastmodified":1611183190,
     "wof:name":"07647",
     "wof:parent_id":85975963,
     "wof:placetype":"postalcode",

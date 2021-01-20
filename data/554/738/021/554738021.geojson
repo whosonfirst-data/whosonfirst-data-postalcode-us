@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001012,
-    "geom:area_square_m":9719388.955999,
+    "geom:area_square_m":9719388.956001,
     "geom:bbox":"-94.649193,39.014893,-94.607382,39.044086",
     "geom:latitude":39.031171,
     "geom:longitude":-94.630767,
@@ -13,21 +13,29 @@
     "lbl:latitude":39.031171,
     "lbl:longitude":-94.630768,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Shawnee Mission",
+    "mz:postal_locality_alt":[
+        "Mission",
+        "Fairway",
+        "Roeland Park",
+        "Westwood"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404504335,
         85633793,
+        102082673,
+        404504335,
         85945789,
-        102082673
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786793"
     },
     "wof:country":"US",
-    "wof:geomhash":"299cfb50fec621cc7df8d6e9883c3964",
+    "wof:geomhash":"fa4647d0c9b44222b2c36c376946e03e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +48,7 @@
         }
     ],
     "wof:id":554738021,
-    "wof:lastmodified":1480816990,
+    "wof:lastmodified":1611183118,
     "wof:name":"66205",
     "wof:parent_id":85945789,
     "wof:placetype":"postalcode",

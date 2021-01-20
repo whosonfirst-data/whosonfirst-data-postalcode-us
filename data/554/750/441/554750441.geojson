@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002331,
-    "geom:area_square_m":24027682.683321,
+    "geom:area_square_m":24027682.683341,
     "geom:bbox":"-112.211618,33.509328,-112.151419,33.563493",
     "geom:latitude":33.531751,
     "geom:longitude":-112.177932,
@@ -13,20 +13,22 @@
     "lbl:latitude":33.535012,
     "lbl:longitude":-112.181934,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Glendale",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688719,
         102191575,
         85633793,
+        102087421,
         85917509,
-        102087421
+        85688719
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12794544"
     },
     "wof:country":"US",
-    "wof:geomhash":"5dca138fe974de4fb2a2353a5d0c3225",
+    "wof:geomhash":"bacd61098be5e409e4c9e94ecece6ee7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +40,7 @@
         }
     ],
     "wof:id":554750441,
-    "wof:lastmodified":1480786587,
+    "wof:lastmodified":1611184535,
     "wof:name":"85301",
     "wof:parent_id":85917509,
     "wof:placetype":"postalcode",

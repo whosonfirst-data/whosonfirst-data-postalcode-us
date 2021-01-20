@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001127,
-    "geom:area_square_m":10453574.429831,
+    "geom:area_square_m":10453574.429814,
     "geom:bbox":"-75.760518,41.348684,-75.720462,41.413255",
     "geom:latitude":41.375061,
     "geom:longitude":-75.739556,
@@ -14,21 +14,26 @@
     "lbl:latitude":41.375058,
     "lbl:longitude":-75.739557,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Old Forge",
+    "mz:postal_locality_alt":[
+        "Scranton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404486835,
         85633793,
+        102081345,
+        404486835,
         101718293,
-        102081345
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765239"
     },
     "wof:country":"US",
-    "wof:geomhash":"c7fe5cb1788dbc4e1ff2ef644705f80a",
+    "wof:geomhash":"76a26d55c8a1c2c4e799cdbb45d22f0a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554705897,
-    "wof:lastmodified":1480832113,
+    "wof:lastmodified":1611184125,
     "wof:name":"18518",
     "wof:parent_id":101718293,
     "wof:placetype":"postalcode",

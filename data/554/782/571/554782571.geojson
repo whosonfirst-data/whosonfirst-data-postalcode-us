@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002496,
-    "geom:area_square_m":22786453.845517,
+    "geom:area_square_m":22786453.845512,
     "geom:bbox":"-82.929069,42.382137,-82.861652,42.462995",
     "geom:latitude":42.425774,
     "geom:longitude":-82.893707,
@@ -13,21 +13,31 @@
     "lbl:latitude":42.425373,
     "lbl:longitude":-82.893194,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Grosse Pointe",
+    "mz:postal_locality_alt":[
+        "Grosse Pointe Woods",
+        "Grosse Pointe Farms",
+        "Detroit",
+        "Grosse Pte Farms",
+        "Grosse Pointe Shores",
+        "Grosse Pte Woods"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404508595,
         85633793,
+        102083147,
+        404508595,
         85951031,
-        102083147
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778708"
     },
     "wof:country":"US",
-    "wof:geomhash":"0368433f000254aafb3ad713935163e8",
+    "wof:geomhash":"5eceb39648a6eb51ce2136f1f56f040b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +50,7 @@
         }
     ],
     "wof:id":554782571,
-    "wof:lastmodified":1480840669,
+    "wof:lastmodified":1611183632,
     "wof:name":"48236",
     "wof:parent_id":85951031,
     "wof:placetype":"postalcode",

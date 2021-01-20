@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002913,
-    "geom:area_square_m":27204389.567067,
+    "geom:area_square_m":27204389.567075,
     "geom:bbox":"-74.101375,40.908532,-74.038844,40.980635",
     "geom:latitude":40.945554,
     "geom:longitude":-74.071187,
@@ -13,21 +13,27 @@
     "lbl:latitude":40.947299,
     "lbl:longitude":-74.070169,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Paramus",
+    "mz:postal_locality_alt":[
+        "Saddle Brook",
+        "Northvale"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477709,
         85633793,
+        102086773,
+        404477709,
         85975951,
-        102086773
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760824"
     },
     "wof:country":"US",
-    "wof:geomhash":"cde948b3b82e06e13ca95c22966a4157",
+    "wof:geomhash":"8f2822455a898709baa81854b9e52208",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +46,7 @@
         }
     ],
     "wof:id":554700135,
-    "wof:lastmodified":1480908560,
+    "wof:lastmodified":1611183174,
     "wof:name":"07652",
     "wof:parent_id":85975951,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01542,
-    "geom:area_square_m":143842541.63477,
+    "geom:area_square_m":143842541.634849,
     "geom:bbox":"-81.302535,40.973802,-81.058342,41.08257",
     "geom:latitude":41.026814,
     "geom:longitude":-81.179296,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.02866,
     "lbl:longitude":-81.184282,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Atwater",
+    "mz:postal_locality_alt":[
+        "Randolph"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404525645,
         85633793,
-        102084819
+        102084819,
+        404525645,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776691"
     },
     "wof:country":"US",
-    "wof:geomhash":"d9ab63c8b5684084150acfd797062825",
+    "wof:geomhash":"982b659d014c827ceea13a06381003df",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554721045,
-    "wof:lastmodified":1480835410,
+    "wof:lastmodified":1611184968,
     "wof:name":"44201",
     "wof:parent_id":404525645,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013799,
-    "geom:area_square_m":145443937.943395,
+    "geom:area_square_m":145443937.943313,
     "geom:bbox":"-97.328981,31.418459,-97.150959,31.603346",
     "geom:latitude":31.524018,
     "geom:longitude":-97.255637,
@@ -14,19 +14,24 @@
     "lbl:latitude":31.526544,
     "lbl:longitude":-97.261231,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Waco",
+    "mz:postal_locality_alt":[
+        "Woodway"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688753,
-        102085007
+        102085007,
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12791233"
     },
     "wof:country":"US",
-    "wof:geomhash":"8e056346e2f2ea4cc9735dd6bed02da9",
+    "wof:geomhash":"c6373dd8c00f14389a45f1827e468657",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554745661,
-    "wof:lastmodified":1480805141,
+    "wof:lastmodified":1611185267,
     "wof:name":"76712",
     "wof:parent_id":102085007,
     "wof:placetype":"postalcode",

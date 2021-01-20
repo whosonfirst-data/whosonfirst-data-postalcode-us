@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003366,
-    "geom:area_square_m":31510321.855383,
+    "geom:area_square_m":31510321.855398,
     "geom:bbox":"-74.305049,40.7574,-74.22089,40.826557",
     "geom:latitude":40.789374,
     "geom:longitude":-74.262862,
@@ -14,20 +14,27 @@
     "lbl:latitude":40.785755,
     "lbl:longitude":-74.265058,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"West Orange",
+    "mz:postal_locality_alt":[
+        "Montclair",
+        "Maplewood",
+        "Orange"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478061,
         85633793,
-        102085043
+        102085043,
+        404478061,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760645"
     },
     "wof:country":"US",
-    "wof:geomhash":"367d6ae30973f783e7c066ed4aac94ea",
+    "wof:geomhash":"5aca3d3f3a328315566394ffc06fb377",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554699847,
-    "wof:lastmodified":1480816152,
+    "wof:lastmodified":1611184624,
     "wof:name":"07052",
     "wof:parent_id":404478061,
     "wof:placetype":"postalcode",

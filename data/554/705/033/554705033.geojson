@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005058,
-    "geom:area_square_m":47719536.610607,
+    "geom:area_square_m":47719536.610605,
     "geom:bbox":"-76.852417,40.225115,-76.725741,40.326825",
     "geom:latitude":40.26895,
     "geom:longitude":-76.784889,
@@ -13,21 +13,26 @@
     "lbl:latitude":40.267831,
     "lbl:longitude":-76.78737,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Harrisburg",
+    "mz:postal_locality_alt":[
+        "Swatara"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404486309,
         85633793,
+        102081347,
+        404486309,
         101719815,
-        102081347
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764648"
     },
     "wof:country":"US",
-    "wof:geomhash":"da5bdbe2b23427f408f413bb9ded4705",
+    "wof:geomhash":"a51ff55865cd611d8e17d1958ebfd042",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554705033,
-    "wof:lastmodified":1480831658,
+    "wof:lastmodified":1611184123,
     "wof:name":"17111",
     "wof:parent_id":101719815,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013295,
-    "geom:area_square_m":126680073.885933,
+    "geom:area_square_m":126680073.886014,
     "geom:bbox":"-86.250821,39.54713,-85.971401,39.637491",
     "geom:latitude":39.595087,
     "geom:longitude":-86.116524,
@@ -13,21 +13,26 @@
     "lbl:latitude":39.59586,
     "lbl:longitude":-86.116319,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Greenwood",
+    "mz:postal_locality_alt":[
+        "Whiteland"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404500933,
         85633793,
+        102086239,
+        404500933,
         85942283,
-        102086239
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777612"
     },
     "wof:country":"US",
-    "wof:geomhash":"ec0fe35eb03bf5e44a718d76304738e1",
+    "wof:geomhash":"9f09c80c522cc954198a4e74ab31b7e3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554722503,
-    "wof:lastmodified":1480908879,
+    "wof:lastmodified":1611183214,
     "wof:name":"46143",
     "wof:parent_id":85942283,
     "wof:placetype":"postalcode",

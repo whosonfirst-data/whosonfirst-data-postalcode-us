@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.065886,
-    "geom:area_square_m":620629239.226194,
+    "geom:area_square_m":620629239.226213,
     "geom:bbox":"-93.76356,40.263695,-93.366784,40.516401",
     "geom:latitude":40.37747,
     "geom:longitude":-93.586685,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.374309,
     "lbl:longitude":-93.586901,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Princeton",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404516909,
         85633793,
-        102085337
+        102085337,
+        404516909,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786212"
     },
     "wof:country":"US",
-    "wof:geomhash":"05ab7b5c1e846fb2d391efccac7f4bef",
+    "wof:geomhash":"46cb40a60c6078d5c9cd8950d5fae7dd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554736889,
-    "wof:lastmodified":1480910543,
+    "wof:lastmodified":1611183024,
     "wof:name":"64673",
     "wof:parent_id":404516909,
     "wof:placetype":"postalcode",

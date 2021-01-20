@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.073848,
-    "geom:area_square_m":783736534.13113,
+    "geom:area_square_m":783736534.130683,
     "geom:bbox":"-97.11514,30.719237,-96.678509,31.031201",
     "geom:latitude":30.876099,
     "geom:longitude":-96.907487,
@@ -14,19 +14,24 @@
     "lbl:latitude":30.891129,
     "lbl:longitude":-96.907601,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cameron",
+    "mz:postal_locality_alt":[
+        "Rockdale"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688753,
-        102080713
+        102080713,
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12791115"
     },
     "wof:country":"US",
-    "wof:geomhash":"64f5d2755b366a1bf9131b728840432c",
+    "wof:geomhash":"614138f1e80fbab402975fe7eb109fd0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554745451,
-    "wof:lastmodified":1480903315,
+    "wof:lastmodified":1611185285,
     "wof:name":"76520",
     "wof:parent_id":102080713,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002994,
-    "geom:area_square_m":30919075.837537,
+    "geom:area_square_m":30919075.837566,
     "geom:bbox":"-111.796595,33.344538,-111.687428,33.382973",
     "geom:latitude":33.364533,
     "geom:longitude":-111.739447,
@@ -13,20 +13,25 @@
     "lbl:latitude":33.361667,
     "lbl:longitude":-111.741002,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Gilbert",
+    "mz:postal_locality_alt":[
+        "Higley"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688719,
         102191575,
         85633793,
+        102087421,
         85917513,
-        102087421
+        85688719
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12794491"
     },
     "wof:country":"US",
-    "wof:geomhash":"27bc2671aeb95883833c900bdb3fc295",
+    "wof:geomhash":"a690c492e0e1629a812a157790f32b23",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554750367,
-    "wof:lastmodified":1480786589,
+    "wof:lastmodified":1611184553,
     "wof:name":"85234",
     "wof:parent_id":85917513,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018726,
-    "geom:area_square_m":178054580.734351,
+    "geom:area_square_m":178054580.734246,
     "geom:bbox":"-93.870553,39.654786,-93.702315,39.84942",
     "geom:latitude":39.739487,
     "geom:longitude":-93.807082,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.744043,
     "lbl:longitude":-93.802883,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Breckenridge",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404515421,
         85633793,
-        102085265
+        102085265,
+        404515421,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786173"
     },
     "wof:country":"US",
-    "wof:geomhash":"0d8957da987e7b1547575e8c7e82e16c",
+    "wof:geomhash":"b403fc08b2bae76e9aad780a0e72db92",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554736801,
-    "wof:lastmodified":1480910530,
+    "wof:lastmodified":1611183049,
     "wof:name":"64625",
     "wof:parent_id":404515421,
     "wof:placetype":"postalcode",

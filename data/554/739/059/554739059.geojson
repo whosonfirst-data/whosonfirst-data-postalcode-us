@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.056084,
-    "geom:area_square_m":542108843.591815,
+    "geom:area_square_m":542108843.591798,
     "geom:bbox":"-98.904728,38.448615,-98.571979,38.696868",
     "geom:latitude":38.58226,
     "geom:longitude":-98.757382,
@@ -14,20 +14,25 @@
     "lbl:latitude":38.586791,
     "lbl:longitude":-98.759205,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hoisington",
+    "mz:postal_locality_alt":[
+        "Susank"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404503843,
         85633793,
-        102083449
+        102083449,
+        404503843,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787314"
     },
     "wof:country":"US",
-    "wof:geomhash":"f51db6b214a7f040d51268331b759902",
+    "wof:geomhash":"999a5e53c3a064c8b63ff3fe8265989c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554739059,
-    "wof:lastmodified":1480841977,
+    "wof:lastmodified":1611182675,
     "wof:name":"67544",
     "wof:parent_id":404503843,
     "wof:placetype":"postalcode",

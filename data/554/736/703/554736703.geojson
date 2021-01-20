@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021258,
-    "geom:area_square_m":199814651.600978,
+    "geom:area_square_m":199814651.600969,
     "geom:bbox":"-94.935611,40.459124,-94.687087,40.574694",
     "geom:latitude":40.522339,
     "geom:longitude":-94.812939,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.521587,
     "lbl:longitude":-94.80719,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hopkins",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404515589,
         85633793,
-        102087507
+        102087507,
+        404515589,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786127"
     },
     "wof:country":"US",
-    "wof:geomhash":"c56a0c457b7b49c92c2387e3749cb05f",
+    "wof:geomhash":"af37d2bb145eb01705d9e2f65125e768",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554736703,
-    "wof:lastmodified":1480908673,
+    "wof:lastmodified":1611183039,
     "wof:name":"64461",
     "wof:parent_id":404515589,
     "wof:placetype":"postalcode",

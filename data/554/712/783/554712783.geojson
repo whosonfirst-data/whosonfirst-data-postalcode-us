@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005807,
-    "geom:area_square_m":59512129.291026,
+    "geom:area_square_m":59512129.291058,
     "geom:bbox":"-84.218518,33.968846,-84.073977,34.08355",
     "geom:latitude":34.026055,
     "geom:longitude":-84.147057,
@@ -13,20 +13,28 @@
     "lbl:latitude":34.026142,
     "lbl:longitude":-84.145592,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Duluth",
+    "mz:postal_locality_alt":[
+        "Alpharetta",
+        "Johns Creek",
+        "Suwanee",
+        "Marietta"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688535,
         102191575,
         85633793,
+        102082967,
         85936291,
-        102082967
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770574"
     },
     "wof:country":"US",
-    "wof:geomhash":"82849b42c0fbb396216c343c7f0d98ca",
+    "wof:geomhash":"e5db3bde8734c9414faa4e53eebecee2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +46,7 @@
         }
     ],
     "wof:id":554712783,
-    "wof:lastmodified":1480841940,
+    "wof:lastmodified":1611183714,
     "wof:name":"30097",
     "wof:parent_id":85936291,
     "wof:placetype":"postalcode",

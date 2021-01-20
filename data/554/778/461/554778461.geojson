@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006939,
-    "geom:area_square_m":64018005.434448,
+    "geom:area_square_m":64018005.434445,
     "geom:bbox":"-70.145849,41.706137,-69.991713,41.788601",
     "geom:latitude":41.747091,
     "geom:longitude":-70.069478,
@@ -14,20 +14,26 @@
     "lbl:latitude":41.747513,
     "lbl:longitude":-70.066223,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Brewster",
+    "mz:postal_locality_alt":[
+        "South Yarmouth",
+        "West Chatham"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404475905,
         85633793,
-        102084379
+        102084379,
+        404475905,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758903"
     },
     "wof:country":"US",
-    "wof:geomhash":"c108ce85316affecece72696e12d6170",
+    "wof:geomhash":"620d9444035c8da59f39d4ef58175402",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554778461,
-    "wof:lastmodified":1480802729,
+    "wof:lastmodified":1611183443,
     "wof:name":"02631",
     "wof:parent_id":404475905,
     "wof:placetype":"postalcode",

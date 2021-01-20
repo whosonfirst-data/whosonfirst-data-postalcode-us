@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02494,
-    "geom:area_square_m":221833963.042336,
+    "geom:area_square_m":221833963.042284,
     "geom:bbox":"-73.279992,43.905416,-73.058211,44.092503",
     "geom:latitude":44.000053,
     "geom:longitude":-73.175448,
@@ -14,21 +14,26 @@
     "lbl:latitude":43.997783,
     "lbl:longitude":-73.178295,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Middlebury",
+    "mz:postal_locality_alt":[
+        "East Middlebury"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688763,
         102191575,
-        404527441,
         85633793,
+        102080765,
+        404527441,
         101728427,
-        102080765
+        85688763
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760093"
     },
     "wof:country":"US",
-    "wof:geomhash":"bec69909e0242a6c3ac8b5ed4e7ef6a8",
+    "wof:geomhash":"b174cd482d94bb465080417217d03cdc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554699123,
-    "wof:lastmodified":1480903940,
+    "wof:lastmodified":1611184631,
     "wof:name":"05753",
     "wof:parent_id":101728427,
     "wof:placetype":"postalcode",

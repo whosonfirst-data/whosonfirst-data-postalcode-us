@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005364,
-    "geom:area_square_m":49613096.66703,
+    "geom:area_square_m":49613096.667046,
     "geom:bbox":"-93.530573,41.511843,-93.432725,41.620979",
     "geom:latitude":41.581527,
     "geom:longitude":-93.484775,
@@ -13,19 +13,26 @@
     "lbl:latitude":41.586364,
     "lbl:longitude":-93.487814,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pleasant Hill",
+    "mz:postal_locality_alt":[
+        "Des Moines",
+        "Runnells",
+        "Altoona"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688713,
-        102086603
+        102086603,
+        85688713
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"23424628"
     },
     "wof:country":"US",
-    "wof:geomhash":"8a21aa4102fc4d982e93b709fe668af5",
+    "wof:geomhash":"3bb719c5cc643458fc6c709a56152d44",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +43,7 @@
         }
     ],
     "wof:id":554756557,
-    "wof:lastmodified":1480916306,
+    "wof:lastmodified":1611184271,
     "wof:name":"50327",
     "wof:parent_id":102086603,
     "wof:placetype":"postalcode",

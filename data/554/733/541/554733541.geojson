@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014791,
-    "geom:area_square_m":138020283.722229,
+    "geom:area_square_m":138020283.722254,
     "geom:bbox":"-88.055772,40.945386,-87.811836,41.060367",
     "geom:latitude":41.004119,
     "geom:longitude":-87.918657,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.010925,
     "lbl:longitude":-87.91929,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Chebanse",
+    "mz:postal_locality_alt":[
+        "Herscher"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404498383,
         85633793,
-        102081259
+        102081259,
+        404498383,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784359"
     },
     "wof:country":"US",
-    "wof:geomhash":"7a616437e30f9d03a2e8eb99fdb4cbe9",
+    "wof:geomhash":"e1e88157f3735dae399e61d96a767c62",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554733541,
-    "wof:lastmodified":1480912395,
+    "wof:lastmodified":1611184249,
     "wof:name":"60922",
     "wof:parent_id":404498383,
     "wof:placetype":"postalcode",

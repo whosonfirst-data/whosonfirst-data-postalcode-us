@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015301,
-    "geom:area_square_m":146028325.322439,
+    "geom:area_square_m":146028325.32238,
     "geom:bbox":"-104.875023,39.412831,-104.662666,39.566091",
     "geom:latitude":39.482207,
     "geom:longitude":-104.778823,
@@ -13,20 +13,25 @@
     "lbl:latitude":39.486112,
     "lbl:longitude":-104.778923,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Parker",
+    "mz:postal_locality_alt":[
+        "Englewood"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688603,
         102191575,
         85633793,
+        102085225,
         85929261,
-        102085225
+        85688603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12792927"
     },
     "wof:country":"US",
-    "wof:geomhash":"e4cc4a26c0a511d35fadd0874a54b82e",
+    "wof:geomhash":"9a2c7b56fabfa5557c454e179e3908b4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554747979,
-    "wof:lastmodified":1480913401,
+    "wof:lastmodified":1611183464,
     "wof:name":"80134",
     "wof:parent_id":85929261,
     "wof:placetype":"postalcode",

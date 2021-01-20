@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000577,
-    "geom:area_square_m":5274765.155015,
+    "geom:area_square_m":5274765.155006,
     "geom:bbox":"-71.207316,42.339096,-71.167625,42.367893",
     "geom:latitude":42.352831,
     "geom:longitude":-71.187527,
@@ -13,21 +13,26 @@
     "lbl:latitude":42.353585,
     "lbl:longitude":-71.188192,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Newton",
+    "mz:postal_locality_alt":[
+        "Newtonville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476411,
         85633793,
+        102084643,
+        404476411,
         85950341,
-        102084643
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758847"
     },
     "wof:country":"US",
-    "wof:geomhash":"753c34813af2196dc3ce11604b384a1b",
+    "wof:geomhash":"789117422458b2b12fadbe9015ba55ca",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554697471,
-    "wof:lastmodified":1480799917,
+    "wof:lastmodified":1611184639,
     "wof:name":"02458",
     "wof:parent_id":85950341,
     "wof:placetype":"postalcode",

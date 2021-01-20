@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001615,
-    "geom:area_square_m":15078236.179984,
+    "geom:area_square_m":15078236.179994,
     "geom:bbox":"-74.149088,40.955272,-74.077176,41.007844",
     "geom:latitude":40.982128,
     "geom:longitude":-74.112583,
@@ -13,21 +13,26 @@
     "lbl:latitude":40.981408,
     "lbl:longitude":-74.110465,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ridgewood",
+    "mz:postal_locality_alt":[
+        "Wyckoff"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477717,
         85633793,
+        102086773,
+        404477717,
         85975931,
-        102086773
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760757"
     },
     "wof:country":"US",
-    "wof:geomhash":"af7f34b5607ebfe3f7263db11ba2b6c7",
+    "wof:geomhash":"6723d8c0587f09afe32eaefb357de985",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554700019,
-    "wof:lastmodified":1480908563,
+    "wof:lastmodified":1611183200,
     "wof:name":"07450",
     "wof:parent_id":85975931,
     "wof:placetype":"postalcode",

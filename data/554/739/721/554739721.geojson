@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001111,
-    "geom:area_square_m":10485765.674192,
+    "geom:area_square_m":10485765.674191,
     "geom:bbox":"-96.412211,40.218995,-96.369401,40.262478",
     "geom:latitude":40.240823,
     "geom:longitude":-96.393257,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.24187,
     "lbl:longitude":-96.38367,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lewiston",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688563,
         102191575,
-        404520161,
         85633793,
-        102082223
+        102082223,
+        404520161,
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787644"
     },
     "wof:country":"US",
-    "wof:geomhash":"e1db015defff9309199d7a93ca6b6209",
+    "wof:geomhash":"f500c9ba40ba4c14aef2e2a9de8f61d3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554739721,
-    "wof:lastmodified":1480795340,
+    "wof:lastmodified":1611182679,
     "wof:name":"68380",
     "wof:parent_id":404520161,
     "wof:placetype":"postalcode",

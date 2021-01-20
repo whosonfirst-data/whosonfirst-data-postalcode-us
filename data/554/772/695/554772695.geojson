@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006126,
-    "geom:area_square_m":58851796.316916,
+    "geom:area_square_m":58851796.316758,
     "geom:bbox":"-119.898437,38.962695,-119.784687,39.068882",
     "geom:latitude":39.019008,
     "geom:longitude":-119.850208,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.019002,
     "lbl:longitude":-119.850214,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Genoa",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688531,
         102191575,
         85633793,
+        102081541,
         85974827,
-        102081541
+        85688531
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795523"
     },
     "wof:country":"US",
-    "wof:geomhash":"790a55ce1cc91363fe307081719ae858",
+    "wof:geomhash":"c1a2c89f6fd923c8c8b6457cf885c259",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554772695,
-    "wof:lastmodified":1480833185,
+    "wof:lastmodified":1611184851,
     "wof:name":"89411",
     "wof:parent_id":85974827,
     "wof:placetype":"postalcode",

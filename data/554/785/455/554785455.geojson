@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009567,
-    "geom:area_square_m":102328027.408564,
+    "geom:area_square_m":102328027.408548,
     "geom:bbox":"-81.478979,30.042742,-81.363476,30.252249",
     "geom:latitude":30.120404,
     "geom:longitude":-81.412794,
@@ -14,20 +14,26 @@
     "lbl:latitude":30.131197,
     "lbl:longitude":-81.40784,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"St Augustine",
+    "mz:postal_locality_alt":[
+        "Saint Augustine",
+        "Ponte Vedra Bch"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688651,
         102191575,
         85633793,
+        102085787,
         85934455,
-        102085787
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"28350092"
     },
     "wof:country":"US",
-    "wof:geomhash":"8d9c66bb59fe163b804d31b9d3b4b7e2",
+    "wof:geomhash":"e0454aa64d7e6f8bced3dda46bdeef22",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554785455,
-    "wof:lastmodified":1480805320,
+    "wof:lastmodified":1611183498,
     "wof:name":"32081",
     "wof:parent_id":85934455,
     "wof:placetype":"postalcode",

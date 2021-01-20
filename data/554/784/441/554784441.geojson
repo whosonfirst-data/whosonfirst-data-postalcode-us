@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001692,
-    "geom:area_square_m":17431271.052434,
+    "geom:area_square_m":17431271.052346,
     "geom:bbox":"-117.746969,33.55694,-117.671514,33.631086",
     "geom:latitude":33.591563,
     "geom:longitude":-117.698483,
@@ -13,20 +13,28 @@
     "lbl:latitude":33.591304,
     "lbl:longitude":-117.697512,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Laguna Hills",
+    "mz:postal_locality_alt":[
+        "Santa Ana",
+        "Laguna Woods",
+        "Irvine",
+        "Laguna Beach"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102080847,
         85923121,
-        102080847
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796577"
     },
     "wof:country":"US",
-    "wof:geomhash":"dd5e852619e18c5280361984a9c8ea7c",
+    "wof:geomhash":"e2bdc9f6e6e69e1707936557c9c72327",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +46,7 @@
         }
     ],
     "wof:id":554784441,
-    "wof:lastmodified":1480906250,
+    "wof:lastmodified":1611183934,
     "wof:name":"92653",
     "wof:parent_id":85923121,
     "wof:placetype":"postalcode",

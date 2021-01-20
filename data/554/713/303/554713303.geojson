@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002503,
-    "geom:area_square_m":25587868.378184,
+    "geom:area_square_m":25587868.378196,
     "geom:bbox":"-83.933171,34.204097,-83.854442,34.267512",
     "geom:latitude":34.235732,
     "geom:longitude":-83.894984,
@@ -14,20 +14,26 @@
     "lbl:latitude":34.236213,
     "lbl:longitude":-83.89521,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Oakwood",
+    "mz:postal_locality_alt":[
+        "Flowery Branch",
+        "Gainesville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688535,
         102191575,
         85633793,
+        102083629,
         85936859,
-        102083629
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770906"
     },
     "wof:country":"US",
-    "wof:geomhash":"d2b237415f7762737a5111b865979e47",
+    "wof:geomhash":"e5c14193c0544a25c73b23194ea296aa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554713303,
-    "wof:lastmodified":1480836744,
+    "wof:lastmodified":1611183318,
     "wof:name":"30566",
     "wof:parent_id":85936859,
     "wof:placetype":"postalcode",

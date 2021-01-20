@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016392,
-    "geom:area_square_m":153503143.749921,
+    "geom:area_square_m":153503143.750042,
     "geom:bbox":"-76.12859,40.68576,-75.848177,40.878667",
     "geom:latitude":40.772328,
     "geom:longitude":-75.976149,
@@ -14,20 +14,26 @@
     "lbl:latitude":40.766995,
     "lbl:longitude":-75.974097,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Tamaqua",
+    "mz:postal_locality_alt":[
+        "Hazleton",
+        "Sugarloaf"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404487361,
         85633793,
-        102081271
+        102081271,
+        404487361,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765124"
     },
     "wof:country":"US",
-    "wof:geomhash":"c0af6152b9f4717fed073e0fe0476bda",
+    "wof:geomhash":"747d1a920fc263223749cb2cd25dcb03",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554705707,
-    "wof:lastmodified":1480831456,
+    "wof:lastmodified":1611184095,
     "wof:name":"18252",
     "wof:parent_id":404487361,
     "wof:placetype":"postalcode",

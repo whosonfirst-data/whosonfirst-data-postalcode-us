@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013755,
-    "geom:area_square_m":129671354.586536,
+    "geom:area_square_m":129671354.586414,
     "geom:bbox":"-85.578919,40.237829,-85.426312,40.379524",
     "geom:latitude":40.322016,
     "geom:longitude":-85.512311,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.32858,
     "lbl:longitude":-85.507983,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Gaston",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404500519,
         85633793,
-        102087155
+        102087155,
+        404500519,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778168"
     },
     "wof:country":"US",
-    "wof:geomhash":"84fdae5b09def5ca161b10aa11db23e7",
+    "wof:geomhash":"bb32e4c0aa43aeeac62136eebfb1d7e4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554723317,
-    "wof:lastmodified":1480912895,
+    "wof:lastmodified":1611183812,
     "wof:name":"47342",
     "wof:parent_id":404500519,
     "wof:placetype":"postalcode",

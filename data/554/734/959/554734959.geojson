@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01277,
-    "geom:area_square_m":122882031.575408,
+    "geom:area_square_m":122882031.575324,
     "geom:bbox":"-88.754162,38.833985,-88.564289,38.959012",
     "geom:latitude":38.902108,
     "geom:longitude":-88.664547,
@@ -14,20 +14,22 @@
     "lbl:latitude":38.892322,
     "lbl:longitude":-88.664029,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Edgewood",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404497561,
         85633793,
-        102086203
+        102086203,
+        404497561,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785136"
     },
     "wof:country":"US",
-    "wof:geomhash":"5e0a69dee21556e4a87e196133a9dc8f",
+    "wof:geomhash":"cc9a729e633b0654bef808fd92e6815f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554734959,
-    "wof:lastmodified":1480911525,
+    "wof:lastmodified":1611184193,
     "wof:name":"62426",
     "wof:parent_id":404497561,
     "wof:placetype":"postalcode",

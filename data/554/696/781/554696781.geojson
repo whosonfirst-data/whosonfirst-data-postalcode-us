@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003648,
-    "geom:area_square_m":33426669.812886,
+    "geom:area_square_m":33426669.812882,
     "geom:bbox":"-72.611429,42.139774,-72.514026,42.216987",
     "geom:latitude":42.176358,
     "geom:longitude":-72.565315,
@@ -13,21 +13,23 @@
     "lbl:latitude":42.172602,
     "lbl:longitude":-72.562073,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Chicopee",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476347,
         85633793,
+        102084627,
+        404476347,
         85950397,
-        102084627
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758298"
     },
     "wof:country":"US",
-    "wof:geomhash":"a3539bae9efdf76d5492466162ffa53b",
+    "wof:geomhash":"e2e99ef520f9bf9cec101d347a39f7c0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +42,7 @@
         }
     ],
     "wof:id":554696781,
-    "wof:lastmodified":1480803255,
+    "wof:lastmodified":1611184673,
     "wof:name":"01020",
     "wof:parent_id":85950397,
     "wof:placetype":"postalcode",

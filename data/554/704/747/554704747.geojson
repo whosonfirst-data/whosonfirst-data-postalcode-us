@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034018,
-    "geom:area_square_m":316730790.218634,
+    "geom:area_square_m":316730790.218653,
     "geom:bbox":"-78.236902,41.049936,-77.834934,41.252752",
     "geom:latitude":41.150681,
     "geom:longitude":-78.032205,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.121742,
     "lbl:longitude":-78.010569,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Karthaus",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485737,
         85633793,
-        102081369
+        102081369,
+        404485737,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764480"
     },
     "wof:country":"US",
-    "wof:geomhash":"8858342f1d25d4283b1023b1b5bdb106",
+    "wof:geomhash":"68b3ee5c415a75ffae560941b5143e4b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554704747,
-    "wof:lastmodified":1480904935,
+    "wof:lastmodified":1611184501,
     "wof:name":"16845",
     "wof:parent_id":404485737,
     "wof:placetype":"postalcode",

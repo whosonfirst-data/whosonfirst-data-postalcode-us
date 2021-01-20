@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003341,
-    "geom:area_square_m":31749847.427549,
+    "geom:area_square_m":31749847.427553,
     "geom:bbox":"-105.736149,39.754431,-105.576625,39.819018",
     "geom:latitude":39.787497,
     "geom:longitude":-105.647325,
@@ -14,19 +14,24 @@
     "lbl:latitude":39.780974,
     "lbl:longitude":-105.640117,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Dumont",
+    "mz:postal_locality_alt":[
+        "Georgetown"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688603,
-        102085243
+        102085243,
+        85688603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12793047"
     },
     "wof:country":"US",
-    "wof:geomhash":"ccc5e4c8205b0de27fa8d37fd229afba",
+    "wof:geomhash":"23747faf1d9e3625adf473f6aa6c5fb6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554771903,
-    "wof:lastmodified":1480807885,
+    "wof:lastmodified":1611183528,
     "wof:name":"80436",
     "wof:parent_id":102085243,
     "wof:placetype":"postalcode",

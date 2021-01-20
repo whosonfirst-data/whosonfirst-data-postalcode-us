@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020607,
-    "geom:area_square_m":193686328.610998,
+    "geom:area_square_m":193686328.611016,
     "geom:bbox":"-79.322037,40.465832,-78.896938,40.586188",
     "geom:latitude":40.524466,
     "geom:longitude":-79.084286,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.523638,
     "lbl:longitude":-79.08415,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Homer City",
+    "mz:postal_locality_alt":[
+        "Graceton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404486339,
         85633793,
-        102081387
+        102081387,
+        404486339,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764000"
     },
     "wof:country":"US",
-    "wof:geomhash":"1988a980c9efb0c7a3211917be5ce9f6",
+    "wof:geomhash":"9f0720bb1ea9884c62f995ee0d2e08d0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554704039,
-    "wof:lastmodified":1480903614,
+    "wof:lastmodified":1611184499,
     "wof:name":"15748",
     "wof:parent_id":404486339,
     "wof:placetype":"postalcode",

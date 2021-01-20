@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008607,
-    "geom:area_square_m":79773358.209827,
+    "geom:area_square_m":79773358.209757,
     "geom:bbox":"-81.49421,41.391263,-81.297641,41.500848",
     "geom:latitude":41.448105,
     "geom:longitude":-81.404587,
@@ -13,20 +13,26 @@
     "lbl:latitude":41.446269,
     "lbl:longitude":-81.402969,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Chagrin Falls",
+    "mz:postal_locality_alt":[
+        "Novelty",
+        "Moreland Hills"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404525059,
         85633793,
-        102084837
+        102084837,
+        404525059,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776571"
     },
     "wof:country":"US",
-    "wof:geomhash":"9bdd7e343d6c33f4df1c5d8d4f3ea1b4",
+    "wof:geomhash":"bbe64420aafb54640fbc773ea2a6d255",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554720915,
-    "wof:lastmodified":1480799988,
+    "wof:lastmodified":1611185465,
     "wof:name":"44022",
     "wof:parent_id":404525059,
     "wof:placetype":"postalcode",

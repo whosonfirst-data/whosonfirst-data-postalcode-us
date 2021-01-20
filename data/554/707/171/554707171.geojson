@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004805,
-    "geom:area_square_m":46158303.456913,
+    "geom:area_square_m":46158303.456916,
     "geom:bbox":"-76.720024,38.955589,-76.625016,39.086312",
     "geom:latitude":39.021788,
     "geom:longitude":-76.673275,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.040252,
     "lbl:longitude":-76.685822,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Gambrills",
+    "mz:postal_locality_alt":[
+        "Crofton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688501,
         102191575,
         85633793,
+        102083469,
         85949733,
-        102083469
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766437"
     },
     "wof:country":"US",
-    "wof:geomhash":"ae963c1b0f30a15ad229292c712e3b32",
+    "wof:geomhash":"c1caf66ebf9d82b877f407b801986176",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554707171,
-    "wof:lastmodified":1480843200,
+    "wof:lastmodified":1611183173,
     "wof:name":"21054",
     "wof:parent_id":85949733,
     "wof:placetype":"postalcode",

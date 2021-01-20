@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011519,
-    "geom:area_square_m":100964348.666158,
+    "geom:area_square_m":100964348.666178,
     "geom:bbox":"-93.874864,44.803731,-93.682761,44.90552",
     "geom:latitude":44.856693,
     "geom:longitude":-93.775721,
@@ -14,20 +14,25 @@
     "lbl:latitude":44.869263,
     "lbl:longitude":-93.778944,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Waconia",
+    "mz:postal_locality_alt":[
+        "Young America"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404511607,
         85633793,
-        102087897
+        102087897,
+        404511607,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781869"
     },
     "wof:country":"US",
-    "wof:geomhash":"2c17bd6f60b86c38d503ab42e5c80809",
+    "wof:geomhash":"db21318d20a6ba8d7df519d6c150da8c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554729285,
-    "wof:lastmodified":1480789093,
+    "wof:lastmodified":1611185433,
     "wof:name":"55387",
     "wof:parent_id":404511607,
     "wof:placetype":"postalcode",

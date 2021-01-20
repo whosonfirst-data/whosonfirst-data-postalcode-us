@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001067,
-    "geom:area_square_m":11107273.369454,
+    "geom:area_square_m":11107273.369452,
     "geom:bbox":"-97.155535,32.674317,-97.111912,32.706792",
     "geom:latitude":32.692179,
     "geom:longitude":-97.133431,
@@ -13,20 +13,22 @@
     "lbl:latitude":32.692186,
     "lbl:longitude":-97.133304,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Arlington",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102083201,
         101723641,
-        102083201
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12790862"
     },
     "wof:country":"US",
-    "wof:geomhash":"02d7d1bd1556dccd3480995a7ade2f76",
+    "wof:geomhash":"c91631c6ca03df1973d4b7ca7a244248",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +40,7 @@
         }
     ],
     "wof:id":554745009,
-    "wof:lastmodified":1480840098,
+    "wof:lastmodified":1611185264,
     "wof:name":"76015",
     "wof:parent_id":101723641,
     "wof:placetype":"postalcode",

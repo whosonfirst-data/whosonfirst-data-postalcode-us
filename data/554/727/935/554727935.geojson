@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031381,
-    "geom:area_square_m":283545295.130194,
+    "geom:area_square_m":283545295.130199,
     "geom:bbox":"-91.179457,42.938488,-90.879581,43.154661",
     "geom:latitude":43.051983,
     "geom:longitude":-91.058367,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.049076,
     "lbl:longitude":-91.057334,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Prairie Du Chien",
+    "mz:postal_locality_alt":[
+        "Fennimore"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404493247,
         85633793,
-        102081315
+        102081315,
+        404493247,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781098"
     },
     "wof:country":"US",
-    "wof:geomhash":"4e9b13333a5440ea7d5f3296fefe8be9",
+    "wof:geomhash":"00a8834ea96a4bf33ff5e70e83fc0f9e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554727935,
-    "wof:lastmodified":1480912290,
+    "wof:lastmodified":1611185515,
     "wof:name":"53821",
     "wof:parent_id":404493247,
     "wof:placetype":"postalcode",

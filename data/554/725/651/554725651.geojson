@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.059633,
-    "geom:area_square_m":547543254.158994,
+    "geom:area_square_m":547543254.159551,
     "geom:bbox":"-93.117171,41.919988,-92.743862,42.18845",
     "geom:latitude":42.050303,
     "geom:longitude":-92.900608,
@@ -14,20 +14,25 @@
     "lbl:latitude":42.049806,
     "lbl:longitude":-92.900739,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Marshalltown",
+    "mz:postal_locality_alt":[
+        "Gilman"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688713,
         102191575,
         85633793,
+        102086231,
         85943173,
-        102086231
+        85688713
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779803"
     },
     "wof:country":"US",
-    "wof:geomhash":"744db171820d55e130cbef5023fd07a9",
+    "wof:geomhash":"bc250dd28287f7680c0dc1685682bbb7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554725651,
-    "wof:lastmodified":1480916203,
+    "wof:lastmodified":1611183263,
     "wof:name":"50158",
     "wof:parent_id":85943173,
     "wof:placetype":"postalcode",

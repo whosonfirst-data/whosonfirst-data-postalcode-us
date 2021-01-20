@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005576,
-    "geom:area_square_m":57202829.746201,
+    "geom:area_square_m":57202829.746169,
     "geom:bbox":"-84.015551,33.88527,-83.843184,33.982949",
     "geom:latitude":33.931254,
     "geom:longitude":-83.929987,
@@ -13,19 +13,24 @@
     "lbl:latitude":33.936518,
     "lbl:longitude":-83.927669,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lawrenceville",
+    "mz:postal_locality_alt":[
+        "Grayson"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688535,
-        102082967
+        102082967,
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770530"
     },
     "wof:country":"US",
-    "wof:geomhash":"28df49e8e9265406972c5fc33bd2ec2e",
+    "wof:geomhash":"51856e4a562adfce9e8307b54d92841c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +41,7 @@
         }
     ],
     "wof:id":554712717,
-    "wof:lastmodified":1480800869,
+    "wof:lastmodified":1611183736,
     "wof:name":"30045",
     "wof:parent_id":102082967,
     "wof:placetype":"postalcode",

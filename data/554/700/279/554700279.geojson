@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005739,
-    "geom:area_square_m":53789371.846044,
+    "geom:area_square_m":53789371.846063,
     "geom:bbox":"-74.722114,40.659208,-74.585094,40.77286",
     "geom:latitude":40.709426,
     "geom:longitude":-74.652609,
@@ -14,21 +14,27 @@
     "lbl:latitude":40.681427,
     "lbl:longitude":-74.616525,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Far Hills",
+    "mz:postal_locality_alt":[
+        "Gladstone",
+        "Peapack"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477921,
         85633793,
+        102085045,
+        404477921,
         85975517,
-        102085045
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760951"
     },
     "wof:country":"US",
-    "wof:geomhash":"dbf100abc9627675dc94ade172e81dbc",
+    "wof:geomhash":"d2c77a996ddaf7a2caf1c0150d50d122",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554700279,
-    "wof:lastmodified":1480806955,
+    "wof:lastmodified":1611183198,
     "wof:name":"07931",
     "wof:parent_id":85975517,
     "wof:placetype":"postalcode",

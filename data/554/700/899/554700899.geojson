@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0039,
-    "geom:area_square_m":36257503.309565,
+    "geom:area_square_m":36257503.309585,
     "geom:bbox":"-73.593284,41.198853,-73.482695,41.304754",
     "geom:latitude":41.253883,
     "geom:longitude":-73.537268,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.255269,
     "lbl:longitude":-73.539404,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"South Salem",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404523363,
         85633793,
-        102082373
+        102082373,
+        404523363,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761586"
     },
     "wof:country":"US",
-    "wof:geomhash":"b4909341c28a56ebfb3204c2904d4188",
+    "wof:geomhash":"06df56d5e4b11b8ffb8a99716ed0e5ec",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554700899,
-    "wof:lastmodified":1480799393,
+    "wof:lastmodified":1611183204,
     "wof:name":"10590",
     "wof:parent_id":404523363,
     "wof:placetype":"postalcode",

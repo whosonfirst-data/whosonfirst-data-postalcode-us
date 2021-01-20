@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005659,
-    "geom:area_square_m":54223224.942189,
+    "geom:area_square_m":54223224.942305,
     "geom:bbox":"-120.298028,39.147855,-120.165399,39.237097",
     "geom:latitude":39.19843,
     "geom:longitude":-120.238979,
@@ -14,19 +14,26 @@
     "lbl:latitude":39.198047,
     "lbl:longitude":-120.237787,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Alpine Meadows",
+    "mz:postal_locality_alt":[
+        "Olympic Valley",
+        "Tahoe City",
+        "Sunnyside-Tahoe City"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688637,
-        102080863
+        102080863,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12798239"
     },
     "wof:country":"US",
-    "wof:geomhash":"21e085861cc6d8331e38fd700ab8c0ff",
+    "wof:geomhash":"b5c9232c5089999b9a149f419a359caf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +44,7 @@
         }
     ],
     "wof:id":554754469,
-    "wof:lastmodified":1480906294,
+    "wof:lastmodified":1611182911,
     "wof:name":"96146",
     "wof:parent_id":102080863,
     "wof:placetype":"postalcode",

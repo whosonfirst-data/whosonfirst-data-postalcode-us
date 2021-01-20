@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002353,
-    "geom:area_square_m":20114337.209521,
+    "geom:area_square_m":20114337.209502,
     "geom:bbox":"-84.507882,46.224221,-84.436698,46.295356",
     "geom:latitude":46.263964,
     "geom:longitude":-84.467406,
@@ -14,20 +14,25 @@
     "lbl:latitude":46.265348,
     "lbl:longitude":-84.465049,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Kincheloe",
+    "mz:postal_locality_alt":[
+        "Kinross"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404507191,
         85633793,
-        102083033
+        102083033,
+        404507191,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779557"
     },
     "wof:country":"US",
-    "wof:geomhash":"3f2d506369d384e417aadfa102dff99a",
+    "wof:geomhash":"5dc1489d1ddb647bab511de9b35e2a79",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554725313,
-    "wof:lastmodified":1480843137,
+    "wof:lastmodified":1611183269,
     "wof:name":"49788",
     "wof:parent_id":404507191,
     "wof:placetype":"postalcode",

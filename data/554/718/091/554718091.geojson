@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013423,
-    "geom:area_square_m":140184223.412537,
+    "geom:area_square_m":140184223.412676,
     "geom:bbox":"-90.423319,32.280384,-90.265622,32.460253",
     "geom:latitude":32.370963,
     "geom:longitude":-90.349335,
@@ -13,20 +13,25 @@
     "lbl:latitude":32.373751,
     "lbl:longitude":-90.350864,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Clinton",
+    "mz:postal_locality_alt":[
+        "Brandon"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688579,
         102191575,
         85633793,
+        102081407,
         85969677,
-        102081407
+        85688579
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12774759"
     },
     "wof:country":"US",
-    "wof:geomhash":"aec8e8dc578254c395fd2f836bf13caf",
+    "wof:geomhash":"4c42a656a719387300699bae41bcd087",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554718091,
-    "wof:lastmodified":1480829245,
+    "wof:lastmodified":1611185552,
     "wof:name":"39056",
     "wof:parent_id":85969677,
     "wof:placetype":"postalcode",

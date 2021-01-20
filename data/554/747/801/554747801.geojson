@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00788,
-    "geom:area_square_m":82701721.929574,
+    "geom:area_square_m":82701721.929547,
     "geom:bbox":"-102.42105,31.864638,-102.287307,32.006805",
     "geom:latitude":31.92651,
     "geom:longitude":-102.354456,
@@ -13,20 +13,25 @@
     "lbl:latitude":31.925466,
     "lbl:longitude":-102.357932,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Odessa",
+    "mz:postal_locality_alt":[
+        "Fort Davis"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102086759,
         101723959,
-        102086759
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12792750"
     },
     "wof:country":"US",
-    "wof:geomhash":"659145884536423b425364522033627d",
+    "wof:geomhash":"5d30aeebc3888c64b43eae6e07db942f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554747801,
-    "wof:lastmodified":1480911770,
+    "wof:lastmodified":1611183481,
     "wof:name":"79762",
     "wof:parent_id":101723959,
     "wof:placetype":"postalcode",

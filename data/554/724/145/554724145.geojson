@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003588,
-    "geom:area_square_m":32637778.117325,
+    "geom:area_square_m":32637778.117314,
     "geom:bbox":"-83.093706,42.616416,-83.010499,42.67361",
     "geom:latitude":42.64678,
     "geom:longitude":-83.053189,
@@ -13,20 +13,26 @@
     "lbl:latitude":42.644844,
     "lbl:longitude":-83.051975,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Utica",
+    "mz:postal_locality_alt":[
+        "Shelby Twp",
+        "Shelby Township"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404507481,
         85633793,
-        102083047
+        102083047,
+        404507481,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778751"
     },
     "wof:country":"US",
-    "wof:geomhash":"52e86948944599b8aa2f537a21acf718",
+    "wof:geomhash":"88e1512338caa199a1a9c875fe6becfe",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554724145,
-    "wof:lastmodified":1480838365,
+    "wof:lastmodified":1611183754,
     "wof:name":"48317",
     "wof:parent_id":404507481,
     "wof:placetype":"postalcode",

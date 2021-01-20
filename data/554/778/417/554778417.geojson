@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013874,
-    "geom:area_square_m":128829224.804103,
+    "geom:area_square_m":128829224.804105,
     "geom:bbox":"-70.855047,41.230015,-70.65095,41.414631",
     "geom:latitude":41.329426,
     "geom:longitude":-70.762689,
@@ -14,20 +14,26 @@
     "lbl:latitude":41.337961,
     "lbl:longitude":-70.761674,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Chilmark",
+    "mz:postal_locality_alt":[
+        "Aquinnah",
+        "Edgartown"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476151,
         85633793,
-        102084629
+        102084629,
+        404476151,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758873"
     },
     "wof:country":"US",
-    "wof:geomhash":"05c0aa8e79f5c5e85f64e1afd1338b1e",
+    "wof:geomhash":"d4426455555dd3189ed6d17e20afe1a7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554778417,
-    "wof:lastmodified":1480798639,
+    "wof:lastmodified":1611183439,
     "wof:name":"02535",
     "wof:parent_id":404476151,
     "wof:placetype":"postalcode",

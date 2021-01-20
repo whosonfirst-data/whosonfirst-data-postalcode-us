@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004654,
-    "geom:area_square_m":40162510.941444,
+    "geom:area_square_m":40162510.941462,
     "geom:bbox":"-87.57366,45.678574,-87.453605,45.781841",
     "geom:latitude":45.739195,
     "geom:longitude":-87.527023,
@@ -14,20 +14,22 @@
     "lbl:latitude":45.739188,
     "lbl:longitude":-87.527012,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Spalding",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404508823,
         85633793,
-        102083089
+        102083089,
+        404508823,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779627"
     },
     "wof:country":"US",
-    "wof:geomhash":"a0e1241ecffe597c162e004a5cd03265",
+    "wof:geomhash":"b92f2ddc8efd578c9a8126e6c3180a4e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554725381,
-    "wof:lastmodified":1480837961,
+    "wof:lastmodified":1611183290,
     "wof:name":"49886",
     "wof:parent_id":404508823,
     "wof:placetype":"postalcode",

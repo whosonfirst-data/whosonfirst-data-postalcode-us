@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.047042,
-    "geom:area_square_m":405029670.267282,
+    "geom:area_square_m":405029670.267223,
     "geom:bbox":"-98.332036,45.762569,-97.978632,45.93624",
     "geom:latitude":45.868281,
     "geom:longitude":-98.146145,
@@ -14,20 +14,22 @@
     "lbl:latitude":45.870828,
     "lbl:longitude":-98.15267,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hecla",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688693,
         102191575,
-        404489519,
         85633793,
-        102086843
+        102086843,
+        404489519,
+        85688693
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782931"
     },
     "wof:country":"US",
-    "wof:geomhash":"5957f184b90c1972943160cf9c3297b2",
+    "wof:geomhash":"3ce6e9e285dc120a8d922a4ecc3fb528",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554731241,
-    "wof:lastmodified":1480915738,
+    "wof:lastmodified":1611183078,
     "wof:name":"57446",
     "wof:parent_id":404489519,
     "wof:placetype":"postalcode",

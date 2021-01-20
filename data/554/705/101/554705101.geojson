@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007591,
-    "geom:area_square_m":71996850.256901,
+    "geom:area_square_m":71996850.256931,
     "geom:bbox":"-77.874315,39.864554,-77.745084,39.961354",
     "geom:latitude":39.913413,
     "geom:longitude":-77.818439,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.912329,
     "lbl:longitude":-77.82691,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"St Thomas",
+    "mz:postal_locality_alt":[
+        "Saint Thomas"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485417,
         85633793,
-        102081365
+        102081365,
+        404485417,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764698"
     },
     "wof:country":"US",
-    "wof:geomhash":"7f2adc5a0c145f7d40ee86cc93e5ac26",
+    "wof:geomhash":"2f5ef8e1e6f11fc0e68a406d4c617f0d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554705101,
-    "wof:lastmodified":1480824804,
+    "wof:lastmodified":1611184115,
     "wof:name":"17252",
     "wof:parent_id":404485417,
     "wof:placetype":"postalcode",

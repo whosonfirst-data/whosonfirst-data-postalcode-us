@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019984,
-    "geom:area_square_m":221992202.289856,
+    "geom:area_square_m":221992202.289814,
     "geom:bbox":"-97.439301,25.978072,-97.161099,26.144384",
     "geom:latitude":26.053949,
     "geom:longitude":-97.312453,
@@ -14,20 +14,25 @@
     "lbl:latitude":26.051625,
     "lbl:longitude":-97.312767,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Port Isabel",
+    "mz:postal_locality_alt":[
+        "Laguna Vista"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102086761,
         101724157,
-        102086761
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12792188"
     },
     "wof:country":"US",
-    "wof:geomhash":"f67a432a7b5d2139d6c0818a827e3743",
+    "wof:geomhash":"8283de2a713890f03af6bffacd6362b1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554783797,
-    "wof:lastmodified":1480916911,
+    "wof:lastmodified":1611183871,
     "wof:name":"78578",
     "wof:parent_id":101724157,
     "wof:placetype":"postalcode",

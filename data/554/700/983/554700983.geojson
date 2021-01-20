@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006413,
-    "geom:area_square_m":59502915.51793,
+    "geom:area_square_m":59502915.518002,
     "geom:bbox":"-74.493755,41.313556,-74.365719,41.430873",
     "geom:latitude":41.373408,
     "geom:longitude":-74.430418,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.371913,
     "lbl:longitude":-74.432479,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"New Hampton",
+    "mz:postal_locality_alt":[
+        "Middletown"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522925,
         85633793,
-        102083061
+        102083061,
+        404522925,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761653"
     },
     "wof:country":"US",
-    "wof:geomhash":"959850f1ff563976d8b250698f0949f9",
+    "wof:geomhash":"9ab0b3534d011cc4b3066cdd42bc321c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554700983,
-    "wof:lastmodified":1480834097,
+    "wof:lastmodified":1611183188,
     "wof:name":"10958",
     "wof:parent_id":404522925,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003002,
-    "geom:area_square_m":33354692.226067,
+    "geom:area_square_m":33354692.226048,
     "geom:bbox":"-97.572247,25.996334,-97.478683,26.05893",
     "geom:latitude":26.024782,
     "geom:longitude":-97.527712,
@@ -14,20 +14,25 @@
     "lbl:latitude":26.02176,
     "lbl:longitude":-97.526109,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Olmito",
+    "mz:postal_locality_alt":[
+        "Rancho Viejo"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102086761,
         101724157,
-        102086761
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12792185"
     },
     "wof:country":"US",
-    "wof:geomhash":"4812ff9c95b2eb2c09bae6008729da78",
+    "wof:geomhash":"31c2b26d83616ab6c03b0d602c35ae2c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554783793,
-    "wof:lastmodified":1480916911,
+    "wof:lastmodified":1611183891,
     "wof:name":"78575",
     "wof:parent_id":101724157,
     "wof:placetype":"postalcode",

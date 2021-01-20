@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019865,
-    "geom:area_square_m":175911048.448752,
+    "geom:area_square_m":175911048.448764,
     "geom:bbox":"-69.373755,44.1729,-69.185355,44.364653",
     "geom:latitude":44.261933,
     "geom:longitude":-69.277138,
@@ -14,20 +14,26 @@
     "lbl:latitude":44.262707,
     "lbl:longitude":-69.277723,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Union",
+    "mz:postal_locality_alt":[
+        "Appleton",
+        "Lincolnville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404475695,
         85633793,
-        102087453
+        102087453,
+        404475695,
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759784"
     },
     "wof:country":"US",
-    "wof:geomhash":"66bda0e3194185831c388dc29d0c5549",
+    "wof:geomhash":"a443eae6a58e1f7990acb3b4934069bf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554698599,
-    "wof:lastmodified":1480787196,
+    "wof:lastmodified":1611184692,
     "wof:name":"04862",
     "wof:parent_id":404475695,
     "wof:placetype":"postalcode",

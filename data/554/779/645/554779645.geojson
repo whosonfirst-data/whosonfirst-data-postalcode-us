@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000737,
-    "geom:area_square_m":6901928.481782,
+    "geom:area_square_m":6901928.481778,
     "geom:bbox":"-73.872219,40.734271,-73.832181,40.765428",
     "geom:latitude":40.749625,
     "geom:longitude":-73.85258,
@@ -14,21 +14,28 @@
     "lbl:latitude":40.749737,
     "lbl:longitude":-73.853045,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Corona",
+    "mz:postal_locality_alt":[
+        "Flushing",
+        "Queens",
+        "New York"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404521211,
         85633793,
+        102082361,
+        404521211,
         85977539,
-        102082361
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761785"
     },
     "wof:country":"US",
-    "wof:geomhash":"84b89d407f1283a6e9256a647df460bf",
+    "wof:geomhash":"b7c9474082ba859afc1eea1fbf6f429a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +48,7 @@
         }
     ],
     "wof:id":554779645,
-    "wof:lastmodified":1480790266,
+    "wof:lastmodified":1611183967,
     "wof:name":"11368",
     "wof:parent_id":85977539,
     "wof:placetype":"postalcode",

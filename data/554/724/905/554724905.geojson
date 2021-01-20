@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010027,
-    "geom:area_square_m":91954579.633646,
+    "geom:area_square_m":91954579.633626,
     "geom:bbox":"-84.595056,42.048457,-84.431703,42.184774",
     "geom:latitude":42.126263,
     "geom:longitude":-84.508827,
@@ -14,20 +14,22 @@
     "lbl:latitude":42.12779,
     "lbl:longitude":-84.512436,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Horton",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404507775,
         85633793,
-        102083081
+        102083081,
+        404507775,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779247"
     },
     "wof:country":"US",
-    "wof:geomhash":"d8851d6b344a4c6e2201707c06702355",
+    "wof:geomhash":"dea187c5568814e53fec0f2b9fabe840",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554724905,
-    "wof:lastmodified":1480836100,
+    "wof:lastmodified":1611183761,
     "wof:name":"49246",
     "wof:parent_id":404507775,
     "wof:placetype":"postalcode",

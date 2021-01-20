@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003273,
-    "geom:area_square_m":28519870.545183,
+    "geom:area_square_m":28519870.545169,
     "geom:bbox":"-93.367438,45.128129,-93.264606,45.21291",
     "geom:latitude":45.19073,
     "geom:longitude":-93.302065,
@@ -13,21 +13,26 @@
     "lbl:latitude":45.193603,
     "lbl:longitude":-93.300445,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Minneapolis",
+    "mz:postal_locality_alt":[
+        "Coon Rapids"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404511281,
         85633793,
+        102087861,
+        404511281,
         85953401,
-        102087861
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781929"
     },
     "wof:country":"US",
-    "wof:geomhash":"df397e8b5452e5e15cd922bf5c483dd6",
+    "wof:geomhash":"f576bdf937baa1aeafad6e082e685456",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554729407,
-    "wof:lastmodified":1480785926,
+    "wof:lastmodified":1611185418,
     "wof:name":"55448",
     "wof:parent_id":85953401,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016926,
-    "geom:area_square_m":150584425.107283,
+    "geom:area_square_m":150584425.107352,
     "geom:bbox":"-92.81907,43.90633,-92.647865,44.058447",
     "geom:latitude":43.987659,
     "geom:longitude":-92.737855,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.989517,
     "lbl:longitude":-92.718008,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Kasson",
+    "mz:postal_locality_alt":[
+        "Mantorville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404513725,
         85633793,
-        102087097
+        102087097,
+        404513725,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782133"
     },
     "wof:country":"US",
-    "wof:geomhash":"7c381a784e2f66fff74d3465330a9b9a",
+    "wof:geomhash":"9d0345557f23d4071958f24bbe3535a0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554729633,
-    "wof:lastmodified":1480788374,
+    "wof:lastmodified":1611185415,
     "wof:name":"55944",
     "wof:parent_id":404513725,
     "wof:placetype":"postalcode",

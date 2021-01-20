@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00092,
-    "geom:area_square_m":9038562.606165,
+    "geom:area_square_m":9038562.606172,
     "geom:bbox":"-122.050173,37.37645,-121.986947,37.40293",
     "geom:latitude":37.388556,
     "geom:longitude":-122.017734,
@@ -13,20 +13,25 @@
     "lbl:latitude":37.388556,
     "lbl:longitude":-122.017732,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Sunnyvale",
+    "mz:postal_locality_alt":[
+        "Sunnyvale "
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102081673,
         85922333,
-        102081673
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"23424679"
     },
     "wof:country":"US",
-    "wof:geomhash":"70949ea4d56bc99316cc2e9dc7840c1e",
+    "wof:geomhash":"5f53353f37fae19a9d12d61fad227309",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554785417,
-    "wof:lastmodified":1480829310,
+    "wof:lastmodified":1611183507,
     "wof:name":"94085",
     "wof:parent_id":85922333,
     "wof:placetype":"postalcode",

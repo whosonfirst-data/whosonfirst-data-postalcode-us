@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032662,
-    "geom:area_square_m":312657837.208757,
+    "geom:area_square_m":312657837.208787,
     "geom:bbox":"-74.926296,39.16204,-74.640088,39.418573",
     "geom:latitude":39.271565,
     "geom:longitude":-74.796756,
@@ -14,20 +14,27 @@
     "lbl:latitude":39.271779,
     "lbl:longitude":-74.785972,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Woodbine",
+    "mz:postal_locality_alt":[
+        "Tuckahoe",
+        "Corbin City",
+        "Dennisville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478067,
         85633793,
-        102086777
+        102086777,
+        404478067,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761113"
     },
     "wof:country":"US",
-    "wof:geomhash":"50e2e139beda038fae5651f63e0bcf02",
+    "wof:geomhash":"4dd12313c3e1ddb8a9ed5700b79a0f84",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554700511,
-    "wof:lastmodified":1480913298,
+    "wof:lastmodified":1611183191,
     "wof:name":"08270",
     "wof:parent_id":404478067,
     "wof:placetype":"postalcode",

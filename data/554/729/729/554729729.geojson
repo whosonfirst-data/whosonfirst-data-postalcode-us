@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024313,
-    "geom:area_square_m":216656969.551548,
+    "geom:area_square_m":216656969.551493,
     "geom:bbox":"-94.349159,43.847779,-94.008254,43.957279",
     "geom:latitude":43.891156,
     "geom:longitude":-94.178084,
@@ -14,20 +14,22 @@
     "lbl:latitude":43.886164,
     "lbl:longitude":-94.179805,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Amboy",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404511565,
         85633793,
-        102087625
+        102087625,
+        404511565,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782180"
     },
     "wof:country":"US",
-    "wof:geomhash":"3eebeddb97ef54158833340abbaf2724",
+    "wof:geomhash":"67fe920c55c4677e9d0fc1a45ec79500",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554729729,
-    "wof:lastmodified":1480784871,
+    "wof:lastmodified":1611185445,
     "wof:name":"56010",
     "wof:parent_id":404511565,
     "wof:placetype":"postalcode",

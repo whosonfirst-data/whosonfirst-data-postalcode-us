@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008995,
-    "geom:area_square_m":84755585.915503,
+    "geom:area_square_m":84755585.915591,
     "geom:bbox":"-77.952252,40.294369,-77.76172,40.406888",
     "geom:latitude":40.356002,
     "geom:longitude":-77.861896,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.352563,
     "lbl:longitude":-77.869227,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mt Union",
+    "mz:postal_locality_alt":[
+        "Mount Union"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404486043,
         85633793,
-        102080901
+        102080901,
+        404486043,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764609"
     },
     "wof:country":"US",
-    "wof:geomhash":"41bb567a8371f603bef82b7907a49e93",
+    "wof:geomhash":"64c64c922ebac14bd72907b908ea5eea",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554704977,
-    "wof:lastmodified":1480904863,
+    "wof:lastmodified":1611184499,
     "wof:name":"17066",
     "wof:parent_id":404486043,
     "wof:placetype":"postalcode",

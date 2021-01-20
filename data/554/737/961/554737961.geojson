@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007088,
-    "geom:area_square_m":68302676.099936,
+    "geom:area_square_m":68302676.099913,
     "geom:bbox":"-94.705216,38.752623,-94.607625,38.842719",
     "geom:latitude":38.799484,
     "geom:longitude":-94.649533,
@@ -14,20 +14,22 @@
     "lbl:latitude":38.798768,
     "lbl:longitude":-94.656684,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Stilwell",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404504283,
         85633793,
-        102082673
+        102082673,
+        404504283,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786762"
     },
     "wof:country":"US",
-    "wof:geomhash":"45433b57a01036dd0a8644d6c9626fdb",
+    "wof:geomhash":"7210b5a1fea8c199a901f945c0ace51f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554737961,
-    "wof:lastmodified":1480905400,
+    "wof:lastmodified":1611182846,
     "wof:name":"66085",
     "wof:parent_id":404504283,
     "wof:placetype":"postalcode",

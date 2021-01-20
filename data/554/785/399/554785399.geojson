@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020405,
-    "geom:area_square_m":213180045.377807,
+    "geom:area_square_m":213180045.377675,
     "geom:bbox":"-81.006432,32.242193,-80.698045,32.463935",
     "geom:latitude":32.338536,
     "geom:longitude":-80.845818,
@@ -14,19 +14,25 @@
     "lbl:latitude":32.336832,
     "lbl:longitude":-80.847794,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bluffton",
+    "mz:postal_locality_alt":[
+        "Okatie",
+        "Ridgeland"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688683,
-        102085471
+        102085471,
+        85688683
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"23424589"
     },
     "wof:country":"US",
-    "wof:geomhash":"de8c2bee1df8a8f197e4841abb18896c",
+    "wof:geomhash":"b207d9670f1d4b61fcd07f03472b2d3d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554785399,
-    "wof:lastmodified":1480814020,
+    "wof:lastmodified":1611183490,
     "wof:name":"29909",
     "wof:parent_id":102085471,
     "wof:placetype":"postalcode",

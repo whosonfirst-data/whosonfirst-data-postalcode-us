@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029637,
-    "geom:area_square_m":258162814.052479,
+    "geom:area_square_m":258162814.052535,
     "geom:bbox":"-84.978467,45.093451,-84.732687,45.319884",
     "geom:latitude":45.214375,
     "geom:longitude":-84.852564,
@@ -14,20 +14,25 @@
     "lbl:latitude":45.210934,
     "lbl:longitude":-84.842294,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Boyne Falls",
+    "mz:postal_locality_alt":[
+        "Walloon Lake"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404507121,
         85633793,
-        102083739
+        102083739,
+        404507121,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779498"
     },
     "wof:country":"US",
-    "wof:geomhash":"dffc25ca81d6ab11c74fc6d6e5a33ee7",
+    "wof:geomhash":"70a2d4bb141a32e1b41bc4ea1c14f99a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554725247,
-    "wof:lastmodified":1480841990,
+    "wof:lastmodified":1611183278,
     "wof:name":"49713",
     "wof:parent_id":404507121,
     "wof:placetype":"postalcode",

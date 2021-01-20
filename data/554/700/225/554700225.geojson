@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001011,
-    "geom:area_square_m":9452848.754733,
+    "geom:area_square_m":9452848.754722,
     "geom:bbox":"-74.695668,40.891605,-74.637782,40.923298",
     "geom:latitude":40.905967,
     "geom:longitude":-74.6638,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.906858,
     "lbl:longitude":-74.662035,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Landing",
+    "mz:postal_locality_alt":[
+        "Hopatcong"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477677,
         85633793,
-        102087413
+        102087413,
+        404477677,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760916"
     },
     "wof:country":"US",
-    "wof:geomhash":"5b2b039cb8637f08af80f99960ee55b5",
+    "wof:geomhash":"1fe4502fbcc6754878437e5c69a4970a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554700225,
-    "wof:lastmodified":1480914754,
+    "wof:lastmodified":1611183200,
     "wof:name":"07850",
     "wof:parent_id":404477677,
     "wof:placetype":"postalcode",

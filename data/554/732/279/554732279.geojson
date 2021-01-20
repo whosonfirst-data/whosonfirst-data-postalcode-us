@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030241,
-    "geom:area_square_m":249360093.921198,
+    "geom:area_square_m":249360093.921413,
     "geom:bbox":"-101.663396,48.051904,-101.490343,48.312849",
     "geom:latitude":48.174794,
     "geom:longitude":-101.587006,
@@ -14,20 +14,22 @@
     "lbl:latitude":48.175009,
     "lbl:longitude":-101.587881,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Des Lacs",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688525,
         102191575,
-        404481919,
         85633793,
-        102082117
+        102082117,
+        404481919,
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12783461"
     },
     "wof:country":"US",
-    "wof:geomhash":"90c99948543a2704b349df22fbe43b3d",
+    "wof:geomhash":"145e34eae77c7ecdfa1f40bf1e021ebc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554732279,
-    "wof:lastmodified":1480793445,
+    "wof:lastmodified":1611184393,
     "wof:name":"58733",
     "wof:parent_id":404481919,
     "wof:placetype":"postalcode",

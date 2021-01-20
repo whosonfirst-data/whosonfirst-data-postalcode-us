@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009776,
-    "geom:area_square_m":99751962.318406,
+    "geom:area_square_m":99751962.318482,
     "geom:bbox":"-117.468539,34.322771,-117.345036,34.451893",
     "geom:latitude":34.391151,
     "geom:longitude":-117.405723,
@@ -13,20 +13,25 @@
     "lbl:latitude":34.391145,
     "lbl:longitude":-117.405722,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hesperia",
+    "mz:postal_locality_alt":[
+        "Oak Hills"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102085395,
         85923911,
-        102085395
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26814881"
     },
     "wof:country":"US",
-    "wof:geomhash":"1aa3f252291b06a78a81d6e2b5959d8c",
+    "wof:geomhash":"d6ba8e07ea91649be22ad979084d6d5a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554756869,
-    "wof:lastmodified":1480814339,
+    "wof:lastmodified":1611184282,
     "wof:name":"92344",
     "wof:parent_id":85923911,
     "wof:placetype":"postalcode",

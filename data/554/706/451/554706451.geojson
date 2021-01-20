@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002164,
-    "geom:area_square_m":20475344.833018,
+    "geom:area_square_m":20475344.83298,
     "geom:bbox":"-75.341984,40.054094,-75.247233,40.1063",
     "geom:latitude":40.080406,
     "geom:longitude":-75.300838,
@@ -13,21 +13,27 @@
     "lbl:latitude":40.080337,
     "lbl:longitude":-75.300461,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Conshohocken",
+    "mz:postal_locality_alt":[
+        "W Conshohocken",
+        "Plymouth Meeting"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485451,
         85633793,
+        102081355,
+        404485451,
         101717373,
-        102081355
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765634"
     },
     "wof:country":"US",
-    "wof:geomhash":"67e2c517b012ec00bb7bc49bded89bf1",
+    "wof:geomhash":"8bbe008867e1715db00c555977464874",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +46,7 @@
         }
     ],
     "wof:id":554706451,
-    "wof:lastmodified":1480818594,
+    "wof:lastmodified":1611182710,
     "wof:name":"19428",
     "wof:parent_id":101717373,
     "wof:placetype":"postalcode",

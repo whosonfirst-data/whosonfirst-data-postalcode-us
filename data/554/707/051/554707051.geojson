@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003821,
-    "geom:area_square_m":36670782.411369,
+    "geom:area_square_m":36670782.411375,
     "geom:bbox":"-77.252253,39.058376,-77.122726,39.120786",
     "geom:latitude":39.091295,
     "geom:longitude":-77.180945,
@@ -13,19 +13,24 @@
     "lbl:latitude":39.091354,
     "lbl:longitude":-77.18228,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Rockville",
+    "mz:postal_locality_alt":[
+        "Gaithersburg"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688501,
-        102082719
+        102082719,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766350"
     },
     "wof:country":"US",
-    "wof:geomhash":"7ee49c58c138fd352d0853163c1d47b6",
+    "wof:geomhash":"e9cf982184048d09f7e4083f01dfb55b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +41,7 @@
         }
     ],
     "wof:id":554707051,
-    "wof:lastmodified":1480795128,
+    "wof:lastmodified":1611183167,
     "wof:name":"20850",
     "wof:parent_id":102082719,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000087,
-    "geom:area_square_m":904309.014904,
+    "geom:area_square_m":904309.014906,
     "geom:bbox":"-86.357262,32.373676,-86.342813,32.388319",
     "geom:latitude":32.380829,
     "geom:longitude":-86.349143,
@@ -13,20 +13,25 @@
     "lbl:latitude":32.380829,
     "lbl:longitude":-86.349143,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Montgomery",
+    "mz:postal_locality_alt":[
+        "Maxwell Afb"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688675,
         102191575,
         85633793,
+        102085733,
         85913947,
-        102085733
+        85688675
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12773396"
     },
     "wof:country":"US",
-    "wof:geomhash":"dbb30305e133682edb4c6aee3bd8ea2a",
+    "wof:geomhash":"1b9d4ba26395d0ec15949c187e0ff49a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554715917,
-    "wof:lastmodified":1480809536,
+    "wof:lastmodified":1611183687,
     "wof:name":"36112",
     "wof:parent_id":85913947,
     "wof:placetype":"postalcode",

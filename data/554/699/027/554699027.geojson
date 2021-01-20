@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008803,
-    "geom:area_square_m":77762300.052969,
+    "geom:area_square_m":77762300.053,
     "geom:bbox":"-72.357694,44.359582,-72.217104,44.462572",
     "geom:latitude":44.408007,
     "geom:longitude":-72.288284,
@@ -14,20 +14,22 @@
     "lbl:latitude":44.409482,
     "lbl:longitude":-72.259129,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cabot",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688763,
         102191575,
-        404527071,
         85633793,
-        102080779
+        102080779,
+        404527071,
+        85688763
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760036"
     },
     "wof:country":"US",
-    "wof:geomhash":"62b489897a1b0eba1aaf6dbda6830be1",
+    "wof:geomhash":"8ee173b9020a8c1093c8b002d7bb6394",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554699027,
-    "wof:lastmodified":1480906207,
+    "wof:lastmodified":1611184623,
     "wof:name":"05647",
     "wof:parent_id":404527071,
     "wof:placetype":"postalcode",

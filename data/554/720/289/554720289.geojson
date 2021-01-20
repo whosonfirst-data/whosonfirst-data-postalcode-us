@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020302,
-    "geom:area_square_m":191973963.171225,
+    "geom:area_square_m":191973963.17125,
     "geom:bbox":"-84.034075,40.034058,-83.859756,40.202735",
     "geom:latitude":40.116348,
     "geom:longitude":-83.95624,
@@ -14,21 +14,26 @@
     "lbl:latitude":40.119674,
     "lbl:longitude":-83.956704,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Saint Paris",
+    "mz:postal_locality_alt":[
+        "St Paris"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404524983,
         85633793,
+        102084709,
+        404524983,
         101711949,
-        102084709
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776131"
     },
     "wof:country":"US",
-    "wof:geomhash":"988905a5208e6b043008a805f430db9d",
+    "wof:geomhash":"73a65bbed82708ec0b7a7d50fbc03258",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554720289,
-    "wof:lastmodified":1480839086,
+    "wof:lastmodified":1611185454,
     "wof:name":"43072",
     "wof:parent_id":101711949,
     "wof:placetype":"postalcode",

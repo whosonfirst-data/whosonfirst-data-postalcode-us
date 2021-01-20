@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002587,
-    "geom:area_square_m":24247272.525417,
+    "geom:area_square_m":24247272.525424,
     "geom:bbox":"-73.2046,40.690995,-73.127237,40.748811",
     "geom:latitude":40.717479,
     "geom:longitude":-73.173988,
@@ -13,21 +13,26 @@
     "lbl:latitude":40.717436,
     "lbl:longitude":-73.17022,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"East Islip",
+    "mz:postal_locality_alt":[
+        "Great River"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522517,
         85633793,
+        102082395,
+        404522517,
         85979697,
-        102082395
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761920"
     },
     "wof:country":"US",
-    "wof:geomhash":"1cf9e7ad188269f808ed976b5c6f3266",
+    "wof:geomhash":"80eeed2127f54683d609a73a72f6ff7d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554779869,
-    "wof:lastmodified":1480794864,
+    "wof:lastmodified":1611183971,
     "wof:name":"11730",
     "wof:parent_id":85979697,
     "wof:placetype":"postalcode",

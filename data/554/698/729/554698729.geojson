@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012696,
-    "geom:area_square_m":113551048.49331,
+    "geom:area_square_m":113551048.493273,
     "geom:bbox":"-72.470175,43.594403,-72.302355,43.74507",
     "geom:latitude":43.672235,
     "geom:longitude":-72.381311,
@@ -13,20 +13,28 @@
     "lbl:latitude":43.672188,
     "lbl:longitude":-72.380193,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"White River Jct",
+    "mz:postal_locality_alt":[
+        "White River Junction",
+        "Hartford",
+        "Wilder",
+        "West Hartford"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688763,
         102191575,
-        404527361,
         85633793,
-        102080777
+        102080777,
+        404527361,
+        85688763
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759858"
     },
     "wof:country":"US",
-    "wof:geomhash":"07b4d1dd75ada8381e9b085582988bb2",
+    "wof:geomhash":"e4c024ca204fb0cf90ace38cd96f853a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +46,7 @@
         }
     ],
     "wof:id":554698729,
-    "wof:lastmodified":1480916384,
+    "wof:lastmodified":1611184705,
     "wof:name":"05001",
     "wof:parent_id":404527361,
     "wof:placetype":"postalcode",

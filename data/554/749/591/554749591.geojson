@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00254,
-    "geom:area_square_m":22738029.460081,
+    "geom:area_square_m":22738029.460046,
     "geom:bbox":"-116.314992,43.603623,-116.253119,43.660011",
     "geom:latitude":43.627728,
     "geom:longitude":-116.287221,
@@ -14,20 +14,22 @@
     "lbl:latitude":43.627161,
     "lbl:longitude":-116.287653,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Boise",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688657,
         102191575,
         85633793,
+        102086087,
         85937923,
-        102086087
+        85688657
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12793938"
     },
     "wof:country":"US",
-    "wof:geomhash":"2df69c049e59f06017c48d044d293574",
+    "wof:geomhash":"79f4f0d0debd49727bce770543878bd2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554749591,
-    "wof:lastmodified":1480908822,
+    "wof:lastmodified":1611183572,
     "wof:name":"83704",
     "wof:parent_id":85937923,
     "wof:placetype":"postalcode",

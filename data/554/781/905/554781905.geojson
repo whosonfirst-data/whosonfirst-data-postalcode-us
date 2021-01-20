@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000891,
-    "geom:area_square_m":9746373.591235,
+    "geom:area_square_m":9746373.59123,
     "geom:bbox":"-82.700074,27.806415,-82.654958,27.82848",
     "geom:latitude":27.817037,
     "geom:longitude":-82.677573,
@@ -13,20 +13,26 @@
     "lbl:latitude":27.815246,
     "lbl:longitude":-82.677708,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"St Petersburg",
+    "mz:postal_locality_alt":[
+        "Saint Petersburg",
+        "Pinellas Park"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688651,
         102191575,
         85633793,
+        102085759,
         85933929,
-        102085759
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12772477"
     },
     "wof:country":"US",
-    "wof:geomhash":"b6fb1deb0ebef8f6d60b747acf37a548",
+    "wof:geomhash":"c5765fa46da0934d166e0fd38c6fbe73",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554781905,
-    "wof:lastmodified":1480807073,
+    "wof:lastmodified":1611184827,
     "wof:name":"33714",
     "wof:parent_id":85933929,
     "wof:placetype":"postalcode",

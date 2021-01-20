@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032174,
-    "geom:area_square_m":302552970.520254,
+    "geom:area_square_m":302552970.520237,
     "geom:bbox":"-77.029341,40.380892,-76.562649,40.580677",
     "geom:latitude":40.493143,
     "geom:longitude":-76.820641,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.491831,
     "lbl:longitude":-76.832555,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Halifax",
+    "mz:postal_locality_alt":[
+        "Myerstown"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404486177,
         85633793,
-        102081347
+        102081347,
+        404486177,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764576"
     },
     "wof:country":"US",
-    "wof:geomhash":"cee7e97a3d0f68f861ad4d3a19eddab8",
+    "wof:geomhash":"305dc19c7fa621e74af2f2a2d7994e11",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554704915,
-    "wof:lastmodified":1480904074,
+    "wof:lastmodified":1611184500,
     "wof:name":"17032",
     "wof:parent_id":404486177,
     "wof:placetype":"postalcode",

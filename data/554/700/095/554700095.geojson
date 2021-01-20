@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000913,
-    "geom:area_square_m":8524896.833368,
+    "geom:area_square_m":8524896.833365,
     "geom:bbox":"-74.001844,40.957477,-73.934346,40.984341",
     "geom:latitude":40.97331,
     "geom:longitude":-73.960551,
@@ -14,21 +14,26 @@
     "lbl:latitude":40.97289,
     "lbl:longitude":-73.960315,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Closter",
+    "mz:postal_locality_alt":[
+        "Hillsdale"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477651,
         85633793,
+        102086773,
+        404477651,
         85975917,
-        102086773
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760806"
     },
     "wof:country":"US",
-    "wof:geomhash":"2ac418064211ae174bcff5be84182523",
+    "wof:geomhash":"c39493b85be5912850650412c3c013bc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554700095,
-    "wof:lastmodified":1480908560,
+    "wof:lastmodified":1611183202,
     "wof:name":"07624",
     "wof:parent_id":85975917,
     "wof:placetype":"postalcode",

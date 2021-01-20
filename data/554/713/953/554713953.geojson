@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038203,
-    "geom:area_square_m":402729728.731601,
+    "geom:area_square_m":402729728.732319,
     "geom:bbox":"-84.15609,31.373379,-83.89701,31.65817",
     "geom:latitude":31.509735,
     "geom:longitude":-84.044373,
@@ -13,19 +13,26 @@
     "lbl:latitude":31.51689,
     "lbl:longitude":-84.042942,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Albany",
+    "mz:postal_locality_alt":[
+        "Cuthbert",
+        "Sylvester",
+        "Doerun"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688535,
-        102084427
+        102084427,
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12771318"
     },
     "wof:country":"US",
-    "wof:geomhash":"62e79c4c4977045d8cb734266cbfb2ff",
+    "wof:geomhash":"b6e3446b6826cd6b48f28e7b24170014",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +43,7 @@
         }
     ],
     "wof:id":554713953,
-    "wof:lastmodified":1480799292,
+    "wof:lastmodified":1611183293,
     "wof:name":"31705",
     "wof:parent_id":102084427,
     "wof:placetype":"postalcode",

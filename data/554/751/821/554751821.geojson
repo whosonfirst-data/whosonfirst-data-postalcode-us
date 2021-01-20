@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001411,
-    "geom:area_square_m":14463051.170105,
+    "geom:area_square_m":14463051.170121,
     "geom:bbox":"-118.183649,33.970934,-118.121307,34.017399",
     "geom:latitude":33.993461,
     "geom:longitude":-118.149077,
@@ -13,20 +13,27 @@
     "lbl:latitude":33.994523,
     "lbl:longitude":-118.149952,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Los Angeles",
+    "mz:postal_locality_alt":[
+        "City Of Commerce",
+        "Commerce",
+        "City of Commerce"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086957,
         85923667,
-        102086957
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795648"
     },
     "wof:country":"US",
-    "wof:geomhash":"fae3a8c9f55c45e8276fcd4b3db86ad7",
+    "wof:geomhash":"55c2d871e57f9a3add064080a2c87a0b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +45,7 @@
         }
     ],
     "wof:id":554751821,
-    "wof:lastmodified":1480912615,
+    "wof:lastmodified":1611184331,
     "wof:name":"90040",
     "wof:parent_id":85923667,
     "wof:placetype":"postalcode",

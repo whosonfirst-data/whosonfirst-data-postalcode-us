@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002514,
-    "geom:area_square_m":27046259.204104,
+    "geom:area_square_m":27046259.204139,
     "geom:bbox":"-98.593091,29.500823,-98.527557,29.58088",
     "geom:latitude":29.546123,
     "geom:longitude":-98.555513,
@@ -13,20 +13,25 @@
     "lbl:latitude":29.546515,
     "lbl:longitude":-98.557207,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"San Antonio",
+    "mz:postal_locality_alt":[
+        "Shavano Park"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102082471,
         101724653,
-        102082471
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12791995"
     },
     "wof:country":"US",
-    "wof:geomhash":"a393629dd78e09b6bdc2c6679b36be9e",
+    "wof:geomhash":"920392ea80a2c6e2ed3e34755998cd12",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554746737,
-    "wof:lastmodified":1480790253,
+    "wof:lastmodified":1611183994,
     "wof:name":"78230",
     "wof:parent_id":101724653,
     "wof:placetype":"postalcode",

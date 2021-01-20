@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002222,
-    "geom:area_square_m":23111029.385298,
+    "geom:area_square_m":23111029.385281,
     "geom:bbox":"-97.11586,32.705917,-97.045691,32.743009",
     "geom:latitude":32.722819,
     "geom:longitude":-97.080285,
@@ -13,20 +13,25 @@
     "lbl:latitude":32.72282,
     "lbl:longitude":-97.080286,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Arlington",
+    "mz:postal_locality_alt":[
+        "Grapevine"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102083201,
         101723641,
-        102083201
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12790857"
     },
     "wof:country":"US",
-    "wof:geomhash":"7586e21ba216d142e67b61134263ac48",
+    "wof:geomhash":"bbf77fed455961fee33470d98521b28b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554744999,
-    "wof:lastmodified":1480840098,
+    "wof:lastmodified":1611184712,
     "wof:name":"76010",
     "wof:parent_id":101723641,
     "wof:placetype":"postalcode",

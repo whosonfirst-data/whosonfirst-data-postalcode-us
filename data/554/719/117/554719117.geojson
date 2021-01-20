@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.097769,
-    "geom:area_square_m":963641442.403743,
+    "geom:area_square_m":963641442.403651,
     "geom:bbox":"-83.969571,36.943122,-83.528031,37.338815",
     "geom:latitude":37.145869,
     "geom:longitude":-83.740628,
@@ -14,20 +14,22 @@
     "lbl:latitude":37.145887,
     "lbl:longitude":-83.745519,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Manchester",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688641,
         102191575,
         85633793,
+        102084503,
         85946817,
-        102084503
+        85688641
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12775447"
     },
     "wof:country":"US",
-    "wof:geomhash":"c3f2a172fd8409a117978d307ff321dd",
+    "wof:geomhash":"2c96fad816b1cce466c6cb2b49f3b216",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554719117,
-    "wof:lastmodified":1480806741,
+    "wof:lastmodified":1611184921,
     "wof:name":"40962",
     "wof:parent_id":85946817,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.111716,
-    "geom:area_square_m":1161271916.258564,
+    "geom:area_square_m":1161271916.259738,
     "geom:bbox":"-108.155559,32.604647,-107.608283,33.01701",
     "geom:latitude":32.790708,
     "geom:longitude":-107.914011,
@@ -14,20 +14,26 @@
     "lbl:latitude":32.789921,
     "lbl:longitude":-107.912182,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"San Lorenzo",
+    "mz:postal_locality_alt":[
+        "Mimbres",
+        "Hanover"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688493,
         102191575,
         85633793,
+        102081167,
         85976825,
-        102081167
+        85688493
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795186"
     },
     "wof:country":"US",
-    "wof:geomhash":"c1a03c03c71040474ac16be69473542d",
+    "wof:geomhash":"2b57a53787ef0f704ddfeedfa45c59c4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554751309,
-    "wof:lastmodified":1480831070,
+    "wof:lastmodified":1611184322,
     "wof:name":"88041",
     "wof:parent_id":85976825,
     "wof:placetype":"postalcode",

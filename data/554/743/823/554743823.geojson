@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.150774,
-    "geom:area_square_m":1527509281.652811,
+    "geom:area_square_m":1527509281.653079,
     "geom:bbox":"-96.089106,34.754144,-95.480928,35.221588",
     "geom:latitude":34.982376,
     "geom:longitude":-95.795494,
@@ -13,19 +13,26 @@
     "lbl:latitude":34.985768,
     "lbl:longitude":-95.790791,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mcalester",
+    "mz:postal_locality_alt":[
+        "Bache",
+        "Stringtown",
+        "Krebs"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688585,
-        102083909
+        102083909,
+        85688585
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12790117"
     },
     "wof:country":"US",
-    "wof:geomhash":"d5dcbed8393ada5e796e0f4d33681060",
+    "wof:geomhash":"1e28ecb9173bdac445540322f1801d02",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +43,7 @@
         }
     ],
     "wof:id":554743823,
-    "wof:lastmodified":1480840748,
+    "wof:lastmodified":1611184789,
     "wof:name":"74501",
     "wof:parent_id":102083909,
     "wof:placetype":"postalcode",

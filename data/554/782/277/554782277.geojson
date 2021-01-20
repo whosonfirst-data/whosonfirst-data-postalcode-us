@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004272,
-    "geom:area_square_m":45474052.061873,
+    "geom:area_square_m":45474052.061897,
     "geom:bbox":"-88.258642,30.554657,-88.120132,30.639031",
     "geom:latitude":30.596425,
     "geom:longitude":-88.197899,
@@ -13,20 +13,25 @@
     "lbl:latitude":30.596087,
     "lbl:longitude":-88.196637,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mobile",
+    "mz:postal_locality_alt":[
+        "Theodore"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688675,
         102191575,
         85633793,
+        102085585,
         85915079,
-        102085585
+        85688675
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12773621"
     },
     "wof:country":"US",
-    "wof:geomhash":"e6464d8ecae18736f48cd8a5b73d6dfa",
+    "wof:geomhash":"fb9b22138ce75b42d28cb9781f949388",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554782277,
-    "wof:lastmodified":1480815718,
+    "wof:lastmodified":1611183622,
     "wof:name":"36619",
     "wof:parent_id":85915079,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018665,
-    "geom:area_square_m":189968526.913285,
+    "geom:area_square_m":189968526.913171,
     "geom:bbox":"-118.378184,34.513327,-118.111998,34.662693",
     "geom:latitude":34.601677,
     "geom:longitude":-118.231024,
@@ -13,20 +13,26 @@
     "lbl:latitude":34.604105,
     "lbl:longitude":-118.239213,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Palmdale",
+    "mz:postal_locality_alt":[
+        "Leona Valley",
+        "Lake Hughes"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086957,
         85928483,
-        102086957
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796928"
     },
     "wof:country":"US",
-    "wof:geomhash":"ef8450bdf42d670a43172177cd1a6395",
+    "wof:geomhash":"fad9be1b6111de43a9e9a309b9f96c5c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554752853,
-    "wof:lastmodified":1480912616,
+    "wof:lastmodified":1611182549,
     "wof:name":"93551",
     "wof:parent_id":85928483,
     "wof:placetype":"postalcode",

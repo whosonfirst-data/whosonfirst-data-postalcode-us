@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.060954,
-    "geom:area_square_m":524774618.313001,
+    "geom:area_square_m":524774618.313045,
     "geom:bbox":"-92.155991,45.753166,-91.655187,46.028111",
     "geom:latitude":45.872528,
     "geom:longitude":-91.934395,
@@ -14,20 +14,26 @@
     "lbl:latitude":45.878861,
     "lbl:longitude":-91.942767,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Spooner",
+    "mz:postal_locality_alt":[
+        "Odanah",
+        "Springbrook"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404492479,
         85633793,
-        102081805
+        102081805,
+        404492479,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781527"
     },
     "wof:country":"US",
-    "wof:geomhash":"26f93b23c95e01d12ad2f4e33d369ab1",
+    "wof:geomhash":"839e2b1bc629fc1d2b44385d17c22817",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554728677,
-    "wof:lastmodified":1480818076,
+    "wof:lastmodified":1611185085,
     "wof:name":"54801",
     "wof:parent_id":404492479,
     "wof:placetype":"postalcode",

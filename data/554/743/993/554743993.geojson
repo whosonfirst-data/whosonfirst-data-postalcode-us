@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019963,
-    "geom:area_square_m":201418320.758859,
+    "geom:area_square_m":201418320.759066,
     "geom:bbox":"-97.124679,35.259299,-96.80713,35.36213",
     "geom:latitude":35.316308,
     "geom:longitude":-96.968728,
@@ -13,20 +13,26 @@
     "lbl:latitude":35.315129,
     "lbl:longitude":-96.969671,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Shawnee",
+    "mz:postal_locality_alt":[
+        "Prague",
+        "Earlsboro"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688585,
         102191575,
         85633793,
+        102084005,
         101715037,
-        102084005
+        85688585
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12790215"
     },
     "wof:country":"US",
-    "wof:geomhash":"5abf0666301be0c2729586b1307f8c1f",
+    "wof:geomhash":"c67d969872cf0953ae8291d159ee2426",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554743993,
-    "wof:lastmodified":1480798951,
+    "wof:lastmodified":1611184785,
     "wof:name":"74801",
     "wof:parent_id":101715037,
     "wof:placetype":"postalcode",

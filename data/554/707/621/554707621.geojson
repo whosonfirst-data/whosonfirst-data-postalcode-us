@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001065,
-    "geom:area_square_m":10256947.080238,
+    "geom:area_square_m":10256947.080269,
     "geom:bbox":"-77.074779,38.839248,-77.032143,38.880425",
     "geom:latitude":38.85654,
     "geom:longitude":-77.051537,
@@ -13,20 +13,25 @@
     "lbl:latitude":38.856868,
     "lbl:longitude":-77.051492,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Arlington",
+    "mz:postal_locality_alt":[
+        "Alexandria"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688747,
         102191575,
         85633793,
+        102085953,
         101729469,
-        102085953
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766857"
     },
     "wof:country":"US",
-    "wof:geomhash":"d3f29a7e40a820f4b49bb80fdd8fd9d9",
+    "wof:geomhash":"ed192e9245f7c83027004aa457335d81",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554707621,
-    "wof:lastmodified":1480905246,
+    "wof:lastmodified":1611183137,
     "wof:name":"22202",
     "wof:parent_id":101729469,
     "wof:placetype":"postalcode",

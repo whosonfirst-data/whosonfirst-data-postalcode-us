@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04288,
-    "geom:area_square_m":379856893.008169,
+    "geom:area_square_m":379856893.00821,
     "geom:bbox":"-95.127199,44.122221,-94.786142,44.351668",
     "geom:latitude":44.24007,
     "geom:longitude":-94.97456,
@@ -14,21 +14,26 @@
     "lbl:latitude":44.240509,
     "lbl:longitude":-94.975248,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Springfield",
+    "mz:postal_locality_alt":[
+        "Clements"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404511473,
         85633793,
+        102087615,
+        404511473,
         85952695,
-        102087615
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782242"
     },
     "wof:country":"US",
-    "wof:geomhash":"e72c1ea218d7d6da8691a71ed58fa462",
+    "wof:geomhash":"b001ed0f95fc74116615acc4df52069d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554729861,
-    "wof:lastmodified":1480784724,
+    "wof:lastmodified":1611185415,
     "wof:name":"56087",
     "wof:parent_id":85952695,
     "wof:placetype":"postalcode",

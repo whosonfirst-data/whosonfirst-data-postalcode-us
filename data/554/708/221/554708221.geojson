@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005927,
-    "geom:area_square_m":58070765.832668,
+    "geom:area_square_m":58070765.832586,
     "geom:bbox":"-77.740656,37.558623,-77.575982,37.631979",
     "geom:latitude":37.59735,
     "geom:longitude":-77.646318,
@@ -14,19 +14,24 @@
     "lbl:latitude":37.595612,
     "lbl:longitude":-77.647606,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Richmond",
+    "mz:postal_locality_alt":[
+        "Henrico"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688747,
-        102084917
+        102084917,
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12767280"
     },
     "wof:country":"US",
-    "wof:geomhash":"58c53f976fb06cb91240996a1bb38d75",
+    "wof:geomhash":"3f260f5c345cdab97402aa8a8db0e3fa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554708221,
-    "wof:lastmodified":1480808795,
+    "wof:lastmodified":1611182769,
     "wof:name":"23238",
     "wof:parent_id":102084917,
     "wof:placetype":"postalcode",

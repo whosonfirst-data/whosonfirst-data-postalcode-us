@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.079602,
-    "geom:area_square_m":833387360.26974,
+    "geom:area_square_m":833387360.269636,
     "geom:bbox":"-91.933229,31.958508,-91.489567,32.332416",
     "geom:latitude":32.147457,
     "geom:longitude":-91.706814,
@@ -14,20 +14,29 @@
     "lbl:latitude":32.14729,
     "lbl:longitude":-91.707255,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Winnsboro",
+    "mz:postal_locality_alt":[
+        "Crowville",
+        "Delhi",
+        "Fort Necessity",
+        "Rayville",
+        "Lake Providence"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688735,
         102191575,
         85633793,
+        102086683,
         85947845,
-        102086683
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12788700"
     },
     "wof:country":"US",
-    "wof:geomhash":"d0c3d7c6adea6a6b6c9dc009a4e53ce5",
+    "wof:geomhash":"0fc94c1776a4ba0ba872f4bc37d4051a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +48,7 @@
         }
     ],
     "wof:id":554741331,
-    "wof:lastmodified":1480910483,
+    "wof:lastmodified":1611184037,
     "wof:name":"71295",
     "wof:parent_id":85947845,
     "wof:placetype":"postalcode",

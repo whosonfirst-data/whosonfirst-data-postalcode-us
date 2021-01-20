@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.106493,
-    "geom:area_square_m":1011264123.168006,
+    "geom:area_square_m":1011264123.16806,
     "geom:bbox":"-99.515805,39.567273,-99.104417,40.00227",
     "geom:latitude":39.828214,
     "geom:longitude":-99.320535,
@@ -14,20 +14,30 @@
     "lbl:latitude":39.820881,
     "lbl:longitude":-99.318975,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Phillipsburg",
+    "mz:postal_locality_alt":[
+        "Long Island",
+        "Logan",
+        "Glade",
+        "Agra",
+        "Kirwin",
+        "Prairie View"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404505537,
         85633793,
-        102082123
+        102082123,
+        404505537,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787380"
     },
     "wof:country":"US",
-    "wof:geomhash":"dc6b85ffde40363bedc3a1cd1308d94c",
+    "wof:geomhash":"e02d806e4ebe8b080f84858181f3598a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +49,7 @@
         }
     ],
     "wof:id":554739207,
-    "wof:lastmodified":1480835117,
+    "wof:lastmodified":1611182674,
     "wof:name":"67661",
     "wof:parent_id":404505537,
     "wof:placetype":"postalcode",

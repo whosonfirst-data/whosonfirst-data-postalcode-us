@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016831,
-    "geom:area_square_m":154796107.730777,
+    "geom:area_square_m":154796107.730787,
     "geom:bbox":"-78.491691,41.878435,-78.264055,41.999831",
     "geom:latitude":41.945609,
     "geom:longitude":-78.374656,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.95138,
     "lbl:longitude":-78.360377,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Eldred",
+    "mz:postal_locality_alt":[
+        "Bradford"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404487883,
         85633793,
-        102080951
+        102080951,
+        404487883,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764438"
     },
     "wof:country":"US",
-    "wof:geomhash":"1d03c45ec788dcfcadaa58c894d6347a",
+    "wof:geomhash":"b3e5d2dc2c98ce69a68a2ad8fbcc7868",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554704673,
-    "wof:lastmodified":1480906204,
+    "wof:lastmodified":1611184493,
     "wof:name":"16731",
     "wof:parent_id":404487883,
     "wof:placetype":"postalcode",

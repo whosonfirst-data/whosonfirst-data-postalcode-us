@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018267,
-    "geom:area_square_m":162399654.561343,
+    "geom:area_square_m":162399654.560946,
     "geom:bbox":"-96.184801,43.9354,-95.98356,44.10983",
     "geom:latitude":44.030301,
     "geom:longitude":-96.08164,
@@ -14,20 +14,26 @@
     "lbl:latitude":44.033228,
     "lbl:longitude":-96.074258,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Woodstock",
+    "mz:postal_locality_alt":[
+        "Luverne",
+        "Magnolia"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404510439,
         85633793,
-        102087865
+        102087865,
+        404510439,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782316"
     },
     "wof:country":"US",
-    "wof:geomhash":"144bc0b3d8c3e287865f3cdbbe39fa52",
+    "wof:geomhash":"d4b55b55596592cd24a04468689b8d5e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554730019,
-    "wof:lastmodified":1480784841,
+    "wof:lastmodified":1611182750,
     "wof:name":"56186",
     "wof:parent_id":404510439,
     "wof:placetype":"postalcode",

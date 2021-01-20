@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038382,
-    "geom:area_square_m":369226315.523448,
+    "geom:area_square_m":369226315.523552,
     "geom:bbox":"-121.45726,38.824474,-121.173698,39.052943",
     "geom:latitude":38.925415,
     "geom:longitude":-121.311698,
@@ -14,19 +14,25 @@
     "lbl:latitude":38.922812,
     "lbl:longitude":-121.312005,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lincoln",
+    "mz:postal_locality_alt":[
+        "Roseville",
+        "Woodland"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688637,
-        102080863
+        102080863,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12797920"
     },
     "wof:country":"US",
-    "wof:geomhash":"e871bd8c76f8f9606587b9633a461bca",
+    "wof:geomhash":"c80bc8819116d7f1016b39ca041dea8a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554753899,
-    "wof:lastmodified":1480912925,
+    "wof:lastmodified":1611182967,
     "wof:name":"95648",
     "wof:parent_id":102080863,
     "wof:placetype":"postalcode",

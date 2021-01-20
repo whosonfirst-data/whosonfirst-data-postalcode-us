@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000174,
-    "geom:area_square_m":1675987.355908,
+    "geom:area_square_m":1675987.355912,
     "geom:bbox":"-77.229511,38.883549,-77.214665,38.904593",
     "geom:latitude":38.894533,
     "geom:longitude":-77.221254,
@@ -14,20 +14,25 @@
     "lbl:latitude":38.894853,
     "lbl:longitude":-77.223048,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Dunn Loring",
+    "mz:postal_locality_alt":[
+        "Vienna"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688747,
         102191575,
         85633793,
+        102084863,
         101729737,
-        102084863
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766797"
     },
     "wof:country":"US",
-    "wof:geomhash":"4c9cb5e9472da1cc44c45b271916fdc9",
+    "wof:geomhash":"65baf4299f307885df373357327738fa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554707551,
-    "wof:lastmodified":1480802128,
+    "wof:lastmodified":1611183129,
     "wof:name":"22027",
     "wof:parent_id":101729737,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004526,
-    "geom:area_square_m":41113073.059898,
+    "geom:area_square_m":41113073.059824,
     "geom:bbox":"-73.879516,42.68012,-73.771626,42.761967",
     "geom:latitude":42.718973,
     "geom:longitude":-73.829379,
@@ -14,21 +14,26 @@
     "lbl:latitude":42.718786,
     "lbl:longitude":-73.82924,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Albany",
+    "mz:postal_locality_alt":[
+        "Colonie"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404521709,
         85633793,
+        102082353,
+        404521709,
         85977961,
-        102082353
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762184"
     },
     "wof:country":"US",
-    "wof:geomhash":"c41c85aee04377ba3a3222d7dccacbe3",
+    "wof:geomhash":"c335d94180f4cc467c4942a4d1da3993",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554701323,
-    "wof:lastmodified":1480790027,
+    "wof:lastmodified":1611182626,
     "wof:name":"12205",
     "wof:parent_id":85977961,
     "wof:placetype":"postalcode",

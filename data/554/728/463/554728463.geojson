@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045299,
-    "geom:area_square_m":401234439.922882,
+    "geom:area_square_m":401234439.92282,
     "geom:bbox":"-91.704311,44.138042,-91.321461,44.35135",
     "geom:latitude":44.248066,
     "geom:longitude":-91.50055,
@@ -14,21 +14,26 @@
     "lbl:latitude":44.249551,
     "lbl:longitude":-91.501347,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Arcadia",
+    "mz:postal_locality_alt":[
+        "Dodge"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404493801,
         85633793,
+        102081731,
+        404493801,
         101733211,
-        102081731
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781417"
     },
     "wof:country":"US",
-    "wof:geomhash":"98f3fe22ab0ed02b6899923237ebaa56",
+    "wof:geomhash":"2daa78b332252d1dd4bb498d8036f077",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554728463,
-    "wof:lastmodified":1480825452,
+    "wof:lastmodified":1611185060,
     "wof:name":"54612",
     "wof:parent_id":101733211,
     "wof:placetype":"postalcode",

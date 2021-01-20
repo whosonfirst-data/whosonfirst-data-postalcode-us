@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.059074,
-    "geom:area_square_m":483191286.677899,
+    "geom:area_square_m":483191286.677904,
     "geom:bbox":"-103.863305,48.416385,-103.60229,48.800407",
     "geom:latitude":48.586351,
     "geom:longitude":-103.717178,
@@ -14,20 +14,25 @@
     "lbl:latitude":48.595028,
     "lbl:longitude":-103.732863,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Zahl",
+    "mz:postal_locality_alt":[
+        "Grenora"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688525,
         102191575,
-        404479833,
         85633793,
-        102082069
+        102082069,
+        404479833,
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12783522"
     },
     "wof:country":"US",
-    "wof:geomhash":"0684bb9f584bf60a68f764d9eb4fa08c",
+    "wof:geomhash":"29f3e434597476d09527b4b3a88402cf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554732411,
-    "wof:lastmodified":1480792748,
+    "wof:lastmodified":1611184395,
     "wof:name":"58856",
     "wof:parent_id":404479833,
     "wof:placetype":"postalcode",

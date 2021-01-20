@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006422,
-    "geom:area_square_m":60862772.672738,
+    "geom:area_square_m":60862772.67276,
     "geom:bbox":"-74.734547,39.899219,-74.594484,40.010807",
     "geom:latitude":39.959415,
     "geom:longitude":-74.663095,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.961401,
     "lbl:longitude":-74.665917,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pemberton",
+    "mz:postal_locality_alt":[
+        "Columbus"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477957,
         85633793,
-        102087415
+        102087415,
+        404477957,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761037"
     },
     "wof:country":"US",
-    "wof:geomhash":"c5e96fc7e2015607bd9cbb32c126c62b",
+    "wof:geomhash":"e7a640d5ceab58380306e1b7899d63f0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554700421,
-    "wof:lastmodified":1480786570,
+    "wof:lastmodified":1611183197,
     "wof:name":"08068",
     "wof:parent_id":404477957,
     "wof:placetype":"postalcode",

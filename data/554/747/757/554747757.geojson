@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.226565,
-    "geom:area_square_m":2369220734.85745,
+    "geom:area_square_m":2369220734.855597,
     "geom:bbox":"-101.697611,31.875559,-101.197849,32.650968",
     "geom:latitude":32.253609,
     "geom:longitude":-101.472954,
@@ -13,20 +13,26 @@
     "lbl:latitude":32.253541,
     "lbl:longitude":-101.47264,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Big Spring",
+    "mz:postal_locality_alt":[
+        "Fort Davis",
+        "Stanton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102080649,
         101725545,
-        102080649
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12792725"
     },
     "wof:country":"US",
-    "wof:geomhash":"ff8ab51a37b712f1b80f06707a096625",
+    "wof:geomhash":"b0c392e5e02b18661c6b57edeefca7a9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554747757,
-    "wof:lastmodified":1480903426,
+    "wof:lastmodified":1611183472,
     "wof:name":"79720",
     "wof:parent_id":101725545,
     "wof:placetype":"postalcode",

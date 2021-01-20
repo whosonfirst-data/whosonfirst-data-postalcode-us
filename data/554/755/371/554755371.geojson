@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003259,
-    "geom:area_square_m":27045751.372045,
+    "geom:area_square_m":27045751.372082,
     "geom:bbox":"-122.363975,47.777595,-122.293235,47.900066",
     "geom:latitude":47.838597,
     "geom:longitude":-122.332484,
@@ -13,20 +13,26 @@
     "lbl:latitude":47.840735,
     "lbl:longitude":-122.33266,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Edmonds",
+    "mz:postal_locality_alt":[
+        "Lynnwood",
+        "Mountlake Ter"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688623,
         102191575,
         85633793,
+        102087537,
         101729915,
-        102087537
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12798900"
     },
     "wof:country":"US",
-    "wof:geomhash":"0e8f36c5bb91d7fc8518eb310973714d",
+    "wof:geomhash":"8c0509371768f829310087397be8674c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554755371,
-    "wof:lastmodified":1480915582,
+    "wof:lastmodified":1611182582,
     "wof:name":"98026",
     "wof:parent_id":101729915,
     "wof:placetype":"postalcode",

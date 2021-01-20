@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000133,
-    "geom:area_square_m":1334402.482147,
+    "geom:area_square_m":1334402.482149,
     "geom:bbox":"-81.799664,35.717769,-81.771348,35.73515",
     "geom:latitude":35.726329,
     "geom:longitude":-81.785106,
@@ -14,20 +14,25 @@
     "lbl:latitude":35.726329,
     "lbl:longitude":-81.785107,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Glen Alpine",
+    "mz:postal_locality_alt":[
+        "Morganton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688773,
         102191575,
         85633793,
+        102080903,
         85980817,
-        102080903
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12769786"
     },
     "wof:country":"US",
-    "wof:geomhash":"1b4b87a17de951b11b7a7caace3d1d65",
+    "wof:geomhash":"cb6517d26350b0a022aa65de5723401b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554768959,
-    "wof:lastmodified":1480906192,
+    "wof:lastmodified":1611184586,
     "wof:name":"28628",
     "wof:parent_id":85980817,
     "wof:placetype":"postalcode",

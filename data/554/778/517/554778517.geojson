@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003533,
-    "geom:area_square_m":32639485.424469,
+    "geom:area_square_m":32639485.42447,
     "geom:bbox":"-70.281005,41.607446,-70.208826,41.689248",
     "geom:latitude":41.655281,
     "geom:longitude":-70.247278,
@@ -14,21 +14,27 @@
     "lbl:latitude":41.655712,
     "lbl:longitude":-70.247044,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"West Yarmouth",
+    "mz:postal_locality_alt":[
+        "Yarmouth Port",
+        "Hyannis"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476089,
         85633793,
+        102084379,
+        404476089,
         85950523,
-        102084379
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758939"
     },
     "wof:country":"US",
-    "wof:geomhash":"f8aae77646fd1aa673cc3c3e42ef22d7",
+    "wof:geomhash":"198f1ddfb3ab46493168472be530c49d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554778517,
-    "wof:lastmodified":1480802732,
+    "wof:lastmodified":1611183433,
     "wof:name":"02673",
     "wof:parent_id":85950523,
     "wof:placetype":"postalcode",

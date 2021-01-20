@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007997,
-    "geom:area_square_m":88653764.570346,
+    "geom:area_square_m":88653764.570416,
     "geom:bbox":"-98.351448,26.237432,-98.251571,26.357575",
     "geom:latitude":26.293674,
     "geom:longitude":-98.300772,
@@ -13,20 +13,26 @@
     "lbl:latitude":26.296191,
     "lbl:longitude":-98.299959,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mission",
+    "mz:postal_locality_alt":[
+        "Alton",
+        "Palmhurst"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102083831,
         101723575,
-        102083831
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12792184"
     },
     "wof:country":"US",
-    "wof:geomhash":"63a33b6c9caa8adee80be3bb59c7eaf5",
+    "wof:geomhash":"ca3392ab272c174cc42b4012fc0d7a16",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554746911,
-    "wof:lastmodified":1480835004,
+    "wof:lastmodified":1611184030,
     "wof:name":"78573",
     "wof:parent_id":101723575,
     "wof:placetype":"postalcode",

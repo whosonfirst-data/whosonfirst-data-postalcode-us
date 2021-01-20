@@ -14,20 +14,25 @@
     "lbl:latitude":41.248585,
     "lbl:longitude":-85.161149,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Huntertown",
+    "mz:postal_locality_alt":[
+        "Fort Wayne"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404501169,
         85633793,
-        102087177
+        102087177,
+        404501169,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777868"
     },
     "wof:country":"US",
-    "wof:geomhash":"befe3704b6e5365b075794f9be3d3340",
+    "wof:geomhash":"14e62703d22f8f6831848ad497d4a6fe",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554722861,
-    "wof:lastmodified":1480915897,
+    "wof:lastmodified":1611183220,
     "wof:name":"46748",
     "wof:parent_id":404501169,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001341,
-    "geom:area_square_m":13712653.154511,
+    "geom:area_square_m":13712653.154505,
     "geom:bbox":"-118.788749,34.168005,-118.744934,34.205918",
     "geom:latitude":34.184975,
     "geom:longitude":-118.766912,
@@ -14,20 +14,25 @@
     "lbl:latitude":34.184974,
     "lbl:longitude":-118.766912,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Agoura Hills",
+    "mz:postal_locality_alt":[
+        "Oak Park"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086933,
         85927651,
-        102086933
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796015"
     },
     "wof:country":"US",
-    "wof:geomhash":"05d6b82a3aff307f9d17f52118d0b9ec",
+    "wof:geomhash":"3dd68cfed92017141004deac0ee6f67a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554784223,
-    "wof:lastmodified":1480912606,
+    "wof:lastmodified":1611183950,
     "wof:name":"91377",
     "wof:parent_id":85927651,
     "wof:placetype":"postalcode",

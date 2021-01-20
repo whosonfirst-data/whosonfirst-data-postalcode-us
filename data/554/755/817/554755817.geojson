@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002092,
-    "geom:area_square_m":17563503.766861,
+    "geom:area_square_m":17563503.766891,
     "geom:bbox":"-122.582113,47.211785,-122.500822,47.24682",
     "geom:latitude":47.228011,
     "geom:longitude":-122.539639,
@@ -13,20 +13,26 @@
     "lbl:latitude":47.224432,
     "lbl:longitude":-122.541082,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Tacoma",
+    "mz:postal_locality_alt":[
+        "University Place",
+        "Fircrest"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688623,
         102191575,
         85633793,
+        102087547,
         101730265,
-        102087547
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12799194"
     },
     "wof:country":"US",
-    "wof:geomhash":"266dd61f9c7373d34f49adcc7c5e1a3b",
+    "wof:geomhash":"2cac769e41328860147df634fbd460e2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554755817,
-    "wof:lastmodified":1480781960,
+    "wof:lastmodified":1611182569,
     "wof:name":"98466",
     "wof:parent_id":101730265,
     "wof:placetype":"postalcode",

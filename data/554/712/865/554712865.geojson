@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021591,
-    "geom:area_square_m":221630788.555314,
+    "geom:area_square_m":221630788.55564,
     "geom:bbox":"-85.004305,33.7779,-84.710522,34.010247",
     "geom:latitude":33.88586,
     "geom:longitude":-84.873252,
@@ -13,19 +13,25 @@
     "lbl:latitude":33.884708,
     "lbl:longitude":-84.871928,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Dallas",
+    "mz:postal_locality_alt":[
+        "Woodstock",
+        "Villa Rica"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688535,
-        102084665
+        102084665,
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770626"
     },
     "wof:country":"US",
-    "wof:geomhash":"39727c4b4d1830b7fb3c5cb40d0439e2",
+    "wof:geomhash":"bff1aa672d55b95b9b26fddb357e9502",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +42,7 @@
         }
     ],
     "wof:id":554712865,
-    "wof:lastmodified":1480832124,
+    "wof:lastmodified":1611183729,
     "wof:name":"30157",
     "wof:parent_id":102084665,
     "wof:placetype":"postalcode",

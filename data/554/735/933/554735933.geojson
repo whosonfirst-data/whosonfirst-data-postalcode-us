@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010695,
-    "geom:area_square_m":102962945.577498,
+    "geom:area_square_m":102962945.577462,
     "geom:bbox":"-90.32569,38.805748,-90.109107,38.929653",
     "geom:latitude":38.869608,
     "geom:longitude":-90.215105,
@@ -14,21 +14,26 @@
     "lbl:latitude":38.870205,
     "lbl:longitude":-90.219539,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"West Alton",
+    "mz:postal_locality_alt":[
+        "Lake St Louis"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404515913,
         85633793,
+        102086159,
+        404515913,
         85972053,
-        102086159
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785701"
     },
     "wof:country":"US",
-    "wof:geomhash":"f7ce3f8f5c61a1504378a2a6b2eadf46",
+    "wof:geomhash":"7d94c29c8e9a11d99aa91fcf3ee6521c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554735933,
-    "wof:lastmodified":1480914492,
+    "wof:lastmodified":1611184431,
     "wof:name":"63386",
     "wof:parent_id":85972053,
     "wof:placetype":"postalcode",

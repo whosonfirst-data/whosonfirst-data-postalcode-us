@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004573,
-    "geom:area_square_m":41865058.856307,
+    "geom:area_square_m":41865058.856311,
     "geom:bbox":"-71.420075,42.192033,-71.329213,42.271916",
     "geom:latitude":42.234165,
     "geom:longitude":-71.375338,
@@ -14,20 +14,22 @@
     "lbl:latitude":42.231947,
     "lbl:longitude":-71.372963,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Sherborn",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476417,
         85633793,
-        102084643
+        102084643,
+        404476417,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758566"
     },
     "wof:country":"US",
-    "wof:geomhash":"cc1f860f3437c45f97eb38e5015d5cd5",
+    "wof:geomhash":"550ba703e4d8c6f9722c0368f83873f3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554697233,
-    "wof:lastmodified":1480799920,
+    "wof:lastmodified":1611184645,
     "wof:name":"01770",
     "wof:parent_id":404476417,
     "wof:placetype":"postalcode",

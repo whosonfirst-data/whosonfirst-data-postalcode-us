@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015659,
-    "geom:area_square_m":149833136.008131,
+    "geom:area_square_m":149833136.008035,
     "geom:bbox":"-84.975761,39.21844,-84.81812,39.378009",
     "geom:latitude":39.300843,
     "geom:longitude":-84.88103,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.301338,
     "lbl:longitude":-84.885706,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"West Harrison",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404500217,
         85633793,
-        102087067
+        102087067,
+        404500217,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778051"
     },
     "wof:country":"US",
-    "wof:geomhash":"30ba837d47f4afb83ba24c0dd23339d9",
+    "wof:geomhash":"10b87b00dafb13f4d2c42c4fd6a7ce11",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554723115,
-    "wof:lastmodified":1480912737,
+    "wof:lastmodified":1611183809,
     "wof:name":"47060",
     "wof:parent_id":404500217,
     "wof:placetype":"postalcode",

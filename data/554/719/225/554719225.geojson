@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001542,
-    "geom:area_square_m":14797745.570773,
+    "geom:area_square_m":14797745.570785,
     "geom:bbox":"-84.506161,39.048072,-84.454765,39.102865",
     "geom:latitude":39.07389,
     "geom:longitude":-84.482809,
@@ -13,20 +13,26 @@
     "lbl:latitude":39.071805,
     "lbl:longitude":-84.485118,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Newport",
+    "mz:postal_locality_alt":[
+        "Southgate",
+        "Wilder"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688641,
         102191575,
         85633793,
+        102085439,
         85946865,
-        102085439
+        85688641
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12775506"
     },
     "wof:country":"US",
-    "wof:geomhash":"489e4b22dff9d23ec4fd6005350df9e8",
+    "wof:geomhash":"dc9d5e4bcac1e2902ebf03353bfca26e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554719225,
-    "wof:lastmodified":1480838316,
+    "wof:lastmodified":1611184931,
     "wof:name":"41071",
     "wof:parent_id":85946865,
     "wof:placetype":"postalcode",

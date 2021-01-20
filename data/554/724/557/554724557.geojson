@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009308,
-    "geom:area_square_m":84403974.231802,
+    "geom:area_square_m":84403974.231833,
     "geom:bbox":"-84.837202,42.784843,-84.681135,42.894127",
     "geom:latitude":42.833331,
     "geom:longitude":-84.760667,
@@ -14,20 +14,25 @@
     "lbl:latitude":42.835279,
     "lbl:longitude":-84.763128,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Eagle",
+    "mz:postal_locality_alt":[
+        "Grand Ledge"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404507239,
         85633793,
-        102083123
+        102083123,
+        404507239,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779017"
     },
     "wof:country":"US",
-    "wof:geomhash":"487a31ba86046d805045b457e537413c",
+    "wof:geomhash":"131fd223a92e34f115f6046d49e839b3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554724557,
-    "wof:lastmodified":1480838404,
+    "wof:lastmodified":1611183743,
     "wof:name":"48822",
     "wof:parent_id":404507239,
     "wof:placetype":"postalcode",

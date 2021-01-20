@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02509,
-    "geom:area_square_m":268489185.756456,
+    "geom:area_square_m":268489185.756272,
     "geom:bbox":"-94.035876,29.98098,-93.699408,30.131971",
     "geom:latitude":30.07111,
     "geom:longitude":-93.864577,
@@ -13,19 +13,25 @@
     "lbl:latitude":30.067062,
     "lbl:longitude":-93.868581,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Orange",
+    "mz:postal_locality_alt":[
+        "Bridge City",
+        "Buna"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688753,
-        102081453
+        102081453,
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12791737"
     },
     "wof:country":"US",
-    "wof:geomhash":"ec376e2a7be8e76eeaf64e1498f8069d",
+    "wof:geomhash":"40e4dc9ee27e8ac808221ac23b5fb780",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +42,7 @@
         }
     ],
     "wof:id":554783695,
-    "wof:lastmodified":1480823698,
+    "wof:lastmodified":1611183884,
     "wof:name":"77630",
     "wof:parent_id":102081453,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013016,
-    "geom:area_square_m":119802284.181716,
+    "geom:area_square_m":119802284.181712,
     "geom:bbox":"-93.610433,41.820341,-93.463263,41.950483",
     "geom:latitude":41.893919,
     "geom:longitude":-93.523577,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.893405,
     "lbl:longitude":-93.523012,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cambridge",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688713,
         102191575,
         85633793,
+        102086653,
         85943341,
-        102086653
+        85688713
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779718"
     },
     "wof:country":"US",
-    "wof:geomhash":"eb7f392f9052fc1257c765a525750ffd",
+    "wof:geomhash":"2abbcaef1c5800915986b5689ac7b6aa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554725471,
-    "wof:lastmodified":1480916304,
+    "wof:lastmodified":1611183258,
     "wof:name":"50046",
     "wof:parent_id":85943341,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022885,
-    "geom:area_square_m":216831309.473819,
+    "geom:area_square_m":216831309.473966,
     "geom:bbox":"-104.961427,39.877322,-104.583437,40.080575",
     "geom:latitude":39.98261,
     "geom:longitude":-104.737207,
@@ -13,20 +13,25 @@
     "lbl:latitude":39.982211,
     "lbl:longitude":-104.737094,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Brighton",
+    "mz:postal_locality_alt":[
+        "Lochbuie"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688603,
         102191575,
         85633793,
+        102084053,
         85929019,
-        102084053
+        85688603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"23424664"
     },
     "wof:country":"US",
-    "wof:geomhash":"2920a8f0f1edca467116d577e4a6e83e",
+    "wof:geomhash":"0e720d43e82c6ce36583ba716f26ee6e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554756613,
-    "wof:lastmodified":1480913967,
+    "wof:lastmodified":1611184296,
     "wof:name":"80603",
     "wof:parent_id":85929019,
     "wof:placetype":"postalcode",

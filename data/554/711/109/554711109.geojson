@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005285,
-    "geom:area_square_m":53210873.029428,
+    "geom:area_square_m":53210873.029483,
     "geom:bbox":"-80.627244,35.446082,-80.510882,35.540992",
     "geom:latitude":35.490887,
     "geom:longitude":-80.580582,
@@ -13,20 +13,27 @@
     "lbl:latitude":35.489602,
     "lbl:longitude":-80.580668,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Kannapolis",
+    "mz:postal_locality_alt":[
+        "Concord",
+        "Davidson",
+        "East Spencer"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688773,
         102191575,
         85633793,
+        102087733,
         85980229,
-        102087733
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12769405"
     },
     "wof:country":"US",
-    "wof:geomhash":"d1855dce3eda154c310c07d9b8e1ec5a",
+    "wof:geomhash":"75715a770697f74ee9acd09891b140cb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +45,7 @@
         }
     ],
     "wof:id":554711109,
-    "wof:lastmodified":1480784930,
+    "wof:lastmodified":1611185325,
     "wof:name":"28083",
     "wof:parent_id":85980229,
     "wof:placetype":"postalcode",

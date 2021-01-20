@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008729,
-    "geom:area_square_m":80306363.216171,
+    "geom:area_square_m":80306363.216213,
     "geom:bbox":"-73.053534,41.887324,-72.88706,41.973121",
     "geom:latitude":41.927032,
     "geom:longitude":-72.971584,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.925197,
     "lbl:longitude":-72.971286,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pleasant Valley",
+    "mz:postal_locality_alt":[
+        "Barkhamsted"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688629,
         102191575,
-        404496011,
         85633793,
-        102085375
+        102085375,
+        404496011,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760210"
     },
     "wof:country":"US",
-    "wof:geomhash":"168db5df0c2dfb0974e60fff47ca6f61",
+    "wof:geomhash":"3a101e86c2dd82408f23d75066923c16",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554699329,
-    "wof:lastmodified":1480815744,
+    "wof:lastmodified":1611184631,
     "wof:name":"06063",
     "wof:parent_id":404496011,
     "wof:placetype":"postalcode",

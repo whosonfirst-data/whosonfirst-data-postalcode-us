@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002013,
-    "geom:area_square_m":19044594.743352,
+    "geom:area_square_m":19044594.743361,
     "geom:bbox":"-74.09518,40.058016,-74.029107,40.105345",
     "geom:latitude":40.080625,
     "geom:longitude":-74.059544,
@@ -14,21 +14,30 @@
     "lbl:latitude":40.080784,
     "lbl:longitude":-74.059125,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Point Pleasant Beach",
+    "mz:postal_locality_alt":[
+        "Pt Pleasant Bch",
+        "Point Pleasant",
+        "Pt Pleasant Boro",
+        "Bay Head",
+        "Pt Pleasant Beach"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477789,
         85633793,
+        102081485,
+        404477789,
         85975769,
-        102081485
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761243"
     },
     "wof:country":"US",
-    "wof:geomhash":"ff7687048a0a81f5e61f31f1d8b2df83",
+    "wof:geomhash":"b96cb7a39d5e9cfaebe01eead03035a5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +50,7 @@
         }
     ],
     "wof:id":554779263,
-    "wof:lastmodified":1480817268,
+    "wof:lastmodified":1611183987,
     "wof:name":"08742",
     "wof:parent_id":85975769,
     "wof:placetype":"postalcode",

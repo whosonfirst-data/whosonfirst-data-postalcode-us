@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003071,
-    "geom:area_square_m":29481707.075267,
+    "geom:area_square_m":29481707.075221,
     "geom:bbox":"-108.557678,39.046775,-108.457034,39.108593",
     "geom:latitude":39.079139,
     "geom:longitude":-108.49159,
@@ -13,20 +13,25 @@
     "lbl:latitude":39.079633,
     "lbl:longitude":-108.490284,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Grand Junction",
+    "mz:postal_locality_alt":[
+        "Clifton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688603,
         102191575,
         85633793,
+        102085221,
         85930467,
-        102085221
+        85688603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12793463"
     },
     "wof:country":"US",
-    "wof:geomhash":"7ffc2e7b9860452537e5c8d5144e5c5d",
+    "wof:geomhash":"b3073f2289e5a744bba94f17de60fdfe",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554748765,
-    "wof:lastmodified":1480810540,
+    "wof:lastmodified":1611183819,
     "wof:name":"81504",
     "wof:parent_id":85930467,
     "wof:placetype":"postalcode",

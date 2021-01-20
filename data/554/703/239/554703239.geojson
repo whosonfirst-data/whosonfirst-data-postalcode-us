@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016724,
-    "geom:area_square_m":152611072.318535,
+    "geom:area_square_m":152611072.31853,
     "geom:bbox":"-77.306099,42.36771,-77.094927,42.531217",
     "geom:latitude":42.442132,
     "geom:longitude":-77.188349,
@@ -14,20 +14,25 @@
     "lbl:latitude":42.441654,
     "lbl:longitude":-77.194396,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hammondsport",
+    "mz:postal_locality_alt":[
+        "Bath"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522501,
         85633793,
-        102083115
+        102083115,
+        404522501,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763477"
     },
     "wof:country":"US",
-    "wof:geomhash":"499025d8a4be30eef86c78cae6a59108",
+    "wof:geomhash":"167ba09e2dd72abddb8a884a109a29c7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554703239,
-    "wof:lastmodified":1480835915,
+    "wof:lastmodified":1611184478,
     "wof:name":"14840",
     "wof:parent_id":404522501,
     "wof:placetype":"postalcode",

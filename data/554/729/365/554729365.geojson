@@ -13,21 +13,29 @@
     "lbl:latitude":45.06295,
     "lbl:longitude":-93.381362,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Minneapolis",
+    "mz:postal_locality_alt":[
+        "Brooklyn Park",
+        "Crystal",
+        "New Hope",
+        "Brooklyn Center"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404511893,
         85633793,
+        102087709,
+        404511893,
         85969147,
-        102087709
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781909"
     },
     "wof:country":"US",
-    "wof:geomhash":"498608f3cb27e942e75b1db763cfc3dc",
+    "wof:geomhash":"f5022ec670438b0690ce6f7ca2f2dfba",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +48,7 @@
         }
     ],
     "wof:id":554729365,
-    "wof:lastmodified":1480789093,
+    "wof:lastmodified":1611185405,
     "wof:name":"55428",
     "wof:parent_id":85969147,
     "wof:placetype":"postalcode",

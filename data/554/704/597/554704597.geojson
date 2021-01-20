@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012406,
-    "geom:area_square_m":117313775.727938,
+    "geom:area_square_m":117313775.727994,
     "geom:bbox":"-78.374184,40.053514,-78.176874,40.169606",
     "geom:latitude":40.117949,
     "geom:longitude":-78.289004,
@@ -13,20 +13,25 @@
     "lbl:latitude":40.112053,
     "lbl:longitude":-78.291955,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hopewell",
+    "mz:postal_locality_alt":[
+        "Altoona"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404484423,
         85633793,
-        102080939
+        102080939,
+        404484423,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764387"
     },
     "wof:country":"US",
-    "wof:geomhash":"50a083f1966cd9721f1d0a8c21b57e4f",
+    "wof:geomhash":"f904678cf160391ee0c2e1fb00c45556",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554704597,
-    "wof:lastmodified":1480903171,
+    "wof:lastmodified":1611184507,
     "wof:name":"16650",
     "wof:parent_id":404484423,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.073388,
-    "geom:area_square_m":717357119.543973,
+    "geom:area_square_m":717357119.54437,
     "geom:bbox":"-84.525643,37.622933,-84.088938,37.917546",
     "geom:latitude":37.766595,
     "geom:longitude":-84.313709,
@@ -13,20 +13,25 @@
     "lbl:latitude":37.7616,
     "lbl:longitude":-84.312523,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Richmond",
+    "mz:postal_locality_alt":[
+        "Berea"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688641,
         102191575,
         85633793,
+        102084575,
         85947279,
-        102084575
+        85688641
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12775307"
     },
     "wof:country":"US",
-    "wof:geomhash":"43db168fd25d41778ea85a08de36a6d3",
+    "wof:geomhash":"94eb1c024f3070388721dcea8fe99800",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554718943,
-    "wof:lastmodified":1480807065,
+    "wof:lastmodified":1611185594,
     "wof:name":"40475",
     "wof:parent_id":85947279,
     "wof:placetype":"postalcode",

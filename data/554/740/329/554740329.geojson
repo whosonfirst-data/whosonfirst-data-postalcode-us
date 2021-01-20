@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045244,
-    "geom:area_square_m":424835268.967817,
+    "geom:area_square_m":424835268.967666,
     "geom:bbox":"-99.981805,40.446323,-99.773706,40.743522",
     "geom:latitude":40.590857,
     "geom:longitude":-99.881343,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.59096,
     "lbl:longitude":-99.88188,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Elwood",
+    "mz:postal_locality_alt":[
+        "Johnson Lake"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688563,
         102191575,
-        404518487,
         85633793,
-        102082829
+        102082829,
+        404518487,
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787938"
     },
     "wof:country":"US",
-    "wof:geomhash":"2950b45adabe1bca62ceb862d737cd3b",
+    "wof:geomhash":"45cf6df4a4935317f6f6fa7d8b2fc17b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554740329,
-    "wof:lastmodified":1480795713,
+    "wof:lastmodified":1611183419,
     "wof:name":"68937",
     "wof:parent_id":404518487,
     "wof:placetype":"postalcode",

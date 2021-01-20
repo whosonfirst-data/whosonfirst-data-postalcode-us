@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011956,
-    "geom:area_square_m":107175655.075376,
+    "geom:area_square_m":107175655.075355,
     "geom:bbox":"-70.547651,43.461039,-70.355294,43.606769",
     "geom:latitude":43.535653,
     "geom:longitude":-70.457712,
@@ -14,21 +14,30 @@
     "lbl:latitude":43.550411,
     "lbl:longitude":-70.466341,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Saco",
+    "mz:postal_locality_alt":[
+        "Buxton",
+        "West Buxton",
+        "Denmark",
+        "East Waterboro",
+        "Naples"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404475811,
         85633793,
+        102087449,
+        404475811,
         85948889,
-        102087449
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759419"
     },
     "wof:country":"US",
-    "wof:geomhash":"93cc5d3ff73b720cabc0f1f83d9e5223",
+    "wof:geomhash":"1244b74c12369f47b1a6910bc61a9239",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +50,7 @@
         }
     ],
     "wof:id":554778691,
-    "wof:lastmodified":1480788171,
+    "wof:lastmodified":1611183443,
     "wof:name":"04072",
     "wof:parent_id":85948889,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00052,
-    "geom:area_square_m":4919062.715142,
+    "geom:area_square_m":4919062.715145,
     "geom:bbox":"-104.942042,40.0877,-104.91443,40.109632",
     "geom:latitude":40.097792,
     "geom:longitude":-104.929279,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.097792,
     "lbl:longitude":-104.929278,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Frederick",
+    "mz:postal_locality_alt":[
+        "Mead"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688603,
         102191575,
         85633793,
+        102086117,
         85929053,
-        102086117
+        85688603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12793112"
     },
     "wof:country":"US",
-    "wof:geomhash":"fbf385fbfee37c26a18e04bcbd1d4b35",
+    "wof:geomhash":"bde6f57179e76f9ec41efc9522fcdc79",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554748199,
-    "wof:lastmodified":1480913970,
+    "wof:lastmodified":1611183849,
     "wof:name":"80530",
     "wof:parent_id":85929053,
     "wof:placetype":"postalcode",

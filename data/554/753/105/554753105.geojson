@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001922,
-    "geom:area_square_m":18737174.490223,
+    "geom:area_square_m":18737174.490209,
     "geom:bbox":"-122.104371,37.92526,-122.05062,37.982392",
     "geom:latitude":37.954133,
     "geom:longitude":-122.07614,
@@ -14,20 +14,25 @@
     "lbl:latitude":37.954131,
     "lbl:longitude":-122.076139,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pleasant Hill",
+    "mz:postal_locality_alt":[
+        "Concord"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086225,
         85922135,
-        102086225
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12797318"
     },
     "wof:country":"US",
-    "wof:geomhash":"d33d66d95fcdcc63b408508de6c2df63",
+    "wof:geomhash":"8eab9e6c51b2c5d25e9c86c371d0a63b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554753105,
-    "wof:lastmodified":1480908615,
+    "wof:lastmodified":1611182928,
     "wof:name":"94523",
     "wof:parent_id":85922135,
     "wof:placetype":"postalcode",

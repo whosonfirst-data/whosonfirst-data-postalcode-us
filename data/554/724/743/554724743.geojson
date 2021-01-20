@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033525,
-    "geom:area_square_m":308560393.118584,
+    "geom:area_square_m":308560393.1183,
     "geom:bbox":"-86.146347,41.780674,-85.858501,42.016724",
     "geom:latitude":41.898373,
     "geom:longitude":-85.987321,
@@ -14,20 +14,26 @@
     "lbl:latitude":41.9047,
     "lbl:longitude":-85.974313,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cassopolis",
+    "mz:postal_locality_alt":[
+        "Jones",
+        "Dowagiac"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404507105,
         85633793,
-        102083027
+        102083027,
+        404507105,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779141"
     },
     "wof:country":"US",
-    "wof:geomhash":"be7a3348c4875b1987ce0c93d762ba9d",
+    "wof:geomhash":"80544eaf627f9dbf21cf644e89b31ec6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554724743,
-    "wof:lastmodified":1480841958,
+    "wof:lastmodified":1611183771,
     "wof:name":"49031",
     "wof:parent_id":404507105,
     "wof:placetype":"postalcode",

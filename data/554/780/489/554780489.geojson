@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003497,
-    "geom:area_square_m":33567387.76473,
+    "geom:area_square_m":33567387.764713,
     "geom:bbox":"-76.615927,39.040518,-76.509585,39.10447",
     "geom:latitude":39.07757,
     "geom:longitude":-76.556671,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.079136,
     "lbl:longitude":-76.558699,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Severna Park",
+    "mz:postal_locality_alt":[
+        "Westminster"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688501,
         102191575,
         85633793,
+        102083469,
         85949747,
-        102083469
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766481"
     },
     "wof:country":"US",
-    "wof:geomhash":"47eeffe366f8435c3e172c4f2248cca0",
+    "wof:geomhash":"0fec264dd7e6e31163a899a8c550dbf7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554780489,
-    "wof:lastmodified":1480843200,
+    "wof:lastmodified":1611185186,
     "wof:name":"21146",
     "wof:parent_id":85949747,
     "wof:placetype":"postalcode",

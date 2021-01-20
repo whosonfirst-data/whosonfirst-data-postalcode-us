@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006289,
-    "geom:area_square_m":58432330.801635,
+    "geom:area_square_m":58432330.801633,
     "geom:bbox":"-73.980533,41.233617,-73.837388,41.334264",
     "geom:latitude":41.288978,
     "geom:longitude":-73.898028,
@@ -14,20 +14,26 @@
     "lbl:latitude":41.2896,
     "lbl:longitude":-73.897001,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cortlandt Manor",
+    "mz:postal_locality_alt":[
+        "Cross River",
+        "Peekskill"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404523355,
         85633793,
-        102082373
+        102082373,
+        404523355,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761572"
     },
     "wof:country":"US",
-    "wof:geomhash":"4c4173f94833ee17d172cb279b631d20",
+    "wof:geomhash":"a5dddaa61ade631b4fbb3e5d9c4a87d4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554700877,
-    "wof:lastmodified":1480835024,
+    "wof:lastmodified":1611183198,
     "wof:name":"10567",
     "wof:parent_id":404523355,
     "wof:placetype":"postalcode",

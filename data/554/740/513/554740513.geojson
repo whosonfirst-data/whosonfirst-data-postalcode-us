@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.093463,
-    "geom:area_square_m":872227194.858214,
+    "geom:area_square_m":872227194.85798,
     "geom:bbox":"-100.362905,40.784885,-100.008119,41.248832",
     "geom:latitude":40.998644,
     "geom:longitude":-100.174187,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.995816,
     "lbl:longitude":-100.176551,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Gothenburg",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688563,
         102191575,
-        404519827,
         85633793,
-        102082197
+        102082197,
+        404519827,
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12788022"
     },
     "wof:country":"US",
-    "wof:geomhash":"dbfd97700de3a230aab6a28b9cca352d",
+    "wof:geomhash":"79de20a6933d09970ab82fde35d6059a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554740513,
-    "wof:lastmodified":1480803218,
+    "wof:lastmodified":1611183420,
     "wof:name":"69138",
     "wof:parent_id":404519827,
     "wof:placetype":"postalcode",

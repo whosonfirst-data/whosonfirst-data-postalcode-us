@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005662,
-    "geom:area_square_m":52983589.022554,
+    "geom:area_square_m":52983589.022503,
     "geom:bbox":"-80.24426,40.770562,-80.15482,40.880532",
     "geom:latitude":40.819572,
     "geom:longitude":-80.198168,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.821932,
     "lbl:longitude":-80.196513,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fombell",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404484443,
         85633793,
-        102081323
+        102081323,
+        404484443,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764165"
     },
     "wof:country":"US",
-    "wof:geomhash":"cc46d43f0e641650dfe5923d00b4f58f",
+    "wof:geomhash":"b413b237dc5fad1a0ae6bc95a26bdfae",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554704313,
-    "wof:lastmodified":1480906171,
+    "wof:lastmodified":1611184503,
     "wof:name":"16123",
     "wof:parent_id":404484443,
     "wof:placetype":"postalcode",

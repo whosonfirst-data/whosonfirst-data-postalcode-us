@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022648,
-    "geom:area_square_m":207445416.601079,
+    "geom:area_square_m":207445416.601058,
     "geom:bbox":"-76.965433,42.125167,-76.728077,42.294423",
     "geom:latitude":42.20496,
     "geom:longitude":-76.835641,
@@ -14,20 +14,25 @@
     "lbl:latitude":42.21584,
     "lbl:longitude":-76.8341,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Horseheads",
+    "mz:postal_locality_alt":[
+        "Ithaca"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522123,
         85633793,
-        102081819
+        102081819,
+        404522123,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763482"
     },
     "wof:country":"US",
-    "wof:geomhash":"9f97af48d8f3ce56c98c8efe6a6fc7ce",
+    "wof:geomhash":"317c3ce914624c03968a2d12ae79951c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554703247,
-    "wof:lastmodified":1480835917,
+    "wof:lastmodified":1611184473,
     "wof:name":"14845",
     "wof:parent_id":404522123,
     "wof:placetype":"postalcode",

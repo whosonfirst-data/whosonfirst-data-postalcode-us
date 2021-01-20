@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042573,
-    "geom:area_square_m":428113667.194095,
+    "geom:area_square_m":428113667.194135,
     "geom:bbox":"-89.072082,35.456885,-88.652279,35.693216",
     "geom:latitude":35.586008,
     "geom:longitude":-88.852799,
@@ -13,19 +13,24 @@
     "lbl:latitude":35.588164,
     "lbl:longitude":-88.853394,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Jackson",
+    "mz:postal_locality_alt":[
+        "Lexington"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688701,
-        102087221
+        102087221,
+        85688701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12774385"
     },
     "wof:country":"US",
-    "wof:geomhash":"69f918e2c93a46260cbb695b09303c5e",
+    "wof:geomhash":"be240ca03d0daf9b9b9e8c4256d633c4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +41,7 @@
         }
     ],
     "wof:id":554717435,
-    "wof:lastmodified":1480914698,
+    "wof:lastmodified":1611185034,
     "wof:name":"38301",
     "wof:parent_id":102087221,
     "wof:placetype":"postalcode",

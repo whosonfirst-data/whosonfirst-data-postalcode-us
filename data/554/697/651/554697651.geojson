@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008205,
-    "geom:area_square_m":74214411.496341,
+    "geom:area_square_m":74214411.496332,
     "geom:bbox":"-71.403574,42.936469,-71.288115,43.041315",
     "geom:latitude":42.990426,
     "geom:longitude":-71.34378,
@@ -14,20 +14,25 @@
     "lbl:latitude":42.997261,
     "lbl:longitude":-71.363424,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Auburn",
+    "mz:postal_locality_alt":[
+        "Pelham"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688689,
         102191575,
-        404476697,
         85633793,
-        102086507
+        102086507,
+        404476697,
+        85688689
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759076"
     },
     "wof:country":"US",
-    "wof:geomhash":"9463aae94a01113581c1d6f100b65551",
+    "wof:geomhash":"4613d9263af02aeffd820b3f8d117f3a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554697651,
-    "wof:lastmodified":1480916575,
+    "wof:lastmodified":1611184643,
     "wof:name":"03032",
     "wof:parent_id":404476697,
     "wof:placetype":"postalcode",

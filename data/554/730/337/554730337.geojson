@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.109797,
-    "geom:area_square_m":937637556.768336,
+    "geom:area_square_m":937637556.768504,
     "geom:bbox":"-94.453648,46.168244,-93.815491,46.48789",
     "geom:latitude":46.320086,
     "geom:longitude":-94.115092,
@@ -14,20 +14,25 @@
     "lbl:latitude":46.322919,
     "lbl:longitude":-94.12521,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Brainerd",
+    "mz:postal_locality_alt":[
+        "Nisswa"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404512059,
         85633793,
-        102087093
+        102087093,
+        404512059,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782475"
     },
     "wof:country":"US",
-    "wof:geomhash":"a44c27b946e6ac60a3058bc646fadf56",
+    "wof:geomhash":"9a61af1855bb474914b2875cfdfbb374",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554730337,
-    "wof:lastmodified":1480788212,
+    "wof:lastmodified":1611182722,
     "wof:name":"56401",
     "wof:parent_id":404512059,
     "wof:placetype":"postalcode",

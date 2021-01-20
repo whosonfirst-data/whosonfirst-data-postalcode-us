@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016068,
-    "geom:area_square_m":145130239.965185,
+    "geom:area_square_m":145130239.965199,
     "geom:bbox":"-83.948671,43.007855,-83.773626,43.13861",
     "geom:latitude":43.075747,
     "geom:longitude":-83.866225,
@@ -14,20 +14,26 @@
     "lbl:latitude":43.075348,
     "lbl:longitude":-83.867227,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Flushing",
+    "mz:postal_locality_alt":[
+        "Fenton",
+        "Flint"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404506603,
         85633793,
-        102083111
+        102083111,
+        404506603,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778826"
     },
     "wof:country":"US",
-    "wof:geomhash":"7b4a3de0810af8585e8ad24ea5c096db",
+    "wof:geomhash":"2a2676f80d6eb1ff5357caaee36ec0e5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554724275,
-    "wof:lastmodified":1480843134,
+    "wof:lastmodified":1611183748,
     "wof:name":"48433",
     "wof:parent_id":404506603,
     "wof:placetype":"postalcode",

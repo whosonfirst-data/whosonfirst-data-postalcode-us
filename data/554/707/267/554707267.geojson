@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000917,
-    "geom:area_square_m":8773925.832327,
+    "geom:area_square_m":8773925.83231,
     "geom:bbox":"-76.704131,39.293787,-76.64865,39.327755",
     "geom:latitude":39.310978,
     "geom:longitude":-76.672036,
@@ -13,20 +13,22 @@
     "lbl:latitude":39.310595,
     "lbl:longitude":-76.671717,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Baltimore",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688501,
         102191575,
         85633793,
+        102081589,
         85949461,
-        102081589
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766509"
     },
     "wof:country":"US",
-    "wof:geomhash":"e3834422e922ec7b3eef0800fdea97a6",
+    "wof:geomhash":"28779c7473d182b429338eec10140339",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +40,7 @@
         }
     ],
     "wof:id":554707267,
-    "wof:lastmodified":1480831126,
+    "wof:lastmodified":1611183143,
     "wof:name":"21216",
     "wof:parent_id":85949461,
     "wof:placetype":"postalcode",

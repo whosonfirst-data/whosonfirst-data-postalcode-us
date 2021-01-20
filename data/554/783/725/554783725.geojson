@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014538,
-    "geom:area_square_m":158824464.311841,
+    "geom:area_square_m":158824464.311701,
     "geom:bbox":"-97.280673,27.821374,-97.089666,28.020607",
     "geom:latitude":27.92768,
     "geom:longitude":-97.177368,
@@ -13,20 +13,25 @@
     "lbl:latitude":27.926913,
     "lbl:longitude":-97.177776,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Aransas Pass",
+    "mz:postal_locality_alt":[
+        "Ingleside"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102081441,
         101724323,
-        102081441
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12792059"
     },
     "wof:country":"US",
-    "wof:geomhash":"7f1f90770b995cca7fff8ba6899ba802",
+    "wof:geomhash":"01a38275aef08a4e984c638ac1401fcc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554783725,
-    "wof:lastmodified":1480834968,
+    "wof:lastmodified":1611183885,
     "wof:name":"78336",
     "wof:parent_id":101724323,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024597,
-    "geom:area_square_m":231667099.168654,
+    "geom:area_square_m":231667099.168505,
     "geom:bbox":"-93.465688,40.303598,-93.188171,40.500887",
     "geom:latitude":40.385025,
     "geom:longitude":-93.334771,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.385743,
     "lbl:longitude":-93.331269,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Newtown",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404517767,
         85633793,
-        102087473
+        102087473,
+        404517767,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786207"
     },
     "wof:country":"US",
-    "wof:geomhash":"ddcd6181271b4ed9ff32c8be144d2167",
+    "wof:geomhash":"762a515cc546163ea1554154f80b0f4a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554736877,
-    "wof:lastmodified":1480813726,
+    "wof:lastmodified":1611183042,
     "wof:name":"64667",
     "wof:parent_id":404517767,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033771,
-    "geom:area_square_m":320836331.51712,
+    "geom:area_square_m":320836331.517145,
     "geom:bbox":"-78.144225,39.722067,-77.801607,39.912063",
     "geom:latitude":39.798061,
     "geom:longitude":-77.945165,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.800187,
     "lbl:longitude":-77.9474,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mercersburg",
+    "mz:postal_locality_alt":[
+        "Lemasters"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485413,
         85633793,
-        102081365
+        102081365,
+        404485413,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764685"
     },
     "wof:country":"US",
-    "wof:geomhash":"b6350cf709cef04e45d8dd54a81edea0",
+    "wof:geomhash":"df1bb49722fc24a821a6a449ad036912",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554705081,
-    "wof:lastmodified":1480824802,
+    "wof:lastmodified":1611184118,
     "wof:name":"17236",
     "wof:parent_id":404485413,
     "wof:placetype":"postalcode",

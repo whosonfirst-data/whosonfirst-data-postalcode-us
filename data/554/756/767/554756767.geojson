@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006239,
-    "geom:area_square_m":60933002.750403,
+    "geom:area_square_m":60933002.750389,
     "geom:bbox":"-92.184679,37.792944,-92.066812,37.873837",
     "geom:latitude":37.828341,
     "geom:longitude":-92.131017,
@@ -14,20 +14,26 @@
     "lbl:latitude":37.828203,
     "lbl:longitude":-92.131213,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"St Robert",
+    "mz:postal_locality_alt":[
+        "Waynesville",
+        "Saint Robert"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404517689,
         85633793,
-        102086161
+        102086161,
+        404517689,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"23509992"
     },
     "wof:country":"US",
-    "wof:geomhash":"9ef764302623024d73e4c00959bf2b20",
+    "wof:geomhash":"fb1616a2e0673bf62c55dadd71bc0348",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554756767,
-    "wof:lastmodified":1480912515,
+    "wof:lastmodified":1611184292,
     "wof:name":"65584",
     "wof:parent_id":404517689,
     "wof:placetype":"postalcode",

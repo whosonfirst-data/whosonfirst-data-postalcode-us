@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009227,
-    "geom:area_square_m":85086956.274294,
+    "geom:area_square_m":85086956.274403,
     "geom:bbox":"-73.42136,41.707395,-73.293307,41.861345",
     "geom:latitude":41.771827,
     "geom:longitude":-73.35798,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.775423,
     "lbl:longitude":-73.362996,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cornwall Bridge",
+    "mz:postal_locality_alt":[
+        "Warren"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688629,
         102191575,
-        404496047,
         85633793,
-        102085375
+        102085375,
+        404496047,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760512"
     },
     "wof:country":"US",
-    "wof:geomhash":"16c7cea6a5930550f2a52b8dbfd3017c",
+    "wof:geomhash":"0290c22f6fb8921ce1369a84b14a0cf5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554699681,
-    "wof:lastmodified":1480805213,
+    "wof:lastmodified":1611184603,
     "wof:name":"06754",
     "wof:parent_id":404496047,
     "wof:placetype":"postalcode",

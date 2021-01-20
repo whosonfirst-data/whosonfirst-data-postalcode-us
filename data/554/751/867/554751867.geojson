@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003009,
-    "geom:area_square_m":30762200.061196,
+    "geom:area_square_m":30762200.061191,
     "geom:bbox":"-118.238903,34.17661,-118.167419,34.267297",
     "geom:latitude":34.221656,
     "geom:longitude":-118.205142,
@@ -13,20 +13,27 @@
     "lbl:latitude":34.222119,
     "lbl:longitude":-118.205306,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"La Canada Flintridge",
+    "mz:postal_locality_alt":[
+        "La Canada Fltrdg",
+        "La Canada",
+        "La Canada Flt"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086957,
         85923565,
-        102086957
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795891"
     },
     "wof:country":"US",
-    "wof:geomhash":"3c045efd215077d07a6e3ea37b8172f5",
+    "wof:geomhash":"b4693ded46e467317a0f3ac272b037d5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +45,7 @@
         }
     ],
     "wof:id":554751867,
-    "wof:lastmodified":1480912621,
+    "wof:lastmodified":1611184337,
     "wof:name":"91011",
     "wof:parent_id":85923565,
     "wof:placetype":"postalcode",

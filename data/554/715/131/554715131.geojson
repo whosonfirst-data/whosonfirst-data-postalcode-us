@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019371,
-    "geom:area_square_m":200641808.047252,
+    "geom:area_square_m":200641808.047102,
     "geom:bbox":"-86.813153,33.00106,-86.603402,33.200034",
     "geom:latitude":33.103845,
     "geom:longitude":-86.730019,
@@ -14,20 +14,22 @@
     "lbl:latitude":33.102967,
     "lbl:longitude":-86.728894,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Calera",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688675,
         102191575,
         85633793,
+        102085499,
         85914223,
-        102085499
+        85688675
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12772920"
     },
     "wof:country":"US",
-    "wof:geomhash":"14791385019ef4df8c1ce3a4173cc289",
+    "wof:geomhash":"6a55f0e79628dbdc5bc0d82c6bb90758",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554715131,
-    "wof:lastmodified":1480811908,
+    "wof:lastmodified":1611183666,
     "wof:name":"35040",
     "wof:parent_id":85914223,
     "wof:placetype":"postalcode",

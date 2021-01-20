@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003242,
-    "geom:area_square_m":34640366.289417,
+    "geom:area_square_m":34640366.28943,
     "geom:bbox":"-97.847041,30.166975,-97.750659,30.234042",
     "geom:latitude":30.206852,
     "geom:longitude":-97.797382,
@@ -13,20 +13,25 @@
     "lbl:latitude":30.206852,
     "lbl:longitude":-97.797382,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Austin",
+    "mz:postal_locality_alt":[
+        "Sunset Valley"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102081935,
         101724577,
-        102081935
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12792323"
     },
     "wof:country":"US",
-    "wof:geomhash":"97cb0ce34052de5fcfeb14cce1d0bc3d",
+    "wof:geomhash":"c2c2a525e9742845a5379d4c7439fa37",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554747135,
-    "wof:lastmodified":1480831119,
+    "wof:lastmodified":1611183447,
     "wof:name":"78745",
     "wof:parent_id":101724577,
     "wof:placetype":"postalcode",

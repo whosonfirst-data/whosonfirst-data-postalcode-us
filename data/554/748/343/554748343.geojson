@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.190114,
-    "geom:area_square_m":1797793993.54484,
+    "geom:area_square_m":1797793993.544949,
     "geom:bbox":"-102.454171,39.731602,-101.976719,40.440008",
     "geom:latitude":40.113987,
     "geom:longitude":-102.200756,
@@ -14,19 +14,26 @@
     "lbl:latitude":40.138836,
     "lbl:longitude":-102.193094,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wray",
+    "mz:postal_locality_alt":[
+        "Fort Morgan",
+        "Yuma",
+        "Lindon"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688603,
-        102084063
+        102084063,
+        85688603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12793194"
     },
     "wof:country":"US",
-    "wof:geomhash":"29f174da876b02739eb3578193a0af14",
+    "wof:geomhash":"f346f310f4b49b93854910b8901eaa17",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +44,7 @@
         }
     ],
     "wof:id":554748343,
-    "wof:lastmodified":1480814232,
+    "wof:lastmodified":1611183870,
     "wof:name":"80758",
     "wof:parent_id":102084063,
     "wof:placetype":"postalcode",

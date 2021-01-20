@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005566,
-    "geom:area_square_m":53059993.5315,
+    "geom:area_square_m":53059993.531503,
     "geom:bbox":"-86.15879,39.533995,-86.003999,39.594975",
     "geom:latitude":39.561059,
     "geom:longitude":-86.072268,
@@ -14,21 +14,26 @@
     "lbl:latitude":39.561936,
     "lbl:longitude":-86.072222,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Whiteland",
+    "mz:postal_locality_alt":[
+        "New Whiteland"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404500933,
         85633793,
+        102086239,
+        404500933,
         85942301,
-        102086239
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777644"
     },
     "wof:country":"US",
-    "wof:geomhash":"c99f493f37515b7733d191335e398818",
+    "wof:geomhash":"09175540cf593c41a8a33311b491afc6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554722561,
-    "wof:lastmodified":1480908880,
+    "wof:lastmodified":1611183212,
     "wof:name":"46184",
     "wof:parent_id":85942301,
     "wof:placetype":"postalcode",

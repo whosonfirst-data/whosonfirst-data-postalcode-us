@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002163,
-    "geom:area_square_m":20454337.299407,
+    "geom:area_square_m":20454337.299436,
     "geom:bbox":"-75.221573,40.07275,-75.131173,40.130031",
     "geom:latitude":40.101686,
     "geom:longitude":-75.172409,
@@ -14,20 +14,28 @@
     "lbl:latitude":40.100418,
     "lbl:longitude":-75.171761,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Glenside",
+    "mz:postal_locality_alt":[
+        "Abington",
+        "Cheltenham",
+        "Fort Washington",
+        "Philadelphia"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485449,
         85633793,
-        102081355
+        102081355,
+        404485449,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765439"
     },
     "wof:country":"US",
-    "wof:geomhash":"7a83f0446ee82993950af7c645969234",
+    "wof:geomhash":"f2abc2571f899b2efeeb978fa663512b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +47,7 @@
         }
     ],
     "wof:id":554706191,
-    "wof:lastmodified":1480818598,
+    "wof:lastmodified":1611182701,
     "wof:name":"19038",
     "wof:parent_id":404485449,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004943,
-    "geom:area_square_m":50156053.278541,
+    "geom:area_square_m":50156053.278493,
     "geom:bbox":"-82.36174,34.82031,-82.225274,34.900581",
     "geom:latitude":34.855831,
     "geom:longitude":-82.295136,
@@ -13,19 +13,24 @@
     "lbl:latitude":34.856825,
     "lbl:longitude":-82.296139,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Greenville",
+    "mz:postal_locality_alt":[
+        "Anderson"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688683,
-        102085747
+        102085747,
+        85688683
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770303"
     },
     "wof:country":"US",
-    "wof:geomhash":"1a91f589f8b0a3a6e5da82158c6d45db",
+    "wof:geomhash":"5976df2d6135a4f59b57be6f21dd40b0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +41,7 @@
         }
     ],
     "wof:id":554712373,
-    "wof:lastmodified":1480805764,
+    "wof:lastmodified":1611183737,
     "wof:name":"29615",
     "wof:parent_id":102085747,
     "wof:placetype":"postalcode",

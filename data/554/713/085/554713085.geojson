@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002501,
-    "geom:area_square_m":25656861.802243,
+    "geom:area_square_m":25656861.802237,
     "geom:bbox":"-84.352436,33.916119,-84.281746,33.970911",
     "geom:latitude":33.943692,
     "geom:longitude":-84.317483,
@@ -13,20 +13,25 @@
     "lbl:latitude":33.946218,
     "lbl:longitude":-84.318119,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Atlanta",
+    "mz:postal_locality_alt":[
+        "Dunwoody"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688535,
         102191575,
         85633793,
+        102084539,
         85936467,
-        102084539
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770753"
     },
     "wof:country":"US",
-    "wof:geomhash":"884b813d18645d19724d0a40e941bfee",
+    "wof:geomhash":"6944fd8cf96548c3f7ba2d6830b3f253",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554713085,
-    "wof:lastmodified":1480841938,
+    "wof:lastmodified":1611183302,
     "wof:name":"30338",
     "wof:parent_id":85936467,
     "wof:placetype":"postalcode",

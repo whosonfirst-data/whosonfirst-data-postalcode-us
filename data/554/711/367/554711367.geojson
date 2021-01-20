@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037085,
-    "geom:area_square_m":375673037.519517,
+    "geom:area_square_m":375673037.519371,
     "geom:bbox":"-79.430377,34.900259,-79.034799,35.072272",
     "geom:latitude":34.991888,
     "geom:longitude":-79.242682,
@@ -14,20 +14,26 @@
     "lbl:latitude":34.992407,
     "lbl:longitude":-79.242642,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Raeford",
+    "mz:postal_locality_alt":[
+        "Laurinburg",
+        "Pinehurst"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688773,
         102191575,
         85633793,
+        102087749,
         85981451,
-        102087749
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12769605"
     },
     "wof:country":"US",
-    "wof:geomhash":"86f60d3e5c9cca414c12055a2bcc3531",
+    "wof:geomhash":"f914a6838950303c3c2e14a289c22dcf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554711367,
-    "wof:lastmodified":1480904858,
+    "wof:lastmodified":1611185327,
     "wof:name":"28376",
     "wof:parent_id":85981451,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01179,
-    "geom:area_square_m":109083121.066307,
+    "geom:area_square_m":109083121.066496,
     "geom:bbox":"-72.559523,41.462392,-72.430767,41.646999",
     "geom:latitude":41.558906,
     "geom:longitude":-72.505637,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.560603,
     "lbl:longitude":-72.502329,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"East Hampton",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688629,
         102191575,
-        404496067,
         85633793,
-        102086211
+        102086211,
+        404496067,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760394"
     },
     "wof:country":"US",
-    "wof:geomhash":"9c4a2bab64d717e364880fc7d9a9986c",
+    "wof:geomhash":"5cd4fd04ef58f42e5f361c10f8484c5c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554699569,
-    "wof:lastmodified":1480908720,
+    "wof:lastmodified":1611184599,
     "wof:name":"06424",
     "wof:parent_id":404496067,
     "wof:placetype":"postalcode",

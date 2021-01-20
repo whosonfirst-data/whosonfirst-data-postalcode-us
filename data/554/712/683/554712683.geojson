@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006518,
-    "geom:area_square_m":66793654.7509,
+    "geom:area_square_m":66793654.750911,
     "geom:bbox":"-84.315466,33.972,-84.185843,34.091374",
     "geom:latitude":34.030292,
     "geom:longitude":-84.247196,
@@ -13,20 +13,29 @@
     "lbl:latitude":34.029865,
     "lbl:longitude":-84.239745,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Alpharetta",
+    "mz:postal_locality_alt":[
+        "Roswell",
+        "Johns Creek",
+        "Lawrenceville",
+        "Duluth",
+        "Stone Mountain"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688535,
         102191575,
         85633793,
+        102083603,
         85937169,
-        102083603
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770508"
     },
     "wof:country":"US",
-    "wof:geomhash":"50d1c53b06269b29913cf18fc979573b",
+    "wof:geomhash":"43891bf1ac21fce871854026e21e7b7d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +47,7 @@
         }
     ],
     "wof:id":554712683,
-    "wof:lastmodified":1480841939,
+    "wof:lastmodified":1611183727,
     "wof:name":"30022",
     "wof:parent_id":85937169,
     "wof:placetype":"postalcode",

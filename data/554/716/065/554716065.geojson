@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005562,
-    "geom:area_square_m":58796718.667849,
+    "geom:area_square_m":58796718.667863,
     "geom:bbox":"-85.324765,31.197537,-85.200926,31.307775",
     "geom:latitude":31.256204,
     "geom:longitude":-85.270185,
@@ -14,20 +14,22 @@
     "lbl:latitude":31.251143,
     "lbl:longitude":-85.269809,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Webb",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688675,
         102191575,
         85633793,
+        102085441,
         85913349,
-        102085441
+        85688675
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12773494"
     },
     "wof:country":"US",
-    "wof:geomhash":"b518805b2ee6d4b58fcdc50fbc82529d",
+    "wof:geomhash":"8d5d510dec6127f1a01aa3fc14d07689",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554716065,
-    "wof:lastmodified":1480816213,
+    "wof:lastmodified":1611185363,
     "wof:name":"36376",
     "wof:parent_id":85913349,
     "wof:placetype":"postalcode",

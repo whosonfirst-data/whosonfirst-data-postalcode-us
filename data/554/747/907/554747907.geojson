@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005468,
-    "geom:area_square_m":51845547.689417,
+    "geom:area_square_m":51845547.689428,
     "geom:bbox":"-105.141321,39.870826,-105.015222,39.97526",
     "geom:latitude":39.931757,
     "geom:longitude":-105.074486,
@@ -13,20 +13,25 @@
     "lbl:latitude":39.930782,
     "lbl:longitude":-105.074287,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Broomfield",
+    "mz:postal_locality_alt":[
+        "Westminster"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688603,
         102191575,
         85633793,
+        102086123,
         85929855,
-        102086123
+        85688603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12792879"
     },
     "wof:country":"US",
-    "wof:geomhash":"55587bc3bbacdb1d82e1a70bb47cea54",
+    "wof:geomhash":"b93b5b23e54739f555b69496a5139a6b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554747907,
-    "wof:lastmodified":1480910652,
+    "wof:lastmodified":1611183447,
     "wof:name":"80020",
     "wof:parent_id":85929855,
     "wof:placetype":"postalcode",

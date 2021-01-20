@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017947,
-    "geom:area_square_m":172321273.77447,
+    "geom:area_square_m":172321273.774581,
     "geom:bbox":"-84.008247,38.973359,-83.830202,39.150787",
     "geom:latitude":39.059492,
     "geom:longitude":-83.919264,
@@ -14,20 +14,26 @@
     "lbl:latitude":39.063424,
     "lbl:longitude":-83.916827,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mount Orab",
+    "mz:postal_locality_alt":[
+        "Mt Orab",
+        "Williamsburg"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404524891,
         85633793,
-        102083665
+        102083665,
+        404524891,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777104"
     },
     "wof:country":"US",
-    "wof:geomhash":"b425b48fd820078b0a22c21da02a2679",
+    "wof:geomhash":"cfe5d7e28a27018ab1677d39398a3068",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554721681,
-    "wof:lastmodified":1480840119,
+    "wof:lastmodified":1611184948,
     "wof:name":"45154",
     "wof:parent_id":404524891,
     "wof:placetype":"postalcode",

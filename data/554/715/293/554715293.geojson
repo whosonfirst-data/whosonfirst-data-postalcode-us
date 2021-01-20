@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000508,
-    "geom:area_square_m":5234573.625378,
+    "geom:area_square_m":5234573.625372,
     "geom:bbox":"-86.827163,33.504396,-86.791246,33.532943",
     "geom:latitude":33.518601,
     "geom:longitude":-86.809807,
@@ -13,20 +13,22 @@
     "lbl:latitude":33.518601,
     "lbl:longitude":-86.809808,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Birmingham",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688675,
         102191575,
         85633793,
+        102085481,
         85914465,
-        102085481
+        85688675
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12773014"
     },
     "wof:country":"US",
-    "wof:geomhash":"2635173896e70ee6a1d0fce82634b236",
+    "wof:geomhash":"ea5016e89ec5982a7069389b94e93b18",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +40,7 @@
         }
     ],
     "wof:id":554715293,
-    "wof:lastmodified":1480808051,
+    "wof:lastmodified":1611183653,
     "wof:name":"35203",
     "wof:parent_id":85914465,
     "wof:placetype":"postalcode",

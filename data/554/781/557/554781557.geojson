@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001897,
-    "geom:area_square_m":21134326.972235,
+    "geom:area_square_m":21134326.972242,
     "geom:bbox":"-80.334916,25.688077,-80.245025,25.71884",
     "geom:latitude":25.702207,
     "geom:longitude":-80.297789,
@@ -13,20 +13,26 @@
     "lbl:latitude":25.703032,
     "lbl:longitude":-80.297375,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Miami",
+    "mz:postal_locality_alt":[
+        "South Miami",
+        "Coral Gables"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688651,
         102191575,
         85633793,
+        102085771,
         85933583,
-        102085771
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12772153"
     },
     "wof:country":"US",
-    "wof:geomhash":"b4b5333a0562a49b36afc8b87573139a",
+    "wof:geomhash":"81623f2d6ee574639ffb17a46573896c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554781557,
-    "wof:lastmodified":1480806627,
+    "wof:lastmodified":1611184809,
     "wof:name":"33143",
     "wof:parent_id":85933583,
     "wof:placetype":"postalcode",

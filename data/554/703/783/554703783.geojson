@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012693,
-    "geom:area_square_m":120362227.085123,
+    "geom:area_square_m":120362227.085166,
     "geom:bbox":"-79.513087,39.841696,-79.355911,39.994409",
     "geom:latitude":39.924442,
     "geom:longitude":-79.436669,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.930138,
     "lbl:longitude":-79.436202,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mill Run",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404487163,
         85633793,
-        102080959
+        102080959,
+        404487163,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763823"
     },
     "wof:country":"US",
-    "wof:geomhash":"76f20b17522c30b41914d2d68366174e",
+    "wof:geomhash":"507f71d03c6649defc7c1db0be0dbf3e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554703783,
-    "wof:lastmodified":1480906233,
+    "wof:lastmodified":1611184465,
     "wof:name":"15464",
     "wof:parent_id":404487163,
     "wof:placetype":"postalcode",

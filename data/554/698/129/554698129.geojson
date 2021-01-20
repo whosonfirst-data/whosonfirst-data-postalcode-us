@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017161,
-    "geom:area_square_m":153638341.180086,
+    "geom:area_square_m":153638341.180005,
     "geom:bbox":"-71.284881,43.53937,-71.059234,43.679366",
     "geom:latitude":43.612249,
     "geom:longitude":-71.171889,
@@ -14,20 +14,27 @@
     "lbl:latitude":43.603773,
     "lbl:longitude":-71.177139,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wolfeboro",
+    "mz:postal_locality_alt":[
+        "Durham",
+        "Plaistow",
+        "Wolfeboro Falls"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688689,
         102191575,
-        404476973,
         85633793,
-        102086581
+        102086581,
+        404476973,
+        85688689
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759350"
     },
     "wof:country":"US",
-    "wof:geomhash":"8701bf6bfac904357e2ed9daef8f1e13",
+    "wof:geomhash":"17d07f2b1390828d8bc7af2c24fd928c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554698129,
-    "wof:lastmodified":1480911763,
+    "wof:lastmodified":1611184687,
     "wof:name":"03894",
     "wof:parent_id":404476973,
     "wof:placetype":"postalcode",

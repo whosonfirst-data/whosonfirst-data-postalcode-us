@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010694,
-    "geom:area_square_m":100335752.962454,
+    "geom:area_square_m":100335752.962384,
     "geom:bbox":"-79.692587,40.571642,-79.535344,40.707402",
     "geom:latitude":40.646354,
     "geom:longitude":-79.622086,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.656904,
     "lbl:longitude":-79.629005,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Leechburg",
+    "mz:postal_locality_alt":[
+        "Slickville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404484279,
         85633793,
-        102081371
+        102081371,
+        404484279,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763928"
     },
     "wof:country":"US",
-    "wof:geomhash":"a2f9396ac81bc2e62044b2fe24362fe9",
+    "wof:geomhash":"77134185e4ed6bc9cb264bda526e17b9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554703943,
-    "wof:lastmodified":1480905393,
+    "wof:lastmodified":1611184484,
     "wof:name":"15656",
     "wof:parent_id":404484279,
     "wof:placetype":"postalcode",

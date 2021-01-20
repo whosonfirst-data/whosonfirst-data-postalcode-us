@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026007,
-    "geom:area_square_m":279525288.945941,
+    "geom:area_square_m":279525288.945811,
     "geom:bbox":"-82.690705,29.513733,-82.472337,29.726873",
     "geom:latitude":29.632683,
     "geom:longitude":-82.604621,
@@ -14,20 +14,22 @@
     "lbl:latitude":29.632156,
     "lbl:longitude":-82.589919,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Newberry",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688651,
         102191575,
         85633793,
+        102085829,
         85932195,
-        102085829
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12771853"
     },
     "wof:country":"US",
-    "wof:geomhash":"1841fd52ba30b718f0c85dded05546fd",
+    "wof:geomhash":"bf7bbb5e9eb7c0358976bedcff40971f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554714535,
-    "wof:lastmodified":1480811657,
+    "wof:lastmodified":1611183347,
     "wof:name":"32669",
     "wof:parent_id":85932195,
     "wof:placetype":"postalcode",

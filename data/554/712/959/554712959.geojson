@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017862,
-    "geom:area_square_m":184496168.679697,
+    "geom:area_square_m":184496168.679693,
     "geom:bbox":"-84.240336,33.272301,-83.975432,33.419484",
     "geom:latitude":33.351423,
     "geom:longitude":-84.107754,
@@ -14,20 +14,27 @@
     "lbl:latitude":33.351576,
     "lbl:longitude":-84.105959,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Locust Grove",
+    "mz:postal_locality_alt":[
+        "Mcdonough",
+        "Mc Donough",
+        "Senoia"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688535,
         102191575,
         85633793,
+        102082899,
         85936737,
-        102082899
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770676"
     },
     "wof:country":"US",
-    "wof:geomhash":"6f5f280a4b11a900cc4be58c47bcb36f",
+    "wof:geomhash":"654cdc66309a79db63281e557b56bc02",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554712959,
-    "wof:lastmodified":1480797012,
+    "wof:lastmodified":1611183717,
     "wof:name":"30248",
     "wof:parent_id":85936737,
     "wof:placetype":"postalcode",

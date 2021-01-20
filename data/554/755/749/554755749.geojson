@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053625,
-    "geom:area_square_m":443452354.326267,
+    "geom:area_square_m":443452354.326429,
     "geom:bbox":"-123.250758,47.866673,-122.872975,48.184952",
     "geom:latitude":48.027288,
     "geom:longitude":-123.078637,
@@ -14,19 +14,26 @@
     "lbl:latitude":48.023189,
     "lbl:longitude":-123.106245,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Sequim",
+    "mz:postal_locality_alt":[
+        "Carlsborg",
+        "Port Townsend",
+        "Forks"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688623,
-        102084229
+        102084229,
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12799144"
     },
     "wof:country":"US",
-    "wof:geomhash":"b3a03f4382841b0ee56c96a773cb67aa",
+    "wof:geomhash":"1aac9f009e4852bc5078a147e061a2f7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +44,7 @@
         }
     ],
     "wof:id":554755749,
-    "wof:lastmodified":1480809884,
+    "wof:lastmodified":1611182582,
     "wof:name":"98382",
     "wof:parent_id":102084229,
     "wof:placetype":"postalcode",

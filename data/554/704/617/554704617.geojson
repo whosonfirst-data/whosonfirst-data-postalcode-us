@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0112,
-    "geom:area_square_m":105812905.570746,
+    "geom:area_square_m":105812905.570778,
     "geom:bbox":"-78.48996,40.100762,-78.363912,40.273789",
     "geom:latitude":40.17966,
     "geom:longitude":-78.424305,
@@ -13,20 +13,25 @@
     "lbl:latitude":40.180753,
     "lbl:longitude":-78.423648,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"New Enterprise",
+    "mz:postal_locality_alt":[
+        "Loysburg"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404484497,
         85633793,
-        102080939
+        102080939,
+        404484497,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764399"
     },
     "wof:country":"US",
-    "wof:geomhash":"2f4ac69d06522049167aee957a18621d",
+    "wof:geomhash":"85beb7f01149e480b52aef0e21b7f4a5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554704617,
-    "wof:lastmodified":1480903173,
+    "wof:lastmodified":1611184492,
     "wof:name":"16664",
     "wof:parent_id":404484497,
     "wof:placetype":"postalcode",

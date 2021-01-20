@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.088833,
-    "geom:area_square_m":733798369.657349,
+    "geom:area_square_m":733798369.657112,
     "geom:bbox":"-102.181241,47.804172,-101.69572,48.291791",
     "geom:latitude":48.084261,
     "geom:longitude":-101.975505,
@@ -14,20 +14,22 @@
     "lbl:latitude":48.088309,
     "lbl:longitude":-101.976214,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Plaza",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688525,
         102191575,
-        404481263,
         85633793,
-        102082569
+        102082569,
+        404481263,
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12783487"
     },
     "wof:country":"US",
-    "wof:geomhash":"3b948c2f194143b251060ad8c0f5ab1d",
+    "wof:geomhash":"f39f83d2609d929020dcfdbb57a1268c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554732335,
-    "wof:lastmodified":1480795567,
+    "wof:lastmodified":1611184389,
     "wof:name":"58771",
     "wof:parent_id":404481263,
     "wof:placetype":"postalcode",

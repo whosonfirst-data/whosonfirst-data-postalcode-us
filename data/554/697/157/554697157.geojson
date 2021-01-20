@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002608,
-    "geom:area_square_m":23921362.294818,
+    "geom:area_square_m":23921362.294815,
     "geom:bbox":"-71.71351,42.093954,-71.621248,42.155055",
     "geom:latitude":42.119934,
     "geom:longitude":-71.66952,
@@ -14,21 +14,28 @@
     "lbl:latitude":42.118794,
     "lbl:longitude":-71.672494,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Whitinsville",
+    "mz:postal_locality_alt":[
+        "North Uxbridge",
+        "Northbridge",
+        "Linwood"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476673,
         85633793,
+        102084655,
+        404476673,
         85950701,
-        102084655
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758522"
     },
     "wof:country":"US",
-    "wof:geomhash":"42b83b9c9657e1b1f2b17e750f28257e",
+    "wof:geomhash":"683519e6269ebb16b3f5d7ef85aca931",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +48,7 @@
         }
     ],
     "wof:id":554697157,
-    "wof:lastmodified":1480803786,
+    "wof:lastmodified":1611184636,
     "wof:name":"01588",
     "wof:parent_id":85950701,
     "wof:placetype":"postalcode",

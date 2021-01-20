@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003867,
-    "geom:area_square_m":35833331.469004,
+    "geom:area_square_m":35833331.469015,
     "geom:bbox":"-82.131624,41.420856,-82.066554,41.508772",
     "geom:latitude":41.467273,
     "geom:longitude":-82.093329,
@@ -14,21 +14,27 @@
     "lbl:latitude":41.4716,
     "lbl:longitude":-82.090338,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Sheffield Lake",
+    "mz:postal_locality_alt":[
+        "Sheffield Vlg",
+        "Lorain"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404525325,
         85633793,
+        102083683,
+        404525325,
         101712965,
-        102083683
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776593"
     },
     "wof:country":"US",
-    "wof:geomhash":"07796ee01ee534836ddca2913eda7b55",
+    "wof:geomhash":"4ab999143a2462006cb964184e2a42a9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554782343,
-    "wof:lastmodified":1480835324,
+    "wof:lastmodified":1611183636,
     "wof:name":"44054",
     "wof:parent_id":101712965,
     "wof:placetype":"postalcode",

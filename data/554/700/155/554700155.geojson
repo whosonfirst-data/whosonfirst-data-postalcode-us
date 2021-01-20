@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00299,
-    "geom:area_square_m":27903780.246603,
+    "geom:area_square_m":27903780.246557,
     "geom:bbox":"-74.055286,40.973332,-73.959047,41.046396",
     "geom:latitude":41.009185,
     "geom:longitude":-74.004148,
@@ -14,21 +14,31 @@
     "lbl:latitude":41.003506,
     "lbl:longitude":-74.001778,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Westwood",
+    "mz:postal_locality_alt":[
+        "Old Tappan",
+        "River Vale",
+        "Rivervale",
+        "Washington Twp",
+        "Woodcliff Lake",
+        "Maywood"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477705,
         85633793,
+        102086773,
+        404477705,
         85975957,
-        102086773
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760834"
     },
     "wof:country":"US",
-    "wof:geomhash":"84322d4e39d203a18cb2dd247f2b27f5",
+    "wof:geomhash":"02326179a8c7099bef844a18656c0f1c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +51,7 @@
         }
     ],
     "wof:id":554700155,
-    "wof:lastmodified":1480908563,
+    "wof:lastmodified":1611183195,
     "wof:name":"07675",
     "wof:parent_id":85975957,
     "wof:placetype":"postalcode",

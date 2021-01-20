@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006477,
-    "geom:area_square_m":66020443.382132,
+    "geom:area_square_m":66020443.382172,
     "geom:bbox":"-83.849442,34.44203,-83.701343,34.514096",
     "geom:latitude":34.479451,
     "geom:longitude":-83.786282,
@@ -14,20 +14,25 @@
     "lbl:latitude":34.480827,
     "lbl:longitude":-83.781847,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Clermont",
+    "mz:postal_locality_alt":[
+        "Talmo"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688535,
         102191575,
         85633793,
+        102083629,
         85936865,
-        102083629
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770873"
     },
     "wof:country":"US",
-    "wof:geomhash":"91804628459e4cb4dbb2b3bc20cbd84d",
+    "wof:geomhash":"cbea7bf08b4e86daed047698c23dc04d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554713233,
-    "wof:lastmodified":1480836743,
+    "wof:lastmodified":1611183308,
     "wof:name":"30527",
     "wof:parent_id":85936865,
     "wof:placetype":"postalcode",

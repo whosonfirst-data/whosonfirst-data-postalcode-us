@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002103,
-    "geom:area_square_m":20684044.985679,
+    "geom:area_square_m":20684044.985712,
     "geom:bbox":"-121.93178,37.271282,-121.843866,37.323753",
     "geom:latitude":37.295056,
     "geom:longitude":-121.89144,
@@ -13,20 +13,25 @@
     "lbl:latitude":37.295056,
     "lbl:longitude":-121.89144,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"San Jose",
+    "mz:postal_locality_alt":[
+        "Willow Glen"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102081673,
         85922347,
-        102081673
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12797576"
     },
     "wof:country":"US",
-    "wof:geomhash":"b9fff575c145bfd0f56682f2174864cb",
+    "wof:geomhash":"5ceafa5c29e68d4a35e32ebbf76a2f11",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554753379,
-    "wof:lastmodified":1480829306,
+    "wof:lastmodified":1611182943,
     "wof:name":"95125",
     "wof:parent_id":85922347,
     "wof:placetype":"postalcode",

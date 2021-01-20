@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003087,
-    "geom:area_square_m":28754909.73197,
+    "geom:area_square_m":28754909.731991,
     "geom:bbox":"-74.073609,41.063458,-74.018934,41.169173",
     "geom:latitude":41.117678,
     "geom:longitude":-74.048138,
@@ -14,21 +14,26 @@
     "lbl:latitude":41.11892,
     "lbl:longitude":-74.048158,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Spring Valley",
+    "mz:postal_locality_alt":[
+        "Chestnut Ridge"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404523097,
         85633793,
+        102082385,
+        404523097,
         85978531,
-        102082385
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761667"
     },
     "wof:country":"US",
-    "wof:geomhash":"0c60ec6f2257629b47af0d368665c5ee",
+    "wof:geomhash":"82ab9ee1db9f51037204f6c87c1770c6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554701013,
-    "wof:lastmodified":1480908561,
+    "wof:lastmodified":1611182618,
     "wof:name":"10977",
     "wof:parent_id":85978531,
     "wof:placetype":"postalcode",

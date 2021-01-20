@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015135,
-    "geom:area_square_m":135643001.183448,
+    "geom:area_square_m":135643001.183454,
     "geom:bbox":"-94.854668,43.500865,-94.67393,43.602758",
     "geom:latitude":43.5478,
     "geom:longitude":-94.774394,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.547469,
     "lbl:longitude":-94.764701,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Dunnell",
+    "mz:postal_locality_alt":[
+        "Beaver Creek"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404510181,
         85633793,
-        102087019
+        102087019,
+        404510181,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782266"
     },
     "wof:country":"US",
-    "wof:geomhash":"58fb4d7505dd986b76cec9c031dc15f6",
+    "wof:geomhash":"5a49138e006a802457f06b132753108a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554729915,
-    "wof:lastmodified":1480916772,
+    "wof:lastmodified":1611185421,
     "wof:name":"56127",
     "wof:parent_id":404510181,
     "wof:placetype":"postalcode",

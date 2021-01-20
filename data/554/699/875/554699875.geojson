@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001103,
-    "geom:area_square_m":10361283.057379,
+    "geom:area_square_m":10361283.057388,
     "geom:bbox":"-74.338493,40.573986,-74.290481,40.608903",
     "geom:latitude":40.592609,
     "geom:longitude":-74.314837,
@@ -14,21 +14,28 @@
     "lbl:latitude":40.589255,
     "lbl:longitude":-74.311311,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Colonia",
+    "mz:postal_locality_alt":[
+        "Towaco",
+        "Parsippany",
+        "Iselin"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478217,
         85633793,
+        102087417,
+        404478217,
         85976291,
-        102087417
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760658"
     },
     "wof:country":"US",
-    "wof:geomhash":"b7dacb374fdf531018f1820cbcc5cdf5",
+    "wof:geomhash":"a7a75d20c2fe8582e272572fd4af4f7d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +48,7 @@
         }
     ],
     "wof:id":554699875,
-    "wof:lastmodified":1480805176,
+    "wof:lastmodified":1611184607,
     "wof:name":"07067",
     "wof:parent_id":85976291,
     "wof:placetype":"postalcode",

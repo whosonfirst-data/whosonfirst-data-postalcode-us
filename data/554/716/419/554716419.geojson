@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014266,
-    "geom:area_square_m":142715276.137954,
+    "geom:area_square_m":142715276.137947,
     "geom:bbox":"-86.888793,35.93256,-86.681483,36.065644",
     "geom:latitude":35.999272,
     "geom:longitude":-86.783787,
@@ -13,20 +13,25 @@
     "lbl:latitude":35.999288,
     "lbl:longitude":-86.785062,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Brentwood",
+    "mz:postal_locality_alt":[
+        "Franklin"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688701,
         102191575,
         85633793,
+        102086337,
         101723097,
-        102086337
+        85688701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12773756"
     },
     "wof:country":"US",
-    "wof:geomhash":"3c5226dd4b90395b7f0b4c58b557ad62",
+    "wof:geomhash":"4022ae91592df85dbb3092b99c828466",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554716419,
-    "wof:lastmodified":1480915649,
+    "wof:lastmodified":1611185383,
     "wof:name":"37027",
     "wof:parent_id":101723097,
     "wof:placetype":"postalcode",

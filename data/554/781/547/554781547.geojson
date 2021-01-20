@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0014,
-    "geom:area_square_m":15590138.878539,
+    "geom:area_square_m":15590138.878518,
     "geom:bbox":"-80.187103,25.760045,-80.119285,25.804383",
     "geom:latitude":25.784661,
     "geom:longitude":-80.146107,
@@ -13,20 +13,25 @@
     "lbl:latitude":25.779391,
     "lbl:longitude":-80.151566,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Miami Beach",
+    "mz:postal_locality_alt":[
+        "Miami"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688651,
         102191575,
         85633793,
+        102085771,
         85933671,
-        102085771
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12772149"
     },
     "wof:country":"US",
-    "wof:geomhash":"d2f6f08a771154ff520ca84646ec7e96",
+    "wof:geomhash":"95bca7fcab19615f912eafe9b5ba0874",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554781547,
-    "wof:lastmodified":1480806628,
+    "wof:lastmodified":1611184836,
     "wof:name":"33139",
     "wof:parent_id":85933671,
     "wof:placetype":"postalcode",

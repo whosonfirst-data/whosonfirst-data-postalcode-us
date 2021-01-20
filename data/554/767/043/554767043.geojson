@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000255,
-    "geom:area_square_m":2414873.684046,
+    "geom:area_square_m":2414873.684036,
     "geom:bbox":"-79.70391,39.950451,-79.67856,39.97845",
     "geom:latitude":39.966382,
     "geom:longitude":-79.696054,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.966381,
     "lbl:longitude":-79.696055,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"West Leisenring",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404486929,
         85633793,
-        102080959
+        102080959,
+        404486929,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763845"
     },
     "wof:country":"US",
-    "wof:geomhash":"4ea01188f32b30baea284e1b5b1a425f",
+    "wof:geomhash":"76050c253a2264a78de85ae3d9ac20c6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554767043,
-    "wof:lastmodified":1480906230,
+    "wof:lastmodified":1611184259,
     "wof:name":"15489",
     "wof:parent_id":404486929,
     "wof:placetype":"postalcode",

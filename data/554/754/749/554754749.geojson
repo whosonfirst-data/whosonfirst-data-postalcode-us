@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003458,
-    "geom:area_square_m":30262505.923586,
+    "geom:area_square_m":30262505.923621,
     "geom:bbox":"-123.047023,44.910933,-122.95847,45.001533",
     "geom:latitude":44.949027,
     "geom:longitude":-123.00397,
@@ -13,20 +13,25 @@
     "lbl:latitude":44.94878,
     "lbl:longitude":-123.003655,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Salem",
+    "mz:postal_locality_alt":[
+        "Corvallis"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688513,
         102191575,
         85633793,
+        102082219,
         101716049,
-        102082219
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12798563"
     },
     "wof:country":"US",
-    "wof:geomhash":"233c16035f55bf69af2b64f369b287a8",
+    "wof:geomhash":"249aa2fe421240b2ce914ea6967440b6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554754749,
-    "wof:lastmodified":1480833183,
+    "wof:lastmodified":1611182893,
     "wof:name":"97301",
     "wof:parent_id":101716049,
     "wof:placetype":"postalcode",

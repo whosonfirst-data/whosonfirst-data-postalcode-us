@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002833,
-    "geom:area_square_m":26661437.876257,
+    "geom:area_square_m":26661437.876244,
     "geom:bbox":"-80.172815,40.408126,-80.040698,40.459977",
     "geom:latitude":40.438087,
     "geom:longitude":-80.099091,
@@ -13,20 +13,25 @@
     "lbl:latitude":40.43809,
     "lbl:longitude":-80.099088,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pittsburgh",
+    "mz:postal_locality_alt":[
+        "Crafton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404484175,
         85633793,
-        102080887
+        102080887,
+        404484175,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763646"
     },
     "wof:country":"US",
-    "wof:geomhash":"107985ad52c32c202a7996323f03cb3e",
+    "wof:geomhash":"685d239cc380d6bd1aa833b13ed21f42",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554703533,
-    "wof:lastmodified":1480905390,
+    "wof:lastmodified":1611184446,
     "wof:name":"15205",
     "wof:parent_id":404484175,
     "wof:placetype":"postalcode",

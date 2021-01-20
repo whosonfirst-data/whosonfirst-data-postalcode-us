@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009563,
-    "geom:area_square_m":88582497.429068,
+    "geom:area_square_m":88582497.429074,
     "geom:bbox":"-96.703387,41.426078,-96.558681,41.553646",
     "geom:latitude":41.487452,
     "geom:longitude":-96.636357,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.492162,
     "lbl:longitude":-96.639488,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ames",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688563,
         102191575,
-        404519961,
         85633793,
-        102082773
+        102082773,
+        404519961,
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787736"
     },
     "wof:country":"US",
-    "wof:geomhash":"981c542bab6b7dbab5850cdb6199f991",
+    "wof:geomhash":"493a1f6e1f939db66effa9ed29221974",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554739905,
-    "wof:lastmodified":1480796033,
+    "wof:lastmodified":1611182668,
     "wof:name":"68621",
     "wof:parent_id":404519961,
     "wof:placetype":"postalcode",

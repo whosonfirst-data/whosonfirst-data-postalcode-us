@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048986,
-    "geom:area_square_m":498243993.819735,
+    "geom:area_square_m":498243993.819502,
     "geom:bbox":"-87.997177,34.56915,-87.564067,34.757851",
     "geom:latitude":34.657625,
     "geom:longitude":-87.782895,
@@ -14,19 +14,25 @@
     "lbl:latitude":34.66241,
     "lbl:longitude":-87.781902,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Tuscumbia",
+    "mz:postal_locality_alt":[
+        "Sheffield",
+        "Leighton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688675,
-        102085625
+        102085625,
+        85688675
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12773217"
     },
     "wof:country":"US",
-    "wof:geomhash":"43d8fa05460a7e3d26e2a814f699611f",
+    "wof:geomhash":"5089233f0f2372b5ed81e9965d55132e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554715587,
-    "wof:lastmodified":1480809161,
+    "wof:lastmodified":1611183663,
     "wof:name":"35674",
     "wof:parent_id":102085625,
     "wof:placetype":"postalcode",

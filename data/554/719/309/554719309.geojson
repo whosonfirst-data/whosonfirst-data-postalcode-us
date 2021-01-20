@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.089649,
-    "geom:area_square_m":867223060.671578,
+    "geom:area_square_m":867223060.67058,
     "geom:bbox":"-83.644913,38.318258,-83.179863,38.703103",
     "geom:latitude":38.526704,
     "geom:longitude":-83.387621,
@@ -14,19 +14,24 @@
     "lbl:latitude":38.552152,
     "lbl:longitude":-83.376774,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Vanceburg",
+    "mz:postal_locality_alt":[
+        "Sandy Hook"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688641,
-        102084523
+        102084523,
+        85688641
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12775558"
     },
     "wof:country":"US",
-    "wof:geomhash":"cf83b223d5a0ac64a7d8a9196e8704f4",
+    "wof:geomhash":"38ec45989f33e07854b21daf43bada98",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554719309,
-    "wof:lastmodified":1480833725,
+    "wof:lastmodified":1611184902,
     "wof:name":"41179",
     "wof:parent_id":102084523,
     "wof:placetype":"postalcode",

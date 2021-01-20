@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002938,
-    "geom:area_square_m":30599786.877763,
+    "geom:area_square_m":30599786.877771,
     "geom:bbox":"-96.71085,32.560731,-96.635911,32.639736",
     "geom:latitude":32.604816,
     "geom:longitude":-96.675164,
@@ -14,20 +14,26 @@
     "lbl:latitude":32.605177,
     "lbl:longitude":-96.674317,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wilmer",
+    "mz:postal_locality_alt":[
+        "Corsicana",
+        "Hutchins"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102080647,
         101725705,
-        102080647
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12790429"
     },
     "wof:country":"US",
-    "wof:geomhash":"09695f0300b0c49224374dca6bcce54a",
+    "wof:geomhash":"47a2fef713cdcf24c9ed1b6b78033ff3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554744363,
-    "wof:lastmodified":1480904892,
+    "wof:lastmodified":1611184712,
     "wof:name":"75172",
     "wof:parent_id":101725705,
     "wof:placetype":"postalcode",

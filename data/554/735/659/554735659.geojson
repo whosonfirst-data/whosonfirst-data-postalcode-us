@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03289,
-    "geom:area_square_m":319836859.964303,
+    "geom:area_square_m":319836859.964149,
     "geom:bbox":"-90.53046,37.978053,-90.265406,38.262111",
     "geom:latitude":38.146375,
     "geom:longitude":-90.39566,
@@ -14,20 +14,25 @@
     "lbl:latitude":38.137919,
     "lbl:longitude":-90.392182,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Festus",
+    "mz:postal_locality_alt":[
+        "Crystal City"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404518223,
         85633793,
-        102080787
+        102080787,
+        404518223,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785539"
     },
     "wof:country":"US",
-    "wof:geomhash":"cae1adba9d604c573b65ff0cae79ee00",
+    "wof:geomhash":"97745d94bd2fed531de6b4dff8ba09d4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554735659,
-    "wof:lastmodified":1480908591,
+    "wof:lastmodified":1611184422,
     "wof:name":"63028",
     "wof:parent_id":404518223,
     "wof:placetype":"postalcode",

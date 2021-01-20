@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010144,
-    "geom:area_square_m":91522560.603077,
+    "geom:area_square_m":91522560.603068,
     "geom:bbox":"-73.929,43.082794,-73.773068,43.206765",
     "geom:latitude":43.14008,
     "geom:longitude":-73.839769,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.15,
     "lbl:longitude":-73.840896,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Greenfield Center",
+    "mz:postal_locality_alt":[
+        "Greenfield Ctr"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404523169,
         85633793,
-        102082413
+        102082413,
+        404523169,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762486"
     },
     "wof:country":"US",
-    "wof:geomhash":"a2b213f5509466158a3c4a17c84b1ad1",
+    "wof:geomhash":"bea72f2fb0fead5dedf79a992b06ef8a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554701795,
-    "wof:lastmodified":1480794677,
+    "wof:lastmodified":1611182633,
     "wof:name":"12833",
     "wof:parent_id":404523169,
     "wof:placetype":"postalcode",

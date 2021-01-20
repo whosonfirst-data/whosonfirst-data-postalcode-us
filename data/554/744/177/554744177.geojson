@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014887,
-    "geom:area_square_m":154638631.380357,
+    "geom:area_square_m":154638631.380245,
     "geom:bbox":"-96.51897,32.813229,-96.297321,32.927684",
     "geom:latitude":32.855057,
     "geom:longitude":-96.427722,
@@ -13,20 +13,25 @@
     "lbl:latitude":32.857112,
     "lbl:longitude":-96.43121,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Rockwall",
+    "mz:postal_locality_alt":[
+        "Wylie"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102087399,
         101724033,
-        102087399
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12790321"
     },
     "wof:country":"US",
-    "wof:geomhash":"1629a305b8309dff35167b06b2d0c84d",
+    "wof:geomhash":"29d4ebdfb4c988c443ac81a0f1210a62",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554744177,
-    "wof:lastmodified":1480904887,
+    "wof:lastmodified":1611184751,
     "wof:name":"75032",
     "wof:parent_id":101724033,
     "wof:placetype":"postalcode",

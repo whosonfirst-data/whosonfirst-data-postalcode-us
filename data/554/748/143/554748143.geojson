@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024891,
-    "geom:area_square_m":235855590.462624,
+    "geom:area_square_m":235855590.462512,
     "geom:bbox":"-105.694362,39.932086,-105.341275,40.032436",
     "geom:latitude":39.975989,
     "geom:longitude":-105.538519,
@@ -14,19 +14,24 @@
     "lbl:latitude":39.974483,
     "lbl:longitude":-105.546991,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Nederland",
+    "mz:postal_locality_alt":[
+        "Breckenridge"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688603,
-        102085251
+        102085251,
+        85688603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12793070"
     },
     "wof:country":"US",
-    "wof:geomhash":"2381cf6d3ec907d9aa9cd5207f369db8",
+    "wof:geomhash":"302412bd896d0190ccbe41dddb4d1776",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554748143,
-    "wof:lastmodified":1480911425,
+    "wof:lastmodified":1611183841,
     "wof:name":"80466",
     "wof:parent_id":102085251,
     "wof:placetype":"postalcode",

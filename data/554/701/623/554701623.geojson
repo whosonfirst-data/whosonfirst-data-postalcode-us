@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009788,
-    "geom:area_square_m":90514367.433598,
+    "geom:area_square_m":90514367.433584,
     "geom:bbox":"-73.97943,41.521372,-73.784939,41.650792",
     "geom:latitude":41.594928,
     "geom:longitude":-73.887776,
@@ -14,21 +14,28 @@
     "lbl:latitude":41.592556,
     "lbl:longitude":-73.886853,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wappingers Falls",
+    "mz:postal_locality_alt":[
+        "Wappingers Fl",
+        "Montgomery",
+        "New Hamburg"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522317,
         85633793,
+        102082363,
+        404522317,
         85979271,
-        102082363
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762395"
     },
     "wof:country":"US",
-    "wof:geomhash":"5e1345a4ab5d3a6ef7572ae7fca3a6c7",
+    "wof:geomhash":"57311576eeceeadb6a90232b298dd031",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +48,7 @@
         }
     ],
     "wof:id":554701623,
-    "wof:lastmodified":1480791527,
+    "wof:lastmodified":1611182636,
     "wof:name":"12590",
     "wof:parent_id":85979271,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019058,
-    "geom:area_square_m":181485915.729663,
+    "geom:area_square_m":181485915.72952,
     "geom:bbox":"-77.848295,39.548316,-77.577751,39.721969",
     "geom:latitude":39.634028,
     "geom:longitude":-77.742477,
@@ -13,20 +13,27 @@
     "lbl:latitude":39.631901,
     "lbl:longitude":-77.743885,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hagerstown",
+    "mz:postal_locality_alt":[
+        "Maugansville",
+        "Funkstown",
+        "Frederick"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688501,
         102191575,
         85633793,
+        102082189,
         85949165,
-        102082189
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766690"
     },
     "wof:country":"US",
-    "wof:geomhash":"b9f1350d75ca943a05c890618bbd7081",
+    "wof:geomhash":"bbc352df7a3eac0e5da27ccb43317b7d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +45,7 @@
         }
     ],
     "wof:id":554707421,
-    "wof:lastmodified":1480825447,
+    "wof:lastmodified":1611183157,
     "wof:name":"21740",
     "wof:parent_id":85949165,
     "wof:placetype":"postalcode",

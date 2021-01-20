@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001207,
-    "geom:area_square_m":11576682.324118,
+    "geom:area_square_m":11576682.324135,
     "geom:bbox":"-94.651407,39.113315,-94.588387,39.161044",
     "geom:latitude":39.144051,
     "geom:longitude":-94.610789,
@@ -14,21 +14,23 @@
     "lbl:latitude":39.148258,
     "lbl:longitude":-94.605085,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Kansas City",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404504875,
         85633793,
+        102082163,
+        404504875,
         85945801,
-        102082163
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786784"
     },
     "wof:country":"US",
-    "wof:geomhash":"6fe0a8285108a9436f2bb22c81084041",
+    "wof:geomhash":"b1e2c3e7aa85dad034930a190e91c449",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +43,7 @@
         }
     ],
     "wof:id":554738007,
-    "wof:lastmodified":1480912211,
+    "wof:lastmodified":1611183102,
     "wof:name":"66115",
     "wof:parent_id":85945801,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013726,
-    "geom:area_square_m":130422902.873118,
+    "geom:area_square_m":130422902.873225,
     "geom:bbox":"-76.081656,39.721792,-75.874879,39.870592",
     "geom:latitude":39.787064,
     "geom:longitude":-75.974571,
@@ -14,21 +14,27 @@
     "lbl:latitude":39.79056,
     "lbl:longitude":-75.968479,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Oxford",
+    "mz:postal_locality_alt":[
+        "Lewisville",
+        "Nottingham"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404482931,
         85633793,
+        102081275,
+        404482931,
         101718593,
-        102081275
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765599"
     },
     "wof:country":"US",
-    "wof:geomhash":"178477b779fbad63355932cc719e838e",
+    "wof:geomhash":"9c719b65c6bb651c46bfe3004c0d8c00",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554706415,
-    "wof:lastmodified":1480817410,
+    "wof:lastmodified":1611182690,
     "wof:name":"19363",
     "wof:parent_id":101718593,
     "wof:placetype":"postalcode",

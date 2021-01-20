@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010021,
-    "geom:area_square_m":86988579.714009,
+    "geom:area_square_m":86988579.714055,
     "geom:bbox":"-92.082351,45.347509,-91.950855,45.466734",
     "geom:latitude":45.412796,
     "geom:longitude":-92.021589,
@@ -14,20 +14,22 @@
     "lbl:latitude":45.412053,
     "lbl:longitude":-92.023417,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Almena",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404492673,
         85633793,
-        102081847
+        102081847,
+        404492673,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781528"
     },
     "wof:country":"US",
-    "wof:geomhash":"7690163685ea56d62d959ee0ff0a9148",
+    "wof:geomhash":"b8912f34a3bdd5b11f3424b412ddab0a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554728679,
-    "wof:lastmodified":1480831138,
+    "wof:lastmodified":1611185084,
     "wof:name":"54805",
     "wof:parent_id":404492673,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000525,
-    "geom:area_square_m":5372558.554926,
+    "geom:area_square_m":5372558.554923,
     "geom:bbox":"-118.388344,34.142174,-118.345166,34.160828",
     "geom:latitude":34.151026,
     "geom:longitude":-118.366262,
@@ -13,20 +13,28 @@
     "lbl:latitude":34.150818,
     "lbl:longitude":-118.368159,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"North Hollywood",
+    "mz:postal_locality_alt":[
+        "Toluca Lake",
+        "Studio City",
+        "Los Angeles",
+        "San Fernando Valley"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086957,
         85923517,
-        102086957
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796066"
     },
     "wof:country":"US",
-    "wof:geomhash":"e94ececfed87227ecb46a12f779e48b1",
+    "wof:geomhash":"1a581f477d597c3a827a5071a892b8f6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +46,7 @@
         }
     ],
     "wof:id":554752009,
-    "wof:lastmodified":1480912605,
+    "wof:lastmodified":1611182525,
     "wof:name":"91602",
     "wof:parent_id":85923517,
     "wof:placetype":"postalcode",

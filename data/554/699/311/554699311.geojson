@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001146,
-    "geom:area_square_m":10587663.008499,
+    "geom:area_square_m":10587663.008509,
     "geom:bbox":"-72.789775,41.647553,-72.750357,41.688743",
     "geom:latitude":41.665142,
     "geom:longitude":-72.769832,
@@ -13,21 +13,27 @@
     "lbl:latitude":41.66514,
     "lbl:longitude":-72.769832,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"New Britain",
+    "mz:postal_locality_alt":[
+        "Canton",
+        "Manchester"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688629,
         102191575,
-        404495989,
         85633793,
+        102085381,
+        404495989,
         85930815,
-        102085381
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760201"
     },
     "wof:country":"US",
-    "wof:geomhash":"b4d3cb4b7666ac476c95d180781e9fdb",
+    "wof:geomhash":"3e161e9b51a3f2f9008a42c865a84406",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +46,7 @@
         }
     ],
     "wof:id":554699311,
-    "wof:lastmodified":1480815742,
+    "wof:lastmodified":1611184631,
     "wof:name":"06051",
     "wof:parent_id":85930815,
     "wof:placetype":"postalcode",

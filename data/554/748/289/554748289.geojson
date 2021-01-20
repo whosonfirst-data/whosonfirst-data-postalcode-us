@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.079518,
-    "geom:area_square_m":751563532.249123,
+    "geom:area_square_m":751563532.249067,
     "geom:bbox":"-103.723589,40.001118,-103.377793,40.334401",
     "geom:latitude":40.150002,
     "geom:longitude":-103.570802,
@@ -14,19 +14,24 @@
     "lbl:latitude":40.193773,
     "lbl:longitude":-103.543331,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Brush",
+    "mz:postal_locality_alt":[
+        "Fort Morgan"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688603,
-        102084089
+        102084089,
+        85688603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12793168"
     },
     "wof:country":"US",
-    "wof:geomhash":"69b2cec46d6f6f8eff6a63a213284a11",
+    "wof:geomhash":"0209e77bcd5cad360f6d9bf9a272e5da",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554748289,
-    "wof:lastmodified":1480916683,
+    "wof:lastmodified":1611183826,
     "wof:name":"80723",
     "wof:parent_id":102084089,
     "wof:placetype":"postalcode",

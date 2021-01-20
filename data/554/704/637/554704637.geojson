@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00576,
-    "geom:area_square_m":54432614.826471,
+    "geom:area_square_m":54432614.826371,
     "geom:bbox":"-78.248239,40.109548,-78.15101,40.2043",
     "geom:latitude":40.157156,
     "geom:longitude":-78.197276,
@@ -13,20 +13,22 @@
     "lbl:latitude":40.155253,
     "lbl:longitude":-78.194384,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Six Mile Run",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404484409,
         85633793,
-        102080939
+        102080939,
+        404484409,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764413"
     },
     "wof:country":"US",
-    "wof:geomhash":"cded4a81df89a779f17526be43e2a5e6",
+    "wof:geomhash":"b579f01a91affcef8c73f81f13b99577",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +40,7 @@
         }
     ],
     "wof:id":554704637,
-    "wof:lastmodified":1480904864,
+    "wof:lastmodified":1611184516,
     "wof:name":"16679",
     "wof:parent_id":404484409,
     "wof:placetype":"postalcode",

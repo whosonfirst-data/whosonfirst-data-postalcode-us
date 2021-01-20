@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001593,
-    "geom:area_square_m":16418279.200526,
+    "geom:area_square_m":16418279.200531,
     "geom:bbox":"-112.281863,33.508321,-112.237648,33.55234",
     "geom:latitude":33.530806,
     "geom:longitude":-112.2563,
@@ -13,20 +13,25 @@
     "lbl:latitude":33.530805,
     "lbl:longitude":-112.2563,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Glendale",
+    "mz:postal_locality_alt":[
+        "Peoria"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688719,
         102191575,
         85633793,
+        102087421,
         85917509,
-        102087421
+        85688719
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12794548"
     },
     "wof:country":"US",
-    "wof:geomhash":"ad6695da59264dbcaf64a973353e63e2",
+    "wof:geomhash":"04091e3d63c6316b0550bf58763d69df",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554750449,
-    "wof:lastmodified":1480786587,
+    "wof:lastmodified":1611184532,
     "wof:name":"85305",
     "wof:parent_id":85917509,
     "wof:placetype":"postalcode",

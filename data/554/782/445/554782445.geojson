@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002848,
-    "geom:area_square_m":26392090.362746,
+    "geom:area_square_m":26392090.362777,
     "geom:bbox":"-87.510371,41.420987,-87.426323,41.478977",
     "geom:latitude":41.44754,
     "geom:longitude":-87.468866,
@@ -14,21 +14,27 @@
     "lbl:latitude":41.448355,
     "lbl:longitude":-87.467901,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"St John",
+    "mz:postal_locality_alt":[
+        "Saint John",
+        "Highland"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404501873,
         85633793,
+        102087149,
+        404501873,
         85941839,
-        102087149
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777742"
     },
     "wof:country":"US",
-    "wof:geomhash":"b6bc99b82789bf8d88d71424baf14a73",
+    "wof:geomhash":"6c1e87beaed7bf6ae73651cbfff433d8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554782445,
-    "wof:lastmodified":1480788509,
+    "wof:lastmodified":1611183627,
     "wof:name":"46373",
     "wof:parent_id":85941839,
     "wof:placetype":"postalcode",

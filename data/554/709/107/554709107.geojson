@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017264,
-    "geom:area_square_m":170092832.968055,
+    "geom:area_square_m":170092832.968181,
     "geom:bbox":"-81.63115,37.122295,-81.295146,37.240393",
     "geom:latitude":37.175911,
     "geom:longitude":-81.46742,
@@ -14,19 +14,24 @@
     "lbl:latitude":37.178327,
     "lbl:longitude":-81.465546,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"North Tazewell",
+    "mz:postal_locality_alt":[
+        "Tazewell"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688747,
-        102081049
+        102081049,
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12767934"
     },
     "wof:country":"US",
-    "wof:geomhash":"f9ab1676b63664f54939b2ec16d243f7",
+    "wof:geomhash":"a0c28fc28d877a3df304dda33cca69dd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554709107,
-    "wof:lastmodified":1480824790,
+    "wof:lastmodified":1611183004,
     "wof:name":"24630",
     "wof:parent_id":102081049,
     "wof:placetype":"postalcode",

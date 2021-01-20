@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005776,
-    "geom:area_square_m":52132136.642485,
+    "geom:area_square_m":52132136.642477,
     "geom:bbox":"-71.072984,43.081748,-70.96072,43.17245",
     "geom:latitude":43.119694,
     "geom:longitude":-71.006999,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.119202,
     "lbl:longitude":-71.007082,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Durham",
+    "mz:postal_locality_alt":[
+        "Lee"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688689,
         102191575,
-        404476799,
         85633793,
-        102085609
+        102085609,
+        404476799,
+        85688689
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"55805619"
     },
     "wof:country":"US",
-    "wof:geomhash":"d4eb3973c3be3b68773745bc3d4bb530",
+    "wof:geomhash":"4753e0103b066294e64103fa90558481",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554757025,
-    "wof:lastmodified":1480916574,
+    "wof:lastmodified":1611184576,
     "wof:name":"03861",
     "wof:parent_id":404476799,
     "wof:placetype":"postalcode",

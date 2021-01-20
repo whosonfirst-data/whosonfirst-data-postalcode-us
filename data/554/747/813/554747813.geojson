@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.284279,
-    "geom:area_square_m":2999542491.061512,
+    "geom:area_square_m":2999542491.060993,
     "geom:bbox":"-104.212792,31.052987,-103.010403,31.96457",
     "geom:latitude":31.425415,
     "geom:longitude":-103.622988,
@@ -14,19 +14,26 @@
     "lbl:latitude":31.422362,
     "lbl:longitude":-103.627309,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pecos",
+    "mz:postal_locality_alt":[
+        "Verhalen",
+        "Monahans",
+        "Fort Davis"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688753,
-        102081965
+        102081965,
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12792758"
     },
     "wof:country":"US",
-    "wof:geomhash":"f64cee6b3dacf083707f9d3b330c3971",
+    "wof:geomhash":"871ff35cbd27a015c97d895b180fd756",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +44,7 @@
         }
     ],
     "wof:id":554747813,
-    "wof:lastmodified":1480839916,
+    "wof:lastmodified":1611183477,
     "wof:name":"79772",
     "wof:parent_id":102081965,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006784,
-    "geom:area_square_m":65265569.548842,
+    "geom:area_square_m":65265569.5488,
     "geom:bbox":"-77.554037,38.846368,-77.440294,38.973979",
     "geom:latitude":38.917665,
     "geom:longitude":-77.50406,
@@ -13,20 +13,27 @@
     "lbl:latitude":38.91916,
     "lbl:longitude":-77.502417,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Chantilly",
+    "mz:postal_locality_alt":[
+        "South Riding",
+        "Aldie",
+        "Stone Ridge"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688747,
         102191575,
         85633793,
+        102084951,
         101729459,
-        102084951
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765952"
     },
     "wof:country":"US",
-    "wof:geomhash":"7fec531e2adb7e55915227e1ede8e5a8",
+    "wof:geomhash":"a1a66ed6a3244b3ee0ad169d78be6d87",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +45,7 @@
         }
     ],
     "wof:id":554706797,
-    "wof:lastmodified":1480802131,
+    "wof:lastmodified":1611182681,
     "wof:name":"20152",
     "wof:parent_id":101729459,
     "wof:placetype":"postalcode",

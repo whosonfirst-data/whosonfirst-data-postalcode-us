@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001748,
-    "geom:area_square_m":18284209.343502,
+    "geom:area_square_m":18284209.343495,
     "geom:bbox":"-110.937557,32.206871,-110.909235,32.282875",
     "geom:latitude":32.241544,
     "geom:longitude":-110.923201,
@@ -13,20 +13,22 @@
     "lbl:latitude":32.24154,
     "lbl:longitude":-110.923201,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Tucson",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688719,
         102191575,
         85633793,
+        102081135,
         85917235,
-        102081135
+        85688719
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12794710"
     },
     "wof:country":"US",
-    "wof:geomhash":"3c76cdb20be747f1d4b867374dad54ce",
+    "wof:geomhash":"f2cce3dd48b6c999c944ec338c6c8858",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +40,7 @@
         }
     ],
     "wof:id":554750693,
-    "wof:lastmodified":1480818847,
+    "wof:lastmodified":1611184541,
     "wof:name":"85716",
     "wof:parent_id":85917235,
     "wof:placetype":"postalcode",

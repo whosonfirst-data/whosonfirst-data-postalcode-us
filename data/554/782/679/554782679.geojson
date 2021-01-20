@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001537,
-    "geom:area_square_m":14166379.267683,
+    "geom:area_square_m":14166379.267681,
     "geom:bbox":"-86.720371,41.798916,-86.667975,41.839481",
     "geom:latitude":41.818092,
     "geom:longitude":-86.688799,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.815482,
     "lbl:longitude":-86.691068,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Union Pier",
+    "mz:postal_locality_alt":[
+        "New Buffalo"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404507001,
         85633793,
-        102083151
+        102083151,
+        404507001,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779222"
     },
     "wof:country":"US",
-    "wof:geomhash":"af6696919a1136b391a38a3fe4d7c8bc",
+    "wof:geomhash":"e4a34abd8643206d2ec0a5d45e1dd33e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554782679,
-    "wof:lastmodified":1480835934,
+    "wof:lastmodified":1611183626,
     "wof:name":"49129",
     "wof:parent_id":404507001,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014464,
-    "geom:area_square_m":138816880.267001,
+    "geom:area_square_m":138816880.267037,
     "geom:bbox":"-91.790213,39.013382,-91.629598,39.163335",
     "geom:latitude":39.087644,
     "geom:longitude":-91.692566,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.088314,
     "lbl:longitude":-91.68564,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Martinsburg",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404515353,
         85633793,
-        102085277
+        102085277,
+        404515353,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786419"
     },
     "wof:country":"US",
-    "wof:geomhash":"863a85a1aef53995cf6963f1eb5ca73d",
+    "wof:geomhash":"229c7464655f9fa2f49fa434fed9c879",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554737271,
-    "wof:lastmodified":1480914504,
+    "wof:lastmodified":1611182854,
     "wof:name":"65264",
     "wof:parent_id":404515353,
     "wof:placetype":"postalcode",

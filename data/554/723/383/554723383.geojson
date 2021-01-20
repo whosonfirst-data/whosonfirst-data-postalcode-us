@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01018,
-    "geom:area_square_m":96483394.428177,
+    "geom:area_square_m":96483394.428172,
     "geom:bbox":"-85.070913,39.898458,-84.912121,40.02802",
     "geom:latitude":39.963951,
     "geom:longitude":-85.001869,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.962996,
     "lbl:longitude":-85.003691,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Williamsburg",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404500471,
         85633793,
-        102086979
+        102086979,
+        404500471,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778205"
     },
     "wof:country":"US",
-    "wof:geomhash":"4fc41450b8f104ae972613274403ee5c",
+    "wof:geomhash":"1a0eda778eb1c8bfdeba95cf160bccce",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554723383,
-    "wof:lastmodified":1480916346,
+    "wof:lastmodified":1611183790,
     "wof:name":"47393",
     "wof:parent_id":404500471,
     "wof:placetype":"postalcode",

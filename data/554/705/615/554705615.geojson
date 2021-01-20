@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007031,
-    "geom:area_square_m":65898830.328022,
+    "geom:area_square_m":65898830.328082,
     "geom:bbox":"-75.535858,40.661305,-75.422251,40.763636",
     "geom:latitude":40.716905,
     "geom:longitude":-75.477983,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.715038,
     "lbl:longitude":-75.474675,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Northampton",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485981,
         85633793,
-        102081395
+        102081395,
+        404485981,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765057"
     },
     "wof:country":"US",
-    "wof:geomhash":"8fa397d0a3109f5781c5c321c3caaa54",
+    "wof:geomhash":"d05eed88524c9e797e3b2d5a529f1371",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554705615,
-    "wof:lastmodified":1480832455,
+    "wof:lastmodified":1611184119,
     "wof:name":"18067",
     "wof:parent_id":404485981,
     "wof:placetype":"postalcode",

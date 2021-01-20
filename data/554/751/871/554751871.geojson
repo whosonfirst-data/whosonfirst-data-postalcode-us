@@ -13,20 +13,28 @@
     "lbl:latitude":34.211344,
     "lbl:longitude":-118.230655,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Montrose",
+    "mz:postal_locality_alt":[
+        "Glendale",
+        "La Crescenta-Montrose",
+        "La Crescenta",
+        "San Fernando Valley"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086957,
         85928345,
-        102086957
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795895"
     },
     "wof:country":"US",
-    "wof:geomhash":"3b0d7e4f0ddfbcb4208a38cde737b0ef",
+    "wof:geomhash":"9d3472638d05bc9ae672e5b46ff6f895",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +46,7 @@
         }
     ],
     "wof:id":554751871,
-    "wof:lastmodified":1480912608,
+    "wof:lastmodified":1611184351,
     "wof:name":"91020",
     "wof:parent_id":85928345,
     "wof:placetype":"postalcode",

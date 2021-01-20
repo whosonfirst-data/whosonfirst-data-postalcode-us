@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001529,
-    "geom:area_square_m":14287010.517711,
+    "geom:area_square_m":14287010.517673,
     "geom:bbox":"-111.916854,40.90378,-111.861901,40.965265",
     "geom:latitude":40.932139,
     "geom:longitude":-111.885043,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.932087,
     "lbl:longitude":-111.884033,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Centerville",
+    "mz:postal_locality_alt":[
+        "Park City"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688567,
         102191575,
         85633793,
+        102083563,
         101727879,
-        102083563
+        85688567
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12794046"
     },
     "wof:country":"US",
-    "wof:geomhash":"0cfd86569ffe417d5dd043799ef19989",
+    "wof:geomhash":"cae9a835c8607766e88d0cd8fdabb7eb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554749739,
-    "wof:lastmodified":1480841407,
+    "wof:lastmodified":1611183537,
     "wof:name":"84014",
     "wof:parent_id":101727879,
     "wof:placetype":"postalcode",

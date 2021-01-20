@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003519,
-    "geom:area_square_m":33153583.960337,
+    "geom:area_square_m":33153583.960352,
     "geom:bbox":"-79.956256,40.319848,-79.846969,40.402272",
     "geom:latitude":40.360255,
     "geom:longitude":-79.905172,
@@ -13,21 +13,27 @@
     "lbl:latitude":40.361207,
     "lbl:longitude":-79.895641,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"West Mifflin",
+    "mz:postal_locality_alt":[
+        "Dravosburg",
+        "Mc Keesport"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404484243,
         85633793,
+        102080887,
+        404484243,
         101718717,
-        102080887
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763620"
     },
     "wof:country":"US",
-    "wof:geomhash":"005b9b989d8a0b315118538d4ad8e3c7",
+    "wof:geomhash":"d1a5e79ee8e3463503686769ad390d54",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +46,7 @@
         }
     ],
     "wof:id":554703483,
-    "wof:lastmodified":1480905388,
+    "wof:lastmodified":1611184453,
     "wof:name":"15122",
     "wof:parent_id":101718717,
     "wof:placetype":"postalcode",

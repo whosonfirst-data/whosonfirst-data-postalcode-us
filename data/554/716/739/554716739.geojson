@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010672,
-    "geom:area_square_m":107673168.879249,
+    "geom:area_square_m":107673168.879225,
     "geom:bbox":"-84.610629,35.266472,-84.452339,35.397473",
     "geom:latitude":35.319308,
     "geom:longitude":-84.530254,
@@ -14,20 +14,25 @@
     "lbl:latitude":35.319312,
     "lbl:longitude":-84.529833,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Etowah",
+    "mz:postal_locality_alt":[
+        "Englewood"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688701,
         102191575,
         85633793,
+        102086293,
         101722741,
-        102086293
+        85688701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12773950"
     },
     "wof:country":"US",
-    "wof:geomhash":"bc4a4d0888924d029b7ce88b12ce6420",
+    "wof:geomhash":"44e9de302fb8246537a9820dd84f30b4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554716739,
-    "wof:lastmodified":1480914746,
+    "wof:lastmodified":1611185352,
     "wof:name":"37331",
     "wof:parent_id":101722741,
     "wof:placetype":"postalcode",

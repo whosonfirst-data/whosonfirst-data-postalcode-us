@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00735,
-    "geom:area_square_m":69855124.993073,
+    "geom:area_square_m":69855124.993051,
     "geom:bbox":"-82.490218,39.719379,-82.343426,39.834541",
     "geom:latitude":39.773269,
     "geom:longitude":-82.409355,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.777096,
     "lbl:longitude":-82.409813,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Rushville",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404524585,
         85633793,
-        102083747
+        102083747,
+        404524585,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776181"
     },
     "wof:country":"US",
-    "wof:geomhash":"d8e69c3a2f42a5cf4149b42737954f18",
+    "wof:geomhash":"4fcafcdc4931c737de3685efb2265dd7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554720367,
-    "wof:lastmodified":1480835594,
+    "wof:lastmodified":1611185472,
     "wof:name":"43150",
     "wof:parent_id":404524585,
     "wof:placetype":"postalcode",

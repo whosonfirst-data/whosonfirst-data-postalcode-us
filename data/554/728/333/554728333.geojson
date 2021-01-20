@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00135,
-    "geom:area_square_m":11833449.986483,
+    "geom:area_square_m":11833449.986516,
     "geom:bbox":"-89.644055,44.85109,-89.592379,44.901749",
     "geom:latitude":44.874802,
     "geom:longitude":-89.620867,
@@ -14,21 +14,26 @@
     "lbl:latitude":44.873714,
     "lbl:longitude":-89.61975,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Rothschild",
+    "mz:postal_locality_alt":[
+        "Mosinee"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404493727,
         85633793,
+        102081881,
+        404493727,
         101732497,
-        102081881
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781345"
     },
     "wof:country":"US",
-    "wof:geomhash":"bcca44dbe52e2fb7193027b9572f8c6a",
+    "wof:geomhash":"f2bdc43229893c46ff8fb5514500aee6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554728333,
-    "wof:lastmodified":1480829649,
+    "wof:lastmodified":1611185077,
     "wof:name":"54474",
     "wof:parent_id":101732497,
     "wof:placetype":"postalcode",

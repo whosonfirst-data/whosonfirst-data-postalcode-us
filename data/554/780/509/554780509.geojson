@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007588,
-    "geom:area_square_m":72558758.957771,
+    "geom:area_square_m":72558758.957816,
     "geom:bbox":"-76.474946,39.293581,-76.320579,39.388806",
     "geom:latitude":39.345453,
     "geom:longitude":-76.393199,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.34728,
     "lbl:longitude":-76.39008,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Baltimore",
+    "mz:postal_locality_alt":[
+        "Middle River"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688501,
         102191575,
         85633793,
+        102082193,
         85950201,
-        102082193
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766513"
     },
     "wof:country":"US",
-    "wof:geomhash":"f565ea5209fc4017f747b25d7a590335",
+    "wof:geomhash":"344994063933d1bebffd2dc49528dfb5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554780509,
-    "wof:lastmodified":1480794507,
+    "wof:lastmodified":1611185180,
     "wof:name":"21220",
     "wof:parent_id":85950201,
     "wof:placetype":"postalcode",

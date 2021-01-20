@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005495,
-    "geom:area_square_m":52197673.048037,
+    "geom:area_square_m":52197673.048116,
     "geom:bbox":"-91.919878,39.759723,-91.811352,39.861545",
     "geom:latitude":39.801942,
     "geom:longitude":-91.860557,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.801934,
     "lbl:longitude":-91.860563,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Emden",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404517895,
         85633793,
-        102086147
+        102086147,
+        404517895,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785716"
     },
     "wof:country":"US",
-    "wof:geomhash":"76da3b42ecce89a03fd00fafb64c5654",
+    "wof:geomhash":"179f283efc04aa0a26f86f752a514f03",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554735965,
-    "wof:lastmodified":1480915092,
+    "wof:lastmodified":1611184410,
     "wof:name":"63439",
     "wof:parent_id":404517895,
     "wof:placetype":"postalcode",

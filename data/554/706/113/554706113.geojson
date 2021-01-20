@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002565,
-    "geom:area_square_m":24189317.213422,
+    "geom:area_square_m":24189317.21345,
     "geom:bbox":"-75.369879,40.261055,-75.28133,40.329423",
     "geom:latitude":40.297348,
     "geom:longitude":-75.333309,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.30347,
     "lbl:longitude":-75.337889,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Souderton",
+    "mz:postal_locality_alt":[
+        "Doylestown"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485457,
         85633793,
-        102081355
+        102081355,
+        404485457,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765391"
     },
     "wof:country":"US",
-    "wof:geomhash":"3b41aca881800bd6ccfff76b7f5e610b",
+    "wof:geomhash":"d09705159e5faa009f19f96217d350b2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554706113,
-    "wof:lastmodified":1480906421,
+    "wof:lastmodified":1611182717,
     "wof:name":"18964",
     "wof:parent_id":404485457,
     "wof:placetype":"postalcode",

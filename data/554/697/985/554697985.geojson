@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015853,
-    "geom:area_square_m":141467325.75523,
+    "geom:area_square_m":141467325.755203,
     "geom:bbox":"-72.205351,43.737365,-72.026903,43.872289",
     "geom:latitude":43.805255,
     "geom:longitude":-72.115418,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.816634,
     "lbl:longitude":-72.094295,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lyme",
+    "mz:postal_locality_alt":[
+        "Claremont"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688689,
         102191575,
-        404477111,
         85633793,
-        102086567
+        102086567,
+        404477111,
+        85688689
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759264"
     },
     "wof:country":"US",
-    "wof:geomhash":"9f902577df1a588e41a7ee1d7ad2f868",
+    "wof:geomhash":"60b29a218cb429b0fbb9225a4b9430d5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554697985,
-    "wof:lastmodified":1480916382,
+    "wof:lastmodified":1611184648,
     "wof:name":"03768",
     "wof:parent_id":404477111,
     "wof:placetype":"postalcode",

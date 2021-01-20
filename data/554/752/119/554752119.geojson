@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001683,
-    "geom:area_square_m":17242948.722104,
+    "geom:area_square_m":17242948.722105,
     "geom:bbox":"-117.923384,34.039359,-117.857897,34.08891",
     "geom:latitude":34.061097,
     "geom:longitude":-117.89404,
@@ -13,20 +13,26 @@
     "lbl:latitude":34.061624,
     "lbl:longitude":-117.892235,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"West Covina",
+    "mz:postal_locality_alt":[
+        "Covina",
+        "City Of Industry"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086957,
         85923771,
-        102086957
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796142"
     },
     "wof:country":"US",
-    "wof:geomhash":"2a062c10ceee3b80daffa107ad12ed7b",
+    "wof:geomhash":"fb1b2d1dbba1c1bdcb9741dc78772a2b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554752119,
-    "wof:lastmodified":1480912610,
+    "wof:lastmodified":1611182533,
     "wof:name":"91791",
     "wof:parent_id":85923771,
     "wof:placetype":"postalcode",

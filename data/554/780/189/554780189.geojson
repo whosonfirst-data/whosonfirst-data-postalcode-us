@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007763,
-    "geom:area_square_m":70739805.172933,
+    "geom:area_square_m":70739805.172911,
     "geom:bbox":"-79.249826,42.483686,-79.080904,42.572605",
     "geom:latitude":42.527428,
     "geom:longitude":-79.173002,
@@ -14,20 +14,25 @@
     "lbl:latitude":42.517379,
     "lbl:longitude":-79.174812,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Silver Creek",
+    "mz:postal_locality_alt":[
+        "Sheridan"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522079,
         85633793,
-        102081811
+        102081811,
+        404522079,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763144"
     },
     "wof:country":"US",
-    "wof:geomhash":"765da7a4cc6546a1bd0fecb9d5fe2d5b",
+    "wof:geomhash":"cf2f550b41f858f52f60fd95ba545023",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554780189,
-    "wof:lastmodified":1480823111,
+    "wof:lastmodified":1611185173,
     "wof:name":"14136",
     "wof:parent_id":404522079,
     "wof:placetype":"postalcode",

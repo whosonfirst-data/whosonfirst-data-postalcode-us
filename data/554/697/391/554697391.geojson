@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000808,
-    "geom:area_square_m":7385602.772009,
+    "geom:area_square_m":7385602.772015,
     "geom:bbox":"-71.174798,42.330189,-71.123168,42.373796",
     "geom:latitude":42.349886,
     "geom:longitude":-71.153816,
@@ -14,21 +14,26 @@
     "lbl:latitude":42.349688,
     "lbl:longitude":-71.153964,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Brighton",
+    "mz:postal_locality_alt":[
+        "Boston"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476573,
         85633793,
+        102084423,
+        404476573,
         85950361,
-        102084423
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758734"
     },
     "wof:country":"US",
-    "wof:geomhash":"48574c6d11363a0ea3ea259eb1f1cfa6",
+    "wof:geomhash":"021066f3e1d3095291e70a8defe00a20",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554697391,
-    "wof:lastmodified":1480799920,
+    "wof:lastmodified":1611184635,
     "wof:name":"02135",
     "wof:parent_id":85950361,
     "wof:placetype":"postalcode",

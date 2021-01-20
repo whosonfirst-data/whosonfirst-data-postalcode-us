@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031525,
-    "geom:area_square_m":290658393.423424,
+    "geom:area_square_m":290658393.423525,
     "geom:bbox":"-97.881383,41.655492,-97.697154,41.901773",
     "geom:latitude":41.786542,
     "geom:longitude":-97.788428,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.792434,
     "lbl:longitude":-97.785946,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Newman Grove",
+    "mz:postal_locality_alt":[
+        "Lynch"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688563,
         102191575,
-        404521113,
         85633793,
-        102083483
+        102083483,
+        404521113,
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787821"
     },
     "wof:country":"US",
-    "wof:geomhash":"293b6a57b2076b963d99586e9e466d68",
+    "wof:geomhash":"46463e42e6f91f3bf835eaaecd2ee7ff",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554740081,
-    "wof:lastmodified":1480841709,
+    "wof:lastmodified":1611183411,
     "wof:name":"68758",
     "wof:parent_id":404521113,
     "wof:placetype":"postalcode",

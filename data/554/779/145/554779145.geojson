@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001364,
-    "geom:area_square_m":12838942.595985,
+    "geom:area_square_m":12838942.595995,
     "geom:bbox":"-74.212323,40.405025,-74.13565,40.442553",
     "geom:latitude":40.424822,
     "geom:longitude":-74.175667,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.425494,
     "lbl:longitude":-74.176063,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hazlet",
+    "mz:postal_locality_alt":[
+        "Marlboro"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478345,
         85633793,
-        102085049
+        102085049,
+        404478345,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760856"
     },
     "wof:country":"US",
-    "wof:geomhash":"5c98489472fe20c9673392c1d47fdaa1",
+    "wof:geomhash":"8deea75acc8d9706cefb45d71d47ee17",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554779145,
-    "wof:lastmodified":1480809855,
+    "wof:lastmodified":1611183973,
     "wof:name":"07730",
     "wof:parent_id":404478345,
     "wof:placetype":"postalcode",

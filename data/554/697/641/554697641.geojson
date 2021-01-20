@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002223,
-    "geom:area_square_m":20499501.333997,
+    "geom:area_square_m":20499501.333986,
     "geom:bbox":"-71.380799,41.735649,-71.31777,41.803084",
     "geom:latitude":41.772756,
     "geom:longitude":-71.355174,
@@ -14,21 +14,28 @@
     "lbl:latitude":41.772847,
     "lbl:longitude":-71.354839,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Riverside",
+    "mz:postal_locality_alt":[
+        "Providence",
+        "North Providence",
+        "East Providence"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688509,
         102191575,
-        404488363,
         85633793,
+        102081597,
+        404488363,
         101720571,
-        102081597
+        85688509
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759067"
     },
     "wof:country":"US",
-    "wof:geomhash":"d3888cbae081930a2d0089386ddc97cd",
+    "wof:geomhash":"5df221b64a4172a8efa068c648f2ae3d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +48,7 @@
         }
     ],
     "wof:id":554697641,
-    "wof:lastmodified":1480829723,
+    "wof:lastmodified":1611184657,
     "wof:name":"02915",
     "wof:parent_id":101720571,
     "wof:placetype":"postalcode",

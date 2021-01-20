@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014694,
-    "geom:area_square_m":130215400.728993,
+    "geom:area_square_m":130215400.728969,
     "geom:bbox":"-93.929086,44.159653,-93.726797,44.28295",
     "geom:latitude":44.219127,
     "geom:longitude":-93.820149,
@@ -14,20 +14,25 @@
     "lbl:latitude":44.21803,
     "lbl:longitude":-93.815742,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Madison Lake",
+    "mz:postal_locality_alt":[
+        "St Peter"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404511531,
         85633793,
-        102087625
+        102087625,
+        404511531,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782224"
     },
     "wof:country":"US",
-    "wof:geomhash":"e1c30179b27e8d477f710ad4678bdf1f",
+    "wof:geomhash":"df522a0dcc32a3500c6d3834f5c9fbc8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554729827,
-    "wof:lastmodified":1480785415,
+    "wof:lastmodified":1611185409,
     "wof:name":"56063",
     "wof:parent_id":404511531,
     "wof:placetype":"postalcode",

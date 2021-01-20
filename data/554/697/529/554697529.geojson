@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001931,
-    "geom:area_square_m":17810434.268573,
+    "geom:area_square_m":17810434.268575,
     "geom:bbox":"-71.190284,41.723795,-71.114489,41.791064",
     "geom:latitude":41.760736,
     "geom:longitude":-71.144446,
@@ -14,21 +14,27 @@
     "lbl:latitude":41.7597,
     "lbl:longitude":-71.144592,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Somerset",
+    "mz:postal_locality_alt":[
+        "Raynham",
+        "Swansea"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476145,
         85633793,
+        102084407,
+        404476145,
         85950687,
-        102084407
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758956"
     },
     "wof:country":"US",
-    "wof:geomhash":"37341a9c29dd9618b2bbe0cae8ff1448",
+    "wof:geomhash":"de68785a39a02a43be3d6774ccc551b8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554697529,
-    "wof:lastmodified":1480800673,
+    "wof:lastmodified":1611184648,
     "wof:name":"02726",
     "wof:parent_id":85950687,
     "wof:placetype":"postalcode",

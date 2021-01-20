@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037673,
-    "geom:area_square_m":377449987.277378,
+    "geom:area_square_m":377449987.277424,
     "geom:bbox":"-84.858703,35.748582,-84.595176,36.001886",
     "geom:latitude":35.878677,
     "geom:longitude":-84.717194,
@@ -14,19 +14,26 @@
     "lbl:latitude":35.880918,
     "lbl:longitude":-84.720011,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Rockwood",
+    "mz:postal_locality_alt":[
+        "Harriman",
+        "Oneida",
+        "Philadelphia"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688701,
-        102086961
+        102086961,
+        85688701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12774163"
     },
     "wof:country":"US",
-    "wof:geomhash":"9b2053215af1ddd4c483e1992efd42f4",
+    "wof:geomhash":"75863588b5891a71d36dbe9bc1c35c00",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +44,7 @@
         }
     ],
     "wof:id":554717117,
-    "wof:lastmodified":1480917021,
+    "wof:lastmodified":1611185012,
     "wof:name":"37854",
     "wof:parent_id":102086961,
     "wof:placetype":"postalcode",

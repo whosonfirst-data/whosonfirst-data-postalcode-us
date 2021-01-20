@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002617,
-    "geom:area_square_m":25187348.170932,
+    "geom:area_square_m":25187348.17089,
     "geom:bbox":"-76.946809,38.854915,-76.838369,38.918947",
     "geom:latitude":38.883935,
     "geom:longitude":-76.893451,
@@ -13,20 +13,28 @@
     "lbl:latitude":38.88423,
     "lbl:longitude":-76.893317,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Capitol Heights",
+    "mz:postal_locality_alt":[
+        "Fairmount Hts",
+        "Fairmount Heights",
+        "Seat Pleasant",
+        "Capitol Hgts"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688501,
         102191575,
         85633793,
+        102082191,
         85949983,
-        102082191
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766286"
     },
     "wof:country":"US",
-    "wof:geomhash":"6a9a4ed966af0005bb6569512def6f70",
+    "wof:geomhash":"9f8bdb7a1f3789a2e623989373163a17",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +46,7 @@
         }
     ],
     "wof:id":554706971,
-    "wof:lastmodified":1480803491,
+    "wof:lastmodified":1611182698,
     "wof:name":"20743",
     "wof:parent_id":85949983,
     "wof:placetype":"postalcode",

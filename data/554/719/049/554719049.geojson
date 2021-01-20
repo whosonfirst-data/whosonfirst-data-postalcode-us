@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013491,
-    "geom:area_square_m":133648142.302423,
+    "geom:area_square_m":133648142.302368,
     "geom:bbox":"-83.461016,36.664793,-83.249435,36.864922",
     "geom:latitude":36.759576,
     "geom:longitude":-83.34986,
@@ -14,19 +14,24 @@
     "lbl:latitude":36.766514,
     "lbl:longitude":-83.354288,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Harlan",
+    "mz:postal_locality_alt":[
+        "Baxter"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688641,
-        102084511
+        102084511,
+        85688641
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12775404"
     },
     "wof:country":"US",
-    "wof:geomhash":"170d95f56df0c22a5522606268361962",
+    "wof:geomhash":"11f2b85e74aed0beffc654495b3d2a60",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554719049,
-    "wof:lastmodified":1480799828,
+    "wof:lastmodified":1611184911,
     "wof:name":"40831",
     "wof:parent_id":102084511,
     "wof:placetype":"postalcode",

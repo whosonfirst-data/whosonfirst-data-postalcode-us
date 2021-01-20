@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000041,
-    "geom:area_square_m":413691.255985,
+    "geom:area_square_m":413691.255984,
     "geom:bbox":"-81.86797,35.077387,-81.857322,35.086467",
     "geom:latitude":35.081579,
     "geom:longitude":-81.863411,
@@ -14,20 +14,25 @@
     "lbl:latitude":35.081579,
     "lbl:longitude":-81.863411,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Sparta",
+    "mz:postal_locality_alt":[
+        "Chesnee"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688683,
         102191575,
         85633793,
+        102085437,
         101721515,
-        102085437
+        85688683
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770134"
     },
     "wof:country":"US",
-    "wof:geomhash":"0a1a2c289b9abf2ba1db771d318ace76",
+    "wof:geomhash":"0c03c70713e960d6cd68b375f29b9d7a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554769083,
-    "wof:lastmodified":1480814013,
+    "wof:lastmodified":1611184316,
     "wof:name":"29368",
     "wof:parent_id":101721515,
     "wof:placetype":"postalcode",

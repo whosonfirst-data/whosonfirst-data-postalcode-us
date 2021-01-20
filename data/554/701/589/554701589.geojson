@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013072,
-    "geom:area_square_m":120155878.121201,
+    "geom:area_square_m":120155878.121181,
     "geom:bbox":"-73.733841,41.887702,-73.556048,42.062547",
     "geom:latitude":41.98247,
     "geom:longitude":-73.649519,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.986194,
     "lbl:longitude":-73.642216,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pine Plains",
+    "mz:postal_locality_alt":[
+        "Fishkill"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404521329,
         85633793,
-        102082363
+        102082363,
+        404521329,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762376"
     },
     "wof:country":"US",
-    "wof:geomhash":"c5fbce0b009776126d0a7377264e2f10",
+    "wof:geomhash":"35aedaac4be6df908821d9df024fc780",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554701589,
-    "wof:lastmodified":1480795658,
+    "wof:lastmodified":1611182628,
     "wof:name":"12567",
     "wof:parent_id":404521329,
     "wof:placetype":"postalcode",

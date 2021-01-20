@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00164,
-    "geom:area_square_m":14366807.901,
+    "geom:area_square_m":14366807.900999,
     "geom:bbox":"-93.784494,44.869836,-93.705877,44.918085",
     "geom:latitude":44.896936,
     "geom:longitude":-93.742839,
@@ -14,21 +14,26 @@
     "lbl:latitude":44.908107,
     "lbl:longitude":-93.721563,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"St Bonifacius",
+    "mz:postal_locality_alt":[
+        "Saint Bonifacius"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404511889,
         85633793,
+        102087709,
+        404511889,
         85969155,
-        102087709
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781857"
     },
     "wof:country":"US",
-    "wof:geomhash":"639b120f2be8478d728ddbe939cf79d3",
+    "wof:geomhash":"60f42934b4716f425a12a9fc2c04b10f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554729263,
-    "wof:lastmodified":1480789092,
+    "wof:lastmodified":1611185439,
     "wof:name":"55375",
     "wof:parent_id":85969155,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016582,
-    "geom:area_square_m":159325304.355211,
+    "geom:area_square_m":159325304.355198,
     "geom:bbox":"-90.572527,38.953943,-90.360681,39.076001",
     "geom:latitude":39.009282,
     "geom:longitude":-90.46758,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.010943,
     "lbl:longitude":-90.465066,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Grafton",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404496511,
         85633793,
-        102080833
+        102080833,
+        404496511,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784937"
     },
     "wof:country":"US",
-    "wof:geomhash":"9387b28ced615ff964e3003345c26f36",
+    "wof:geomhash":"db494a54153b102c6cdef95966ac8f59",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554734583,
-    "wof:lastmodified":1480910508,
+    "wof:lastmodified":1611184208,
     "wof:name":"62037",
     "wof:parent_id":404496511,
     "wof:placetype":"postalcode",

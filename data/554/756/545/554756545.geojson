@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003111,
-    "geom:area_square_m":28896375.749598,
+    "geom:area_square_m":28896375.749592,
     "geom:bbox":"-81.878053,41.275044,-81.824115,41.35075",
     "geom:latitude":41.313401,
     "geom:longitude":-81.856172,
@@ -13,21 +13,26 @@
     "lbl:latitude":41.315913,
     "lbl:longitude":-81.856217,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Strongsville",
+    "mz:postal_locality_alt":[
+        "Columbia Station"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404523431,
         85633793,
+        102084837,
+        404523431,
         101712543,
-        102084837
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"23424623"
     },
     "wof:country":"US",
-    "wof:geomhash":"d4e43fae9d684b9749b9786d696286f6",
+    "wof:geomhash":"8697a1aeafe0fa9daad502385c0f472f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554756545,
-    "wof:lastmodified":1480835325,
+    "wof:lastmodified":1611184289,
     "wof:name":"44149",
     "wof:parent_id":101712543,
     "wof:placetype":"postalcode",

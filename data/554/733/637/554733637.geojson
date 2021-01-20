@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008089,
-    "geom:area_square_m":74096210.832566,
+    "geom:area_square_m":74096210.832585,
     "geom:bbox":"-89.023631,42.15199,-88.886879,42.260809",
     "geom:latitude":42.198034,
     "geom:longitude":-88.947213,
@@ -14,20 +14,25 @@
     "lbl:latitude":42.197297,
     "lbl:longitude":-88.947723,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cherry Valley",
+    "mz:postal_locality_alt":[
+        "Rockford"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404499335,
         85633793,
-        102080827
+        102080827,
+        404499335,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784413"
     },
     "wof:country":"US",
-    "wof:geomhash":"267c1683c19baa897d7ef3459386434d",
+    "wof:geomhash":"d52fa0e9803accbd6e266de6447c7b15",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554733637,
-    "wof:lastmodified":1480912138,
+    "wof:lastmodified":1611184242,
     "wof:name":"61016",
     "wof:parent_id":404499335,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019083,
-    "geom:area_square_m":182480945.639402,
+    "geom:area_square_m":182480945.639325,
     "geom:bbox":"-83.650323,39.261846,-83.456813,39.428832",
     "geom:latitude":39.346078,
     "geom:longitude":-83.54431,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.347615,
     "lbl:longitude":-83.541912,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Leesburg",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404525483,
         85633793,
-        102084797
+        102084797,
+        404525483,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777092"
     },
     "wof:country":"US",
-    "wof:geomhash":"048688a0761c8bec8bd31befae0a6478",
+    "wof:geomhash":"c93e0dccadeb6f85e798ad52f2355fbc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554721661,
-    "wof:lastmodified":1480840051,
+    "wof:lastmodified":1611184957,
     "wof:name":"45135",
     "wof:parent_id":404525483,
     "wof:placetype":"postalcode",

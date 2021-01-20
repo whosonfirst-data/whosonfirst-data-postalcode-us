@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030081,
-    "geom:area_square_m":266014580.685751,
+    "geom:area_square_m":266014580.685708,
     "geom:bbox":"-72.953599,44.239749,-72.660136,44.451676",
     "geom:latitude":44.342841,
     "geom:longitude":-72.809053,
@@ -13,20 +13,27 @@
     "lbl:latitude":44.295598,
     "lbl:longitude":-72.82699,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Waterbury",
+    "mz:postal_locality_alt":[
+        "Barre",
+        "Morrisville",
+        "Waterbury Center"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688763,
         102191575,
-        404527423,
         85633793,
-        102080779
+        102080779,
+        404527423,
+        85688763
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760063"
     },
     "wof:country":"US",
-    "wof:geomhash":"58eaccaf8f92303eeff9db12140815bd",
+    "wof:geomhash":"e3cad2e2aad3e3872e673a7a30c8889a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +45,7 @@
         }
     ],
     "wof:id":554699071,
-    "wof:lastmodified":1480906388,
+    "wof:lastmodified":1611184606,
     "wof:name":"05676",
     "wof:parent_id":404527423,
     "wof:placetype":"postalcode",

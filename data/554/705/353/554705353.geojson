@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031705,
-    "geom:area_square_m":294939467.194558,
+    "geom:area_square_m":294939467.194523,
     "geom:bbox":"-76.894088,41.114369,-76.571596,41.335186",
     "geom:latitude":41.207919,
     "geom:longitude":-76.737394,
@@ -14,20 +14,26 @@
     "lbl:latitude":41.208002,
     "lbl:longitude":-76.739819,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Muncy",
+    "mz:postal_locality_alt":[
+        "Turbotville",
+        "Watsontown"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485243,
         85633793,
-        102081317
+        102081317,
+        404485243,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764880"
     },
     "wof:country":"US",
-    "wof:geomhash":"b1f8f358381ee5e0589fa7c4de2ab78e",
+    "wof:geomhash":"8ca66cbc0d3a94c0d6ed37477415d45a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554705353,
-    "wof:lastmodified":1480905760,
+    "wof:lastmodified":1611184092,
     "wof:name":"17756",
     "wof:parent_id":404485243,
     "wof:placetype":"postalcode",

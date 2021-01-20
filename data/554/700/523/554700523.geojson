@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021907,
-    "geom:area_square_m":208852066.527387,
+    "geom:area_square_m":208852066.527451,
     "geom:bbox":"-75.321718,39.457372,-75.061973,39.625038",
     "geom:latitude":39.556327,
     "geom:longitude":-75.176471,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.557728,
     "lbl:longitude":-75.177717,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Elmer",
+    "mz:postal_locality_alt":[
+        "Pittsgrove"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477899,
         85633793,
-        102083879
+        102083879,
+        404477899,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761123"
     },
     "wof:country":"US",
-    "wof:geomhash":"7485d6480e5912d81c3ad49d52391a83",
+    "wof:geomhash":"0dc5780c198ebfcbfb1d901b39deb78d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554700523,
-    "wof:lastmodified":1480905054,
+    "wof:lastmodified":1611183209,
     "wof:name":"08318",
     "wof:parent_id":404477899,
     "wof:placetype":"postalcode",

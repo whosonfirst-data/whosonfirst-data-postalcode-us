@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009037,
-    "geom:area_square_m":93764562.965574,
+    "geom:area_square_m":93764562.965676,
     "geom:bbox":"-80.266959,32.873272,-80.108939,33.021489",
     "geom:latitude":32.952585,
     "geom:longitude":-80.193483,
@@ -13,19 +13,26 @@
     "lbl:latitude":32.947923,
     "lbl:longitude":-80.189918,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Summerville",
+    "mz:postal_locality_alt":[
+        "North Charleston",
+        "Charleston",
+        "Lincolnville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688683,
-        102085409
+        102085409,
+        85688683
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770218"
     },
     "wof:country":"US",
-    "wof:geomhash":"2b18b56a59cfc8fc0af1e893f8ed7c7a",
+    "wof:geomhash":"f208869ecdc28f9275022b0f73eb6466",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +43,7 @@
         }
     ],
     "wof:id":554712249,
-    "wof:lastmodified":1480813956,
+    "wof:lastmodified":1611183725,
     "wof:name":"29485",
     "wof:parent_id":102085409,
     "wof:placetype":"postalcode",

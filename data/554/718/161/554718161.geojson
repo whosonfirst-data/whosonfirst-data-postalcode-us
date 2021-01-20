@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.123284,
-    "geom:area_square_m":1299645665.183574,
+    "geom:area_square_m":1299645665.184088,
     "geom:bbox":"-91.655009,31.19114,-91.153801,31.795474",
     "geom:latitude":31.510258,
     "geom:longitude":-91.354037,
@@ -14,19 +14,25 @@
     "lbl:latitude":31.508792,
     "lbl:longitude":-91.357418,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Natchez",
+    "mz:postal_locality_alt":[
+        "Raleigh",
+        "Madison"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688579,
-        102082443
+        102082443,
+        85688579
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12774803"
     },
     "wof:country":"US",
-    "wof:geomhash":"6e2aedef6cad44bf82a32ee584e7fa1d",
+    "wof:geomhash":"7dcffc1516a6585561130b0300319731",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554718161,
-    "wof:lastmodified":1480914442,
+    "wof:lastmodified":1611185537,
     "wof:name":"39120",
     "wof:parent_id":102082443,
     "wof:placetype":"postalcode",

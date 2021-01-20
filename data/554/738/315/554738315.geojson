@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01026,
-    "geom:area_square_m":99955320.049483,
+    "geom:area_square_m":99955320.049317,
     "geom:bbox":"-94.832905,37.950445,-94.614011,38.051954",
     "geom:latitude":38.013439,
     "geom:longitude":-94.718336,
@@ -14,20 +14,22 @@
     "lbl:latitude":38.013735,
     "lbl:longitude":-94.723388,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fulton",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404503855,
         85633793,
-        102082133
+        102082133,
+        404503855,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786960"
     },
     "wof:country":"US",
-    "wof:geomhash":"ad839034930df48e280669f18f27dc74",
+    "wof:geomhash":"6b0edf972547555c1e9c8333f894ce94",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554738315,
-    "wof:lastmodified":1480913857,
+    "wof:lastmodified":1611183107,
     "wof:name":"66738",
     "wof:parent_id":404503855,
     "wof:placetype":"postalcode",

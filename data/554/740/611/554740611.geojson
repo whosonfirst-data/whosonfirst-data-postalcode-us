@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.198045,
-    "geom:area_square_m":1796028682.00408,
+    "geom:area_square_m":1796028682.004373,
     "geom:bbox":"-103.5051,42.538874,-102.672259,43.000947",
     "geom:latitude":42.826574,
     "geom:longitude":-103.010915,
@@ -14,21 +14,27 @@
     "lbl:latitude":42.827175,
     "lbl:longitude":-103.012899,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Chadron",
+    "mz:postal_locality_alt":[
+        "Bridgeport",
+        "Whiteclay"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688563,
         102191575,
-        404519803,
         85633793,
+        102082801,
+        404519803,
         85973623,
-        102082801
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12788070"
     },
     "wof:country":"US",
-    "wof:geomhash":"8ec4f097566639364599b8ff2c964784",
+    "wof:geomhash":"9a8fd926267fd95db25e366828accf11",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554740611,
-    "wof:lastmodified":1480913840,
+    "wof:lastmodified":1611183394,
     "wof:name":"69337",
     "wof:parent_id":85973623,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016054,
-    "geom:area_square_m":149890820.208844,
+    "geom:area_square_m":149890820.208807,
     "geom:bbox":"-77.540986,40.903584,-77.143804,41.044338",
     "geom:latitude":40.967435,
     "geom:longitude":-77.358332,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.96747,
     "lbl:longitude":-77.358404,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Rebersburg",
+    "mz:postal_locality_alt":[
+        "Boalsburg"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404483091,
         85633793,
-        102081369
+        102081369,
+        404483091,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764502"
     },
     "wof:country":"US",
-    "wof:geomhash":"827e9e3beedf914dd2fc9927aa029ac4",
+    "wof:geomhash":"3c47f1fe66afe427ac5c3b5a73351db9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554704777,
-    "wof:lastmodified":1480903555,
+    "wof:lastmodified":1611184504,
     "wof:name":"16872",
     "wof:parent_id":404483091,
     "wof:placetype":"postalcode",

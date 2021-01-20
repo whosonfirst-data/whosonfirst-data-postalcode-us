@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001111,
-    "geom:area_square_m":10432379.872101,
+    "geom:area_square_m":10432379.87211,
     "geom:bbox":"-74.305326,40.591903,-74.255608,40.62753",
     "geom:latitude":40.607765,
     "geom:longitude":-74.280803,
@@ -14,21 +14,26 @@
     "lbl:latitude":40.607152,
     "lbl:longitude":-74.280531,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Rahway",
+    "mz:postal_locality_alt":[
+        "Fanwood"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478511,
         85633793,
+        102085995,
+        404478511,
         85975835,
-        102085995
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760656"
     },
     "wof:country":"US",
-    "wof:geomhash":"86e7417deb74c03235019674ff87bdeb",
+    "wof:geomhash":"63bf9d4304b49ee615b4bba342db3413",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554699869,
-    "wof:lastmodified":1480805175,
+    "wof:lastmodified":1611184610,
     "wof:name":"07065",
     "wof:parent_id":85975835,
     "wof:placetype":"postalcode",

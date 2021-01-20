@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001327,
-    "geom:area_square_m":11950224.212458,
+    "geom:area_square_m":11950224.212485,
     "geom:bbox":"-70.651331,43.228137,-70.57738,43.271629",
     "geom:latitude":43.254116,
     "geom:longitude":-70.609373,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.255751,
     "lbl:longitude":-70.610737,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ogunquit",
+    "mz:postal_locality_alt":[
+        "Cape Neddick"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404475805,
         85633793,
-        102087449
+        102087449,
+        404475805,
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759359"
     },
     "wof:country":"US",
-    "wof:geomhash":"9eeab6dcf69cd1bcc69dc2b62a714176",
+    "wof:geomhash":"b3467c38e799e9b284eff7f6aabd2d8b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554778655,
-    "wof:lastmodified":1480788174,
+    "wof:lastmodified":1611183441,
     "wof:name":"03907",
     "wof:parent_id":404475805,
     "wof:placetype":"postalcode",

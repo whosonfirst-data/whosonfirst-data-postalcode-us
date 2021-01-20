@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020017,
-    "geom:area_square_m":169296615.562883,
+    "geom:area_square_m":169296615.562915,
     "geom:bbox":"-94.036671,46.802891,-93.775077,46.890562",
     "geom:latitude":46.844155,
     "geom:longitude":-93.896636,
@@ -14,20 +14,22 @@
     "lbl:latitude":46.86219,
     "lbl:longitude":-93.852993,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Outing",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404509373,
         85633793,
-        102087905
+        102087905,
+        404509373,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782627"
     },
     "wof:country":"US",
-    "wof:geomhash":"91b945105c75d5ac87cdb2416f076787",
+    "wof:geomhash":"b91abc52faa7399bcda61f15f1ca2228",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554730643,
-    "wof:lastmodified":1480788210,
+    "wof:lastmodified":1611182725,
     "wof:name":"56662",
     "wof:parent_id":404509373,
     "wof:placetype":"postalcode",

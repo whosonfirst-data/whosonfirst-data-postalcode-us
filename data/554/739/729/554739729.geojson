@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009159,
-    "geom:area_square_m":85595206.163763,
+    "geom:area_square_m":85595206.163754,
     "geom:bbox":"-96.910621,40.857207,-96.79213,40.965395",
     "geom:latitude":40.907795,
     "geom:longitude":-96.857165,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.907789,
     "lbl:longitude":-96.857157,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Malcolm",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688563,
         102191575,
-        404518751,
         85633793,
-        102083503
+        102083503,
+        404518751,
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787648"
     },
     "wof:country":"US",
-    "wof:geomhash":"559127b93fcaf3e0eddedba03712403e",
+    "wof:geomhash":"db7b6a8d9d539c42afdc0d95bc13ead9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554739729,
-    "wof:lastmodified":1480836365,
+    "wof:lastmodified":1611182681,
     "wof:name":"68402",
     "wof:parent_id":404518751,
     "wof:placetype":"postalcode",

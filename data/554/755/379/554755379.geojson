@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002345,
-    "geom:area_square_m":19625476.302989,
+    "geom:area_square_m":19625476.303001,
     "geom:bbox":"-122.231109,47.379656,-122.161506,47.432164",
     "geom:latitude":47.404939,
     "geom:longitude":-122.195608,
@@ -13,20 +13,25 @@
     "lbl:latitude":47.405479,
     "lbl:longitude":-122.195772,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Kent",
+    "mz:postal_locality_alt":[
+        "Auburn"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688623,
         102191575,
         85633793,
+        102086191,
         101730431,
-        102086191
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12798904"
     },
     "wof:country":"US",
-    "wof:geomhash":"c4e36b9358b5f335bdd6768e3da8230d",
+    "wof:geomhash":"4b3b66fc6c72bf70d117c63b19826df4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554755379,
-    "wof:lastmodified":1480915590,
+    "wof:lastmodified":1611182579,
     "wof:name":"98031",
     "wof:parent_id":101730431,
     "wof:placetype":"postalcode",

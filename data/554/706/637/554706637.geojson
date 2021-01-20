@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01318,
-    "geom:area_square_m":126188674.392724,
+    "geom:area_square_m":126188674.392607,
     "geom:bbox":"-75.760431,39.184024,-75.622054,39.330767",
     "geom:latitude":39.257244,
     "geom:longitude":-75.699184,
@@ -14,19 +14,24 @@
     "lbl:latitude":39.260877,
     "lbl:longitude":-75.707605,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Clayton",
+    "mz:postal_locality_alt":[
+        "Kenton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688611,
-        102083871
+        102083871,
+        85688611
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765804"
     },
     "wof:country":"US",
-    "wof:geomhash":"60281cefc4d6484f37c074c869032b0c",
+    "wof:geomhash":"ee2b94a919b68e28b915b0a1dc81f2ef",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554706637,
-    "wof:lastmodified":1480837458,
+    "wof:lastmodified":1611182711,
     "wof:name":"19938",
     "wof:parent_id":102083871,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024355,
-    "geom:area_square_m":247731719.055671,
+    "geom:area_square_m":247731719.055539,
     "geom:bbox":"-89.15841,34.554208,-88.908621,34.753455",
     "geom:latitude":34.652948,
     "geom:longitude":-89.026157,
@@ -14,19 +14,24 @@
     "lbl:latitude":34.651787,
     "lbl:longitude":-89.025549,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Blue Mountain",
+    "mz:postal_locality_alt":[
+        "New Albany"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688579,
-        102084845
+        102084845,
+        85688579
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12774544"
     },
     "wof:country":"US",
-    "wof:geomhash":"408431dfbfecedad31f7c64a265e91a1",
+    "wof:geomhash":"28d5d850cb8e5ff39286d85d9bfc6e46",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554717743,
-    "wof:lastmodified":1480818283,
+    "wof:lastmodified":1611185036,
     "wof:name":"38610",
     "wof:parent_id":102084845,
     "wof:placetype":"postalcode",

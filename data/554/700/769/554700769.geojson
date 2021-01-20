@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008055,
-    "geom:area_square_m":75657918.090188,
+    "geom:area_square_m":75657918.090331,
     "geom:bbox":"-75.054702,40.506236,-74.909391,40.635931",
     "geom:latitude":40.573621,
     "geom:longitude":-74.965791,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.574254,
     "lbl:longitude":-74.966157,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pittstown",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478167,
         85633793,
-        102085997
+        102085997,
+        404478167,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761300"
     },
     "wof:country":"US",
-    "wof:geomhash":"8cb0b3208875f3077e29a7587a643ac7",
+    "wof:geomhash":"2e9b33c1332e1d8628827c5130edeb11",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554700769,
-    "wof:lastmodified":1480812025,
+    "wof:lastmodified":1611183194,
     "wof:name":"08867",
     "wof:parent_id":404478167,
     "wof:placetype":"postalcode",

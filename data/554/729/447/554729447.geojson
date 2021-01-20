@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048784,
-    "geom:area_square_m":414875504.106607,
+    "geom:area_square_m":414875504.106352,
     "geom:bbox":"-92.863296,46.4181,-92.424648,46.65013",
     "geom:latitude":46.546164,
     "geom:longitude":-92.648332,
@@ -14,21 +14,26 @@
     "lbl:latitude":46.555744,
     "lbl:longitude":-92.629504,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Barnum",
+    "mz:postal_locality_alt":[
+        "Mahtowa"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404511499,
         85633793,
+        102087809,
+        404511499,
         85969379,
-        102087809
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782017"
     },
     "wof:country":"US",
-    "wof:geomhash":"7628686c1fb03a089d80d6f04c2cd9f7",
+    "wof:geomhash":"3fbce5b2dcfe914220f919a37f03b4b2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554729447,
-    "wof:lastmodified":1480786309,
+    "wof:lastmodified":1611185409,
     "wof:name":"55707",
     "wof:parent_id":85969379,
     "wof:placetype":"postalcode",

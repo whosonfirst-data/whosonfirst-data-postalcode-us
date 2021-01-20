@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013372,
-    "geom:area_square_m":127133009.129036,
+    "geom:area_square_m":127133009.128917,
     "geom:bbox":"-94.726653,39.667534,-94.602113,39.820361",
     "geom:latitude":39.746699,
     "geom:longitude":-94.652313,
@@ -14,20 +14,26 @@
     "lbl:latitude":39.742886,
     "lbl:longitude":-94.653163,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Easton",
+    "mz:postal_locality_alt":[
+        "Maysville",
+        "Albany"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404516307,
         85633793,
-        102086153
+        102086153,
+        404516307,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786112"
     },
     "wof:country":"US",
-    "wof:geomhash":"728c4910f2c0dcddec96db8bf5a9fad9",
+    "wof:geomhash":"43de1cac6abd6141d1db84f099df4c19",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554736671,
-    "wof:lastmodified":1480910352,
+    "wof:lastmodified":1611183042,
     "wof:name":"64443",
     "wof:parent_id":404516307,
     "wof:placetype":"postalcode",

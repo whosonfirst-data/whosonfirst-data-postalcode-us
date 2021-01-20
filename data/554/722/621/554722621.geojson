@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007917,
-    "geom:area_square_m":75297637.746157,
+    "geom:area_square_m":75297637.74612,
     "geom:bbox":"-86.056571,39.674833,-85.947057,39.775288",
     "geom:latitude":39.723288,
     "geom:longitude":-86.000302,
@@ -13,21 +13,26 @@
     "lbl:latitude":39.721517,
     "lbl:longitude":-85.999033,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Indianapolis",
+    "mz:postal_locality_alt":[
+        "Wanamaker"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404502029,
         85633793,
+        102087201,
+        404502029,
         85942569,
-        102087201
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777677"
     },
     "wof:country":"US",
-    "wof:geomhash":"565fef08f9fd288f40c08b3dd538e10a",
+    "wof:geomhash":"6698d9b28120032cf3b25406ce11cad2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554722621,
-    "wof:lastmodified":1480911622,
+    "wof:lastmodified":1611183217,
     "wof:name":"46239",
     "wof:parent_id":85942569,
     "wof:placetype":"postalcode",

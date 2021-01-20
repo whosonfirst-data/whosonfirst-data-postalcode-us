@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007397,
-    "geom:area_square_m":65150403.173133,
+    "geom:area_square_m":65150403.173155,
     "geom:bbox":"-93.458568,44.543784,-93.27815,44.63059",
     "geom:latitude":44.576252,
     "geom:longitude":-93.369519,
@@ -13,20 +13,25 @@
     "lbl:latitude":44.57554,
     "lbl:longitude":-93.373569,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Elko",
+    "mz:postal_locality_alt":[
+        "Webster"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404514991,
         85633793,
-        102087041
+        102087041,
+        404514991,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781679"
     },
     "wof:country":"US",
-    "wof:geomhash":"b43e8c61a89aef8b7e795ee1056bffbd",
+    "wof:geomhash":"5fad60537349e7cc24dad0b9c23b9d9d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554728929,
-    "wof:lastmodified":1480789031,
+    "wof:lastmodified":1611185092,
     "wof:name":"55020",
     "wof:parent_id":404514991,
     "wof:placetype":"postalcode",

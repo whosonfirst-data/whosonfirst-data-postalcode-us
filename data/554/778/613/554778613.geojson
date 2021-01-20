@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001016,
-    "geom:area_square_m":9366572.119699,
+    "geom:area_square_m":9366572.119692,
     "geom:bbox":"-71.45726,41.757829,-71.412183,41.794379",
     "geom:latitude":41.775592,
     "geom:longitude":-71.435709,
@@ -13,21 +13,26 @@
     "lbl:latitude":41.774999,
     "lbl:longitude":-71.435593,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cranston",
+    "mz:postal_locality_alt":[
+        "Providence"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688509,
         102191575,
-        404488357,
         85633793,
+        102081597,
+        404488357,
         101720573,
-        102081597
+        85688509
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759063"
     },
     "wof:country":"US",
-    "wof:geomhash":"86b731fd9a9236fad8076bba535d8b41",
+    "wof:geomhash":"590f62a02063e66ee37bae46d1052117",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554778613,
-    "wof:lastmodified":1480823255,
+    "wof:lastmodified":1611183439,
     "wof:name":"02910",
     "wof:parent_id":101720573,
     "wof:placetype":"postalcode",

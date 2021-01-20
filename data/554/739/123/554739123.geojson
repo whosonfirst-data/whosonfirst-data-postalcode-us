@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.060145,
-    "geom:area_square_m":587628199.269667,
+    "geom:area_square_m":587628199.269664,
     "geom:bbox":"-98.72134,37.703605,-98.233441,37.911439",
     "geom:latitude":37.801848,
     "geom:longitude":-98.476955,
@@ -14,20 +14,27 @@
     "lbl:latitude":37.799431,
     "lbl:longitude":-98.475,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Turon",
+    "mz:postal_locality_alt":[
+        "Langdon",
+        "Preston",
+        "Ness City"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404503031,
         85633793,
-        102085327
+        102085327,
+        404503031,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787343"
     },
     "wof:country":"US",
-    "wof:geomhash":"793a164c278efaa59cc6be432604e671",
+    "wof:geomhash":"414a25191ddd4e831a73ad98fb18d913",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554739123,
-    "wof:lastmodified":1480836573,
+    "wof:lastmodified":1611182678,
     "wof:name":"67583",
     "wof:parent_id":404503031,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006413,
-    "geom:area_square_m":59944706.455129,
+    "geom:area_square_m":59944706.455186,
     "geom:bbox":"-75.16699,40.840294,-75.050839,40.968378",
     "geom:latitude":40.895445,
     "geom:longitude":-75.108105,
@@ -14,20 +14,27 @@
     "lbl:latitude":40.898529,
     "lbl:longitude":-75.110092,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mount Bethel",
+    "mz:postal_locality_alt":[
+        "Mt Bethel",
+        "East Stroudsburg",
+        "Tannersville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404486383,
         85633793,
-        102081395
+        102081395,
+        404486383,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765149"
     },
     "wof:country":"US",
-    "wof:geomhash":"ae69d7c4e31162b8ec1cf68c51aff9de",
+    "wof:geomhash":"268fb0bdfd6d29ed4ee6643d29e988b2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554705747,
-    "wof:lastmodified":1480906476,
+    "wof:lastmodified":1611184107,
     "wof:name":"18343",
     "wof:parent_id":404486383,
     "wof:placetype":"postalcode",

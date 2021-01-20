@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.088723,
-    "geom:area_square_m":859834913.387498,
+    "geom:area_square_m":859834913.387445,
     "geom:bbox":"-100.244425,38.261455,-99.731681,38.58054",
     "geom:latitude":38.394919,
     "geom:longitude":-99.951269,
@@ -14,20 +14,22 @@
     "lbl:latitude":38.399335,
     "lbl:longitude":-99.939209,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ness City",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404502851,
         85633793,
-        102083417
+        102083417,
+        404502851,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787326"
     },
     "wof:country":"US",
-    "wof:geomhash":"26b617c9079575c318620959471a4842",
+    "wof:geomhash":"5061a64821b7355be4957ae01cec6de8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554739085,
-    "wof:lastmodified":1480835539,
+    "wof:lastmodified":1611182656,
     "wof:name":"67560",
     "wof:parent_id":404502851,
     "wof:placetype":"postalcode",

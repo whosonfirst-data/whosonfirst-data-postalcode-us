@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029172,
-    "geom:area_square_m":307140115.557062,
+    "geom:area_square_m":307140115.55751,
     "geom:bbox":"-97.288674,31.519037,-96.91681,31.771608",
     "geom:latitude":31.626548,
     "geom:longitude":-97.096062,
@@ -13,20 +13,25 @@
     "lbl:latitude":31.620914,
     "lbl:longitude":-97.098526,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Waco",
+    "mz:postal_locality_alt":[
+        "Bellmead"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102085007,
         101723381,
-        102085007
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12791227"
     },
     "wof:country":"US",
-    "wof:geomhash":"4d101662d89e37840957de08bb8bf250",
+    "wof:geomhash":"55b7d1d299fdf130d10526c3a7786b6b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554745649,
-    "wof:lastmodified":1480910815,
+    "wof:lastmodified":1611185280,
     "wof:name":"76705",
     "wof:parent_id":101723381,
     "wof:placetype":"postalcode",

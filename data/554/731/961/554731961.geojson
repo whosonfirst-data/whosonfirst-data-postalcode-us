@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.058601,
-    "geom:area_square_m":495218368.331867,
+    "geom:area_square_m":495218368.331746,
     "geom:bbox":"-99.259513,46.717249,-98.944383,47.066706",
     "geom:latitude":46.888474,
     "geom:longitude":-99.110884,
@@ -14,20 +14,25 @@
     "lbl:latitude":46.887399,
     "lbl:longitude":-99.110117,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cleveland",
+    "mz:postal_locality_alt":[
+        "Windsor"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688525,
         102191575,
-        404482443,
         85633793,
-        102082093
+        102082093,
+        404482443,
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12783310"
     },
     "wof:country":"US",
-    "wof:geomhash":"b8e527321c957b0efdf9d4037a4b0edc",
+    "wof:geomhash":"6391ac1c38bd6e62b01d3f37c6d57d0f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554731961,
-    "wof:lastmodified":1480795379,
+    "wof:lastmodified":1611183073,
     "wof:name":"58424",
     "wof:parent_id":404482443,
     "wof:placetype":"postalcode",

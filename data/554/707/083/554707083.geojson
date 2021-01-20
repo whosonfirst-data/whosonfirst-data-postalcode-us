@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003168,
-    "geom:area_square_m":30350018.588046,
+    "geom:area_square_m":30350018.588042,
     "geom:bbox":"-77.273162,39.164749,-77.197352,39.253223",
     "geom:latitude":39.207895,
     "geom:longitude":-77.232956,
@@ -13,20 +13,22 @@
     "lbl:latitude":39.208383,
     "lbl:longitude":-77.237182,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Germantown",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688501,
         102191575,
         85633793,
+        102082719,
         85950305,
-        102082719
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766367"
     },
     "wof:country":"US",
-    "wof:geomhash":"3c4497d69477e5038c990d27c156f352",
+    "wof:geomhash":"8ce25fc44f17c61a1625dfa6aeb07316",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +40,7 @@
         }
     ],
     "wof:id":554707083,
-    "wof:lastmodified":1480795132,
+    "wof:lastmodified":1611183137,
     "wof:name":"20876",
     "wof:parent_id":85950305,
     "wof:placetype":"postalcode",

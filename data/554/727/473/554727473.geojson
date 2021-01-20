@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003575,
-    "geom:area_square_m":32302841.03887,
+    "geom:area_square_m":32302841.038812,
     "geom:bbox":"-88.428716,43.010695,-88.344908,43.09087",
     "geom:latitude":43.047096,
     "geom:longitude":-88.391979,
@@ -14,21 +14,26 @@
     "lbl:latitude":43.048166,
     "lbl:longitude":-88.390515,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Delafield",
+    "mz:postal_locality_alt":[
+        "Wales"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404495627,
         85633793,
+        102081741,
+        404495627,
         101733479,
-        102081741
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12780766"
     },
     "wof:country":"US",
-    "wof:geomhash":"df40f7077a7064a8457f467b0a904671",
+    "wof:geomhash":"ad9831f08a1b421453e68e45f9c70fec",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554727473,
-    "wof:lastmodified":1480832497,
+    "wof:lastmodified":1611185522,
     "wof:name":"53018",
     "wof:parent_id":101733479,
     "wof:placetype":"postalcode",

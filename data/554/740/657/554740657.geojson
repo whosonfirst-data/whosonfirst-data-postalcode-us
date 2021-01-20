@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002171,
-    "geom:area_square_m":23227793.80735,
+    "geom:area_square_m":23227793.807367,
     "geom:bbox":"-90.670761,30.035509,-90.595031,30.097433",
     "geom:latitude":30.07285,
     "geom:longitude":-90.631021,
@@ -14,20 +14,25 @@
     "lbl:latitude":30.08615,
     "lbl:longitude":-90.647603,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Garyville",
+    "mz:postal_locality_alt":[
+        "Vacherie"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688735,
         102191575,
         85633793,
+        102082461,
         85948633,
-        102082461
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12788121"
     },
     "wof:country":"US",
-    "wof:geomhash":"5a025c7393836615c7653421b288c3a1",
+    "wof:geomhash":"4598471956e06672e964601b2f749ffb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554740657,
-    "wof:lastmodified":1480830825,
+    "wof:lastmodified":1611183398,
     "wof:name":"70051",
     "wof:parent_id":85948633,
     "wof:placetype":"postalcode",

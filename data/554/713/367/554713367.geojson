@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.077549,
-    "geom:area_square_m":794001944.282212,
+    "geom:area_square_m":794001944.282147,
     "geom:bbox":"-83.036179,33.955728,-82.564462,34.296192",
     "geom:latitude":34.103168,
     "geom:longitude":-82.804399,
@@ -14,19 +14,24 @@
     "lbl:latitude":34.105769,
     "lbl:longitude":-82.793148,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Elberton",
+    "mz:postal_locality_alt":[
+        "Watkinsville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688535,
-        102082331
+        102082331,
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770947"
     },
     "wof:country":"US",
-    "wof:geomhash":"aa02cb2ba15863125c370f3598b11d38",
+    "wof:geomhash":"d6e17d95f0aad1d73374be87fe72b55e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554713367,
-    "wof:lastmodified":1480836418,
+    "wof:lastmodified":1611183320,
     "wof:name":"30635",
     "wof:parent_id":102082331,
     "wof:placetype":"postalcode",

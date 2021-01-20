@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.083621,
-    "geom:area_square_m":798859314.791172,
+    "geom:area_square_m":798859314.791196,
     "geom:bbox":"-101.510615,39.135117,-101.22198,39.669853",
     "geom:latitude":39.412111,
     "geom:longitude":-101.361133,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.42472,
     "lbl:longitude":-101.343783,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Brewster",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404505371,
         85633793,
-        102082669
+        102082669,
+        404505371,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787395"
     },
     "wof:country":"US",
-    "wof:geomhash":"bb734fb141de70213b294d493471573e",
+    "wof:geomhash":"da5f22a4420a5ff002f8656b809667c3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554739233,
-    "wof:lastmodified":1480838008,
+    "wof:lastmodified":1611182660,
     "wof:name":"67732",
     "wof:parent_id":404505371,
     "wof:placetype":"postalcode",

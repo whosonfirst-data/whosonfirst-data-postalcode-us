@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008949,
-    "geom:area_square_m":91651741.115801,
+    "geom:area_square_m":91651741.115672,
     "geom:bbox":"-83.371208,33.998935,-83.248463,34.165549",
     "geom:latitude":34.078291,
     "geom:longitude":-83.311383,
@@ -14,19 +14,25 @@
     "lbl:latitude":34.085104,
     "lbl:longitude":-83.299382,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hull",
+    "mz:postal_locality_alt":[
+        "Nicholson",
+        "Commerce"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688535,
-        102082903
+        102082903,
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770954"
     },
     "wof:country":"US",
-    "wof:geomhash":"ba59abea6070fff379cf032b81f12e96",
+    "wof:geomhash":"be0f01514d980d6bad2c4eca2d8cfab2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554713377,
-    "wof:lastmodified":1480817101,
+    "wof:lastmodified":1611183310,
     "wof:name":"30646",
     "wof:parent_id":102082903,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.095205,
-    "geom:area_square_m":803409232.052532,
+    "geom:area_square_m":803409232.052218,
     "geom:bbox":"-93.191898,46.766168,-92.679843,47.19586",
     "geom:latitude":46.963617,
     "geom:longitude":-92.937944,
@@ -14,20 +14,25 @@
     "lbl:latitude":46.955641,
     "lbl:longitude":-92.940845,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Floodwood",
+    "mz:postal_locality_alt":[
+        "Wawina"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404510719,
         85633793,
-        102087653
+        102087653,
+        404510719,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782041"
     },
     "wof:country":"US",
-    "wof:geomhash":"9aa42e10cd5cd5f828e661bc0151d791",
+    "wof:geomhash":"61a8411ea9221c6dcd494f9950b87b36",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554729485,
-    "wof:lastmodified":1480911793,
+    "wof:lastmodified":1611185410,
     "wof:name":"55736",
     "wof:parent_id":404510719,
     "wof:placetype":"postalcode",

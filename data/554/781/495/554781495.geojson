@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002554,
-    "geom:area_square_m":28306551.788852,
+    "geom:area_square_m":28306551.788836,
     "geom:bbox":"-80.253393,26.271852,-80.201805,26.341718",
     "geom:latitude":26.307742,
     "geom:longitude":-80.226106,
@@ -13,20 +13,26 @@
     "lbl:latitude":26.305788,
     "lbl:longitude":-80.223371,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pompano Beach",
+    "mz:postal_locality_alt":[
+        "Coral Springs",
+        "Parkland"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688651,
         102191575,
         85633793,
+        102084727,
         85932307,
-        102084727
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12772104"
     },
     "wof:country":"US",
-    "wof:geomhash":"540c526e9e33ef71149967a19a735138",
+    "wof:geomhash":"6491ab67cfa7a7757a7050521bc34cba",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554781495,
-    "wof:lastmodified":1480803999,
+    "wof:lastmodified":1611184834,
     "wof:name":"33067",
     "wof:parent_id":85932307,
     "wof:placetype":"postalcode",

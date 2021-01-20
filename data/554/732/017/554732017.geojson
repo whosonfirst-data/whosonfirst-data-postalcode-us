@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.122741,
-    "geom:area_square_m":1025537020.54109,
+    "geom:area_square_m":1025537020.540926,
     "geom:bbox":"-100.67353,47.327192,-100.246246,47.702888",
     "geom:latitude":47.490654,
     "geom:longitude":-100.472389,
@@ -14,20 +14,25 @@
     "lbl:latitude":47.491985,
     "lbl:longitude":-100.473402,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mcclusky",
+    "mz:postal_locality_alt":[
+        "Mc Clusky"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688525,
         102191575,
-        404481763,
         85633793,
-        102082099
+        102082099,
+        404481763,
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12783336"
     },
     "wof:country":"US",
-    "wof:geomhash":"737d13fa37bbd94e15518809c6369d9d",
+    "wof:geomhash":"747979da1240c00797350573fc981c6d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554732017,
-    "wof:lastmodified":1480796193,
+    "wof:lastmodified":1611184396,
     "wof:name":"58463",
     "wof:parent_id":404481763,
     "wof:placetype":"postalcode",

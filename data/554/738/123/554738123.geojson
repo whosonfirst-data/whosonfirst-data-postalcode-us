@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017023,
-    "geom:area_square_m":164032082.895976,
+    "geom:area_square_m":164032082.895957,
     "geom:bbox":"-96.131249,38.738887,-95.909314,38.906471",
     "geom:latitude":38.804709,
     "geom:longitude":-96.004354,
@@ -14,20 +14,22 @@
     "lbl:latitude":38.806807,
     "lbl:longitude":-96.004327,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Harveyville",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404503081,
         85633793,
-        102082173
+        102082173,
+        404503081,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786849"
     },
     "wof:country":"US",
-    "wof:geomhash":"df98e762bf3361d1deb1a34e7f82c692",
+    "wof:geomhash":"10a8243fa35009a48ff5d1d6d005e6fc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554738123,
-    "wof:lastmodified":1480840139,
+    "wof:lastmodified":1611183124,
     "wof:name":"66431",
     "wof:parent_id":404503081,
     "wof:placetype":"postalcode",

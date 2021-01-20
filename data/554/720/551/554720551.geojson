@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009993,
-    "geom:area_square_m":92793640.881803,
+    "geom:area_square_m":92793640.881824,
     "geom:bbox":"-83.407867,41.272908,-83.2281,41.377629",
     "geom:latitude":41.325311,
     "geom:longitude":-83.312844,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.325313,
     "lbl:longitude":-83.312859,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Helena",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404524229,
         85633793,
-        102083653
+        102083653,
+        404524229,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776301"
     },
     "wof:country":"US",
-    "wof:geomhash":"244593d387f146a7cfa9bd03bec4c74c",
+    "wof:geomhash":"a746ddf4afea8d0643c8860c8f40cac3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554720551,
-    "wof:lastmodified":1480839178,
+    "wof:lastmodified":1611185446,
     "wof:name":"43435",
     "wof:parent_id":404524229,
     "wof:placetype":"postalcode",

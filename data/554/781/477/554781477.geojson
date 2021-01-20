@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001476,
-    "geom:area_square_m":16411145.532725,
+    "geom:area_square_m":16411145.532708,
     "geom:bbox":"-80.295187,25.925127,-80.260652,25.971296",
     "geom:latitude":25.948233,
     "geom:longitude":-80.278023,
@@ -13,19 +13,26 @@
     "lbl:latitude":25.948468,
     "lbl:longitude":-80.278855,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Opa Locka",
+    "mz:postal_locality_alt":[
+        "Miami Gardens",
+        "Carol City",
+        "Miami"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688651,
-        102085771
+        102085771,
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12772095"
     },
     "wof:country":"US",
-    "wof:geomhash":"19ee53b4c4b3381e68a4a899998ee93a",
+    "wof:geomhash":"ea2f679366f4d3eb5ad265f5b515b9fc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +43,7 @@
         }
     ],
     "wof:id":554781477,
-    "wof:lastmodified":1480806626,
+    "wof:lastmodified":1611184813,
     "wof:name":"33055",
     "wof:parent_id":102085771,
     "wof:placetype":"postalcode",

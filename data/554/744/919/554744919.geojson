@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.088089,
-    "geom:area_square_m":926411958.131011,
+    "geom:area_square_m":926411958.131582,
     "geom:bbox":"-94.416879,31.544033,-93.94363,31.894533",
     "geom:latitude":31.732684,
     "geom:longitude":-94.201574,
@@ -14,19 +14,25 @@
     "lbl:latitude":31.732513,
     "lbl:longitude":-94.19129,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Center",
+    "mz:postal_locality_alt":[
+        "Hemphill",
+        "Lufkin"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688753,
-        102081125
+        102081125,
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12790812"
     },
     "wof:country":"US",
-    "wof:geomhash":"182cd518b565f20369e65baea4551504",
+    "wof:geomhash":"7445d095e8a5218fcbd9b847edd3ef29",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554744919,
-    "wof:lastmodified":1480906864,
+    "wof:lastmodified":1611184753,
     "wof:name":"75935",
     "wof:parent_id":102081125,
     "wof:placetype":"postalcode",

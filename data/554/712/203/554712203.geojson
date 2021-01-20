@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015511,
-    "geom:area_square_m":160854101.57706,
+    "geom:area_square_m":160854101.577167,
     "geom:bbox":"-80.090526,32.90811,-79.90038,33.068737",
     "geom:latitude":32.997788,
     "geom:longitude":-79.990047,
@@ -14,20 +14,25 @@
     "lbl:latitude":32.997549,
     "lbl:longitude":-79.966641,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Goose Creek",
+    "mz:postal_locality_alt":[
+        "Charleston"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688683,
         102191575,
         85633793,
+        102085397,
         101720749,
-        102085397
+        85688683
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770187"
     },
     "wof:country":"US",
-    "wof:geomhash":"e48726251acc981c6cc4275fcd978704",
+    "wof:geomhash":"6144dbe33d6900a5bf9923da11a33ab6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554712203,
-    "wof:lastmodified":1480813649,
+    "wof:lastmodified":1611183705,
     "wof:name":"29445",
     "wof:parent_id":101720749,
     "wof:placetype":"postalcode",

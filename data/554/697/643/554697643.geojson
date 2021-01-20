@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006313,
-    "geom:area_square_m":58100539.258982,
+    "geom:area_square_m":58100539.25903,
     "geom:bbox":"-71.590108,41.863863,-71.467503,41.9434",
     "geom:latitude":41.906469,
     "geom:longitude":-71.524726,
@@ -14,20 +14,26 @@
     "lbl:latitude":41.905774,
     "lbl:longitude":-71.523304,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Smithfield",
+    "mz:postal_locality_alt":[
+        "Cranston",
+        "Providence"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688509,
         102191575,
-        404488381,
         85633793,
-        102081597
+        102081597,
+        404488381,
+        85688509
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759069"
     },
     "wof:country":"US",
-    "wof:geomhash":"c04bc6b68d245d42899416f6d7fa3561",
+    "wof:geomhash":"04c2cfc9c31334cecf06be4a121dd22b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554697643,
-    "wof:lastmodified":1480817075,
+    "wof:lastmodified":1611184639,
     "wof:name":"02917",
     "wof:parent_id":404488381,
     "wof:placetype":"postalcode",

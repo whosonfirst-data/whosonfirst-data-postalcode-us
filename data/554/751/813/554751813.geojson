@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001209,
-    "geom:area_square_m":12379967.642988,
+    "geom:area_square_m":12379967.642994,
     "geom:bbox":"-118.202841,34.060453,-118.155292,34.101921",
     "geom:latitude":34.079602,
     "geom:longitude":-118.178053,
@@ -13,20 +13,25 @@
     "lbl:latitude":34.078195,
     "lbl:longitude":-118.185502,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Los Angeles",
+    "mz:postal_locality_alt":[
+        "El Sereno"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086957,
         85923517,
-        102086957
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795640"
     },
     "wof:country":"US",
-    "wof:geomhash":"ab064e3913bde602bbe060a285c957e4",
+    "wof:geomhash":"9ceadeb2087e02346ebda44e2ac3863e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554751813,
-    "wof:lastmodified":1480912623,
+    "wof:lastmodified":1611184352,
     "wof:name":"90032",
     "wof:parent_id":85923517,
     "wof:placetype":"postalcode",

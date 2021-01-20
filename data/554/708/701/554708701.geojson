@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002716,
-    "geom:area_square_m":26955553.781697,
+    "geom:area_square_m":26955553.781707,
     "geom:bbox":"-82.243382,36.594585,-82.105742,36.636408",
     "geom:latitude":36.610915,
     "geom:longitude":-82.169734,
@@ -14,20 +14,25 @@
     "lbl:latitude":36.610715,
     "lbl:longitude":-82.17005,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bristol",
+    "mz:postal_locality_alt":[
+        "Abingdon"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688747,
         102191575,
         85633793,
+        102084925,
         101728659,
-        102084925
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12767707"
     },
     "wof:country":"US",
-    "wof:geomhash":"326d6dbc5f4f5ba4265eacd0b351125f",
+    "wof:geomhash":"bb82e2f00c1d2ae79e286c78ffe2a1d7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554708701,
-    "wof:lastmodified":1480910585,
+    "wof:lastmodified":1611182761,
     "wof:name":"24201",
     "wof:parent_id":101728659,
     "wof:placetype":"postalcode",

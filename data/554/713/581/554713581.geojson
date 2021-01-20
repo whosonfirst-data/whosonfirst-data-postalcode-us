@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.060248,
-    "geom:area_square_m":628358821.846056,
+    "geom:area_square_m":628358821.846465,
     "geom:bbox":"-83.122207,32.223587,-82.772091,32.708318",
     "geom:latitude":32.493069,
     "geom:longitude":-82.939064,
@@ -13,19 +13,25 @@
     "lbl:latitude":32.493427,
     "lbl:longitude":-82.943054,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Dublin",
+    "mz:postal_locality_alt":[
+        "Gray",
+        "Rentz"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688535,
-        102083597
+        102083597,
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12771070"
     },
     "wof:country":"US",
-    "wof:geomhash":"52cbbb72aefd4635ee5192873de9bfe5",
+    "wof:geomhash":"bfa49212968aa85980c2f7e1a362c2f5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +42,7 @@
         }
     ],
     "wof:id":554713581,
-    "wof:lastmodified":1480834647,
+    "wof:lastmodified":1611183311,
     "wof:name":"31021",
     "wof:parent_id":102083597,
     "wof:placetype":"postalcode",

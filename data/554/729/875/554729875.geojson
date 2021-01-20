@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053957,
-    "geom:area_square_m":482159622.531921,
+    "geom:area_square_m":482159622.531899,
     "geom:bbox":"-93.867519,43.543084,-93.571072,43.876965",
     "geom:latitude":43.724041,
     "geom:longitude":-93.716264,
@@ -14,20 +14,26 @@
     "lbl:latitude":43.720968,
     "lbl:longitude":-93.713282,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wells",
+    "mz:postal_locality_alt":[
+        "Mapleton",
+        "Walters"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404514071,
         85633793,
-        102087833
+        102087833,
+        404514071,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782249"
     },
     "wof:country":"US",
-    "wof:geomhash":"c3f09680e7953546ffb744be1add1a5d",
+    "wof:geomhash":"f5ad13e67fac70f0e6412aea8be374d6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554729875,
-    "wof:lastmodified":1480785547,
+    "wof:lastmodified":1611185414,
     "wof:name":"56097",
     "wof:parent_id":404514071,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016617,
-    "geom:area_square_m":151646400.631117,
+    "geom:area_square_m":151646400.631092,
     "geom:bbox":"-90.78142,42.367474,-90.473798,42.495023",
     "geom:latitude":42.434389,
     "geom:longitude":-90.675205,
@@ -13,19 +13,24 @@
     "lbl:latitude":42.430701,
     "lbl:longitude":-90.669682,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Dubuque",
+    "mz:postal_locality_alt":[
+        "Peosta"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688713,
-        102086485
+        102086485,
+        85688713
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12780409"
     },
     "wof:country":"US",
-    "wof:geomhash":"029c68bd1cf6cc00be7087f077a9d11e",
+    "wof:geomhash":"04cea0208fee200a5a1dbf274bcec619",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +41,7 @@
         }
     ],
     "wof:id":554726791,
-    "wof:lastmodified":1480913835,
+    "wof:lastmodified":1611184866,
     "wof:name":"52003",
     "wof:parent_id":102086485,
     "wof:placetype":"postalcode",

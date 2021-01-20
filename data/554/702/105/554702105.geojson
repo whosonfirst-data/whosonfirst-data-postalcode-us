@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013828,
-    "geom:area_square_m":125760987.438727,
+    "geom:area_square_m":125760987.438732,
     "geom:bbox":"-76.536106,42.610305,-76.29586,42.710567",
     "geom:latitude":42.651687,
     "geom:longitude":-76.423406,
@@ -14,20 +14,25 @@
     "lbl:latitude":42.654563,
     "lbl:longitude":-76.419295,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Locke",
+    "mz:postal_locality_alt":[
+        "Genoa"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522029,
         85633793,
-        102083071
+        102083071,
+        404522029,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762659"
     },
     "wof:country":"US",
-    "wof:geomhash":"842d86affbbdb27d6633e7f5a1fe23f9",
+    "wof:geomhash":"b93d9e504c638596889cd19ec46f7bd3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554702105,
-    "wof:lastmodified":1480840595,
+    "wof:lastmodified":1611184133,
     "wof:name":"13092",
     "wof:parent_id":404522029,
     "wof:placetype":"postalcode",

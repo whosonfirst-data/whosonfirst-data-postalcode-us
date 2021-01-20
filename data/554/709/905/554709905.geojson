@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003661,
-    "geom:area_square_m":35012742.262452,
+    "geom:area_square_m":35012742.262451,
     "geom:bbox":"-81.565047,39.293874,-81.462556,39.360986",
     "geom:latitude":39.329865,
     "geom:longitude":-81.521319,
@@ -14,19 +14,25 @@
     "lbl:latitude":39.329575,
     "lbl:longitude":-81.514623,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Vienna",
+    "mz:postal_locality_alt":[
+        "Parkersburg",
+        "Williamstown"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688589,
-        102083343
+        102083343,
+        85688589
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12768582"
     },
     "wof:country":"US",
-    "wof:geomhash":"1c6993597288703f4d6bf28b62fb7efd",
+    "wof:geomhash":"765c2df92cb70221f1aadae382e44ca5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554709905,
-    "wof:lastmodified":1480836176,
+    "wof:lastmodified":1611183005,
     "wof:name":"26105",
     "wof:parent_id":102083343,
     "wof:placetype":"postalcode",

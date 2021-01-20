@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007717,
-    "geom:area_square_m":72488233.548557,
+    "geom:area_square_m":72488233.548405,
     "geom:bbox":"-79.538685,40.490573,-79.356371,40.630442",
     "geom:latitude":40.562111,
     "geom:longitude":-79.445188,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.571026,
     "lbl:longitude":-79.439869,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Avonmore",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404484281,
         85633793,
-        102081371
+        102081371,
+        404484281,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763898"
     },
     "wof:country":"US",
-    "wof:geomhash":"877325462f645138fa63922569653014",
+    "wof:geomhash":"26c505dd0bdc4dac8f2ed6b88dbb8215",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554703895,
-    "wof:lastmodified":1480823403,
+    "wof:lastmodified":1611184456,
     "wof:name":"15618",
     "wof:parent_id":404484281,
     "wof:placetype":"postalcode",

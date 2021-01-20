@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023621,
-    "geom:area_square_m":208990315.108276,
+    "geom:area_square_m":208990315.108429,
     "geom:bbox":"-88.35208,44.212548,-88.120779,44.41531",
     "geom:latitude":44.312335,
     "geom:longitude":-88.241684,
@@ -14,21 +14,27 @@
     "lbl:latitude":44.311313,
     "lbl:longitude":-88.24431,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Kaukauna",
+    "mz:postal_locality_alt":[
+        "Wrightstown",
+        "Little Chute"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404494977,
         85633793,
+        102081851,
+        404494977,
         101732429,
-        102081851
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781202"
     },
     "wof:country":"US",
-    "wof:geomhash":"0eae51400c76964d07d422c1e54dc4e7",
+    "wof:geomhash":"654f6f7167923e6e7bd5f539ce8c64c4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554728129,
-    "wof:lastmodified":1480833822,
+    "wof:lastmodified":1611185067,
     "wof:name":"54130",
     "wof:parent_id":101732429,
     "wof:placetype":"postalcode",

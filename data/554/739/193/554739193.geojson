@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.09528,
-    "geom:area_square_m":904825790.157182,
+    "geom:area_square_m":904825790.157242,
     "geom:bbox":"-100.153353,39.631681,-99.758207,40.001818",
     "geom:latitude":39.824861,
     "geom:longitude":-99.953405,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.823962,
     "lbl:longitude":-99.949132,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Norton",
+    "mz:postal_locality_alt":[
+        "Logan"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404504971,
         85633793,
-        102082667
+        102082667,
+        404504971,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787374"
     },
     "wof:country":"US",
-    "wof:geomhash":"5ba62dd0dc57f4cead44bc5fb6865124",
+    "wof:geomhash":"9e136777118f09ac15e48991186e35bc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554739193,
-    "wof:lastmodified":1480796093,
+    "wof:lastmodified":1611182651,
     "wof:name":"67654",
     "wof:parent_id":404504971,
     "wof:placetype":"postalcode",

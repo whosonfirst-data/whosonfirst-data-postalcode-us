@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006667,
-    "geom:area_square_m":73681190.844846,
+    "geom:area_square_m":73681190.844915,
     "geom:bbox":"-80.30826,26.607446,-80.173664,26.683225",
     "geom:latitude":26.648438,
     "geom:longitude":-80.250109,
@@ -13,20 +13,25 @@
     "lbl:latitude":26.64892,
     "lbl:longitude":-80.246459,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wellington",
+    "mz:postal_locality_alt":[
+        "West Palm Beach"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688651,
         102191575,
         85633793,
+        102085845,
         85931949,
-        102085845
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12772287"
     },
     "wof:country":"US",
-    "wof:geomhash":"56754d3d9e595aa61800090c2e584ded",
+    "wof:geomhash":"15ce8c84b88ce84c35f4ba09155e2df6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554781731,
-    "wof:lastmodified":1480804001,
+    "wof:lastmodified":1611184810,
     "wof:name":"33414",
     "wof:parent_id":85931949,
     "wof:placetype":"postalcode",

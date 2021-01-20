@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001971,
-    "geom:area_square_m":18912128.793865,
+    "geom:area_square_m":18912128.793855,
     "geom:bbox":"-76.959094,39.074272,-76.905737,39.138392",
     "geom:latitude":39.109434,
     "geom:longitude":-76.933519,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.109282,
     "lbl:longitude":-76.933941,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Burtonsville",
+    "mz:postal_locality_alt":[
+        "Silver Spring"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688501,
         102191575,
         85633793,
+        102082719,
         85950251,
-        102082719
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766361"
     },
     "wof:country":"US",
-    "wof:geomhash":"9b366d1c7c0b0d8981c467e403ffb67c",
+    "wof:geomhash":"5ab6cae14ea8240c16227554b9b0f236",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554707073,
-    "wof:lastmodified":1480800773,
+    "wof:lastmodified":1611183158,
     "wof:name":"20866",
     "wof:parent_id":85950251,
     "wof:placetype":"postalcode",

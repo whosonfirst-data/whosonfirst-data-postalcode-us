@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.055373,
-    "geom:area_square_m":541371000.489234,
+    "geom:area_square_m":541371000.489293,
     "geom:bbox":"-90.534764,37.641039,-90.17003,37.9033",
     "geom:latitude":37.75106,
     "geom:longitude":-90.369579,
@@ -14,20 +14,27 @@
     "lbl:latitude":37.754674,
     "lbl:longitude":-90.380562,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Farmington",
+    "mz:postal_locality_alt":[
+        "Sainte Genevieve",
+        "Park Hills",
+        "Bonne Terre"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404517199,
         85633793,
-        102085297
+        102085297,
+        404517199,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785799"
     },
     "wof:country":"US",
-    "wof:geomhash":"b28117d2954107990397bdcf59d4ada2",
+    "wof:geomhash":"88ba8ecadedbc83b24a48e306ae7b9b9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554736143,
-    "wof:lastmodified":1480908592,
+    "wof:lastmodified":1611183034,
     "wof:name":"63640",
     "wof:parent_id":404517199,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023007,
-    "geom:area_square_m":225564287.243055,
+    "geom:area_square_m":225564287.24309,
     "geom:bbox":"-87.793807,37.426554,-87.594405,37.640524",
     "geom:latitude":37.542999,
     "geom:longitude":-87.700671,
@@ -14,19 +14,24 @@
     "lbl:latitude":37.538637,
     "lbl:longitude":-87.692934,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Dixon",
+    "mz:postal_locality_alt":[
+        "Providence"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688641,
-        102084493
+        102084493,
+        85688641
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12775974"
     },
     "wof:country":"US",
-    "wof:geomhash":"252ded7675d12b184d61c3fe38fac55f",
+    "wof:geomhash":"1b86deb3c4802a7bbd942ecaa87763fd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554720015,
-    "wof:lastmodified":1480802399,
+    "wof:lastmodified":1611185452,
     "wof:name":"42409",
     "wof:parent_id":102084493,
     "wof:placetype":"postalcode",

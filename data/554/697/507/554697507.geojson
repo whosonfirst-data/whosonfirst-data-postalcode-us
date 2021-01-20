@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002792,
-    "geom:area_square_m":25546661.685174,
+    "geom:area_square_m":25546661.685203,
     "geom:bbox":"-71.301198,42.254975,-71.188167,42.30185",
     "geom:latitude":42.276139,
     "geom:longitude":-71.243674,
@@ -14,21 +14,26 @@
     "lbl:latitude":42.276029,
     "lbl:longitude":-71.244543,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Needham",
+    "mz:postal_locality_alt":[
+        "Watertown"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476585,
         85633793,
+        102084403,
+        404476585,
         85950835,
-        102084403
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758867"
     },
     "wof:country":"US",
-    "wof:geomhash":"e60298755053767e2321e5775efc9b1f",
+    "wof:geomhash":"7660e1e581b5993dd1bc364cfc8a67e2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554697507,
-    "wof:lastmodified":1480799920,
+    "wof:lastmodified":1611184652,
     "wof:name":"02492",
     "wof:parent_id":85950835,
     "wof:placetype":"postalcode",

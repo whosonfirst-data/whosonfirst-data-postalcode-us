@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005694,
-    "geom:area_square_m":54489808.961986,
+    "geom:area_square_m":54489808.961946,
     "geom:bbox":"-76.49561,39.241807,-76.379345,39.341334",
     "geom:latitude":39.290645,
     "geom:longitude":-76.43546,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.289205,
     "lbl:longitude":-76.43477,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Essex",
+    "mz:postal_locality_alt":[
+        "Baltimore"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688501,
         102191575,
         85633793,
+        102082193,
         85950185,
-        102082193
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766514"
     },
     "wof:country":"US",
-    "wof:geomhash":"b04214b90aed461a0369c4bba5288282",
+    "wof:geomhash":"9bf63d6179f993af755d333f72a3757a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554780513,
-    "wof:lastmodified":1480791340,
+    "wof:lastmodified":1611185192,
     "wof:name":"21221",
     "wof:parent_id":85950185,
     "wof:placetype":"postalcode",

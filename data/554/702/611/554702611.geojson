@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033585,
-    "geom:area_square_m":308656384.848315,
+    "geom:area_square_m":308656384.848331,
     "geom:bbox":"-75.410044,41.857456,-75.141939,42.113208",
     "geom:latitude":41.991386,
     "geom:longitude":-75.26474,
@@ -14,20 +14,26 @@
     "lbl:latitude":41.993662,
     "lbl:longitude":-75.266006,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hancock",
+    "mz:postal_locality_alt":[
+        "Deposit",
+        "Kirkwood"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522193,
         85633793,
-        102082375
+        102082375,
+        404522193,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762996"
     },
     "wof:country":"US",
-    "wof:geomhash":"146c260d2ad75912761026a9bc8aa1ce",
+    "wof:geomhash":"69a4df5ea49aaf2dc7f2771ca301abf5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554702611,
-    "wof:lastmodified":1480832376,
+    "wof:lastmodified":1611184141,
     "wof:name":"13783",
     "wof:parent_id":404522193,
     "wof:placetype":"postalcode",

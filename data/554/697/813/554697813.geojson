@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010873,
-    "geom:area_square_m":97148957.143393,
+    "geom:area_square_m":97148957.143412,
     "geom:bbox":"-71.784506,43.631399,-71.647095,43.802476",
     "geom:latitude":43.729783,
     "geom:longitude":-71.711311,
@@ -14,21 +14,26 @@
     "lbl:latitude":43.738799,
     "lbl:longitude":-71.702722,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Plymouth",
+    "mz:postal_locality_alt":[
+        "Ashland"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688689,
         102191575,
-        404477119,
         85633793,
+        102086567,
+        404477119,
         85975149,
-        102086567
+        85688689
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759164"
     },
     "wof:country":"US",
-    "wof:geomhash":"22d745c6fce6840f03808ee101c73613",
+    "wof:geomhash":"e5c11255ba377e7b14e9fb016c962ff5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554697813,
-    "wof:lastmodified":1480916381,
+    "wof:lastmodified":1611184657,
     "wof:name":"03264",
     "wof:parent_id":85975149,
     "wof:placetype":"postalcode",

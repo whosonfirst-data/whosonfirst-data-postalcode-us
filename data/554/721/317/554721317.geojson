@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008431,
-    "geom:area_square_m":78776165.077655,
+    "geom:area_square_m":78776165.077647,
     "geom:bbox":"-81.0508,40.829256,-80.935066,40.987773",
     "geom:latitude":40.917339,
     "geom:longitude":-80.987948,
@@ -14,21 +14,26 @@
     "lbl:latitude":40.917414,
     "lbl:longitude":-80.990071,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Beloit",
+    "mz:postal_locality_alt":[
+        "Berlin"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404526185,
         85633793,
+        102084799,
+        404526185,
         101712477,
-        102084799
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776854"
     },
     "wof:country":"US",
-    "wof:geomhash":"8145708c35aad9946d1471ee89edae42",
+    "wof:geomhash":"a2dc4bcb2bc3b5d17bcdbb47f7954a19",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554721317,
-    "wof:lastmodified":1480841635,
+    "wof:lastmodified":1611184980,
     "wof:name":"44609",
     "wof:parent_id":101712477,
     "wof:placetype":"postalcode",

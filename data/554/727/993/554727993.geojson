@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023016,
-    "geom:area_square_m":205798489.696286,
+    "geom:area_square_m":205798489.696018,
     "geom:bbox":"-90.03107,43.58737,-89.788028,43.774261",
     "geom:latitude":43.686675,
     "geom:longitude":-89.925783,
@@ -14,20 +14,22 @@
     "lbl:latitude":43.685886,
     "lbl:longitude":-89.928668,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lyndon Station",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404494253,
         85633793,
-        102081297
+        102081297,
+        404494253,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781132"
     },
     "wof:country":"US",
-    "wof:geomhash":"8d7f2accca20cfb30cd9fcb70aacbf06",
+    "wof:geomhash":"d610258be38e08f7c7a61b1cc7918338",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554727993,
-    "wof:lastmodified":1480833081,
+    "wof:lastmodified":1611185516,
     "wof:name":"53944",
     "wof:parent_id":404494253,
     "wof:placetype":"postalcode",

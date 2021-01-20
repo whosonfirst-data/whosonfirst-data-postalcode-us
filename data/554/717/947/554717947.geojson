@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02287,
-    "geom:area_square_m":233301844.098655,
+    "geom:area_square_m":233301844.098555,
     "geom:bbox":"-88.338785,34.301522,-88.152982,34.507174",
     "geom:latitude":34.410884,
     "geom:longitude":-88.24221,
@@ -14,19 +14,24 @@
     "lbl:latitude":34.41254,
     "lbl:longitude":-88.23296,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Golden",
+    "mz:postal_locality_alt":[
+        "Belmont"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688579,
-        102084841
+        102084841,
+        85688579
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12774671"
     },
     "wof:country":"US",
-    "wof:geomhash":"adfcc6f4f37c7c9a33861337828d88ec",
+    "wof:geomhash":"f3d64fc7a3ceab317f386b8d5b7fd296",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554717947,
-    "wof:lastmodified":1480835625,
+    "wof:lastmodified":1611185009,
     "wof:name":"38847",
     "wof:parent_id":102084841,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015313,
-    "geom:area_square_m":136757871.238066,
+    "geom:area_square_m":136757871.238109,
     "geom:bbox":"-85.761223,43.698345,-85.463005,43.817375",
     "geom:latitude":43.759538,
     "geom:longitude":-85.608478,
@@ -14,20 +14,22 @@
     "lbl:latitude":43.771656,
     "lbl:longitude":-85.602264,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Paris",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404508329,
         85633793,
-        102082987
+        102082987,
+        404508329,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779321"
     },
     "wof:country":"US",
-    "wof:geomhash":"8b2e4a9d424d27a7cd4df5ae6ab732d3",
+    "wof:geomhash":"952a9560031236bb18829aed26a20c8c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554725039,
-    "wof:lastmodified":1480841093,
+    "wof:lastmodified":1611183266,
     "wof:name":"49338",
     "wof:parent_id":404508329,
     "wof:placetype":"postalcode",

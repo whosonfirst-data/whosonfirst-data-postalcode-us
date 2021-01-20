@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006233,
-    "geom:area_square_m":56068108.685234,
+    "geom:area_square_m":56068108.685232,
     "geom:bbox":"-88.325908,43.281037,-88.210285,43.369533",
     "geom:latitude":43.323363,
     "geom:longitude":-88.271969,
@@ -14,20 +14,22 @@
     "lbl:latitude":43.317599,
     "lbl:longitude":-88.271073,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Slinger",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404495607,
         85633793,
-        102081745
+        102081745,
+        404495607,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12780821"
     },
     "wof:country":"US",
-    "wof:geomhash":"602f1ba0c42a160b09fd5db7d5760968",
+    "wof:geomhash":"b98b9fede21c639ed7934a00c39430f3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554727565,
-    "wof:lastmodified":1480832140,
+    "wof:lastmodified":1611185518,
     "wof:name":"53086",
     "wof:parent_id":404495607,
     "wof:placetype":"postalcode",

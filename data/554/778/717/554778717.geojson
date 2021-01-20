@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004113,
-    "geom:area_square_m":36813837.639547,
+    "geom:area_square_m":36813837.639555,
     "geom:bbox":"-70.370545,43.597494,-70.213618,43.658375",
     "geom:latitude":43.631526,
     "geom:longitude":-70.285922,
@@ -13,21 +13,27 @@
     "lbl:latitude":43.631402,
     "lbl:longitude":-70.285989,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"South Portland",
+    "mz:postal_locality_alt":[
+        "Portland",
+        "S Portland"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404475439,
         85633793,
+        102087463,
+        404475439,
         85948879,
-        102087463
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759449"
     },
     "wof:country":"US",
-    "wof:geomhash":"79c553948a60b4775b9e7da7b5f4452e",
+    "wof:geomhash":"42573003e05c98202606392757924c56",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +46,7 @@
         }
     ],
     "wof:id":554778717,
-    "wof:lastmodified":1480785909,
+    "wof:lastmodified":1611183445,
     "wof:name":"04106",
     "wof:parent_id":85948879,
     "wof:placetype":"postalcode",

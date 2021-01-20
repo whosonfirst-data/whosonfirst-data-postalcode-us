@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009115,
-    "geom:area_square_m":86165954.629845,
+    "geom:area_square_m":86165954.629881,
     "geom:bbox":"-88.688046,40.076161,-88.56342,40.192413",
     "geom:latitude":40.137724,
     "geom:longitude":-88.62916,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.137717,
     "lbl:longitude":-88.629166,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"De Land",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404498991,
         85633793,
-        102082865
+        102082865,
+        404498991,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784839"
     },
     "wof:country":"US",
-    "wof:geomhash":"335c82930e1068d2b76c6f90340de3f5",
+    "wof:geomhash":"74a36d10593cad7cf056c1ceadf5bb15",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554734381,
-    "wof:lastmodified":1480792304,
+    "wof:lastmodified":1611184209,
     "wof:name":"61839",
     "wof:parent_id":404498991,
     "wof:placetype":"postalcode",

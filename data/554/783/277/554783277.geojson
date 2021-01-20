@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001176,
-    "geom:area_square_m":10885173.605666,
+    "geom:area_square_m":10885173.605681,
     "geom:bbox":"-87.71347,41.513492,-87.655042,41.551807",
     "geom:latitude":41.536966,
     "geom:longitude":-87.684102,
@@ -14,21 +14,27 @@
     "lbl:latitude":41.536966,
     "lbl:longitude":-87.684101,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Flossmoor",
+    "mz:postal_locality_alt":[
+        "Matteson",
+        "Olympia Fields"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404497581,
         85633793,
+        102084317,
+        404497581,
         85940853,
-        102084317
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784132"
     },
     "wof:country":"US",
-    "wof:geomhash":"c78b9765687a49e6224080642b7d2ff7",
+    "wof:geomhash":"5633492bde85873c97a57b591ec3e2f1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554783277,
-    "wof:lastmodified":1480802054,
+    "wof:lastmodified":1611183895,
     "wof:name":"60422",
     "wof:parent_id":85940853,
     "wof:placetype":"postalcode",

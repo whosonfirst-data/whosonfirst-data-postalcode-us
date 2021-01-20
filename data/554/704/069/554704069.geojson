@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008861,
-    "geom:area_square_m":82851708.476916,
+    "geom:area_square_m":82851708.476854,
     "geom:bbox":"-78.9724,40.828769,-78.805791,40.908428",
     "geom:latitude":40.874819,
     "geom:longitude":-78.896615,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.870222,
     "lbl:longitude":-78.898677,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Rossiter",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404483471,
         85633793,
-        102081387
+        102081387,
+        404483471,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764019"
     },
     "wof:country":"US",
-    "wof:geomhash":"65b317fa0d17f7a9d5f16016ee02aa17",
+    "wof:geomhash":"0bf23c8cd1187c7867e18eb743370512",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554704069,
-    "wof:lastmodified":1480904934,
+    "wof:lastmodified":1611184519,
     "wof:name":"15772",
     "wof:parent_id":404483471,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004542,
-    "geom:area_square_m":44719563.454605,
+    "geom:area_square_m":44719563.454594,
     "geom:bbox":"-113.287413,37.188635,-113.204066,37.273586",
     "geom:latitude":37.231547,
     "geom:longitude":-113.244636,
@@ -14,20 +14,25 @@
     "lbl:latitude":37.231543,
     "lbl:longitude":-113.244639,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"La Verkin",
+    "mz:postal_locality_alt":[
+        "Hildale"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688567,
         102191575,
         85633793,
+        102082879,
         101727629,
-        102082879
+        85688567
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12794348"
     },
     "wof:country":"US",
-    "wof:geomhash":"7d8ec2785a4880ec365ea5aa48667ea3",
+    "wof:geomhash":"d397279296ad78123e3c50191e136787",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554750167,
-    "wof:lastmodified":1480790313,
+    "wof:lastmodified":1611184530,
     "wof:name":"84745",
     "wof:parent_id":101727629,
     "wof:placetype":"postalcode",

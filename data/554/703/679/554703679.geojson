@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010517,
-    "geom:area_square_m":99969764.599874,
+    "geom:area_square_m":99969764.599907,
     "geom:bbox":"-80.177935,39.721057,-80.000286,39.816373",
     "geom:latitude":39.758076,
     "geom:longitude":-80.084062,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.762403,
     "lbl:longitude":-80.093925,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mount Morris",
+    "mz:postal_locality_alt":[
+        "Mt Morris"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404483269,
         85633793,
-        102080975
+        102080975,
+        404483269,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763751"
     },
     "wof:country":"US",
-    "wof:geomhash":"268979df09548e9afd38e03fdeaefb4f",
+    "wof:geomhash":"369a8c6189c04f18f1a25d0cf657ec66",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554703679,
-    "wof:lastmodified":1480906431,
+    "wof:lastmodified":1611184475,
     "wof:name":"15349",
     "wof:parent_id":404483269,
     "wof:placetype":"postalcode",

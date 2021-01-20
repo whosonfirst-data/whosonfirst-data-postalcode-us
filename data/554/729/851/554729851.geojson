@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.051742,
-    "geom:area_square_m":460298154.673355,
+    "geom:area_square_m":460298154.673296,
     "geom:bbox":"-94.782765,43.848111,-94.489041,44.145543",
     "geom:latitude":43.991281,
     "geom:longitude":-94.629126,
@@ -14,21 +14,26 @@
     "lbl:latitude":43.991089,
     "lbl:longitude":-94.629348,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"St James",
+    "mz:postal_locality_alt":[
+        "Saint James"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404514957,
         85633793,
+        102087841,
+        404514957,
         85968881,
-        102087841
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782237"
     },
     "wof:country":"US",
-    "wof:geomhash":"4fe9106bca2c7d79fc174c2b82eaea5c",
+    "wof:geomhash":"b03d47eefdf01e80a25a5ca2222b41e2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554729851,
-    "wof:lastmodified":1480785028,
+    "wof:lastmodified":1611185417,
     "wof:name":"56081",
     "wof:parent_id":85968881,
     "wof:placetype":"postalcode",

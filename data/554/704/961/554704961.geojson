@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010899,
-    "geom:area_square_m":102485804.648602,
+    "geom:area_square_m":102485804.648659,
     "geom:bbox":"-77.682538,40.423787,-77.379913,40.572687",
     "geom:latitude":40.49618,
     "geom:longitude":-77.554327,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.505381,
     "lbl:longitude":-77.55247,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mifflin",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404486735,
         85633793,
-        102081367
+        102081367,
+        404486735,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764601"
     },
     "wof:country":"US",
-    "wof:geomhash":"13c394c4afc72d398a09a1e28382f8cc",
+    "wof:geomhash":"c62b3c72cfdc623ad7da7ee803900b15",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554704961,
-    "wof:lastmodified":1480831088,
+    "wof:lastmodified":1611184505,
     "wof:name":"17058",
     "wof:parent_id":404486735,
     "wof:placetype":"postalcode",

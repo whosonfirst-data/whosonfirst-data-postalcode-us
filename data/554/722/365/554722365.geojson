@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008954,
-    "geom:area_square_m":84626214.167289,
+    "geom:area_square_m":84626214.167266,
     "geom:bbox":"-85.685539,40.092865,-85.56062,40.21893",
     "geom:latitude":40.149965,
     "geom:longitude":-85.625258,
@@ -13,20 +13,25 @@
     "lbl:latitude":40.15467,
     "lbl:longitude":-85.619672,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Anderson",
+    "mz:postal_locality_alt":[
+        "Zionsville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404502025,
         85633793,
-        102086407
+        102086407,
+        404502025,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777537"
     },
     "wof:country":"US",
-    "wof:geomhash":"2190b73ed4717a8435019c4502ec95aa",
+    "wof:geomhash":"3387262b3c08eb905df5f106b1672c83",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554722365,
-    "wof:lastmodified":1480912896,
+    "wof:lastmodified":1611183211,
     "wof:name":"46012",
     "wof:parent_id":404502025,
     "wof:placetype":"postalcode",

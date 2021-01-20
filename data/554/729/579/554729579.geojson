@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014732,
-    "geom:area_square_m":132001231.419559,
+    "geom:area_square_m":132001231.419512,
     "geom:bbox":"-92.828562,43.499953,-92.648872,43.63042",
     "geom:latitude":43.562076,
     "geom:longitude":-92.733674,
@@ -14,20 +14,22 @@
     "lbl:latitude":43.562061,
     "lbl:longitude":-92.733693,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Adams",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404512997,
         85633793,
-        102087717
+        102087717,
+        404512997,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782107"
     },
     "wof:country":"US",
-    "wof:geomhash":"8da05f53fe602cc0481d4ce894ed37c6",
+    "wof:geomhash":"bced92e2994d0cc39d439713e7f104cb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554729579,
-    "wof:lastmodified":1480911754,
+    "wof:lastmodified":1611185443,
     "wof:name":"55909",
     "wof:parent_id":404512997,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003262,
-    "geom:area_square_m":29477375.459241,
+    "geom:area_square_m":29477375.459244,
     "geom:bbox":"-89.448343,43.012334,-89.309747,43.059234",
     "geom:latitude":43.037143,
     "geom:longitude":-89.385651,
@@ -13,20 +13,26 @@
     "lbl:latitude":43.036054,
     "lbl:longitude":-89.386887,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Madison",
+    "mz:postal_locality_alt":[
+        "Fitchburg",
+        "Monona"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404493261,
         85633793,
-        102081795
+        102081795,
+        404493261,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781054"
     },
     "wof:country":"US",
-    "wof:geomhash":"bb7552c8e1d6370e7f6cee7352a3ac58",
+    "wof:geomhash":"0553426fef2083c3b08f5ad129ece3b5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554727887,
-    "wof:lastmodified":1480820039,
+    "wof:lastmodified":1611185499,
     "wof:name":"53713",
     "wof:parent_id":404493261,
     "wof:placetype":"postalcode",

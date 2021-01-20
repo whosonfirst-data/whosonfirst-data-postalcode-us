@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022788,
-    "geom:area_square_m":191611203.068111,
+    "geom:area_square_m":191611203.068163,
     "geom:bbox":"-97.070066,47.064622,-96.818934,47.238297",
     "geom:latitude":47.155567,
     "geom:longitude":-96.948082,
@@ -14,20 +14,22 @@
     "lbl:latitude":47.155563,
     "lbl:longitude":-96.948134,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Gardner",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688525,
         102191575,
-        404480497,
         85633793,
-        102082073
+        102082073,
+        404480497,
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12783131"
     },
     "wof:country":"US",
-    "wof:geomhash":"7619ed507e558a81ca7d4dbaffc7c8a0",
+    "wof:geomhash":"cb63ee1cbd7e46c1dc5a10e82e6beae7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554731625,
-    "wof:lastmodified":1480819795,
+    "wof:lastmodified":1611183078,
     "wof:name":"58036",
     "wof:parent_id":404480497,
     "wof:placetype":"postalcode",

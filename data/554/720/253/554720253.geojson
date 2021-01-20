@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021492,
-    "geom:area_square_m":203432340.379856,
+    "geom:area_square_m":203432340.379991,
     "geom:bbox":"-83.691606,39.975033,-83.407738,40.130596",
     "geom:latitude":40.050264,
     "geom:longitude":-83.564161,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.054862,
     "lbl:longitude":-83.55081,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mechanicsburg",
+    "mz:postal_locality_alt":[
+        "Dublin"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404524977,
         85633793,
-        102084709
+        102084709,
+        404524977,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776111"
     },
     "wof:country":"US",
-    "wof:geomhash":"cc3f094e2acdd70bcf7e2af10ab6caa3",
+    "wof:geomhash":"384389d21efc67e0e24c6bcbc3f013a0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554720253,
-    "wof:lastmodified":1480838360,
+    "wof:lastmodified":1611185480,
     "wof:name":"43044",
     "wof:parent_id":404524977,
     "wof:placetype":"postalcode",

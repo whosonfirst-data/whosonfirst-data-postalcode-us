@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012746,
-    "geom:area_square_m":119732287.195272,
+    "geom:area_square_m":119732287.195111,
     "geom:bbox":"-79.822086,40.494818,-79.628299,40.643864",
     "geom:latitude":40.561643,
     "geom:longitude":-79.712908,
@@ -13,21 +13,28 @@
     "lbl:latitude":40.557191,
     "lbl:longitude":-79.725803,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"New Kensington",
+    "mz:postal_locality_alt":[
+        "Lower Burrell",
+        "Arnold",
+        "Morgan"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404487501,
         85633793,
+        102081383,
+        404487501,
         101717159,
-        102081383
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763589"
     },
     "wof:country":"US",
-    "wof:geomhash":"4965530f53df6a5fd6a5dee89e75706a",
+    "wof:geomhash":"496da8f2551be80a3e357538b4c1f8c4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +47,7 @@
         }
     ],
     "wof:id":554703437,
-    "wof:lastmodified":1480905393,
+    "wof:lastmodified":1611184457,
     "wof:name":"15068",
     "wof:parent_id":101717159,
     "wof:placetype":"postalcode",

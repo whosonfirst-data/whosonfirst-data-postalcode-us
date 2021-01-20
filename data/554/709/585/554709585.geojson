@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005856,
-    "geom:area_square_m":56538796.362788,
+    "geom:area_square_m":56538796.362828,
     "geom:bbox":"-82.186667,38.631651,-82.040889,38.705315",
     "geom:latitude":38.663822,
     "geom:longitude":-82.105947,
@@ -14,19 +14,25 @@
     "lbl:latitude":38.656399,
     "lbl:longitude":-82.117158,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Apple Grove",
+    "mz:postal_locality_alt":[
+        "Gallipolis Ferry",
+        "Hurricane"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688589,
-        102082637
+        102082637,
+        85688589
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12768317"
     },
     "wof:country":"US",
-    "wof:geomhash":"763c28da1c0f79b592d17332970bf87a",
+    "wof:geomhash":"e3b5a7f1e0849e12064cf1fc67f9a4e1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554709585,
-    "wof:lastmodified":1480836184,
+    "wof:lastmodified":1611183013,
     "wof:name":"25502",
     "wof:parent_id":102082637,
     "wof:placetype":"postalcode",

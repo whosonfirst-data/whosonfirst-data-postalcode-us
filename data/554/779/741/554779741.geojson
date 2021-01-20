@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001522,
-    "geom:area_square_m":14277296.51662,
+    "geom:area_square_m":14277296.516622,
     "geom:bbox":"-73.603182,40.623373,-73.559729,40.673548",
     "geom:latitude":40.649996,
     "geom:longitude":-73.582891,
@@ -14,21 +14,26 @@
     "lbl:latitude":40.649401,
     "lbl:longitude":-73.582951,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Freeport",
+    "mz:postal_locality_alt":[
+        "Lynbrook"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404521473,
         85633793,
+        102082371,
+        404521473,
         85977679,
-        102082371
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761839"
     },
     "wof:country":"US",
-    "wof:geomhash":"4263104e6246973f8c68501a04230e77",
+    "wof:geomhash":"25c3edfec7cf75e7c761f749b2c2e56e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554779741,
-    "wof:lastmodified":1480790619,
+    "wof:lastmodified":1611183976,
     "wof:name":"11520",
     "wof:parent_id":85977679,
     "wof:placetype":"postalcode",

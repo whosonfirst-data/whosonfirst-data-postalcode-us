@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001376,
-    "geom:area_square_m":13215970.688816,
+    "geom:area_square_m":13215970.688802,
     "geom:bbox":"-74.921883,38.999424,-74.84994,39.035667",
     "geom:latitude":39.018123,
     "geom:longitude":-74.888924,
@@ -14,21 +14,28 @@
     "lbl:latitude":39.018576,
     "lbl:longitude":-74.888905,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Rio Grande",
+    "mz:postal_locality_alt":[
+        "Middle Township",
+        "Cape May Ct Hse",
+        "Dennisville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477949,
         85633793,
+        102086777,
+        404477949,
         85976211,
-        102086777
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761102"
     },
     "wof:country":"US",
-    "wof:geomhash":"2ab56852442781b11e69633c16abdbf0",
+    "wof:geomhash":"013d6e3881a4b70aa95912f16cca91c3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +48,7 @@
         }
     ],
     "wof:id":554700507,
-    "wof:lastmodified":1480913298,
+    "wof:lastmodified":1611183195,
     "wof:name":"08242",
     "wof:parent_id":85976211,
     "wof:placetype":"postalcode",

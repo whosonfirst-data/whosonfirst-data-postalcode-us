@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005262,
-    "geom:area_square_m":50009371.605832,
+    "geom:area_square_m":50009371.605771,
     "geom:bbox":"-75.943201,39.722545,-75.829389,39.840659",
     "geom:latitude":39.776835,
     "geom:longitude":-75.889251,
@@ -14,20 +14,26 @@
     "lbl:latitude":39.775919,
     "lbl:longitude":-75.889657,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lincoln University",
+    "mz:postal_locality_alt":[
+        "Lincoln Univ",
+        "New London"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485129,
         85633793,
-        102081275
+        102081275,
+        404485129,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765591"
     },
     "wof:country":"US",
-    "wof:geomhash":"2ef3aadfa70f2666704351e035b38e06",
+    "wof:geomhash":"1d03b53585ffde0b300b5d30686d5b84",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554706409,
-    "wof:lastmodified":1480817364,
+    "wof:lastmodified":1611182693,
     "wof:name":"19352",
     "wof:parent_id":404485129,
     "wof:placetype":"postalcode",

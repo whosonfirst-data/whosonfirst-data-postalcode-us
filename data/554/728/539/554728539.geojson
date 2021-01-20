@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.072787,
-    "geom:area_square_m":647390288.455408,
+    "geom:area_square_m":647390288.455766,
     "geom:bbox":"-90.978639,43.812677,-90.647446,44.159146",
     "geom:latitude":44.002794,
     "geom:longitude":-90.811011,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.990087,
     "lbl:longitude":-90.80319,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Sparta",
+    "mz:postal_locality_alt":[
+        "Fort Mccoy"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404494411,
         85633793,
-        102081777
+        102081777,
+        404494411,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781458"
     },
     "wof:country":"US",
-    "wof:geomhash":"ca946486469a76d8913af105120f4374",
+    "wof:geomhash":"b48755e73e1c2f5b3c166165f0fc74a7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554728539,
-    "wof:lastmodified":1480833246,
+    "wof:lastmodified":1611185073,
     "wof:name":"54656",
     "wof:parent_id":404494411,
     "wof:placetype":"postalcode",

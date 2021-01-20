@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023989,
-    "geom:area_square_m":232983471.647552,
+    "geom:area_square_m":232983471.647486,
     "geom:bbox":"-92.97014,38.146131,-92.736675,38.334584",
     "geom:latitude":38.237833,
     "geom:longitude":-92.856981,
@@ -14,20 +14,26 @@
     "lbl:latitude":38.243419,
     "lbl:longitude":-92.849146,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Gravois Mills",
+    "mz:postal_locality_alt":[
+        "Laurie",
+        "Sunrise Beach"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404517001,
         85633793,
-        102081217
+        102081217,
+        404517001,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786332"
     },
     "wof:country":"US",
-    "wof:geomhash":"66e915a662b2f52f2692c5cd8d785110",
+    "wof:geomhash":"e84a4e48d58d369cc0992aab837fe170",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554737109,
-    "wof:lastmodified":1480832275,
+    "wof:lastmodified":1611182847,
     "wof:name":"65037",
     "wof:parent_id":404517001,
     "wof:placetype":"postalcode",

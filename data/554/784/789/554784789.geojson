@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001966,
-    "geom:area_square_m":19168162.994109,
+    "geom:area_square_m":19168162.994093,
     "geom:bbox":"-122.607279,37.924923,-122.502214,37.96581",
     "geom:latitude":37.9452,
     "geom:longitude":-122.562699,
@@ -14,20 +14,26 @@
     "lbl:latitude":37.945512,
     "lbl:longitude":-122.56012,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Greenbrae",
+    "mz:postal_locality_alt":[
+        "Kentfield",
+        "Larkspur"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102084353,
         85924675,
-        102084353
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12797443"
     },
     "wof:country":"US",
-    "wof:geomhash":"e44e9306ac34bbe5ffbbb1b22d9d235d",
+    "wof:geomhash":"cec3f0916a85b5121ff8fd7ba71c0ede",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554784789,
-    "wof:lastmodified":1480796906,
+    "wof:lastmodified":1611183960,
     "wof:name":"94904",
     "wof:parent_id":85924675,
     "wof:placetype":"postalcode",

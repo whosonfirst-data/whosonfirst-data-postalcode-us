@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004496,
-    "geom:area_square_m":43445131.33867,
+    "geom:area_square_m":43445131.338663,
     "geom:bbox":"-85.856671,38.563854,-85.673825,38.646163",
     "geom:latitude":38.600707,
     "geom:longitude":-85.782713,
@@ -14,20 +14,25 @@
     "lbl:latitude":38.589697,
     "lbl:longitude":-85.791877,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Underwood",
+    "mz:postal_locality_alt":[
+        "Scottsburg"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404501111,
         85633793,
-        102086421
+        102086421,
+        404501111,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778105"
     },
     "wof:country":"US",
-    "wof:geomhash":"d4eb899c3829c52bd08194ac49173662",
+    "wof:geomhash":"e02b1d749d38b8ddbd2f029955acba3a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554723213,
-    "wof:lastmodified":1480914451,
+    "wof:lastmodified":1611183804,
     "wof:name":"47177",
     "wof:parent_id":404501111,
     "wof:placetype":"postalcode",

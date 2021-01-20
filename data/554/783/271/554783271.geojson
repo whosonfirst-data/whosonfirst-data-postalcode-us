@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008897,
-    "geom:area_square_m":82380920.658569,
+    "geom:area_square_m":82380920.658587,
     "geom:bbox":"-87.674433,41.469992,-87.525027,41.557465",
     "geom:latitude":41.508695,
     "geom:longitude":-87.590538,
@@ -13,21 +13,26 @@
     "lbl:latitude":41.508774,
     "lbl:longitude":-87.590314,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lynwood",
+    "mz:postal_locality_alt":[
+        "Chicago Heights"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404497609,
         85633793,
+        102084317,
+        404497609,
         85940851,
-        102084317
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784124"
     },
     "wof:country":"US",
-    "wof:geomhash":"a1ec8e1090d8b7a890aa0b762f7194bd",
+    "wof:geomhash":"a8fd7d0c68b4fea102ec7e823d4708ff",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554783271,
-    "wof:lastmodified":1480903215,
+    "wof:lastmodified":1611183897,
     "wof:name":"60411",
     "wof:parent_id":85940851,
     "wof:placetype":"postalcode",

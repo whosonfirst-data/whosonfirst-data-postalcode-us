@@ -14,20 +14,26 @@
     "lbl:latitude":41.036746,
     "lbl:longitude":-81.036957,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Deerfield",
+    "mz:postal_locality_alt":[
+        "Atwater",
+        "Lake Milton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404525651,
         85633793,
-        102084819
+        102084819,
+        404525651,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776784"
     },
     "wof:country":"US",
-    "wof:geomhash":"a576d22cfb8bf37f0f01d1d971e3f806",
+    "wof:geomhash":"85f7efd43cbe57a1a1e2f2e46fdf21e0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554721191,
-    "wof:lastmodified":1480796998,
+    "wof:lastmodified":1611184964,
     "wof:name":"44411",
     "wof:parent_id":404525651,
     "wof:placetype":"postalcode",

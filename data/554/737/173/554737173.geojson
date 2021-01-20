@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012277,
-    "geom:area_square_m":119219320.234851,
+    "geom:area_square_m":119219320.234896,
     "geom:bbox":"-92.327485,38.172937,-92.211196,38.339434",
     "geom:latitude":38.249998,
     "geom:longitude":-92.266066,
@@ -14,20 +14,25 @@
     "lbl:latitude":38.237326,
     "lbl:longitude":-92.250624,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Saint Elizabeth",
+    "mz:postal_locality_alt":[
+        "St Elizabeth"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404516923,
         85633793,
-        102087481
+        102087481,
+        404516923,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786362"
     },
     "wof:country":"US",
-    "wof:geomhash":"9a12f0ae6df442cf08319aed278ca1b4",
+    "wof:geomhash":"57d57106f57fd05bd78d408a0b3d6bcd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554737173,
-    "wof:lastmodified":1480787488,
+    "wof:lastmodified":1611182839,
     "wof:name":"65075",
     "wof:parent_id":404516923,
     "wof:placetype":"postalcode",

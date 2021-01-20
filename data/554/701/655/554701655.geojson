@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006293,
-    "geom:area_square_m":58305552.895858,
+    "geom:area_square_m":58305552.895888,
     "geom:bbox":"-74.697836,41.418288,-74.554469,41.537802",
     "geom:latitude":41.476242,
     "geom:longitude":-74.624411,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.475792,
     "lbl:longitude":-74.623499,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cuddebackville",
+    "mz:postal_locality_alt":[
+        "Godeffroy"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522805,
         85633793,
-        102083061
+        102083061,
+        404522805,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762412"
     },
     "wof:country":"US",
-    "wof:geomhash":"d695266eb79cbfd55875ee1f26cbb893",
+    "wof:geomhash":"88b896db901bf571c2df4313ac40e4af",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554701655,
-    "wof:lastmodified":1480834095,
+    "wof:lastmodified":1611182639,
     "wof:name":"12729",
     "wof:parent_id":404522805,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009547,
-    "geom:area_square_m":86243333.142203,
+    "geom:area_square_m":86243333.142208,
     "geom:bbox":"-71.392246,43.01602,-71.230531,43.132097",
     "geom:latitude":43.063422,
     "geom:longitude":-71.311707,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.05687,
     "lbl:longitude":-71.340559,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Candia",
+    "mz:postal_locality_alt":[
+        "Nashua"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688689,
         102191575,
-        404476701,
         85633793,
-        102086507
+        102086507,
+        404476701,
+        85688689
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759078"
     },
     "wof:country":"US",
-    "wof:geomhash":"2ab1923f23b14d615f8b9dc905e4842a",
+    "wof:geomhash":"5e817c19849330f781d013a03a5bc5f1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554697655,
-    "wof:lastmodified":1480916574,
+    "wof:lastmodified":1611184658,
     "wof:name":"03034",
     "wof:parent_id":404476701,
     "wof:placetype":"postalcode",

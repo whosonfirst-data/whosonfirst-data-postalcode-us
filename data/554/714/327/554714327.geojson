@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011492,
-    "geom:area_square_m":122560040.02483,
+    "geom:area_square_m":122560040.024835,
     "geom:bbox":"-84.264666,30.349482,-84.074891,30.454341",
     "geom:latitude":30.400368,
     "geom:longitude":-84.162566,
@@ -13,19 +13,25 @@
     "lbl:latitude":30.3901,
     "lbl:longitude":-84.180808,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Tallahassee",
+    "mz:postal_locality_alt":[
+        "Orange Park",
+        "Greenville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688651,
-        102085783
+        102085783,
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12771635"
     },
     "wof:country":"US",
-    "wof:geomhash":"d7845788071c4e609ee9a5409c6fa736",
+    "wof:geomhash":"fe761d54752ec0906b723c3cf2e07b6c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +42,7 @@
         }
     ],
     "wof:id":554714327,
-    "wof:lastmodified":1480814026,
+    "wof:lastmodified":1611183380,
     "wof:name":"32311",
     "wof:parent_id":102085783,
     "wof:placetype":"postalcode",

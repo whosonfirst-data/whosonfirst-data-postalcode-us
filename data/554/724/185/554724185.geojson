@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00703,
-    "geom:area_square_m":63840193.605574,
+    "geom:area_square_m":63840193.605603,
     "geom:bbox":"-83.580457,42.698754,-83.479466,42.788017",
     "geom:latitude":42.740828,
     "geom:longitude":-83.532161,
@@ -14,20 +14,25 @@
     "lbl:latitude":42.739418,
     "lbl:longitude":-83.531044,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Davisburg",
+    "mz:postal_locality_alt":[
+        "Springfield Twp"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404506357,
         85633793,
-        102083713
+        102083713,
+        404506357,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778777"
     },
     "wof:country":"US",
-    "wof:geomhash":"d3f0ea9168bbfc99a7888e484eab1026",
+    "wof:geomhash":"c8ba9b994c76b8a748db92292a1bf5e7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554724185,
-    "wof:lastmodified":1480834713,
+    "wof:lastmodified":1611183775,
     "wof:name":"48350",
     "wof:parent_id":404506357,
     "wof:placetype":"postalcode",

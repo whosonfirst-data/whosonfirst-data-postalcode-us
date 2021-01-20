@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02467,
-    "geom:area_square_m":226895150.769455,
+    "geom:area_square_m":226895150.769518,
     "geom:bbox":"-84.976906,41.825552,-84.777211,42.072468",
     "geom:latitude":41.944369,
     "geom:longitude":-84.875778,
@@ -14,21 +14,26 @@
     "lbl:latitude":41.941034,
     "lbl:longitude":-84.876582,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Quincy",
+    "mz:postal_locality_alt":[
+        "Coldwater"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404505797,
         85633793,
+        102083037,
+        404505797,
         85951831,
-        102083037
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779186"
     },
     "wof:country":"US",
-    "wof:geomhash":"9bab2fe34fe1131693b287cda7554b3d",
+    "wof:geomhash":"480c61cb97f5eb764552d2757da36208",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554724815,
-    "wof:lastmodified":1480843001,
+    "wof:lastmodified":1611183764,
     "wof:name":"49082",
     "wof:parent_id":85951831,
     "wof:placetype":"postalcode",

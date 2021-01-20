@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01316,
-    "geom:area_square_m":129152576.406145,
+    "geom:area_square_m":129152576.406167,
     "geom:bbox":"-97.8076,37.386286,-97.678588,37.561829",
     "geom:latitude":37.467148,
     "geom:longitude":-97.757277,
@@ -14,20 +14,22 @@
     "lbl:latitude":37.467123,
     "lbl:longitude":-97.757279,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Milton",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404503239,
         85633793,
-        102085325
+        102085325,
+        404503239,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787128"
     },
     "wof:country":"US",
-    "wof:geomhash":"f8da8e2352c37dfa8a350b8ad5277417",
+    "wof:geomhash":"6367e24c17fddd0392ee4b08777f437c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554738683,
-    "wof:lastmodified":1480836573,
+    "wof:lastmodified":1611183118,
     "wof:name":"67106",
     "wof:parent_id":404503239,
     "wof:placetype":"postalcode",

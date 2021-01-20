@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019901,
-    "geom:area_square_m":191055137.186364,
+    "geom:area_square_m":191055137.186285,
     "geom:bbox":"-85.095867,38.952726,-84.857724,39.177163",
     "geom:latitude":39.066648,
     "geom:longitude":-84.968343,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.072665,
     "lbl:longitude":-84.965538,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Aurora",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404501205,
         85633793,
-        102087067
+        102087067,
+        404501205,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778021"
     },
     "wof:country":"US",
-    "wof:geomhash":"1442af27a929078d65a666f8a1e64bb7",
+    "wof:geomhash":"f379f1ac55c200a8452b8fd0b9dc67f6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554723061,
-    "wof:lastmodified":1480910624,
+    "wof:lastmodified":1611183805,
     "wof:name":"47001",
     "wof:parent_id":404501205,
     "wof:placetype":"postalcode",

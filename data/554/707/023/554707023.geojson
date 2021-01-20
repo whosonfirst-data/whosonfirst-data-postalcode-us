@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00009,
-    "geom:area_square_m":864861.967828,
+    "geom:area_square_m":864861.967824,
     "geom:bbox":"-77.149973,38.960017,-77.136146,38.972889",
     "geom:latitude":38.966787,
     "geom:longitude":-77.143467,
@@ -14,20 +14,22 @@
     "lbl:latitude":38.967041,
     "lbl:longitude":-77.143881,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Glen Echo",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688501,
         102191575,
         85633793,
+        102082719,
         85950249,
-        102082719
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766329"
     },
     "wof:country":"US",
-    "wof:geomhash":"a99dcd0b2de3739f3d783d61f67fe270",
+    "wof:geomhash":"b4d3290a99f8f41ddbab65eaf3e45288",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554707023,
-    "wof:lastmodified":1480802131,
+    "wof:lastmodified":1611183135,
     "wof:name":"20812",
     "wof:parent_id":85950249,
     "wof:placetype":"postalcode",

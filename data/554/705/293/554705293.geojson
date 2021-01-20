@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01598,
-    "geom:area_square_m":151658065.707139,
+    "geom:area_square_m":151658065.707182,
     "geom:bbox":"-76.255153,39.777486,-76.046545,39.947307",
     "geom:latitude":39.869683,
     "geom:longitude":-76.148178,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.867186,
     "lbl:longitude":-76.147513,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Quarryville",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404483381,
         85633793,
-        102081377
+        102081377,
+        404483381,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764825"
     },
     "wof:country":"US",
-    "wof:geomhash":"82662dc8fb529d3d242f24d5489e1a59",
+    "wof:geomhash":"5054fc4bb571015ebf85bf8456539f06",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554705293,
-    "wof:lastmodified":1480817416,
+    "wof:lastmodified":1611184103,
     "wof:name":"17566",
     "wof:parent_id":404483381,
     "wof:placetype":"postalcode",

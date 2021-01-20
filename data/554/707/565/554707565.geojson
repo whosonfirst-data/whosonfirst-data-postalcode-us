@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000786,
-    "geom:area_square_m":7570050.342314,
+    "geom:area_square_m":7570050.342322,
     "geom:bbox":"-77.174738,38.833096,-77.110799,38.862797",
     "geom:latitude":38.848056,
     "geom:longitude":-77.141964,
@@ -13,20 +13,26 @@
     "lbl:latitude":38.849321,
     "lbl:longitude":-77.141472,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Falls Church",
+    "mz:postal_locality_alt":[
+        "Baileys Crossrds",
+        "Baileys Crossroads"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688747,
         102191575,
         85633793,
+        102084863,
         101729725,
-        102084863
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766809"
     },
     "wof:country":"US",
-    "wof:geomhash":"3323c367fe3a2c5d225ec2eae4f4a276",
+    "wof:geomhash":"be4fec633131cd72023788a62974b13e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554707565,
-    "wof:lastmodified":1480905245,
+    "wof:lastmodified":1611183156,
     "wof:name":"22041",
     "wof:parent_id":101729725,
     "wof:placetype":"postalcode",

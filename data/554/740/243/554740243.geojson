@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016998,
-    "geom:area_square_m":158722568.588687,
+    "geom:area_square_m":158722568.588701,
     "geom:bbox":"-99.425986,40.858575,-99.293019,41.046965",
     "geom:latitude":40.959467,
     "geom:longitude":-99.376966,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.965614,
     "lbl:longitude":-99.376302,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Miller",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688563,
         102191575,
-        404519353,
         85633793,
-        102084305
+        102084305,
+        404519353,
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787898"
     },
     "wof:country":"US",
-    "wof:geomhash":"072534e2e6f72375b9fdb24082ec4be1",
+    "wof:geomhash":"b698d0b02d5623830758ba4a020a0663",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554740243,
-    "wof:lastmodified":1480803218,
+    "wof:lastmodified":1611183393,
     "wof:name":"68858",
     "wof:parent_id":404519353,
     "wof:placetype":"postalcode",

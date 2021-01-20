@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007059,
-    "geom:area_square_m":66322780.86227,
+    "geom:area_square_m":66322780.862251,
     "geom:bbox":"-78.606869,40.486005,-78.477526,40.596047",
     "geom:latitude":40.548038,
     "geom:longitude":-78.537575,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.548031,
     "lbl:longitude":-78.537565,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ashville",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485109,
         85633793,
-        102080879
+        102080879,
+        404485109,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764358"
     },
     "wof:country":"US",
-    "wof:geomhash":"85ca7bdc6b9d1278e89aacf09c1e6182",
+    "wof:geomhash":"d061d5a86b846058322f6373095e0dd3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554704549,
-    "wof:lastmodified":1480903615,
+    "wof:lastmodified":1611184520,
     "wof:name":"16613",
     "wof:parent_id":404485109,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017502,
-    "geom:area_square_m":203842778.502802,
+    "geom:area_square_m":203842778.503054,
     "geom:bbox":"-155.98572,19.53958,-155.822977,19.70849",
     "geom:latitude":19.629238,
     "geom:longitude":-155.897655,
@@ -14,20 +14,25 @@
     "lbl:latitude":19.626488,
     "lbl:longitude":-155.910336,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Holualoa",
+    "mz:postal_locality_alt":[
+        "Keauhou"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688671,
         102191575,
         85633793,
+        102085433,
         85937447,
-        102085433
+        85688671
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12798272"
     },
     "wof:country":"US",
-    "wof:geomhash":"334dd26a6dbdfa2d66f3b79bcbc2d9fb",
+    "wof:geomhash":"bbfa8f6862603ccb5746cfff3445a0fa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554785521,
-    "wof:lastmodified":1480805102,
+    "wof:lastmodified":1611183500,
     "wof:name":"96725",
     "wof:parent_id":85937447,
     "wof:placetype":"postalcode",

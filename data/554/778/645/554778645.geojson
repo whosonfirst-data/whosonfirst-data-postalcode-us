@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003699,
-    "geom:area_square_m":33443480.411197,
+    "geom:area_square_m":33443480.411187,
     "geom:bbox":"-70.815147,42.967205,-70.61092,43.059489",
     "geom:latitude":43.015175,
     "geom:longitude":-70.760385,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.008649,
     "lbl:longitude":-70.75833,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Rye",
+    "mz:postal_locality_alt":[
+        "Rye Beach"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688689,
         102191575,
-        404476781,
         85633793,
-        102086507
+        102086507,
+        404476781,
+        85688689
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759336"
     },
     "wof:country":"US",
-    "wof:geomhash":"5b3767669ce47de76a3b48cc714f351d",
+    "wof:geomhash":"f101d0835bb81a2e8a8433caaf0a741f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554778645,
-    "wof:lastmodified":1480916575,
+    "wof:lastmodified":1611183428,
     "wof:name":"03870",
     "wof:parent_id":404476781,
     "wof:placetype":"postalcode",

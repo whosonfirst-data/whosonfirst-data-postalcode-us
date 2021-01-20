@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008024,
-    "geom:area_square_m":75330984.855001,
+    "geom:area_square_m":75330984.855055,
     "geom:bbox":"-82.137206,40.526838,-82.03821,40.678839",
     "geom:latitude":40.604575,
     "geom:longitude":-82.085838,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.610103,
     "lbl:longitude":-82.074986,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Big Prairie",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404526649,
         85633793,
-        102083651
+        102083651,
+        404526649,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776856"
     },
     "wof:country":"US",
-    "wof:geomhash":"7e4fade76b8cc8382864bb74ba401913",
+    "wof:geomhash":"85da34c2af2fe39833d56d749fccfc70",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554721319,
-    "wof:lastmodified":1480835886,
+    "wof:lastmodified":1611184980,
     "wof:name":"44611",
     "wof:parent_id":404526649,
     "wof:placetype":"postalcode",

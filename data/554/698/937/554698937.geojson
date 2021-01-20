@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008777,
-    "geom:area_square_m":76800064.515322,
+    "geom:area_square_m":76800064.515239,
     "geom:bbox":"-73.345166,44.843353,-73.209741,45.013296",
     "geom:latitude":44.959594,
     "geom:longitude":-73.279542,
@@ -14,20 +14,26 @@
     "lbl:latitude":44.957882,
     "lbl:longitude":-73.291974,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Alburg",
+    "mz:postal_locality_alt":[
+        "Alburgh",
+        "Burlington"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688763,
         102191575,
-        404527139,
         85633793,
-        102080783
+        102080783,
+        404527139,
+        85688763
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759974"
     },
     "wof:country":"US",
-    "wof:geomhash":"42f9d1c296ec77c1df0fbd15226e6319",
+    "wof:geomhash":"7dfdb526bad00230d5e53c27dcf330b2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554698937,
-    "wof:lastmodified":1480906385,
+    "wof:lastmodified":1611184677,
     "wof:name":"05440",
     "wof:parent_id":404527139,
     "wof:placetype":"postalcode",

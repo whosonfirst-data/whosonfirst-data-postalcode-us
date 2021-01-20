@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007649,
-    "geom:area_square_m":74706362.247939,
+    "geom:area_square_m":74706362.24804,
     "geom:bbox":"-121.697169,37.765164,-121.556959,37.896488",
     "geom:latitude":37.825454,
     "geom:longitude":-121.623675,
@@ -14,19 +14,25 @@
     "lbl:latitude":37.826372,
     "lbl:longitude":-121.622546,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Byron",
+    "mz:postal_locality_alt":[
+        "Walnut Creek",
+        "Discovery Bay"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688637,
-        102086225
+        102086225,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12797309"
     },
     "wof:country":"US",
-    "wof:geomhash":"ced81b364260f1cfcee0ecff11e5c9ce",
+    "wof:geomhash":"5420c7bccdabdf15efe9a147577bd822",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554753089,
-    "wof:lastmodified":1480915081,
+    "wof:lastmodified":1611182957,
     "wof:name":"94514",
     "wof:parent_id":102086225,
     "wof:placetype":"postalcode",

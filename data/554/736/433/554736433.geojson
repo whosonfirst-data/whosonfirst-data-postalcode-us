@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000553,
-    "geom:area_square_m":5302664.786289,
+    "geom:area_square_m":5302664.786297,
     "geom:bbox":"-94.453407,39.094529,-94.42458,39.13177",
     "geom:latitude":39.11001,
     "geom:longitude":-94.440107,
@@ -13,21 +13,26 @@
     "lbl:latitude":39.110355,
     "lbl:longitude":-94.439036,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Independence",
+    "mz:postal_locality_alt":[
+        "Sugar Creek"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404515661,
         85633793,
+        102081227,
+        404515661,
         85971451,
-        102081227
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785974"
     },
     "wof:country":"US",
-    "wof:geomhash":"e6a2cf746870722a54387c4115c5f7a3",
+    "wof:geomhash":"a8ea31c616a12e2359868c5b5c00aa1a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554736433,
-    "wof:lastmodified":1480912209,
+    "wof:lastmodified":1611183048,
     "wof:name":"64054",
     "wof:parent_id":85971451,
     "wof:placetype":"postalcode",

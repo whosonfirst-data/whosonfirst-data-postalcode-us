@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008075,
-    "geom:area_square_m":74932987.34688,
+    "geom:area_square_m":74932987.346881,
     "geom:bbox":"-87.526729,41.311979,-87.407057,41.421247",
     "geom:latitude":41.371272,
     "geom:longitude":-87.476402,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.373643,
     "lbl:longitude":-87.479214,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cedar Lake",
+    "mz:postal_locality_alt":[
+        "St John"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404501865,
         85633793,
-        102087149
+        102087149,
+        404501865,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777708"
     },
     "wof:country":"US",
-    "wof:geomhash":"cf6039fc17cfb1c84c88123541ccc86d",
+    "wof:geomhash":"6245333a12f84f657adf2e91d26a35eb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554722649,
-    "wof:lastmodified":1480903215,
+    "wof:lastmodified":1611183236,
     "wof:name":"46303",
     "wof:parent_id":404501865,
     "wof:placetype":"postalcode",

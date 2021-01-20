@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000571,
-    "geom:area_square_m":5255832.430273,
+    "geom:area_square_m":5255832.430275,
     "geom:bbox":"-87.636035,41.850106,-87.603387,41.882334",
     "geom:latitude":41.86815,
     "geom:longitude":-87.616821,
@@ -13,21 +13,23 @@
     "lbl:latitude":41.867567,
     "lbl:longitude":-87.617228,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Chicago",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404496273,
         85633793,
+        102084317,
+        404496273,
         85940195,
-        102084317
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784259"
     },
     "wof:country":"US",
-    "wof:geomhash":"42b4b43da57cf0a32694efed16c8ff65",
+    "wof:geomhash":"6bd353e04ec09ee5faa1fae6b2ae079f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +42,7 @@
         }
     ],
     "wof:id":554783349,
-    "wof:lastmodified":1480802055,
+    "wof:lastmodified":1611183887,
     "wof:name":"60605",
     "wof:parent_id":85940195,
     "wof:placetype":"postalcode",

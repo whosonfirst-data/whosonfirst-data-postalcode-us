@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016224,
-    "geom:area_square_m":143496944.575716,
+    "geom:area_square_m":143496944.575732,
     "geom:bbox":"-96.07938,44.25432,-95.89689,44.41533",
     "geom:latitude":44.333786,
     "geom:longitude":-96.004963,
@@ -14,20 +14,25 @@
     "lbl:latitude":44.338334,
     "lbl:longitude":-96.00651,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Russell",
+    "mz:postal_locality_alt":[
+        "Hardwick"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404515141,
         85633793,
-        102087885
+        102087885,
+        404515141,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782302"
     },
     "wof:country":"US",
-    "wof:geomhash":"3d8b478960be2138ca1f86af6bffc846",
+    "wof:geomhash":"10b6798bb6bb130895e87c255e39ef76",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554729991,
-    "wof:lastmodified":1480785071,
+    "wof:lastmodified":1611185406,
     "wof:name":"56169",
     "wof:parent_id":404515141,
     "wof:placetype":"postalcode",

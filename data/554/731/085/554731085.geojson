@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.047201,
-    "geom:area_square_m":415350136.579809,
+    "geom:area_square_m":415350136.579625,
     "geom:bbox":"-98.180121,44.484173,-97.83619,44.776544",
     "geom:latitude":44.6307,
     "geom:longitude":-97.974026,
@@ -14,20 +14,22 @@
     "lbl:latitude":44.628064,
     "lbl:longitude":-97.974422,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Carpenter",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688693,
         102191575,
-        404489969,
         85633793,
-        102086841
+        102086841,
+        404489969,
+        85688693
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782854"
     },
     "wof:country":"US",
-    "wof:geomhash":"0bbd548bec326cbfb3458773c25ec869",
+    "wof:geomhash":"ebd5def193b77ff3fd1bffaea1c701cb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554731085,
-    "wof:lastmodified":1480916315,
+    "wof:lastmodified":1611183064,
     "wof:name":"57322",
     "wof:parent_id":404489969,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00987,
-    "geom:area_square_m":89876184.080558,
+    "geom:area_square_m":89876184.080545,
     "geom:bbox":"-83.83445,42.51799,-83.670751,42.633763",
     "geom:latitude":42.570026,
     "geom:longitude":-83.748422,
@@ -13,20 +13,22 @@
     "lbl:latitude":42.571753,
     "lbl:longitude":-83.749573,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Brighton",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404507283,
         85633793,
-        102083145
+        102083145,
+        404507283,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778605"
     },
     "wof:country":"US",
-    "wof:geomhash":"1626fec034f0f8293e0082a3676446c1",
+    "wof:geomhash":"c4d4800af37c8a1db6f28899e15f0cb0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +40,7 @@
         }
     ],
     "wof:id":554723953,
-    "wof:lastmodified":1480843132,
+    "wof:lastmodified":1611183777,
     "wof:name":"48114",
     "wof:parent_id":404507283,
     "wof:placetype":"postalcode",

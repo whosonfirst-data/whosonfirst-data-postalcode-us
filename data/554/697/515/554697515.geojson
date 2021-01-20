@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005028,
-    "geom:area_square_m":46362496.758112,
+    "geom:area_square_m":46362496.758103,
     "geom:bbox":"-71.123989,41.75312,-71.006181,41.817787",
     "geom:latitude":41.784516,
     "geom:longitude":-71.061171,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.785113,
     "lbl:longitude":-71.059047,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Assonet",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476179,
         85633793,
-        102084407
+        102084407,
+        404476179,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758941"
     },
     "wof:country":"US",
-    "wof:geomhash":"d6da27a68c10c8874d8e4dd0b8a9f1c7",
+    "wof:geomhash":"425a43ad83f9407fc9df117b41446565",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554697515,
-    "wof:lastmodified":1480801202,
+    "wof:lastmodified":1611184666,
     "wof:name":"02702",
     "wof:parent_id":404476179,
     "wof:placetype":"postalcode",

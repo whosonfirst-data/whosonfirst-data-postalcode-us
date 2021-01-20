@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005615,
-    "geom:area_square_m":52096615.166217,
+    "geom:area_square_m":52096615.16623,
     "geom:bbox":"-81.585249,41.349753,-81.488696,41.428569",
     "geom:latitude":41.381627,
     "geom:longitude":-81.530191,
@@ -14,21 +14,27 @@
     "lbl:latitude":41.381223,
     "lbl:longitude":-81.529226,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cleveland",
+    "mz:postal_locality_alt":[
+        "Bedford",
+        "Strongsville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404525041,
         85633793,
+        102084837,
+        404525041,
         101712523,
-        102084837
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776672"
     },
     "wof:country":"US",
-    "wof:geomhash":"0b65fc9d6d24000ee7627752c7382f0e",
+    "wof:geomhash":"a8db48c63b6ba4092a4395eac47ccbff",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554721041,
-    "wof:lastmodified":1480800397,
+    "wof:lastmodified":1611184949,
     "wof:name":"44146",
     "wof:parent_id":101712523,
     "wof:placetype":"postalcode",

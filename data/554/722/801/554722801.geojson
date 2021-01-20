@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000879,
-    "geom:area_square_m":8112357.048498,
+    "geom:area_square_m":8112357.048497,
     "geom:bbox":"-86.231934,41.694489,-86.191073,41.745447",
     "geom:latitude":41.714894,
     "geom:longitude":-86.208518,
@@ -13,20 +13,22 @@
     "lbl:latitude":41.714357,
     "lbl:longitude":-86.201743,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"South Bend",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404501455,
         85633793,
-        102086969
+        102086969,
+        404501455,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777837"
     },
     "wof:country":"US",
-    "wof:geomhash":"0f1368660f28b8b25f1d3eef6994ae43",
+    "wof:geomhash":"5b06e01fefc5b378311adb92cf558e49",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +40,7 @@
         }
     ],
     "wof:id":554722801,
-    "wof:lastmodified":1480911563,
+    "wof:lastmodified":1611183244,
     "wof:name":"46635",
     "wof:parent_id":404501455,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001836,
-    "geom:area_square_m":17296050.924695,
+    "geom:area_square_m":17296050.9247,
     "geom:bbox":"-104.765578,40.354525,-104.674202,40.393199",
     "geom:latitude":40.374532,
     "geom:longitude":-104.717016,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.373756,
     "lbl:longitude":-104.717482,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Evans",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688603,
         102191575,
         85633793,
+        102086117,
         85929037,
-        102086117
+        85688603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12793139"
     },
     "wof:country":"US",
-    "wof:geomhash":"fe6569512fcc2798b4e52a7b00f35ef4",
+    "wof:geomhash":"0b3a60eb10cc748762118df46131dbfb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554748239,
-    "wof:lastmodified":1480913971,
+    "wof:lastmodified":1611183861,
     "wof:name":"80620",
     "wof:parent_id":85929037,
     "wof:placetype":"postalcode",

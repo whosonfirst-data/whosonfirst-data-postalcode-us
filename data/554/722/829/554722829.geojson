@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.057648,
-    "geom:area_square_m":536759269.927806,
+    "geom:area_square_m":536759269.927753,
     "geom:bbox":"-85.61971,41.003515,-85.336119,41.302718",
     "geom:latitude":41.149126,
     "geom:longitude":-85.474911,
@@ -14,21 +14,26 @@
     "lbl:latitude":41.148544,
     "lbl:longitude":-85.475768,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Columbia City",
+    "mz:postal_locality_alt":[
+        "Roanoke"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404502001,
         85633793,
+        102087145,
+        404502001,
         85941393,
-        102087145
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777854"
     },
     "wof:country":"US",
-    "wof:geomhash":"2fb9034922aaff2ce60d152952d6751f",
+    "wof:geomhash":"06d1754e7f4c9ea66304b17cb17eb01f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554722829,
-    "wof:lastmodified":1480915898,
+    "wof:lastmodified":1611183216,
     "wof:name":"46725",
     "wof:parent_id":85941393,
     "wof:placetype":"postalcode",

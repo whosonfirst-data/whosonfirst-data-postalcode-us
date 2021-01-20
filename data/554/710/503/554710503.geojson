@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021958,
-    "geom:area_square_m":220749701.934499,
+    "geom:area_square_m":220749701.934456,
     "geom:bbox":"-79.545004,35.516493,-79.211332,35.67733",
     "geom:latitude":35.605507,
     "geom:longitude":-79.393012,
@@ -14,19 +14,24 @@
     "lbl:latitude":35.607613,
     "lbl:longitude":-79.390518,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bear Creek",
+    "mz:postal_locality_alt":[
+        "Siler City"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688773,
-        102080923
+        102080923,
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12768947"
     },
     "wof:country":"US",
-    "wof:geomhash":"03926bdd96e644b60704c90c10be2d5f",
+    "wof:geomhash":"fcbbda339b0f99474d312089eac365c5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554710503,
-    "wof:lastmodified":1480906613,
+    "wof:lastmodified":1611185103,
     "wof:name":"27207",
     "wof:parent_id":102080923,
     "wof:placetype":"postalcode",

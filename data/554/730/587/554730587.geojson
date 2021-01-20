@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.128952,
-    "geom:area_square_m":1076984793.697868,
+    "geom:area_square_m":1076984793.698021,
     "geom:bbox":"-95.128704,47.312187,-94.530695,47.676081",
     "geom:latitude":47.512413,
     "geom:longitude":-94.856933,
@@ -14,20 +14,25 @@
     "lbl:latitude":47.507374,
     "lbl:longitude":-94.863994,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bemidji",
+    "mz:postal_locality_alt":[
+        "Baudette"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404511415,
         85633793,
-        102087773
+        102087773,
+        404511415,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782596"
     },
     "wof:country":"US",
-    "wof:geomhash":"1cc7e7027dcb389a800d2d06af7e3e1b",
+    "wof:geomhash":"c56043554866e13ceedeb06ad621e7a8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554730587,
-    "wof:lastmodified":1480788399,
+    "wof:lastmodified":1611182740,
     "wof:name":"56601",
     "wof:parent_id":404511415,
     "wof:placetype":"postalcode",

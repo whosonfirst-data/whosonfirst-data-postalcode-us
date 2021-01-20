@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015775,
-    "geom:area_square_m":146529160.183704,
+    "geom:area_square_m":146529160.183664,
     "geom:bbox":"-96.909112,41.234887,-96.755944,41.380042",
     "geom:latitude":41.307064,
     "geom:longitude":-96.841209,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.300053,
     "lbl:longitude":-96.842321,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Prague",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688563,
         102191575,
-        404520991,
         85633793,
-        102082199
+        102082199,
+        404520991,
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787504"
     },
     "wof:country":"US",
-    "wof:geomhash":"4c45658497b71fab3fe19cd8e5df3472",
+    "wof:geomhash":"d2e6b1879f4723b4509de5a365658c7e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554739461,
-    "wof:lastmodified":1480796033,
+    "wof:lastmodified":1611182676,
     "wof:name":"68050",
     "wof:parent_id":404520991,
     "wof:placetype":"postalcode",

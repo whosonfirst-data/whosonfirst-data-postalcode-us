@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001121,
-    "geom:area_square_m":10515799.55768,
+    "geom:area_square_m":10515799.557692,
     "geom:bbox":"-74.387621,40.664295,-74.331298,40.699821",
     "geom:latitude":40.680943,
     "geom:longitude":-74.360529,
@@ -14,21 +14,26 @@
     "lbl:latitude":40.680722,
     "lbl:longitude":-74.360292,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mountainside",
+    "mz:postal_locality_alt":[
+        "Fort Lee"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478505,
         85633793,
+        102085995,
+        404478505,
         85975823,
-        102085995
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760678"
     },
     "wof:country":"US",
-    "wof:geomhash":"507f6052f07b1324efbcdb1513d36833",
+    "wof:geomhash":"c351296b6ce65408de9c135376210fa2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554699915,
-    "wof:lastmodified":1480805175,
+    "wof:lastmodified":1611184613,
     "wof:name":"07092",
     "wof:parent_id":85975823,
     "wof:placetype":"postalcode",

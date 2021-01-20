@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001056,
-    "geom:area_square_m":10150833.414171,
+    "geom:area_square_m":10150833.414153,
     "geom:bbox":"-94.723705,38.934914,-94.704726,38.992965",
     "geom:latitude":38.963853,
     "geom:longitude":-94.714181,
@@ -13,21 +13,28 @@
     "lbl:latitude":38.966613,
     "lbl:longitude":-94.7141,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Shawnee Mission",
+    "mz:postal_locality_alt":[
+        "Overland Park",
+        "Lenexa",
+        "Shawnee"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404502689,
         85633793,
+        102082673,
+        404502689,
         85945755,
-        102082673
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786802"
     },
     "wof:country":"US",
-    "wof:geomhash":"4dd57917f6ae1d5f5fad67e9dc7c0573",
+    "wof:geomhash":"ccc0fee62fab8417c2306576dde40b26",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +47,7 @@
         }
     ],
     "wof:id":554738041,
-    "wof:lastmodified":1480792908,
+    "wof:lastmodified":1611183097,
     "wof:name":"66214",
     "wof:parent_id":85945755,
     "wof:placetype":"postalcode",

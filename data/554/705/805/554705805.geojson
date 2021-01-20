@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.047738,
-    "geom:area_square_m":442668634.049217,
+    "geom:area_square_m":442668634.049085,
     "geom:bbox":"-75.314791,41.20789,-75.001639,41.566737",
     "geom:latitude":41.416118,
     "geom:longitude":-75.123143,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.404305,
     "lbl:longitude":-75.118065,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hawley",
+    "mz:postal_locality_alt":[
+        "Hamlin"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404486255,
         85633793,
-        102081385
+        102081385,
+        404486255,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765186"
     },
     "wof:country":"US",
-    "wof:geomhash":"762d6bc49061007391a744ac499f51c5",
+    "wof:geomhash":"14d29a9554806ed9aaef1b6a3d1eb309",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554705805,
-    "wof:lastmodified":1480906474,
+    "wof:lastmodified":1611184105,
     "wof:name":"18428",
     "wof:parent_id":404486255,
     "wof:placetype":"postalcode",

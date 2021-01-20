@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030805,
-    "geom:area_square_m":291467852.312285,
+    "geom:area_square_m":291467852.312185,
     "geom:bbox":"-100.19383,40.001536,-99.94511,40.17643",
     "geom:latitude":40.076427,
     "geom:longitude":-100.086532,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.076407,
     "lbl:longitude":-100.086526,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wilsonville",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688563,
         102191575,
-        404519079,
         85633793,
-        102082237
+        102082237,
+        404519079,
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12788005"
     },
     "wof:country":"US",
-    "wof:geomhash":"0f0c8ba8f1a83f518b49f27a6ad27f11",
+    "wof:geomhash":"c52759cd95d6fe75ebdc4b4375643eae",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554740477,
-    "wof:lastmodified":1480843272,
+    "wof:lastmodified":1611183392,
     "wof:name":"69046",
     "wof:parent_id":404519079,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034683,
-    "geom:area_square_m":292161840.988432,
+    "geom:area_square_m":292161840.988318,
     "geom:bbox":"-92.557627,46.947179,-92.1753,47.114348",
     "geom:latitude":47.058147,
     "geom:longitude":-92.392445,
@@ -14,20 +14,22 @@
     "lbl:latitude":47.068701,
     "lbl:longitude":-92.387216,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Canyon",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404514967,
         85633793,
-        102087653
+        102087653,
+        404514967,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782025"
     },
     "wof:country":"US",
-    "wof:geomhash":"bf3a0031f9b43c8244e82112fa287760",
+    "wof:geomhash":"8ba5bcdd1c6d74d4b7b80fb96f9e7af1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554729457,
-    "wof:lastmodified":1480785493,
+    "wof:lastmodified":1611185438,
     "wof:name":"55717",
     "wof:parent_id":404514967,
     "wof:placetype":"postalcode",

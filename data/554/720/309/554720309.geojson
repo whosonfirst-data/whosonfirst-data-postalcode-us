@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016158,
-    "geom:area_square_m":153857860.534607,
+    "geom:area_square_m":153857860.534522,
     "geom:bbox":"-82.835281,39.54308,-82.670759,39.736698",
     "geom:latitude":39.639581,
     "geom:longitude":-82.762994,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.64092,
     "lbl:longitude":-82.764982,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Amanda",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404523481,
         85633793,
-        102083747
+        102083747,
+        404523481,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776148"
     },
     "wof:country":"US",
-    "wof:geomhash":"9a09cd678df6edb102476c6cbb768933",
+    "wof:geomhash":"f84011c9d2fd2958c04f134446bdc962",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554720309,
-    "wof:lastmodified":1480843208,
+    "wof:lastmodified":1611185446,
     "wof:name":"43102",
     "wof:parent_id":404523481,
     "wof:placetype":"postalcode",

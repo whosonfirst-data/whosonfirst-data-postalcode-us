@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006748,
-    "geom:area_square_m":62039233.518206,
+    "geom:area_square_m":62039233.518179,
     "geom:bbox":"-71.935586,41.917286,-71.797894,42.024066",
     "geom:latitude":41.968848,
     "geom:longitude":-71.839679,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.958388,
     "lbl:longitude":-71.84392,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Thompson",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688629,
         102191575,
-        404495933,
         85633793,
-        102085377
+        102085377,
+        404495933,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760329"
     },
     "wof:country":"US",
-    "wof:geomhash":"5f913d2a6fd138fade80cd669db7e9a2",
+    "wof:geomhash":"0b775fb545d021bf190ce6813c5b4222",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554699473,
-    "wof:lastmodified":1480817073,
+    "wof:lastmodified":1611184625,
     "wof:name":"06277",
     "wof:parent_id":404495933,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010268,
-    "geom:area_square_m":102448406.093857,
+    "geom:area_square_m":102448406.093835,
     "geom:bbox":"-81.600144,36.136712,-81.446697,36.276467",
     "geom:latitude":36.206693,
     "geom:longitude":-81.517163,
@@ -14,19 +14,24 @@
     "lbl:latitude":36.208166,
     "lbl:longitude":-81.516769,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Deep Gap",
+    "mz:postal_locality_alt":[
+        "Boone"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688773,
-        102087689
+        102087689,
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12769777"
     },
     "wof:country":"US",
-    "wof:geomhash":"358e28866d74166c0e1cd0a51c006710",
+    "wof:geomhash":"167b0e661ee54d00e47d0c45b11d728e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554711575,
-    "wof:lastmodified":1480784608,
+    "wof:lastmodified":1611185318,
     "wof:name":"28618",
     "wof:parent_id":102087689,
     "wof:placetype":"postalcode",

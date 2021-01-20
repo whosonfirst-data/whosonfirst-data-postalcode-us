@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.134282,
-    "geom:area_square_m":1395617650.801438,
+    "geom:area_square_m":1395617650.800129,
     "geom:bbox":"-99.096046,32.556669,-98.653188,33.055818",
     "geom:latitude":32.805084,
     "geom:longitude":-98.898602,
@@ -14,19 +14,25 @@
     "lbl:latitude":32.801213,
     "lbl:longitude":-98.88698,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Breckenridge",
+    "mz:postal_locality_alt":[
+        "Stephenville",
+        "Jacksboro"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688753,
-        102081095
+        102081095,
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12791054"
     },
     "wof:country":"US",
-    "wof:geomhash":"8d0eda663854eefb5e1e5cd17b1e97e3",
+    "wof:geomhash":"810d302226b266ac523444db94fd7495",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554745343,
-    "wof:lastmodified":1480832823,
+    "wof:lastmodified":1611185294,
     "wof:name":"76424",
     "wof:parent_id":102081095,
     "wof:placetype":"postalcode",

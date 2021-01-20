@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002383,
-    "geom:area_square_m":26452622.18896,
+    "geom:area_square_m":26452622.188985,
     "geom:bbox":"-80.403458,26.087611,-80.298451,26.187851",
     "geom:latitude":26.115886,
     "geom:longitude":-80.368131,
@@ -13,20 +13,27 @@
     "lbl:latitude":26.114333,
     "lbl:longitude":-80.37067,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fort Lauderdale",
+    "mz:postal_locality_alt":[
+        "Weston",
+        "Sunrise",
+        "Davie"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688651,
         102191575,
         85633793,
+        102084727,
         85932359,
-        102084727
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12772251"
     },
     "wof:country":"US",
-    "wof:geomhash":"baa955c0729415c5181c9ae520c6d209",
+    "wof:geomhash":"e5374389bac8e626a040fb6bd7a12ed9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +45,7 @@
         }
     ],
     "wof:id":554781689,
-    "wof:lastmodified":1480802318,
+    "wof:lastmodified":1611184813,
     "wof:name":"33326",
     "wof:parent_id":85932359,
     "wof:placetype":"postalcode",

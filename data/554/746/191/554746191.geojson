@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007255,
-    "geom:area_square_m":77815217.114853,
+    "geom:area_square_m":77815217.114893,
     "geom:bbox":"-95.793084,29.784912,-95.678828,29.879941",
     "geom:latitude":29.835557,
     "geom:longitude":-95.738136,
@@ -13,19 +13,25 @@
     "lbl:latitude":29.837571,
     "lbl:longitude":-95.733753,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Katy",
+    "mz:postal_locality_alt":[
+        "Houston",
+        "Barker"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688753,
-        102081111
+        102081111,
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12791607"
     },
     "wof:country":"US",
-    "wof:geomhash":"ad98a94b5e665f16962dff5e7ce7de7c",
+    "wof:geomhash":"e87b59e37506933a8c56788dc0a808ca",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +42,7 @@
         }
     ],
     "wof:id":554746191,
-    "wof:lastmodified":1480833207,
+    "wof:lastmodified":1611184013,
     "wof:name":"77449",
     "wof:parent_id":102081111,
     "wof:placetype":"postalcode",

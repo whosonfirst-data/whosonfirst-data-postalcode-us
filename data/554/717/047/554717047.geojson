@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024403,
-    "geom:area_square_m":244951246.703872,
+    "geom:area_square_m":244951246.703856,
     "geom:bbox":"-84.502884,35.641346,-84.243742,35.842479",
     "geom:latitude":35.730416,
     "geom:longitude":-84.354111,
@@ -14,20 +14,26 @@
     "lbl:latitude":35.72913,
     "lbl:longitude":-84.358961,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Loudon",
+    "mz:postal_locality_alt":[
+        "Blaine",
+        "Lenoir City"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688701,
         102191575,
         85633793,
+        102086315,
         101723155,
-        102086315
+        85688701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12774122"
     },
     "wof:country":"US",
-    "wof:geomhash":"339f759b247dca97bb37b575f2748717",
+    "wof:geomhash":"c6a8dd3e507e9aef4d603f512cf7123c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554717047,
-    "wof:lastmodified":1480912106,
+    "wof:lastmodified":1611184997,
     "wof:name":"37774",
     "wof:parent_id":101723155,
     "wof:placetype":"postalcode",

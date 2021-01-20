@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013869,
-    "geom:area_square_m":133437399.213331,
+    "geom:area_square_m":133437399.213378,
     "geom:bbox":"-84.463842,38.816976,-84.329872,39.004299",
     "geom:latitude":38.914887,
     "geom:longitude":-84.40264,
@@ -14,20 +14,25 @@
     "lbl:latitude":38.917606,
     "lbl:longitude":-84.40337,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Alexandria",
+    "mz:postal_locality_alt":[
+        "Flemingsburg"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688641,
         102191575,
         85633793,
+        102085439,
         85947645,
-        102085439
+        85688641
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12775460"
     },
     "wof:country":"US",
-    "wof:geomhash":"c96ae214f5d797ad7b18804f55e1b019",
+    "wof:geomhash":"582b8586d923f053a3aeba22a2ec8608",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554719141,
-    "wof:lastmodified":1480815765,
+    "wof:lastmodified":1611184939,
     "wof:name":"41001",
     "wof:parent_id":85947645,
     "wof:placetype":"postalcode",

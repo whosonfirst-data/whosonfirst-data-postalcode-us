@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020397,
-    "geom:area_square_m":189823631.557779,
+    "geom:area_square_m":189823631.5578,
     "geom:bbox":"-76.304713,41.105108,-76.07293,41.293924",
     "geom:latitude":41.181717,
     "geom:longitude":-76.196138,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.187724,
     "lbl:longitude":-76.203214,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Shickshinny",
+    "mz:postal_locality_alt":[
+        "Mocanaqua"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404483529,
         85633793,
-        102081351
+        102081351,
+        404483529,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765279"
     },
     "wof:country":"US",
-    "wof:geomhash":"fd49fa7ec32574747cdce1f2415d53f2",
+    "wof:geomhash":"03e3d61407785c4944269462ad749d97",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554705963,
-    "wof:lastmodified":1480905760,
+    "wof:lastmodified":1611184094,
     "wof:name":"18655",
     "wof:parent_id":404483529,
     "wof:placetype":"postalcode",

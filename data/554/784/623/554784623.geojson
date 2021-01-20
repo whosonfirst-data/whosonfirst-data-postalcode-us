@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001525,
-    "geom:area_square_m":14919902.807186,
+    "geom:area_square_m":14919902.807217,
     "geom:bbox":"-122.502832,37.648505,-122.450394,37.708334",
     "geom:latitude":37.681267,
     "geom:longitude":-122.480591,
@@ -13,20 +13,26 @@
     "lbl:latitude":37.681264,
     "lbl:longitude":-122.480589,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Daly City",
+    "mz:postal_locality_alt":[
+        "Colma",
+        "San Francisco"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102085387,
         85922529,
-        102085387
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12797106"
     },
     "wof:country":"US",
-    "wof:geomhash":"2aabc77412d0bb19c0a25a7d8e130b8d",
+    "wof:geomhash":"9e48504643cfe2dff64e226833d38f6b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554784623,
-    "wof:lastmodified":1480806943,
+    "wof:lastmodified":1611183951,
     "wof:name":"94015",
     "wof:parent_id":85922529,
     "wof:placetype":"postalcode",

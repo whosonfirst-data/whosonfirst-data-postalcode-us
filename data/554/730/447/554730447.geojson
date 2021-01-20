@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037237,
-    "geom:area_square_m":318194186.884823,
+    "geom:area_square_m":318194186.884889,
     "geom:bbox":"-96.656465,46.18121,-96.36987,46.38415",
     "geom:latitude":46.285453,
     "geom:longitude":-96.504791,
@@ -14,20 +14,25 @@
     "lbl:latitude":46.28975,
     "lbl:longitude":-96.497076,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Breckenridge",
+    "mz:postal_locality_alt":[
+        "Bejou"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404511001,
         85633793,
-        102087021
+        102087021,
+        404511001,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782530"
     },
     "wof:country":"US",
-    "wof:geomhash":"32c3074305d0ce4fb2349f6014b5513e",
+    "wof:geomhash":"e82bb0b67ad28e8c05d6b7eba86c148c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554730447,
-    "wof:lastmodified":1480792935,
+    "wof:lastmodified":1611182724,
     "wof:name":"56520",
     "wof:parent_id":404511001,
     "wof:placetype":"postalcode",

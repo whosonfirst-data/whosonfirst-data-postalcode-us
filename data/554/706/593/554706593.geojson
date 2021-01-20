@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003722,
-    "geom:area_square_m":35422940.220242,
+    "geom:area_square_m":35422940.220232,
     "geom:bbox":"-75.788881,39.639005,-75.621231,39.707801",
     "geom:latitude":39.67078,
     "geom:longitude":-75.71228,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.670784,
     "lbl:longitude":-75.712296,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Newark",
+    "mz:postal_locality_alt":[
+        "Middletown"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688611,
         102191575,
         85633793,
+        102083891,
         85931727,
-        102083891
+        85688611
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765751"
     },
     "wof:country":"US",
-    "wof:geomhash":"7a3fe3bfd06868f8bc1d42dc78dc4277",
+    "wof:geomhash":"635aa3e07a83469bbc35b0233c7c91f1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554706593,
-    "wof:lastmodified":1480835444,
+    "wof:lastmodified":1611182682,
     "wof:name":"19713",
     "wof:parent_id":85931727,
     "wof:placetype":"postalcode",

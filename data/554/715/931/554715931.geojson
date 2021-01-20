@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009811,
-    "geom:area_square_m":101066739.440965,
+    "geom:area_square_m":101066739.440982,
     "geom:bbox":"-85.95636,33.519402,-85.737379,33.629404",
     "geom:latitude":33.581539,
     "geom:longitude":-85.832832,
@@ -14,19 +14,24 @@
     "lbl:latitude":33.58308,
     "lbl:longitude":-85.834626,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Oxford",
+    "mz:postal_locality_alt":[
+        "Anniston"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688675,
-        102085517
+        102085517,
+        85688675
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12773422"
     },
     "wof:country":"US",
-    "wof:geomhash":"96582c16d550d7bb13921b9567c5f7de",
+    "wof:geomhash":"202d9adf95ba81b36459d138a43f3a2b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554715931,
-    "wof:lastmodified":1480814567,
+    "wof:lastmodified":1611183637,
     "wof:name":"36203",
     "wof:parent_id":102085517,
     "wof:placetype":"postalcode",

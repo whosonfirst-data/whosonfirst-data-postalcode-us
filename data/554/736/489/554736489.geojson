@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046109,
-    "geom:area_square_m":440983482.980159,
+    "geom:area_square_m":440983482.980185,
     "geom:bbox":"-94.098717,39.192012,-93.796178,39.474533",
     "geom:latitude":39.334508,
     "geom:longitude":-93.945669,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.334841,
     "lbl:longitude":-93.945283,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Richmond",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404517935,
         85633793,
-        102086185
+        102086185,
+        404517935,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786004"
     },
     "wof:country":"US",
-    "wof:geomhash":"639372f41a154a4416d94fc7238bffdf",
+    "wof:geomhash":"44639ba70c95a2e88d67700ed3482571",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554736489,
-    "wof:lastmodified":1480912845,
+    "wof:lastmodified":1611183045,
     "wof:name":"64085",
     "wof:parent_id":404517935,
     "wof:placetype":"postalcode",

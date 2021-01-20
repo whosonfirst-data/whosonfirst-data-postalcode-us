@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.071278,
-    "geom:area_square_m":746203120.725669,
+    "geom:area_square_m":746203120.725032,
     "geom:bbox":"-82.407099,31.911798,-82.181912,32.418096",
     "geom:latitude":32.151884,
     "geom:longitude":-82.289045,
@@ -14,19 +14,24 @@
     "lbl:latitude":32.154894,
     "lbl:longitude":-82.293036,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lyons",
+    "mz:postal_locality_alt":[
+        "Uvalda"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688535,
-        102082907
+        102082907,
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770821"
     },
     "wof:country":"US",
-    "wof:geomhash":"6d3e1971b252da0e7c32df8ddb0c6e29",
+    "wof:geomhash":"6fa08b2c2ffc661d2f0d5bb1869d46fe",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554713143,
-    "wof:lastmodified":1480838447,
+    "wof:lastmodified":1611183312,
     "wof:name":"30436",
     "wof:parent_id":102082907,
     "wof:placetype":"postalcode",

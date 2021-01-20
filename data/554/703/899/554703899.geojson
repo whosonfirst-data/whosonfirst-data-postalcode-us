@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008853,
-    "geom:area_square_m":83810698.156213,
+    "geom:area_square_m":83810698.156293,
     "geom:bbox":"-79.403682,39.981953,-79.235403,40.090395",
     "geom:latitude":40.041747,
     "geom:longitude":-79.322852,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.049578,
     "lbl:longitude":-79.32919,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Champion",
+    "mz:postal_locality_alt":[
+        "Stahlstown"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404487425,
         85633793,
-        102081383
+        102081383,
+        404487425,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763902"
     },
     "wof:country":"US",
-    "wof:geomhash":"9ccd84e3823659b23f442658dbe8b041",
+    "wof:geomhash":"b7ef50a41034cc4f9d96021ba408dd48",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554703899,
-    "wof:lastmodified":1480906229,
+    "wof:lastmodified":1611184479,
     "wof:name":"15622",
     "wof:parent_id":404487425,
     "wof:placetype":"postalcode",

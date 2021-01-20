@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006422,
-    "geom:area_square_m":67168282.185064,
+    "geom:area_square_m":67168282.184948,
     "geom:bbox":"-90.338941,32.201023,-90.188314,32.279144",
     "geom:latitude":32.242095,
     "geom:longitude":-90.273065,
@@ -13,20 +13,25 @@
     "lbl:latitude":32.243261,
     "lbl:longitude":-90.280351,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Jackson",
+    "mz:postal_locality_alt":[
+        "Byram"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688579,
         102191575,
         85633793,
+        102081407,
         85969693,
-        102081407
+        85688579
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12774860"
     },
     "wof:country":"US",
-    "wof:geomhash":"2903956191d3681ee9f740d255960899",
+    "wof:geomhash":"0d95a28bbe63402d70759f7345427785",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554718245,
-    "wof:lastmodified":1480829245,
+    "wof:lastmodified":1611185546,
     "wof:name":"39212",
     "wof:parent_id":85969693,
     "wof:placetype":"postalcode",

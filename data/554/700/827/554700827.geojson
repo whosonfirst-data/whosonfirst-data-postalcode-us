@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003599,
-    "geom:area_square_m":33499181.378716,
+    "geom:area_square_m":33499181.378685,
     "geom:bbox":"-73.812743,41.129295,-73.724046,41.218388",
     "geom:latitude":41.173024,
     "geom:longitude":-73.770867,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.172111,
     "lbl:longitude":-73.769227,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Chappaqua",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404523373,
         85633793,
-        102082373
+        102082373,
+        404523373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761533"
     },
     "wof:country":"US",
-    "wof:geomhash":"35a1c7b55f8838bec620faf1af9e886f",
+    "wof:geomhash":"221ea5ecc139e107cc6f5e09429fc6f4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554700827,
-    "wof:lastmodified":1480796132,
+    "wof:lastmodified":1611183178,
     "wof:name":"10514",
     "wof:parent_id":404523373,
     "wof:placetype":"postalcode",

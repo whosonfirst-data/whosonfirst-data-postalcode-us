@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024677,
-    "geom:area_square_m":231696233.648673,
+    "geom:area_square_m":231696233.648926,
     "geom:bbox":"-122.546403,40.489579,-122.353477,40.740405",
     "geom:latitude":40.596521,
     "geom:longitude":-122.460044,
@@ -13,20 +13,25 @@
     "lbl:latitude":40.601778,
     "lbl:longitude":-122.454973,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Redding",
+    "mz:postal_locality_alt":[
+        "Shasta"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102083577,
         85928593,
-        102083577
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12798118"
     },
     "wof:country":"US",
-    "wof:geomhash":"339eb41129806de3aa54140ae9394bc1",
+    "wof:geomhash":"75b199034311498c5ec453949d03cebe",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554754243,
-    "wof:lastmodified":1480836691,
+    "wof:lastmodified":1611182881,
     "wof:name":"96001",
     "wof:parent_id":85928593,
     "wof:placetype":"postalcode",

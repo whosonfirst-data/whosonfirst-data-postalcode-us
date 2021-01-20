@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017314,
-    "geom:area_square_m":161477859.884182,
+    "geom:area_square_m":161477859.884175,
     "geom:bbox":"-86.124963,40.967828,-85.94538,41.114624",
     "geom:latitude":41.04154,
     "geom:longitude":-86.041311,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.043832,
     "lbl:longitude":-86.036308,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Akron",
+    "mz:postal_locality_alt":[
+        "Greentown"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404500721,
         85633793,
-        102087055
+        102087055,
+        404500721,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777955"
     },
     "wof:country":"US",
-    "wof:geomhash":"9ef9994026d73f578e48b2b35d269966",
+    "wof:geomhash":"97881bcba0b522967a47b86b659c403f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554722971,
-    "wof:lastmodified":1480910217,
+    "wof:lastmodified":1611183228,
     "wof:name":"46910",
     "wof:parent_id":404500721,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001058,
-    "geom:area_square_m":9984624.039935,
+    "geom:area_square_m":9984624.039944,
     "geom:bbox":"-77.749971,40.215294,-77.69581,40.263812",
     "geom:latitude":40.238626,
     "geom:longitude":-77.721564,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.238625,
     "lbl:longitude":-77.721567,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Concord",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485313,
         85633793,
-        102081365
+        102081365,
+        404485313,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764671"
     },
     "wof:country":"US",
-    "wof:geomhash":"14776b8420f191b56de14d43e76485a1",
+    "wof:geomhash":"833f65a876f48bb248f1cb81ebe48a26",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554705053,
-    "wof:lastmodified":1480904864,
+    "wof:lastmodified":1611184101,
     "wof:name":"17217",
     "wof:parent_id":404485313,
     "wof:placetype":"postalcode",

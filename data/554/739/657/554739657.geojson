@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025397,
-    "geom:area_square_m":238376412.434667,
+    "geom:area_square_m":238376412.434545,
     "geom:bbox":"-97.225304,40.524006,-97.035951,40.727621",
     "geom:latitude":40.618664,
     "geom:longitude":-97.134261,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.618234,
     "lbl:longitude":-97.132103,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Dorchester",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688563,
         102191575,
-        404520791,
         85633793,
-        102082745
+        102082745,
+        404520791,
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787613"
     },
     "wof:country":"US",
-    "wof:geomhash":"5d1d3febf0fc062c9f3ce91c2b61c32e",
+    "wof:geomhash":"556e1f009b3b473efd14a3164739390d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554739657,
-    "wof:lastmodified":1480794709,
+    "wof:lastmodified":1611182660,
     "wof:name":"68343",
     "wof:parent_id":404520791,
     "wof:placetype":"postalcode",

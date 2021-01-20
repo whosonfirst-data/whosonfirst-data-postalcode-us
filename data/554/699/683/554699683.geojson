@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001313,
-    "geom:area_square_m":12128487.850227,
+    "geom:area_square_m":12128487.850233,
     "geom:bbox":"-73.506929,41.609776,-73.448304,41.674983",
     "geom:latitude":41.650328,
     "geom:longitude":-73.481193,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.650558,
     "lbl:longitude":-73.479353,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Gaylordsville",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688629,
         102191575,
-        404496031,
         85633793,
-        102085375
+        102085375,
+        404496031,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760513"
     },
     "wof:country":"US",
-    "wof:geomhash":"c618a320ad4506bf5ba59bf795eb3f49",
+    "wof:geomhash":"b52f5d207e46beafda05d0fa3a9864d4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554699683,
-    "wof:lastmodified":1480805214,
+    "wof:lastmodified":1611184625,
     "wof:name":"06755",
     "wof:parent_id":404496031,
     "wof:placetype":"postalcode",

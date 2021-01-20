@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.056677,
-    "geom:area_square_m":570542336.091518,
+    "geom:area_square_m":570542336.091698,
     "geom:bbox":"-86.245289,35.343738,-85.899473,35.660929",
     "geom:latitude":35.500992,
     "geom:longitude":-86.084753,
@@ -13,20 +13,26 @@
     "lbl:latitude":35.499787,
     "lbl:longitude":-86.083833,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Manchester",
+    "mz:postal_locality_alt":[
+        "Cleveland",
+        "Tracy City"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688701,
         102191575,
         85633793,
+        102087095,
         101722835,
-        102087095
+        85688701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12773972"
     },
     "wof:country":"US",
-    "wof:geomhash":"491a3aff6c1d0930663f88fffd37d3d2",
+    "wof:geomhash":"0e53c0418bd52b84a46b33c9c5874e51",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554716783,
-    "wof:lastmodified":1480916895,
+    "wof:lastmodified":1611185374,
     "wof:name":"37355",
     "wof:parent_id":101722835,
     "wof:placetype":"postalcode",

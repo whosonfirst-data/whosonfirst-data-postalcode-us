@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008576,
-    "geom:area_square_m":80349648.062407,
+    "geom:area_square_m":80349648.062341,
     "geom:bbox":"-75.69938,40.685737,-75.543972,40.787523",
     "geom:latitude":40.735822,
     "geom:longitude":-75.633224,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.735856,
     "lbl:longitude":-75.635307,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Slatington",
+    "mz:postal_locality_alt":[
+        "Slatedale"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404483447,
         85633793,
-        102081327
+        102081327,
+        404483447,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765069"
     },
     "wof:country":"US",
-    "wof:geomhash":"c3de04b034a47585a507f0c61e5cedca",
+    "wof:geomhash":"a11974699eb8b733b6e06a60c8646578",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554705637,
-    "wof:lastmodified":1480832456,
+    "wof:lastmodified":1611184122,
     "wof:name":"18080",
     "wof:parent_id":404483447,
     "wof:placetype":"postalcode",

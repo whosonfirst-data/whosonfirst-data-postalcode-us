@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00816,
-    "geom:area_square_m":75684916.070765,
+    "geom:area_square_m":75684916.07079,
     "geom:bbox":"-70.715252,41.33897,-70.60623,41.463389",
     "geom:latitude":41.399762,
     "geom:longitude":-70.65529,
@@ -14,20 +14,26 @@
     "lbl:latitude":41.400252,
     "lbl:longitude":-70.656934,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"West Tisbury",
+    "mz:postal_locality_alt":[
+        "Vineyard Haven",
+        "Edgartown"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476279,
         85633793,
-        102084629
+        102084629,
+        404476279,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758898"
     },
     "wof:country":"US",
-    "wof:geomhash":"1289fe186d7b18a4a0c4a776fa8fa1fe",
+    "wof:geomhash":"2c456c55a534f594339dfd03b6e64b5d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554778451,
-    "wof:lastmodified":1480798639,
+    "wof:lastmodified":1611183442,
     "wof:name":"02575",
     "wof:parent_id":404476279,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006665,
-    "geom:area_square_m":63164035.867645,
+    "geom:area_square_m":63164035.867613,
     "geom:bbox":"-86.827607,39.908498,-86.66479,39.995977",
     "geom:latitude":39.961406,
     "geom:longitude":-86.745782,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.959518,
     "lbl:longitude":-86.749957,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"New Ross",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404500261,
         85633793,
-        102087037
+        102087037,
+        404500261,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778492"
     },
     "wof:country":"US",
-    "wof:geomhash":"04af9982ba34c69c3bbc989520e22b9d",
+    "wof:geomhash":"1437fcb4d13c1eaec25f0bd745acff5c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554723801,
-    "wof:lastmodified":1480911098,
+    "wof:lastmodified":1611183807,
     "wof:name":"47968",
     "wof:parent_id":404500261,
     "wof:placetype":"postalcode",

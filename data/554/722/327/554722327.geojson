@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029437,
-    "geom:area_square_m":274172715.964136,
+    "geom:area_square_m":274172715.96406,
     "geom:bbox":"-84.688572,41.053487,-84.415148,41.214857",
     "geom:latitude":41.128478,
     "geom:longitude":-84.561568,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.128322,
     "lbl:longitude":-84.563105,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Paulding",
+    "mz:postal_locality_alt":[
+        "Oakwood"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404524147,
         85633793,
-        102083727
+        102083727,
+        404524147,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777513"
     },
     "wof:country":"US",
-    "wof:geomhash":"85739528c27e78acf3c567747e7eec9d",
+    "wof:geomhash":"7217b7121fadf24bfaad8cef5109b56e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554722327,
-    "wof:lastmodified":1480841114,
+    "wof:lastmodified":1611183246,
     "wof:name":"45879",
     "wof:parent_id":404524147,
     "wof:placetype":"postalcode",

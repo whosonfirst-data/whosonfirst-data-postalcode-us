@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030121,
-    "geom:area_square_m":286925363.073731,
+    "geom:area_square_m":286925363.073587,
     "geom:bbox":"-93.515411,39.528983,-93.253605,39.716016",
     "geom:latitude":39.613588,
     "geom:longitude":-93.370039,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.613045,
     "lbl:longitude":-93.369158,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hale",
+    "mz:postal_locality_alt":[
+        "Gallatin"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404516465,
         85633793,
-        102085313
+        102085313,
+        404516465,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786187"
     },
     "wof:country":"US",
-    "wof:geomhash":"8b0e1ee96a3760678220e6a233c27229",
+    "wof:geomhash":"cec6a6d61d40d6f6a90fa946c8d4f3c0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554736833,
-    "wof:lastmodified":1480910529,
+    "wof:lastmodified":1611183031,
     "wof:name":"64643",
     "wof:parent_id":404516465,
     "wof:placetype":"postalcode",

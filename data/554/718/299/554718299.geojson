@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.095976,
-    "geom:area_square_m":994160557.807579,
+    "geom:area_square_m":994160557.807588,
     "geom:bbox":"-89.302374,32.919107,-88.813043,33.286424",
     "geom:latitude":33.101454,
     "geom:longitude":-89.008361,
@@ -14,19 +14,25 @@
     "lbl:latitude":33.101905,
     "lbl:longitude":-89.011663,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Louisville",
+    "mz:postal_locality_alt":[
+        "Shuqualak",
+        "Meridian"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688579,
-        102085907
+        102085907,
+        85688579
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12774902"
     },
     "wof:country":"US",
-    "wof:geomhash":"9a1abba3ce4f92c6ac5ae99b6f64bbbd",
+    "wof:geomhash":"af00b432d7e04346c638038e7929a6fb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554718299,
-    "wof:lastmodified":1480908598,
+    "wof:lastmodified":1611185587,
     "wof:name":"39339",
     "wof:parent_id":102085907,
     "wof:placetype":"postalcode",

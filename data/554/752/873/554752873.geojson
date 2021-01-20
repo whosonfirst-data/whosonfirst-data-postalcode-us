@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021008,
-    "geom:area_square_m":213821070.098197,
+    "geom:area_square_m":213821070.098247,
     "geom:bbox":"-117.991839,34.557935,-117.666651,34.668278",
     "geom:latitude":34.601865,
     "geom:longitude":-117.812264,
@@ -13,20 +13,25 @@
     "lbl:latitude":34.59448,
     "lbl:longitude":-117.813666,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Palmdale",
+    "mz:postal_locality_alt":[
+        "Littlerock"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086957,
         85928353,
-        102086957
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796943"
     },
     "wof:country":"US",
-    "wof:geomhash":"384a848e13527cd2d878272db80f2cff",
+    "wof:geomhash":"4b8915e3ecc1a9ca442522fd516d86d3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554752873,
-    "wof:lastmodified":1480912628,
+    "wof:lastmodified":1611182519,
     "wof:name":"93591",
     "wof:parent_id":85928353,
     "wof:placetype":"postalcode",

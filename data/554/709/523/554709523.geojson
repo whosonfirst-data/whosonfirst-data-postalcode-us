@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010021,
-    "geom:area_square_m":97223341.04388,
+    "geom:area_square_m":97223341.043908,
     "geom:bbox":"-81.582198,38.259728,-81.386493,38.369432",
     "geom:latitude":38.311089,
     "geom:longitude":-81.490324,
@@ -13,19 +13,24 @@
     "lbl:latitude":38.312522,
     "lbl:longitude":-81.499429,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Charleston",
+    "mz:postal_locality_alt":[
+        "Malden"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688589,
-        102083335
+        102083335,
+        85688589
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12768247"
     },
     "wof:country":"US",
-    "wof:geomhash":"5e8e6e36b7bb3bfb36877c91e9a69cfe",
+    "wof:geomhash":"528fb1bda19064532c13e9cab94456e4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +41,7 @@
         }
     ],
     "wof:id":554709523,
-    "wof:lastmodified":1480837072,
+    "wof:lastmodified":1611183016,
     "wof:name":"25306",
     "wof:parent_id":102083335,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012757,
-    "geom:area_square_m":127545747.456616,
+    "geom:area_square_m":127545747.456562,
     "geom:bbox":"-87.348172,35.976515,-87.178624,36.107359",
     "geom:latitude":36.041875,
     "geom:longitude":-87.264487,
@@ -14,20 +14,22 @@
     "lbl:latitude":36.042705,
     "lbl:longitude":-87.263545,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Burns",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688701,
         102191575,
         85633793,
+        102086975,
         101722827,
-        102086975
+        85688701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12773758"
     },
     "wof:country":"US",
-    "wof:geomhash":"f16500a24be56bf60d80f6728dc0e082",
+    "wof:geomhash":"711fa85fc41f6d51f8fd3db67dfc7433",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554716423,
-    "wof:lastmodified":1480915892,
+    "wof:lastmodified":1611185363,
     "wof:name":"37029",
     "wof:parent_id":101722827,
     "wof:placetype":"postalcode",

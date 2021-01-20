@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035767,
-    "geom:area_square_m":351364918.563106,
+    "geom:area_square_m":351364918.562855,
     "geom:bbox":"-94.90587,37.194687,-94.616724,37.513621",
     "geom:latitude":37.395106,
     "geom:longitude":-94.71048,
@@ -14,21 +14,26 @@
     "lbl:latitude":37.393869,
     "lbl:longitude":-94.710469,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pittsburg",
+    "mz:postal_locality_alt":[
+        "Frontenac"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404503399,
         85633793,
+        102082657,
+        404503399,
         85946159,
-        102082657
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786979"
     },
     "wof:country":"US",
-    "wof:geomhash":"94c2a2ea4dadae9d3ecd6b8ad051f572",
+    "wof:geomhash":"358950602daef334b2de542765c2082b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554738351,
-    "wof:lastmodified":1480915239,
+    "wof:lastmodified":1611183112,
     "wof:name":"66762",
     "wof:parent_id":85946159,
     "wof:placetype":"postalcode",

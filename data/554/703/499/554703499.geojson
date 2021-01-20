@@ -14,20 +14,27 @@
     "lbl:latitude":40.463477,
     "lbl:longitude":-80.106688,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mc Kees Rocks",
+    "mz:postal_locality_alt":[
+        "McKees Rocks",
+        "Pittsburgh",
+        "Robinson Township"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404484959,
         85633793,
-        102080887
+        102080887,
+        404484959,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763631"
     },
     "wof:country":"US",
-    "wof:geomhash":"f5d6bd5923371f3e64a2756bf4d15b0f",
+    "wof:geomhash":"c1630ce951b06cade68d42d1470093d5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554703499,
-    "wof:lastmodified":1480905388,
+    "wof:lastmodified":1611184458,
     "wof:name":"15136",
     "wof:parent_id":404484959,
     "wof:placetype":"postalcode",

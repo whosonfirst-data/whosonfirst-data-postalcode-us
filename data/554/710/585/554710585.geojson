@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030781,
-    "geom:area_square_m":307376419.786404,
+    "geom:area_square_m":307376419.786913,
     "geom:bbox":"-79.351604,35.928406,-79.183107,36.35156",
     "geom:latitude":36.140386,
     "geom:longitude":-79.264339,
@@ -14,19 +14,26 @@
     "lbl:latitude":36.14203,
     "lbl:longitude":-79.266181,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mebane",
+    "mz:postal_locality_alt":[
+        "Burlington",
+        "Welcome",
+        "Yanceyville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688773,
-        102087643
+        102087643,
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12768998"
     },
     "wof:country":"US",
-    "wof:geomhash":"463452a116eb7344f6fd84bfa5fbba53",
+    "wof:geomhash":"b1a543d918fa8b6c3c12b72430f13dda",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +44,7 @@
         }
     ],
     "wof:id":554710585,
-    "wof:lastmodified":1480784853,
+    "wof:lastmodified":1611185135,
     "wof:name":"27302",
     "wof:parent_id":102087643,
     "wof:placetype":"postalcode",

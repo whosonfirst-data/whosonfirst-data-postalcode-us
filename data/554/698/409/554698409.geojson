@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048514,
-    "geom:area_square_m":422553272.296291,
+    "geom:area_square_m":422553272.296421,
     "geom:bbox":"-69.342474,45.090166,-68.9735,45.387717",
     "geom:latitude":45.219529,
     "geom:longitude":-69.183444,
@@ -14,20 +14,26 @@
     "lbl:latitude":45.213059,
     "lbl:longitude":-69.189134,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Dover Foxcroft",
+    "mz:postal_locality_alt":[
+        "Atkinson",
+        "Orrington"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404475085,
         85633793,
-        102087465
+        102087465,
+        404475085,
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759566"
     },
     "wof:country":"US",
-    "wof:geomhash":"f847e98c059b558f7615bc3879ffa1ca",
+    "wof:geomhash":"7e18ef0ae5c25233c30fb8893a9b8b1a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554698409,
-    "wof:lastmodified":1480906071,
+    "wof:lastmodified":1611184685,
     "wof:name":"04426",
     "wof:parent_id":404475085,
     "wof:placetype":"postalcode",

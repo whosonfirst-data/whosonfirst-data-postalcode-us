@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004662,
-    "geom:area_square_m":43124340.204536,
+    "geom:area_square_m":43124340.204498,
     "geom:bbox":"-93.84812,41.526327,-93.73104,41.600503",
     "geom:latitude":41.569383,
     "geom:longitude":-93.799385,
@@ -13,20 +13,22 @@
     "lbl:latitude":41.570085,
     "lbl:longitude":-93.798416,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"West Des Moines",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688713,
         102191575,
         85633793,
+        102086603,
         85944027,
-        102086603
+        85688713
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779873"
     },
     "wof:country":"US",
-    "wof:geomhash":"fb9608db767857ac7c59f5046cf4f529",
+    "wof:geomhash":"f82bd1f0d200f45f090d36968065f852",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +40,7 @@
         }
     ],
     "wof:id":554725793,
-    "wof:lastmodified":1480916304,
+    "wof:lastmodified":1611183272,
     "wof:name":"50266",
     "wof:parent_id":85944027,
     "wof:placetype":"postalcode",

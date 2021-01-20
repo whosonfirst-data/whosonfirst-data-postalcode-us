@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00619,
-    "geom:area_square_m":59803583.534163,
+    "geom:area_square_m":59803583.534134,
     "geom:bbox":"-88.084715,38.569909,-87.909686,38.658821",
     "geom:latitude":38.619974,
     "geom:longitude":-87.985326,
@@ -14,20 +14,22 @@
     "lbl:latitude":38.610736,
     "lbl:longitude":-87.989672,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Calhoun",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404496933,
         85633793,
-        102083511
+        102083511,
+        404496933,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785129"
     },
     "wof:country":"US",
-    "wof:geomhash":"61768bc5a23c412778e46a5e9091c2c2",
+    "wof:geomhash":"460c93012683b890d6f73b0803b7fef1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554734943,
-    "wof:lastmodified":1480838110,
+    "wof:lastmodified":1611184209,
     "wof:name":"62419",
     "wof:parent_id":404496933,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015065,
-    "geom:area_square_m":163324998.526161,
+    "geom:area_square_m":163324998.526071,
     "geom:bbox":"-81.191988,28.655316,-81.02751,28.828541",
     "geom:latitude":28.745488,
     "geom:longitude":-81.105965,
@@ -14,20 +14,25 @@
     "lbl:latitude":28.751037,
     "lbl:longitude":-81.102119,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Geneva",
+    "mz:postal_locality_alt":[
+        "Apopka"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688651,
         102191575,
         85633793,
+        102085775,
         85934161,
-        102085775
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12771888"
     },
     "wof:country":"US",
-    "wof:geomhash":"a53896e90408a8cd74d4e44c72bf7f51",
+    "wof:geomhash":"c4d1a2402da2ec1119479d7d0c7368b1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554714579,
-    "wof:lastmodified":1480809125,
+    "wof:lastmodified":1611183383,
     "wof:name":"32732",
     "wof:parent_id":85934161,
     "wof:placetype":"postalcode",

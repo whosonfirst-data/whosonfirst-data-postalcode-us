@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032655,
-    "geom:area_square_m":302751884.361961,
+    "geom:area_square_m":302751884.361934,
     "geom:bbox":"-98.559454,41.314451,-98.28658,41.523913",
     "geom:latitude":41.427854,
     "geom:longitude":-98.400252,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.435696,
     "lbl:longitude":-98.391066,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wolbach",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688563,
         102191575,
-        404519295,
         85633793,
-        102082785
+        102082785,
+        404519295,
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787919"
     },
     "wof:country":"US",
-    "wof:geomhash":"5dd01ced085db4cee9ec3b96b1528bdd",
+    "wof:geomhash":"6e6f816ba8554848becb68117b4a64c7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554740289,
-    "wof:lastmodified":1480838221,
+    "wof:lastmodified":1611183392,
     "wof:name":"68882",
     "wof:parent_id":404519295,
     "wof:placetype":"postalcode",

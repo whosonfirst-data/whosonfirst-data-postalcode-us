@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002388,
-    "geom:area_square_m":24416441.895351,
+    "geom:area_square_m":24416441.895314,
     "geom:bbox":"-118.672975,34.204221,-118.579781,34.257453",
     "geom:latitude":34.224617,
     "geom:longitude":-118.632453,
@@ -13,20 +13,27 @@
     "lbl:latitude":34.224192,
     "lbl:longitude":-118.632384,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Canoga Park",
+    "mz:postal_locality_alt":[
+        "West Hills",
+        "San Fernando Valley",
+        "Los Angeles"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086957,
         85923517,
-        102086957
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795961"
     },
     "wof:country":"US",
-    "wof:geomhash":"1d9c58c3ea673d0c4a5c80c2bed3b709",
+    "wof:geomhash":"960593a98877768f53498b47b8970c1e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +45,7 @@
         }
     ],
     "wof:id":554751923,
-    "wof:lastmodified":1480912614,
+    "wof:lastmodified":1611184341,
     "wof:name":"91304",
     "wof:parent_id":85923517,
     "wof:placetype":"postalcode",

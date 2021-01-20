@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00079,
-    "geom:area_square_m":7504884.659037,
+    "geom:area_square_m":7504884.659023,
     "geom:bbox":"-77.567521,39.817364,-77.519927,39.850493",
     "geom:latitude":39.838623,
     "geom:longitude":-77.541867,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.833928,
     "lbl:longitude":-77.543724,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mont Alto",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404483245,
         85633793,
-        102081365
+        102081365,
+        404483245,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764686"
     },
     "wof:country":"US",
-    "wof:geomhash":"123cc6786c4f592811803e36722ab55d",
+    "wof:geomhash":"d854ccaba95b7228a7702bfa7e18d89d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554705083,
-    "wof:lastmodified":1480824804,
+    "wof:lastmodified":1611184097,
     "wof:name":"17237",
     "wof:parent_id":404483245,
     "wof:placetype":"postalcode",

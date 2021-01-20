@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009387,
-    "geom:area_square_m":90360666.856288,
+    "geom:area_square_m":90360666.856279,
     "geom:bbox":"-76.866866,38.826192,-76.669515,38.947108",
     "geom:latitude":38.875273,
     "geom:longitude":-76.773877,
@@ -13,20 +13,29 @@
     "lbl:latitude":38.874532,
     "lbl:longitude":-76.774182,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Upper Marlboro",
+    "mz:postal_locality_alt":[
+        "Springdale",
+        "Largo",
+        "Glenarden",
+        "Hyattsville",
+        "Uppr Marlboro"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688501,
         102191575,
         85633793,
+        102082191,
         85950007,
-        102082191
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766312"
     },
     "wof:country":"US",
-    "wof:geomhash":"39c672b15e71b79aa2af91e112a52c14",
+    "wof:geomhash":"6e4886794c716e4e8c80f4e7df75b987",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +47,7 @@
         }
     ],
     "wof:id":554707005,
-    "wof:lastmodified":1480843203,
+    "wof:lastmodified":1611183166,
     "wof:name":"20774",
     "wof:parent_id":85950007,
     "wof:placetype":"postalcode",

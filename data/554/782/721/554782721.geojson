@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025769,
-    "geom:area_square_m":230719373.857161,
+    "geom:area_square_m":230719373.857225,
     "geom:bbox":"-86.5576,43.541665,-86.15802,43.670299",
     "geom:latitude":43.609052,
     "geom:longitude":-86.376936,
@@ -14,20 +14,22 @@
     "lbl:latitude":43.610287,
     "lbl:longitude":-86.378251,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Shelby",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404508453,
         85633793,
-        102083141
+        102083141,
+        404508453,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779384"
     },
     "wof:country":"US",
-    "wof:geomhash":"5a3fe236885c4b1b96ccdeb81e77a6db",
+    "wof:geomhash":"28e6ad492a098ee5a93cbaaf6d4a8508",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554782721,
-    "wof:lastmodified":1480840678,
+    "wof:lastmodified":1611183633,
     "wof:name":"49455",
     "wof:parent_id":404508453,
     "wof:placetype":"postalcode",

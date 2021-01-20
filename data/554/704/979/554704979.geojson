@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013503,
-    "geom:area_square_m":127176450.941926,
+    "geom:area_square_m":127176450.941905,
     "geom:bbox":"-76.395476,40.298985,-76.239566,40.477521",
     "geom:latitude":40.387034,
     "geom:longitude":-76.315382,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.390423,
     "lbl:longitude":-76.315048,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Myerstown",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485697,
         85633793,
-        102081341
+        102081341,
+        404485697,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764610"
     },
     "wof:country":"US",
-    "wof:geomhash":"424049ca20ef3f297bda2175642ca986",
+    "wof:geomhash":"3c48fb79f63e9937966e07a29c94d748",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554704979,
-    "wof:lastmodified":1480903401,
+    "wof:lastmodified":1611184500,
     "wof:name":"17067",
     "wof:parent_id":404485697,
     "wof:placetype":"postalcode",

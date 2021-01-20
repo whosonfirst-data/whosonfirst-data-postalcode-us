@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001015,
-    "geom:area_square_m":9513238.469411,
+    "geom:area_square_m":9513238.469421,
     "geom:bbox":"-74.721834,40.704916,-74.643983,40.736184",
     "geom:latitude":40.720734,
     "geom:longitude":-74.67821,
@@ -14,21 +14,27 @@
     "lbl:latitude":40.722621,
     "lbl:longitude":-74.675562,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Gladstone",
+    "mz:postal_locality_alt":[
+        "Peapack",
+        "Liberty Corner"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477933,
         85633793,
+        102085045,
+        404477933,
         85975507,
-        102085045
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760954"
     },
     "wof:country":"US",
-    "wof:geomhash":"db6e0ee0f976c4a6c3ab1dbbda2c9469",
+    "wof:geomhash":"a0ba6d291de2b8caf69e8ca32a435b13",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554700287,
-    "wof:lastmodified":1480806955,
+    "wof:lastmodified":1611183180,
     "wof:name":"07934",
     "wof:parent_id":85975507,
     "wof:placetype":"postalcode",

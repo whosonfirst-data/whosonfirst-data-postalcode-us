@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009749,
-    "geom:area_square_m":91219085.904754,
+    "geom:area_square_m":91219085.90477,
     "geom:bbox":"-95.961735,40.783783,-95.834065,40.878645",
     "geom:latitude":40.825712,
     "geom:longitude":-95.900862,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.820047,
     "lbl:longitude":-95.897286,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Union",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688563,
         102191575,
-        404519605,
         85633793,
-        102082791
+        102082791,
+        404519605,
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787691"
     },
     "wof:country":"US",
-    "wof:geomhash":"2589dfd86fa01c586894de5e5873bfa9",
+    "wof:geomhash":"49a1aadc66d93a980b6e6be9886740cf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554739819,
-    "wof:lastmodified":1480910375,
+    "wof:lastmodified":1611182655,
     "wof:name":"68455",
     "wof:parent_id":404519605,
     "wof:placetype":"postalcode",

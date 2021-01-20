@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009296,
-    "geom:area_square_m":86295176.653739,
+    "geom:area_square_m":86295176.653701,
     "geom:bbox":"-74.332821,41.277583,-74.193919,41.416994",
     "geom:latitude":41.347701,
     "geom:longitude":-74.258706,
@@ -14,20 +14,26 @@
     "lbl:latitude":41.344192,
     "lbl:longitude":-74.262177,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Chester",
+    "mz:postal_locality_alt":[
+        "Sugar Loaf",
+        "Warwick"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404521517,
         85633793,
-        102083061
+        102083061,
+        404521517,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761630"
     },
     "wof:country":"US",
-    "wof:geomhash":"9e0d6177e7a55aeb4935d6481c2a9391",
+    "wof:geomhash":"05d8c6d15390a1a5ab6ab749e46a9e33",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554700943,
-    "wof:lastmodified":1480834093,
+    "wof:lastmodified":1611183209,
     "wof:name":"10918",
     "wof:parent_id":404521517,
     "wof:placetype":"postalcode",

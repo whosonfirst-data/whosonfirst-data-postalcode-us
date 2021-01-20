@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011527,
-    "geom:area_square_m":101825975.51292,
+    "geom:area_square_m":101825975.512932,
     "geom:bbox":"-70.278692,44.343168,-70.150399,44.478262",
     "geom:latitude":44.407888,
     "geom:longitude":-70.215022,
@@ -14,20 +14,22 @@
     "lbl:latitude":44.411638,
     "lbl:longitude":-70.216187,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Livermore",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404475341,
         85633793,
-        102087457
+        102087457,
+        404475341,
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759486"
     },
     "wof:country":"US",
-    "wof:geomhash":"dc48570ec3753f776074fb2c216d0955",
+    "wof:geomhash":"da48a0b77314b481b49cd2468e9d94ac",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554698273,
-    "wof:lastmodified":1480787528,
+    "wof:lastmodified":1611184680,
     "wof:name":"04253",
     "wof:parent_id":404475341,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004025,
-    "geom:area_square_m":36157757.142862,
+    "geom:area_square_m":36157757.142842,
     "geom:bbox":"-72.876357,43.36687,-72.763865,43.451659",
     "geom:latitude":43.413712,
     "geom:longitude":-72.823327,
@@ -14,20 +14,22 @@
     "lbl:latitude":43.437589,
     "lbl:longitude":-72.788657,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Belmont",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688763,
         102191575,
-        404527303,
         85633793,
-        102080771
+        102080771,
+        404527303,
+        85688763
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760072"
     },
     "wof:country":"US",
-    "wof:geomhash":"5f003deb1aaf1790c306a771aed4560e",
+    "wof:geomhash":"55f04d7b7ee2e6571f2a565791fb7f8d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554699087,
-    "wof:lastmodified":1480905330,
+    "wof:lastmodified":1611184622,
     "wof:name":"05730",
     "wof:parent_id":404527303,
     "wof:placetype":"postalcode",

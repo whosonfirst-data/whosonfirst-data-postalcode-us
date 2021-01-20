@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014496,
-    "geom:area_square_m":126752816.060183,
+    "geom:area_square_m":126752816.060028,
     "geom:bbox":"-85.407718,44.880935,-85.29946,45.129557",
     "geom:latitude":44.997626,
     "geom:longitude":-85.352507,
@@ -14,20 +14,25 @@
     "lbl:latitude":44.996418,
     "lbl:longitude":-85.336331,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Kewadin",
+    "mz:postal_locality_alt":[
+        "Elk Rapids"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404506855,
         85633793,
-        102083069
+        102083069,
+        404506855,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779456"
     },
     "wof:country":"US",
-    "wof:geomhash":"aef49287a235277117234c75612cc2c9",
+    "wof:geomhash":"733e5094e909ea64c0b5e07bf99d0e89",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554782745,
-    "wof:lastmodified":1480838775,
+    "wof:lastmodified":1611183635,
     "wof:name":"49648",
     "wof:parent_id":404506855,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00696,
-    "geom:area_square_m":65158545.522472,
+    "geom:area_square_m":65158545.52244,
     "geom:bbox":"-76.629278,40.755805,-76.484913,40.827777",
     "geom:latitude":40.788445,
     "geom:longitude":-76.548974,
@@ -14,20 +14,28 @@
     "lbl:latitude":40.802253,
     "lbl:longitude":-76.547547,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Coal Township",
+    "mz:postal_locality_alt":[
+        "Coal Twp",
+        "Ranshaw",
+        "Stillwater",
+        "Benton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404486113,
         85633793,
-        102081349
+        102081349,
+        404486113,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764944"
     },
     "wof:country":"US",
-    "wof:geomhash":"25abf93d3ee5c1203f48f740c6c2b2a6",
+    "wof:geomhash":"c43cd677f426cb2d2966b31536a1a39b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +47,7 @@
         }
     ],
     "wof:id":554705457,
-    "wof:lastmodified":1480905761,
+    "wof:lastmodified":1611184123,
     "wof:name":"17866",
     "wof:parent_id":404486113,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016524,
-    "geom:area_square_m":149925245.088212,
+    "geom:area_square_m":149925245.088232,
     "geom:bbox":"-85.63586,42.717505,-85.457907,42.855271",
     "geom:latitude":42.796797,
     "geom:longitude":-85.554028,
@@ -14,20 +14,25 @@
     "lbl:latitude":42.793767,
     "lbl:longitude":-85.550466,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Caledonia",
+    "mz:postal_locality_alt":[
+        "Dutton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404506103,
         85633793,
-        102083023
+        102083023,
+        404506103,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779301"
     },
     "wof:country":"US",
-    "wof:geomhash":"e2b911d53a44b6200ab80aeae7ec9f88",
+    "wof:geomhash":"02ef825f4bdff9ae3258a54c0588e841",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554725001,
-    "wof:lastmodified":1480843204,
+    "wof:lastmodified":1611183266,
     "wof:name":"49316",
     "wof:parent_id":404506103,
     "wof:placetype":"postalcode",

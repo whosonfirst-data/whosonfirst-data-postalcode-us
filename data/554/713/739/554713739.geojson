@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011232,
-    "geom:area_square_m":117620662.179567,
+    "geom:area_square_m":117620662.179555,
     "geom:bbox":"-81.408187,32.041833,-81.268626,32.187178",
     "geom:latitude":32.122468,
     "geom:longitude":-81.340811,
@@ -14,19 +14,24 @@
     "lbl:latitude":32.121659,
     "lbl:longitude":-81.34174,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bloomingdale",
+    "mz:postal_locality_alt":[
+        "Darien"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688535,
-        102082337
+        102082337,
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12771182"
     },
     "wof:country":"US",
-    "wof:geomhash":"e5df940fd3031bba43a0e40dc8866221",
+    "wof:geomhash":"25c986746ad5ae7860a6fa81ca919d92",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554713739,
-    "wof:lastmodified":1480836166,
+    "wof:lastmodified":1611183293,
     "wof:name":"31302",
     "wof:parent_id":102082337,
     "wof:placetype":"postalcode",

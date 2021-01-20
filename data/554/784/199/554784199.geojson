@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008662,
-    "geom:area_square_m":88663621.305511,
+    "geom:area_square_m":88663621.30559,
     "geom:bbox":"-118.832982,34.067386,-118.697214,34.168619",
     "geom:latitude":34.122736,
     "geom:longitude":-118.757249,
@@ -13,19 +13,26 @@
     "lbl:latitude":34.123286,
     "lbl:longitude":-118.758541,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Agoura Hills",
+    "mz:postal_locality_alt":[
+        "Calabasas",
+        "Agoura",
+        "Calabasas Hills"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688637,
-        102086957
+        102086957,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795958"
     },
     "wof:country":"US",
-    "wof:geomhash":"d01de8eaaa920e04709819e7aa6e20b9",
+    "wof:geomhash":"38f8607d278bc43c05da8abc2ea22ad6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +43,7 @@
         }
     ],
     "wof:id":554784199,
-    "wof:lastmodified":1480912617,
+    "wof:lastmodified":1611183947,
     "wof:name":"91301",
     "wof:parent_id":102086957,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003889,
-    "geom:area_square_m":37818176.722219,
+    "geom:area_square_m":37818176.722217,
     "geom:bbox":"-85.748962,38.1108,-85.637319,38.174559",
     "geom:latitude":38.13889,
     "geom:longitude":-85.687014,
@@ -14,20 +14,25 @@
     "lbl:latitude":38.137909,
     "lbl:longitude":-85.692693,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Louisville",
+    "mz:postal_locality_alt":[
+        "Okolona"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688641,
         102191575,
         85633793,
+        102084449,
         85947523,
-        102084449
+        85688641
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12775181"
     },
     "wof:country":"US",
-    "wof:geomhash":"5ab4654ba6416123b6aa95770845fd41",
+    "wof:geomhash":"375ada3db251c3305b3d8a05432dc46e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554718795,
-    "wof:lastmodified":1480802914,
+    "wof:lastmodified":1611185574,
     "wof:name":"40219",
     "wof:parent_id":85947523,
     "wof:placetype":"postalcode",

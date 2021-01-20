@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02206,
-    "geom:area_square_m":215493002.404939,
+    "geom:area_square_m":215493002.404624,
     "geom:bbox":"-81.372682,37.727547,-81.099738,37.916738",
     "geom:latitude":37.8145,
     "geom:longitude":-81.254716,
@@ -13,19 +13,28 @@
     "lbl:latitude":37.822892,
     "lbl:longitude":-81.266198,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Beckley",
+    "mz:postal_locality_alt":[
+        "Mac Arthur",
+        "Harper",
+        "Crab Orchard",
+        "Mabscott",
+        "Eccles"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688589,
-        102083349
+        102083349,
+        85688589
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12768454"
     },
     "wof:country":"US",
-    "wof:geomhash":"9fa87fdf42dd5bb4be440f57bf04515a",
+    "wof:geomhash":"b701c6e09352e0f3118e5ec11a3f6d4b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +45,7 @@
         }
     ],
     "wof:id":554709731,
-    "wof:lastmodified":1480841026,
+    "wof:lastmodified":1611182989,
     "wof:name":"25801",
     "wof:parent_id":102083349,
     "wof:placetype":"postalcode",

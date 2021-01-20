@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011872,
-    "geom:area_square_m":114177587.728195,
+    "geom:area_square_m":114177587.728385,
     "geom:bbox":"-90.216979,38.857948,-90.041366,39.028026",
     "geom:latitude":38.939777,
     "geom:longitude":-90.127572,
@@ -14,20 +14,22 @@
     "lbl:latitude":38.938538,
     "lbl:longitude":-90.125303,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Alton",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404499489,
         85633793,
-        102082849
+        102082849,
+        404499489,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784909"
     },
     "wof:country":"US",
-    "wof:geomhash":"bdfc7207d9c028e95ae255c5e0d28d8b",
+    "wof:geomhash":"3049ce78bab9594bde4745bf23bd1f35",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554734523,
-    "wof:lastmodified":1480910507,
+    "wof:lastmodified":1611184208,
     "wof:name":"62002",
     "wof:parent_id":404499489,
     "wof:placetype":"postalcode",

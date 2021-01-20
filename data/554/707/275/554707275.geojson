@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004201,
-    "geom:area_square_m":40218495.511783,
+    "geom:area_square_m":40218495.511764,
     "geom:bbox":"-76.796511,39.227187,-76.692936,39.308089",
     "geom:latitude":39.272675,
     "geom:longitude":-76.747435,
@@ -14,20 +14,26 @@
     "lbl:latitude":39.272857,
     "lbl:longitude":-76.747741,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Catonsville",
+    "mz:postal_locality_alt":[
+        "Baltimore",
+        "Bloomsbury"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688501,
         102191575,
         85633793,
+        102082193,
         85950177,
-        102082193
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766521"
     },
     "wof:country":"US",
-    "wof:geomhash":"ff9db617665fcf98167d2bdfc5ab7e40",
+    "wof:geomhash":"975b6e0ae72227aecc29c88c4e0389b1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554707275,
-    "wof:lastmodified":1480831124,
+    "wof:lastmodified":1611183140,
     "wof:name":"21228",
     "wof:parent_id":85950177,
     "wof:placetype":"postalcode",

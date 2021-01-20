@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014537,
-    "geom:area_square_m":138877793.819796,
+    "geom:area_square_m":138877793.819896,
     "geom:bbox":"-87.146439,39.338364,-86.942145,39.506173",
     "geom:latitude":39.411056,
     "geom:longitude":-87.058264,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.408055,
     "lbl:longitude":-87.056514,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Centerpoint",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404501237,
         85633793,
-        102087033
+        102087033,
+        404501237,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778400"
     },
     "wof:country":"US",
-    "wof:geomhash":"99206e9c4a2921d3c48b03602066ca7b",
+    "wof:geomhash":"48dddcd6da7d15208c89e7cf11d37560",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554723677,
-    "wof:lastmodified":1480789035,
+    "wof:lastmodified":1611183804,
     "wof:name":"47840",
     "wof:parent_id":404501237,
     "wof:placetype":"postalcode",

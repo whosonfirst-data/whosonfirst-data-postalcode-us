@@ -14,21 +14,26 @@
     "lbl:latitude":40.759167,
     "lbl:longitude":-73.979668,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"New York",
+    "mz:postal_locality_alt":[
+        "Manhattan"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404521211,
         85633793,
+        102082361,
+        404521211,
         85977539,
-        102082361
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761398"
     },
     "wof:country":"US",
-    "wof:geomhash":"4b323b5344fe5cc5bfa207b9409e5150",
+    "wof:geomhash":"742cc4ed4355e1fd4b32b380642d1548",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554785745,
-    "wof:lastmodified":1480831338,
+    "wof:lastmodified":1611183519,
     "wof:name":"10112",
     "wof:parent_id":85977539,
     "wof:placetype":"postalcode",

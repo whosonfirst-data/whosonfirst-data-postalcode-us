@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034797,
-    "geom:area_square_m":360143093.137634,
+    "geom:area_square_m":360143093.137554,
     "geom:bbox":"-95.308155,33.053024,-95.124639,33.288626",
     "geom:latitude":33.172802,
     "geom:longitude":-95.212226,
@@ -14,20 +14,26 @@
     "lbl:latitude":33.168595,
     "lbl:longitude":-95.215149,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mt Vernon",
+    "mz:postal_locality_alt":[
+        "Mount Vernon",
+        "Sulphur Springs"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102080659,
         101725707,
-        102080659
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12790602"
     },
     "wof:country":"US",
-    "wof:geomhash":"a9213cd17de6dff8c4e0da14c52a8e28",
+    "wof:geomhash":"793b4ed7f990ac7c1804b497f1f91731",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554744573,
-    "wof:lastmodified":1480903805,
+    "wof:lastmodified":1611184730,
     "wof:name":"75457",
     "wof:parent_id":101725707,
     "wof:placetype":"postalcode",

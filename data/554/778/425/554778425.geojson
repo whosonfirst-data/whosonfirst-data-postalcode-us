@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001405,
-    "geom:area_square_m":12956237.632569,
+    "geom:area_square_m":12956237.632568,
     "geom:bbox":"-70.686661,41.743717,-70.616478,41.80633",
     "geom:latitude":41.777041,
     "geom:longitude":-70.649152,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.777476,
     "lbl:longitude":-70.642148,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"East Wareham",
+    "mz:postal_locality_alt":[
+        "Wareham"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476567,
         85633793,
-        102084367
+        102084367,
+        404476567,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758876"
     },
     "wof:country":"US",
-    "wof:geomhash":"ddb0c7de540577bfa4069b76a0b95dd6",
+    "wof:geomhash":"1a11e481ea376dce666057cde50997e1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554778425,
-    "wof:lastmodified":1480801204,
+    "wof:lastmodified":1611183428,
     "wof:name":"02538",
     "wof:parent_id":404476567,
     "wof:placetype":"postalcode",

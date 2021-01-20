@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010045,
-    "geom:area_square_m":93217963.760485,
+    "geom:area_square_m":93217963.760426,
     "geom:bbox":"-96.271285,41.320839,-96.128711,41.42227",
     "geom:latitude":41.369799,
     "geom:longitude":-96.191375,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.36743,
     "lbl:longitude":-96.190148,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bennington",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688563,
         102191575,
-        404519983,
         85633793,
-        102082789
+        102082789,
+        404519983,
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787470"
     },
     "wof:country":"US",
-    "wof:geomhash":"76b22bfade557b3a655459fd39257b3c",
+    "wof:geomhash":"1fb192c3ec7ff70bb2c0e8e07a3c0bed",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554739395,
-    "wof:lastmodified":1480794640,
+    "wof:lastmodified":1611182665,
     "wof:name":"68007",
     "wof:parent_id":404519983,
     "wof:placetype":"postalcode",

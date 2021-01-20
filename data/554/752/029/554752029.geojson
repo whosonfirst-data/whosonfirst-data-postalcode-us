@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008648,
-    "geom:area_square_m":88690181.399881,
+    "geom:area_square_m":88690181.399784,
     "geom:bbox":"-117.802539,33.919137,-117.655335,34.023509",
     "geom:latitude":33.96433,
     "geom:longitude":-117.73601,
@@ -14,20 +14,25 @@
     "lbl:latitude":33.963723,
     "lbl:longitude":-117.738596,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Chino Hills",
+    "mz:postal_locality_alt":[
+        "Chino"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102085395,
         85923889,
-        102085395
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796086"
     },
     "wof:country":"US",
-    "wof:geomhash":"99b1e35d62be8a16b5cbf4c57572e893",
+    "wof:geomhash":"1a5086278c9c3c0907ff8307c27b4571",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554752029,
-    "wof:lastmodified":1480913409,
+    "wof:lastmodified":1611182543,
     "wof:name":"91709",
     "wof:parent_id":85923889,
     "wof:placetype":"postalcode",

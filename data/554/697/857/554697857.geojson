@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017215,
-    "geom:area_square_m":155771675.816657,
+    "geom:area_square_m":155771675.816693,
     "geom:bbox":"-72.382744,42.87613,-72.177315,43.064205",
     "geom:latitude":42.962703,
     "geom:longitude":-72.295543,
@@ -14,21 +14,29 @@
     "lbl:latitude":42.965044,
     "lbl:longitude":-72.294803,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Keene",
+    "mz:postal_locality_alt":[
+        "Surry",
+        "Gilsum",
+        "Dublin",
+        "Roxbury"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688689,
         102191575,
-        404477027,
         85633793,
+        102085643,
+        404477027,
         85975063,
-        102085643
+        85688689
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759192"
     },
     "wof:country":"US",
-    "wof:geomhash":"e717eb5b6f027648aa8ec7f81907c244",
+    "wof:geomhash":"ba7d4540f3db15c828df04695631488e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +49,7 @@
         }
     ],
     "wof:id":554697857,
-    "wof:lastmodified":1480809137,
+    "wof:lastmodified":1611184643,
     "wof:name":"03431",
     "wof:parent_id":85975063,
     "wof:placetype":"postalcode",

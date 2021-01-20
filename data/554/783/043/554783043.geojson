@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021039,
-    "geom:area_square_m":186449412.739754,
+    "geom:area_square_m":186449412.739668,
     "geom:bbox":"-87.72162,44.122672,-87.500766,44.327563",
     "geom:latitude":44.218357,
     "geom:longitude":-87.591656,
@@ -14,20 +14,25 @@
     "lbl:latitude":44.215871,
     "lbl:longitude":-87.594706,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Two Rivers",
+    "mz:postal_locality_alt":[
+        "Manitowoc"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404495269,
         85633793,
-        102081871
+        102081871,
+        404495269,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781263"
     },
     "wof:country":"US",
-    "wof:geomhash":"d4e9e308f44a2ae654e1a151493d8f37",
+    "wof:geomhash":"c140c86d191b3e046305e55d87c36e4e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554783043,
-    "wof:lastmodified":1480831082,
+    "wof:lastmodified":1611183897,
     "wof:name":"54241",
     "wof:parent_id":404495269,
     "wof:placetype":"postalcode",

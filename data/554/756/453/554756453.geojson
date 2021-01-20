@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008151,
-    "geom:area_square_m":69614816.972977,
+    "geom:area_square_m":69614816.972967,
     "geom:bbox":"-119.442048,46.256324,-119.314629,46.380129",
     "geom:latitude":46.316715,
     "geom:longitude":-119.379287,
@@ -14,20 +14,25 @@
     "lbl:latitude":46.313808,
     "lbl:longitude":-119.387768,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Richland",
+    "mz:postal_locality_alt":[
+        "West Richland"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688623,
         102191575,
         85633793,
+        102085367,
         101729983,
-        102085367
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12799581"
     },
     "wof:country":"US",
-    "wof:geomhash":"9a0e17c800aa0cfdd1af48e7a4e5eb14",
+    "wof:geomhash":"41005b829b3f6285e72502e40300ea85",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554756453,
-    "wof:lastmodified":1480811098,
+    "wof:lastmodified":1611184284,
     "wof:name":"99353",
     "wof:parent_id":101729983,
     "wof:placetype":"postalcode",

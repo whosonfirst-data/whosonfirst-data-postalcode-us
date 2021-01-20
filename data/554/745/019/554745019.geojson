@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017761,
-    "geom:area_square_m":184398787.359672,
+    "geom:area_square_m":184398787.359765,
     "geom:bbox":"-97.676799,32.797716,-97.493281,33.008833",
     "geom:latitude":32.900029,
     "geom:longitude":-97.565447,
@@ -13,19 +13,26 @@
     "lbl:latitude":32.900196,
     "lbl:longitude":-97.561179,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Azle",
+    "mz:postal_locality_alt":[
+        "Euless",
+        "Boyd",
+        "Cleburne"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688753,
-        102081109
+        102081109,
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12790866"
     },
     "wof:country":"US",
-    "wof:geomhash":"e03a87661f23f3e9cff958893b9d1dba",
+    "wof:geomhash":"e1a4c7d77bab0d4e392e98401fda7dc4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +43,7 @@
         }
     ],
     "wof:id":554745019,
-    "wof:lastmodified":1480840093,
+    "wof:lastmodified":1611185283,
     "wof:name":"76020",
     "wof:parent_id":102081109,
     "wof:placetype":"postalcode",

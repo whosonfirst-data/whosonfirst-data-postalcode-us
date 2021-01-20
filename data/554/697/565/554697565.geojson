@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001877,
-    "geom:area_square_m":17387769.543217,
+    "geom:area_square_m":17387769.543232,
     "geom:bbox":"-71.690704,41.455257,-71.626404,41.502275",
     "geom:latitude":41.477662,
     "geom:longitude":-71.654418,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.478948,
     "lbl:longitude":-71.652334,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Carolina",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688509,
         102191575,
-        404488339,
         85633793,
-        102081219
+        102081219,
+        404488339,
+        85688509
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758992"
     },
     "wof:country":"US",
-    "wof:geomhash":"850e14a38af1210430b32378df63e451",
+    "wof:geomhash":"95c22fee8cec9084e6e7e599788f4a96",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554697565,
-    "wof:lastmodified":1480829250,
+    "wof:lastmodified":1611184653,
     "wof:name":"02812",
     "wof:parent_id":404488339,
     "wof:placetype":"postalcode",

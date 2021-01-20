@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010691,
-    "geom:area_square_m":94270328.592706,
+    "geom:area_square_m":94270328.592667,
     "geom:bbox":"-72.442695,44.442354,-72.22289,44.584125",
     "geom:latitude":44.509273,
     "geom:longitude":-72.3471,
@@ -14,20 +14,25 @@
     "lbl:latitude":44.518714,
     "lbl:longitude":-72.348965,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hardwick",
+    "mz:postal_locality_alt":[
+        "Lyndon"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688763,
         102191575,
-        404527553,
         85633793,
-        102080755
+        102080755,
+        404527553,
+        85688763
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760136"
     },
     "wof:country":"US",
-    "wof:geomhash":"8642cf02b76c44851f6c09e2000df14b",
+    "wof:geomhash":"23e5d37ea6d46e5f9d10a5cd8179f55a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554699207,
-    "wof:lastmodified":1480906388,
+    "wof:lastmodified":1611184627,
     "wof:name":"05843",
     "wof:parent_id":404527553,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003582,
-    "geom:area_square_m":33603121.984653,
+    "geom:area_square_m":33603121.984638,
     "geom:bbox":"-75.547495,40.612188,-75.459585,40.702196",
     "geom:latitude":40.656827,
     "geom:longitude":-75.504575,
@@ -14,21 +14,28 @@
     "lbl:latitude":40.657428,
     "lbl:longitude":-75.504255,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Whitehall",
+    "mz:postal_locality_alt":[
+        "Hokendauqua",
+        "Allentown",
+        "Catasauqua"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404486089,
         85633793,
+        102081327,
+        404486089,
         101719963,
-        102081327
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765044"
     },
     "wof:country":"US",
-    "wof:geomhash":"8640790ac689b038d69aba5e7102cf27",
+    "wof:geomhash":"31205a79706ad670f952f08936156a38",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +48,7 @@
         }
     ],
     "wof:id":554705591,
-    "wof:lastmodified":1480832456,
+    "wof:lastmodified":1611184115,
     "wof:name":"18052",
     "wof:parent_id":101719963,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001881,
-    "geom:area_square_m":17497768.112492,
+    "geom:area_square_m":17497768.112465,
     "geom:bbox":"-73.270942,41.161141,-73.217769,41.231997",
     "geom:latitude":41.197184,
     "geom:longitude":-73.242274,
@@ -14,20 +14,26 @@
     "lbl:latitude":41.196583,
     "lbl:longitude":-73.243254,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fairfield",
+    "mz:postal_locality_alt":[
+        "Greenwich",
+        "Bridgeport"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688629,
         102191575,
-        404495947,
         85633793,
-        102084283
+        102084283,
+        404495947,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"23509625"
     },
     "wof:country":"US",
-    "wof:geomhash":"9aba459ef0b26bc4374ee7980f214275",
+    "wof:geomhash":"4d6d0d678f1c4cfb10e6e43c3f882a90",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554785421,
-    "wof:lastmodified":1480799396,
+    "wof:lastmodified":1611183506,
     "wof:name":"06825",
     "wof:parent_id":404495947,
     "wof:placetype":"postalcode",

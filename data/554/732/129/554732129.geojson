@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0314,
-    "geom:area_square_m":266385894.001123,
+    "geom:area_square_m":266385894.001083,
     "geom:bbox":"-100.459484,46.633396,-100.079695,46.764425",
     "geom:latitude":46.679486,
     "geom:longitude":-100.259331,
@@ -14,20 +14,22 @@
     "lbl:latitude":46.678439,
     "lbl:longitude":-100.265129,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Moffit",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688525,
         102191575,
-        404478829,
         85633793,
-        102082107
+        102082107,
+        404478829,
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12783391"
     },
     "wof:country":"US",
-    "wof:geomhash":"b139071f93ee1e08a018e2a34c0d4792",
+    "wof:geomhash":"d127601dcd0de8ed07c6fa94c8cc786b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554732129,
-    "wof:lastmodified":1480831100,
+    "wof:lastmodified":1611184380,
     "wof:name":"58560",
     "wof:parent_id":404478829,
     "wof:placetype":"postalcode",

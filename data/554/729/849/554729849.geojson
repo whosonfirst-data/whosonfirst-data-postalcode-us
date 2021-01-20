@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000134,
-    "geom:area_square_m":1191976.63694,
+    "geom:area_square_m":1191976.636943,
     "geom:bbox":"-93.866637,44.070251,-93.848011,44.08735",
     "geom:latitude":44.080438,
     "geom:longitude":-93.854419,
@@ -14,21 +14,26 @@
     "lbl:latitude":44.080438,
     "lbl:longitude":-93.854419,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"St Clair",
+    "mz:postal_locality_alt":[
+        "Saint Clair"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404509315,
         85633793,
+        102087625,
+        404509315,
         85953335,
-        102087625
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782236"
     },
     "wof:country":"US",
-    "wof:geomhash":"8923c6cf3c1a25501ef07638e0e546af",
+    "wof:geomhash":"dd87787cd3ac2a59b95442765cb15454",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554729849,
-    "wof:lastmodified":1480784872,
+    "wof:lastmodified":1611185432,
     "wof:name":"56080",
     "wof:parent_id":85953335,
     "wof:placetype":"postalcode",

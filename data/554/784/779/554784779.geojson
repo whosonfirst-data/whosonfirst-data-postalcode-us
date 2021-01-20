@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00117,
-    "geom:area_square_m":11418401.834633,
+    "geom:area_square_m":11418401.834644,
     "geom:bbox":"-122.332636,37.845543,-122.286754,37.89786",
     "geom:latitude":37.865381,
     "geom:longitude":-122.3093,
@@ -13,20 +13,25 @@
     "lbl:latitude":37.863914,
     "lbl:longitude":-122.306465,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Berkeley",
+    "mz:postal_locality_alt":[
+        "Albany"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086959,
         85921915,
-        102086959
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12797428"
     },
     "wof:country":"US",
-    "wof:geomhash":"3d08e0d09cd736416dc0947646c78401",
+    "wof:geomhash":"66e91bb09ffb6f740272db67d8209ef3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554784779,
-    "wof:lastmodified":1480915081,
+    "wof:lastmodified":1611183943,
     "wof:name":"94710",
     "wof:parent_id":85921915,
     "wof:placetype":"postalcode",

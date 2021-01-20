@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014523,
-    "geom:area_square_m":137123192.654352,
+    "geom:area_square_m":137123192.654316,
     "geom:bbox":"-84.808916,40.092537,-84.708429,40.338139",
     "geom:latitude":40.218712,
     "geom:longitude":-84.768668,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.215185,
     "lbl:longitude":-84.760567,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Union City",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404524483,
         85633793,
-        102084823
+        102084823,
+        404524483,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777271"
     },
     "wof:country":"US",
-    "wof:geomhash":"9d38ce6580e234f5771df323039a515f",
+    "wof:geomhash":"ebf4c0e1a32a407e534eb0a831d3d213",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554721941,
-    "wof:lastmodified":1480916346,
+    "wof:lastmodified":1611184959,
     "wof:name":"45390",
     "wof:parent_id":404524483,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007434,
-    "geom:area_square_m":75476059.324986,
+    "geom:area_square_m":75476059.324959,
     "geom:bbox":"-82.38754,34.728797,-82.254825,34.87839",
     "geom:latitude":34.811548,
     "geom:longitude":-82.331313,
@@ -13,20 +13,26 @@
     "lbl:latitude":34.81204,
     "lbl:longitude":-82.330021,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Greenville",
+    "mz:postal_locality_alt":[
+        "Mauldin",
+        "Greer"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688683,
         102191575,
         85633793,
+        102085747,
         101721075,
-        102085747
+        85688683
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770295"
     },
     "wof:country":"US",
-    "wof:geomhash":"fb77c0b2ee00c3690499dae06b0673a8",
+    "wof:geomhash":"a9a86f591c70cd082005163b8f2f23b2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554712365,
-    "wof:lastmodified":1480805764,
+    "wof:lastmodified":1611183692,
     "wof:name":"29607",
     "wof:parent_id":101721075,
     "wof:placetype":"postalcode",

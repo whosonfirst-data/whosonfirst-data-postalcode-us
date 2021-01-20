@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041174,
-    "geom:area_square_m":361454531.178639,
+    "geom:area_square_m":361454531.178582,
     "geom:bbox":"-123.563023,44.672631,-123.162417,44.897649",
     "geom:latitude":44.76919,
     "geom:longitude":-123.339144,
@@ -14,19 +14,24 @@
     "lbl:latitude":44.766836,
     "lbl:longitude":-123.344975,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Monmouth",
+    "mz:postal_locality_alt":[
+        "Salem"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688513,
-        102081601
+        102081601,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12798606"
     },
     "wof:country":"US",
-    "wof:geomhash":"67e61eb43912a9314ec2bd506eeab81f",
+    "wof:geomhash":"05eb55c40043c471d26fab8f0da0603f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554754819,
-    "wof:lastmodified":1480833651,
+    "wof:lastmodified":1611182880,
     "wof:name":"97361",
     "wof:parent_id":102081601,
     "wof:placetype":"postalcode",

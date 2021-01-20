@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020532,
-    "geom:area_square_m":196978752.528029,
+    "geom:area_square_m":196978752.528015,
     "geom:bbox":"-74.924135,39.022801,-74.708259,39.204699",
     "geom:latitude":39.117133,
     "geom:longitude":-74.825864,
@@ -14,20 +14,33 @@
     "lbl:latitude":39.121749,
     "lbl:longitude":-74.83443,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cape May Court House",
+    "mz:postal_locality_alt":[
+        "Cape May Ct Hse",
+        "Cape May Ch",
+        "Green Creek",
+        "Cape May C H",
+        "Middle Township",
+        "South Seaville",
+        "Cape May",
+        "South Dennis",
+        "Egg Harbor Township"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477949,
         85633793,
-        102086777
+        102086777,
+        404477949,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761082"
     },
     "wof:country":"US",
-    "wof:geomhash":"ef960fd267280233465e4a2398034d6f",
+    "wof:geomhash":"091ed1e883775ce5093818d8e24801ab",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +52,7 @@
         }
     ],
     "wof:id":554700493,
-    "wof:lastmodified":1480913297,
+    "wof:lastmodified":1611183201,
     "wof:name":"08210",
     "wof:parent_id":404477949,
     "wof:placetype":"postalcode",

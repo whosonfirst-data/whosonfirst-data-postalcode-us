@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001537,
-    "geom:area_square_m":15102265.761404,
+    "geom:area_square_m":15102265.761398,
     "geom:bbox":"-121.941725,37.368007,-121.862864,37.406952",
     "geom:latitude":37.387104,
     "geom:longitude":-121.897415,
@@ -13,20 +13,25 @@
     "lbl:latitude":37.387105,
     "lbl:longitude":-121.897415,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"San Jose",
+    "mz:postal_locality_alt":[
+        "Milpitas"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102081673,
         85922347,
-        102081673
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12797582"
     },
     "wof:country":"US",
-    "wof:geomhash":"f49965abe7e3bdbd72266a9b7cffa876",
+    "wof:geomhash":"daf92465116f6760a5ff380d6c33152d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554753393,
-    "wof:lastmodified":1480829310,
+    "wof:lastmodified":1611182955,
     "wof:name":"95131",
     "wof:parent_id":85922347,
     "wof:placetype":"postalcode",

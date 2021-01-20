@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00319,
-    "geom:area_square_m":34317225.343084,
+    "geom:area_square_m":34317225.343034,
     "geom:bbox":"-98.411047,29.520809,-98.315351,29.59184",
     "geom:latitude":29.555526,
     "geom:longitude":-98.361762,
@@ -13,20 +13,26 @@
     "lbl:latitude":29.555818,
     "lbl:longitude":-98.361905,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"San Antonio",
+    "mz:postal_locality_alt":[
+        "Live Oak",
+        "Elmendorf"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102082471,
         101724653,
-        102082471
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12791998"
     },
     "wof:country":"US",
-    "wof:geomhash":"6faab492c73ce6aafbfe7f19b24f5a88",
+    "wof:geomhash":"c5aed7be97ee317a25b83b92d5ad9a23",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554746745,
-    "wof:lastmodified":1480790250,
+    "wof:lastmodified":1611184034,
     "wof:name":"78233",
     "wof:parent_id":101724653,
     "wof:placetype":"postalcode",

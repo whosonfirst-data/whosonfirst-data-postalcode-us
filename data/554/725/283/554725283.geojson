@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007839,
-    "geom:area_square_m":66987783.846049,
+    "geom:area_square_m":66987783.846012,
     "geom:bbox":"-84.593156,46.215679,-84.383815,46.358956",
     "geom:latitude":46.282882,
     "geom:longitude":-84.46861,
@@ -14,20 +14,22 @@
     "lbl:latitude":46.254145,
     "lbl:longitude":-84.434511,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Kinross",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404507191,
         85633793,
-        102083033
+        102083033,
+        404507191,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779531"
     },
     "wof:country":"US",
-    "wof:geomhash":"023bbaf8721e9bf86249a683e1fcbdcb",
+    "wof:geomhash":"27f7008b038722535851c3d63b943aeb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554725283,
-    "wof:lastmodified":1480843139,
+    "wof:lastmodified":1611183275,
     "wof:name":"49752",
     "wof:parent_id":404507191,
     "wof:placetype":"postalcode",

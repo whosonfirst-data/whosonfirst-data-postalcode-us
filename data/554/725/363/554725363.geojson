@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016651,
-    "geom:area_square_m":143361822.675528,
+    "geom:area_square_m":143361822.675405,
     "geom:bbox":"-87.989829,45.756539,-87.829268,45.986147",
     "geom:latitude":45.868167,
     "geom:longitude":-87.905389,
@@ -14,20 +14,22 @@
     "lbl:latitude":45.867201,
     "lbl:longitude":-87.878923,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Norway",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404507321,
         85633793,
-        102083107
+        102083107,
+        404507321,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779613"
     },
     "wof:country":"US",
-    "wof:geomhash":"1cbf61d087717002452a57d03befc31a",
+    "wof:geomhash":"004c12b955d1c72eecf45e2de8e350fb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554725363,
-    "wof:lastmodified":1480837920,
+    "wof:lastmodified":1611183256,
     "wof:name":"49870",
     "wof:parent_id":404507321,
     "wof:placetype":"postalcode",

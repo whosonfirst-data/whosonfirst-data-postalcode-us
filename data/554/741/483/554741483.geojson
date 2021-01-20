@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015835,
-    "geom:area_square_m":166450123.518522,
+    "geom:area_square_m":166450123.518675,
     "geom:bbox":"-93.50265,31.666533,-93.337505,31.894442",
     "geom:latitude":31.778161,
     "geom:longitude":-93.410559,
@@ -14,19 +14,24 @@
     "lbl:latitude":31.777653,
     "lbl:longitude":-93.415279,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Marthaville",
+    "mz:postal_locality_alt":[
+        "Belmont"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688735,
-        102083811
+        102083811,
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12788791"
     },
     "wof:country":"US",
-    "wof:geomhash":"9ed4d32eacf69bef6ad761577a63f8ab",
+    "wof:geomhash":"ffb7d27cf0ac893e52559ee3f328fc49",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554741483,
-    "wof:lastmodified":1480838003,
+    "wof:lastmodified":1611184046,
     "wof:name":"71450",
     "wof:parent_id":102083811,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035342,
-    "geom:area_square_m":333311424.441513,
+    "geom:area_square_m":333311424.441482,
     "geom:bbox":"-83.18983,40.170776,-82.929233,40.401155",
     "geom:latitude":40.296788,
     "geom:longitude":-83.06067,
@@ -14,21 +14,27 @@
     "lbl:latitude":40.297786,
     "lbl:longitude":-83.060181,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Delaware",
+    "mz:postal_locality_alt":[
+        "Lewis Center",
+        "Powell"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404523455,
         85633793,
+        102084739,
+        404523455,
         101713495,
-        102084739
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776089"
     },
     "wof:country":"US",
-    "wof:geomhash":"ceeefb82cd804a2570e269ced9d81ff3",
+    "wof:geomhash":"3f41c309ca4c410afa1b4cf47d4b6c72",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554720219,
-    "wof:lastmodified":1480838360,
+    "wof:lastmodified":1611185455,
     "wof:name":"43015",
     "wof:parent_id":101713495,
     "wof:placetype":"postalcode",

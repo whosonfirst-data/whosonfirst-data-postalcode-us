@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00084,
-    "geom:area_square_m":7512508.645104,
+    "geom:area_square_m":7512508.645105,
     "geom:bbox":"-70.284471,43.645063,-70.236193,43.676981",
     "geom:latitude":43.662661,
     "geom:longitude":-70.257267,
@@ -14,21 +14,27 @@
     "lbl:latitude":43.662607,
     "lbl:longitude":-70.257949,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Portland",
+    "mz:postal_locality_alt":[
+        "Falmouth",
+        "Cape Elizabeth"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404475429,
         85633793,
+        102087463,
+        404475429,
         85948877,
-        102087463
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759444"
     },
     "wof:country":"US",
-    "wof:geomhash":"ea7eca05373e1495e18778e25870832a",
+    "wof:geomhash":"91468a8c86081edb4587c3c0d7e28766",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554778707,
-    "wof:lastmodified":1480785910,
+    "wof:lastmodified":1611183427,
     "wof:name":"04101",
     "wof:parent_id":85948877,
     "wof:placetype":"postalcode",

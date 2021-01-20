@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033486,
-    "geom:area_square_m":343231019.376658,
+    "geom:area_square_m":343231019.376712,
     "geom:bbox":"-80.189856,33.900408,-79.928958,34.16693",
     "geom:latitude":34.011209,
     "geom:longitude":-80.085373,
@@ -14,19 +14,24 @@
     "lbl:latitude":34.012164,
     "lbl:longitude":-80.085577,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lynchburg",
+    "mz:postal_locality_alt":[
+        "Alcolu"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688683,
-        102085519
+        102085519,
+        85688683
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770003"
     },
     "wof:country":"US",
-    "wof:geomhash":"0de59649c66d01a3167d498745bd5167",
+    "wof:geomhash":"5d9cb9c29cd8cf68f4478d44c3d4d045",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554711957,
-    "wof:lastmodified":1480814167,
+    "wof:lastmodified":1611185323,
     "wof:name":"29080",
     "wof:parent_id":102085519,
     "wof:placetype":"postalcode",

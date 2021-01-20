@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009917,
-    "geom:area_square_m":93371067.748536,
+    "geom:area_square_m":93371067.748614,
     "geom:bbox":"-84.70784,40.351721,-84.566303,40.45967",
     "geom:latitude":40.407098,
     "geom:longitude":-84.628502,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.410203,
     "lbl:longitude":-84.622937,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Saint Henry",
+    "mz:postal_locality_alt":[
+        "St Henry"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404524049,
         85633793,
-        102083647
+        102083647,
+        404524049,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777517"
     },
     "wof:country":"US",
-    "wof:geomhash":"fa729356f4a87b70e75e0d26f9c8a7b5",
+    "wof:geomhash":"87f63fa73017d6a8b63c0ed70c0a7bfe",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554722337,
-    "wof:lastmodified":1480838072,
+    "wof:lastmodified":1611183212,
     "wof:name":"45883",
     "wof:parent_id":404524049,
     "wof:placetype":"postalcode",

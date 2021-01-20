@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000902,
-    "geom:area_square_m":8809116.158192,
+    "geom:area_square_m":8809116.158215,
     "geom:bbox":"-122.320248,37.817431,-122.267112,37.850726",
     "geom:latitude":37.83684,
     "geom:longitude":-122.289214,
@@ -13,20 +13,25 @@
     "lbl:latitude":37.836844,
     "lbl:longitude":-122.289143,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Emeryville",
+    "mz:postal_locality_alt":[
+        "Oakland"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086959,
         85921905,
-        102086959
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12797395"
     },
     "wof:country":"US",
-    "wof:geomhash":"d60591263dc8f27ed491cb99892a4a01",
+    "wof:geomhash":"c96cb6a2778cb6d270d80fc01b8d1733",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554784773,
-    "wof:lastmodified":1480915080,
+    "wof:lastmodified":1611183960,
     "wof:name":"94608",
     "wof:parent_id":85921905,
     "wof:placetype":"postalcode",

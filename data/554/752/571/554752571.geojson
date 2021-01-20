@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001714,
-    "geom:area_square_m":17598167.534512,
+    "geom:area_square_m":17598167.534518,
     "geom:bbox":"-117.885057,33.853484,-117.81626,33.909894",
     "geom:latitude":33.880799,
     "geom:longitude":-117.85519,
@@ -13,20 +13,25 @@
     "lbl:latitude":33.881158,
     "lbl:longitude":-117.854783,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Placentia",
+    "mz:postal_locality_alt":[
+        "Anaheim"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102080847,
         85923067,
-        102080847
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796671"
     },
     "wof:country":"US",
-    "wof:geomhash":"48d3feffa07d2197a2c09fe5ca5cdf26",
+    "wof:geomhash":"78e13c61c4fc03522de90c22202435f8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554752571,
-    "wof:lastmodified":1480906255,
+    "wof:lastmodified":1611182553,
     "wof:name":"92870",
     "wof:parent_id":85923067,
     "wof:placetype":"postalcode",

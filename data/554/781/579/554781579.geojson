@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003507,
-    "geom:area_square_m":39109030.154356,
+    "geom:area_square_m":39109030.154386,
     "geom:bbox":"-80.381997,25.576306,-80.287641,25.630735",
     "geom:latitude":25.606185,
     "geom:longitude":-80.342611,
@@ -13,20 +13,28 @@
     "lbl:latitude":25.606126,
     "lbl:longitude":-80.343496,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Miami",
+    "mz:postal_locality_alt":[
+        "Palmetto Bay",
+        "Cutler Bay",
+        "Village of Palmetto Bay",
+        "Perrine"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688651,
         102191575,
         85633793,
+        102085771,
         85933623,
-        102085771
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12772167"
     },
     "wof:country":"US",
-    "wof:geomhash":"867fab97ecc0a99e27eb4c8e0c6db99e",
+    "wof:geomhash":"f391feb711f7526e5e9dc92934aebaae",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +46,7 @@
         }
     ],
     "wof:id":554781579,
-    "wof:lastmodified":1480806627,
+    "wof:lastmodified":1611184838,
     "wof:name":"33157",
     "wof:parent_id":85933623,
     "wof:placetype":"postalcode",

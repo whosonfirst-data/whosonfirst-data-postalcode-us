@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.066224,
-    "geom:area_square_m":574514543.976908,
+    "geom:area_square_m":574514543.976885,
     "geom:bbox":"-100.928109,45.255482,-100.282662,45.602712",
     "geom:latitude":45.44469,
     "geom:longitude":-100.509538,
@@ -14,20 +14,27 @@
     "lbl:latitude":45.455822,
     "lbl:longitude":-100.549592,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mobridge",
+    "mz:postal_locality_alt":[
+        "Mc Intosh",
+        "Dupree",
+        "Pollock"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688693,
         102191575,
-        404488631,
         85633793,
-        102086873
+        102086873,
+        404488631,
+        85688693
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12783006"
     },
     "wof:country":"US",
-    "wof:geomhash":"f42335c96afe639244fd6505781f4781",
+    "wof:geomhash":"cc920768fe0b8259c5c213cb199c216a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554731395,
-    "wof:lastmodified":1480914313,
+    "wof:lastmodified":1611183073,
     "wof:name":"57601",
     "wof:parent_id":404488631,
     "wof:placetype":"postalcode",

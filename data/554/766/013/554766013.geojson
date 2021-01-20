@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000937,
-    "geom:area_square_m":8413318.656555,
+    "geom:area_square_m":8413318.656565,
     "geom:bbox":"-72.115302,43.424586,-72.053802,43.482834",
     "geom:latitude":43.448929,
     "geom:longitude":-72.088715,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.449753,
     "lbl:longitude":-72.092311,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Georges Mills",
+    "mz:postal_locality_alt":[
+        "Sunapee"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688689,
         102191575,
-        404477081,
         85633793,
-        102086583
+        102086583,
+        404477081,
+        85688689
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759256"
     },
     "wof:country":"US",
-    "wof:geomhash":"08d933564b84a57d62d0aac2b5e241d3",
+    "wof:geomhash":"e88f384cafbb87c3f7d07c8ad551b3cc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554766013,
-    "wof:lastmodified":1480913718,
+    "wof:lastmodified":1611184592,
     "wof:name":"03751",
     "wof:parent_id":404477081,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005813,
-    "geom:area_square_m":55037264.508812,
+    "geom:area_square_m":55037264.508784,
     "geom:bbox":"-82.924262,39.979298,-82.822641,40.082705",
     "geom:latitude":40.035618,
     "geom:longitude":-82.869847,
@@ -13,21 +13,26 @@
     "lbl:latitude":40.035763,
     "lbl:longitude":-82.870875,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Columbus",
+    "mz:postal_locality_alt":[
+        "Gahanna"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404523497,
         85633793,
+        102080969,
+        404523497,
         101712403,
-        102080969
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776222"
     },
     "wof:country":"US",
-    "wof:geomhash":"8157c204594bef5f3fa408e3454f84cd",
+    "wof:geomhash":"77b98fe1b8f470d8c6b201787bbbe668",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554720439,
-    "wof:lastmodified":1480903871,
+    "wof:lastmodified":1611185458,
     "wof:name":"43230",
     "wof:parent_id":101712403,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006451,
-    "geom:area_square_m":60596854.976991,
+    "geom:area_square_m":60596854.976844,
     "geom:bbox":"-80.483447,40.477605,-80.376847,40.620774",
     "geom:latitude":40.562182,
     "geom:longitude":-80.438776,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.563665,
     "lbl:longitude":-80.434517,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hookstown",
+    "mz:postal_locality_alt":[
+        "Lawrence"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404484449,
         85633793,
-        102081323
+        102081323,
+        404484449,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763572"
     },
     "wof:country":"US",
-    "wof:geomhash":"0ca7f40848a4141ed159c6305e53c07b",
+    "wof:geomhash":"fdc048926438e064c60af9c69f0191cc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554703403,
-    "wof:lastmodified":1480832488,
+    "wof:lastmodified":1611184480,
     "wof:name":"15050",
     "wof:parent_id":404484449,
     "wof:placetype":"postalcode",

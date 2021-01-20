@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012219,
-    "geom:area_square_m":116329570.657857,
+    "geom:area_square_m":116329570.657885,
     "geom:bbox":"-77.65117,39.57791,-77.459821,39.720409",
     "geom:latitude":39.651577,
     "geom:longitude":-77.555045,
@@ -14,19 +14,25 @@
     "lbl:latitude":39.651841,
     "lbl:longitude":-77.553573,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Smithsburg",
+    "mz:postal_locality_alt":[
+        "Cavetown",
+        "Chewsville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688501,
-        102082189
+        102082189,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766721"
     },
     "wof:country":"US",
-    "wof:geomhash":"823a7f47ee795279db994c50ac7300ab",
+    "wof:geomhash":"751ad62bc1ae50b4002667e45df8628e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554707471,
-    "wof:lastmodified":1480825447,
+    "wof:lastmodified":1611183136,
     "wof:name":"21783",
     "wof:parent_id":102082189,
     "wof:placetype":"postalcode",

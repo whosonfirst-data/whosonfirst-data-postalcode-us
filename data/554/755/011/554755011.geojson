@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004681,
-    "geom:area_square_m":41537397.409606,
+    "geom:area_square_m":41537397.409542,
     "geom:bbox":"-122.727563,44.098574,-122.581844,44.183453",
     "geom:latitude":44.137095,
     "geom:longitude":-122.645878,
@@ -14,19 +14,24 @@
     "lbl:latitude":44.164724,
     "lbl:longitude":-122.620682,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Walterville",
+    "mz:postal_locality_alt":[
+        "Leaburg"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688513,
-        102081603
+        102081603,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12798712"
     },
     "wof:country":"US",
-    "wof:geomhash":"5e53b0e15b7c63b41c925d0589ef1510",
+    "wof:geomhash":"b9469c83264b20e59d83c4cb556e690e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554755011,
-    "wof:lastmodified":1480832701,
+    "wof:lastmodified":1611182594,
     "wof:name":"97489",
     "wof:parent_id":102081603,
     "wof:placetype":"postalcode",

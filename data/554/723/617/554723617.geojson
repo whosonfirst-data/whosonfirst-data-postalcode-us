@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011532,
-    "geom:area_square_m":111821748.618691,
+    "geom:area_square_m":111821748.618593,
     "geom:bbox":"-87.507796,38.266951,-87.404728,38.43632",
     "geom:latitude":38.352204,
     "geom:longitude":-87.447357,
@@ -14,20 +14,22 @@
     "lbl:latitude":38.353484,
     "lbl:longitude":-87.451209,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Francisco",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404500735,
         85633793,
-        102086375
+        102086375,
+        404500735,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778339"
     },
     "wof:country":"US",
-    "wof:geomhash":"ce51a5525276af65610a91fe4d7ae1dd",
+    "wof:geomhash":"3ac61c8ebd2d660beeb088b96ea410c2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554723617,
-    "wof:lastmodified":1480910414,
+    "wof:lastmodified":1611183781,
     "wof:name":"47649",
     "wof:parent_id":404500735,
     "wof:placetype":"postalcode",

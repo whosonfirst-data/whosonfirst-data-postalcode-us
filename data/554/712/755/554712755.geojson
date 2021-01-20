@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004345,
-    "geom:area_square_m":44611814.877117,
+    "geom:area_square_m":44611814.877135,
     "geom:bbox":"-84.061216,33.824002,-83.955326,33.902563",
     "geom:latitude":33.861633,
     "geom:longitude":-84.017781,
@@ -13,20 +13,25 @@
     "lbl:latitude":33.861019,
     "lbl:longitude":-84.017993,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Snellville",
+    "mz:postal_locality_alt":[
+        "Lawrenceville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688535,
         102191575,
         85633793,
+        102082967,
         85936303,
-        102082967
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770556"
     },
     "wof:country":"US",
-    "wof:geomhash":"78714b60fa319b318d1bc569e1b851fb",
+    "wof:geomhash":"a838a1d8f85aa3b573a0c4728bf5d8c1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554712755,
-    "wof:lastmodified":1480792476,
+    "wof:lastmodified":1611183691,
     "wof:name":"30078",
     "wof:parent_id":85936303,
     "wof:placetype":"postalcode",

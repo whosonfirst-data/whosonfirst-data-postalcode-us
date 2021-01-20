@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010259,
-    "geom:area_square_m":98022882.252224,
+    "geom:area_square_m":98022882.252126,
     "geom:bbox":"-112.801564,39.308941,-112.652004,39.4894",
     "geom:latitude":39.402158,
     "geom:longitude":-112.725095,
@@ -14,19 +14,24 @@
     "lbl:latitude":39.401963,
     "lbl:longitude":-112.722943,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hinckley",
+    "mz:postal_locality_alt":[
+        "Fillmore"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688567,
-        102083537
+        102083537,
+        85688567
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12794285"
     },
     "wof:country":"US",
-    "wof:geomhash":"f1cdfafc16d1a8e00c29be96244b355f",
+    "wof:geomhash":"c5268db705e11d1db027a477ac9fe040",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554750093,
-    "wof:lastmodified":1480843029,
+    "wof:lastmodified":1611184568,
     "wof:name":"84635",
     "wof:parent_id":102083537,
     "wof:placetype":"postalcode",

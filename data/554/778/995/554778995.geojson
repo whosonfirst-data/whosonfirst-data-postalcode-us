@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007858,
-    "geom:area_square_m":72938550.194048,
+    "geom:area_square_m":72938550.194085,
     "geom:bbox":"-72.097221,41.304096,-71.976847,41.411598",
     "geom:latitude":41.35474,
     "geom:longitude":-72.043637,
@@ -13,21 +13,26 @@
     "lbl:latitude":41.354409,
     "lbl:longitude":-72.040266,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Groton",
+    "mz:postal_locality_alt":[
+        "Uncasville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688629,
         102191575,
-        404495745,
         85633793,
+        102084295,
+        404495745,
         85931373,
-        102084295
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760345"
     },
     "wof:country":"US",
-    "wof:geomhash":"4707a063d39e7bee33ce889b07ae944a",
+    "wof:geomhash":"08344693f52945241fde1708c8959a3a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554778995,
-    "wof:lastmodified":1480801960,
+    "wof:lastmodified":1611183436,
     "wof:name":"06340",
     "wof:parent_id":85931373,
     "wof:placetype":"postalcode",

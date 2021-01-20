@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001493,
-    "geom:area_square_m":13609482.382585,
+    "geom:area_square_m":13609482.382577,
     "geom:bbox":"-82.918422,42.475532,-82.868274,42.511554",
     "geom:latitude":42.494463,
     "geom:longitude":-82.893437,
@@ -13,21 +13,26 @@
     "lbl:latitude":42.494669,
     "lbl:longitude":-82.895039,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Saint Clair Shores",
+    "mz:postal_locality_alt":[
+        "St Clair Shores"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404507479,
         85633793,
+        102083047,
+        404507479,
         85951695,
-        102083047
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778577"
     },
     "wof:country":"US",
-    "wof:geomhash":"3734c31ea3f673d401a947ac909b2247",
+    "wof:geomhash":"c92657adeaa52008778606e5ba98957f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554782521,
-    "wof:lastmodified":1480838366,
+    "wof:lastmodified":1611183613,
     "wof:name":"48081",
     "wof:parent_id":85951695,
     "wof:placetype":"postalcode",

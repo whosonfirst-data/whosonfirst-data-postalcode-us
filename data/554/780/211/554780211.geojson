@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00112,
-    "geom:area_square_m":10139204.279458,
+    "geom:area_square_m":10139204.279443,
     "geom:bbox":"-78.921959,42.927969,-78.867833,42.97486",
     "geom:latitude":42.951726,
     "geom:longitude":-78.897825,
@@ -13,21 +13,26 @@
     "lbl:latitude":42.951932,
     "lbl:longitude":-78.898883,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Buffalo",
+    "mz:postal_locality_alt":[
+        "Tonawanda"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522329,
         85633793,
+        102082387,
+        404522329,
         85978023,
-        102082387
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763169"
     },
     "wof:country":"US",
-    "wof:geomhash":"69c6aa5ecf1fc83a00761dc16b85824e",
+    "wof:geomhash":"93e19d072cf4a20a9391f9b42a1289a1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554780211,
-    "wof:lastmodified":1480791303,
+    "wof:lastmodified":1611185163,
     "wof:name":"14207",
     "wof:parent_id":85978023,
     "wof:placetype":"postalcode",

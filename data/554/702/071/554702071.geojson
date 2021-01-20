@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031881,
-    "geom:area_square_m":286746118.322831,
+    "geom:area_square_m":286746118.323,
     "geom:bbox":"-76.529687,43.227519,-76.240236,43.44382",
     "geom:latitude":43.332158,
     "geom:longitude":-76.379188,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.329276,
     "lbl:longitude":-76.380655,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fulton",
+    "mz:postal_locality_alt":[
+        "Phoenix"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522877,
         85633793,
-        102081783
+        102081783,
+        404522877,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762642"
     },
     "wof:country":"US",
-    "wof:geomhash":"d3a58813e795ba1169a3c6573c837ae3",
+    "wof:geomhash":"cd933368ccd64d4e39f3cad865ff041f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554702071,
-    "wof:lastmodified":1480840597,
+    "wof:lastmodified":1611184140,
     "wof:name":"13069",
     "wof:parent_id":404522877,
     "wof:placetype":"postalcode",

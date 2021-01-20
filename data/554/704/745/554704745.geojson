@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017344,
-    "geom:area_square_m":162077188.968297,
+    "geom:area_square_m":162077188.96831,
     "geom:bbox":"-78.04831,40.820918,-77.823024,41.003204",
     "geom:latitude":40.909083,
     "geom:longitude":-77.932033,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.909068,
     "lbl:longitude":-77.932075,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Julian",
+    "mz:postal_locality_alt":[
+        "Beech Creek"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404483099,
         85633793,
-        102081369
+        102081369,
+        404483099,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764479"
     },
     "wof:country":"US",
-    "wof:geomhash":"c0336279b72f8fbf7d50e28a7bb35af0",
+    "wof:geomhash":"84f97c69617d44ab775ec4e50eafc6dc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554704745,
-    "wof:lastmodified":1480833141,
+    "wof:lastmodified":1611184524,
     "wof:name":"16844",
     "wof:parent_id":404483099,
     "wof:placetype":"postalcode",

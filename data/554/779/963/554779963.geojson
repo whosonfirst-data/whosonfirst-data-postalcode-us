@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002377,
-    "geom:area_square_m":22246813.53358,
+    "geom:area_square_m":22246813.533591,
     "geom:bbox":"-73.274219,40.801677,-73.147782,40.837105",
     "geom:latitude":40.818084,
     "geom:longitude":-73.213206,
@@ -13,21 +13,26 @@
     "lbl:latitude":40.818088,
     "lbl:longitude":-73.213209,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hauppauge",
+    "mz:postal_locality_alt":[
+        "Smithtown"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522517,
         85633793,
+        102082395,
+        404522517,
         85979693,
-        102082395
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761971"
     },
     "wof:country":"US",
-    "wof:geomhash":"c63dfdc838ae1ce522eff3b5c84e4a30",
+    "wof:geomhash":"a1d0aeeef36f34a3041c480608b5cb4c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554779963,
-    "wof:lastmodified":1480794860,
+    "wof:lastmodified":1611183964,
     "wof:name":"11788",
     "wof:parent_id":85979693,
     "wof:placetype":"postalcode",

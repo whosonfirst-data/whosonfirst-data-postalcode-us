@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00453,
-    "geom:area_square_m":43427964.995777,
+    "geom:area_square_m":43427964.995782,
     "geom:bbox":"-94.498387,39.120372,-94.399928,39.194837",
     "geom:latitude":39.16191,
     "geom:longitude":-94.449577,
@@ -14,21 +14,27 @@
     "lbl:latitude":39.158586,
     "lbl:longitude":-94.450909,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Kansas City",
+    "mz:postal_locality_alt":[
+        "Randolph",
+        "Birmingham"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404518075,
         85633793,
+        102081227,
+        404518075,
         85970739,
-        102081227
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786065"
     },
     "wof:country":"US",
-    "wof:geomhash":"0de125ece8ffee83b78de5d6f9f11808",
+    "wof:geomhash":"f63335a8dbe260962169c0e2779db7f5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554736607,
-    "wof:lastmodified":1480912211,
+    "wof:lastmodified":1611183050,
     "wof:name":"64161",
     "wof:parent_id":85970739,
     "wof:placetype":"postalcode",

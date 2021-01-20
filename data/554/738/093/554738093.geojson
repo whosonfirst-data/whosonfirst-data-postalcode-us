@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016613,
-    "geom:area_square_m":160024921.746206,
+    "geom:area_square_m":160024921.746174,
     "geom:bbox":"-95.84365,38.753229,-95.574538,38.870054",
     "geom:latitude":38.829376,
     "geom:longitude":-95.688462,
@@ -14,20 +14,22 @@
     "lbl:latitude":38.830266,
     "lbl:longitude":-95.688665,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Carbondale",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404502941,
         85633793,
-        102083421
+        102083421,
+        404502941,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786834"
     },
     "wof:country":"US",
-    "wof:geomhash":"c1a7698e8a93630408143fbd5fef6cb0",
+    "wof:geomhash":"5f51f8ef93e32870282250f1e202857b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554738093,
-    "wof:lastmodified":1480840140,
+    "wof:lastmodified":1611183123,
     "wof:name":"66414",
     "wof:parent_id":404502941,
     "wof:placetype":"postalcode",

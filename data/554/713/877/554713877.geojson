@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032307,
-    "geom:area_square_m":342391303.051507,
+    "geom:area_square_m":342391303.051693,
     "geom:bbox":"-81.936988,30.886511,-81.6374,31.100809",
     "geom:latitude":31.008271,
     "geom:longitude":-81.811411,
@@ -14,19 +14,24 @@
     "lbl:latitude":31.013362,
     "lbl:longitude":-81.819093,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"White Oak",
+    "mz:postal_locality_alt":[
+        "Woodbine"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688535,
-        102081693
+        102081693,
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12771276"
     },
     "wof:country":"US",
-    "wof:geomhash":"195d018341d08fb9bbbeed1b59b20f21",
+    "wof:geomhash":"224a02bbff9c8fea0529708684bed806",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554713877,
-    "wof:lastmodified":1480817477,
+    "wof:lastmodified":1611183324,
     "wof:name":"31568",
     "wof:parent_id":102081693,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003994,
-    "geom:area_square_m":37853830.379431,
+    "geom:area_square_m":37853830.379452,
     "geom:bbox":"-76.305191,39.919872,-76.208203,40.013933",
     "geom:latitude":39.95879,
     "geom:longitude":-76.265034,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.955413,
     "lbl:longitude":-76.263582,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Willow Street",
+    "mz:postal_locality_alt":[
+        "Refton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485341,
         85633793,
-        102081377
+        102081377,
+        404485341,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764840"
     },
     "wof:country":"US",
-    "wof:geomhash":"73c43c34d9b36d2dc1cd79f882ca8447",
+    "wof:geomhash":"d8d2ef1961b0a643b17c8e94edab3203",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554705311,
-    "wof:lastmodified":1480817413,
+    "wof:lastmodified":1611184126,
     "wof:name":"17584",
     "wof:parent_id":404485341,
     "wof:placetype":"postalcode",

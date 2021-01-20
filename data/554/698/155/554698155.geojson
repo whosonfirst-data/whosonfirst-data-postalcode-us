@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005982,
-    "geom:area_square_m":53391429.180872,
+    "geom:area_square_m":53391429.180859,
     "geom:bbox":"-70.336781,43.748655,-70.19501,43.848775",
     "geom:latitude":43.79743,
     "geom:longitude":-70.264899,
@@ -14,21 +14,27 @@
     "lbl:latitude":43.791796,
     "lbl:longitude":-70.264762,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cumberland Ctr",
+    "mz:postal_locality_alt":[
+        "Cumberland Center",
+        "Bridgton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404475523,
         85633793,
+        102087463,
+        404475523,
         85948989,
-        102087463
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759382"
     },
     "wof:country":"US",
-    "wof:geomhash":"51a4f675c49d9c67b4ef6bc8be1c19f4",
+    "wof:geomhash":"d4587efce62147b123b9b25b06e2ac45",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554698155,
-    "wof:lastmodified":1480785907,
+    "wof:lastmodified":1611184693,
     "wof:name":"04021",
     "wof:parent_id":85948989,
     "wof:placetype":"postalcode",

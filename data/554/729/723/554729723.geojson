@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012862,
-    "geom:area_square_m":113995374.97776,
+    "geom:area_square_m":113995374.977701,
     "geom:bbox":"-94.194183,44.153888,-94.002043,44.283079",
     "geom:latitude":44.212727,
     "geom:longitude":-94.088591,
@@ -13,20 +13,25 @@
     "lbl:latitude":44.219273,
     "lbl:longitude":-94.090329,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mankato",
+    "mz:postal_locality_alt":[
+        "North Mankato"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404513327,
         85633793,
-        102087597
+        102087597,
+        404513327,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782176"
     },
     "wof:country":"US",
-    "wof:geomhash":"268fe68ec43dd4fb55e34394badb65d8",
+    "wof:geomhash":"9cd5485124b6185321599cf2b957b33a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554729723,
-    "wof:lastmodified":1480784870,
+    "wof:lastmodified":1611185423,
     "wof:name":"56003",
     "wof:parent_id":404513327,
     "wof:placetype":"postalcode",

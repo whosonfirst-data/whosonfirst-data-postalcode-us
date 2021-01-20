@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001942,
-    "geom:area_square_m":18571599.764566,
+    "geom:area_square_m":18571599.764574,
     "geom:bbox":"-76.576547,39.307352,-76.496831,39.365452",
     "geom:latitude":39.339287,
     "geom:longitude":-76.53676,
@@ -13,20 +13,25 @@
     "lbl:latitude":39.338428,
     "lbl:longitude":-76.538877,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Baltimore",
+    "mz:postal_locality_alt":[
+        "Rosedale"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688501,
         102191575,
         85633793,
+        102081589,
         85949461,
-        102081589
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766499"
     },
     "wof:country":"US",
-    "wof:geomhash":"18055431658669b814227c1e0462a765",
+    "wof:geomhash":"1013398d609d10a97a9c30fd90717e32",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554780503,
-    "wof:lastmodified":1480831125,
+    "wof:lastmodified":1611185162,
     "wof:name":"21206",
     "wof:parent_id":85949461,
     "wof:placetype":"postalcode",

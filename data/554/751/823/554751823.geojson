@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000916,
-    "geom:area_square_m":9379507.751736,
+    "geom:area_square_m":9379507.751742,
     "geom:bbox":"-118.229156,34.11758,-118.180376,34.151626",
     "geom:latitude":34.137574,
     "geom:longitude":-118.207638,
@@ -13,20 +13,25 @@
     "lbl:latitude":34.137412,
     "lbl:longitude":-118.207607,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Los Angeles",
+    "mz:postal_locality_alt":[
+        "Eagle Rock"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086957,
         85923517,
-        102086957
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795649"
     },
     "wof:country":"US",
-    "wof:geomhash":"3d5335198982625447b58e2161111a0d",
+    "wof:geomhash":"0e852df75eed8c3fbca7bc401c967d1b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554751823,
-    "wof:lastmodified":1480912612,
+    "wof:lastmodified":1611184350,
     "wof:name":"90041",
     "wof:parent_id":85923517,
     "wof:placetype":"postalcode",

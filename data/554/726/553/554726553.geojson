@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049398,
-    "geom:area_square_m":453453728.982695,
+    "geom:area_square_m":453453728.982586,
     "geom:bbox":"-95.014686,41.935157,-94.745183,42.209856",
     "geom:latitude":42.066169,
     "geom:longitude":-94.869578,
@@ -13,20 +13,22 @@
     "lbl:latitude":42.065661,
     "lbl:longitude":-94.86966,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Carroll",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688713,
         102191575,
         85633793,
+        102086569,
         85943561,
-        102086569
+        85688713
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12780295"
     },
     "wof:country":"US",
-    "wof:geomhash":"7bb1a5a9a6654553a54a189df591e2eb",
+    "wof:geomhash":"3e8c23a915c59f3975f135df83f51af4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +40,7 @@
         }
     ],
     "wof:id":554726553,
-    "wof:lastmodified":1480914507,
+    "wof:lastmodified":1611184887,
     "wof:name":"51401",
     "wof:parent_id":85943561,
     "wof:placetype":"postalcode",

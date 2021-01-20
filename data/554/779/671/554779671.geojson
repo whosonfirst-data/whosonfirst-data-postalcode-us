@@ -14,21 +14,30 @@
     "lbl:latitude":40.700647,
     "lbl:longitude":-73.889423,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ridgewood",
+    "mz:postal_locality_alt":[
+        "Glendale",
+        "Flushing",
+        "Queens",
+        "New York",
+        "Brooklyn"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404521211,
         85633793,
+        102082361,
+        404521211,
         85977539,
-        102082361
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761798"
     },
     "wof:country":"US",
-    "wof:geomhash":"ea0559e6fba8fc93f8c6a08f2592ff61",
+    "wof:geomhash":"c99623859532243f7a6e0eddd8d798f2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +50,7 @@
         }
     ],
     "wof:id":554779671,
-    "wof:lastmodified":1480793439,
+    "wof:lastmodified":1611183981,
     "wof:name":"11385",
     "wof:parent_id":85977539,
     "wof:placetype":"postalcode",

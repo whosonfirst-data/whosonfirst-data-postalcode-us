@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027646,
-    "geom:area_square_m":283075835.843691,
+    "geom:area_square_m":283075835.843455,
     "geom:bbox":"-80.650434,33.976074,-80.389358,34.189839",
     "geom:latitude":34.097725,
     "geom:longitude":-80.530369,
@@ -14,20 +14,25 @@
     "lbl:latitude":34.095053,
     "lbl:longitude":-80.526184,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Rembert",
+    "mz:postal_locality_alt":[
+        "New Zion"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688683,
         102191575,
         85633793,
+        102085745,
         101721331,
-        102085745
+        85688683
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770027"
     },
     "wof:country":"US",
-    "wof:geomhash":"28d03b6f26ed52a904bceb1bdc746de5",
+    "wof:geomhash":"5d1705d2455d82e8d30c6e5ddf152a10",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554712001,
-    "wof:lastmodified":1480814920,
+    "wof:lastmodified":1611183708,
     "wof:name":"29128",
     "wof:parent_id":101721331,
     "wof:placetype":"postalcode",

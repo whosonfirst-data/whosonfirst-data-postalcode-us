@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015696,
-    "geom:area_square_m":149263066.031904,
+    "geom:area_square_m":149263066.032003,
     "geom:bbox":"-94.863529,39.631245,-94.677465,39.82137",
     "geom:latitude":39.72867,
     "geom:longitude":-94.75989,
@@ -13,21 +13,26 @@
     "lbl:latitude":39.728509,
     "lbl:longitude":-94.763541,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"St Joseph",
+    "mz:postal_locality_alt":[
+        "Saint Joseph"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404516447,
         85633793,
+        102086153,
+        404516447,
         85970783,
-        102086153
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786166"
     },
     "wof:country":"US",
-    "wof:geomhash":"776ee940a97c3eece5fb87c29a5db168",
+    "wof:geomhash":"84568a6259e555e109ce19a8570e3298",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554736787,
-    "wof:lastmodified":1480910353,
+    "wof:lastmodified":1611183053,
     "wof:name":"64507",
     "wof:parent_id":85970783,
     "wof:placetype":"postalcode",

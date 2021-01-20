@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002128,
-    "geom:area_square_m":19764278.322442,
+    "geom:area_square_m":19764278.322457,
     "geom:bbox":"-72.908134,41.288761,-72.817752,41.342358",
     "geom:latitude":41.31963,
     "geom:longitude":-72.86823,
@@ -13,21 +13,27 @@
     "lbl:latitude":41.316686,
     "lbl:longitude":-72.870797,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"New Haven",
+    "mz:postal_locality_alt":[
+        "East Haven",
+        "West Haven"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688629,
         102191575,
-        404495787,
         85633793,
+        102086923,
+        404495787,
         85930897,
-        102086923
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760455"
     },
     "wof:country":"US",
-    "wof:geomhash":"5ff910a7e6d7799b283cc09f983bc6d6",
+    "wof:geomhash":"c81a93ce053de0d64d8e8b0925ed9c2c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +46,7 @@
         }
     ],
     "wof:id":554699639,
-    "wof:lastmodified":1480916210,
+    "wof:lastmodified":1611184627,
     "wof:name":"06513",
     "wof:parent_id":85930897,
     "wof:placetype":"postalcode",

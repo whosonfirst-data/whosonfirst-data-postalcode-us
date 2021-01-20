@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014095,
-    "geom:area_square_m":123210487.658381,
+    "geom:area_square_m":123210487.658469,
     "geom:bbox":"-123.000886,44.941178,-122.82751,45.0886",
     "geom:latitude":45.01436,
     "geom:longitude":-122.928708,
@@ -13,19 +13,24 @@
     "lbl:latitude":45.014338,
     "lbl:longitude":-122.928719,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Salem",
+    "mz:postal_locality_alt":[
+        "Brooks"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688513,
-        102082219
+        102082219,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12798567"
     },
     "wof:country":"US",
-    "wof:geomhash":"7d33440549f1f24960ec95ac3c8755cd",
+    "wof:geomhash":"42860c0d767ff74e70da44eaa3c8d4f2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +41,7 @@
         }
     ],
     "wof:id":554754759,
-    "wof:lastmodified":1480792846,
+    "wof:lastmodified":1611182904,
     "wof:name":"97305",
     "wof:parent_id":102082219,
     "wof:placetype":"postalcode",

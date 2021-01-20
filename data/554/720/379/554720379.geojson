@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.058421,
-    "geom:area_square_m":557196850.510438,
+    "geom:area_square_m":557196850.510303,
     "geom:bbox":"-83.640538,39.377692,-83.232022,39.68382",
     "geom:latitude":39.52653,
     "geom:longitude":-83.442669,
@@ -14,21 +14,27 @@
     "lbl:latitude":39.526516,
     "lbl:longitude":-83.441323,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Washington Ct Hs",
+    "mz:postal_locality_alt":[
+        "Washington Court House",
+        "Jeffersonville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404524507,
         85633793,
+        102083691,
+        404524507,
         85983089,
-        102083691
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776190"
     },
     "wof:country":"US",
-    "wof:geomhash":"ec7a8d43bbd3e6f062570dbdde4ebc7b",
+    "wof:geomhash":"376914a815923be2dc77d71b19f14635",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554720379,
-    "wof:lastmodified":1480840051,
+    "wof:lastmodified":1611185463,
     "wof:name":"43160",
     "wof:parent_id":85983089,
     "wof:placetype":"postalcode",

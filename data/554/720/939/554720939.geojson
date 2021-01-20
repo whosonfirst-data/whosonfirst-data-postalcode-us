@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004511,
-    "geom:area_square_m":41753143.313403,
+    "geom:area_square_m":41753143.313431,
     "geom:bbox":"-81.144146,41.497928,-81.002793,41.571593",
     "geom:latitude":41.542707,
     "geom:longitude":-81.069376,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.542545,
     "lbl:longitude":-81.068714,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Huntsburg",
+    "mz:postal_locality_alt":[
+        "Montville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404525357,
         85633793,
-        102084789
+        102084789,
+        404525357,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776586"
     },
     "wof:country":"US",
-    "wof:geomhash":"a64a199305226bde69da8d7411ec6e7c",
+    "wof:geomhash":"45491736703557681a26c6faa07d7158",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554720939,
-    "wof:lastmodified":1480838086,
+    "wof:lastmodified":1611185449,
     "wof:name":"44046",
     "wof:parent_id":404525357,
     "wof:placetype":"postalcode",

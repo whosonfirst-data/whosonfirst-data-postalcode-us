@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000754,
-    "geom:area_square_m":6894491.997152,
+    "geom:area_square_m":6894491.997157,
     "geom:bbox":"-71.072022,42.276198,-70.951683,42.332186",
     "geom:latitude":42.301945,
     "geom:longitude":-71.027054,
@@ -13,21 +13,26 @@
     "lbl:latitude":42.291412,
     "lbl:longitude":-71.042158,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Dorchester",
+    "mz:postal_locality_alt":[
+        "Boston"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476573,
         85633793,
+        102084423,
+        404476573,
         85950361,
-        102084423
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758721"
     },
     "wof:country":"US",
-    "wof:geomhash":"b2e34a117d82359d42d8c88517bd5c74",
+    "wof:geomhash":"18556a48cf54f6212187c31c35362d01",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554778331,
-    "wof:lastmodified":1480799555,
+    "wof:lastmodified":1611183424,
     "wof:name":"02122",
     "wof:parent_id":85950361,
     "wof:placetype":"postalcode",

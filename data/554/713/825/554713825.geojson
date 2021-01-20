@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016796,
-    "geom:area_square_m":176984611.983406,
+    "geom:area_square_m":176984611.983568,
     "geom:bbox":"-82.96572,31.474698,-82.725703,31.621577",
     "geom:latitude":31.549137,
     "geom:longitude":-82.828599,
@@ -13,19 +13,24 @@
     "lbl:latitude":31.560258,
     "lbl:longitude":-82.828039,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Douglas",
+    "mz:postal_locality_alt":[
+        "Brunswick"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688535,
-        102082947
+        102082947,
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12771247"
     },
     "wof:country":"US",
-    "wof:geomhash":"1c6c6cc02e87ab36b43f31b550c55abd",
+    "wof:geomhash":"9645bd08137cd207d72a66a3830d4b9d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +41,7 @@
         }
     ],
     "wof:id":554713825,
-    "wof:lastmodified":1480793673,
+    "wof:lastmodified":1611183328,
     "wof:name":"31533",
     "wof:parent_id":102082947,
     "wof:placetype":"postalcode",

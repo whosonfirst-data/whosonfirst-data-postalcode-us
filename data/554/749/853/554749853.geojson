@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003975,
-    "geom:area_square_m":37052657.45501,
+    "geom:area_square_m":37052657.455005,
     "geom:bbox":"-112.234803,41.038108,-112.035588,41.111047",
     "geom:latitude":41.081398,
     "geom:longitude":-112.079759,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.080909,
     "lbl:longitude":-112.080743,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Syracuse",
+    "mz:postal_locality_alt":[
+        "Clearfield"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688567,
         102191575,
         85633793,
+        102083563,
         101727889,
-        102083563
+        85688567
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12794103"
     },
     "wof:country":"US",
-    "wof:geomhash":"568a3440a9557b055922e22fde014300",
+    "wof:geomhash":"ef07fa34c6baecc51626f53cf9f2b141",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554749853,
-    "wof:lastmodified":1480841407,
+    "wof:lastmodified":1611183583,
     "wof:name":"84075",
     "wof:parent_id":101727889,
     "wof:placetype":"postalcode",

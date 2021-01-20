@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003534,
-    "geom:area_square_m":33273335.558469,
+    "geom:area_square_m":33273335.558477,
     "geom:bbox":"-74.30513,40.381761,-74.20777,40.451302",
     "geom:latitude":40.413195,
     "geom:longitude":-74.251763,
@@ -14,20 +14,27 @@
     "lbl:latitude":40.415306,
     "lbl:longitude":-74.25391,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Matawan",
+    "mz:postal_locality_alt":[
+        "Red Bank",
+        "Old Bridge",
+        "Farmingdale"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478201,
         85633793,
-        102087417
+        102087417,
+        404478201,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760867"
     },
     "wof:country":"US",
-    "wof:geomhash":"ec7c495bf655fefd86b55f3eed20c3ac",
+    "wof:geomhash":"94345b20ffa8636a410f18a3e0251f1c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554779159,
-    "wof:lastmodified":1480809857,
+    "wof:lastmodified":1611183963,
     "wof:name":"07747",
     "wof:parent_id":404478201,
     "wof:placetype":"postalcode",

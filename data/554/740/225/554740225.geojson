@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026181,
-    "geom:area_square_m":245211432.308178,
+    "geom:area_square_m":245211432.30802,
     "geom:bbox":"-99.095185,40.626419,-98.950123,40.87345",
     "geom:latitude":40.758918,
     "geom:longitude":-99.025653,
@@ -13,20 +13,22 @@
     "lbl:latitude":40.76003,
     "lbl:longitude":-99.017084,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Kearney",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688563,
         102191575,
-        404519339,
         85633793,
-        102084305
+        102084305,
+        404519339,
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787889"
     },
     "wof:country":"US",
-    "wof:geomhash":"36cedb1b20418df2c0745744eba4a69f",
+    "wof:geomhash":"3bc2da8d93088e73217042ec189c0ade",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +40,7 @@
         }
     ],
     "wof:id":554740225,
-    "wof:lastmodified":1480802735,
+    "wof:lastmodified":1611183412,
     "wof:name":"68847",
     "wof:parent_id":404519339,
     "wof:placetype":"postalcode",

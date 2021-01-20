@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013586,
-    "geom:area_square_m":118716146.459762,
+    "geom:area_square_m":118716146.459774,
     "geom:bbox":"-93.890408,44.960367,-93.744094,45.115688",
     "geom:latitude":45.035753,
     "geom:longitude":-93.813164,
@@ -14,21 +14,26 @@
     "lbl:latitude":45.031875,
     "lbl:longitude":-93.811951,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Delano",
+    "mz:postal_locality_alt":[
+        "Howard Lake"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404515201,
         85633793,
+        102087815,
+        404515201,
         85968915,
-        102087815
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781811"
     },
     "wof:country":"US",
-    "wof:geomhash":"1be2ad5f2205a3fb11149ecd16a871aa",
+    "wof:geomhash":"3ece7835fe167d768f2461ec0d53c469",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554729167,
-    "wof:lastmodified":1480789095,
+    "wof:lastmodified":1611185408,
     "wof:name":"55328",
     "wof:parent_id":85968915,
     "wof:placetype":"postalcode",

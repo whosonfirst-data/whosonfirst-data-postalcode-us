@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026857,
-    "geom:area_square_m":252545189.523072,
+    "geom:area_square_m":252545189.522949,
     "geom:bbox":"-99.201104,40.350402,-99.027401,40.626435",
     "geom:latitude":40.495618,
     "geom:longitude":-99.119026,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.495556,
     "lbl:longitude":-99.118997,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Axtell",
+    "mz:postal_locality_alt":[
+        "Wilcox"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688563,
         102191575,
-        404518955,
         85633793,
-        102082807
+        102082807,
+        404518955,
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787926"
     },
     "wof:country":"US",
-    "wof:geomhash":"b97d14b09dbe823814c05cf2bf076d72",
+    "wof:geomhash":"33df13fe6be1f24ef413ea55559edd18",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554740303,
-    "wof:lastmodified":1480835118,
+    "wof:lastmodified":1611183404,
     "wof:name":"68924",
     "wof:parent_id":404518955,
     "wof:placetype":"postalcode",

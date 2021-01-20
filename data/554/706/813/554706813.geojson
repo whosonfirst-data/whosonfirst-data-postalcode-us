@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002372,
-    "geom:area_square_m":22803427.333164,
+    "geom:area_square_m":22803427.333148,
     "geom:bbox":"-77.42227,38.952838,-77.341465,39.014584",
     "geom:latitude":38.980777,
     "geom:longitude":-77.380373,
@@ -13,20 +13,25 @@
     "lbl:latitude":38.979842,
     "lbl:longitude":-77.37975,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Herndon",
+    "mz:postal_locality_alt":[
+        "Leesburg"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688747,
         102191575,
         85633793,
+        102084863,
         101729037,
-        102084863
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765966"
     },
     "wof:country":"US",
-    "wof:geomhash":"343d01ca3261d27c0ff220e3e5cf1b3b",
+    "wof:geomhash":"b7af9475737e6c1cbeda32c744923037",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554706813,
-    "wof:lastmodified":1480802130,
+    "wof:lastmodified":1611182709,
     "wof:name":"20170",
     "wof:parent_id":101729037,
     "wof:placetype":"postalcode",

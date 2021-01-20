@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019178,
-    "geom:area_square_m":193150145.676861,
+    "geom:area_square_m":193150145.676814,
     "geom:bbox":"-83.109235,35.367643,-82.844981,35.539076",
     "geom:latitude":35.463121,
     "geom:longitude":-82.992379,
@@ -13,19 +13,31 @@
     "lbl:latitude":35.462005,
     "lbl:longitude":-82.989068,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Waynesville",
+    "mz:postal_locality_alt":[
+        "Burnsville",
+        "Spruce Pine",
+        "Hazelwood",
+        "Bryson City",
+        "Arden",
+        "Hendersonville",
+        "Marshall",
+        "Mars Hill"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688773,
-        102087839
+        102087839,
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12769928"
     },
     "wof:country":"US",
-    "wof:geomhash":"25146aee5794156ed5ffc7c4ea5c4d4c",
+    "wof:geomhash":"a826fa70d20f8ec0b4a217f6c86dda98",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +48,7 @@
         }
     ],
     "wof:id":554711821,
-    "wof:lastmodified":1480784327,
+    "wof:lastmodified":1611185306,
     "wof:name":"28786",
     "wof:parent_id":102087839,
     "wof:placetype":"postalcode",

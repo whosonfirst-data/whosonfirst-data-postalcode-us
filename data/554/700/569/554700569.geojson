@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005891,
-    "geom:area_square_m":55540966.703192,
+    "geom:area_square_m":55540966.703221,
     "geom:bbox":"-74.58883,40.268161,-74.476066,40.362185",
     "geom:latitude":40.320249,
     "geom:longitude":-74.52661,
@@ -14,20 +14,26 @@
     "lbl:latitude":40.324357,
     "lbl:longitude":-74.525526,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cranbury",
+    "mz:postal_locality_alt":[
+        "East Windsor",
+        "Princeton Junction"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477473,
         85633793,
-        102087417
+        102087417,
+        404477473,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761164"
     },
     "wof:country":"US",
-    "wof:geomhash":"9a104b10cf947fb7bfd7bf125f44b9e2",
+    "wof:geomhash":"b121ccf648c87e84a6d5fe6b464c4172",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554700569,
-    "wof:lastmodified":1480831097,
+    "wof:lastmodified":1611183174,
     "wof:name":"08512",
     "wof:parent_id":404477473,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005416,
-    "geom:area_square_m":48989829.519669,
+    "geom:area_square_m":48989829.519652,
     "geom:bbox":"-78.670013,42.954748,-78.551957,43.042423",
     "geom:latitude":42.987181,
     "geom:longitude":-78.610777,
@@ -14,20 +14,25 @@
     "lbl:latitude":42.983128,
     "lbl:longitude":-78.614258,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Clarence",
+    "mz:postal_locality_alt":[
+        "Lancaster"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522335,
         85633793,
-        102082387
+        102082387,
+        404522335,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763076"
     },
     "wof:country":"US",
-    "wof:geomhash":"440cb1241dd60ec57bf6fa9a958bf429",
+    "wof:geomhash":"23039f51500d036119b37963130db3a4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554702747,
-    "wof:lastmodified":1480791304,
+    "wof:lastmodified":1611184149,
     "wof:name":"14031",
     "wof:parent_id":404522335,
     "wof:placetype":"postalcode",

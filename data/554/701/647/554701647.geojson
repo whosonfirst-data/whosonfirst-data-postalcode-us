@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019095,
-    "geom:area_square_m":175577048.789618,
+    "geom:area_square_m":175577048.789519,
     "geom:bbox":"-74.670952,41.87843,-74.392393,42.038031",
     "geom:latitude":41.960021,
     "geom:longitude":-74.545376,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.983183,
     "lbl:longitude":-74.570105,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Claryville",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404523237,
         85633793,
-        102081775
+        102081775,
+        404523237,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762409"
     },
     "wof:country":"US",
-    "wof:geomhash":"8efc461c60d48ca5d71337e49e709f99",
+    "wof:geomhash":"ff07d2df18399b29532260f367c43999",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554701647,
-    "wof:lastmodified":1480819674,
+    "wof:lastmodified":1611182636,
     "wof:name":"12725",
     "wof:parent_id":404523237,
     "wof:placetype":"postalcode",

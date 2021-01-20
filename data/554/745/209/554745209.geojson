@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012123,
-    "geom:area_square_m":125562141.18963,
+    "geom:area_square_m":125562141.189824,
     "geom:bbox":"-97.26656,33.050845,-97.060992,33.179387",
     "geom:latitude":33.110357,
     "geom:longitude":-97.169454,
@@ -14,20 +14,26 @@
     "lbl:latitude":33.114714,
     "lbl:longitude":-97.173909,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Argyle",
+    "mz:postal_locality_alt":[
+        "Lantana",
+        "Bartonville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102087371,
         101724415,
-        102087371
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12790984"
     },
     "wof:country":"US",
-    "wof:geomhash":"1f08aeb95ffb00e61284f43bc38e0cb2",
+    "wof:geomhash":"7090174d7fa3e2861407f65307679d56",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554745209,
-    "wof:lastmodified":1480783429,
+    "wof:lastmodified":1611185284,
     "wof:name":"76226",
     "wof:parent_id":101724415,
     "wof:placetype":"postalcode",

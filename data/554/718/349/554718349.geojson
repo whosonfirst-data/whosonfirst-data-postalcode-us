@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.047644,
-    "geom:area_square_m":503748516.388084,
+    "geom:area_square_m":503748516.388814,
     "geom:bbox":"-89.410923,31.057636,-89.14538,31.474648",
     "geom:latitude":31.232623,
     "geom:longitude":-89.267156,
@@ -13,19 +13,26 @@
     "lbl:latitude":31.234112,
     "lbl:longitude":-89.265885,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hattiesburg",
+    "mz:postal_locality_alt":[
+        "Leakesville",
+        "Collins",
+        "Prentiss"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688579,
-        102086673
+        102086673,
+        85688579
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12774924"
     },
     "wof:country":"US",
-    "wof:geomhash":"661846c8fb35c4be8d2cafe5c7b8c67f",
+    "wof:geomhash":"068be9a3545da871470445fcfecee5ec",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +43,7 @@
         }
     ],
     "wof:id":554718349,
-    "wof:lastmodified":1480913146,
+    "wof:lastmodified":1611185564,
     "wof:name":"39401",
     "wof:parent_id":102086673,
     "wof:placetype":"postalcode",

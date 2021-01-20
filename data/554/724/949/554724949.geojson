@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012703,
-    "geom:area_square_m":116964624.253087,
+    "geom:area_square_m":116964624.253025,
     "geom:bbox":"-83.768779,41.806196,-83.592309,41.932453",
     "geom:latitude":41.869734,
     "geom:longitude":-83.683282,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.873675,
     "lbl:longitude":-83.680783,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Petersburg",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404509045,
         85633793,
-        102083117
+        102083117,
+        404509045,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779270"
     },
     "wof:country":"US",
-    "wof:geomhash":"68db0c48a24efd0fcef2c2e3a24cbb60",
+    "wof:geomhash":"b2080a0cb57b1806dc662f5712dad4e1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554724949,
-    "wof:lastmodified":1480843194,
+    "wof:lastmodified":1611183756,
     "wof:name":"49270",
     "wof:parent_id":404509045,
     "wof:placetype":"postalcode",

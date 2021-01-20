@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019213,
-    "geom:area_square_m":194095933.810236,
+    "geom:area_square_m":194095933.810363,
     "geom:bbox":"-90.295192,35.132084,-90.068644,35.310867",
     "geom:latitude":35.216796,
     "geom:longitude":-90.189315,
@@ -14,20 +14,25 @@
     "lbl:latitude":35.217536,
     "lbl:longitude":-90.189224,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Marion",
+    "mz:postal_locality_alt":[
+        "West Memphis"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688549,
         102191575,
         85633793,
+        102082505,
         85920257,
-        102082505
+        85688549
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12789192"
     },
     "wof:country":"US",
-    "wof:geomhash":"8988d7b92b34142e3cdcdabc70cd919e",
+    "wof:geomhash":"ddfac144bfd8d1e57c0661b954893665",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554742181,
-    "wof:lastmodified":1480790863,
+    "wof:lastmodified":1611185230,
     "wof:name":"72364",
     "wof:parent_id":85920257,
     "wof:placetype":"postalcode",

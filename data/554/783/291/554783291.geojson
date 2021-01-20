@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001953,
-    "geom:area_square_m":18049697.121814,
+    "geom:area_square_m":18049697.121833,
     "geom:bbox":"-87.776649,41.610539,-87.698184,41.661541",
     "geom:latitude":41.635017,
     "geom:longitude":-87.73619,
@@ -14,21 +14,26 @@
     "lbl:latitude":41.63439,
     "lbl:longitude":-87.736395,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Midlothian",
+    "mz:postal_locality_alt":[
+        "Crestwood"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404497613,
         85633793,
+        102084317,
+        404497613,
         85940871,
-        102084317
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784153"
     },
     "wof:country":"US",
-    "wof:geomhash":"feafd131177ee6f11756ed034e0e123a",
+    "wof:geomhash":"36a5499b1a9f2a428cce931d65d968db",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554783291,
-    "wof:lastmodified":1480802048,
+    "wof:lastmodified":1611183901,
     "wof:name":"60445",
     "wof:parent_id":85940871,
     "wof:placetype":"postalcode",

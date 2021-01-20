@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008648,
-    "geom:area_square_m":87898842.012504,
+    "geom:area_square_m":87898842.012402,
     "geom:bbox":"-80.986598,34.635535,-80.859591,34.767374",
     "geom:latitude":34.711045,
     "geom:longitude":-80.915328,
@@ -14,19 +14,24 @@
     "lbl:latitude":34.712239,
     "lbl:longitude":-80.915313,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fort Lawn",
+    "mz:postal_locality_alt":[
+        "Catawba"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688683,
-        102085717
+        102085717,
+        85688683
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770386"
     },
     "wof:country":"US",
-    "wof:geomhash":"3d21c7e92ed7f420887ffc64ad997135",
+    "wof:geomhash":"c4992dcc5e5d3db0a217fab57ae1ca80",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554712517,
-    "wof:lastmodified":1480814560,
+    "wof:lastmodified":1611183710,
     "wof:name":"29714",
     "wof:parent_id":102085717,
     "wof:placetype":"postalcode",

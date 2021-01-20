@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024118,
-    "geom:area_square_m":217686246.083192,
+    "geom:area_square_m":217686246.083257,
     "geom:bbox":"-72.043622,43.031866,-71.785829,43.207263",
     "geom:latitude":43.117811,
     "geom:longitude":-71.91847,
@@ -14,20 +14,27 @@
     "lbl:latitude":43.128103,
     "lbl:longitude":-71.91694,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hillsboro",
+    "mz:postal_locality_alt":[
+        "Hillsborough",
+        "Deering",
+        "Swanzey"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688689,
         102191575,
-        404477183,
         85633793,
-        102085493
+        102085493,
+        404477183,
+        85688689
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759148"
     },
     "wof:country":"US",
-    "wof:geomhash":"0272be8d69445ef53aba556a0fb83c45",
+    "wof:geomhash":"9406d93704a00c286460869e56fd0695",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554697785,
-    "wof:lastmodified":1480913718,
+    "wof:lastmodified":1611184647,
     "wof:name":"03244",
     "wof:parent_id":404477183,
     "wof:placetype":"postalcode",

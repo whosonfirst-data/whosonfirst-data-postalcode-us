@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01999,
-    "geom:area_square_m":164631704.748457,
+    "geom:area_square_m":164631704.748456,
     "geom:bbox":"-101.620614,48.093493,-101.402622,48.35667",
     "geom:latitude":48.237336,
     "geom:longitude":-101.495034,
@@ -14,20 +14,22 @@
     "lbl:latitude":48.238173,
     "lbl:longitude":-101.501497,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Burlington",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688525,
         102191575,
-        404482297,
         85633793,
-        102082117
+        102082117,
+        404482297,
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12783455"
     },
     "wof:country":"US",
-    "wof:geomhash":"2756c4fd45c4a296e664b96b093e0614",
+    "wof:geomhash":"a7bd135bc6da33480617a28ad77e59c9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554732265,
-    "wof:lastmodified":1480793444,
+    "wof:lastmodified":1611184399,
     "wof:name":"58722",
     "wof:parent_id":404482297,
     "wof:placetype":"postalcode",

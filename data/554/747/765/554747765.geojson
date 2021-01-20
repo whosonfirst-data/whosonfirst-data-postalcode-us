@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.422753,
-    "geom:area_square_m":4492782721.65773,
+    "geom:area_square_m":4492782721.655376,
     "geom:bbox":"-103.440087,30.261505,-102.17399,31.199188",
     "geom:latitude":30.742924,
     "geom:longitude":-102.783132,
@@ -14,19 +14,24 @@
     "lbl:latitude":30.747459,
     "lbl:longitude":-102.790792,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fort Stockton",
+    "mz:postal_locality_alt":[
+        "Fort Davis"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688753,
-        102081457
+        102081457,
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12792731"
     },
     "wof:country":"US",
-    "wof:geomhash":"745e510e09b634c84726e14c36402750",
+    "wof:geomhash":"68fe35a8c051374d6fa431502a51a39f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554747765,
-    "wof:lastmodified":1480904896,
+    "wof:lastmodified":1611183449,
     "wof:name":"79735",
     "wof:parent_id":102081457,
     "wof:placetype":"postalcode",

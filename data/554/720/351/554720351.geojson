@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.060783,
-    "geom:area_square_m":576740499.089499,
+    "geom:area_square_m":576740499.089249,
     "geom:bbox":"-83.584006,39.716499,-83.203351,40.057236",
     "geom:latitude":39.882993,
     "geom:longitude":-83.42993,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.88011,
     "lbl:longitude":-83.428572,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"London",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404526091,
         85633793,
-        102084757
+        102084757,
+        404526091,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776172"
     },
     "wof:country":"US",
-    "wof:geomhash":"b199159a577a69b032c2664339b558b8",
+    "wof:geomhash":"ebe67b4989d5b4c747befddd4e3a4ce2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554720351,
-    "wof:lastmodified":1480903874,
+    "wof:lastmodified":1611185471,
     "wof:name":"43140",
     "wof:parent_id":404526091,
     "wof:placetype":"postalcode",

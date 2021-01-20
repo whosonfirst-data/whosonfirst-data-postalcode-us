@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007547,
-    "geom:area_square_m":70045034.882419,
+    "geom:area_square_m":70045034.882439,
     "geom:bbox":"-72.219307,41.297361,-72.100162,41.418317",
     "geom:latitude":41.356323,
     "geom:longitude":-72.155446,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.36173,
     "lbl:longitude":-72.156576,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Waterford",
+    "mz:postal_locality_alt":[
+        "Mystic"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688629,
         102191575,
-        404495889,
         85633793,
-        102084295
+        102084295,
+        404495889,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760370"
     },
     "wof:country":"US",
-    "wof:geomhash":"d675075b453666acb475431f8d307201",
+    "wof:geomhash":"9d14e34514b6a60a84d57019509cd667",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554779007,
-    "wof:lastmodified":1480801959,
+    "wof:lastmodified":1611183970,
     "wof:name":"06385",
     "wof:parent_id":404495889,
     "wof:placetype":"postalcode",

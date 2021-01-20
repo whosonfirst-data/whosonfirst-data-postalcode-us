@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008449,
-    "geom:area_square_m":78770290.350571,
+    "geom:area_square_m":78770290.350462,
     "geom:bbox":"-75.663024,40.994291,-75.437519,41.143131",
     "geom:latitude":41.063023,
     "geom:longitude":-75.546121,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.069339,
     "lbl:longitude":-75.549469,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Blakeslee",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404483595,
         85633793,
-        102080945
+        102080945,
+        404483595,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765247"
     },
     "wof:country":"US",
-    "wof:geomhash":"2c59012fa589e00028718e4cc9bef080",
+    "wof:geomhash":"c105c84538be65cf8fb773e1907fda12",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554705905,
-    "wof:lastmodified":1480906477,
+    "wof:lastmodified":1611184115,
     "wof:name":"18610",
     "wof:parent_id":404483595,
     "wof:placetype":"postalcode",

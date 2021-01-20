@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005897,
-    "geom:area_square_m":53446264.568111,
+    "geom:area_square_m":53446264.568095,
     "geom:bbox":"-90.427441,42.812987,-90.322394,42.910224",
     "geom:latitude":42.859816,
     "geom:longitude":-90.378045,
@@ -14,20 +14,22 @@
     "lbl:latitude":42.859809,
     "lbl:longitude":-90.378045,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Rewey",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404493803,
         85633793,
-        102081277
+        102081277,
+        404493803,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781024"
     },
     "wof:country":"US",
-    "wof:geomhash":"f99211d715323c019cbcc55159a92e86",
+    "wof:geomhash":"aac8ed0ed930b795ea08a3cc0a734ca2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554727845,
-    "wof:lastmodified":1480829259,
+    "wof:lastmodified":1611185498,
     "wof:name":"53580",
     "wof:parent_id":404493803,
     "wof:placetype":"postalcode",

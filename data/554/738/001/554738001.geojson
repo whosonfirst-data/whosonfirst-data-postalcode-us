@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006046,
-    "geom:area_square_m":58030631.364092,
+    "geom:area_square_m":58030631.364062,
     "geom:bbox":"-94.872264,39.043514,-94.710038,39.128622",
     "geom:latitude":39.083856,
     "geom:longitude":-94.795183,
@@ -14,21 +14,26 @@
     "lbl:latitude":39.084029,
     "lbl:longitude":-94.789887,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Kansas City",
+    "mz:postal_locality_alt":[
+        "Edwardsville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404504875,
         85633793,
+        102082163,
+        404504875,
         85945801,
-        102082163
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786781"
     },
     "wof:country":"US",
-    "wof:geomhash":"3050eab2622d0b43cd940799c1f57814",
+    "wof:geomhash":"c00cde24af9fe9ccd86517f3f8d1fed7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554738001,
-    "wof:lastmodified":1480792906,
+    "wof:lastmodified":1611183105,
     "wof:name":"66111",
     "wof:parent_id":85945801,
     "wof:placetype":"postalcode",

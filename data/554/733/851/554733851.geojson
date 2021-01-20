@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011307,
-    "geom:area_square_m":103933087.589724,
+    "geom:area_square_m":103933087.589705,
     "geom:bbox":"-90.156641,41.929681,-89.978437,42.087202",
     "geom:latitude":41.978108,
     "geom:longitude":-90.05958,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.985776,
     "lbl:longitude":-90.05832,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Thomson",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404497443,
         85633793,
-        102082297
+        102082297,
+        404497443,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784536"
     },
     "wof:country":"US",
-    "wof:geomhash":"01b96be7f6477b998ecd8b421dc01013",
+    "wof:geomhash":"d043ab155c7deaab9e593fa8cca585d7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554733851,
-    "wof:lastmodified":1480816977,
+    "wof:lastmodified":1611184222,
     "wof:name":"61285",
     "wof:parent_id":404497443,
     "wof:placetype":"postalcode",

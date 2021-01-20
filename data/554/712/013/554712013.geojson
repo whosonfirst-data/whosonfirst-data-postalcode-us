@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048818,
-    "geom:area_square_m":502267922.719564,
+    "geom:area_square_m":502267922.719461,
     "geom:bbox":"-80.967719,33.559609,-80.592463,33.787728",
     "geom:latitude":33.689159,
     "geom:longitude":-80.787273,
@@ -14,19 +14,24 @@
     "lbl:latitude":33.701219,
     "lbl:longitude":-80.757171,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"St Matthews",
+    "mz:postal_locality_alt":[
+        "Saint Matthews"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688683,
-        102085709
+        102085709,
+        85688683
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770032"
     },
     "wof:country":"US",
-    "wof:geomhash":"289ba90c113042539192db6840893038",
+    "wof:geomhash":"b50e3f044df293af5f2c35613dc9a62e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554712013,
-    "wof:lastmodified":1480816183,
+    "wof:lastmodified":1611183700,
     "wof:name":"29135",
     "wof:parent_id":102085709,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022647,
-    "geom:area_square_m":221011684.099759,
+    "geom:area_square_m":221011684.099623,
     "geom:bbox":"-87.268995,37.782309,-87.01794,38.006006",
     "geom:latitude":37.886165,
     "geom:longitude":-87.105557,
@@ -14,20 +14,22 @@
     "lbl:latitude":37.883458,
     "lbl:longitude":-87.100911,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Rockport",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404501485,
         85633793,
-        102087069
+        102087069,
+        404501485,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778332"
     },
     "wof:country":"US",
-    "wof:geomhash":"8a84c6fc0afa7053689b35300990c54f",
+    "wof:geomhash":"dcf7028f61d15d464ed09adb6080c6c9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554723601,
-    "wof:lastmodified":1480811542,
+    "wof:lastmodified":1611183806,
     "wof:name":"47635",
     "wof:parent_id":404501485,
     "wof:placetype":"postalcode",

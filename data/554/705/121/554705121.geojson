@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021546,
-    "geom:area_square_m":204757758.025026,
+    "geom:area_square_m":204757758.024959,
     "geom:bbox":"-77.724527,39.71987,-77.461536,39.86928",
     "geom:latitude":39.775631,
     "geom:longitude":-77.573773,
@@ -14,20 +14,26 @@
     "lbl:latitude":39.774913,
     "lbl:longitude":-77.575622,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Waynesboro",
+    "mz:postal_locality_alt":[
+        "Zullinger",
+        "Quincy"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485519,
         85633793,
-        102081365
+        102081365,
+        404485519,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764712"
     },
     "wof:country":"US",
-    "wof:geomhash":"450386885cfe365b8ee9b60d1f2f3612",
+    "wof:geomhash":"7b5851674cca5882e5be51a74608cabd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554705121,
-    "wof:lastmodified":1480903179,
+    "wof:lastmodified":1611184109,
     "wof:name":"17268",
     "wof:parent_id":404485519,
     "wof:placetype":"postalcode",

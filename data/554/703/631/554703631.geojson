@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004741,
-    "geom:area_square_m":44814928.642521,
+    "geom:area_square_m":44814928.642512,
     "geom:bbox":"-80.065172,40.097615,-79.970264,40.194909",
     "geom:latitude":40.145665,
     "geom:longitude":-80.018111,
@@ -13,20 +13,25 @@
     "lbl:latitude":40.146307,
     "lbl:longitude":-80.016809,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bentleyville",
+    "mz:postal_locality_alt":[
+        "Jefferson"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404487851,
         85633793,
-        102081343
+        102081343,
+        404487851,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763722"
     },
     "wof:country":"US",
-    "wof:geomhash":"2d5b76f1f4b23354507e9636a1c7c10a",
+    "wof:geomhash":"287d2171c88c323986506ed327b4f138",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554703631,
-    "wof:lastmodified":1480818262,
+    "wof:lastmodified":1611184480,
     "wof:name":"15314",
     "wof:parent_id":404487851,
     "wof:placetype":"postalcode",

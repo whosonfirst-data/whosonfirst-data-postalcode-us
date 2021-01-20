@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001538,
-    "geom:area_square_m":14802419.561122,
+    "geom:area_square_m":14802419.561103,
     "geom:bbox":"-77.321559,38.874689,-77.267222,38.935455",
     "geom:latitude":38.906351,
     "geom:longitude":-77.294379,
@@ -13,20 +13,25 @@
     "lbl:latitude":38.906652,
     "lbl:longitude":-77.293388,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Vienna",
+    "mz:postal_locality_alt":[
+        "Oakton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688747,
         102191575,
         85633793,
+        102084863,
         101729779,
-        102084863
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766845"
     },
     "wof:country":"US",
-    "wof:geomhash":"41eabdeca07f9535751154285e382a0f",
+    "wof:geomhash":"4822ed718cc07079018a130cb2a15dd2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554707607,
-    "wof:lastmodified":1480802128,
+    "wof:lastmodified":1611183167,
     "wof:name":"22181",
     "wof:parent_id":101729779,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020611,
-    "geom:area_square_m":183065863.178931,
+    "geom:area_square_m":183065863.178857,
     "geom:bbox":"-95.704873,44.00744,-95.48235,44.16694",
     "geom:latitude":44.085521,
     "geom:longitude":-95.596158,
@@ -14,20 +14,22 @@
     "lbl:latitude":44.086937,
     "lbl:longitude":-95.592414,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Currie",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404513317,
         85633793,
-        102087879
+        102087879,
+        404513317,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782264"
     },
     "wof:country":"US",
-    "wof:geomhash":"33d27f73fb6e742e6fe5f6dc81d9956a",
+    "wof:geomhash":"263c0b62581ecf4d3e8508300b26f5de",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554729909,
-    "wof:lastmodified":1480783323,
+    "wof:lastmodified":1611185404,
     "wof:name":"56123",
     "wof:parent_id":404513317,
     "wof:placetype":"postalcode",

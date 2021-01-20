@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019683,
-    "geom:area_square_m":205025932.599223,
+    "geom:area_square_m":205025932.599119,
     "geom:bbox":"-89.505849,32.509729,-89.317743,32.686023",
     "geom:latitude":32.605017,
     "geom:longitude":-89.398925,
@@ -14,19 +14,25 @@
     "lbl:latitude":32.608003,
     "lbl:longitude":-89.400149,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Walnut Grove",
+    "mz:postal_locality_alt":[
+        "Raleigh",
+        "Sebastopol"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688579,
-        102083167
+        102083167,
+        85688579
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12774843"
     },
     "wof:country":"US",
-    "wof:geomhash":"b45f6e367fc6d17a7da6e9fdcd9c2bb3",
+    "wof:geomhash":"ee14b3dfaf5ad0a225cdb190db8fbab1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554718217,
-    "wof:lastmodified":1480834701,
+    "wof:lastmodified":1611185548,
     "wof:name":"39189",
     "wof:parent_id":102083167,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009321,
-    "geom:area_square_m":96431415.107839,
+    "geom:area_square_m":96431415.107604,
     "geom:bbox":"-117.174586,33.126536,-117.06664,33.315495",
     "geom:latitude":33.212466,
     "geom:longitude":-117.116112,
@@ -13,20 +13,26 @@
     "lbl:latitude":33.212444,
     "lbl:longitude":-117.116098,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Escondido",
+    "mz:postal_locality_alt":[
+        "Del Mar",
+        "El Cajon"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102083569,
         85925253,
-        102083569
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796208"
     },
     "wof:country":"US",
-    "wof:geomhash":"2fdea1a0f8541bec485ccbd4909ec616",
+    "wof:geomhash":"80873a98a236617e79df3bf8def5061c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554752163,
-    "wof:lastmodified":1480835299,
+    "wof:lastmodified":1611182537,
     "wof:name":"92026",
     "wof:parent_id":85925253,
     "wof:placetype":"postalcode",

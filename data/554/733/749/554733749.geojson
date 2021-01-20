@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010023,
-    "geom:area_square_m":91765869.203946,
+    "geom:area_square_m":91765869.203971,
     "geom:bbox":"-89.240981,42.154359,-89.09171,42.291232",
     "geom:latitude":42.229605,
     "geom:longitude":-89.157325,
@@ -13,20 +13,22 @@
     "lbl:latitude":42.228769,
     "lbl:longitude":-89.162524,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Rockford",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404499349,
         85633793,
-        102080827
+        102080827,
+        404499349,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784472"
     },
     "wof:country":"US",
-    "wof:geomhash":"89dcd0697059a9fd214378a3694befed",
+    "wof:geomhash":"55c9896b385c6f89c627e044b8889ba8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +40,7 @@
         }
     ],
     "wof:id":554733749,
-    "wof:lastmodified":1480906997,
+    "wof:lastmodified":1611184227,
     "wof:name":"61102",
     "wof:parent_id":404499349,
     "wof:placetype":"postalcode",

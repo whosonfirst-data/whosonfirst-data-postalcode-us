@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00084,
-    "geom:area_square_m":8590549.544526,
+    "geom:area_square_m":8590549.544532,
     "geom:bbox":"-118.470568,34.189681,-118.422521,34.215094",
     "geom:latitude":34.201165,
     "geom:longitude":-118.448146,
@@ -13,20 +13,26 @@
     "lbl:latitude":34.199824,
     "lbl:longitude":-118.447609,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Van Nuys",
+    "mz:postal_locality_alt":[
+        "Los Angeles",
+        "Valley Glen"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086957,
         85923517,
-        102086957
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796033"
     },
     "wof:country":"US",
-    "wof:geomhash":"844eb65e5c25817cc82045877618bf54",
+    "wof:geomhash":"3f6b593edb873f7d459778db19cd8b1f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554751983,
-    "wof:lastmodified":1480912609,
+    "wof:lastmodified":1611184338,
     "wof:name":"91405",
     "wof:parent_id":85923517,
     "wof:placetype":"postalcode",

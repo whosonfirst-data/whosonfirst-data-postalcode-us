@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017363,
-    "geom:area_square_m":152171208.646381,
+    "geom:area_square_m":152171208.646345,
     "geom:bbox":"-74.006328,44.765385,-73.787757,44.961353",
     "geom:latitude":44.866155,
     "geom:longitude":-73.883997,
@@ -14,20 +14,25 @@
     "lbl:latitude":44.875376,
     "lbl:longitude":-73.873665,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ellenburg Center",
+    "mz:postal_locality_alt":[
+        "Chateaugay"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404521291,
         85633793,
-        102081797
+        102081797,
+        404521291,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762555"
     },
     "wof:country":"US",
-    "wof:geomhash":"6fb95282a2001f4ec1053a80a5fe63a3",
+    "wof:geomhash":"6ee8f75e7d79e0c24580f6f9fa8b748b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554701917,
-    "wof:lastmodified":1480832639,
+    "wof:lastmodified":1611182647,
     "wof:name":"12934",
     "wof:parent_id":404521291,
     "wof:placetype":"postalcode",

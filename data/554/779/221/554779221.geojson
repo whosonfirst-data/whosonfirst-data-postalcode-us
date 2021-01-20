@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006683,
-    "geom:area_square_m":64227846.325463,
+    "geom:area_square_m":64227846.325452,
     "geom:bbox":"-74.89929,38.936191,-74.779237,39.054335",
     "geom:latitude":38.994924,
     "geom:longitude":-74.837981,
@@ -14,20 +14,27 @@
     "lbl:latitude":38.998469,
     "lbl:longitude":-74.843447,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wildwood",
+    "mz:postal_locality_alt":[
+        "North Wildwood",
+        "Wildwood Crest",
+        "Green Creek"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477949,
         85633793,
-        102086777
+        102086777,
+        404477949,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761112"
     },
     "wof:country":"US",
-    "wof:geomhash":"3fdd3b55d4a9c5b191fa753bc7283ded",
+    "wof:geomhash":"5354e5d065be43f0c5f20cbd44b17282",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554779221,
-    "wof:lastmodified":1480913298,
+    "wof:lastmodified":1611183967,
     "wof:name":"08260",
     "wof:parent_id":404477949,
     "wof:placetype":"postalcode",

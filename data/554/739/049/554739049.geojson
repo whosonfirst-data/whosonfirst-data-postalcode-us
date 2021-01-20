@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045111,
-    "geom:area_square_m":437538639.13316,
+    "geom:area_square_m":437538639.133109,
     "geom:bbox":"-98.700838,38.20164,-98.431961,38.492954",
     "geom:latitude":38.3348,
     "geom:longitude":-98.552898,
@@ -14,20 +14,25 @@
     "lbl:latitude":38.313693,
     "lbl:longitude":-98.501559,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ellinwood",
+    "mz:postal_locality_alt":[
+        "Stafford"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404503795,
         85633793,
-        102083449
+        102083449,
+        404503795,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787310"
     },
     "wof:country":"US",
-    "wof:geomhash":"4478c82f85036eb44a2c7b1b7b3795b5",
+    "wof:geomhash":"a13044382ca0ddd260f383764481a77d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554739049,
-    "wof:lastmodified":1480841978,
+    "wof:lastmodified":1611182656,
     "wof:name":"67526",
     "wof:parent_id":404503795,
     "wof:placetype":"postalcode",

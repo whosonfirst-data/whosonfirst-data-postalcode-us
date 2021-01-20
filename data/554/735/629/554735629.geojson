@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003862,
-    "geom:area_square_m":37319666.012666,
+    "geom:area_square_m":37319666.012676,
     "geom:bbox":"-90.641414,38.582254,-90.477724,38.63097",
     "geom:latitude":38.60367,
     "geom:longitude":-90.55929,
@@ -13,21 +13,29 @@
     "lbl:latitude":38.603678,
     "lbl:longitude":-90.559295,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ballwin",
+    "mz:postal_locality_alt":[
+        "Ellisville",
+        "Manchester",
+        "Chesterfield",
+        "Grover"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404517315,
         85633793,
+        102086173,
+        404517315,
         85972301,
-        102086173
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785524"
     },
     "wof:country":"US",
-    "wof:geomhash":"266d82277f2bb4f9cce20bd2b93363ef",
+    "wof:geomhash":"92fe6308ed38ae0299f21355181e1ee0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +48,7 @@
         }
     ],
     "wof:id":554735629,
-    "wof:lastmodified":1480914494,
+    "wof:lastmodified":1611184417,
     "wof:name":"63011",
     "wof:parent_id":85972301,
     "wof:placetype":"postalcode",

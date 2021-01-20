@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041035,
-    "geom:area_square_m":346804622.170441,
+    "geom:area_square_m":346804622.170306,
     "geom:bbox":"-96.219135,46.723658,-96.018173,47.064642",
     "geom:latitude":46.883464,
     "geom:longitude":-96.114705,
@@ -14,20 +14,25 @@
     "lbl:latitude":46.885525,
     "lbl:longitude":-96.116127,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lake Park",
+    "mz:postal_locality_alt":[
+        "Detroit Lakes"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404511337,
         85633793,
-        102087001
+        102087001,
+        404511337,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782560"
     },
     "wof:country":"US",
-    "wof:geomhash":"80a299ad0b086acc896c4dc0f0623290",
+    "wof:geomhash":"807485639d6a3ccc28e811ec75e31454",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554730511,
-    "wof:lastmodified":1480788134,
+    "wof:lastmodified":1611182739,
     "wof:name":"56554",
     "wof:parent_id":404511337,
     "wof:placetype":"postalcode",

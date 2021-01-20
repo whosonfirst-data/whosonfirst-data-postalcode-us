@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000424,
-    "geom:area_square_m":3967063.853638,
+    "geom:area_square_m":3967063.853639,
     "geom:bbox":"-74.08938,40.847395,-74.059104,40.875999",
     "geom:latitude":40.861867,
     "geom:longitude":-74.07405,
@@ -14,21 +14,26 @@
     "lbl:latitude":40.862751,
     "lbl:longitude":-74.075182,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hasbrouck Heights",
+    "mz:postal_locality_alt":[
+        "Hasbrouck Hts"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477549,
         85633793,
+        102086773,
+        404477549,
         85975993,
-        102086773
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760799"
     },
     "wof:country":"US",
-    "wof:geomhash":"d9c9de947a6b620e4fcd3db39c8a183e",
+    "wof:geomhash":"bab3f472ac53ff8dc9e399a2c299db89",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554700079,
-    "wof:lastmodified":1480908561,
+    "wof:lastmodified":1611183179,
     "wof:name":"07604",
     "wof:parent_id":85975993,
     "wof:placetype":"postalcode",

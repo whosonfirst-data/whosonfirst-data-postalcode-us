@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01339,
-    "geom:area_square_m":126416709.499471,
+    "geom:area_square_m":126416709.499483,
     "geom:bbox":"-74.406777,40.168264,-74.189364,40.295479",
     "geom:latitude":40.225528,
     "geom:longitude":-74.285448,
@@ -14,21 +14,30 @@
     "lbl:latitude":40.225793,
     "lbl:longitude":-74.285785,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Freehold",
+    "mz:postal_locality_alt":[
+        "Howell",
+        "Highlands",
+        "Adelphia",
+        "Keyport",
+        "Tennent"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478343,
         85633793,
+        102085049,
+        404478343,
         85976029,
-        102085049
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760855"
     },
     "wof:country":"US",
-    "wof:geomhash":"6ab5799248e9f9baacc790eb1b9c3756",
+    "wof:geomhash":"3a4e7f6cccb5e5c84bda07a28e4ecaa0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +50,7 @@
         }
     ],
     "wof:id":554700169,
-    "wof:lastmodified":1480817271,
+    "wof:lastmodified":1611183178,
     "wof:name":"07728",
     "wof:parent_id":85976029,
     "wof:placetype":"postalcode",

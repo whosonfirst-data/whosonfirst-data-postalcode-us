@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.09535,
-    "geom:area_square_m":958134597.60125,
+    "geom:area_square_m":958134597.600701,
     "geom:bbox":"-85.967001,35.436061,-85.491532,35.847574",
     "geom:latitude":35.644172,
     "geom:longitude":-85.744635,
@@ -13,19 +13,30 @@
     "lbl:latitude":35.64509,
     "lbl:longitude":-85.741252,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mc Minnville",
+    "mz:postal_locality_alt":[
+        "Mcminnville",
+        "White House",
+        "Smyrna",
+        "Murfreesboro",
+        "Waverly",
+        "Morrison",
+        "Springfield"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688701,
-        102086399
+        102086399,
+        85688701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12773819"
     },
     "wof:country":"US",
-    "wof:geomhash":"3285d82eea7b3f34d7da531777bad6ed",
+    "wof:geomhash":"f043ed39f36750511ef0d886fda90cc6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +47,7 @@
         }
     ],
     "wof:id":554716535,
-    "wof:lastmodified":1480913806,
+    "wof:lastmodified":1611185356,
     "wof:name":"37110",
     "wof:parent_id":102086399,
     "wof:placetype":"postalcode",

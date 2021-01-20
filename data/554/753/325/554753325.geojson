@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.064584,
-    "geom:area_square_m":636377008.99148,
+    "geom:area_square_m":636377008.991312,
     "geom:bbox":"-121.84811,37.04934,-121.30833,37.296139",
     "geom:latitude":37.167563,
     "geom:longitude":-121.593546,
@@ -13,19 +13,25 @@
     "lbl:latitude":37.174063,
     "lbl:longitude":-121.598747,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Morgan Hill",
+    "mz:postal_locality_alt":[
+        "Coyote",
+        "San Jose"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688637,
-        102081673
+        102081673,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12797525"
     },
     "wof:country":"US",
-    "wof:geomhash":"3d37544df3beb562c3d26ceb09963f8b",
+    "wof:geomhash":"be8c0461d6302092b94094476e746547",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +42,7 @@
         }
     ],
     "wof:id":554753325,
-    "wof:lastmodified":1480838397,
+    "wof:lastmodified":1611182949,
     "wof:name":"95037",
     "wof:parent_id":102081673,
     "wof:placetype":"postalcode",

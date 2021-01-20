@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00042,
-    "geom:area_square_m":4486238.787941,
+    "geom:area_square_m":4486238.787954,
     "geom:bbox":"-97.755684,30.250611,-97.730048,30.283939",
     "geom:latitude":30.270479,
     "geom:longitude":-97.742373,
@@ -13,20 +13,22 @@
     "lbl:latitude":30.270569,
     "lbl:longitude":-97.742589,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Austin",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102081935,
         101724577,
-        102081935
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12792283"
     },
     "wof:country":"US",
-    "wof:geomhash":"8f87a392c8668ac02a7dd462db60003d",
+    "wof:geomhash":"1050c5177926b09f75a933e3eacb5e45",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +40,7 @@
         }
     ],
     "wof:id":554747069,
-    "wof:lastmodified":1480831121,
+    "wof:lastmodified":1611183482,
     "wof:name":"78701",
     "wof:parent_id":101724577,
     "wof:placetype":"postalcode",

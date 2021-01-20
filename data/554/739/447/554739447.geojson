@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010502,
-    "geom:area_square_m":97637411.899906,
+    "geom:area_square_m":97637411.899852,
     "geom:bbox":"-96.551691,41.161581,-96.444947,41.321596",
     "geom:latitude":41.248199,
     "geom:longitude":-96.498209,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.241423,
     "lbl:longitude":-96.493389,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mead",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688563,
         102191575,
-        404519163,
         85633793,
-        102082199
+        102082199,
+        404519163,
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787497"
     },
     "wof:country":"US",
-    "wof:geomhash":"f52d5dea71501aa1547ab5511cf4e5be",
+    "wof:geomhash":"ace21d29d32a09b67f20e7e3e120808f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554739447,
-    "wof:lastmodified":1480796033,
+    "wof:lastmodified":1611182652,
     "wof:name":"68041",
     "wof:parent_id":404519163,
     "wof:placetype":"postalcode",

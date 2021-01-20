@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000326,
-    "geom:area_square_m":3086614.098827,
+    "geom:area_square_m":3086614.098826,
     "geom:bbox":"-88.879337,40.116634,-88.840594,40.130862",
     "geom:latitude":40.123545,
     "geom:longitude":-88.85965,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.123545,
     "lbl:longitude":-88.85965,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lane",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404496301,
         85633793,
-        102082269
+        102082269,
+        404496301,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784791"
     },
     "wof:country":"US",
-    "wof:geomhash":"8a9ab663b4bfad0a7cb85a83da466477",
+    "wof:geomhash":"a2361b5f91ad69de8481c9ba28dd37ed",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554771711,
-    "wof:lastmodified":1480792266,
+    "wof:lastmodified":1611183534,
     "wof:name":"61750",
     "wof:parent_id":404496301,
     "wof:placetype":"postalcode",

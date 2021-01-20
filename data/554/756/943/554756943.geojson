@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017533,
-    "geom:area_square_m":163387608.232899,
+    "geom:area_square_m":163387608.232832,
     "geom:bbox":"-75.23171,41.03049,-74.966759,41.152713",
     "geom:latitude":41.093593,
     "geom:longitude":-75.118664,
@@ -13,20 +13,25 @@
     "lbl:latitude":41.09655,
     "lbl:longitude":-75.111107,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"East Stroudsburg",
+    "mz:postal_locality_alt":[
+        "Marshalls Creek"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404488221,
         85633793,
-        102080945
+        102080945,
+        404488221,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"28350082"
     },
     "wof:country":"US",
-    "wof:geomhash":"760d8594ce842459c01310ddbb575f90",
+    "wof:geomhash":"57db43bac2f3348827d8354cb9e598d0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554756943,
-    "wof:lastmodified":1480914755,
+    "wof:lastmodified":1611184313,
     "wof:name":"18302",
     "wof:parent_id":404488221,
     "wof:placetype":"postalcode",

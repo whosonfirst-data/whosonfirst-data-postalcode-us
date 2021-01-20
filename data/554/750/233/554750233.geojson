@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002645,
-    "geom:area_square_m":27281572.474687,
+    "geom:area_square_m":27281572.474735,
     "geom:bbox":"-112.032401,33.444474,-111.939301,33.480493",
     "geom:latitude":33.463298,
     "geom:longitude":-111.986752,
@@ -13,20 +13,25 @@
     "lbl:latitude":33.462954,
     "lbl:longitude":-111.985178,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Phoenix",
+    "mz:postal_locality_alt":[
+        "Scottsdale"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688719,
         102191575,
         85633793,
+        102087421,
         85917479,
-        102087421
+        85688719
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12794392"
     },
     "wof:country":"US",
-    "wof:geomhash":"879661c8dfd8d66d7b65660a46707f68",
+    "wof:geomhash":"8e05dc0459bc1a3705136c4e90bc95cc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554750233,
-    "wof:lastmodified":1480786586,
+    "wof:lastmodified":1611184543,
     "wof:name":"85008",
     "wof:parent_id":85917479,
     "wof:placetype":"postalcode",

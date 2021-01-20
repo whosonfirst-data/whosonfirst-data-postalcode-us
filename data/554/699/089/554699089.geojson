@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003299,
-    "geom:area_square_m":29496669.292078,
+    "geom:area_square_m":29496669.292055,
     "geom:bbox":"-73.231122,43.611478,-73.132253,43.751937",
     "geom:latitude":43.685377,
     "geom:longitude":-73.182557,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.643813,
     "lbl:longitude":-73.210774,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bomoseen",
+    "mz:postal_locality_alt":[
+        "Castleton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688763,
         102191575,
-        404527287,
         85633793,
-        102080771
+        102080771,
+        404527287,
+        85688763
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760074"
     },
     "wof:country":"US",
-    "wof:geomhash":"090770759eb48c6157b9fa2039218447",
+    "wof:geomhash":"efeb9bd12d283b605841d04f5dd32cb7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554699089,
-    "wof:lastmodified":1480903864,
+    "wof:lastmodified":1611184621,
     "wof:name":"05732",
     "wof:parent_id":404527287,
     "wof:placetype":"postalcode",

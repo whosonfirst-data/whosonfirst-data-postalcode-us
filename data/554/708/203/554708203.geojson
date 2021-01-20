@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003932,
-    "geom:area_square_m":38529687.218156,
+    "geom:area_square_m":38529687.21816,
     "geom:bbox":"-77.634203,37.555408,-77.531592,37.632304",
     "geom:latitude":37.587278,
     "geom:longitude":-77.572814,
@@ -14,20 +14,26 @@
     "lbl:latitude":37.586772,
     "lbl:longitude":-77.574165,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Richmond",
+    "mz:postal_locality_alt":[
+        "Henrico",
+        "Stafford"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688747,
         102191575,
         85633793,
+        102087255,
         101729377,
-        102087255
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12767271"
     },
     "wof:country":"US",
-    "wof:geomhash":"912a9b71795296a1c9271b02d6df1591",
+    "wof:geomhash":"2d9da21116f6a04a735f6d75f6f5524a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554708203,
-    "wof:lastmodified":1480812142,
+    "wof:lastmodified":1611182775,
     "wof:name":"23229",
     "wof:parent_id":101729377,
     "wof:placetype":"postalcode",

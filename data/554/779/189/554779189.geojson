@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00646,
-    "geom:area_square_m":61524819.360281,
+    "geom:area_square_m":61524819.360202,
     "geom:bbox":"-75.559792,39.56933,-75.463327,39.685317",
     "geom:latitude":39.624165,
     "geom:longitude":-75.509068,
@@ -14,21 +14,27 @@
     "lbl:latitude":39.619131,
     "lbl:longitude":-75.516096,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pennsville",
+    "mz:postal_locality_alt":[
+        "Riverside",
+        "Deepwater"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477895,
         85633793,
+        102083879,
+        404477895,
         85976015,
-        102083879
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761039"
     },
     "wof:country":"US",
-    "wof:geomhash":"57bfa6c1bfdc7af852ad2f1e471b5b57",
+    "wof:geomhash":"a4d1eb26f8d1804ec43ad3d64dd0decb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554779189,
-    "wof:lastmodified":1480835588,
+    "wof:lastmodified":1611183973,
     "wof:name":"08070",
     "wof:parent_id":85976015,
     "wof:placetype":"postalcode",

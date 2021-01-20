@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037122,
-    "geom:area_square_m":358894500.000657,
+    "geom:area_square_m":358894500.000445,
     "geom:bbox":"-98.682763,38.440713,-98.461764,38.696916",
     "geom:latitude":38.568763,
     "geom:longitude":-98.570761,
@@ -14,20 +14,26 @@
     "lbl:latitude":38.572533,
     "lbl:longitude":-98.563033,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Claflin",
+    "mz:postal_locality_alt":[
+        "Hoisington",
+        "Odin"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404502443,
         85633793,
-        102083449
+        102083449,
+        404502443,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787309"
     },
     "wof:country":"US",
-    "wof:geomhash":"8c15019c4b9a4a883e894826de7524c3",
+    "wof:geomhash":"a4b55d78da5fe6aa6832216902096842",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554739047,
-    "wof:lastmodified":1480841977,
+    "wof:lastmodified":1611182657,
     "wof:name":"67525",
     "wof:parent_id":404502443,
     "wof:placetype":"postalcode",

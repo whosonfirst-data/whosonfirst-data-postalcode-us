@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011629,
-    "geom:area_square_m":119741230.341856,
+    "geom:area_square_m":119741230.341973,
     "geom:bbox":"-84.645794,33.561296,-84.400638,33.679109",
     "geom:latitude":33.623584,
     "geom:longitude":-84.525901,
@@ -13,19 +13,24 @@
     "lbl:latitude":33.622488,
     "lbl:longitude":-84.523908,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Atlanta",
+    "mz:postal_locality_alt":[
+        "College Park"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688535,
-        102083603
+        102083603,
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770764"
     },
     "wof:country":"US",
-    "wof:geomhash":"58a60d77eb354f803043cf871b94d8ec",
+    "wof:geomhash":"8f3e5149cadb1827326d4163b25d7c5b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +41,7 @@
         }
     ],
     "wof:id":554713103,
-    "wof:lastmodified":1480841942,
+    "wof:lastmodified":1611183292,
     "wof:name":"30349",
     "wof:parent_id":102083603,
     "wof:placetype":"postalcode",

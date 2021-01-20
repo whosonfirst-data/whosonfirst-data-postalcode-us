@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019228,
-    "geom:area_square_m":160937444.860551,
+    "geom:area_square_m":160937444.860701,
     "geom:bbox":"-92.789683,47.327946,-92.557733,47.499429",
     "geom:latitude":47.398553,
     "geom:longitude":-92.661045,
@@ -14,20 +14,22 @@
     "lbl:latitude":47.397322,
     "lbl:longitude":-92.659139,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Iron",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404513579,
         85633793,
-        102087653
+        102087653,
+        404513579,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782052"
     },
     "wof:country":"US",
-    "wof:geomhash":"783a3acbb1ad20aa4bb8d43e477c043c",
+    "wof:geomhash":"592be5711ba04f8f691dfc62f86cdf22",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554729505,
-    "wof:lastmodified":1480785494,
+    "wof:lastmodified":1611185406,
     "wof:name":"55751",
     "wof:parent_id":404513579,
     "wof:placetype":"postalcode",

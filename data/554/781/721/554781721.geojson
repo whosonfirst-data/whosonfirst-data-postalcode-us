@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001521,
-    "geom:area_square_m":16803764.736447,
+    "geom:area_square_m":16803764.736405,
     "geom:bbox":"-80.115458,26.690932,-80.068003,26.750523",
     "geom:latitude":26.716111,
     "geom:longitude":-80.096389,
@@ -13,20 +13,25 @@
     "lbl:latitude":26.714559,
     "lbl:longitude":-80.095821,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"West Palm Beach",
+    "mz:postal_locality_alt":[
+        "Haverhill"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688651,
         102191575,
         85633793,
+        102085845,
         85931945,
-        102085845
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12772282"
     },
     "wof:country":"US",
-    "wof:geomhash":"e70aa7e8d7c2c99fbb2a9d39d1c2b69f",
+    "wof:geomhash":"ba31e7b9f100cf5fe018a63b43837892",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554781721,
-    "wof:lastmodified":1480804001,
+    "wof:lastmodified":1611184837,
     "wof:name":"33409",
     "wof:parent_id":85931945,
     "wof:placetype":"postalcode",

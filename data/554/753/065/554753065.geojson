@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004047,
-    "geom:area_square_m":39762458.223405,
+    "geom:area_square_m":39762458.223677,
     "geom:bbox":"-122.253539,37.320916,-122.172439,37.42513",
     "geom:latitude":37.378596,
     "geom:longitude":-122.215487,
@@ -14,20 +14,25 @@
     "lbl:latitude":37.376827,
     "lbl:longitude":-122.209796,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Portola Valley",
+    "mz:postal_locality_alt":[
+        "Menlo Park"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102085387,
         85922453,
-        102085387
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12797119"
     },
     "wof:country":"US",
-    "wof:geomhash":"5eed77880a6b9aa108eb97273b02a3c6",
+    "wof:geomhash":"f4ac2df694c6bb137003afc0109c9ba9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554753065,
-    "wof:lastmodified":1480829305,
+    "wof:lastmodified":1611182937,
     "wof:name":"94028",
     "wof:parent_id":85922453,
     "wof:placetype":"postalcode",

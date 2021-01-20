@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024968,
-    "geom:area_square_m":240319752.049949,
+    "geom:area_square_m":240319752.049841,
     "geom:bbox":"-98.786991,38.740253,-98.613478,39.031268",
     "geom:latitude":38.885311,
     "geom:longitude":-98.709306,
@@ -14,20 +14,22 @@
     "lbl:latitude":38.881563,
     "lbl:longitude":-98.716958,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bunker Hill",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404505191,
         85633793,
-        102084163
+        102084163,
+        404505191,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787351"
     },
     "wof:country":"US",
-    "wof:geomhash":"cbb36df0d55aab5c2348bcc8d5e622c0",
+    "wof:geomhash":"304dc08c4159a9f6f1dee9d2a476becd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554739139,
-    "wof:lastmodified":1480799309,
+    "wof:lastmodified":1611182668,
     "wof:name":"67626",
     "wof:parent_id":404505191,
     "wof:placetype":"postalcode",

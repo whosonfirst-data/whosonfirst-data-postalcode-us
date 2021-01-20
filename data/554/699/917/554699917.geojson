@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001805,
-    "geom:area_square_m":16903300.715992,
+    "geom:area_square_m":16903300.715972,
     "geom:bbox":"-74.09545,40.748802,-74.033791,40.807702",
     "geom:latitude":40.780966,
     "geom:longitude":-74.066234,
@@ -13,21 +13,26 @@
     "lbl:latitude":40.781958,
     "lbl:longitude":-74.067649,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Secaucus",
+    "mz:postal_locality_alt":[
+        "Jersey City"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477447,
         85633793,
+        102080719,
+        404477447,
         85975291,
-        102080719
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760680"
     },
     "wof:country":"US",
-    "wof:geomhash":"f67760df5b4254934df087753b7155d4",
+    "wof:geomhash":"faa7e7c64ccb302bbf86ec60c223d46e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554699917,
-    "wof:lastmodified":1480908563,
+    "wof:lastmodified":1611184633,
     "wof:name":"07094",
     "wof:parent_id":85975291,
     "wof:placetype":"postalcode",

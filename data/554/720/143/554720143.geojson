@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020568,
-    "geom:area_square_m":201307801.441302,
+    "geom:area_square_m":201307801.441252,
     "geom:bbox":"-86.22189,37.579592,-85.901725,37.750338",
     "geom:latitude":37.673045,
     "geom:longitude":-86.064621,
@@ -14,19 +14,24 @@
     "lbl:latitude":37.675918,
     "lbl:longitude":-86.070835,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cecilia",
+    "mz:postal_locality_alt":[
+        "Elizabethtown"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688641,
-        102084595
+        102084595,
+        85688641
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776045"
     },
     "wof:country":"US",
-    "wof:geomhash":"5864c43516f6fbf89bdb7f2e44b6291d",
+    "wof:geomhash":"d3a0804dbcb92b5c8151ea17ff0b902d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554720143,
-    "wof:lastmodified":1480815762,
+    "wof:lastmodified":1611185466,
     "wof:name":"42724",
     "wof:parent_id":102084595,
     "wof:placetype":"postalcode",

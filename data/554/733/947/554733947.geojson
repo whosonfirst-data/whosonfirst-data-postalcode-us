@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013396,
-    "geom:area_square_m":124946256.464659,
+    "geom:area_square_m":124946256.464527,
     "geom:bbox":"-89.32468,40.963145,-89.14351,41.09713",
     "geom:latitude":41.035282,
     "geom:longitude":-89.250454,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.035173,
     "lbl:longitude":-89.243431,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Varna",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404499653,
         85633793,
-        102087569
+        102087569,
+        404499653,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784595"
     },
     "wof:country":"US",
-    "wof:geomhash":"10c5ea5a508917f1b320cd42b0e210f4",
+    "wof:geomhash":"da2af9dd16e697b0a400f44e040ccf0f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554733947,
-    "wof:lastmodified":1480782700,
+    "wof:lastmodified":1611184228,
     "wof:name":"61375",
     "wof:parent_id":404499653,
     "wof:placetype":"postalcode",

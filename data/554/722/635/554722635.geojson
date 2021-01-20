@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005833,
-    "geom:area_square_m":55536904.053896,
+    "geom:area_square_m":55536904.053838,
     "geom:bbox":"-86.045121,39.60068,-85.939807,39.697049",
     "geom:latitude":39.651754,
     "geom:longitude":-85.98717,
@@ -13,21 +13,26 @@
     "lbl:latitude":39.650921,
     "lbl:longitude":-85.981462,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Indianapolis",
+    "mz:postal_locality_alt":[
+        "Acton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404502029,
         85633793,
+        102087201,
+        404502029,
         85942569,
-        102087201
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777690"
     },
     "wof:country":"US",
-    "wof:geomhash":"5a2cb158566261933ec598e20f79469e",
+    "wof:geomhash":"3d7afad96e25ccd8c164259ead534aef",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554722635,
-    "wof:lastmodified":1480908881,
+    "wof:lastmodified":1611183223,
     "wof:name":"46259",
     "wof:parent_id":85942569,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001582,
-    "geom:area_square_m":14659095.443665,
+    "geom:area_square_m":14659095.443667,
     "geom:bbox":"-81.874507,41.449725,-81.8219,41.494624",
     "geom:latitude":41.472973,
     "geom:longitude":-81.853312,
@@ -14,21 +14,26 @@
     "lbl:latitude":41.473072,
     "lbl:longitude":-81.853825,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cleveland",
+    "mz:postal_locality_alt":[
+        "Rocky River"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404524451,
         85633793,
+        102084837,
+        404524451,
         101712511,
-        102084837
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776642"
     },
     "wof:country":"US",
-    "wof:geomhash":"08b4a39c9b0ef9ca36231a99667e47c4",
+    "wof:geomhash":"872f6d914ff696107b813551ded9a5cc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554782391,
-    "wof:lastmodified":1480799989,
+    "wof:lastmodified":1611183600,
     "wof:name":"44116",
     "wof:parent_id":101712511,
     "wof:placetype":"postalcode",

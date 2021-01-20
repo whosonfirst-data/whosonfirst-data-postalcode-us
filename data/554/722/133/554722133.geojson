@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009978,
-    "geom:area_square_m":95665568.037127,
+    "geom:area_square_m":95665568.037113,
     "geom:bbox":"-82.447181,39.072417,-82.306669,39.211243",
     "geom:latitude":39.159372,
     "geom:longitude":-82.369339,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.161543,
     "lbl:longitude":-82.372654,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wilkesville",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404524181,
         85633793,
-        102084833
+        102084833,
+        404524181,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777391"
     },
     "wof:country":"US",
-    "wof:geomhash":"85de944d0617ba81e25670f8fa6aa55e",
+    "wof:geomhash":"f4f1282d8d195a3732baa0c544c36f98",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554722133,
-    "wof:lastmodified":1480843277,
+    "wof:lastmodified":1611183213,
     "wof:name":"45695",
     "wof:parent_id":404524181,
     "wof:placetype":"postalcode",

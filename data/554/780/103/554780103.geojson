@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017336,
-    "geom:area_square_m":153952762.324481,
+    "geom:area_square_m":153952762.324428,
     "geom:bbox":"-76.218674,44.013147,-75.994909,44.176115",
     "geom:latitude":44.096362,
     "geom:longitude":-76.113168,
@@ -14,20 +14,25 @@
     "lbl:latitude":44.100667,
     "lbl:longitude":-76.106996,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Chaumont",
+    "mz:postal_locality_alt":[
+        "Depauville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404521931,
         85633793,
-        102082357
+        102082357,
+        404521931,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762888"
     },
     "wof:country":"US",
-    "wof:geomhash":"9238e70eed32d0b1ae17d6b5fe260112",
+    "wof:geomhash":"5ac7bcd7d9c8a590d76f135b7b8fac09",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554780103,
-    "wof:lastmodified":1480796160,
+    "wof:lastmodified":1611185159,
     "wof:name":"13622",
     "wof:parent_id":404521931,
     "wof:placetype":"postalcode",

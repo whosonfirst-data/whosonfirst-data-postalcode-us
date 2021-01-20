@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014053,
-    "geom:area_square_m":155972410.757784,
+    "geom:area_square_m":155972410.757745,
     "geom:bbox":"-98.045875,26.044596,-97.924921,26.279148",
     "geom:latitude":26.158169,
     "geom:longitude":-97.98925,
@@ -13,20 +13,26 @@
     "lbl:latitude":26.158622,
     "lbl:longitude":-97.989154,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Weslaco",
+    "mz:postal_locality_alt":[
+        "Mercedes",
+        "Progreso"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102083831,
         101723443,
-        102083831
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12792204"
     },
     "wof:country":"US",
-    "wof:geomhash":"0a17f8d80314dc14e5be44181d7f45db",
+    "wof:geomhash":"ae7483fdfb84a8078589e5d6598bcf7d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554746933,
-    "wof:lastmodified":1480908162,
+    "wof:lastmodified":1611184017,
     "wof:name":"78596",
     "wof:parent_id":101723443,
     "wof:placetype":"postalcode",

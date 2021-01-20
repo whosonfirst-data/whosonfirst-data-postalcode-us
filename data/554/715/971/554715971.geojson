@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021462,
-    "geom:area_square_m":220577027.701475,
+    "geom:area_square_m":220577027.701514,
     "geom:bbox":"-86.146225,33.6772,-85.903934,33.882423",
     "geom:latitude":33.7815,
     "geom:longitude":-86.016111,
@@ -14,20 +14,25 @@
     "lbl:latitude":33.78123,
     "lbl:longitude":-86.01869,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ohatchee",
+    "mz:postal_locality_alt":[
+        "Middletown"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688675,
         102191575,
         85633793,
+        102085603,
         85914299,
-        102085603
+        85688675
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12773446"
     },
     "wof:country":"US",
-    "wof:geomhash":"f760ece3fc6d261f7b5f86b18e2d53e3",
+    "wof:geomhash":"faf965dde73c1e4b4e91366d6d544f91",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554715971,
-    "wof:lastmodified":1480814566,
+    "wof:lastmodified":1611183661,
     "wof:name":"36271",
     "wof:parent_id":85914299,
     "wof:placetype":"postalcode",

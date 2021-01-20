@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006088,
-    "geom:area_square_m":65086286.683944,
+    "geom:area_square_m":65086286.683926,
     "geom:bbox":"-92.090857,30.099779,-91.976372,30.217131",
     "geom:latitude":30.155494,
     "geom:longitude":-92.028575,
@@ -13,20 +13,26 @@
     "lbl:latitude":30.155238,
     "lbl:longitude":-92.028225,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lafayette",
+    "mz:postal_locality_alt":[
+        "Broussard",
+        "Youngsville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688735,
         102191575,
         85633793,
+        102081919,
         85948377,
-        102081919
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12788315"
     },
     "wof:country":"US",
-    "wof:geomhash":"3c45e9ad40bd1c0d99c5c257ab551c93",
+    "wof:geomhash":"25b1d268788447254ca92c8ad22dfa24",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554740783,
-    "wof:lastmodified":1480840745,
+    "wof:lastmodified":1611183401,
     "wof:name":"70508",
     "wof:parent_id":85948377,
     "wof:placetype":"postalcode",

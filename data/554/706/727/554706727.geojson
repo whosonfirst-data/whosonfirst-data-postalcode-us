@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001432,
-    "geom:area_square_m":13796247.936547,
+    "geom:area_square_m":13796247.9366,
     "geom:bbox":"-77.031287,38.803113,-76.972974,38.860689",
     "geom:latitude":38.834214,
     "geom:longitude":-77.006812,
@@ -14,20 +14,25 @@
     "lbl:latitude":38.833719,
     "lbl:longitude":-77.006591,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Washington",
+    "mz:postal_locality_alt":[
+        "Bolling Afb"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688741,
         102191575,
         85633793,
+        102084889,
         85931779,
-        102084889
+        85688741
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765861"
     },
     "wof:country":"US",
-    "wof:geomhash":"03cc142df76a214998ddb655df3ef4e2",
+    "wof:geomhash":"581fad87a6540602a76a8230965b6a05",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554706727,
-    "wof:lastmodified":1480803491,
+    "wof:lastmodified":1611182718,
     "wof:name":"20032",
     "wof:parent_id":85931779,
     "wof:placetype":"postalcode",

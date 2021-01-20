@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014726,
-    "geom:area_square_m":139467081.268378,
+    "geom:area_square_m":139467081.268422,
     "geom:bbox":"-81.11875,39.909118,-80.890322,40.098571",
     "geom:latitude":40.009467,
     "geom:longitude":-81.000912,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.015007,
     "lbl:longitude":-80.998096,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Belmont",
+    "mz:postal_locality_alt":[
+        "Morristown"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404523597,
         85633793,
-        102083721
+        102083721,
+        404523597,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776426"
     },
     "wof:country":"US",
-    "wof:geomhash":"0f56aa58cd18a5ed015219b94dcc03e1",
+    "wof:geomhash":"c828530fcc735f707b673cce9d880c0f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554720707,
-    "wof:lastmodified":1480838324,
+    "wof:lastmodified":1611185451,
     "wof:name":"43718",
     "wof:parent_id":404523597,
     "wof:placetype":"postalcode",

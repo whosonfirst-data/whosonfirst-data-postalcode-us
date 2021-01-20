@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042283,
-    "geom:area_square_m":370243323.551039,
+    "geom:area_square_m":370243323.550894,
     "geom:bbox":"-71.552693,44.787838,-71.220029,45.028398",
     "geom:latitude":44.916269,
     "geom:longitude":-71.384843,
@@ -14,20 +14,26 @@
     "lbl:latitude":44.912445,
     "lbl:longitude":-71.385112,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Colebrook",
+    "mz:postal_locality_alt":[
+        "Landaff",
+        "Lisbon"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688689,
         102191575,
-        404476979,
         85633793,
-        102085529
+        102085529,
+        404476979,
+        85688689
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759224"
     },
     "wof:country":"US",
-    "wof:geomhash":"7b0a126923c0422efc0059a595774999",
+    "wof:geomhash":"36a2d9a8ffee6b97380b43cb0a405317",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554697919,
-    "wof:lastmodified":1480905151,
+    "wof:lastmodified":1611184664,
     "wof:name":"03576",
     "wof:parent_id":404476979,
     "wof:placetype":"postalcode",

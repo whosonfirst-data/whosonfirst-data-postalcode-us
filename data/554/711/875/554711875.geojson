@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021981,
-    "geom:area_square_m":224797965.918079,
+    "geom:area_square_m":224797965.918023,
     "geom:bbox":"-81.15298,34.132853,-80.857238,34.279425",
     "geom:latitude":34.202442,
     "geom:longitude":-80.995735,
@@ -14,19 +14,24 @@
     "lbl:latitude":34.20251,
     "lbl:longitude":-80.997,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Blythewood",
+    "mz:postal_locality_alt":[
+        "Batesburg"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688683,
-        102085405
+        102085405,
+        85688683
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12769962"
     },
     "wof:country":"US",
-    "wof:geomhash":"7ad86f8dce9076927b29591cb3d83624",
+    "wof:geomhash":"2654dcd71549b4fce0b62d240ba7f109",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554711875,
-    "wof:lastmodified":1480814921,
+    "wof:lastmodified":1611185308,
     "wof:name":"29016",
     "wof:parent_id":102085405,
     "wof:placetype":"postalcode",

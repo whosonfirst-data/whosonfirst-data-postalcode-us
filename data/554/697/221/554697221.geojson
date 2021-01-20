@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006254,
-    "geom:area_square_m":57154425.077824,
+    "geom:area_square_m":57154425.077807,
     "geom:bbox":"-71.625825,42.310977,-71.475505,42.380632",
     "geom:latitude":42.349398,
     "geom:longitude":-71.546807,
@@ -14,21 +14,27 @@
     "lbl:latitude":42.349618,
     "lbl:longitude":-71.547214,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Marlborough",
+    "mz:postal_locality_alt":[
+        "Framingham",
+        "Marlboro"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476401,
         85633793,
+        102084643,
+        404476401,
         85950343,
-        102084643
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758561"
     },
     "wof:country":"US",
-    "wof:geomhash":"41a0ce9c1717213c137d4e59824ba2be",
+    "wof:geomhash":"0bcb577a76e406796acdca26c0ee1ede",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554697221,
-    "wof:lastmodified":1480803781,
+    "wof:lastmodified":1611184640,
     "wof:name":"01752",
     "wof:parent_id":85950343,
     "wof:placetype":"postalcode",

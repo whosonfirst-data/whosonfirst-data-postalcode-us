@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019367,
-    "geom:area_square_m":184761489.010693,
+    "geom:area_square_m":184761489.010625,
     "geom:bbox":"-91.950331,39.416403,-91.712998,39.583082",
     "geom:latitude":39.508397,
     "geom:longitude":-91.834996,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.509271,
     "lbl:longitude":-91.827525,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Stoutsville",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404516877,
         85633793,
-        102081223
+        102081223,
+        404516877,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786430"
     },
     "wof:country":"US",
-    "wof:geomhash":"46ab53ef1ef3e73fb5f69fe922530135",
+    "wof:geomhash":"a83266d706551d5b29d0779423e7358c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554737295,
-    "wof:lastmodified":1480908886,
+    "wof:lastmodified":1611182835,
     "wof:name":"65283",
     "wof:parent_id":404516877,
     "wof:placetype":"postalcode",

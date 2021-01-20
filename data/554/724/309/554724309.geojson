@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012838,
-    "geom:area_square_m":115740065.241869,
+    "geom:area_square_m":115740065.241838,
     "geom:bbox":"-84.028359,43.132782,-83.813867,43.249116",
     "geom:latitude":43.189429,
     "geom:longitude":-83.895652,
@@ -14,20 +14,22 @@
     "lbl:latitude":43.186801,
     "lbl:longitude":-83.89517,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Montrose",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404506615,
         85633793,
-        102083111
+        102083111,
+        404506615,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778846"
     },
     "wof:country":"US",
-    "wof:geomhash":"f06fe18d60e11b52b6f828124a3cacb1",
+    "wof:geomhash":"75d2cacb77f383680f4206a349c96e93",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554724309,
-    "wof:lastmodified":1480843134,
+    "wof:lastmodified":1611183741,
     "wof:name":"48457",
     "wof:parent_id":404506615,
     "wof:placetype":"postalcode",

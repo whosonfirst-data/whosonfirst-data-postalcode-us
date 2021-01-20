@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008752,
-    "geom:area_square_m":81978793.324945,
+    "geom:area_square_m":81978793.324927,
     "geom:bbox":"-75.106689,40.709703,-74.91143,40.79977",
     "geom:latitude":40.751783,
     "geom:longitude":-75.011085,
@@ -14,21 +14,26 @@
     "lbl:latitude":40.75264,
     "lbl:longitude":-75.013787,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Washington",
+    "mz:postal_locality_alt":[
+        "Broadway"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478533,
         85633793,
+        102083873,
+        404478533,
         85976419,
-        102083873
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760938"
     },
     "wof:country":"US",
-    "wof:geomhash":"5d1696f36d0a800c6a3ce9eb3587232e",
+    "wof:geomhash":"85aa6d03bd711f47f962c16331ab3775",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554700257,
-    "wof:lastmodified":1480837398,
+    "wof:lastmodified":1611183183,
     "wof:name":"07882",
     "wof:parent_id":85976419,
     "wof:placetype":"postalcode",

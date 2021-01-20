@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016523,
-    "geom:area_square_m":152893784.779496,
+    "geom:area_square_m":152893784.779513,
     "geom:bbox":"-85.48164,41.504667,-85.193854,41.60006",
     "geom:latitude":41.551141,
     "geom:longitude":-85.337766,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.554014,
     "lbl:longitude":-85.330806,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wolcottville",
+    "mz:postal_locality_alt":[
+        "Kendallville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404501847,
         85633793,
-        102087031
+        102087031,
+        404501847,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777903"
     },
     "wof:country":"US",
-    "wof:geomhash":"918146a7fbe8bb8a3ace7fa50a863af0",
+    "wof:geomhash":"4622cf02d148671d859fdc736c2cf34f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554722923,
-    "wof:lastmodified":1480915899,
+    "wof:lastmodified":1611183227,
     "wof:name":"46795",
     "wof:parent_id":404501847,
     "wof:placetype":"postalcode",

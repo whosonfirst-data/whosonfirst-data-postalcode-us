@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011587,
-    "geom:area_square_m":120150047.975622,
+    "geom:area_square_m":120150047.975798,
     "geom:bbox":"-97.308828,32.942473,-97.151221,33.090947",
     "geom:latitude":33.009474,
     "geom:longitude":-97.2258,
@@ -14,20 +14,28 @@
     "lbl:latitude":33.009335,
     "lbl:longitude":-97.22672,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Roanoke",
+    "mz:postal_locality_alt":[
+        "Keller",
+        "Westlake",
+        "Northlake",
+        "Greenwood"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102087371,
         101724487,
-        102087371
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12791008"
     },
     "wof:country":"US",
-    "wof:geomhash":"bf3d56c379c81b3b8e9340d441e27a43",
+    "wof:geomhash":"2668f8156978f1fe046afa49b9b5e916",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +47,7 @@
         }
     ],
     "wof:id":554745257,
-    "wof:lastmodified":1480840097,
+    "wof:lastmodified":1611185262,
     "wof:name":"76262",
     "wof:parent_id":101724487,
     "wof:placetype":"postalcode",

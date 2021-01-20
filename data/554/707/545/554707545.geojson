@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003359,
-    "geom:area_square_m":32354531.851129,
+    "geom:area_square_m":32354531.851109,
     "geom:bbox":"-77.266099,38.810533,-77.15703,38.862032",
     "geom:latitude":38.830778,
     "geom:longitude":-77.214429,
@@ -14,20 +14,25 @@
     "lbl:latitude":38.829816,
     "lbl:longitude":-77.215318,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Annandale",
+    "mz:postal_locality_alt":[
+        "Fairfax"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688747,
         102191575,
         85633793,
+        102084863,
         101729723,
-        102084863
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766793"
     },
     "wof:country":"US",
-    "wof:geomhash":"d99405af5598d10a2fc90470983b9953",
+    "wof:geomhash":"789eb8590c8a4087670452a04c3eacf6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554707545,
-    "wof:lastmodified":1480802132,
+    "wof:lastmodified":1611183150,
     "wof:name":"22003",
     "wof:parent_id":101729723,
     "wof:placetype":"postalcode",

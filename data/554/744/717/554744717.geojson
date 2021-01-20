@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.047161,
-    "geom:area_square_m":490210841.845366,
+    "geom:area_square_m":490210841.845566,
     "geom:bbox":"-95.152284,32.6483,-94.823047,32.902777",
     "geom:latitude":32.795101,
     "geom:longitude":-94.995517,
@@ -13,19 +13,24 @@
     "lbl:latitude":32.791213,
     "lbl:longitude":-94.999846,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Gilmer",
+    "mz:postal_locality_alt":[
+        "Carthage"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688753,
-        102087365
+        102087365,
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12790685"
     },
     "wof:country":"US",
-    "wof:geomhash":"a45ac641e971968da46f9407428b7199",
+    "wof:geomhash":"af35a1774ffb648cb8beda12e42484f0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +41,7 @@
         }
     ],
     "wof:id":554744717,
-    "wof:lastmodified":1480832794,
+    "wof:lastmodified":1611184751,
     "wof:name":"75644",
     "wof:parent_id":102087365,
     "wof:placetype":"postalcode",

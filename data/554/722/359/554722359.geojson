@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009398,
-    "geom:area_square_m":88041534.518663,
+    "geom:area_square_m":88041534.518749,
     "geom:bbox":"-84.802489,40.65504,-84.688974,40.822383",
     "geom:latitude":40.742944,
     "geom:longitude":-84.756952,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.743474,
     "lbl:longitude":-84.769651,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Willshire",
+    "mz:postal_locality_alt":[
+        "Ohio City"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404524171,
         85633793,
-        102083689
+        102083689,
+        404524171,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777531"
     },
     "wof:country":"US",
-    "wof:geomhash":"27afac9c848a361ccf64f067f9c4a88e",
+    "wof:geomhash":"0d483f0565e3bae23f363337b7147295",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554722359,
-    "wof:lastmodified":1480838072,
+    "wof:lastmodified":1611183230,
     "wof:name":"45898",
     "wof:parent_id":404524171,
     "wof:placetype":"postalcode",

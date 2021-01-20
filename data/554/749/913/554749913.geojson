@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000396,
-    "geom:area_square_m":3709462.725092,
+    "geom:area_square_m":3709462.725102,
     "geom:bbox":"-111.891097,40.741612,-111.87677,40.770558",
     "geom:latitude":40.75596,
     "geom:longitude":-111.883983,
@@ -13,20 +13,22 @@
     "lbl:latitude":40.755959,
     "lbl:longitude":-111.883983,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Salt Lake City",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688567,
         102191575,
         85633793,
+        102082877,
         101728075,
-        102082877
+        85688567
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12794134"
     },
     "wof:country":"US",
-    "wof:geomhash":"069cf6d8ca8976a65ed155f55e2a6e51",
+    "wof:geomhash":"afd456010223d6e292b9d1f3ea45f1da",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +40,7 @@
         }
     ],
     "wof:id":554749913,
-    "wof:lastmodified":1480793072,
+    "wof:lastmodified":1611183565,
     "wof:name":"84111",
     "wof:parent_id":101728075,
     "wof:placetype":"postalcode",

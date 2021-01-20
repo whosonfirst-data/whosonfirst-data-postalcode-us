@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003141,
-    "geom:area_square_m":32302650.815898,
+    "geom:area_square_m":32302650.815854,
     "geom:bbox":"-84.502793,33.68457,-84.434022,33.764465",
     "geom:latitude":33.723354,
     "geom:longitude":-84.474801,
@@ -13,20 +13,22 @@
     "lbl:latitude":33.723262,
     "lbl:longitude":-84.475994,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Atlanta",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688535,
         102191575,
         85633793,
+        102083603,
         85936429,
-        102083603
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770726"
     },
     "wof:country":"US",
-    "wof:geomhash":"4b6b1fc629e3ba53033c5b5f1c008ddd",
+    "wof:geomhash":"2afc2d5f7ae761352cda5c0c2478aa4a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +40,7 @@
         }
     ],
     "wof:id":554713039,
-    "wof:lastmodified":1480841943,
+    "wof:lastmodified":1611183309,
     "wof:name":"30311",
     "wof:parent_id":85936429,
     "wof:placetype":"postalcode",

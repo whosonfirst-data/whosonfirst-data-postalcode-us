@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006722,
-    "geom:area_square_m":61148086.612026,
+    "geom:area_square_m":61148086.612023,
     "geom:bbox":"-82.713116,42.593221,-82.509937,42.667186",
     "geom:latitude":42.636664,
     "geom:longitude":-82.586626,
@@ -14,20 +14,25 @@
     "lbl:latitude":42.639231,
     "lbl:longitude":-82.581698,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Algonac",
+    "mz:postal_locality_alt":[
+        "Clay"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404508863,
         85633793,
-        102083053
+        102083053,
+        404508863,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778517"
     },
     "wof:country":"US",
-    "wof:geomhash":"8253c73b3f2e37e61498b89534c2c81c",
+    "wof:geomhash":"bcf3e9a3480d6e33285a1f13b8495036",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554782475,
-    "wof:lastmodified":1480842996,
+    "wof:lastmodified":1611183623,
     "wof:name":"48001",
     "wof:parent_id":404508863,
     "wof:placetype":"postalcode",

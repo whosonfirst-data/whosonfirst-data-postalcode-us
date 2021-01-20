@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011967,
-    "geom:area_square_m":107999081.525636,
+    "geom:area_square_m":107999081.525602,
     "geom:bbox":"-73.00054,43.042659,-72.779943,43.227849",
     "geom:latitude":43.124139,
     "geom:longitude":-72.894434,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.091967,
     "lbl:longitude":-72.914343,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"South Londonderry",
+    "mz:postal_locality_alt":[
+        "S Londonderry"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688763,
         102191575,
-        404527097,
         85633793,
-        102080773
+        102080773,
+        404527097,
+        85688763
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759925"
     },
     "wof:country":"US",
-    "wof:geomhash":"31c60be241a3798113fc4e01d88649d7",
+    "wof:geomhash":"b74765296145bd5c67b6ed4da35ba62f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554698851,
-    "wof:lastmodified":1480903162,
+    "wof:lastmodified":1611184684,
     "wof:name":"05155",
     "wof:parent_id":404527097,
     "wof:placetype":"postalcode",

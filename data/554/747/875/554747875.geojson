@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001928,
-    "geom:area_square_m":18313572.344157,
+    "geom:area_square_m":18313572.344158,
     "geom:bbox":"-105.086631,39.796975,-105.034505,39.857061",
     "geom:latitude":39.826471,
     "geom:longitude":-105.063278,
@@ -13,20 +13,25 @@
     "lbl:latitude":39.825373,
     "lbl:longitude":-105.063525,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Arvada",
+    "mz:postal_locality_alt":[
+        "Westminster"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688603,
         102191575,
         85633793,
+        102084113,
         85929333,
-        102084113
+        85688603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12792864"
     },
     "wof:country":"US",
-    "wof:geomhash":"c9f356eee5cbdccea598be6f69349f63",
+    "wof:geomhash":"59d06c2b1cb6e30274ec56e7893ea08c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554747875,
-    "wof:lastmodified":1480803276,
+    "wof:lastmodified":1611183457,
     "wof:name":"80003",
     "wof:parent_id":85929333,
     "wof:placetype":"postalcode",

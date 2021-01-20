@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00013,
-    "geom:area_square_m":1165542.360934,
+    "geom:area_square_m":1165542.360935,
     "geom:bbox":"-83.934205,43.454474,-83.910696,43.465468",
     "geom:latitude":43.460001,
     "geom:longitude":-83.922806,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.456815,
     "lbl:longitude":-83.928244,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Carrollton",
+    "mz:postal_locality_alt":[
+        "Saginaw"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404508783,
         85633793,
-        102083725
+        102083725,
+        404508783,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778954"
     },
     "wof:country":"US",
-    "wof:geomhash":"8df6357b7b2426d60106945aadaf5663",
+    "wof:geomhash":"184b64f9ce8f39d7debeb8548a101e07",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554771095,
-    "wof:lastmodified":1480838569,
+    "wof:lastmodified":1611183531,
     "wof:name":"48724",
     "wof:parent_id":404508783,
     "wof:placetype":"postalcode",

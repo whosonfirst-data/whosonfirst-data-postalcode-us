@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00003,
-    "geom:area_square_m":299425.300283,
+    "geom:area_square_m":299425.300284,
     "geom:bbox":"-85.865071,35.535965,-85.855749,35.541756",
     "geom:latitude":35.539396,
     "geom:longitude":-85.860045,
@@ -14,20 +14,25 @@
     "lbl:latitude":35.539396,
     "lbl:longitude":-85.860045,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Morrison",
+    "mz:postal_locality_alt":[
+        "Viola"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688701,
         102191575,
         85633793,
+        102086399,
         101723099,
-        102086399
+        85688701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12774005"
     },
     "wof:country":"US",
-    "wof:geomhash":"c2af3820bdb611bc2559d4047e4293d0",
+    "wof:geomhash":"d6eae12489536fa686b4b870ee3915f2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554769753,
-    "wof:lastmodified":1480913290,
+    "wof:lastmodified":1611184315,
     "wof:name":"37394",
     "wof:parent_id":101723099,
     "wof:placetype":"postalcode",

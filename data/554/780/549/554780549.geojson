@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.052275,
-    "geom:area_square_m":505855883.854032,
+    "geom:area_square_m":505855883.854041,
     "geom:bbox":"-76.314679,38.344608,-75.875671,38.637963",
     "geom:latitude":38.502207,
     "geom:longitude":-76.083413,
@@ -14,19 +14,24 @@
     "lbl:latitude":38.502789,
     "lbl:longitude":-76.078875,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cambridge",
+    "mz:postal_locality_alt":[
+        "Stevensville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688501,
-        102082723
+        102082723,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766603"
     },
     "wof:country":"US",
-    "wof:geomhash":"3b2416c70f9cb52442554bbfd6b9c824",
+    "wof:geomhash":"aca62948599dc00e7eb238d2e1cc96be",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554780549,
-    "wof:lastmodified":1480794796,
+    "wof:lastmodified":1611185191,
     "wof:name":"21613",
     "wof:parent_id":102082723,
     "wof:placetype":"postalcode",

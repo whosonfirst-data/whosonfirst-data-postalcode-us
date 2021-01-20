@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018909,
-    "geom:area_square_m":172817427.104656,
+    "geom:area_square_m":172817427.104315,
     "geom:bbox":"-75.389555,42.200659,-75.231103,42.454298",
     "geom:latitude":42.343801,
     "geom:longitude":-75.311467,
@@ -14,20 +14,22 @@
     "lbl:latitude":42.350096,
     "lbl:longitude":-75.309317,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Unadilla",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404523039,
         85633793,
-        102082399
+        102082399,
+        404523039,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763040"
     },
     "wof:country":"US",
-    "wof:geomhash":"65c9fdfc3fe57bb73b018cffac548037",
+    "wof:geomhash":"03c49567e51f4bc42ce31560a0d1080f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554702693,
-    "wof:lastmodified":1480793013,
+    "wof:lastmodified":1611184144,
     "wof:name":"13849",
     "wof:parent_id":404523039,
     "wof:placetype":"postalcode",

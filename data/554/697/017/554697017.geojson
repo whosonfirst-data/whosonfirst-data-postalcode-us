@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009766,
-    "geom:area_square_m":88784563.289237,
+    "geom:area_square_m":88784563.289241,
     "geom:bbox":"-72.412015,42.609376,-72.278688,42.725435",
     "geom:latitude":42.674797,
     "geom:longitude":-72.345812,
@@ -14,20 +14,22 @@
     "lbl:latitude":42.673533,
     "lbl:longitude":-72.353213,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Warwick",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476337,
         85633793,
-        102084457
+        102084457,
+        404476337,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758442"
     },
     "wof:country":"US",
-    "wof:geomhash":"dd57d069771f6db3963bf1955fe83d9b",
+    "wof:geomhash":"b5faa9c44bc9e7edb218a480c1b61eb9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554697017,
-    "wof:lastmodified":1480809136,
+    "wof:lastmodified":1611184657,
     "wof:name":"01378",
     "wof:parent_id":404476337,
     "wof:placetype":"postalcode",

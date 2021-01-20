@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015153,
-    "geom:area_square_m":151284006.604871,
+    "geom:area_square_m":151284006.604713,
     "geom:bbox":"-79.674494,36.057916,-79.506452,36.280977",
     "geom:latitude":36.157381,
     "geom:longitude":-79.581937,
@@ -14,19 +14,24 @@
     "lbl:latitude":36.154141,
     "lbl:longitude":-79.582389,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Gibsonville",
+    "mz:postal_locality_alt":[
+        "Whitsett"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688773,
-        102080985
+        102080985,
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12768970"
     },
     "wof:country":"US",
-    "wof:geomhash":"80d288f39f4d74e2851f9f2f521c4105",
+    "wof:geomhash":"e82979ccd9d793c79c536b698b26d86d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554710539,
-    "wof:lastmodified":1480904874,
+    "wof:lastmodified":1611185119,
     "wof:name":"27249",
     "wof:parent_id":102080985,
     "wof:placetype":"postalcode",

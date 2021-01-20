@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000871,
-    "geom:area_square_m":8165589.922839,
+    "geom:area_square_m":8165589.922832,
     "geom:bbox":"-73.345006,40.714623,-73.306479,40.750509",
     "geom:latitude":40.732952,
     "geom:longitude":-73.325616,
@@ -14,21 +14,27 @@
     "lbl:latitude":40.732671,
     "lbl:longitude":-73.32501,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"North Babylon",
+    "mz:postal_locality_alt":[
+        "Babylon",
+        "Deer Park"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522513,
         85633793,
+        102082395,
+        404522513,
         85979905,
-        102082395
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761897"
     },
     "wof:country":"US",
-    "wof:geomhash":"b0caeb1479d27d7aff0bc10b8af1303b",
+    "wof:geomhash":"b754b3563364140ccd08bc1007a8821e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554779823,
-    "wof:lastmodified":1480794864,
+    "wof:lastmodified":1611183981,
     "wof:name":"11703",
     "wof:parent_id":85979905,
     "wof:placetype":"postalcode",

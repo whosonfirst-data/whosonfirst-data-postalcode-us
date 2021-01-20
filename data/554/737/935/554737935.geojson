@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044857,
-    "geom:area_square_m":433357048.693815,
+    "geom:area_square_m":433357048.69369,
     "geom:bbox":"-95.417017,38.506424,-95.121054,38.738915",
     "geom:latitude":38.620612,
     "geom:longitude":-95.275679,
@@ -14,21 +14,23 @@
     "lbl:latitude":38.623617,
     "lbl:longitude":-95.276284,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ottawa",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404503665,
         85633793,
+        102082121,
+        404503665,
         85945713,
-        102082121
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786750"
     },
     "wof:country":"US",
-    "wof:geomhash":"7da2021125150cbc07eaee77c1eaf060",
+    "wof:geomhash":"f27bfd711701b18b37fc3cd8c21f0856",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +43,7 @@
         }
     ],
     "wof:id":554737935,
-    "wof:lastmodified":1480813860,
+    "wof:lastmodified":1611182846,
     "wof:name":"66067",
     "wof:parent_id":85945713,
     "wof:placetype":"postalcode",

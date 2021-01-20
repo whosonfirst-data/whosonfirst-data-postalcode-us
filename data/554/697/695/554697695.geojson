@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001962,
-    "geom:area_square_m":17818623.275337,
+    "geom:area_square_m":17818623.275334,
     "geom:bbox":"-71.49335,42.699989,-71.432308,42.769831",
     "geom:latitude":42.741208,
     "geom:longitude":-71.459216,
@@ -13,21 +13,27 @@
     "lbl:latitude":42.741087,
     "lbl:longitude":-71.458266,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Nashua",
+    "mz:postal_locality_alt":[
+        "Merrimack",
+        "Londonderry"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688689,
         102191575,
-        404477133,
         85633793,
+        102085493,
+        404477133,
         85975079,
-        102085493
+        85688689
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759097"
     },
     "wof:country":"US",
-    "wof:geomhash":"6d24e32b02caae2d4367a79654f8a912",
+    "wof:geomhash":"a230e3b5217caeb93fda566e6ecb1e7e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +46,7 @@
         }
     ],
     "wof:id":554697695,
-    "wof:lastmodified":1480804333,
+    "wof:lastmodified":1611184645,
     "wof:name":"03060",
     "wof:parent_id":85975079,
     "wof:placetype":"postalcode",

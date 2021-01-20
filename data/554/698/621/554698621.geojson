@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014151,
-    "geom:area_square_m":124655734.265479,
+    "geom:area_square_m":124655734.265456,
     "geom:bbox":"-69.20425,44.471555,-69.050489,44.655743",
     "geom:latitude":44.570887,
     "geom:longitude":-69.133469,
@@ -14,20 +14,26 @@
     "lbl:latitude":44.560894,
     "lbl:longitude":-69.136548,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Brooks",
+    "mz:postal_locality_alt":[
+        "Phillips",
+        "Plymouth"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404474811,
         85633793,
-        102087445
+        102087445,
+        404474811,
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759797"
     },
     "wof:country":"US",
-    "wof:geomhash":"dfc7d20f8354ec6b6fe052cb7791e3c6",
+    "wof:geomhash":"beaf97e38329a2c454ca51457f20ea6e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554698621,
-    "wof:lastmodified":1480906066,
+    "wof:lastmodified":1611184680,
     "wof:name":"04921",
     "wof:parent_id":404474811,
     "wof:placetype":"postalcode",

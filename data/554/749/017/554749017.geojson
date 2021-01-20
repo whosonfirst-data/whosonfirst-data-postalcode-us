@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.16387,
-    "geom:area_square_m":1479578288.223733,
+    "geom:area_square_m":1479578288.223013,
     "geom:bbox":"-106.71474,42.680086,-106.073188,43.41535",
     "geom:latitude":43.097202,
     "geom:longitude":-106.387446,
@@ -13,19 +13,26 @@
     "lbl:latitude":43.05894,
     "lbl:longitude":-106.439816,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Casper",
+    "mz:postal_locality_alt":[
+        "Mills",
+        "Bar Nunn",
+        "Evansville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688475,
-        102080753
+        102080753,
+        85688475
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12793608"
     },
     "wof:country":"US",
-    "wof:geomhash":"3e55faacd2b5ed9606e35178b64420ea",
+    "wof:geomhash":"68cfa2dd71766cf42cb1ee1119c972b5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +43,7 @@
         }
     ],
     "wof:id":554749017,
-    "wof:lastmodified":1480904383,
+    "wof:lastmodified":1611183578,
     "wof:name":"82601",
     "wof:parent_id":102080753,
     "wof:placetype":"postalcode",

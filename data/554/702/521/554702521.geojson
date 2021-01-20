@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.047302,
-    "geom:area_square_m":416080043.101786,
+    "geom:area_square_m":416080043.101828,
     "geom:bbox":"-75.129395,44.556437,-74.685355,44.757834",
     "geom:latitude":44.652996,
     "geom:longitude":-74.921393,
@@ -14,20 +14,25 @@
     "lbl:latitude":44.65496,
     "lbl:longitude":-74.926222,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Potsdam",
+    "mz:postal_locality_alt":[
+        "Norwood"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404523149,
         85633793,
-        102082379
+        102082379,
+        404523149,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762938"
     },
     "wof:country":"US",
-    "wof:geomhash":"c87618992ba6642885ebd5b4f4649508",
+    "wof:geomhash":"d79277b342f9b6100f0248a196f86fca",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554702521,
-    "wof:lastmodified":1480794828,
+    "wof:lastmodified":1611184148,
     "wof:name":"13676",
     "wof:parent_id":404523149,
     "wof:placetype":"postalcode",

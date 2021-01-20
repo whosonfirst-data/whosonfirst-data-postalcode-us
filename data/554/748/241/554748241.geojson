@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035069,
-    "geom:area_square_m":331656881.678315,
+    "geom:area_square_m":331656881.678416,
     "geom:bbox":"-104.942471,40.014942,-104.63988,40.189669",
     "geom:latitude":40.107979,
     "geom:longitude":-104.801249,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.107239,
     "lbl:longitude":-104.80129,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fort Lupton",
+    "mz:postal_locality_alt":[
+        "Henderson"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688603,
         102191575,
         85633793,
+        102086117,
         85929049,
-        102086117
+        85688603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12793140"
     },
     "wof:country":"US",
-    "wof:geomhash":"93668f542ef7e6d356aefdc30d2469ed",
+    "wof:geomhash":"296980c563aff2152a464c3fe80ed885",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554748241,
-    "wof:lastmodified":1480913971,
+    "wof:lastmodified":1611183852,
     "wof:name":"80621",
     "wof:parent_id":85929049,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015674,
-    "geom:area_square_m":152536010.994578,
+    "geom:area_square_m":152536010.994569,
     "geom:bbox":"-92.596015,38.021396,-92.41891,38.195207",
     "geom:latitude":38.090782,
     "geom:longitude":-92.497796,
@@ -14,20 +14,25 @@
     "lbl:latitude":38.092307,
     "lbl:longitude":-92.494503,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Brumley",
+    "mz:postal_locality_alt":[
+        "Tuscumbia"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404516919,
         85633793,
-        102087481
+        102087481,
+        404516919,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786320"
     },
     "wof:country":"US",
-    "wof:geomhash":"610b7e8c6e84223da67c99f7ea14831b",
+    "wof:geomhash":"3bc422bda0c580ea94a898ef80bf91cc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554737087,
-    "wof:lastmodified":1480787137,
+    "wof:lastmodified":1611182851,
     "wof:name":"65017",
     "wof:parent_id":404516919,
     "wof:placetype":"postalcode",

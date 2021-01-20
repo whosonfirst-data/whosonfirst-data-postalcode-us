@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013332,
-    "geom:area_square_m":128876873.214078,
+    "geom:area_square_m":128876873.214232,
     "geom:bbox":"-121.273955,38.501436,-121.142662,38.642835",
     "geom:latitude":38.575088,
     "geom:longitude":-121.198289,
@@ -13,20 +13,25 @@
     "lbl:latitude":38.577805,
     "lbl:longitude":-121.201787,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Rancho Cordova",
+    "mz:postal_locality_alt":[
+        "Rncho Cordova"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102082889,
         85922851,
-        102082889
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12797987"
     },
     "wof:country":"US",
-    "wof:geomhash":"a75a830d6546a77e84ffecd37ed5d1bf",
+    "wof:geomhash":"dc974c52068fc63f53910ad387e038fc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554754021,
-    "wof:lastmodified":1480796111,
+    "wof:lastmodified":1611182910,
     "wof:name":"95742",
     "wof:parent_id":85922851,
     "wof:placetype":"postalcode",

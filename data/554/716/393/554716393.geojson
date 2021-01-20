@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011759,
-    "geom:area_square_m":117567420.203637,
+    "geom:area_square_m":117567420.203721,
     "geom:bbox":"-86.713049,35.980292,-86.54609,36.13206",
     "geom:latitude":36.047043,
     "geom:longitude":-86.632436,
@@ -13,20 +13,25 @@
     "lbl:latitude":36.052213,
     "lbl:longitude":-86.632532,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Antioch",
+    "mz:postal_locality_alt":[
+        "Dickson"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688701,
         102191575,
         85633793,
+        102087061,
         101723183,
-        102087061
+        85688701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12773744"
     },
     "wof:country":"US",
-    "wof:geomhash":"dd86fee0c1102ef7835932878ae090a9",
+    "wof:geomhash":"5ae9ca0cd5dcf7f8fae5d9cb03a2645a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554716393,
-    "wof:lastmodified":1480915648,
+    "wof:lastmodified":1611185381,
     "wof:name":"37013",
     "wof:parent_id":101723183,
     "wof:placetype":"postalcode",

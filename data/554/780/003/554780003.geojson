@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018743,
-    "geom:area_square_m":174859202.964387,
+    "geom:area_square_m":174859202.964385,
     "geom:bbox":"-72.287606,40.920795,-72.066783,41.133491",
     "geom:latitude":41.018484,
     "geom:longitude":-72.177109,
@@ -14,21 +14,28 @@
     "lbl:latitude":41.013013,
     "lbl:longitude":-72.168912,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"East Hampton",
+    "mz:postal_locality_alt":[
+        "Shirley",
+        "Amagansett",
+        "Manorville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404521445,
         85633793,
+        102082395,
+        404521445,
         85979915,
-        102082395
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761997"
     },
     "wof:country":"US",
-    "wof:geomhash":"9ee679e8bca4b9d4194e14370bb317cc",
+    "wof:geomhash":"d3dcdf52565c06fc39c16614151f0693",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +48,7 @@
         }
     ],
     "wof:id":554780003,
-    "wof:lastmodified":1480794862,
+    "wof:lastmodified":1611185186,
     "wof:name":"11937",
     "wof:parent_id":85979915,
     "wof:placetype":"postalcode",

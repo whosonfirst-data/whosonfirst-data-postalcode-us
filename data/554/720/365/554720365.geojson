@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014872,
-    "geom:area_square_m":141818613.251874,
+    "geom:area_square_m":141818613.251639,
     "geom:bbox":"-82.68618,39.450406,-82.48972,39.606757",
     "geom:latitude":39.538332,
     "geom:longitude":-82.572123,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.542974,
     "lbl:longitude":-82.577874,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Rockbridge",
+    "mz:postal_locality_alt":[
+        "Logan"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404526427,
         85633793,
-        102083709
+        102083709,
+        404526427,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776180"
     },
     "wof:country":"US",
-    "wof:geomhash":"c997af1fd584b5f499b9057438ac5bca",
+    "wof:geomhash":"e42dcff72e1809c569b482d7b28822fb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554720365,
-    "wof:lastmodified":1480843207,
+    "wof:lastmodified":1611185447,
     "wof:name":"43149",
     "wof:parent_id":404526427,
     "wof:placetype":"postalcode",

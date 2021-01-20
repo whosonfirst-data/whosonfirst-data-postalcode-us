@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005172,
-    "geom:area_square_m":49015780.66597,
+    "geom:area_square_m":49015780.665987,
     "geom:bbox":"-77.718456,39.905803,-77.611278,40.014399",
     "geom:latitude":39.961065,
     "geom:longitude":-77.656164,
@@ -13,20 +13,26 @@
     "lbl:latitude":39.961056,
     "lbl:longitude":-77.656165,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Chambersburg",
+    "mz:postal_locality_alt":[
+        "Scotland",
+        "Marion"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485315,
         85633793,
-        102081365
+        102081365,
+        404485315,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764664"
     },
     "wof:country":"US",
-    "wof:geomhash":"e30142cdfd289b88aeab62e467338536",
+    "wof:geomhash":"3f013fc75703b3364c2b5f52cb4732f9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554705041,
-    "wof:lastmodified":1480824804,
+    "wof:lastmodified":1611184096,
     "wof:name":"17201",
     "wof:parent_id":404485315,
     "wof:placetype":"postalcode",

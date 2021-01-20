@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003089,
-    "geom:area_square_m":34247975.777545,
+    "geom:area_square_m":34247975.777583,
     "geom:bbox":"-98.217474,26.247596,-98.14701,26.308535",
     "geom:latitude":26.279186,
     "geom:longitude":-98.183229,
@@ -13,20 +13,26 @@
     "lbl:latitude":26.280689,
     "lbl:longitude":-98.183295,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Edinburg",
+    "mz:postal_locality_alt":[
+        "Mission",
+        "Brownsville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102083831,
         101723563,
-        102083831
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12792158"
     },
     "wof:country":"US",
-    "wof:geomhash":"b9616f50c2ced1a3b49e7d021590b5d8",
+    "wof:geomhash":"1d1829ea10202e5150f07ed63435b928",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554746883,
-    "wof:lastmodified":1480835004,
+    "wof:lastmodified":1611184019,
     "wof:name":"78539",
     "wof:parent_id":101723563,
     "wof:placetype":"postalcode",

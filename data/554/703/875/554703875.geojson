@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015528,
-    "geom:area_square_m":146878181.306219,
+    "geom:area_square_m":146878181.306347,
     "geom:bbox":"-79.080657,40.017598,-78.841175,40.161789",
     "geom:latitude":40.097817,
     "geom:longitude":-78.938055,
@@ -14,20 +14,26 @@
     "lbl:latitude":40.097575,
     "lbl:longitude":-78.92892,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Stoystown",
+    "mz:postal_locality_alt":[
+        "Kantner",
+        "Boswell"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404488209,
         85633793,
-        102081361
+        102081361,
+        404488209,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763885"
     },
     "wof:country":"US",
-    "wof:geomhash":"fd012893ebf73c713b5689ece1d418b5",
+    "wof:geomhash":"0a8e022af5e125280f198c384af17344",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554703875,
-    "wof:lastmodified":1480830633,
+    "wof:lastmodified":1611184455,
     "wof:name":"15563",
     "wof:parent_id":404488209,
     "wof:placetype":"postalcode",

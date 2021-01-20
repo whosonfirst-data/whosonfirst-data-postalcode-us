@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003563,
-    "geom:area_square_m":32879121.587168,
+    "geom:area_square_m":32879121.587166,
     "geom:bbox":"-70.483836,41.6951,-70.382892,41.765265",
     "geom:latitude":41.72985,
     "geom:longitude":-70.440024,
@@ -14,21 +14,23 @@
     "lbl:latitude":41.728418,
     "lbl:longitude":-70.435812,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"East Sandwich",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476193,
         85633793,
+        102084379,
+        404476193,
         85950551,
-        102084379
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758875"
     },
     "wof:country":"US",
-    "wof:geomhash":"da86f165a65801767b08492781ccbc59",
+    "wof:geomhash":"bef184daf3c30d8aec165616f49075d7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +43,7 @@
         }
     ],
     "wof:id":554778421,
-    "wof:lastmodified":1480802730,
+    "wof:lastmodified":1611183439,
     "wof:name":"02537",
     "wof:parent_id":85950551,
     "wof:placetype":"postalcode",

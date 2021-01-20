@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008444,
-    "geom:area_square_m":93720477.42905,
+    "geom:area_square_m":93720477.429006,
     "geom:bbox":"-97.862097,26.051621,-97.786058,26.235546",
     "geom:latitude":26.148237,
     "geom:longitude":-97.831351,
@@ -14,20 +14,25 @@
     "lbl:latitude":26.148831,
     "lbl:longitude":-97.831112,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"La Feria",
+    "mz:postal_locality_alt":[
+        "Mercedes"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102086761,
         101724175,
-        102086761
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12792171"
     },
     "wof:country":"US",
-    "wof:geomhash":"c9cd25684557ebfa928f6798d2ed8501",
+    "wof:geomhash":"c8a49eeab75c6747f33f663cd2a79854",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554746897,
-    "wof:lastmodified":1480916912,
+    "wof:lastmodified":1611184030,
     "wof:name":"78559",
     "wof:parent_id":101724175,
     "wof:placetype":"postalcode",

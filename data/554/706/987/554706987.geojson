@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00225,
-    "geom:area_square_m":21590676.951943,
+    "geom:area_square_m":21590676.951954,
     "geom:bbox":"-76.777942,39.078512,-76.715003,39.132818",
     "geom:latitude":39.105765,
     "geom:longitude":-76.746755,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.107783,
     "lbl:longitude":-76.747196,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fort George G Meade",
+    "mz:postal_locality_alt":[
+        "Ft George Meade"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688501,
         102191575,
         85633793,
+        102083469,
         85949715,
-        102083469
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766298"
     },
     "wof:country":"US",
-    "wof:geomhash":"2a6b4645b2e698afc50bb72e1c586275",
+    "wof:geomhash":"6920751c05d24c575872e813b9b23192",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554706987,
-    "wof:lastmodified":1480843202,
+    "wof:lastmodified":1611182715,
     "wof:name":"20755",
     "wof:parent_id":85949715,
     "wof:placetype":"postalcode",

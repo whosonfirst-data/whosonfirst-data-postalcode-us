@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045021,
-    "geom:area_square_m":450563975.238519,
+    "geom:area_square_m":450563975.238232,
     "geom:bbox":"-89.206297,35.851514,-88.789146,36.083065",
     "geom:latitude":35.967234,
     "geom:longitude":-88.992909,
@@ -14,19 +14,24 @@
     "lbl:latitude":35.968463,
     "lbl:longitude":-88.984393,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Trenton",
+    "mz:postal_locality_alt":[
+        "Gibson"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688701,
-        102086403
+        102086403,
+        85688701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12774449"
     },
     "wof:country":"US",
-    "wof:geomhash":"8f2f38759898efa80e27afb37d85dbbb",
+    "wof:geomhash":"9df26b7666c8210297e5277acdd3cddd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554717553,
-    "wof:lastmodified":1480914699,
+    "wof:lastmodified":1611185020,
     "wof:name":"38382",
     "wof:parent_id":102086403,
     "wof:placetype":"postalcode",

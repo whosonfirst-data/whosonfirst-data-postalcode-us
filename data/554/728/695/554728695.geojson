@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.059567,
-    "geom:area_square_m":509605538.965275,
+    "geom:area_square_m":509605538.965165,
     "geom:bbox":"-91.428087,46.128107,-90.924486,46.30915",
     "geom:latitude":46.221572,
     "geom:longitude":-91.162948,
@@ -14,20 +14,22 @@
     "lbl:latitude":46.216959,
     "lbl:longitude":-91.166168,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cable",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404495563,
         85633793,
-        102081781
+        102081781,
+        404495563,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781539"
     },
     "wof:country":"US",
-    "wof:geomhash":"f96e6fddbfe4b4f60efd3b981ee6d631",
+    "wof:geomhash":"206db4a140ede04b5ba98fc57906d543",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554728695,
-    "wof:lastmodified":1480819920,
+    "wof:lastmodified":1611185065,
     "wof:name":"54821",
     "wof:parent_id":404495563,
     "wof:placetype":"postalcode",

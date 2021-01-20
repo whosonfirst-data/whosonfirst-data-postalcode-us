@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002698,
-    "geom:area_square_m":22457469.691757,
+    "geom:area_square_m":22457469.691744,
     "geom:bbox":"-122.329963,47.66412,-122.226235,47.703178",
     "geom:latitude":47.684965,
     "geom:longitude":-122.281095,
@@ -13,20 +13,22 @@
     "lbl:latitude":47.685746,
     "lbl:longitude":-122.281588,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Seattle",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688623,
         102191575,
         85633793,
+        102086191,
         101730401,
-        102086191
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12798958"
     },
     "wof:country":"US",
-    "wof:geomhash":"1a3bbdcf9cf58234aea6782e06219174",
+    "wof:geomhash":"27f907075f68cb9f889b656c98893576",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +40,7 @@
         }
     ],
     "wof:id":554755461,
-    "wof:lastmodified":1480915586,
+    "wof:lastmodified":1611182602,
     "wof:name":"98115",
     "wof:parent_id":101730401,
     "wof:placetype":"postalcode",

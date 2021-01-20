@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031132,
-    "geom:area_square_m":278443975.822265,
+    "geom:area_square_m":278443975.822242,
     "geom:bbox":"-83.118656,43.567162,-82.816586,43.769616",
     "geom:latitude":43.670613,
     "geom:longitude":-82.939434,
@@ -14,20 +14,22 @@
     "lbl:latitude":43.673156,
     "lbl:longitude":-82.947987,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ubly",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404508997,
         85633793,
-        102083137
+        102083137,
+        404508997,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778862"
     },
     "wof:country":"US",
-    "wof:geomhash":"a74c086282f288f0d0ece72727d32aef",
+    "wof:geomhash":"b5124acdde020b24dc72207f51f9fe6e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554724339,
-    "wof:lastmodified":1480837080,
+    "wof:lastmodified":1611183743,
     "wof:name":"48475",
     "wof:parent_id":404508997,
     "wof:placetype":"postalcode",

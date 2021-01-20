@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014702,
-    "geom:area_square_m":152022192.729563,
+    "geom:area_square_m":152022192.729601,
     "geom:bbox":"-86.579695,33.176142,-86.42437,33.33755",
     "geom:latitude":33.256981,
     "geom:longitude":-86.51427,
@@ -14,19 +14,24 @@
     "lbl:latitude":33.256733,
     "lbl:longitude":-86.510291,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wilsonville",
+    "mz:postal_locality_alt":[
+        "Sterrett"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688675,
-        102085499
+        102085499,
+        85688675
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12773009"
     },
     "wof:country":"US",
-    "wof:geomhash":"1f4dfc89c96e6b7880a85852a6b8e181",
+    "wof:geomhash":"9abb9c33a2188aca51d262e5c78aec06",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554715289,
-    "wof:lastmodified":1480813373,
+    "wof:lastmodified":1611183646,
     "wof:name":"35186",
     "wof:parent_id":102085499,
     "wof:placetype":"postalcode",

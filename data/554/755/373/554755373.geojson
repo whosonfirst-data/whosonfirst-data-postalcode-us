@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017605,
-    "geom:area_square_m":147065948.628285,
+    "geom:area_square_m":147065948.628141,
     "geom:bbox":"-122.129535,47.426729,-121.883425,47.587777",
     "geom:latitude":47.501544,
     "geom:longitude":-121.999492,
@@ -13,19 +13,26 @@
     "lbl:latitude":47.493732,
     "lbl:longitude":-121.998724,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Issaquah",
+    "mz:postal_locality_alt":[
+        "Preston",
+        "Bonney Lake",
+        "Federal Way"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688623,
-        102086191
+        102086191,
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12798901"
     },
     "wof:country":"US",
-    "wof:geomhash":"e49a1bdb509c29264a5b70e61b3e6e19",
+    "wof:geomhash":"459bd7cb0631a7590c729026c13a9cc2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +43,7 @@
         }
     ],
     "wof:id":554755373,
-    "wof:lastmodified":1480915583,
+    "wof:lastmodified":1611182607,
     "wof:name":"98027",
     "wof:parent_id":102086191,
     "wof:placetype":"postalcode",

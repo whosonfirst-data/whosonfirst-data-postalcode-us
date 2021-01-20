@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002173,
-    "geom:area_square_m":20592501.970631,
+    "geom:area_square_m":20592501.970634,
     "geom:bbox":"-75.123821,39.933899,-75.010146,39.996081",
     "geom:latitude":39.972264,
     "geom:longitude":-75.060749,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.971893,
     "lbl:longitude":-75.057876,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pennsauken",
+    "mz:postal_locality_alt":[
+        "Delair"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478023,
         85633793,
-        102081131
+        102081131,
+        404478023,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761077"
     },
     "wof:country":"US",
-    "wof:geomhash":"049aed7a6892e95be89721ae77390631",
+    "wof:geomhash":"715d0c9b5f2d3bb34ab7ac032e906a7f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554700491,
-    "wof:lastmodified":1480823438,
+    "wof:lastmodified":1611183187,
     "wof:name":"08110",
     "wof:parent_id":404478023,
     "wof:placetype":"postalcode",

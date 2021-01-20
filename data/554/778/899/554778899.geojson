@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009809,
-    "geom:area_square_m":86696747.774442,
+    "geom:area_square_m":86696747.774449,
     "geom:bbox":"-68.165303,44.317127,-68.021027,44.424239",
     "geom:latitude":44.374366,
     "geom:longitude":-68.092726,
@@ -14,21 +14,26 @@
     "lbl:latitude":44.376372,
     "lbl:longitude":-68.093638,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Winter Harbor",
+    "mz:postal_locality_alt":[
+        "Jonesport"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404475559,
         85633793,
+        102081201,
+        404475559,
         85949095,
-        102081201
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759716"
     },
     "wof:country":"US",
-    "wof:geomhash":"7c54202379915e7633013cae373a9c68",
+    "wof:geomhash":"f001d4dc5e699616cad3e6e14bd5c7a1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554778899,
-    "wof:lastmodified":1480830744,
+    "wof:lastmodified":1611183443,
     "wof:name":"04693",
     "wof:parent_id":85949095,
     "wof:placetype":"postalcode",

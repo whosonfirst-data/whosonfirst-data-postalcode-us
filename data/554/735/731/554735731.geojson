@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020082,
-    "geom:area_square_m":194559515.088786,
+    "geom:area_square_m":194559515.088741,
     "geom:bbox":"-91.127001,38.345205,-90.879756,38.488724",
     "geom:latitude":38.41783,
     "geom:longitude":-91.012894,
@@ -14,20 +14,25 @@
     "lbl:latitude":38.4219,
     "lbl:longitude":-91.019289,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Union",
+    "mz:postal_locality_alt":[
+        "Ballwin"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404515311,
         85633793,
-        102081205
+        102081205,
+        404515311,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785579"
     },
     "wof:country":"US",
-    "wof:geomhash":"7d47644983b0e84db95310512cd95368",
+    "wof:geomhash":"a543875dd88f34ac26cb3c68f8134de0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554735731,
-    "wof:lastmodified":1480823840,
+    "wof:lastmodified":1611184412,
     "wof:name":"63084",
     "wof:parent_id":404515311,
     "wof:placetype":"postalcode",

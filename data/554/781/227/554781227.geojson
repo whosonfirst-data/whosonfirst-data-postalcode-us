@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008405,
-    "geom:area_square_m":89684338.930277,
+    "geom:area_square_m":89684338.930232,
     "geom:bbox":"-81.601224,30.310794,-81.437786,30.412711",
     "geom:latitude":30.357516,
     "geom:longitude":-81.505998,
@@ -13,20 +13,22 @@
     "lbl:latitude":30.357756,
     "lbl:longitude":-81.505829,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Jacksonville",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688651,
         102191575,
         85633793,
+        102084753,
         85932547,
-        102084753
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12771592"
     },
     "wof:country":"US",
-    "wof:geomhash":"cd9d390ee23070106f2b2f66cf7d40b6",
+    "wof:geomhash":"c30b5696c5adff08fde7d20d15326ea8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +40,7 @@
         }
     ],
     "wof:id":554781227,
-    "wof:lastmodified":1480799286,
+    "wof:lastmodified":1611184811,
     "wof:name":"32225",
     "wof:parent_id":85932547,
     "wof:placetype":"postalcode",

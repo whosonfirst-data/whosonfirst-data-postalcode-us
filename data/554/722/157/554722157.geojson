@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008527,
-    "geom:area_square_m":81188059.857198,
+    "geom:area_square_m":81188059.857201,
     "geom:bbox":"-81.58751,39.591314,-81.39258,39.702386",
     "geom:latitude":39.643976,
     "geom:longitude":-81.484844,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.650083,
     "lbl:longitude":-81.488178,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Dexter City",
+    "mz:postal_locality_alt":[
+        "Waterford"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404525785,
         85633793,
-        102084803
+        102084803,
+        404525785,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777409"
     },
     "wof:country":"US",
-    "wof:geomhash":"e0fb16235b1f96c59b7b8f697745f415",
+    "wof:geomhash":"3c3f535ca66b27bdd67ca6dd03f4e26d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554722157,
-    "wof:lastmodified":1480841961,
+    "wof:lastmodified":1611183211,
     "wof:name":"45727",
     "wof:parent_id":404525785,
     "wof:placetype":"postalcode",

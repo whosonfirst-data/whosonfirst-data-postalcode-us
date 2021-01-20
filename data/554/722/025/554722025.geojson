@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01988,
-    "geom:area_square_m":191225989.736174,
+    "geom:area_square_m":191225989.736149,
     "geom:bbox":"-82.387179,38.842218,-82.14868,39.010945",
     "geom:latitude":38.929781,
     "geom:longitude":-82.277057,
@@ -14,20 +14,26 @@
     "lbl:latitude":38.929704,
     "lbl:longitude":-82.277275,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bidwell",
+    "mz:postal_locality_alt":[
+        "Gallipolis",
+        "Rio Grande"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404526553,
         85633793,
-        102083675
+        102083675,
+        404526553,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777330"
     },
     "wof:country":"US",
-    "wof:geomhash":"52398e45b51b8f41b86c4946c01d4922",
+    "wof:geomhash":"149ddddb11a7536abe2910b23e6daec9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554722025,
-    "wof:lastmodified":1480843278,
+    "wof:lastmodified":1611183218,
     "wof:name":"45614",
     "wof:parent_id":404526553,
     "wof:placetype":"postalcode",

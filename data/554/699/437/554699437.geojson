@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007426,
-    "geom:area_square_m":68351434.391891,
+    "geom:area_square_m":68351434.391913,
     "geom:bbox":"-72.152755,41.831487,-72.044373,41.971987",
     "geom:latitude":41.893117,
     "geom:longitude":-72.095202,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.89559,
     "lbl:longitude":-72.093304,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Eastford",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688629,
         102191575,
-        404495917,
         85633793,
-        102085377
+        102085377,
+        404495917,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760305"
     },
     "wof:country":"US",
-    "wof:geomhash":"ceb4e2fb6dfc5cf14f0639b94155e782",
+    "wof:geomhash":"c31b0f96810c16cd3d4c80ac8174800f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554699437,
-    "wof:lastmodified":1480814286,
+    "wof:lastmodified":1611184608,
     "wof:name":"06242",
     "wof:parent_id":404495917,
     "wof:placetype":"postalcode",

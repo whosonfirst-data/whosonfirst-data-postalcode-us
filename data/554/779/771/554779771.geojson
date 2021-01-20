@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001176,
-    "geom:area_square_m":11045052.702574,
+    "geom:area_square_m":11045052.702578,
     "geom:bbox":"-73.707045,40.582433,-73.586927,40.59687",
     "geom:latitude":40.589316,
     "geom:longitude":-73.64804,
@@ -14,21 +14,28 @@
     "lbl:latitude":40.589081,
     "lbl:longitude":-73.648178,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Long Beach",
+    "mz:postal_locality_alt":[
+        "Lido Beach",
+        "E Atlantic Beach",
+        "East Atlantic Beach"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522727,
         85633793,
+        102082371,
+        404522727,
         85977625,
-        102082371
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761860"
     },
     "wof:country":"US",
-    "wof:geomhash":"403da45c9c8bafedc5e515348502424b",
+    "wof:geomhash":"f080a08642519f8e6177387cd6f7144c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +48,7 @@
         }
     ],
     "wof:id":554779771,
-    "wof:lastmodified":1480790619,
+    "wof:lastmodified":1611183974,
     "wof:name":"11561",
     "wof:parent_id":85977625,
     "wof:placetype":"postalcode",

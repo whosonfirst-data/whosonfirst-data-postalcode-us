@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012188,
-    "geom:area_square_m":128031689.433996,
+    "geom:area_square_m":128031689.434001,
     "geom:bbox":"-106.798256,31.783926,-106.56339,31.91829",
     "geom:latitude":31.839375,
     "geom:longitude":-106.681813,
@@ -14,19 +14,25 @@
     "lbl:latitude":31.839375,
     "lbl:longitude":-106.6818,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Santa Teresa",
+    "mz:postal_locality_alt":[
+        "Las Cruces",
+        "Deming"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688493,
-        102081557
+        102081557,
+        85688493
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795163"
     },
     "wof:country":"US",
-    "wof:geomhash":"5ee42b2487031998217ca4cf110527c8",
+    "wof:geomhash":"9bd1c4451e1cec38400f28daf0eeff85",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554783857,
-    "wof:lastmodified":1480907773,
+    "wof:lastmodified":1611183881,
     "wof:name":"88008",
     "wof:parent_id":102081557,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000159,
-    "geom:area_square_m":1637955.282945,
+    "geom:area_square_m":1637955.282946,
     "geom:bbox":"-117.994168,33.733849,-117.97554,33.752224",
     "geom:latitude":33.74513,
     "geom:longitude":-117.984873,
@@ -14,20 +14,26 @@
     "lbl:latitude":33.74513,
     "lbl:longitude":-117.984873,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Midway City",
+    "mz:postal_locality_alt":[
+        "Huntington Beach",
+        "Westminster"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102080847,
         85927381,
-        102080847
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796579"
     },
     "wof:country":"US",
-    "wof:geomhash":"a54a4ab438ab63bff23bd5b9f24d24d1",
+    "wof:geomhash":"c8bd3fe1d89acd7e06e81f12513f1e20",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554784443,
-    "wof:lastmodified":1480906249,
+    "wof:lastmodified":1611183950,
     "wof:name":"92655",
     "wof:parent_id":85927381,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01213,
-    "geom:area_square_m":113698544.390695,
+    "geom:area_square_m":113698544.390705,
     "geom:bbox":"-75.203921,40.591776,-75.065636,40.799769",
     "geom:latitude":40.707906,
     "geom:longitude":-75.150678,
@@ -14,20 +14,28 @@
     "lbl:latitude":40.708223,
     "lbl:longitude":-75.147074,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Phillipsburg",
+    "mz:postal_locality_alt":[
+        "Alpha",
+        "Laurence Harbor",
+        "Flemington",
+        "Belvidere"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478521,
         85633793,
-        102083873
+        102083873,
+        404478521,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761299"
     },
     "wof:country":"US",
-    "wof:geomhash":"036b16866f7ecd0d0196c6ad7d4676f2",
+    "wof:geomhash":"651b9364e3635a235469f2df4c30cde0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +47,7 @@
         }
     ],
     "wof:id":554700767,
-    "wof:lastmodified":1480906419,
+    "wof:lastmodified":1611183193,
     "wof:name":"08865",
     "wof:parent_id":404478521,
     "wof:placetype":"postalcode",

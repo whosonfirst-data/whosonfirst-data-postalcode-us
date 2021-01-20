@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026545,
-    "geom:area_square_m":235101972.546882,
+    "geom:area_square_m":235101972.546866,
     "geom:bbox":"-71.79423,44.166367,-71.412851,44.336498",
     "geom:latitude":44.253263,
     "geom:longitude":-71.598297,
@@ -14,20 +14,27 @@
     "lbl:latitude":44.260435,
     "lbl:longitude":-71.609203,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bethlehem",
+    "mz:postal_locality_alt":[
+        "Pittsburg",
+        "Franconia",
+        "Jefferson"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688689,
         102191575,
-        404477215,
         85633793,
-        102086567
+        102086567,
+        404477215,
+        85688689
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759222"
     },
     "wof:country":"US",
-    "wof:geomhash":"cb7d1f9fcd77cb75c9b692b06c26a4a6",
+    "wof:geomhash":"71dfdb6e9dcdbaf2b1b759f26d5c8743",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554697917,
-    "wof:lastmodified":1480916380,
+    "wof:lastmodified":1611184664,
     "wof:name":"03574",
     "wof:parent_id":404477215,
     "wof:placetype":"postalcode",

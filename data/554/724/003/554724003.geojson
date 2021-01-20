@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003435,
-    "geom:area_square_m":31353081.155935,
+    "geom:area_square_m":31353081.155938,
     "geom:bbox":"-83.433672,42.405795,-83.315528,42.442033",
     "geom:latitude":42.425854,
     "geom:longitude":-83.374577,
@@ -13,21 +13,26 @@
     "lbl:latitude":42.424935,
     "lbl:longitude":-83.374264,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Livonia",
+    "mz:postal_locality_alt":[
+        "Farmington Hills"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404508639,
         85633793,
+        102083147,
+        404508639,
         85951073,
-        102083147
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778636"
     },
     "wof:country":"US",
-    "wof:geomhash":"c10098a83e867bf2830cf724436baeb6",
+    "wof:geomhash":"68524dfab82b5bc90c1db77ad76f2b4a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554724003,
-    "wof:lastmodified":1480840671,
+    "wof:lastmodified":1611183767,
     "wof:name":"48152",
     "wof:parent_id":85951073,
     "wof:placetype":"postalcode",

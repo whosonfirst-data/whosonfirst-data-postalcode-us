@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002508,
-    "geom:area_square_m":23151144.323252,
+    "geom:area_square_m":23151144.323242,
     "geom:bbox":"-74.674931,41.66851,-74.595794,41.743017",
     "geom:latitude":41.702782,
     "geom:longitude":-74.631777,
@@ -14,21 +14,26 @@
     "lbl:latitude":41.702466,
     "lbl:longitude":-74.632195,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"South Fallsburg",
+    "mz:postal_locality_alt":[
+        "Kiamesha Lake"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404523185,
         85633793,
+        102082407,
+        404523185,
         85978979,
-        102082407
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762450"
     },
     "wof:country":"US",
-    "wof:geomhash":"5ca1cb848d9c5fbff2c85450c7b8a52e",
+    "wof:geomhash":"9b9017e1f95d3c8618cc283282f65ab8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554701729,
-    "wof:lastmodified":1480792763,
+    "wof:lastmodified":1611182648,
     "wof:name":"12779",
     "wof:parent_id":85978979,
     "wof:placetype":"postalcode",

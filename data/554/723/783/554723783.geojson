@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031599,
-    "geom:area_square_m":299486942.020117,
+    "geom:area_square_m":299486942.02006,
     "geom:bbox":"-87.440263,39.85224,-87.090008,40.036301",
     "geom:latitude":39.961611,
     "geom:longitude":-87.296023,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.959636,
     "lbl:longitude":-87.299105,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Kingman",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404499959,
         85633793,
-        102086279
+        102086279,
+        404499959,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778479"
     },
     "wof:country":"US",
-    "wof:geomhash":"e5afd2112a996ce9b5bb1dcb67119c20",
+    "wof:geomhash":"db1ae0ec696d7112a21314f6cbab76bd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554723783,
-    "wof:lastmodified":1480916629,
+    "wof:lastmodified":1611183793,
     "wof:name":"47952",
     "wof:parent_id":404499959,
     "wof:placetype":"postalcode",

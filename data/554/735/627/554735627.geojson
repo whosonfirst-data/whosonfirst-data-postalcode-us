@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005957,
-    "geom:area_square_m":57703350.642877,
+    "geom:area_square_m":57703350.642873,
     "geom:bbox":"-90.467278,38.379704,-90.335685,38.463315",
     "geom:latitude":38.429489,
     "geom:longitude":-90.393279,
@@ -14,21 +14,26 @@
     "lbl:latitude":38.430371,
     "lbl:longitude":-90.3921,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Arnold",
+    "mz:postal_locality_alt":[
+        "Herculaneum"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404518153,
         85633793,
+        102080787,
+        404518153,
         85971021,
-        102080787
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785523"
     },
     "wof:country":"US",
-    "wof:geomhash":"ae5812874f66e6f9c67eecf66d258fc5",
+    "wof:geomhash":"d11a3ad25dc22ac9356160e92b60b57f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554735627,
-    "wof:lastmodified":1480914494,
+    "wof:lastmodified":1611184417,
     "wof:name":"63010",
     "wof:parent_id":85971021,
     "wof:placetype":"postalcode",

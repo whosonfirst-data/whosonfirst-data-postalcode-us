@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001317,
-    "geom:area_square_m":12340672.42223,
+    "geom:area_square_m":12340672.422216,
     "geom:bbox":"-73.402883,40.733923,-73.348974,40.770601",
     "geom:latitude":40.752275,
     "geom:longitude":-73.376066,
@@ -14,21 +14,27 @@
     "lbl:latitude":40.752599,
     "lbl:longitude":-73.378743,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wyandanch",
+    "mz:postal_locality_alt":[
+        "Wheatley Heights",
+        "Stony Brook"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522513,
         85633793,
+        102082395,
+        404522513,
         85979873,
-        102082395
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761981"
     },
     "wof:country":"US",
-    "wof:geomhash":"809ce2b12251691abb084a90d6361ac3",
+    "wof:geomhash":"edb822268e98c0b401d5f08393538021",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554779985,
-    "wof:lastmodified":1480794863,
+    "wof:lastmodified":1611183975,
     "wof:name":"11798",
     "wof:parent_id":85979873,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027641,
-    "geom:area_square_m":285712993.640577,
+    "geom:area_square_m":285712993.640634,
     "geom:bbox":"-84.43959,33.222924,-84.102585,33.352592",
     "geom:latitude":33.286289,
     "geom:longitude":-84.279713,
@@ -13,20 +13,29 @@
     "lbl:latitude":33.288801,
     "lbl:longitude":-84.279923,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Griffin",
+    "mz:postal_locality_alt":[
+        "Peachtree City",
+        "Sunny Side",
+        "Pomona",
+        "Jonesboro",
+        "Hampton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688535,
         102191575,
         85633793,
+        102084375,
         85937277,
-        102084375
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770663"
     },
     "wof:country":"US",
-    "wof:geomhash":"860d20e4d3748f34a8edfaf8bcf505c8",
+    "wof:geomhash":"949c542f41f3c0b9dc69bb1db739bbc8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +47,7 @@
         }
     ],
     "wof:id":554712935,
-    "wof:lastmodified":1480823658,
+    "wof:lastmodified":1611183718,
     "wof:name":"30223",
     "wof:parent_id":85937277,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.121123,
-    "geom:area_square_m":1239195234.99853,
+    "geom:area_square_m":1239195234.999196,
     "geom:bbox":"-99.504396,33.90333,-99.082196,34.458802",
     "geom:latitude":34.167659,
     "geom:longitude":-99.325561,
@@ -13,19 +13,25 @@
     "lbl:latitude":34.160345,
     "lbl:longitude":-99.343426,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Vernon",
+    "mz:postal_locality_alt":[
+        "Henrietta",
+        "Wichita Falls"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688753,
-        102087355
+        102087355,
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12791048"
     },
     "wof:country":"US",
-    "wof:geomhash":"b56b806d06f0c9d5535db2b008e49cb3",
+    "wof:geomhash":"4ea9b550f14ad43c2293276613ee9139",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +42,7 @@
         }
     ],
     "wof:id":554745331,
-    "wof:lastmodified":1480903797,
+    "wof:lastmodified":1611185253,
     "wof:name":"76384",
     "wof:parent_id":102087355,
     "wof:placetype":"postalcode",

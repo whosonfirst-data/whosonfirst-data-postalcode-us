@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0131,
-    "geom:area_square_m":115852286.454423,
+    "geom:area_square_m":115852286.454519,
     "geom:bbox":"-68.472136,44.277806,-68.196517,44.385758",
     "geom:latitude":44.340195,
     "geom:longitude":-68.346362,
@@ -14,20 +14,25 @@
     "lbl:latitude":44.335753,
     "lbl:longitude":-68.345729,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mt Desert",
+    "mz:postal_locality_alt":[
+        "Mount Desert"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404475533,
         85633793,
-        102081201
+        102081201,
+        404475533,
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759692"
     },
     "wof:country":"US",
-    "wof:geomhash":"27e972ac8fe9601f95d7cc89f153769d",
+    "wof:geomhash":"a0451272e208e1a0fe8507af4334f3d1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554698531,
-    "wof:lastmodified":1480830742,
+    "wof:lastmodified":1611184693,
     "wof:name":"04660",
     "wof:parent_id":404475533,
     "wof:placetype":"postalcode",

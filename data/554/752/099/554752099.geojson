@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001638,
-    "geom:area_square_m":16778912.85672,
+    "geom:area_square_m":16778912.856718,
     "geom:bbox":"-118.108108,34.029609,-118.055768,34.095017",
     "geom:latitude":34.064326,
     "geom:longitude":-118.083646,
@@ -13,20 +13,25 @@
     "lbl:latitude":34.065493,
     "lbl:longitude":-118.084529,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Rosemead",
+    "mz:postal_locality_alt":[
+        "El Monte"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086957,
         85923453,
-        102086957
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796128"
     },
     "wof:country":"US",
-    "wof:geomhash":"fbcf8b98466570b5298f695ef73cffd4",
+    "wof:geomhash":"c13109ad6a9efc6c3767d0e25ba68ae6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554752099,
-    "wof:lastmodified":1480912624,
+    "wof:lastmodified":1611182526,
     "wof:name":"91770",
     "wof:parent_id":85923453,
     "wof:placetype":"postalcode",

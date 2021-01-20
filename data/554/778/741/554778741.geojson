@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015306,
-    "geom:area_square_m":134820269.871917,
+    "geom:area_square_m":134820269.871921,
     "geom:bbox":"-68.773294,44.501367,-68.578963,44.655769",
     "geom:latitude":44.57362,
     "geom:longitude":-68.677249,
@@ -14,20 +14,25 @@
     "lbl:latitude":44.57632,
     "lbl:longitude":-68.669915,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Orland",
+    "mz:postal_locality_alt":[
+        "Bucksport"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404475535,
         85633793,
-        102081201
+        102081201,
+        404475535,
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759598"
     },
     "wof:country":"US",
-    "wof:geomhash":"60223f3f8dc41d2984dd85214c40a265",
+    "wof:geomhash":"62e02b8bd5f4598b095160f9c1d87cba",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554778741,
-    "wof:lastmodified":1480830742,
+    "wof:lastmodified":1611183436,
     "wof:name":"04472",
     "wof:parent_id":404475535,
     "wof:placetype":"postalcode",

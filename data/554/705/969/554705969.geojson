@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012219,
-    "geom:area_square_m":113850392.602115,
+    "geom:area_square_m":113850392.6021,
     "geom:bbox":"-76.19838,41.050482,-75.964513,41.161101",
     "geom:latitude":41.103889,
     "geom:longitude":-76.064918,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.097733,
     "lbl:longitude":-76.062014,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wapwallopen",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404483465,
         85633793,
-        102081351
+        102081351,
+        404483465,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765282"
     },
     "wof:country":"US",
-    "wof:geomhash":"aa09049757492476814c64245cffa65e",
+    "wof:geomhash":"2d9b010b3435d2cea1772251a6b62165",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554705969,
-    "wof:lastmodified":1480831062,
+    "wof:lastmodified":1611184114,
     "wof:name":"18660",
     "wof:parent_id":404483465,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015133,
-    "geom:area_square_m":150785228.796743,
+    "geom:area_square_m":150785228.796683,
     "geom:bbox":"-76.594432,36.238773,-76.399677,36.378042",
     "geom:latitude":36.311901,
     "geom:longitude":-76.503552,
@@ -14,19 +14,24 @@
     "lbl:latitude":36.308171,
     "lbl:longitude":-76.504283,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Belvidere",
+    "mz:postal_locality_alt":[
+        "Hobbsville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688773,
-        102080919
+        102080919,
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12769302"
     },
     "wof:country":"US",
-    "wof:geomhash":"960dcd073ed7eba2a793d802c70c5f24",
+    "wof:geomhash":"c4c107bb7480022629f53487923fc85d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554710991,
-    "wof:lastmodified":1480903692,
+    "wof:lastmodified":1611185101,
     "wof:name":"27919",
     "wof:parent_id":102080919,
     "wof:placetype":"postalcode",

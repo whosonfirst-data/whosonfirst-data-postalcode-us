@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00623,
-    "geom:area_square_m":63661833.13775,
+    "geom:area_square_m":63661833.137704,
     "geom:bbox":"-77.929439,34.2183,-77.785489,34.330278",
     "geom:latitude":34.265138,
     "geom:longitude":-77.866989,
@@ -13,20 +13,25 @@
     "lbl:latitude":34.263182,
     "lbl:longitude":-77.86638,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wilmington",
+    "mz:postal_locality_alt":[
+        "Wrightsville Bch"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688773,
         102191575,
         85633793,
+        102087757,
         85981647,
-        102087757
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12769630"
     },
     "wof:country":"US",
-    "wof:geomhash":"7db27091bc680c2ce007f39b57f6cfa7",
+    "wof:geomhash":"55c68777791b3d0c59b2a570038252b1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554780985,
-    "wof:lastmodified":1480787192,
+    "wof:lastmodified":1611185175,
     "wof:name":"28405",
     "wof:parent_id":85981647,
     "wof:placetype":"postalcode",

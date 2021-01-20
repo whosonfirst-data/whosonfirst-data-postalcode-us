@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007407,
-    "geom:area_square_m":70024363.203101,
+    "geom:area_square_m":70024363.20294,
     "geom:bbox":"-87.71955,40.06509,-87.573902,40.207438",
     "geom:latitude":40.13613,
     "geom:longitude":-87.636406,
@@ -13,21 +13,26 @@
     "lbl:latitude":40.136234,
     "lbl:longitude":-87.636466,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Danville",
+    "mz:postal_locality_alt":[
+        "Tilton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404499183,
         85633793,
+        102083507,
+        404499183,
         85941111,
-        102083507
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784836"
     },
     "wof:country":"US",
-    "wof:geomhash":"c1df1b14d4f34e9dfbd26cfdd8d4a205",
+    "wof:geomhash":"f75d7dd71a0241ea3fb07bd5775d6f8f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554734373,
-    "wof:lastmodified":1480842634,
+    "wof:lastmodified":1611184207,
     "wof:name":"61832",
     "wof:parent_id":85941111,
     "wof:placetype":"postalcode",

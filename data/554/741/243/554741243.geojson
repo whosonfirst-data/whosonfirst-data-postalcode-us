@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031207,
-    "geom:area_square_m":325152954.958015,
+    "geom:area_square_m":325152954.958003,
     "geom:bbox":"-92.143835,32.484355,-91.90328,32.696151",
     "geom:latitude":32.582806,
     "geom:longitude":-92.01768,
@@ -13,19 +13,26 @@
     "lbl:latitude":32.582209,
     "lbl:longitude":-92.018358,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Monroe",
+    "mz:postal_locality_alt":[
+        "Lake Providence",
+        "Ruston",
+        "Sterlington"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688735,
-        102081027
+        102081027,
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12788640"
     },
     "wof:country":"US",
-    "wof:geomhash":"7c4cc8717390da9996f80acfd39251f2",
+    "wof:geomhash":"8f0edbcc6bb6f4de91c10a6c2ff52ba0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +43,7 @@
         }
     ],
     "wof:id":554741243,
-    "wof:lastmodified":1480841733,
+    "wof:lastmodified":1611184047,
     "wof:name":"71203",
     "wof:parent_id":102081027,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001907,
-    "geom:area_square_m":17693798.404849,
+    "geom:area_square_m":17693798.404882,
     "geom:bbox":"-79.467204,41.338731,-79.407798,41.38653",
     "geom:latitude":41.367327,
     "geom:longitude":-79.431805,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.376157,
     "lbl:longitude":-79.43174,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fryburg",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404482973,
         85633793,
-        102081389
+        102081389,
+        404482973,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764251"
     },
     "wof:country":"US",
-    "wof:geomhash":"d795f9129461c89002f9a7da19f3bdb7",
+    "wof:geomhash":"55634e8e936dba1e862e85a514db404f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554704449,
-    "wof:lastmodified":1480906443,
+    "wof:lastmodified":1611184491,
     "wof:name":"16326",
     "wof:parent_id":404482973,
     "wof:placetype":"postalcode",

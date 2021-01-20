@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006582,
-    "geom:area_square_m":62169897.123908,
+    "geom:area_square_m":62169897.123882,
     "geom:bbox":"-86.771104,40.143527,-86.609378,40.230187",
     "geom:latitude":40.190014,
     "geom:longitude":-86.677977,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.190015,
     "lbl:longitude":-86.677981,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Colfax",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404501253,
         85633793,
-        102087035
+        102087035,
+        404501253,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777549"
     },
     "wof:country":"US",
-    "wof:geomhash":"ceab72f95bf83fab1e0253777d7173ba",
+    "wof:geomhash":"75b62d23d60fbb07bd8cced325c1d26c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554722385,
-    "wof:lastmodified":1480908996,
+    "wof:lastmodified":1611183227,
     "wof:name":"46035",
     "wof:parent_id":404501253,
     "wof:placetype":"postalcode",

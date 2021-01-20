@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019881,
-    "geom:area_square_m":203569344.529975,
+    "geom:area_square_m":203569344.529966,
     "geom:bbox":"-98.761987,34.035221,-98.486999,34.164623",
     "geom:latitude":34.097398,
     "geom:longitude":-98.621263,
@@ -14,19 +14,25 @@
     "lbl:latitude":34.103277,
     "lbl:longitude":-98.622462,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Burkburnett",
+    "mz:postal_locality_alt":[
+        "Sheppard Afb",
+        "Wichita Falls"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688753,
-        102081469
+        102081469,
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12791031"
     },
     "wof:country":"US",
-    "wof:geomhash":"8f9d247ba9bda8c4c2353f6fdefe09d5",
+    "wof:geomhash":"6f2870a42a101293540e649b5cd4b2ed",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554745297,
-    "wof:lastmodified":1480840152,
+    "wof:lastmodified":1611185288,
     "wof:name":"76354",
     "wof:parent_id":102081469,
     "wof:placetype":"postalcode",

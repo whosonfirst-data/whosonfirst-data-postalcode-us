@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005131,
-    "geom:area_square_m":48065252.784032,
+    "geom:area_square_m":48065252.784121,
     "geom:bbox":"-81.484634,40.71419,-81.365256,40.800027",
     "geom:latitude":40.753525,
     "geom:longitude":-81.418639,
@@ -13,20 +13,22 @@
     "lbl:latitude":40.753523,
     "lbl:longitude":-81.418638,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Canton",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404525725,
         85633793,
-        102083731
+        102083731,
+        404525725,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776933"
     },
     "wof:country":"US",
-    "wof:geomhash":"14dd7c269c78e2c06c67af56eea1e0d4",
+    "wof:geomhash":"c2d0fea2961db26e7d009f9fca324e3d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +40,7 @@
         }
     ],
     "wof:id":554721437,
-    "wof:lastmodified":1480835411,
+    "wof:lastmodified":1611184954,
     "wof:name":"44706",
     "wof:parent_id":404525725,
     "wof:placetype":"postalcode",

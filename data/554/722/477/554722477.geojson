@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008428,
-    "geom:area_square_m":80106045.609996,
+    "geom:area_square_m":80106045.609922,
     "geom:bbox":"-86.457553,39.718265,-86.326726,39.800416",
     "geom:latitude":39.762904,
     "geom:longitude":-86.399637,
@@ -14,21 +14,26 @@
     "lbl:latitude":39.764437,
     "lbl:longitude":-86.403388,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Avon",
+    "mz:postal_locality_alt":[
+        "Plainfield"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404500791,
         85633793,
+        102086423,
+        404500791,
         85941471,
-        102086423
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777599"
     },
     "wof:country":"US",
-    "wof:geomhash":"e24d518eba84448f1c68cf2e4d2b681c",
+    "wof:geomhash":"fd389b70c166d5b874ecb7e85f15a710",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554722477,
-    "wof:lastmodified":1480911097,
+    "wof:lastmodified":1611183217,
     "wof:name":"46123",
     "wof:parent_id":85941471,
     "wof:placetype":"postalcode",

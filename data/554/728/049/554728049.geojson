@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01025,
-    "geom:area_square_m":89064886.024435,
+    "geom:area_square_m":89064886.024369,
     "geom:bbox":"-92.704054,45.296669,-92.479008,45.402476",
     "geom:latitude":45.35279,
     "geom:longitude":-92.57798,
@@ -14,20 +14,25 @@
     "lbl:latitude":45.352521,
     "lbl:longitude":-92.577819,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Dresser",
+    "mz:postal_locality_alt":[
+        "Osceola"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404494843,
         85633793,
-        102081307
+        102081307,
+        404494843,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781161"
     },
     "wof:country":"US",
-    "wof:geomhash":"eb0e2e96934f886786128ded25717175",
+    "wof:geomhash":"1d73ee7887645ab16b12ced3d361c7c7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554728049,
-    "wof:lastmodified":1480915795,
+    "wof:lastmodified":1611185058,
     "wof:name":"54009",
     "wof:parent_id":404494843,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001918,
-    "geom:area_square_m":19604823.359566,
+    "geom:area_square_m":19604823.35958,
     "geom:bbox":"-118.291225,34.20801,-118.22161,34.267232",
     "geom:latitude":34.23672,
     "geom:longitude":-118.249272,
@@ -13,20 +13,26 @@
     "lbl:latitude":34.236302,
     "lbl:longitude":-118.249185,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"La Crescenta",
+    "mz:postal_locality_alt":[
+        "Glendale",
+        "La Crescenta-Montrose"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086957,
         85923615,
-        102086957
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795952"
     },
     "wof:country":"US",
-    "wof:geomhash":"e34948d09c9f6d84699e3df666351ede",
+    "wof:geomhash":"d85846e53a50caf1d638c8811ab2b572",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554751919,
-    "wof:lastmodified":1480912616,
+    "wof:lastmodified":1611184361,
     "wof:name":"91214",
     "wof:parent_id":85923615,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011989,
-    "geom:area_square_m":112888696.849145,
+    "geom:area_square_m":112888696.849143,
     "geom:bbox":"-77.027007,40.354596,-76.739142,40.459573",
     "geom:latitude":40.402473,
     "geom:longitude":-76.881169,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.422061,
     "lbl:longitude":-76.826124,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Dauphin",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404486191,
         85633793,
-        102081347
+        102081347,
+        404486191,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764562"
     },
     "wof:country":"US",
-    "wof:geomhash":"72311dadce595280d785c78476eee044",
+    "wof:geomhash":"57c35d0c3adc6dc2162053d9c867bacb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554704887,
-    "wof:lastmodified":1480904075,
+    "wof:lastmodified":1611184492,
     "wof:name":"17018",
     "wof:parent_id":404486191,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028441,
-    "geom:area_square_m":270211211.82032,
+    "geom:area_square_m":270211211.820279,
     "geom:bbox":"-79.181116,39.722585,-78.814882,39.884078",
     "geom:latitude":39.793925,
     "geom:longitude":-78.991818,
@@ -14,20 +14,26 @@
     "lbl:latitude":39.793279,
     "lbl:longitude":-78.990962,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Meyersdale",
+    "mz:postal_locality_alt":[
+        "Salisbury",
+        "Moonachie"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404488281,
         85633793,
-        102081361
+        102081361,
+        404488281,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763875"
     },
     "wof:country":"US",
-    "wof:geomhash":"acbc29dc3ce300b1692b1711ce65371e",
+    "wof:geomhash":"d8da51a42096b62d9407a2f7affa7d38",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554703861,
-    "wof:lastmodified":1480832738,
+    "wof:lastmodified":1611184456,
     "wof:name":"15552",
     "wof:parent_id":404488281,
     "wof:placetype":"postalcode",

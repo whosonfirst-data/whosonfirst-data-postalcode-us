@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018914,
-    "geom:area_square_m":178880100.90464,
+    "geom:area_square_m":178880100.90449,
     "geom:bbox":"-80.500119,39.995313,-80.321254,40.221859",
     "geom:latitude":40.107153,
     "geom:longitude":-80.406819,
@@ -13,20 +13,25 @@
     "lbl:latitude":40.112251,
     "lbl:longitude":-80.405659,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Claysville",
+    "mz:postal_locality_alt":[
+        "Rogersville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404487749,
         85633793,
-        102081343
+        102081343,
+        404487749,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763729"
     },
     "wof:country":"US",
-    "wof:geomhash":"6e8141d548ce73d536882d9beb224c1d",
+    "wof:geomhash":"ef48ddda545baeb53afb13a6bcd444d8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554703643,
-    "wof:lastmodified":1480818262,
+    "wof:lastmodified":1611184451,
     "wof:name":"15323",
     "wof:parent_id":404487749,
     "wof:placetype":"postalcode",

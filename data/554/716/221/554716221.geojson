@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.065281,
-    "geom:area_square_m":680968067.967275,
+    "geom:area_square_m":680968067.967433,
     "geom:bbox":"-87.233858,32.201425,-86.849418,32.729532",
     "geom:latitude":32.476796,
     "geom:longitude":-87.057073,
@@ -13,20 +13,26 @@
     "lbl:latitude":32.483972,
     "lbl:longitude":-87.054642,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Selma",
+    "mz:postal_locality_alt":[
+        "Valley Grande",
+        "Somerville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688675,
         102191575,
         85633793,
+        102085491,
         85899451,
-        102085491
+        85688675
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12773645"
     },
     "wof:country":"US",
-    "wof:geomhash":"b1576ba3982f018824587b3b046e60da",
+    "wof:geomhash":"10e8c71a116f283396d62d0af725b69b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554716221,
-    "wof:lastmodified":1480815695,
+    "wof:lastmodified":1611185360,
     "wof:name":"36701",
     "wof:parent_id":85899451,
     "wof:placetype":"postalcode",

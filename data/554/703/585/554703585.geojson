@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000863,
-    "geom:area_square_m":8125492.862018,
+    "geom:area_square_m":8125492.862016,
     "geom:bbox":"-80.069764,40.350678,-80.018433,40.386929",
     "geom:latitude":40.370668,
     "geom:longitude":-80.044134,
@@ -13,20 +13,26 @@
     "lbl:latitude":40.370667,
     "lbl:longitude":-80.044135,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pittsburgh",
+    "mz:postal_locality_alt":[
+        "Mt Lebanon",
+        "Mount Lebanon"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404484139,
         85633793,
-        102080887
+        102080887,
+        404484139,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763669"
     },
     "wof:country":"US",
-    "wof:geomhash":"12fcb3efc4ef690b7638eecf5c9db5e8",
+    "wof:geomhash":"e46e9a938d4a2ccde948e64e0d9c801e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554703585,
-    "wof:lastmodified":1480905387,
+    "wof:lastmodified":1611184481,
     "wof:name":"15228",
     "wof:parent_id":404484139,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006205,
-    "geom:area_square_m":57081750.073223,
+    "geom:area_square_m":57081750.0733,
     "geom:bbox":"-75.396923,41.884168,-75.267371,41.999445",
     "geom:latitude":41.927989,
     "geom:longitude":-75.328235,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.929004,
     "lbl:longitude":-75.327674,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Starlight",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404484067,
         85633793,
-        102081379
+        102081379,
+        404484067,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765215"
     },
     "wof:country":"US",
-    "wof:geomhash":"ee18a63c1fe828346f9653738829f5e1",
+    "wof:geomhash":"15f98eac5900073ddf80ca30be1c482a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554705857,
-    "wof:lastmodified":1480832376,
+    "wof:lastmodified":1611184100,
     "wof:name":"18461",
     "wof:parent_id":404484067,
     "wof:placetype":"postalcode",

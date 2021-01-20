@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008047,
-    "geom:area_square_m":75226662.226641,
+    "geom:area_square_m":75226662.226603,
     "geom:bbox":"-73.497405,40.802009,-73.332578,40.946929",
     "geom:latitude":40.883349,
     "geom:longitude":-73.426783,
@@ -14,21 +14,29 @@
     "lbl:latitude":40.883411,
     "lbl:longitude":-73.423556,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Huntington",
+    "mz:postal_locality_alt":[
+        "Halesite",
+        "Lloyd Harbor",
+        "Babylon",
+        "Amityville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522515,
         85633793,
+        102082395,
+        404522515,
         85979887,
-        102082395
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761932"
     },
     "wof:country":"US",
-    "wof:geomhash":"1ea593d313c3af1a00695a0f5a721f2e",
+    "wof:geomhash":"033e7f8801714d66bcdcc15acb2aafcb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +49,7 @@
         }
     ],
     "wof:id":554779889,
-    "wof:lastmodified":1480794860,
+    "wof:lastmodified":1611183966,
     "wof:name":"11743",
     "wof:parent_id":85979887,
     "wof:placetype":"postalcode",

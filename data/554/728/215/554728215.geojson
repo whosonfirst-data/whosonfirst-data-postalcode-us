@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039883,
-    "geom:area_square_m":348527798.526382,
+    "geom:area_square_m":348527798.526443,
     "geom:bbox":"-89.664539,44.918368,-89.3453,45.119765",
     "geom:latitude":45.031408,
     "geom:longitude":-89.513779,
@@ -13,20 +13,26 @@
     "lbl:latitude":45.018422,
     "lbl:longitude":-89.525216,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wausau",
+    "mz:postal_locality_alt":[
+        "Schofield",
+        "Mosinee"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404493735,
         85633793,
-        102081881
+        102081881,
+        404493735,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781281"
     },
     "wof:country":"US",
-    "wof:geomhash":"066bb05e951f598aea03c9267f761a6a",
+    "wof:geomhash":"ae55daf08b786a9a69fe9ce7f14b89d4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554728215,
-    "wof:lastmodified":1480833665,
+    "wof:lastmodified":1611185080,
     "wof:name":"54403",
     "wof:parent_id":404493735,
     "wof:placetype":"postalcode",

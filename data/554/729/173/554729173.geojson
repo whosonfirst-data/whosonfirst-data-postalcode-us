@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006508,
-    "geom:area_square_m":57004385.193966,
+    "geom:area_square_m":57004385.193941,
     "geom:bbox":"-93.722626,44.863459,-93.518227,44.935946",
     "geom:latitude":44.899456,
     "geom:longitude":-93.603869,
@@ -14,21 +14,26 @@
     "lbl:latitude":44.895664,
     "lbl:longitude":-93.607649,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Excelsior",
+    "mz:postal_locality_alt":[
+        "Chanhassen"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404511911,
         85633793,
+        102087709,
+        404511911,
         85969119,
-        102087709
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781814"
     },
     "wof:country":"US",
-    "wof:geomhash":"db353f5d29d06a51270e1bdb24bcc9a0",
+    "wof:geomhash":"63c8cdcd0bc3f62c5ab19648c7d2505b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554729173,
-    "wof:lastmodified":1480789092,
+    "wof:lastmodified":1611185420,
     "wof:name":"55331",
     "wof:parent_id":85969119,
     "wof:placetype":"postalcode",

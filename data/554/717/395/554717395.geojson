@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013762,
-    "geom:area_square_m":137295875.450928,
+    "geom:area_square_m":137295875.450807,
     "geom:bbox":"-88.527542,36.14878,-88.317827,36.282346",
     "geom:latitude":36.211793,
     "geom:longitude":-88.425207,
@@ -14,19 +14,24 @@
     "lbl:latitude":36.213058,
     "lbl:longitude":-88.426137,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Henry",
+    "mz:postal_locality_alt":[
+        "Paris"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688701,
-        102086321
+        102086321,
+        85688701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12774363"
     },
     "wof:country":"US",
-    "wof:geomhash":"64b2e9157ff91cc3cdc8a89d50421e45",
+    "wof:geomhash":"c17db86e5f40fae26ed9a9f4af1ba8c6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554717395,
-    "wof:lastmodified":1480910365,
+    "wof:lastmodified":1611185013,
     "wof:name":"38231",
     "wof:parent_id":102086321,
     "wof:placetype":"postalcode",

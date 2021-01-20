@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002703,
-    "geom:area_square_m":23646444.902399,
+    "geom:area_square_m":23646444.902445,
     "geom:bbox":"-93.080881,44.891047,-93.006943,44.995005",
     "geom:latitude":44.963478,
     "geom:longitude":-93.048311,
@@ -13,21 +13,27 @@
     "lbl:latitude":44.963547,
     "lbl:longitude":-93.049522,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"St Paul",
+    "mz:postal_locality_alt":[
+        "Saint Paul",
+        "Mendota Heights"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404514465,
         85633793,
+        102087007,
+        404514465,
         85953191,
-        102087007
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781741"
     },
     "wof:country":"US",
-    "wof:geomhash":"a13182c37814cdf46899d280a2044296",
+    "wof:geomhash":"292d663cb87fe729e524dcab4b37017f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +46,7 @@
         }
     ],
     "wof:id":554729057,
-    "wof:lastmodified":1480782565,
+    "wof:lastmodified":1611185437,
     "wof:name":"55106",
     "wof:parent_id":85953191,
     "wof:placetype":"postalcode",

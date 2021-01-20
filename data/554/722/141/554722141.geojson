@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04061,
-    "geom:area_square_m":388504427.851777,
+    "geom:area_square_m":388504427.851784,
     "geom:bbox":"-82.226264,39.192922,-81.926629,39.43211",
     "geom:latitude":39.313567,
     "geom:longitude":-82.082147,
@@ -14,20 +14,26 @@
     "lbl:latitude":39.311963,
     "lbl:longitude":-82.08602,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Athens",
+    "mz:postal_locality_alt":[
+        "Fleming",
+        "Waterford"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404524821,
         85633793,
-        102084755
+        102084755,
+        404524821,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777396"
     },
     "wof:country":"US",
-    "wof:geomhash":"73f43eac4438f0c385c435e0598a8e27",
+    "wof:geomhash":"66ba49775dcc2e2115a8204ffcf51113",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554722141,
-    "wof:lastmodified":1480843277,
+    "wof:lastmodified":1611183248,
     "wof:name":"45701",
     "wof:parent_id":404524821,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006721,
-    "geom:area_square_m":65129437.097069,
+    "geom:area_square_m":65129437.097128,
     "geom:bbox":"-85.832555,38.340417,-85.713891,38.467081",
     "geom:latitude":38.398841,
     "geom:longitude":-85.768625,
@@ -14,21 +14,26 @@
     "lbl:latitude":38.399506,
     "lbl:longitude":-85.774251,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Sellersburg",
+    "mz:postal_locality_alt":[
+        "English"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404501115,
         85633793,
+        102086421,
+        404501115,
         85942177,
-        102086421
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778102"
     },
     "wof:country":"US",
-    "wof:geomhash":"b523e02b4d0079cb4289667ffa8ddd21",
+    "wof:geomhash":"18e3c39ae6088ae7ce099ff55827e364",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554723207,
-    "wof:lastmodified":1480914450,
+    "wof:lastmodified":1611183805,
     "wof:name":"47172",
     "wof:parent_id":85942177,
     "wof:placetype":"postalcode",

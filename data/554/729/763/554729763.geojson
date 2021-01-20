@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007905,
-    "geom:area_square_m":70046784.493536,
+    "geom:area_square_m":70046784.493552,
     "geom:bbox":"-93.768439,44.173912,-93.646312,44.282799",
     "geom:latitude":44.225056,
     "geom:longitude":-93.709328,
@@ -14,20 +14,22 @@
     "lbl:latitude":44.226257,
     "lbl:longitude":-93.71742,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Elysian",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404512215,
         85633793,
-        102087831
+        102087831,
+        404512215,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782195"
     },
     "wof:country":"US",
-    "wof:geomhash":"968328affb8c8316fbb3adedf61e90cb",
+    "wof:geomhash":"505e7ce32992eb25a840f5caa037c8b1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554729763,
-    "wof:lastmodified":1480785415,
+    "wof:lastmodified":1611185404,
     "wof:name":"56028",
     "wof:parent_id":404512215,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.118698,
-    "geom:area_square_m":1299287701.924177,
+    "geom:area_square_m":1299287701.923703,
     "geom:bbox":"-98.408356,27.476733,-97.933603,27.982578",
     "geom:latitude":27.71843,
     "geom:longitude":-98.142818,
@@ -13,20 +13,28 @@
     "lbl:latitude":27.724313,
     "lbl:longitude":-98.134487,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Alice",
+    "mz:postal_locality_alt":[
+        "Premont",
+        "Benavides",
+        "Riviera",
+        "Encino"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102086751,
         101726543,
-        102086751
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12792056"
     },
     "wof:country":"US",
-    "wof:geomhash":"79cb86dbebd22f37d64f15492c0da5f2",
+    "wof:geomhash":"45d7a04e684ec6d22b79c705256cf320",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +46,7 @@
         }
     ],
     "wof:id":554746809,
-    "wof:lastmodified":1480908870,
+    "wof:lastmodified":1611184025,
     "wof:name":"78332",
     "wof:parent_id":101726543,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005264,
-    "geom:area_square_m":54083130.552286,
+    "geom:area_square_m":54083130.552277,
     "geom:bbox":"-84.613016,33.778735,-84.48757,33.848844",
     "geom:latitude":33.815899,
     "geom:longitude":-84.552049,
@@ -14,20 +14,27 @@
     "lbl:latitude":33.815023,
     "lbl:longitude":-84.553798,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mableton",
+    "mz:postal_locality_alt":[
+        "Jasper",
+        "Austell",
+        "Woodstock"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688535,
         102191575,
         85633793,
+        102082313,
         85937189,
-        102082313
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770601"
     },
     "wof:country":"US",
-    "wof:geomhash":"725b8f7f31daba9fc2bf0d77854d8b59",
+    "wof:geomhash":"6bc3fc487d7daac5baa11b28e06a5e90",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554712829,
-    "wof:lastmodified":1480841939,
+    "wof:lastmodified":1611183697,
     "wof:name":"30126",
     "wof:parent_id":85937189,
     "wof:placetype":"postalcode",

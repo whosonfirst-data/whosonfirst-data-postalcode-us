@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.092829,
-    "geom:area_square_m":1011932968.477342,
+    "geom:area_square_m":1011932968.476385,
     "geom:bbox":"-81.234204,27.97397,-80.861395,28.348584",
     "geom:latitude":28.165099,
     "geom:longitude":-81.005825,
@@ -13,19 +13,25 @@
     "lbl:latitude":28.159876,
     "lbl:longitude":-81.007582,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"St Cloud",
+    "mz:postal_locality_alt":[
+        "Saint Cloud",
+        "Harmony"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688651,
-        102085819
+        102085819,
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12772857"
     },
     "wof:country":"US",
-    "wof:geomhash":"f7470b57c7ec27e8096dd47f2aaf7e26",
+    "wof:geomhash":"1e91aa8acb235d4b1912d25c0c871024",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +42,7 @@
         }
     ],
     "wof:id":554715067,
-    "wof:lastmodified":1480813115,
+    "wof:lastmodified":1611183683,
     "wof:name":"34773",
     "wof:parent_id":102085819,
     "wof:placetype":"postalcode",

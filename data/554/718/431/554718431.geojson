@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030415,
-    "geom:area_square_m":324118481.692652,
+    "geom:area_square_m":324118481.692887,
     "geom:bbox":"-89.311824,30.394059,-88.978833,30.569581",
     "geom:latitude":30.477607,
     "geom:longitude":-89.153604,
@@ -13,19 +13,24 @@
     "lbl:latitude":30.474612,
     "lbl:longitude":-89.152878,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Gulfport",
+    "mz:postal_locality_alt":[
+        "Long Beach"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688579,
-        102087223
+        102087223,
+        85688579
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12774970"
     },
     "wof:country":"US",
-    "wof:geomhash":"68d3e9f27b8a9d8e34458e94559687bf",
+    "wof:geomhash":"b766b4fb58d911f8375f36ebea7dc2d8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +41,7 @@
         }
     ],
     "wof:id":554718431,
-    "wof:lastmodified":1480788185,
+    "wof:lastmodified":1611185556,
     "wof:name":"39503",
     "wof:parent_id":102087223,
     "wof:placetype":"postalcode",

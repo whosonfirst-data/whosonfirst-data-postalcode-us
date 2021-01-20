@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00428,
-    "geom:area_square_m":40007352.451466,
+    "geom:area_square_m":40007352.451471,
     "geom:bbox":"-73.232677,40.856986,-73.131232,40.938242",
     "geom:latitude":40.897646,
     "geom:longitude":-73.173305,
@@ -14,20 +14,29 @@
     "lbl:latitude":40.909287,
     "lbl:longitude":-73.174729,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Saint James",
+    "mz:postal_locality_alt":[
+        "St James",
+        "Nesconset",
+        "St. James",
+        "Smithtown",
+        "Melville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522669,
         85633793,
-        102082395
+        102082395,
+        404522669,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761965"
     },
     "wof:country":"US",
-    "wof:geomhash":"fa18e8740e1f331f457573275450d8c1",
+    "wof:geomhash":"128529052181469ab8960e18b4944ffd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +48,7 @@
         }
     ],
     "wof:id":554779949,
-    "wof:lastmodified":1480794862,
+    "wof:lastmodified":1611183975,
     "wof:name":"11780",
     "wof:parent_id":404522669,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.060823,
-    "geom:area_square_m":569347314.379861,
+    "geom:area_square_m":569347314.379732,
     "geom:bbox":"-100.905887,40.700058,-100.564393,40.946681",
     "geom:latitude":40.798074,
     "geom:longitude":-100.741454,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.796027,
     "lbl:longitude":-100.744306,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wellfleet",
+    "mz:postal_locality_alt":[
+        "Grant"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688563,
         102191575,
-        404518763,
         85633793,
-        102082765
+        102082765,
+        404518763,
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12788050"
     },
     "wof:country":"US",
-    "wof:geomhash":"3dc6b67896f82fe439135592c22a7cd5",
+    "wof:geomhash":"3fd9f4a60b5898d863a9a2d1dc40e36f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554740575,
-    "wof:lastmodified":1480839014,
+    "wof:lastmodified":1611183400,
     "wof:name":"69170",
     "wof:parent_id":404518763,
     "wof:placetype":"postalcode",

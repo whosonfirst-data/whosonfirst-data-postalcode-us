@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008301,
-    "geom:area_square_m":77026087.156084,
+    "geom:area_square_m":77026087.15608,
     "geom:bbox":"-81.055275,41.304786,-80.895068,41.435183",
     "geom:latitude":41.375023,
     "geom:longitude":-80.964338,
@@ -14,20 +14,26 @@
     "lbl:latitude":41.36994,
     "lbl:longitude":-80.963648,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"West Farmington",
+    "mz:postal_locality_alt":[
+        "Bristolville",
+        "Warren"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404524295,
         85633793,
-        102083719
+        102083719,
+        404524295,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776831"
     },
     "wof:country":"US",
-    "wof:geomhash":"6c6cbdbef4d65f0b26cada26c2e4722e",
+    "wof:geomhash":"fbcc2dfec08c4eb8e6946a71c99939a7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554721279,
-    "wof:lastmodified":1480841912,
+    "wof:lastmodified":1611184969,
     "wof:name":"44491",
     "wof:parent_id":404524295,
     "wof:placetype":"postalcode",

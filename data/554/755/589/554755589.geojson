@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004525,
-    "geom:area_square_m":37397270.345589,
+    "geom:area_square_m":37397270.345663,
     "geom:bbox":"-122.184748,48.020006,-122.109388,48.097998",
     "geom:latitude":48.05962,
     "geom:longitude":-122.144581,
@@ -13,20 +13,25 @@
     "lbl:latitude":48.056723,
     "lbl:longitude":-122.146904,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Marysville",
+    "mz:postal_locality_alt":[
+        "Everett"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688623,
         102191575,
         85633793,
+        102087537,
         101729897,
-        102087537
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12799054"
     },
     "wof:country":"US",
-    "wof:geomhash":"5e0f4feb168fa740d89a803197c0fcc0",
+    "wof:geomhash":"67c1b06864218f682e05efa7cf75746b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554755589,
-    "wof:lastmodified":1480788592,
+    "wof:lastmodified":1611182584,
     "wof:name":"98270",
     "wof:parent_id":101729897,
     "wof:placetype":"postalcode",

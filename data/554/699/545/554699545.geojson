@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009179,
-    "geom:area_square_m":84990456.174218,
+    "geom:area_square_m":84990456.174202,
     "geom:bbox":"-72.969365,41.447957,-72.846297,41.563812",
     "geom:latitude":41.511726,
     "geom:longitude":-72.904246,
@@ -14,21 +14,27 @@
     "lbl:latitude":41.511827,
     "lbl:longitude":-72.903617,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cheshire",
+    "mz:postal_locality_alt":[
+        "Fairfield",
+        "Southbury"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688629,
         102191575,
-        404495767,
         85633793,
+        102086923,
+        404495767,
         85931411,
-        102086923
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760381"
     },
     "wof:country":"US",
-    "wof:geomhash":"d06adc6e276dda9557871693dffdd051",
+    "wof:geomhash":"b2adac75d6eeabc0eedc4f4e4900bbb2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554699545,
-    "wof:lastmodified":1480916209,
+    "wof:lastmodified":1611184615,
     "wof:name":"06410",
     "wof:parent_id":85931411,
     "wof:placetype":"postalcode",

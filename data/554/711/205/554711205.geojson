@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027838,
-    "geom:area_square_m":282257312.175455,
+    "geom:area_square_m":282257312.175199,
     "geom:bbox":"-80.840297,34.818208,-80.62574,35.033557",
     "geom:latitude":34.916796,
     "geom:longitude":-80.730133,
@@ -14,20 +14,25 @@
     "lbl:latitude":34.916155,
     "lbl:longitude":-80.731415,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Waxhaw",
+    "mz:postal_locality_alt":[
+        "Weddington"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688773,
         102191575,
         85633793,
+        102080895,
         85981349,
-        102080895
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12769463"
     },
     "wof:country":"US",
-    "wof:geomhash":"b8811af8e3c5a787ba6879a90802b7ab",
+    "wof:geomhash":"39979b90dcf033c1943f84fd6571a7bd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554711205,
-    "wof:lastmodified":1480906988,
+    "wof:lastmodified":1611185314,
     "wof:name":"28173",
     "wof:parent_id":85981349,
     "wof:placetype":"postalcode",

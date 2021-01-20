@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001831,
-    "geom:area_square_m":17378733.345615,
+    "geom:area_square_m":17378733.345603,
     "geom:bbox":"-74.21977,39.844229,-74.123132,39.884939",
     "geom:latitude":39.86394,
     "geom:longitude":-74.171118,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.862755,
     "lbl:longitude":-74.172064,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lanoka Harbor",
+    "mz:postal_locality_alt":[
+        "Forked River"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477841,
         85633793,
-        102081485
+        102081485,
+        404477841,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761236"
     },
     "wof:country":"US",
-    "wof:geomhash":"2a1ab278b9dadc4134da13f8b3579c00",
+    "wof:geomhash":"98f1e9a8ec08ca22214d5166169324c5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554779253,
-    "wof:lastmodified":1480817268,
+    "wof:lastmodified":1611183985,
     "wof:name":"08734",
     "wof:parent_id":404477841,
     "wof:placetype":"postalcode",

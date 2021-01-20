@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024516,
-    "geom:area_square_m":223462084.330346,
+    "geom:area_square_m":223462084.330272,
     "geom:bbox":"-85.516173,42.429492,-85.253909,42.609705",
     "geom:latitude":42.512369,
     "geom:longitude":-85.403221,
@@ -14,20 +14,22 @@
     "lbl:latitude":42.519177,
     "lbl:longitude":-85.387984,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Delton",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404505751,
         85633793,
-        102083125
+        102083125,
+        404505751,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779154"
     },
     "wof:country":"US",
-    "wof:geomhash":"854f98785f25458a331bed2e35371f58",
+    "wof:geomhash":"e70afbc363a6abddf92dc16dd612bbf7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554724761,
-    "wof:lastmodified":1480842722,
+    "wof:lastmodified":1611183761,
     "wof:name":"49046",
     "wof:parent_id":404505751,
     "wof:placetype":"postalcode",

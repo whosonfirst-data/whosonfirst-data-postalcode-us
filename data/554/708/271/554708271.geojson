@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002869,
-    "geom:area_square_m":28385786.28233,
+    "geom:area_square_m":28385786.282328,
     "geom:bbox":"-76.247893,36.827948,-76.176905,36.911647",
     "geom:latitude":36.862944,
     "geom:longitude":-76.209898,
@@ -13,20 +13,25 @@
     "lbl:latitude":36.860941,
     "lbl:longitude":-76.204908,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Norfolk",
+    "mz:postal_locality_alt":[
+        "Virginia Beach"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688747,
         102191575,
         85633793,
+        102085935,
         101728769,
-        102085935
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12767415"
     },
     "wof:country":"US",
-    "wof:geomhash":"fd482d139c71be21f451c5ba859e781f",
+    "wof:geomhash":"1c197b4de702c14471fc64f36c2f0a0a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554708271,
-    "wof:lastmodified":1480830803,
+    "wof:lastmodified":1611182796,
     "wof:name":"23502",
     "wof:parent_id":101728769,
     "wof:placetype":"postalcode",

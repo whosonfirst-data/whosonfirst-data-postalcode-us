@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019023,
-    "geom:area_square_m":168054139.291834,
+    "geom:area_square_m":168054139.291777,
     "geom:bbox":"-119.080098,44.334282,-118.767607,44.463803",
     "geom:latitude":44.401803,
     "geom:longitude":-118.903042,
@@ -14,19 +14,24 @@
     "lbl:latitude":44.401823,
     "lbl:longitude":-118.90306,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"John Day",
+    "mz:postal_locality_alt":[
+        "Canyon City"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688513,
-        102082217
+        102082217,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12798835"
     },
     "wof:country":"US",
-    "wof:geomhash":"ff1c0a441e0c9ee9023140aa768c4a7c",
+    "wof:geomhash":"ae8411266d8a8c741a6b507b30c641f1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554755247,
-    "wof:lastmodified":1480794787,
+    "wof:lastmodified":1611182595,
     "wof:name":"97845",
     "wof:parent_id":102082217,
     "wof:placetype":"postalcode",

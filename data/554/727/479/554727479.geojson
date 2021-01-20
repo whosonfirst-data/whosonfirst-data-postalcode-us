@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009661,
-    "geom:area_square_m":86661147.754542,
+    "geom:area_square_m":86661147.754553,
     "geom:bbox":"-88.077354,43.419641,-87.920518,43.542699",
     "geom:latitude":43.494665,
     "geom:longitude":-88.001621,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.494647,
     "lbl:longitude":-88.009317,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fredonia",
+    "mz:postal_locality_alt":[
+        "Waubeka"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404495189,
         85633793,
-        102081873
+        102081873,
+        404495189,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12780769"
     },
     "wof:country":"US",
-    "wof:geomhash":"df5a31ae61e11ba6ca5193bc0db853b8",
+    "wof:geomhash":"2bd67084123ae0f9325ee80de61563cd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554727479,
-    "wof:lastmodified":1480832138,
+    "wof:lastmodified":1611185500,
     "wof:name":"53021",
     "wof:parent_id":404495189,
     "wof:placetype":"postalcode",

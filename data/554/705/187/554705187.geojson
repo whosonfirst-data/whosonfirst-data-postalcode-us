@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008869,
-    "geom:area_square_m":84134297.190591,
+    "geom:area_square_m":84134297.190541,
     "geom:bbox":"-76.658183,39.8356,-76.472196,39.952891",
     "geom:latitude":39.896585,
     "geom:longitude":-76.582252,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.896585,
     "lbl:longitude":-76.582259,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Red Lion",
+    "mz:postal_locality_alt":[
+        "Hanover"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404487959,
         85633793,
-        102080953
+        102080953,
+        404487959,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764761"
     },
     "wof:country":"US",
-    "wof:geomhash":"e5125e4ecfc97b51007232b48e094e55",
+    "wof:geomhash":"6cccab1d572d7a9538fc3854ac923edb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554705187,
-    "wof:lastmodified":1480903982,
+    "wof:lastmodified":1611184105,
     "wof:name":"17356",
     "wof:parent_id":404487959,
     "wof:placetype":"postalcode",

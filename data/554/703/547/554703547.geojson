@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000425,
-    "geom:area_square_m":3996485.716398,
+    "geom:area_square_m":3996485.716405,
     "geom:bbox":"-80.033056,40.415068,-79.997446,40.443943",
     "geom:latitude":40.430323,
     "geom:longitude":-80.015625,
@@ -13,21 +13,27 @@
     "lbl:latitude":40.430323,
     "lbl:longitude":-80.015624,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pittsburgh",
+    "mz:postal_locality_alt":[
+        "Mt Washington",
+        "Mount Washington"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404482523,
         85633793,
+        102080887,
+        404482523,
         101718805,
-        102080887
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763652"
     },
     "wof:country":"US",
-    "wof:geomhash":"717aac3164264d28e94f3c1f5e77a73a",
+    "wof:geomhash":"84cad4351a61aec528ddd25eb87e72c4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +46,7 @@
         }
     ],
     "wof:id":554703547,
-    "wof:lastmodified":1480905389,
+    "wof:lastmodified":1611184481,
     "wof:name":"15211",
     "wof:parent_id":101718805,
     "wof:placetype":"postalcode",

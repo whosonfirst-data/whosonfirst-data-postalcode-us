@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.147243,
-    "geom:area_square_m":1260193559.094626,
+    "geom:area_square_m":1260193559.093869,
     "geom:bbox":"-88.99112,45.985061,-88.43613,46.420142",
     "geom:latitude":46.199241,
     "geom:longitude":-88.744828,
@@ -14,20 +14,26 @@
     "lbl:latitude":46.175587,
     "lbl:longitude":-88.752156,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Iron River",
+    "mz:postal_locality_alt":[
+        "Stambaugh",
+        "Baraga"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404507731,
         85633793,
-        102083029
+        102083029,
+        404507731,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779658"
     },
     "wof:country":"US",
-    "wof:geomhash":"0e7190636041cf41719a7fac466bb341",
+    "wof:geomhash":"65a286212051cc9efb198a628e85f291",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554725399,
-    "wof:lastmodified":1480841422,
+    "wof:lastmodified":1611183255,
     "wof:name":"49935",
     "wof:parent_id":404507731,
     "wof:placetype":"postalcode",

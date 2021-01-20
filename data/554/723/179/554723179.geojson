@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011453,
-    "geom:area_square_m":111092443.221696,
+    "geom:area_square_m":111092443.221609,
     "geom:bbox":"-86.367489,38.250202,-86.245521,38.422963",
     "geom:latitude":38.330648,
     "geom:longitude":-86.302577,
@@ -14,20 +14,22 @@
     "lbl:latitude":38.329877,
     "lbl:longitude":-86.306582,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Milltown",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404501275,
         85633793,
-        102086387
+        102086387,
+        404501275,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778088"
     },
     "wof:country":"US",
-    "wof:geomhash":"9333cf0e38c1e573577d0353c911cb8e",
+    "wof:geomhash":"906e8fe86f32d3c12ce9c5c79e768040",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554723179,
-    "wof:lastmodified":1480917013,
+    "wof:lastmodified":1611183812,
     "wof:name":"47145",
     "wof:parent_id":404501275,
     "wof:placetype":"postalcode",

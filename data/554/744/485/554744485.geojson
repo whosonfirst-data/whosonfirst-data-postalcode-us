@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026283,
-    "geom:area_square_m":271996474.881011,
+    "geom:area_square_m":271996474.881206,
     "geom:bbox":"-96.276861,33.116332,-95.977795,33.270009",
     "geom:latitude":33.184254,
     "geom:longitude":-96.119495,
@@ -13,19 +13,25 @@
     "lbl:latitude":33.189002,
     "lbl:longitude":-96.108829,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Greenville",
+    "mz:postal_locality_alt":[
+        "Paris",
+        "Commerce"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688753,
-        102080661
+        102080661,
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12790553"
     },
     "wof:country":"US",
-    "wof:geomhash":"5e68f7a2153f848129d60d0e28f57909",
+    "wof:geomhash":"b0fc88fcdd98ea9aad7031ba5091a584",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +42,7 @@
         }
     ],
     "wof:id":554744485,
-    "wof:lastmodified":1480903334,
+    "wof:lastmodified":1611184714,
     "wof:name":"75401",
     "wof:parent_id":102080661,
     "wof:placetype":"postalcode",

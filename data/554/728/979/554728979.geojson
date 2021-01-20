@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.060824,
-    "geom:area_square_m":523138354.230853,
+    "geom:area_square_m":523138354.230777,
     "geom:bbox":"-93.510036,45.738288,-93.142097,46.11584",
     "geom:latitude":45.92773,
     "geom:longitude":-93.304359,
@@ -14,20 +14,25 @@
     "lbl:latitude":45.928892,
     "lbl:longitude":-93.303115,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mora",
+    "mz:postal_locality_alt":[
+        "Isanti"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404509861,
         85633793,
-        102087687
+        102087687,
+        404509861,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781702"
     },
     "wof:country":"US",
-    "wof:geomhash":"459fe0e000d60a99a17a7e8fa86246c4",
+    "wof:geomhash":"996d91986988bc7db228f905126c2b7d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554728979,
-    "wof:lastmodified":1480788584,
+    "wof:lastmodified":1611185066,
     "wof:name":"55051",
     "wof:parent_id":404509861,
     "wof:placetype":"postalcode",

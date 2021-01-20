@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000329,
-    "geom:area_square_m":3077937.72316,
+    "geom:area_square_m":3077937.723153,
     "geom:bbox":"-74.023614,40.778149,-73.997258,40.798891",
     "geom:latitude":40.788152,
     "geom:longitude":-74.011435,
@@ -14,21 +14,26 @@
     "lbl:latitude":40.788152,
     "lbl:longitude":-74.011434,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"West New York",
+    "mz:postal_locality_alt":[
+        "Guttenberg"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478149,
         85633793,
+        102080719,
+        404478149,
         85975287,
-        102080719
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760679"
     },
     "wof:country":"US",
-    "wof:geomhash":"e45144b2a8eebb014045062f500462aa",
+    "wof:geomhash":"8443a4f00b110b9fa94668b4563889ab",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554779101,
-    "wof:lastmodified":1480906621,
+    "wof:lastmodified":1611183979,
     "wof:name":"07093",
     "wof:parent_id":85975287,
     "wof:placetype":"postalcode",

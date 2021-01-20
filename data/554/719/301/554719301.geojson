@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001938,
-    "geom:area_square_m":18751428.525629,
+    "geom:area_square_m":18751428.525611,
     "geom:bbox":"-82.761406,38.493478,-82.665411,38.549776",
     "geom:latitude":38.526204,
     "geom:longitude":-82.712185,
@@ -14,20 +14,26 @@
     "lbl:latitude":38.535531,
     "lbl:longitude":-82.73789,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Russell",
+    "mz:postal_locality_alt":[
+        "Ashland",
+        "Raceland"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688641,
         102191575,
         85633793,
+        102084571,
         85947299,
-        102084571
+        85688641
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12775552"
     },
     "wof:country":"US",
-    "wof:geomhash":"1bd16519648439f93ac9ea8bfabaf94d",
+    "wof:geomhash":"f01e696128d41c03cd326f9340f36a97",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554719301,
-    "wof:lastmodified":1480839213,
+    "wof:lastmodified":1611184906,
     "wof:name":"41169",
     "wof:parent_id":85947299,
     "wof:placetype":"postalcode",

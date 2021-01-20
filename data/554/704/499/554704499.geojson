@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041557,
-    "geom:area_square_m":382822321.017332,
+    "geom:area_square_m":382822321.017229,
     "geom:bbox":"-79.32663,41.650894,-78.949003,41.960008",
     "geom:latitude":41.841739,
     "geom:longitude":-79.158302,
@@ -13,21 +13,26 @@
     "lbl:latitude":41.840224,
     "lbl:longitude":-79.157385,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Warren",
+    "mz:postal_locality_alt":[
+        "Cranberry"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404487689,
         85633793,
+        102081337,
+        404487689,
         101717347,
-        102081337
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764277"
     },
     "wof:country":"US",
-    "wof:geomhash":"c662fddff4f14923886f3e480863d1f7",
+    "wof:geomhash":"eea4a9b0626f0f76c422a4bce2efb474",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554704499,
-    "wof:lastmodified":1480906205,
+    "wof:lastmodified":1611184496,
     "wof:name":"16365",
     "wof:parent_id":101717347,
     "wof:placetype":"postalcode",

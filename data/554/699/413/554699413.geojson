@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000572,
-    "geom:area_square_m":5277699.167205,
+    "geom:area_square_m":5277699.167204,
     "geom:bbox":"-72.740741,41.748691,-72.714782,41.778963",
     "geom:latitude":41.763422,
     "geom:longitude":-72.727208,
@@ -13,21 +13,26 @@
     "lbl:latitude":41.763421,
     "lbl:longitude":-72.727208,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hartford",
+    "mz:postal_locality_alt":[
+        "West Hartford"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688629,
         102191575,
-        404496003,
         85633793,
+        102085381,
+        404496003,
         85931021,
-        102085381
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760260"
     },
     "wof:country":"US",
-    "wof:geomhash":"44b862023e2fd1ca2f16564391578293",
+    "wof:geomhash":"f4bb8c8a9b08e5ad24d22e408838c2e0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554699413,
-    "wof:lastmodified":1480815745,
+    "wof:lastmodified":1611184605,
     "wof:name":"06119",
     "wof:parent_id":85931021,
     "wof:placetype":"postalcode",

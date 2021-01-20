@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027371,
-    "geom:area_square_m":262287279.905308,
+    "geom:area_square_m":262287279.905464,
     "geom:bbox":"-82.347888,39.07933,-82.06083,39.288834",
     "geom:latitude":39.198026,
     "geom:longitude":-82.229513,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.189862,
     "lbl:longitude":-82.237676,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Albany",
+    "mz:postal_locality_alt":[
+        "New Marshfield"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404524037,
         85633793,
-        102083655
+        102083655,
+        404524037,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777397"
     },
     "wof:country":"US",
-    "wof:geomhash":"6bd38f7d79477f3b7af41c37bdd27a52",
+    "wof:geomhash":"6438a0e942baad08afe438555e67b8d7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554722143,
-    "wof:lastmodified":1480843277,
+    "wof:lastmodified":1611183227,
     "wof:name":"45710",
     "wof:parent_id":404524037,
     "wof:placetype":"postalcode",

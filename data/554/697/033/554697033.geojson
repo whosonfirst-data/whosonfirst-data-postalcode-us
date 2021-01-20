@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007102,
-    "geom:area_square_m":64653740.225147,
+    "geom:area_square_m":64653740.225187,
     "geom:bbox":"-72.054394,42.532389,-71.923503,42.64721",
     "geom:latitude":42.587382,
     "geom:longitude":-71.986514,
@@ -14,21 +14,26 @@
     "lbl:latitude":42.584206,
     "lbl:longitude":-71.988737,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Gardner",
+    "mz:postal_locality_alt":[
+        "Fitchburg"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476553,
         85633793,
+        102084655,
+        404476553,
         85950379,
-        102084655
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758451"
     },
     "wof:country":"US",
-    "wof:geomhash":"0299cdc7a4fb64ad457fff78ddf115a0",
+    "wof:geomhash":"fab381033b3a6b313cc98305eeb0860c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554697033,
-    "wof:lastmodified":1480803785,
+    "wof:lastmodified":1611184660,
     "wof:name":"01440",
     "wof:parent_id":85950379,
     "wof:placetype":"postalcode",

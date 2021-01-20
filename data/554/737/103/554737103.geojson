@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015436,
-    "geom:area_square_m":149700260.161339,
+    "geom:area_square_m":149700260.161653,
     "geom:bbox":"-92.453998,38.244728,-92.291516,38.446631",
     "geom:latitude":38.342384,
     "geom:longitude":-92.382347,
@@ -14,20 +14,22 @@
     "lbl:latitude":38.346516,
     "lbl:longitude":-92.378407,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Eugene",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404516739,
         85633793,
-        102087519
+        102087519,
+        404516739,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786328"
     },
     "wof:country":"US",
-    "wof:geomhash":"71ea442c94d7064ee36690b8017e30cb",
+    "wof:geomhash":"d2fbb576a95e378fd519002806ca91cc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554737103,
-    "wof:lastmodified":1480787487,
+    "wof:lastmodified":1611182825,
     "wof:name":"65032",
     "wof:parent_id":404516739,
     "wof:placetype":"postalcode",

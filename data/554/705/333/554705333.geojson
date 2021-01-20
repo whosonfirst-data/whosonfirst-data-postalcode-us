@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020181,
-    "geom:area_square_m":187471155.928745,
+    "geom:area_square_m":187471155.928681,
     "geom:bbox":"-76.792635,41.210398,-76.570816,41.403948",
     "geom:latitude":41.29892,
     "geom:longitude":-76.688226,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.299271,
     "lbl:longitude":-76.68578,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hughesville",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485343,
         85633793,
-        102081317
+        102081317,
+        404485343,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764865"
     },
     "wof:country":"US",
-    "wof:geomhash":"7afc3dd9ffbf81c60f1ea4ff83f85208",
+    "wof:geomhash":"5867a741c39b9e1e7ad1780c02c6cf4a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554705333,
-    "wof:lastmodified":1480831131,
+    "wof:lastmodified":1611184115,
     "wof:name":"17737",
     "wof:parent_id":404485343,
     "wof:placetype":"postalcode",

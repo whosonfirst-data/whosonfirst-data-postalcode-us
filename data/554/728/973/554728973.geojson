@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010454,
-    "geom:area_square_m":91078435.724577,
+    "geom:area_square_m":91078435.724599,
     "geom:bbox":"-92.896992,45.137905,-92.752207,45.253637",
     "geom:latitude":45.202449,
     "geom:longitude":-92.823994,
@@ -14,20 +14,25 @@
     "lbl:latitude":45.200429,
     "lbl:longitude":-92.820729,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Marine St Croix",
+    "mz:postal_locality_alt":[
+        "Marine On Saint Croix"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404514907,
         85633793,
-        102087659
+        102087659,
+        404514907,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781700"
     },
     "wof:country":"US",
-    "wof:geomhash":"0b62bfedadd1ac0202f551df6fdcf80d",
+    "wof:geomhash":"8264bfdfc8b905ee95c18c1d2a628cfa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554728973,
-    "wof:lastmodified":1480830591,
+    "wof:lastmodified":1611185093,
     "wof:name":"55047",
     "wof:parent_id":404514907,
     "wof:placetype":"postalcode",

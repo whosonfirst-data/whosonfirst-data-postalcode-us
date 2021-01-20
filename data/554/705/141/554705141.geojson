@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017236,
-    "geom:area_square_m":163208571.410463,
+    "geom:area_square_m":163208571.410351,
     "geom:bbox":"-76.961123,39.942066,-76.781706,40.120802",
     "geom:latitude":40.023237,
     "geom:longitude":-76.864981,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.026604,
     "lbl:longitude":-76.864065,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Dover",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404487723,
         85633793,
-        102080953
+        102080953,
+        404487723,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764729"
     },
     "wof:country":"US",
-    "wof:geomhash":"77ee2102cfe7d183ef3e891f95985a7b",
+    "wof:geomhash":"81a5b76dc2176eb3d4cfbfd4fa88fb3d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554705141,
-    "wof:lastmodified":1480903982,
+    "wof:lastmodified":1611184128,
     "wof:name":"17315",
     "wof:parent_id":404487723,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036439,
-    "geom:area_square_m":349115117.833059,
+    "geom:area_square_m":349115117.833023,
     "geom:bbox":"-99.773214,39.11992,-99.456392,39.321055",
     "geom:latitude":39.210283,
     "geom:longitude":-99.619989,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.202293,
     "lbl:longitude":-99.616784,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Palco",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404502385,
         85633793,
-        102084143
+        102084143,
+        404502385,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787376"
     },
     "wof:country":"US",
-    "wof:geomhash":"a6cd5515f074c658f09aaefa32385fc2",
+    "wof:geomhash":"8bb655599cafc8c461da015c496a7356",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554739197,
-    "wof:lastmodified":1480834191,
+    "wof:lastmodified":1611182667,
     "wof:name":"67657",
     "wof:parent_id":404502385,
     "wof:placetype":"postalcode",

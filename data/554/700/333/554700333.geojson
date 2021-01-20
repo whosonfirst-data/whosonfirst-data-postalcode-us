@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01337,
-    "geom:area_square_m":126768903.597861,
+    "geom:area_square_m":126768903.597899,
     "geom:bbox":"-74.629464,39.86848,-74.449266,39.991209",
     "geom:latitude":39.932989,
     "geom:longitude":-74.537808,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.931531,
     "lbl:longitude":-74.543763,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Browns Mills",
+    "mz:postal_locality_alt":[
+        "Pemberton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477957,
         85633793,
-        102087415
+        102087415,
+        404477957,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760990"
     },
     "wof:country":"US",
-    "wof:geomhash":"150270f28888d7184a8b4779f432e59a",
+    "wof:geomhash":"00d2b9fcce556a87e2fa42ccbdec0863",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554700333,
-    "wof:lastmodified":1480817268,
+    "wof:lastmodified":1611183196,
     "wof:name":"08015",
     "wof:parent_id":404477957,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004603,
-    "geom:area_square_m":45240994.336516,
+    "geom:area_square_m":45240994.336442,
     "geom:bbox":"-122.185458,37.31202,-122.095199,37.406258",
     "geom:latitude":37.357495,
     "geom:longitude":-122.144432,
@@ -13,20 +13,26 @@
     "lbl:latitude":37.357489,
     "lbl:longitude":-122.144438,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Los Altos",
+    "mz:postal_locality_alt":[
+        "Los Altos Hills",
+        "Marmora"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102081673,
         85922381,
-        102081673
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12797113"
     },
     "wof:country":"US",
-    "wof:geomhash":"2c671c3c9ce0b79007e514526b5e2173",
+    "wof:geomhash":"e95687d20bebe3b0b468acdb37b67e06",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554753059,
-    "wof:lastmodified":1480829308,
+    "wof:lastmodified":1611182964,
     "wof:name":"94022",
     "wof:parent_id":85922381,
     "wof:placetype":"postalcode",

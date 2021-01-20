@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025934,
-    "geom:area_square_m":253994247.689323,
+    "geom:area_square_m":253994247.689275,
     "geom:bbox":"-100.342967,37.504247,-100.105941,37.737164",
     "geom:latitude":37.622361,
     "geom:longitude":-100.244137,
@@ -14,20 +14,22 @@
     "lbl:latitude":37.634648,
     "lbl:longitude":-100.2425,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ensign",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404503739,
         85633793,
-        102083447
+        102083447,
+        404503739,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787429"
     },
     "wof:country":"US",
-    "wof:geomhash":"961313a5b1c54361fd2d748beebc2acc",
+    "wof:geomhash":"d922f4c0f5d16b0f37791275db1b6295",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554739305,
-    "wof:lastmodified":1480841099,
+    "wof:lastmodified":1611182669,
     "wof:name":"67841",
     "wof:parent_id":404503739,
     "wof:placetype":"postalcode",

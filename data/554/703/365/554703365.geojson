@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025151,
-    "geom:area_square_m":236853012.429521,
+    "geom:area_square_m":236853012.429621,
     "geom:bbox":"-80.519043,40.30117,-80.328445,40.477789",
     "geom:latitude":40.39427,
     "geom:longitude":-80.435127,
@@ -13,20 +13,27 @@
     "lbl:latitude":40.388565,
     "lbl:longitude":-80.441527,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Burgettstown",
+    "mz:postal_locality_alt":[
+        "Paris",
+        "Slovan",
+        "Atlasburg"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404487791,
         85633793,
-        102081343
+        102081343,
+        404487791,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763549"
     },
     "wof:country":"US",
-    "wof:geomhash":"0f8b1495a8fca5103fe381c8c4bfc968",
+    "wof:geomhash":"d195d7bb6effa9ab90d35257b1f5753e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +45,7 @@
         }
     ],
     "wof:id":554703365,
-    "wof:lastmodified":1480832490,
+    "wof:lastmodified":1611184447,
     "wof:name":"15021",
     "wof:parent_id":404487791,
     "wof:placetype":"postalcode",

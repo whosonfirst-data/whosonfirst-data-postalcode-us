@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007447,
-    "geom:area_square_m":77772648.423847,
+    "geom:area_square_m":77772648.423805,
     "geom:bbox":"-80.746528,32.286162,-80.65224,32.467264",
     "geom:latitude":32.368471,
     "geom:longitude":-80.694936,
@@ -13,20 +13,26 @@
     "lbl:latitude":32.334933,
     "lbl:longitude":-80.684304,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Beaufort",
+    "mz:postal_locality_alt":[
+        "Port Royal",
+        "Ridgeland"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688683,
         102191575,
         85633793,
+        102085471,
         101720699,
-        102085471
+        85688683
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770453"
     },
     "wof:country":"US",
-    "wof:geomhash":"e3dbe4a2c4b0f3d99deb2aa4cc69f77f",
+    "wof:geomhash":"3075fe3872887d5d9eb719dce4d79b01",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554781131,
-    "wof:lastmodified":1480805317,
+    "wof:lastmodified":1611184824,
     "wof:name":"29902",
     "wof:parent_id":101720699,
     "wof:placetype":"postalcode",

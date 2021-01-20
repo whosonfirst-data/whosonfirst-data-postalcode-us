@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046349,
-    "geom:area_square_m":440294388.279639,
+    "geom:area_square_m":440294388.279703,
     "geom:bbox":"-85.953478,39.698816,-85.613578,39.930651",
     "geom:latitude":39.80337,
     "geom:longitude":-85.77069,
@@ -14,21 +14,26 @@
     "lbl:latitude":39.801973,
     "lbl:longitude":-85.772071,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Greenfield",
+    "mz:postal_locality_alt":[
+        "Greenwood"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404500009,
         85633793,
+        102086473,
+        404500009,
         85941307,
-        102086473
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777610"
     },
     "wof:country":"US",
-    "wof:geomhash":"09b407ab40b10501d78524e46d467482",
+    "wof:geomhash":"e20a50948e2852863fb1a0c4f571cca9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554722499,
-    "wof:lastmodified":1480911623,
+    "wof:lastmodified":1611183221,
     "wof:name":"46140",
     "wof:parent_id":85941307,
     "wof:placetype":"postalcode",

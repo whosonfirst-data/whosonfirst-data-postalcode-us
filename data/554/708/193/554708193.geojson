@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003153,
-    "geom:area_square_m":30933034.032464,
+    "geom:area_square_m":30933034.032487,
     "geom:bbox":"-77.525168,37.460519,-77.416329,37.532557",
     "geom:latitude":37.49783,
     "geom:longitude":-77.466217,
@@ -13,20 +13,25 @@
     "lbl:latitude":37.497602,
     "lbl:longitude":-77.467429,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Richmond",
+    "mz:postal_locality_alt":[
+        "Stafford"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688747,
         102191575,
         85633793,
+        102085959,
         101728675,
-        102085959
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12767266"
     },
     "wof:country":"US",
-    "wof:geomhash":"b46d8ee6c4b40ad848c36d9de9a528b6",
+    "wof:geomhash":"c00391e8f5831fccd923a8bb15fad8a0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554708193,
-    "wof:lastmodified":1480812144,
+    "wof:lastmodified":1611182764,
     "wof:name":"23224",
     "wof:parent_id":101728675,
     "wof:placetype":"postalcode",

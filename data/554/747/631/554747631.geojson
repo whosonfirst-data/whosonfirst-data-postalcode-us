@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.14372,
-    "geom:area_square_m":1501881046.353356,
+    "geom:area_square_m":1501881046.353216,
     "geom:bbox":"-101.17509,32.086444,-100.664008,32.576371",
     "geom:latitude":32.315514,
     "geom:longitude":-100.917717,
@@ -14,19 +14,24 @@
     "lbl:latitude":32.304117,
     "lbl:longitude":-100.924392,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Colorado City",
+    "mz:postal_locality_alt":[
+        "Denton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688753,
-        102085035
+        102085035,
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12792659"
     },
     "wof:country":"US",
-    "wof:geomhash":"702761b1568eaa617edd97cb163dafbd",
+    "wof:geomhash":"ccd780ca6a14f7d51f6c89e0852c3bff",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554747631,
-    "wof:lastmodified":1480903426,
+    "wof:lastmodified":1611183483,
     "wof:name":"79512",
     "wof:parent_id":102085035,
     "wof:placetype":"postalcode",

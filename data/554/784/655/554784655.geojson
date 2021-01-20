@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000816,
-    "geom:area_square_m":8005514.735795,
+    "geom:area_square_m":8005514.735801,
     "geom:bbox":"-122.269983,37.51619,-122.222939,37.553596",
     "geom:latitude":37.535439,
     "geom:longitude":-122.246754,
@@ -13,20 +13,25 @@
     "lbl:latitude":37.533711,
     "lbl:longitude":-122.251172,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Redwood City",
+    "mz:postal_locality_alt":[
+        "Redwood Shores"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102085387,
         85922447,
-        102085387
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12797139"
     },
     "wof:country":"US",
-    "wof:geomhash":"1aace958f2173add8f6f8e1b7da4c493",
+    "wof:geomhash":"4adfd6e29d083132f4eebf11580e507c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554784655,
-    "wof:lastmodified":1480806944,
+    "wof:lastmodified":1611183953,
     "wof:name":"94065",
     "wof:parent_id":85922447,
     "wof:placetype":"postalcode",

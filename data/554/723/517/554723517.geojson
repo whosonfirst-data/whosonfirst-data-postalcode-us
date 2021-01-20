@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001407,
-    "geom:area_square_m":13689176.068808,
+    "geom:area_square_m":13689176.0688,
     "geom:bbox":"-87.0182,38.08676,-86.96847,38.133056",
     "geom:latitude":38.114073,
     "geom:longitude":-86.99819,
@@ -14,20 +14,22 @@
     "lbl:latitude":38.114551,
     "lbl:longitude":-86.999676,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lincoln City",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404500327,
         85633793,
-        102087069
+        102087069,
+        404500327,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778287"
     },
     "wof:country":"US",
-    "wof:geomhash":"0dd02706080241d3ac01b30f674940d5",
+    "wof:geomhash":"ed021988f1323664e2170ea57071dd34",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554723517,
-    "wof:lastmodified":1480785296,
+    "wof:lastmodified":1611183790,
     "wof:name":"47552",
     "wof:parent_id":404500327,
     "wof:placetype":"postalcode",

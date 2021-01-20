@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002169,
-    "geom:area_square_m":22262262.787062,
+    "geom:area_square_m":22262262.787046,
     "geom:bbox":"-84.487346,33.824504,-84.413581,33.915881",
     "geom:latitude":33.876211,
     "geom:longitude":-84.460205,
@@ -13,20 +13,25 @@
     "lbl:latitude":33.876174,
     "lbl:longitude":-84.462357,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Atlanta",
+    "mz:postal_locality_alt":[
+        "Smyrna"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688535,
         102191575,
         85633793,
+        102082313,
         85937195,
-        102082313
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770754"
     },
     "wof:country":"US",
-    "wof:geomhash":"1ba23e50055b1a569281066ebb729a49",
+    "wof:geomhash":"1b530d5f43af5edb8b40ab77e890f763",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554713087,
-    "wof:lastmodified":1480841942,
+    "wof:lastmodified":1611183323,
     "wof:name":"30339",
     "wof:parent_id":85937195,
     "wof:placetype":"postalcode",

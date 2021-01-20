@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001898,
-    "geom:area_square_m":19523283.808984,
+    "geom:area_square_m":19523283.809001,
     "geom:bbox":"-117.944059,33.69411,-117.883289,33.7453",
     "geom:latitude":33.720558,
     "geom:longitude":-117.908036,
@@ -13,20 +13,26 @@
     "lbl:latitude":33.721131,
     "lbl:longitude":-117.90511,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Santa Ana",
+    "mz:postal_locality_alt":[
+        "Fountain Valley",
+        "Costa Mesa"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102080847,
         85923049,
-        102080847
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796609"
     },
     "wof:country":"US",
-    "wof:geomhash":"03e4aece0c78ebfe321e306e651f163e",
+    "wof:geomhash":"85cdd21791adba3306fcc462faf7ced2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554784481,
-    "wof:lastmodified":1480906252,
+    "wof:lastmodified":1611183950,
     "wof:name":"92704",
     "wof:parent_id":85923049,
     "wof:placetype":"postalcode",

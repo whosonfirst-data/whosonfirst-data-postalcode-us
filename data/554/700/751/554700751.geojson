@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003885,
-    "geom:area_square_m":36587074.05759,
+    "geom:area_square_m":36587074.057585,
     "geom:bbox":"-74.618354,40.35767,-74.498775,40.428364",
     "geom:latitude":40.387945,
     "geom:longitude":-74.548207,
@@ -14,20 +14,26 @@
     "lbl:latitude":40.388098,
     "lbl:longitude":-74.548284,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Monmouth Junction",
+    "mz:postal_locality_alt":[
+        "Monmouth Jct",
+        "Dayton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478211,
         85633793,
-        102087417
+        102087417,
+        404478211,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761289"
     },
     "wof:country":"US",
-    "wof:geomhash":"d064137d718c489e81e7c55d74ae9a5b",
+    "wof:geomhash":"46d76c7281537a3232066c98e4ed1452",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554700751,
-    "wof:lastmodified":1480783320,
+    "wof:lastmodified":1611183194,
     "wof:name":"08852",
     "wof:parent_id":404478211,
     "wof:placetype":"postalcode",

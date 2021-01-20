@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001092,
-    "geom:area_square_m":10063755.230305,
+    "geom:area_square_m":10063755.230335,
     "geom:bbox":"-87.855765,41.81655,-87.802676,41.857747",
     "geom:latitude":41.83793,
     "geom:longitude":-87.821287,
@@ -14,21 +14,26 @@
     "lbl:latitude":41.837923,
     "lbl:longitude":-87.821859,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Riverside",
+    "mz:postal_locality_alt":[
+        "North Riverside"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404497585,
         85633793,
+        102084317,
+        404497585,
         85940725,
-        102084317
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784229"
     },
     "wof:country":"US",
-    "wof:geomhash":"13f8dc65cecda12df88586b1182b8cef",
+    "wof:geomhash":"5dc4612cb83ff398f05d920785a4677b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554783339,
-    "wof:lastmodified":1480802045,
+    "wof:lastmodified":1611183874,
     "wof:name":"60546",
     "wof:parent_id":85940725,
     "wof:placetype":"postalcode",

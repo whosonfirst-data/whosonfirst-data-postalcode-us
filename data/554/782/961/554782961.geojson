@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001616,
-    "geom:area_square_m":14633287.952038,
+    "geom:area_square_m":14633287.952033,
     "geom:bbox":"-87.8821,42.893125,-87.83418,42.930213",
     "geom:latitude":42.911867,
     "geom:longitude":-87.859401,
@@ -14,21 +14,26 @@
     "lbl:latitude":42.911998,
     "lbl:longitude":-87.859664,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"South Milwaukee",
+    "mz:postal_locality_alt":[
+        "Oak Creek"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404492093,
         85633793,
+        102081837,
+        404492093,
         101733087,
-        102081837
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12780880"
     },
     "wof:country":"US",
-    "wof:geomhash":"15ddbbe38887bf0e694f56f5ed25dadc",
+    "wof:geomhash":"ff8de998befefc493511768c2dfca02f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554782961,
-    "wof:lastmodified":1480823412,
+    "wof:lastmodified":1611183618,
     "wof:name":"53172",
     "wof:parent_id":101733087,
     "wof:placetype":"postalcode",

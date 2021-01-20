@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016675,
-    "geom:area_square_m":156661915.158494,
+    "geom:area_square_m":156661915.158396,
     "geom:bbox":"-79.684298,40.481805,-79.439041,40.631212",
     "geom:latitude":40.553811,
     "geom:longitude":-79.564241,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.546577,
     "lbl:longitude":-79.561663,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Apollo",
+    "mz:postal_locality_alt":[
+        "Ligonier"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404487413,
         85633793,
-        102081383
+        102081383,
+        404487413,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763894"
     },
     "wof:country":"US",
-    "wof:geomhash":"19023f121fa5c4fe1957c1e5e7b273b7",
+    "wof:geomhash":"1e3c5022ef3b3e5495ebf5a4abdefd97",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554703887,
-    "wof:lastmodified":1480823410,
+    "wof:lastmodified":1611184453,
     "wof:name":"15613",
     "wof:parent_id":404487413,
     "wof:placetype":"postalcode",

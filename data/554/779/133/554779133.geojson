@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000597,
-    "geom:area_square_m":5616368.186151,
+    "geom:area_square_m":5616368.18615,
     "geom:bbox":"-74.10122,40.404383,-74.068,40.435668",
     "geom:latitude":40.420687,
     "geom:longitude":-74.085014,
@@ -14,21 +14,26 @@
     "lbl:latitude":40.419871,
     "lbl:longitude":-74.085174,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Belford",
+    "mz:postal_locality_alt":[
+        "Middletown"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478371,
         85633793,
+        102085049,
+        404478371,
         85976067,
-        102085049
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760846"
     },
     "wof:country":"US",
-    "wof:geomhash":"bba83404171c5bf36f342a1a0a124ecf",
+    "wof:geomhash":"d3c40a70429b3c53e2b8289ba2d388a6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554779133,
-    "wof:lastmodified":1480809856,
+    "wof:lastmodified":1611183964,
     "wof:name":"07718",
     "wof:parent_id":85976067,
     "wof:placetype":"postalcode",

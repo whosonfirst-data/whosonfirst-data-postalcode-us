@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014498,
-    "geom:area_square_m":129496418.269384,
+    "geom:area_square_m":129496418.26936,
     "geom:bbox":"-93.967464,43.658363,-93.842577,43.848226",
     "geom:latitude":43.751616,
     "geom:longitude":-93.910773,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.753245,
     "lbl:longitude":-93.917351,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Easton",
+    "mz:postal_locality_alt":[
+        "Madelia"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404513939,
         85633793,
-        102087833
+        102087833,
+        404513939,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782192"
     },
     "wof:country":"US",
-    "wof:geomhash":"14c4d5c9379f511ce7e93de73f388a44",
+    "wof:geomhash":"983c32a60b6f1377b6308028044d2870",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554729757,
-    "wof:lastmodified":1480784872,
+    "wof:lastmodified":1611185428,
     "wof:name":"56025",
     "wof:parent_id":404513939,
     "wof:placetype":"postalcode",

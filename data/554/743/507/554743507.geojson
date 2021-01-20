@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027654,
-    "geom:area_square_m":276429111.742087,
+    "geom:area_square_m":276429111.741835,
     "geom:bbox":"-95.77965,35.902335,-95.523052,36.162529",
     "geom:latitude":36.059981,
     "geom:longitude":-95.675145,
@@ -13,20 +13,26 @@
     "lbl:latitude":36.055628,
     "lbl:longitude":-95.680816,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Broken Arrow",
+    "mz:postal_locality_alt":[
+        "Coweta",
+        "Catoosa"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688585,
         102191575,
         85633793,
+        102083277,
         101714277,
-        102083277
+        85688585
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12789917"
     },
     "wof:country":"US",
-    "wof:geomhash":"d9b487d36970439e6a71f88bf0d689df",
+    "wof:geomhash":"04fde25014093e359e33e0e0e72fa044",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554743507,
-    "wof:lastmodified":1480840460,
+    "wof:lastmodified":1611184786,
     "wof:name":"74014",
     "wof:parent_id":101714277,
     "wof:placetype":"postalcode",

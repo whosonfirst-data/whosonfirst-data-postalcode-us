@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001336,
-    "geom:area_square_m":12678987.453671,
+    "geom:area_square_m":12678987.453689,
     "geom:bbox":"-105.026954,39.846757,-104.98571,39.885362",
     "geom:latitude":39.866797,
     "geom:longitude":-105.006085,
@@ -13,20 +13,25 @@
     "lbl:latitude":39.866918,
     "lbl:longitude":-105.006059,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Denver",
+    "mz:postal_locality_alt":[
+        "Northglenn"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688603,
         102191575,
         85633793,
+        102084053,
         85929347,
-        102084053
+        85688603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12792993"
     },
     "wof:country":"US",
-    "wof:geomhash":"ceadff34492c5d5544e4f724be2c3735",
+    "wof:geomhash":"07d28b58374d1bf76dd28353ad07c4ef",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554748079,
-    "wof:lastmodified":1480803274,
+    "wof:lastmodified":1611183824,
     "wof:name":"80260",
     "wof:parent_id":85929347,
     "wof:placetype":"postalcode",

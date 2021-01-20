@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004741,
-    "geom:area_square_m":43736065.014801,
+    "geom:area_square_m":43736065.014809,
     "geom:bbox":"-70.655046,41.704431,-70.537145,41.801944",
     "geom:latitude":41.751502,
     "geom:longitude":-70.597396,
@@ -13,21 +13,30 @@
     "lbl:latitude":41.751759,
     "lbl:longitude":-70.597552,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Buzzards Bay",
+    "mz:postal_locality_alt":[
+        "Bourne",
+        "Pocasset",
+        "Onset",
+        "Monument Beach",
+        "Wareham"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404475895,
         85633793,
+        102084379,
+        404475895,
         85950533,
-        102084379
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758871"
     },
     "wof:country":"US",
-    "wof:geomhash":"cd5eb73dfd16f7a19fa577cc9857e947",
+    "wof:geomhash":"ea57b70fff5fe65425d93da10bc5e229",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +49,7 @@
         }
     ],
     "wof:id":554778415,
-    "wof:lastmodified":1480802731,
+    "wof:lastmodified":1611183429,
     "wof:name":"02532",
     "wof:parent_id":85950533,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.103537,
-    "geom:area_square_m":1059453358.835958,
+    "geom:area_square_m":1059453358.835772,
     "geom:bbox":"-95.156839,33.927731,-94.573582,34.491763",
     "geom:latitude":34.153391,
     "geom:longitude":-94.801698,
@@ -14,19 +14,25 @@
     "lbl:latitude":34.150313,
     "lbl:longitude":-94.802807,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Broken Bow",
+    "mz:postal_locality_alt":[
+        "Eagletown",
+        "Wright City"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688585,
-        102084009
+        102084009,
+        85688585
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12790188"
     },
     "wof:country":"US",
-    "wof:geomhash":"5554965932ff3f41f836cb19f7d67023",
+    "wof:geomhash":"e6e07ab65c686b3f682ba3dd07d46962",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554743945,
-    "wof:lastmodified":1480834566,
+    "wof:lastmodified":1611184799,
     "wof:name":"74728",
     "wof:parent_id":102084009,
     "wof:placetype":"postalcode",

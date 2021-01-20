@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000877,
-    "geom:area_square_m":8971077.025656,
+    "geom:area_square_m":8971077.025664,
     "geom:bbox":"-118.450896,34.164855,-118.412684,34.193937",
     "geom:latitude":34.178114,
     "geom:longitude":-118.431465,
@@ -13,20 +13,28 @@
     "lbl:latitude":34.178483,
     "lbl:longitude":-118.431791,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Van Nuys",
+    "mz:postal_locality_alt":[
+        "Sherman Oaks",
+        "San Fernando Valley",
+        "Los Angeles",
+        "Valley Glen"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086957,
         85923517,
-        102086957
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796029"
     },
     "wof:country":"US",
-    "wof:geomhash":"4dd156b14f1500a9acaefe9d165e5005",
+    "wof:geomhash":"a3a3b7476673689455f628cde91ce067",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +46,7 @@
         }
     ],
     "wof:id":554751977,
-    "wof:lastmodified":1480912606,
+    "wof:lastmodified":1611184338,
     "wof:name":"91401",
     "wof:parent_id":85923517,
     "wof:placetype":"postalcode",

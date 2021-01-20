@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003514,
-    "geom:area_square_m":33218705.263039,
+    "geom:area_square_m":33218705.263008,
     "geom:bbox":"-75.103676,40.084847,-75.01064,40.172298",
     "geom:latitude":40.132946,
     "geom:longitude":-75.061513,
@@ -14,20 +14,28 @@
     "lbl:latitude":40.150436,
     "lbl:longitude":-75.033899,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Huntingdon Vly",
+    "mz:postal_locality_alt":[
+        "Huntingdon Valley",
+        "Bryn Athyn",
+        "Jenkintown",
+        "Willow Grove"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404482775,
         85633793,
-        102080987
+        102080987,
+        404482775,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765409"
     },
     "wof:country":"US",
-    "wof:geomhash":"aa297ab7f2d9ed3c37ba57536f2e2028",
+    "wof:geomhash":"5ad552dd88fa4d566ad2be4ece5ce7e1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +47,7 @@
         }
     ],
     "wof:id":554706139,
-    "wof:lastmodified":1480906419,
+    "wof:lastmodified":1611182704,
     "wof:name":"19006",
     "wof:parent_id":404482775,
     "wof:placetype":"postalcode",

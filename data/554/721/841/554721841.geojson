@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006762,
-    "geom:area_square_m":63886014.210581,
+    "geom:area_square_m":63886014.210484,
     "geom:bbox":"-84.079582,40.087925,-83.949012,40.242046",
     "geom:latitude":40.17488,
     "geom:longitude":-84.019123,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.211018,
     "lbl:longitude":-83.988585,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Conover",
+    "mz:postal_locality_alt":[
+        "Saint Paris"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404524975,
         85633793,
-        102084709
+        102084709,
+        404524975,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777208"
     },
     "wof:country":"US",
-    "wof:geomhash":"c6d7a8d62f4dd970370aee10b9fbd59f",
+    "wof:geomhash":"f643a9ad732032b49d439257daabae92",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554721841,
-    "wof:lastmodified":1480839086,
+    "wof:lastmodified":1611184968,
     "wof:name":"45317",
     "wof:parent_id":404524975,
     "wof:placetype":"postalcode",

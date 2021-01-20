@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032789,
-    "geom:area_square_m":295481023.215061,
+    "geom:area_square_m":295481023.215045,
     "geom:bbox":"-75.645465,43.107306,-75.299845,43.303916",
     "geom:latitude":43.215996,
     "geom:longitude":-75.461376,
@@ -13,21 +13,26 @@
     "lbl:latitude":43.215771,
     "lbl:longitude":-75.461778,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Rome",
+    "mz:postal_locality_alt":[
+        "New Berlin"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522697,
         85633793,
+        102083149,
+        404522697,
         85978369,
-        102083149
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762825"
     },
     "wof:country":"US",
-    "wof:geomhash":"68dcef84cdb748d3b7eb04ae2d60ace5",
+    "wof:geomhash":"898aacb6ffd9946081d994a313f232af",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554702369,
-    "wof:lastmodified":1480842887,
+    "wof:lastmodified":1611184155,
     "wof:name":"13440",
     "wof:parent_id":85978369,
     "wof:placetype":"postalcode",

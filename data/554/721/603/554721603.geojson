@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010443,
-    "geom:area_square_m":99706856.597981,
+    "geom:area_square_m":99706856.597962,
     "geom:bbox":"-84.442112,39.368446,-84.31827,39.520296",
     "geom:latitude":39.450037,
     "geom:longitude":-84.382272,
@@ -13,20 +13,27 @@
     "lbl:latitude":39.482404,
     "lbl:longitude":-84.410242,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Middletown",
+    "mz:postal_locality_alt":[
+        "Liberty Twp",
+        "Monroe",
+        "Hamilton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404524795,
         85633793,
-        102084743
+        102084743,
+        404524795,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777049"
     },
     "wof:country":"US",
-    "wof:geomhash":"7db1127843bd3b33393520e42c60d700",
+    "wof:geomhash":"ad013623a3844fa4a2099a1ad997529e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +45,7 @@
         }
     ],
     "wof:id":554721603,
-    "wof:lastmodified":1480799313,
+    "wof:lastmodified":1611184956,
     "wof:name":"45044",
     "wof:parent_id":404524795,
     "wof:placetype":"postalcode",

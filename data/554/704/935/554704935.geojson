@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000555,
-    "geom:area_square_m":5235461.618759,
+    "geom:area_square_m":5235461.618751,
     "geom:bbox":"-76.91671,40.233882,-76.878871,40.271938",
     "geom:latitude":40.246909,
     "geom:longitude":-76.900116,
@@ -14,21 +14,28 @@
     "lbl:latitude":40.247611,
     "lbl:longitude":-76.900134,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lemoyne",
+    "mz:postal_locality_alt":[
+        "Wormleysburg",
+        "Liverpool",
+        "Carlisle"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404483155,
         85633793,
+        102081359,
+        404483155,
         101716771,
-        102081359
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764587"
     },
     "wof:country":"US",
-    "wof:geomhash":"ad1d0ae33d12cc10c1ce485c014d5531",
+    "wof:geomhash":"66b703feada119264f231deb5ecfde2d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +48,7 @@
         }
     ],
     "wof:id":554704935,
-    "wof:lastmodified":1480831659,
+    "wof:lastmodified":1611184506,
     "wof:name":"17043",
     "wof:parent_id":101716771,
     "wof:placetype":"postalcode",

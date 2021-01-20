@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002174,
-    "geom:area_square_m":22572566.679161,
+    "geom:area_square_m":22572566.679171,
     "geom:bbox":"-96.769319,32.890338,-96.69784,32.939978",
     "geom:latitude":32.912138,
     "geom:longitude":-96.73564,
@@ -13,20 +13,25 @@
     "lbl:latitude":32.912633,
     "lbl:longitude":-96.736637,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Dallas",
+    "mz:postal_locality_alt":[
+        "Richardson"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102080647,
         101724385,
-        102080647
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12790477"
     },
     "wof:country":"US",
-    "wof:geomhash":"2302a89d6cd28c0b445bd058514d2fda",
+    "wof:geomhash":"ff852a724ba0edb9549f1b2093e81335",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554744461,
-    "wof:lastmodified":1480904886,
+    "wof:lastmodified":1611184746,
     "wof:name":"75243",
     "wof:parent_id":101724385,
     "wof:placetype":"postalcode",

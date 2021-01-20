@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011202,
-    "geom:area_square_m":112425316.181533,
+    "geom:area_square_m":112425316.181546,
     "geom:bbox":"-81.28593,35.660486,-81.144602,35.823289",
     "geom:latitude":35.740785,
     "geom:longitude":-81.209116,
@@ -14,20 +14,27 @@
     "lbl:latitude":35.737687,
     "lbl:longitude":-81.207681,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Conover",
+    "mz:postal_locality_alt":[
+        "Hickory",
+        "Claremont",
+        "Newton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688773,
         102191575,
         85633793,
+        102087683,
         85980445,
-        102087683
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12769773"
     },
     "wof:country":"US",
-    "wof:geomhash":"8de04223e039cecca8997f9c5228237c",
+    "wof:geomhash":"21f096e057f5d79081639746487ca3a5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554711567,
-    "wof:lastmodified":1480789007,
+    "wof:lastmodified":1611185296,
     "wof:name":"28613",
     "wof:parent_id":85980445,
     "wof:placetype":"postalcode",

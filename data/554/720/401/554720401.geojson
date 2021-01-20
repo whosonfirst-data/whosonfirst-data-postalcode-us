@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001728,
-    "geom:area_square_m":16377842.201561,
+    "geom:area_square_m":16377842.201572,
     "geom:bbox":"-82.950033,39.917759,-82.913002,39.983284",
     "geom:latitude":39.953891,
     "geom:longitude":-82.930095,
@@ -13,21 +13,26 @@
     "lbl:latitude":39.953588,
     "lbl:longitude":-82.929524,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Columbus",
+    "mz:postal_locality_alt":[
+        "Bexley"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404523491,
         85633793,
+        102080969,
+        404523491,
         101712399,
-        102080969
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776202"
     },
     "wof:country":"US",
-    "wof:geomhash":"16cdbfcdaabe7d4091f53e5c32ce1800",
+    "wof:geomhash":"305596bed2e88be17aa8d0d0c5b0ed68",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554720401,
-    "wof:lastmodified":1480903873,
+    "wof:lastmodified":1611185457,
     "wof:name":"43209",
     "wof:parent_id":101712399,
     "wof:placetype":"postalcode",

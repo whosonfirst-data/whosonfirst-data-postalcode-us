@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00195,
-    "geom:area_square_m":19019745.643153,
+    "geom:area_square_m":19019745.643134,
     "geom:bbox":"-75.549472,37.877775,-75.474407,37.931565",
     "geom:latitude":37.907292,
     "geom:longitude":-75.50887,
@@ -14,20 +14,22 @@
     "lbl:latitude":37.911355,
     "lbl:longitude":-75.504972,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Atlantic",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688747,
         102191575,
         85633793,
+        102081415,
         101729549,
-        102081415
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12767315"
     },
     "wof:country":"US",
-    "wof:geomhash":"e30233d4f1e1933f28594e0842d82194",
+    "wof:geomhash":"9a19968dc9e34d64d696ce8c81d6bf0a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554780747,
-    "wof:lastmodified":1480830815,
+    "wof:lastmodified":1611185173,
     "wof:name":"23303",
     "wof:parent_id":101729549,
     "wof:placetype":"postalcode",

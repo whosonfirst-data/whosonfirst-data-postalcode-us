@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002664,
-    "geom:area_square_m":28701785.191484,
+    "geom:area_square_m":28701785.191456,
     "geom:bbox":"-95.04917,29.376758,-94.951578,29.424694",
     "geom:latitude":29.399414,
     "geom:longitude":-94.997513,
@@ -13,20 +13,26 @@
     "lbl:latitude":29.399536,
     "lbl:longitude":-94.99694,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Texas City",
+    "mz:postal_locality_alt":[
+        "La Marque",
+        "Hitchcock"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102085003,
         101724827,
-        102085003
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12791718"
     },
     "wof:country":"US",
-    "wof:geomhash":"3353151bcdbaf0223be2701b5a2b1d1e",
+    "wof:geomhash":"59d4c25097081e980f045751697fda96",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554746339,
-    "wof:lastmodified":1480814833,
+    "wof:lastmodified":1611183995,
     "wof:name":"77591",
     "wof:parent_id":101724827,
     "wof:placetype":"postalcode",

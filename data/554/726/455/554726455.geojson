@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008943,
-    "geom:area_square_m":81571583.347251,
+    "geom:area_square_m":81571583.347222,
     "geom:bbox":"-96.392648,42.407064,-96.252662,42.522632",
     "geom:latitude":42.466189,
     "geom:longitude":-96.320803,
@@ -13,20 +13,22 @@
     "lbl:latitude":42.462983,
     "lbl:longitude":-96.321502,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Sioux City",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688713,
         102191575,
         85633793,
+        102086309,
         85943555,
-        102086309
+        85688713
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12780245"
     },
     "wof:country":"US",
-    "wof:geomhash":"1d8f41ad0081bf2f2c9f8c1acc7a6223",
+    "wof:geomhash":"e5759f42ddcdda8e127a2a0f57595021",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +40,7 @@
         }
     ],
     "wof:id":554726455,
-    "wof:lastmodified":1480912202,
+    "wof:lastmodified":1611184875,
     "wof:name":"51106",
     "wof:parent_id":85943555,
     "wof:placetype":"postalcode",

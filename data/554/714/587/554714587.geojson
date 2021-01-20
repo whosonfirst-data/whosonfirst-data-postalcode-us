@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003319,
-    "geom:area_square_m":35898604.109123,
+    "geom:area_square_m":35898604.109151,
     "geom:bbox":"-81.256199,28.954106,-81.18089,29.02389",
     "geom:latitude":28.986255,
     "geom:longitude":-81.219257,
@@ -14,20 +14,25 @@
     "lbl:latitude":28.985232,
     "lbl:longitude":-81.219582,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lake Helen",
+    "mz:postal_locality_alt":[
+        "Apopka"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688651,
         102191575,
         85633793,
+        102085865,
         85932663,
-        102085865
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12771894"
     },
     "wof:country":"US",
-    "wof:geomhash":"c203769703578b37dbc0a1181b6ba357",
+    "wof:geomhash":"3dd8d06d94cf83155f07f0c930433892",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554714587,
-    "wof:lastmodified":1480809124,
+    "wof:lastmodified":1611183363,
     "wof:name":"32744",
     "wof:parent_id":85932663,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010565,
-    "geom:area_square_m":95111075.998404,
+    "geom:area_square_m":95111075.998362,
     "geom:bbox":"-82.884518,43.215406,-82.742482,43.345436",
     "geom:latitude":43.276977,
     "geom:longitude":-82.816717,
@@ -14,20 +14,22 @@
     "lbl:latitude":43.280507,
     "lbl:longitude":-82.808877,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Peck",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404506479,
         85633793,
-        102083137
+        102083137,
+        404506479,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778854"
     },
     "wof:country":"US",
-    "wof:geomhash":"27c14a1aee8744c948823e41a8679f81",
+    "wof:geomhash":"1e51b5e9c6db62d2d7bf47c218360e65",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554724327,
-    "wof:lastmodified":1480837081,
+    "wof:lastmodified":1611183771,
     "wof:name":"48466",
     "wof:parent_id":404506479,
     "wof:placetype":"postalcode",

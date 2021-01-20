@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003469,
-    "geom:area_square_m":33206637.655989,
+    "geom:area_square_m":33206637.655999,
     "geom:bbox":"-74.654914,39.209054,-74.546754,39.310097",
     "geom:latitude":39.266875,
     "geom:longitude":-74.600946,
@@ -14,21 +14,27 @@
     "lbl:latitude":39.263668,
     "lbl:longitude":-74.607856,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ocean City",
+    "mz:postal_locality_alt":[
+        "Ocean View",
+        "Stone Harbor"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477953,
         85633793,
+        102086777,
+        404477953,
         85975589,
-        102086777
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761095"
     },
     "wof:country":"US",
-    "wof:geomhash":"b7cc1c58d89d332d5b365358800a250c",
+    "wof:geomhash":"28346c3c194ecac6bdd55d4ba2da5ca4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554779207,
-    "wof:lastmodified":1480913297,
+    "wof:lastmodified":1611183985,
     "wof:name":"08226",
     "wof:parent_id":85975589,
     "wof:placetype":"postalcode",

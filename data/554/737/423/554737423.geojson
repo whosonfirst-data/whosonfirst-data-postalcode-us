@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026378,
-    "geom:area_square_m":258047193.666106,
+    "geom:area_square_m":258047193.666186,
     "geom:bbox":"-92.258709,37.6044,-92.025122,37.798125",
     "geom:latitude":37.706963,
     "geom:longitude":-92.154499,
@@ -14,21 +14,26 @@
     "lbl:latitude":37.706433,
     "lbl:longitude":-92.154489,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fort Leonard Wood",
+    "mz:postal_locality_alt":[
+        "Ft Leonard Wood"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404517755,
         85633793,
+        102086161,
+        404517755,
         85972547,
-        102086161
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786493"
     },
     "wof:country":"US",
-    "wof:geomhash":"bbd14164d2fe055ac721b5fcdfbb0d43",
+    "wof:geomhash":"9b76604b6689a9246500dcca73371cd7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554737423,
-    "wof:lastmodified":1480912514,
+    "wof:lastmodified":1611182834,
     "wof:name":"65473",
     "wof:parent_id":85972547,
     "wof:placetype":"postalcode",

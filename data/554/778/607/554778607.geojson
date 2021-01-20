@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000652,
-    "geom:area_square_m":6011863.850073,
+    "geom:area_square_m":6011863.850067,
     "geom:bbox":"-71.441231,41.774681,-71.409767,41.8172",
     "geom:latitude":41.798304,
     "geom:longitude":-71.425518,
@@ -13,21 +13,27 @@
     "lbl:latitude":41.798593,
     "lbl:longitude":-71.42463,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Providence",
+    "mz:postal_locality_alt":[
+        "Cranston",
+        "North Providence"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688509,
         102191575,
-        404488375,
         85633793,
+        102081597,
+        404488375,
         101720567,
-        102081597
+        85688509
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759060"
     },
     "wof:country":"US",
-    "wof:geomhash":"2813db385f4d4f05aae32d96fbb34666",
+    "wof:geomhash":"568c6fe9db3c14d765ed339193fc8086",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +46,7 @@
         }
     ],
     "wof:id":554778607,
-    "wof:lastmodified":1480817074,
+    "wof:lastmodified":1611183443,
     "wof:name":"02907",
     "wof:parent_id":101720567,
     "wof:placetype":"postalcode",

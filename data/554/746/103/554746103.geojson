@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00874,
-    "geom:area_square_m":93492107.194775,
+    "geom:area_square_m":93492107.194718,
     "geom:bbox":"-95.346327,30.043177,-95.16216,30.170665",
     "geom:latitude":30.110848,
     "geom:longitude":-95.267385,
@@ -14,19 +14,26 @@
     "lbl:latitude":30.106738,
     "lbl:longitude":-95.297151,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Porter",
+    "mz:postal_locality_alt":[
+        "Spring",
+        "Humble",
+        "Conroe"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688753,
-        102081435
+        102081435,
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12791544"
     },
     "wof:country":"US",
-    "wof:geomhash":"b9989d963a1754efb573478f09c8128c",
+    "wof:geomhash":"c660c1c008973b0dbb49b7b15a451436",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +44,7 @@
         }
     ],
     "wof:id":554746103,
-    "wof:lastmodified":1480833215,
+    "wof:lastmodified":1611183992,
     "wof:name":"77365",
     "wof:parent_id":102081435,
     "wof:placetype":"postalcode",

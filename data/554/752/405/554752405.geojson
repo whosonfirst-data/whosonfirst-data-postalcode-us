@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006997,
-    "geom:area_square_m":71256200.765949,
+    "geom:area_square_m":71256200.765865,
     "geom:bbox":"-117.400842,34.507055,-117.259697,34.616065",
     "geom:latitude":34.556314,
     "geom:longitude":-117.352812,
@@ -13,20 +13,25 @@
     "lbl:latitude":34.556111,
     "lbl:longitude":-117.353632,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Victorville",
+    "mz:postal_locality_alt":[
+        "Oak Hills"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102085395,
         85923967,
-        102085395
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796465"
     },
     "wof:country":"US",
-    "wof:geomhash":"3550e0d7ff0319e24453a14501426a0b",
+    "wof:geomhash":"bd7cefc311324b19aef526cd8b5bb69c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554752405,
-    "wof:lastmodified":1480814339,
+    "wof:lastmodified":1611182548,
     "wof:name":"92394",
     "wof:parent_id":85923967,
     "wof:placetype":"postalcode",

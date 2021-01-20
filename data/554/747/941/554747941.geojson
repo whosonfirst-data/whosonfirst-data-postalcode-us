@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001764,
-    "geom:area_square_m":16799007.607462,
+    "geom:area_square_m":16799007.60747,
     "geom:bbox":"-105.034955,39.621048,-104.987581,39.678684",
     "geom:latitude":39.646325,
     "geom:longitude":-105.009221,
@@ -13,20 +13,25 @@
     "lbl:latitude":39.645936,
     "lbl:longitude":-105.011368,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Englewood",
+    "mz:postal_locality_alt":[
+        "Sheridan"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688603,
         102191575,
         85633793,
+        102086877,
         85929811,
-        102086877
+        85688603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12792909"
     },
     "wof:country":"US",
-    "wof:geomhash":"b5b7285b6d1949e027dd64000db30f84",
+    "wof:geomhash":"ad355bb6dcf473749622a88796ea5391",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554747941,
-    "wof:lastmodified":1480913400,
+    "wof:lastmodified":1611183464,
     "wof:name":"80110",
     "wof:parent_id":85929811,
     "wof:placetype":"postalcode",

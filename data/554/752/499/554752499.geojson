@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007548,
-    "geom:area_square_m":77678574.646048,
+    "geom:area_square_m":77678574.64598,
     "geom:bbox":"-117.240386,33.608973,-117.110675,33.709856",
     "geom:latitude":33.661598,
     "geom:longitude":-117.175505,
@@ -14,20 +14,27 @@
     "lbl:latitude":33.652675,
     "lbl:longitude":-117.173568,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Menifee",
+    "mz:postal_locality_alt":[
+        "Sun City",
+        "Perris Valley",
+        "Murrieta"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086221,
         85923327,
-        102086221
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796536"
     },
     "wof:country":"US",
-    "wof:geomhash":"a121abcf71eb5433c2a38941241490d2",
+    "wof:geomhash":"8ac971f057705f84fa86fdd8c01a88d8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554752499,
-    "wof:lastmodified":1480913415,
+    "wof:lastmodified":1611182525,
     "wof:name":"92584",
     "wof:parent_id":85923327,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000876,
-    "geom:area_square_m":8554117.878618,
+    "geom:area_square_m":8554117.878623,
     "geom:bbox":"-122.267229,37.849555,-122.213559,37.885255",
     "geom:latitude":37.865178,
     "geom:longitude":-122.238216,
@@ -13,20 +13,25 @@
     "lbl:latitude":37.865177,
     "lbl:longitude":-122.238217,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Berkeley",
+    "mz:postal_locality_alt":[
+        "Oakland"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086959,
         85921881,
-        102086959
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12797423"
     },
     "wof:country":"US",
-    "wof:geomhash":"b7d15485b06b6bf1198a61f718c009a8",
+    "wof:geomhash":"dc94d00a1e13e06791f7ffa5c5bfa695",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554753247,
-    "wof:lastmodified":1480915083,
+    "wof:lastmodified":1611182960,
     "wof:name":"94705",
     "wof:parent_id":85921881,
     "wof:placetype":"postalcode",

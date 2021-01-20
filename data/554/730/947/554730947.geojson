@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020413,
-    "geom:area_square_m":177541841.162168,
+    "geom:area_square_m":177541841.162139,
     "geom:bbox":"-96.637153,45.14995,-96.452007,45.407606",
     "geom:latitude":45.300192,
     "geom:longitude":-96.526217,
@@ -14,20 +14,28 @@
     "lbl:latitude":45.303239,
     "lbl:longitude":-96.529779,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Big Stone City",
+    "mz:postal_locality_alt":[
+        "Corona",
+        "Brandt",
+        "Claire City",
+        "New Effington"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688693,
         102191575,
-        404490531,
         85633793,
-        102086849
+        102086849,
+        404490531,
+        85688693
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782791"
     },
     "wof:country":"US",
-    "wof:geomhash":"7cec795c7dcb62a0022ae60b69fd1614",
+    "wof:geomhash":"92343496ed9960134cdf4b0185c3e69b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +47,7 @@
         }
     ],
     "wof:id":554730947,
-    "wof:lastmodified":1480917001,
+    "wof:lastmodified":1611182738,
     "wof:name":"57216",
     "wof:parent_id":404490531,
     "wof:placetype":"postalcode",

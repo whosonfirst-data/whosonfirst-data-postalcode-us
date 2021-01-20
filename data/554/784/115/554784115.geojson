@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002487,
-    "geom:area_square_m":25519810.232455,
+    "geom:area_square_m":25519810.232473,
     "geom:bbox":"-118.111611,33.880314,-118.042207,33.933481",
     "geom:latitude":33.906807,
     "geom:longitude":-118.082616,
@@ -13,20 +13,26 @@
     "lbl:latitude":33.906956,
     "lbl:longitude":-118.08264,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Norwalk",
+    "mz:postal_locality_alt":[
+        "Santa Fe Springs",
+        "Cerritos"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086957,
         85923497,
-        102086957
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795817"
     },
     "wof:country":"US",
-    "wof:geomhash":"a0f1e76673af15e5aad852e4df0dad37",
+    "wof:geomhash":"3605078255c609d402a19f54a65a855f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554784115,
-    "wof:lastmodified":1480912625,
+    "wof:lastmodified":1611183958,
     "wof:name":"90650",
     "wof:parent_id":85923497,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007476,
-    "geom:area_square_m":76811749.750876,
+    "geom:area_square_m":76811749.750865,
     "geom:bbox":"-117.173826,33.767892,-117.050923,33.860251",
     "geom:latitude":33.81233,
     "geom:longitude":-117.104794,
@@ -14,20 +14,26 @@
     "lbl:latitude":33.810743,
     "lbl:longitude":-117.105415,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Nuevo",
+    "mz:postal_locality_alt":[
+        "Lakeview",
+        "Homeland"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086221,
         85928073,
-        102086221
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796529"
     },
     "wof:country":"US",
-    "wof:geomhash":"40ea91c6bb0656dc232c3d7091fd10ab",
+    "wof:geomhash":"ff9aab63fc2f6ec0a521c06501a472d2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554752487,
-    "wof:lastmodified":1480913417,
+    "wof:lastmodified":1611182545,
     "wof:name":"92567",
     "wof:parent_id":85928073,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002021,
-    "geom:area_square_m":18452986.399965,
+    "geom:area_square_m":18452986.399967,
     "geom:bbox":"-71.033203,42.388116,-70.958393,42.450096",
     "geom:latitude":42.417976,
     "geom:longitude":-71.00173,
@@ -14,21 +14,27 @@
     "lbl:latitude":42.41829,
     "lbl:longitude":-71.001251,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Revere",
+    "mz:postal_locality_alt":[
+        "Boston",
+        "Roslindale"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476577,
         85633793,
+        102084423,
+        404476577,
         85950357,
-        102084423
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758748"
     },
     "wof:country":"US",
-    "wof:geomhash":"1b79ad47737575842e03a6a12db3854b",
+    "wof:geomhash":"026967c91944851956700d080d09a888",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554778365,
-    "wof:lastmodified":1480801148,
+    "wof:lastmodified":1611183425,
     "wof:name":"02151",
     "wof:parent_id":85950357,
     "wof:placetype":"postalcode",

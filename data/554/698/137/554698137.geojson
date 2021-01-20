@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009378,
-    "geom:area_square_m":84477159.683557,
+    "geom:area_square_m":84477159.683631,
     "geom:bbox":"-70.828298,43.179752,-70.652911,43.302448",
     "geom:latitude":43.238793,
     "geom:longitude":-70.747825,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.230612,
     "lbl:longitude":-70.752424,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"South Berwick",
+    "mz:postal_locality_alt":[
+        "York"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404475817,
         85633793,
-        102087449
+        102087449,
+        404475817,
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759360"
     },
     "wof:country":"US",
-    "wof:geomhash":"073ad00d43747b518289f04437161faf",
+    "wof:geomhash":"e9d8287b0689fbe50542e8a871a6e2ce",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554698137,
-    "wof:lastmodified":1480806747,
+    "wof:lastmodified":1611184694,
     "wof:name":"03908",
     "wof:parent_id":404475817,
     "wof:placetype":"postalcode",

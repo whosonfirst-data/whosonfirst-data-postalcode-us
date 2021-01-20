@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.050957,
-    "geom:area_square_m":531446413.86162,
+    "geom:area_square_m":531446413.861409,
     "geom:bbox":"-92.805807,32.346139,-92.477624,32.665668",
     "geom:latitude":32.494581,
     "geom:longitude":-92.639353,
@@ -13,20 +13,30 @@
     "lbl:latitude":32.489856,
     "lbl:longitude":-92.643874,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ruston",
+    "mz:postal_locality_alt":[
+        "West Monroe",
+        "Rayville",
+        "Choudrant",
+        "Grambling",
+        "Lillie",
+        "Tallulah"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688735,
         102191575,
         85633793,
+        102083803,
         85947901,
-        102083803
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12788685"
     },
     "wof:country":"US",
-    "wof:geomhash":"c80f0fdc88d630c75a5896861566b64e",
+    "wof:geomhash":"70aed7b0daae60c30297112c98db6e63",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +48,7 @@
         }
     ],
     "wof:id":554741311,
-    "wof:lastmodified":1480916372,
+    "wof:lastmodified":1611184084,
     "wof:name":"71270",
     "wof:parent_id":85947901,
     "wof:placetype":"postalcode",

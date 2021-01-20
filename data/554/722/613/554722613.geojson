@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003826,
-    "geom:area_square_m":36344219.186137,
+    "geom:area_square_m":36344219.186097,
     "geom:bbox":"-86.362729,39.761558,-86.290271,39.859269",
     "geom:latitude":39.812566,
     "geom:longitude":-86.325597,
@@ -13,21 +13,26 @@
     "lbl:latitude":39.813309,
     "lbl:longitude":-86.326363,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Indianapolis",
+    "mz:postal_locality_alt":[
+        "Clermont"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404501901,
         85633793,
+        102087201,
+        404501901,
         85942577,
-        102087201
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777673"
     },
     "wof:country":"US",
-    "wof:geomhash":"027bc842044a94ff64493a17e2e30a04",
+    "wof:geomhash":"ae55de2f81af779cfa5c3b45df41779e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554722613,
-    "wof:lastmodified":1480911099,
+    "wof:lastmodified":1611183235,
     "wof:name":"46234",
     "wof:parent_id":85942577,
     "wof:placetype":"postalcode",

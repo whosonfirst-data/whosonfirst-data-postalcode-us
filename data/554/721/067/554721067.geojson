@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005663,
-    "geom:area_square_m":52702887.782295,
+    "geom:area_square_m":52702887.782297,
     "geom:bbox":"-81.507126,41.135556,-81.383511,41.211906",
     "geom:latitude":41.176671,
     "geom:longitude":-81.438834,
@@ -14,21 +14,28 @@
     "lbl:latitude":41.176261,
     "lbl:longitude":-81.436523,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Stow",
+    "mz:postal_locality_alt":[
+        "Cuyahoga Falls",
+        "Silver Lake",
+        "Hudson"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404526063,
         85633793,
+        102084807,
+        404526063,
         101713397,
-        102084807
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776704"
     },
     "wof:country":"US",
-    "wof:geomhash":"57e33656c17ba12d34dc511ce85e83a0",
+    "wof:geomhash":"bd678b4221c20da9ba9c3d61af12c364",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +48,7 @@
         }
     ],
     "wof:id":554721067,
-    "wof:lastmodified":1480800398,
+    "wof:lastmodified":1611184976,
     "wof:name":"44224",
     "wof:parent_id":101713397,
     "wof:placetype":"postalcode",

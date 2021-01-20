@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021998,
-    "geom:area_square_m":230934850.118214,
+    "geom:area_square_m":230934850.118193,
     "geom:bbox":"-84.372492,31.776286,-84.104512,31.990173",
     "geom:latitude":31.895859,
     "geom:longitude":-84.244144,
@@ -14,20 +14,22 @@
     "lbl:latitude":31.899179,
     "lbl:longitude":-84.243318,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Smithville",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688535,
         102191575,
         85633793,
+        102082935,
         85937019,
-        102082935
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12771395"
     },
     "wof:country":"US",
-    "wof:geomhash":"1d9e794853b302a00a079feccae6b961",
+    "wof:geomhash":"2d4f8b28961bd988c4dd0948016adaad",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554714029,
-    "wof:lastmodified":1480802849,
+    "wof:lastmodified":1611183371,
     "wof:name":"31787",
     "wof:parent_id":85937019,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.072102,
-    "geom:area_square_m":703449689.830572,
+    "geom:area_square_m":703449689.830516,
     "geom:bbox":"-91.526686,37.672676,-90.97994,38.045851",
     "geom:latitude":37.906137,
     "geom:longitude":-91.248611,
@@ -14,20 +14,25 @@
     "lbl:latitude":37.892886,
     "lbl:longitude":-91.241936,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Steelville",
+    "mz:postal_locality_alt":[
+        "St James"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404515513,
         85633793,
-        102085329
+        102085329,
+        404515513,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786518"
     },
     "wof:country":"US",
-    "wof:geomhash":"3917741441be77c475809fb3eaaa6ab7",
+    "wof:geomhash":"11ef264adbe211d440698f6fb145cac5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554737471,
-    "wof:lastmodified":1480910995,
+    "wof:lastmodified":1611182829,
     "wof:name":"65565",
     "wof:parent_id":404515513,
     "wof:placetype":"postalcode",

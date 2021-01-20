@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011786,
-    "geom:area_square_m":110708240.427457,
+    "geom:area_square_m":110708240.427373,
     "geom:bbox":"-78.197083,40.486834,-78.002359,40.650265",
     "geom:latitude":40.567389,
     "geom:longitude":-78.107675,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.579889,
     "lbl:longitude":-78.115672,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Alexandria",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485935,
         85633793,
-        102080901
+        102080901,
+        404485935,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764357"
     },
     "wof:country":"US",
-    "wof:geomhash":"7bc9c669b6425b78e90e78e02a9bde7d",
+    "wof:geomhash":"939e6a58ae58be37ec9dd11da4caa42a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554704547,
-    "wof:lastmodified":1480904865,
+    "wof:lastmodified":1611184521,
     "wof:name":"16611",
     "wof:parent_id":404485935,
     "wof:placetype":"postalcode",

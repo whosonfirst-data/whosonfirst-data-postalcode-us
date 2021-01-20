@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00218,
-    "geom:area_square_m":20668904.969751,
+    "geom:area_square_m":20668904.96974,
     "geom:bbox":"-75.374343,39.905698,-75.307724,39.95776",
     "geom:latitude":39.933295,
     "geom:longitude":-75.341133,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.933156,
     "lbl:longitude":-75.340813,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Springfield",
+    "mz:postal_locality_alt":[
+        "Aston"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404486583,
         85633793,
-        102080913
+        102080913,
+        404486583,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765460"
     },
     "wof:country":"US",
-    "wof:geomhash":"28dc84c2d5c4ba1afe74bd2c94c05645",
+    "wof:geomhash":"d5db3e85b8332f2bc609985ed3dac1fa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554706221,
-    "wof:lastmodified":1480906381,
+    "wof:lastmodified":1611182689,
     "wof:name":"19064",
     "wof:parent_id":404486583,
     "wof:placetype":"postalcode",

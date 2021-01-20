@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007824,
-    "geom:area_square_m":71912742.405853,
+    "geom:area_square_m":71912742.405837,
     "geom:bbox":"-83.388129,41.930911,-83.21638,42.030028",
     "geom:latitude":41.98633,
     "geom:longitude":-83.29402,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.982805,
     "lbl:longitude":-83.294714,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Newport",
+    "mz:postal_locality_alt":[
+        "Monroe"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404508953,
         85633793,
-        102083117
+        102083117,
+        404508953,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778647"
     },
     "wof:country":"US",
-    "wof:geomhash":"2ec43fa00e95c39debf351277c1d9644",
+    "wof:geomhash":"d2124a8767feb0f5e451bda89f052043",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554782533,
-    "wof:lastmodified":1480839988,
+    "wof:lastmodified":1611183600,
     "wof:name":"48166",
     "wof:parent_id":404508953,
     "wof:placetype":"postalcode",

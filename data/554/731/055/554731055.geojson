@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.122676,
-    "geom:area_square_m":1066925004.505737,
+    "geom:area_square_m":1066925004.505844,
     "geom:bbox":"-97.862364,45.108266,-97.365862,45.500344",
     "geom:latitude":45.303343,
     "geom:longitude":-97.562942,
@@ -14,20 +14,27 @@
     "lbl:latitude":45.304918,
     "lbl:longitude":-97.574738,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Webster",
+    "mz:postal_locality_alt":[
+        "New Effington",
+        "Claire City",
+        "Waubay"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688693,
         102191575,
-        404489789,
         85633793,
-        102086871
+        102086871,
+        404489789,
+        85688693
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782841"
     },
     "wof:country":"US",
-    "wof:geomhash":"51e14a69bd7b9ccd12ea2bf882f4ff4a",
+    "wof:geomhash":"06382bbb232ac57be9af3c246df2142f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554731055,
-    "wof:lastmodified":1480913566,
+    "wof:lastmodified":1611183067,
     "wof:name":"57274",
     "wof:parent_id":404489789,
     "wof:placetype":"postalcode",

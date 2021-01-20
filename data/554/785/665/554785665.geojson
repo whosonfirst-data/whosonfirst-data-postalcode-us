@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012288,
-    "geom:area_square_m":141414401.947601,
+    "geom:area_square_m":141414401.947624,
     "geom:bbox":"-157.896254,21.364462,-157.7571,21.53702",
     "geom:latitude":21.451348,
     "geom:longitude":-157.823239,
@@ -14,20 +14,22 @@
     "lbl:latitude":21.451733,
     "lbl:longitude":-157.824227,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Kaneohe",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688671,
         102191575,
         85633793,
+        102085417,
         85937593,
-        102085417
+        85688671
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12798289"
     },
     "wof:country":"US",
-    "wof:geomhash":"679247d7a98138a1c109354718e96eec",
+    "wof:geomhash":"8bb38e58b26eaee63db189760cf681c6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554785665,
-    "wof:lastmodified":1480805663,
+    "wof:lastmodified":1611183512,
     "wof:name":"96744",
     "wof:parent_id":85937593,
     "wof:placetype":"postalcode",

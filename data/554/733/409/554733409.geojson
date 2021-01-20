@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001347,
-    "geom:area_square_m":12478204.925491,
+    "geom:area_square_m":12478204.925497,
     "geom:bbox":"-87.674181,41.456334,-87.577339,41.487051",
     "geom:latitude":41.472717,
     "geom:longitude":-87.627765,
@@ -14,21 +14,26 @@
     "lbl:latitude":41.47254,
     "lbl:longitude":-87.627508,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Steger",
+    "mz:postal_locality_alt":[
+        "Crete"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404497609,
         85633793,
+        102084317,
+        404497609,
         85940519,
-        102084317
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784183"
     },
     "wof:country":"US",
-    "wof:geomhash":"fecd625ee20895f14d313fbc17f74b6f",
+    "wof:geomhash":"7ac6551e3a855c4b7a055a612ba9f15e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554733409,
-    "wof:lastmodified":1480903216,
+    "wof:lastmodified":1611184222,
     "wof:name":"60475",
     "wof:parent_id":85940519,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.056117,
-    "geom:area_square_m":505281887.869621,
+    "geom:area_square_m":505281887.869376,
     "geom:bbox":"-74.472144,43.136918,-73.977482,43.359527",
     "geom:latitude":43.266183,
     "geom:longitude":-74.228768,
@@ -14,20 +14,22 @@
     "lbl:latitude":43.269201,
     "lbl:longitude":-74.228185,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Northville",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404521187,
         85633793,
-        102083035
+        102083035,
+        404521187,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762125"
     },
     "wof:country":"US",
-    "wof:geomhash":"19b17f5f40c7f429a0effeeabe6463b8",
+    "wof:geomhash":"2ec3321ca005ff9a9c8e05880b20ae2e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554701211,
-    "wof:lastmodified":1480838352,
+    "wof:lastmodified":1611182616,
     "wof:name":"12134",
     "wof:parent_id":404521187,
     "wof:placetype":"postalcode",

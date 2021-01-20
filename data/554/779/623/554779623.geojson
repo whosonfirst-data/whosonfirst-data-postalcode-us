@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000777,
-    "geom:area_square_m":7273523.584022,
+    "geom:area_square_m":7273523.584014,
     "geom:bbox":"-73.832149,40.773788,-73.79035,40.801011",
     "geom:latitude":40.786393,
     "geom:longitude":-73.810933,
@@ -14,21 +14,28 @@
     "lbl:latitude":40.785129,
     "lbl:longitude":-73.810036,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Whitestone",
+    "mz:postal_locality_alt":[
+        "Flushing",
+        "Queens",
+        "New York"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404521211,
         85633793,
+        102082361,
+        404521211,
         85977539,
-        102082361
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761774"
     },
     "wof:country":"US",
-    "wof:geomhash":"2f66c7e73128bcf72f82a42f1a7b2faf",
+    "wof:geomhash":"454b801c39e84260a516a3626826159a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +48,7 @@
         }
     ],
     "wof:id":554779623,
-    "wof:lastmodified":1480790267,
+    "wof:lastmodified":1611183982,
     "wof:name":"11357",
     "wof:parent_id":85977539,
     "wof:placetype":"postalcode",

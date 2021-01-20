@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007119,
-    "geom:area_square_m":67127878.84696,
+    "geom:area_square_m":67127878.847021,
     "geom:bbox":"-76.080861,40.250523,-75.989257,40.383795",
     "geom:latitude":40.311324,
     "geom:longitude":-76.034544,
@@ -13,20 +13,25 @@
     "lbl:latitude":40.310798,
     "lbl:longitude":-76.034772,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Reading",
+    "mz:postal_locality_alt":[
+        "Sinking Spring"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404484563,
         85633793,
-        102080991
+        102080991,
+        404484563,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765735"
     },
     "wof:country":"US",
-    "wof:geomhash":"6d174ee59be660350d8d5ce82161da13",
+    "wof:geomhash":"102d828839364f91273671b86907198c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554706573,
-    "wof:lastmodified":1480903400,
+    "wof:lastmodified":1611182700,
     "wof:name":"19608",
     "wof:parent_id":404484563,
     "wof:placetype":"postalcode",

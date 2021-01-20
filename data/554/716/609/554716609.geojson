@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013799,
-    "geom:area_square_m":138367482.216329,
+    "geom:area_square_m":138367482.216089,
     "geom:bbox":"-87.037193,35.758286,-86.747475,35.882625",
     "geom:latitude":35.81157,
     "geom:longitude":-86.927742,
@@ -14,20 +14,26 @@
     "lbl:latitude":35.811405,
     "lbl:longitude":-86.924482,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Thompsons Station",
+    "mz:postal_locality_alt":[
+        "Thompsons Sta",
+        "Spring Hill"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688701,
         102191575,
         85633793,
+        102086337,
         101723089,
-        102086337
+        85688701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12773864"
     },
     "wof:country":"US",
-    "wof:geomhash":"0417f6bf4ae658bd4fcb512a04983c4d",
+    "wof:geomhash":"9c6a6b01185af2caddf043cf057aa584",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554716609,
-    "wof:lastmodified":1480915649,
+    "wof:lastmodified":1611185397,
     "wof:name":"37179",
     "wof:parent_id":101723089,
     "wof:placetype":"postalcode",

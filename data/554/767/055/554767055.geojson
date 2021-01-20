@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000159,
-    "geom:area_square_m":1504996.139229,
+    "geom:area_square_m":1504996.139226,
     "geom:bbox":"-79.102081,40.128111,-79.083381,40.142436",
     "geom:latitude":40.135638,
     "geom:longitude":-79.093436,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.135638,
     "lbl:longitude":-79.093436,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Gray",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404488129,
         85633793,
-        102081361
+        102081361,
+        404488129,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763867"
     },
     "wof:country":"US",
-    "wof:geomhash":"1a290e25e7a96c522626614b12cbc2df",
+    "wof:geomhash":"db0865de70c0144b16e04ca326c00722",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554767055,
-    "wof:lastmodified":1480830630,
+    "wof:lastmodified":1611184255,
     "wof:name":"15544",
     "wof:parent_id":404488129,
     "wof:placetype":"postalcode",

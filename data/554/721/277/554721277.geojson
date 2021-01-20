@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000212,
-    "geom:area_square_m":1980855.50743,
+    "geom:area_square_m":1980855.507433,
     "geom:bbox":"-80.777987,40.892837,-80.754862,40.90956",
     "geom:latitude":40.899913,
     "geom:longitude":-80.768076,
@@ -14,21 +14,27 @@
     "lbl:latitude":40.896331,
     "lbl:longitude":-80.768024,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"New Middletown",
+    "mz:postal_locality_alt":[
+        "Washingtonville",
+        "Leetonia"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404525087,
         85633793,
+        102083745,
+        404525087,
         85982923,
-        102083745
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776830"
     },
     "wof:country":"US",
-    "wof:geomhash":"e62d3287039dbc95fb08b66b917db054",
+    "wof:geomhash":"bbc655406634ca099c2f44a080734af0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554721277,
-    "wof:lastmodified":1480841635,
+    "wof:lastmodified":1611184968,
     "wof:name":"44490",
     "wof:parent_id":85982923,
     "wof:placetype":"postalcode",

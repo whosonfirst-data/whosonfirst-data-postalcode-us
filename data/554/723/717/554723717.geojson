@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039419,
-    "geom:area_square_m":378308512.058321,
+    "geom:area_square_m":378308512.05829,
     "geom:bbox":"-87.60117,38.996516,-87.240857,39.172064",
     "geom:latitude":39.090894,
     "geom:longitude":-87.410288,
@@ -14,21 +14,27 @@
     "lbl:latitude":39.091315,
     "lbl:longitude":-87.410855,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Sullivan",
+    "mz:postal_locality_alt":[
+        "East Brunswick",
+        "Bloomingdale"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404501529,
         85633793,
+        102086463,
+        404501529,
         85941453,
-        102086463
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778437"
     },
     "wof:country":"US",
-    "wof:geomhash":"77d00f7d7c3990fe987a3c62754bfe40",
+    "wof:geomhash":"591f7d635d1a9172aa594acfa8f13e88",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554723717,
-    "wof:lastmodified":1480913805,
+    "wof:lastmodified":1611183811,
     "wof:name":"47882",
     "wof:parent_id":85941453,
     "wof:placetype":"postalcode",

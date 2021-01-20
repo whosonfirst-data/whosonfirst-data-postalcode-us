@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043559,
-    "geom:area_square_m":388913608.13526,
+    "geom:area_square_m":388913608.135401,
     "geom:bbox":"-90.249926,43.643145,-89.849755,43.905935",
     "geom:latitude":43.775303,
     "geom:longitude":-90.048162,
@@ -14,20 +14,26 @@
     "lbl:latitude":43.776559,
     "lbl:longitude":-90.040249,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mauston",
+    "mz:postal_locality_alt":[
+        "Endeavor",
+        "Withee"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404494255,
         85633793,
-        102081297
+        102081297,
+        404494255,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781135"
     },
     "wof:country":"US",
-    "wof:geomhash":"b8828df8cc68212cf7bb9aa53352f94e",
+    "wof:geomhash":"23ff6b6e2f4bdd6314d39d85ddb0caa6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554727999,
-    "wof:lastmodified":1480833082,
+    "wof:lastmodified":1611185496,
     "wof:name":"53948",
     "wof:parent_id":404494255,
     "wof:placetype":"postalcode",

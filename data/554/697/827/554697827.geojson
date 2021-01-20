@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017977,
-    "geom:area_square_m":161792975.444836,
+    "geom:area_square_m":161792975.444883,
     "geom:bbox":"-71.924195,43.219308,-71.725768,43.395675",
     "geom:latitude":43.293321,
     "geom:longitude":-71.825989,
@@ -14,20 +14,26 @@
     "lbl:latitude":43.30893,
     "lbl:longitude":-71.835506,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Warner",
+    "mz:postal_locality_alt":[
+        "North Sutton",
+        "Campton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688689,
         102191575,
-        404476687,
         85633793,
-        102086515
+        102086515,
+        404476687,
+        85688689
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759173"
     },
     "wof:country":"US",
-    "wof:geomhash":"bdb5573ff0ca60652b522f58443e567d",
+    "wof:geomhash":"b3fd0728f2c842a6fb80c842a3dbbe48",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554697827,
-    "wof:lastmodified":1480913719,
+    "wof:lastmodified":1611184639,
     "wof:name":"03278",
     "wof:parent_id":404476687,
     "wof:placetype":"postalcode",

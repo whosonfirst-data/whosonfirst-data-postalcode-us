@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004236,
-    "geom:area_square_m":39773444.85327,
+    "geom:area_square_m":39773444.853281,
     "geom:bbox":"-74.743089,40.546714,-74.586259,40.635429",
     "geom:latitude":40.587978,
     "geom:longitude":-74.687432,
@@ -14,20 +14,26 @@
     "lbl:latitude":40.589554,
     "lbl:longitude":-74.685411,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Somerville",
+    "mz:postal_locality_alt":[
+        "Branchburg",
+        "Whitehouse"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477915,
         85633793,
-        102085045
+        102085045,
+        404477915,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761308"
     },
     "wof:country":"US",
-    "wof:geomhash":"907bb84363f9bbd96945506b6420b78e",
+    "wof:geomhash":"5c139c7941277e3c91e48dcf692975b4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554700779,
-    "wof:lastmodified":1480812023,
+    "wof:lastmodified":1611183192,
     "wof:name":"08876",
     "wof:parent_id":404477915,
     "wof:placetype":"postalcode",

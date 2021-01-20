@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011394,
-    "geom:area_square_m":103863725.089874,
+    "geom:area_square_m":103863725.089922,
     "geom:bbox":"-83.868414,42.452107,-83.668167,42.563536",
     "geom:latitude":42.505128,
     "geom:longitude":-83.781956,
@@ -13,20 +13,25 @@
     "lbl:latitude":42.505744,
     "lbl:longitude":-83.782892,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Brighton",
+    "mz:postal_locality_alt":[
+        "Hamburg"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404507291,
         85633793,
-        102083145
+        102083145,
+        404507291,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778607"
     },
     "wof:country":"US",
-    "wof:geomhash":"4b71a9578103abbafa9197d924f4f5c2",
+    "wof:geomhash":"193e369f3c518b2c8b51b502ffa2a135",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554723957,
-    "wof:lastmodified":1480843132,
+    "wof:lastmodified":1611183795,
     "wof:name":"48116",
     "wof:parent_id":404507291,
     "wof:placetype":"postalcode",

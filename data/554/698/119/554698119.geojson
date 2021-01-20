@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004431,
-    "geom:area_square_m":40059962.670332,
+    "geom:area_square_m":40059962.670337,
     "geom:bbox":"-70.942509,42.971088,-70.858603,43.059854",
     "geom:latitude":43.015737,
     "geom:longitude":-70.900629,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.014997,
     "lbl:longitude":-70.902586,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Stratham",
+    "mz:postal_locality_alt":[
+        "Seabrook"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688689,
         102191575,
-        404476789,
         85633793,
-        102086507
+        102086507,
+        404476789,
+        85688689
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759346"
     },
     "wof:country":"US",
-    "wof:geomhash":"24a302bb36818473b735f4c542795de0",
+    "wof:geomhash":"6732af4b5226b6751915c48d558a9e1e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554698119,
-    "wof:lastmodified":1480916575,
+    "wof:lastmodified":1611184690,
     "wof:name":"03885",
     "wof:parent_id":404476789,
     "wof:placetype":"postalcode",

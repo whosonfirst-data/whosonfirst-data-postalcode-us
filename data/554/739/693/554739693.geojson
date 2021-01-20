@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026675,
-    "geom:area_square_m":250772496.448368,
+    "geom:area_square_m":250772496.448234,
     "geom:bbox":"-97.733046,40.415347,-97.463253,40.600074",
     "geom:latitude":40.509946,
     "geom:longitude":-97.600264,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.512146,
     "lbl:longitude":-97.598807,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Geneva",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688563,
         102191575,
-        404519903,
         85633793,
-        102084289
+        102084289,
+        404519903,
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787629"
     },
     "wof:country":"US",
-    "wof:geomhash":"04dbd0231e48a8e52bc8237b871082ad",
+    "wof:geomhash":"399cedcfe93a9bfbcbec217d8a37f26d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554739693,
-    "wof:lastmodified":1480803760,
+    "wof:lastmodified":1611182659,
     "wof:name":"68361",
     "wof:parent_id":404519903,
     "wof:placetype":"postalcode",

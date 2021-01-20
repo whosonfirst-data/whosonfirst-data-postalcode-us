@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032271,
-    "geom:area_square_m":280511700.61526,
+    "geom:area_square_m":280511700.615194,
     "geom:bbox":"-93.731771,45.229446,-93.423016,45.421907",
     "geom:latitude":45.334334,
     "geom:longitude":-93.567914,
@@ -14,21 +14,26 @@
     "lbl:latitude":45.334168,
     "lbl:longitude":-93.568217,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Elk River",
+    "mz:postal_locality_alt":[
+        "Rogers"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404515103,
         85633793,
+        102087609,
+        404515103,
         85968825,
-        102087609
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781813"
     },
     "wof:country":"US",
-    "wof:geomhash":"8f287b687617efc0530e4c965da3dca4",
+    "wof:geomhash":"3227ee28974dfdcf826ba78199fb3617",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554729171,
-    "wof:lastmodified":1480789093,
+    "wof:lastmodified":1611185445,
     "wof:name":"55330",
     "wof:parent_id":85968825,
     "wof:placetype":"postalcode",

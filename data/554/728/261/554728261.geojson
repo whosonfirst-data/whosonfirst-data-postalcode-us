@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01328,
-    "geom:area_square_m":116467636.285339,
+    "geom:area_square_m":116467636.285552,
     "geom:bbox":"-89.34671,44.739281,-89.143287,44.928557",
     "geom:latitude":44.824701,
     "geom:longitude":-89.260063,
@@ -14,20 +14,22 @@
     "lbl:latitude":44.817219,
     "lbl:longitude":-89.258344,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Eland",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404495393,
         85633793,
-        102081881
+        102081881,
+        404495393,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781304"
     },
     "wof:country":"US",
-    "wof:geomhash":"51001c5c26556ed2260b3932c5a332cc",
+    "wof:geomhash":"ffec5ebdc0aaeecd3dc0c187804e39ed",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554728261,
-    "wof:lastmodified":1480833328,
+    "wof:lastmodified":1611185060,
     "wof:name":"54427",
     "wof:parent_id":404495393,
     "wof:placetype":"postalcode",

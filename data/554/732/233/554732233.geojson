@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03029,
-    "geom:area_square_m":256506689.4889,
+    "geom:area_square_m":256506689.488827,
     "geom:bbox":"-103.126661,46.629789,-102.91481,46.89068",
     "geom:latitude":46.775252,
     "geom:longitude":-103.033953,
@@ -14,20 +14,25 @@
     "lbl:latitude":46.771603,
     "lbl:longitude":-103.03134,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"South Heart",
+    "mz:postal_locality_alt":[
+        "New England"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688525,
         102191575,
-        404482191,
         85633793,
-        102082105
+        102082105,
+        404482191,
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12783440"
     },
     "wof:country":"US",
-    "wof:geomhash":"fd6f2ff52390a058283d840ebde8a757",
+    "wof:geomhash":"14a4fbc55098804b8268249073985a89",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554732233,
-    "wof:lastmodified":1480833309,
+    "wof:lastmodified":1611184378,
     "wof:name":"58655",
     "wof:parent_id":404482191,
     "wof:placetype":"postalcode",

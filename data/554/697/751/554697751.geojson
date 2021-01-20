@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022575,
-    "geom:area_square_m":202052442.542464,
+    "geom:area_square_m":202052442.542535,
     "geom:bbox":"-71.910764,43.544603,-71.650918,43.697758",
     "geom:latitude":43.627631,
     "geom:longitude":-71.782602,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.642709,
     "lbl:longitude":-71.789139,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bristol",
+    "mz:postal_locality_alt":[
+        "Alexandria"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688689,
         102191575,
-        404476879,
         85633793,
-        102086567
+        102086567,
+        404476879,
+        85688689
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759129"
     },
     "wof:country":"US",
-    "wof:geomhash":"1bc5b92874cc1c7869a3595e6bdad0c1",
+    "wof:geomhash":"018d8ee0ac0001ea25cce69479059656",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554697751,
-    "wof:lastmodified":1480916381,
+    "wof:lastmodified":1611184652,
     "wof:name":"03222",
     "wof:parent_id":404476879,
     "wof:placetype":"postalcode",

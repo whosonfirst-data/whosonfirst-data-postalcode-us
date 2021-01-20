@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005915,
-    "geom:area_square_m":60578530.127542,
+    "geom:area_square_m":60578530.127592,
     "geom:bbox":"-118.587533,34.024999,-118.495177,34.13165",
     "geom:latitude":34.078725,
     "geom:longitude":-118.542228,
@@ -14,20 +14,25 @@
     "lbl:latitude":34.092567,
     "lbl:longitude":-118.534363,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pacific Plsds",
+    "mz:postal_locality_alt":[
+        "Pacific Palisades"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086957,
         85923517,
-        102086957
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795745"
     },
     "wof:country":"US",
-    "wof:geomhash":"c61e51cbfe653f60315aa05e3c66447c",
+    "wof:geomhash":"f4ea327a36a0c0a0b60fae8c6c184500",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554784045,
-    "wof:lastmodified":1480912626,
+    "wof:lastmodified":1611183949,
     "wof:name":"90272",
     "wof:parent_id":85923517,
     "wof:placetype":"postalcode",

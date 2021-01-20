@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028304,
-    "geom:area_square_m":258263290.194556,
+    "geom:area_square_m":258263290.194512,
     "geom:bbox":"-123.212085,42.30854,-122.954692,42.585452",
     "geom:latitude":42.443726,
     "geom:longitude":-123.074855,
@@ -14,19 +14,24 @@
     "lbl:latitude":42.450689,
     "lbl:longitude":-123.060929,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Gold Hill",
+    "mz:postal_locality_alt":[
+        "Rogue River"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688513,
-        102081619
+        102081619,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12798731"
     },
     "wof:country":"US",
-    "wof:geomhash":"2dbc62f24cb3f372f9712fed89a8f3d1",
+    "wof:geomhash":"8be4a1d5353e38f3bb8d777712c5e31f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554755049,
-    "wof:lastmodified":1480818054,
+    "wof:lastmodified":1611182571,
     "wof:name":"97525",
     "wof:parent_id":102081619,
     "wof:placetype":"postalcode",

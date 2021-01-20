@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011034,
-    "geom:area_square_m":117622922.79722,
+    "geom:area_square_m":117622922.797186,
     "geom:bbox":"-97.671594,30.381326,-97.521819,30.501825",
     "geom:latitude":30.44309,
     "geom:longitude":-97.595406,
@@ -13,20 +13,25 @@
     "lbl:latitude":30.43963,
     "lbl:longitude":-97.594686,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pflugerville",
+    "mz:postal_locality_alt":[
+        "Austin"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102081935,
         101725089,
-        102081935
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12792261"
     },
     "wof:country":"US",
-    "wof:geomhash":"3b3ff67630fb191dc718de6e53b3b90a",
+    "wof:geomhash":"b3ce1dbc2e26aa50aa65501bcf553c5b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554747041,
-    "wof:lastmodified":1480831119,
+    "wof:lastmodified":1611183453,
     "wof:name":"78660",
     "wof:parent_id":101725089,
     "wof:placetype":"postalcode",

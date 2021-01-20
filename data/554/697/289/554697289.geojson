@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001477,
-    "geom:area_square_m":13434549.805011,
+    "geom:area_square_m":13434549.805002,
     "geom:bbox":"-71.320025,42.612675,-71.271271,42.656216",
     "geom:latitude":42.632332,
     "geom:longitude":-71.295355,
@@ -13,21 +13,26 @@
     "lbl:latitude":42.631912,
     "lbl:longitude":-71.296025,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lowell",
+    "mz:postal_locality_alt":[
+        "Tewksbury"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476397,
         85633793,
+        102084643,
+        404476397,
         85950327,
-        102084643
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758602"
     },
     "wof:country":"US",
-    "wof:geomhash":"fbf663335620dd4f16cdf84aee6e84e3",
+    "wof:geomhash":"ceb201105c6e5c71fb8322948d16d28c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554697289,
-    "wof:lastmodified":1480799922,
+    "wof:lastmodified":1611184640,
     "wof:name":"01852",
     "wof:parent_id":85950327,
     "wof:placetype":"postalcode",

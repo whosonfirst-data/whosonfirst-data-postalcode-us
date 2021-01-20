@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003355,
-    "geom:area_square_m":31662660.362965,
+    "geom:area_square_m":31662660.362973,
     "geom:bbox":"-74.110838,40.213125,-73.994681,40.28123",
     "geom:latitude":40.247905,
     "geom:longitude":-74.054349,
@@ -14,20 +14,29 @@
     "lbl:latitude":40.249708,
     "lbl:longitude":-74.053712,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Asbury Park",
+    "mz:postal_locality_alt":[
+        "Ocean",
+        "Tinton Falls",
+        "Neptune",
+        "Englishtown",
+        "Interlaken"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478379,
         85633793,
-        102085049
+        102085049,
+        404478379,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760842"
     },
     "wof:country":"US",
-    "wof:geomhash":"093bb9ffce7d4a4479d19b8e660f1071",
+    "wof:geomhash":"785e6cd9f49a44a25af16deaf59bd629",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +48,7 @@
         }
     ],
     "wof:id":554779127,
-    "wof:lastmodified":1480809856,
+    "wof:lastmodified":1611183974,
     "wof:name":"07712",
     "wof:parent_id":404478379,
     "wof:placetype":"postalcode",

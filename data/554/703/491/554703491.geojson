@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002014,
-    "geom:area_square_m":18979966.767421,
+    "geom:area_square_m":18979966.767414,
     "geom:bbox":"-79.831811,40.294608,-79.775392,40.363448",
     "geom:latitude":40.335968,
     "geom:longitude":-79.800155,
@@ -13,21 +13,27 @@
     "lbl:latitude":40.338791,
     "lbl:longitude":-79.796071,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mc Keesport",
+    "mz:postal_locality_alt":[
+        "Mckeesport",
+        "White Oak"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404484249,
         85633793,
+        102080887,
+        404484249,
         101718703,
-        102080887
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763626"
     },
     "wof:country":"US",
-    "wof:geomhash":"c6932d7701dd77e54ef74b998fd0c9c5",
+    "wof:geomhash":"e32670258dcdf87acb3aa687d72bf033",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +46,7 @@
         }
     ],
     "wof:id":554703491,
-    "wof:lastmodified":1480905385,
+    "wof:lastmodified":1611184461,
     "wof:name":"15131",
     "wof:parent_id":101718703,
     "wof:placetype":"postalcode",

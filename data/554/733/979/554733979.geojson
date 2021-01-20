@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02634,
-    "geom:area_square_m":245133647.712789,
+    "geom:area_square_m":245133647.712815,
     "geom:bbox":"-89.805983,41.11206,-89.514463,41.241191",
     "geom:latitude":41.180161,
     "geom:longitude":-89.649994,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.187539,
     "lbl:longitude":-89.647935,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bradford",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404496847,
         85633793,
-        102083523
+        102083523,
+        404496847,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784613"
     },
     "wof:country":"US",
-    "wof:geomhash":"18124444710a2844a45be8bfd24153f8",
+    "wof:geomhash":"22a1f84f5cf6f7fdf7e9811eaacb509d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554733979,
-    "wof:lastmodified":1480841039,
+    "wof:lastmodified":1611184225,
     "wof:name":"61421",
     "wof:parent_id":404496847,
     "wof:placetype":"postalcode",

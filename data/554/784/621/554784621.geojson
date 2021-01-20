@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001667,
-    "geom:area_square_m":16311556.951515,
+    "geom:area_square_m":16311556.951457,
     "geom:bbox":"-122.471755,37.665551,-122.405292,37.708431",
     "geom:latitude":37.690885,
     "geom:longitude":-122.44744,
@@ -13,19 +13,26 @@
     "lbl:latitude":37.690884,
     "lbl:longitude":-122.447441,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Daly City",
+    "mz:postal_locality_alt":[
+        "Colma",
+        "Mountain View",
+        "San Francisco"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688637,
-        102085387
+        102085387,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12797105"
     },
     "wof:country":"US",
-    "wof:geomhash":"4cf4817d03f9e4e9815eedfb5baabce2",
+    "wof:geomhash":"84cb03ea953de25a5c98d7b5ba83acbf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +43,7 @@
         }
     ],
     "wof:id":554784621,
-    "wof:lastmodified":1480806943,
+    "wof:lastmodified":1611183932,
     "wof:name":"94014",
     "wof:parent_id":102085387,
     "wof:placetype":"postalcode",

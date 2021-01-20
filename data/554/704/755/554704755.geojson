@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014982,
-    "geom:area_square_m":139809230.828213,
+    "geom:area_square_m":139809230.828218,
     "geom:bbox":"-78.295464,40.926501,-78.079201,41.078386",
     "geom:latitude":41.000511,
     "geom:longitude":-78.200347,
@@ -14,20 +14,26 @@
     "lbl:latitude":41.003352,
     "lbl:longitude":-78.209655,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Morrisdale",
+    "mz:postal_locality_alt":[
+        "Allport",
+        "Lanse"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404487015,
         85633793,
-        102080967
+        102080967,
+        404487015,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764491"
     },
     "wof:country":"US",
-    "wof:geomhash":"098758cbb7d0c3eaff78e5d41df922e0",
+    "wof:geomhash":"1932670b4f8953c052105d37353ec217",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554704755,
-    "wof:lastmodified":1480904932,
+    "wof:lastmodified":1611184486,
     "wof:name":"16858",
     "wof:parent_id":404487015,
     "wof:placetype":"postalcode",

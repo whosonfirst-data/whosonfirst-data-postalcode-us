@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011753,
-    "geom:area_square_m":99128942.018027,
+    "geom:area_square_m":99128942.018048,
     "geom:bbox":"-124.184685,46.914055,-124.089561,47.097928",
     "geom:latitude":46.993386,
     "geom:longitude":-124.135615,
@@ -14,20 +14,26 @@
     "lbl:latitude":46.993744,
     "lbl:longitude":-124.136704,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ocean Shores",
+    "mz:postal_locality_alt":[
+        "Ocean City",
+        "Hoquiam"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688623,
         102191575,
         85633793,
+        102087545,
         101730095,
-        102087545
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12799254"
     },
     "wof:country":"US",
-    "wof:geomhash":"863eae7248f0f37683ed93c19ebbab6e",
+    "wof:geomhash":"b919a067ddc5a4cd2dd054295be16196",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554784929,
-    "wof:lastmodified":1480786328,
+    "wof:lastmodified":1611183958,
     "wof:name":"98569",
     "wof:parent_id":101730095,
     "wof:placetype":"postalcode",

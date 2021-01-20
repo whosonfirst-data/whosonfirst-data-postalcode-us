@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017009,
-    "geom:area_square_m":156461088.41019,
+    "geom:area_square_m":156461088.410194,
     "geom:bbox":"-96.922918,41.85864,-96.728944,42.003578",
     "geom:latitude":41.933134,
     "geom:longitude":-96.822928,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.927041,
     "lbl:longitude":-96.822664,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Beemer",
+    "mz:postal_locality_alt":[
+        "Niobrara"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688563,
         102191575,
-        404518647,
         85633793,
-        102082731
+        102082731,
+        404518647,
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787783"
     },
     "wof:country":"US",
-    "wof:geomhash":"7a3fa7a24f85735af8afce4781ea54dd",
+    "wof:geomhash":"7fe5eb908e793126f16a42c596328dc3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554740001,
-    "wof:lastmodified":1480790199,
+    "wof:lastmodified":1611183398,
     "wof:name":"68716",
     "wof:parent_id":404518647,
     "wof:placetype":"postalcode",

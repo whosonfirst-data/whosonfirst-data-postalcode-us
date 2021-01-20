@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041674,
-    "geom:area_square_m":370875808.785169,
+    "geom:area_square_m":370875808.785433,
     "geom:bbox":"-76.095781,43.821083,-75.716997,44.132401",
     "geom:latitude":43.968366,
     "geom:longitude":-75.906712,
@@ -14,21 +14,26 @@
     "lbl:latitude":43.968892,
     "lbl:longitude":-75.906501,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Watertown",
+    "mz:postal_locality_alt":[
+        "Carthage"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404521841,
         85633793,
+        102082357,
+        404521841,
         85978073,
-        102082357
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762870"
     },
     "wof:country":"US",
-    "wof:geomhash":"b1809db531f5e7d24a8126da831a27e7",
+    "wof:geomhash":"3a7dbcc3720fb3b18ae22e01f8485b07",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554702443,
-    "wof:lastmodified":1480811760,
+    "wof:lastmodified":1611184160,
     "wof:name":"13601",
     "wof:parent_id":85978073,
     "wof:placetype":"postalcode",

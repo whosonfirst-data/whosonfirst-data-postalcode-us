@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012081,
-    "geom:area_square_m":111765323.847069,
+    "geom:area_square_m":111765323.847035,
     "geom:bbox":"-85.620297,41.510357,-85.454956,41.633362",
     "geom:latitude":41.568519,
     "geom:longitude":-85.545558,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.57559,
     "lbl:longitude":-85.547198,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Topeka",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404502185,
         85633793,
-        102087031
+        102087031,
+        404502185,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777814"
     },
     "wof:country":"US",
-    "wof:geomhash":"3e3fb882bb94474f5ff6d11e9e5f3bd7",
+    "wof:geomhash":"f26d7789ca3cb23739939ff47f1bf422",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554722771,
-    "wof:lastmodified":1480915899,
+    "wof:lastmodified":1611183227,
     "wof:name":"46571",
     "wof:parent_id":404502185,
     "wof:placetype":"postalcode",

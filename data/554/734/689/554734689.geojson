@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008001,
-    "geom:area_square_m":77772336.368381,
+    "geom:area_square_m":77772336.368363,
     "geom:bbox":"-89.905252,38.118096,-89.782896,38.220756",
     "geom:latitude":38.173478,
     "geom:longitude":-89.844499,
@@ -14,20 +14,22 @@
     "lbl:latitude":38.175221,
     "lbl:longitude":-89.852833,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Baldwin",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404499503,
         85633793,
-        102082271
+        102082271,
+        404499503,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784997"
     },
     "wof:country":"US",
-    "wof:geomhash":"eafe6b150a87394ee08966ef41843e47",
+    "wof:geomhash":"793c2a3aaae522bf4bfd52eaf4e1003b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554734689,
-    "wof:lastmodified":1480904317,
+    "wof:lastmodified":1611184182,
     "wof:name":"62217",
     "wof:parent_id":404499503,
     "wof:placetype":"postalcode",

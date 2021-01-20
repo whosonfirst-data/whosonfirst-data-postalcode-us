@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000862,
-    "geom:area_square_m":8822850.443845,
+    "geom:area_square_m":8822850.443839,
     "geom:bbox":"-118.113775,34.071201,-118.072226,34.105244",
     "geom:latitude":34.08988,
     "geom:longitude":-118.094906,
@@ -13,20 +13,27 @@
     "lbl:latitude":34.090776,
     "lbl:longitude":-118.095091,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"San Gabriel",
+    "mz:postal_locality_alt":[
+        "Rosemead",
+        "South El Monte",
+        "Temple City"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086957,
         85923839,
-        102086957
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796133"
     },
     "wof:country":"US",
-    "wof:geomhash":"b53e3f002671e4d77f4864606eab2fe7",
+    "wof:geomhash":"23a08c56a53e19924cd4c1b00cb781c0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +45,7 @@
         }
     ],
     "wof:id":554752105,
-    "wof:lastmodified":1480912626,
+    "wof:lastmodified":1611182514,
     "wof:name":"91776",
     "wof:parent_id":85923839,
     "wof:placetype":"postalcode",

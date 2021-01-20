@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008011,
-    "geom:area_square_m":74083565.030298,
+    "geom:area_square_m":74083565.030318,
     "geom:bbox":"-88.152935,41.552683,-87.963448,41.656098",
     "geom:latitude":41.593007,
     "geom:longitude":-88.050669,
@@ -14,21 +14,26 @@
     "lbl:latitude":41.592639,
     "lbl:longitude":-88.050043,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lockport",
+    "mz:postal_locality_alt":[
+        "Homer Glen"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404499145,
         85633793,
+        102080845,
+        404499145,
         85940553,
-        102080845
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784149"
     },
     "wof:country":"US",
-    "wof:geomhash":"50dce89af783d97a8522d2d8f4c731a4",
+    "wof:geomhash":"825b3130d10e7e746934e208f607aa22",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554733365,
-    "wof:lastmodified":1480903216,
+    "wof:lastmodified":1611184211,
     "wof:name":"60441",
     "wof:parent_id":85940553,
     "wof:placetype":"postalcode",

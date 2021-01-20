@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007751,
-    "geom:area_square_m":83921572.048168,
+    "geom:area_square_m":83921572.048249,
     "geom:bbox":"-81.319796,28.80244,-81.207235,28.963292",
     "geom:latitude":28.883388,
     "geom:longitude":-81.25072,
@@ -13,20 +13,26 @@
     "lbl:latitude":28.886189,
     "lbl:longitude":-81.251417,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Deltona",
+    "mz:postal_locality_alt":[
+        "Enterprise",
+        "Orange City"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688651,
         102191575,
         85633793,
+        102085865,
         85932677,
-        102085865
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12771883"
     },
     "wof:country":"US",
-    "wof:geomhash":"15800d64ab66a08c4976325e6796ad47",
+    "wof:geomhash":"60b7b30d705d00da275da8001038f778",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554714571,
-    "wof:lastmodified":1480809124,
+    "wof:lastmodified":1611183380,
     "wof:name":"32725",
     "wof:parent_id":85932677,
     "wof:placetype":"postalcode",

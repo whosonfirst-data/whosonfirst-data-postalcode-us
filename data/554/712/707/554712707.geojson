@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006432,
-    "geom:area_square_m":66093344.574889,
+    "geom:area_square_m":66093344.574851,
     "geom:bbox":"-84.088805,33.747116,-83.98002,33.850044",
     "geom:latitude":33.799661,
     "geom:longitude":-84.033184,
@@ -13,19 +13,25 @@
     "lbl:latitude":33.799851,
     "lbl:longitude":-84.035678,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Snellville",
+    "mz:postal_locality_alt":[
+        "Lithonia",
+        "Lawrenceville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688535,
-        102082967
+        102082967,
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770524"
     },
     "wof:country":"US",
-    "wof:geomhash":"1fbd484ccd85d70dd8b204da91d7a2ee",
+    "wof:geomhash":"61ca51c3e81cb74be89ba6cd00b901fb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +42,7 @@
         }
     ],
     "wof:id":554712707,
-    "wof:lastmodified":1480823668,
+    "wof:lastmodified":1611183696,
     "wof:name":"30039",
     "wof:parent_id":102082967,
     "wof:placetype":"postalcode",

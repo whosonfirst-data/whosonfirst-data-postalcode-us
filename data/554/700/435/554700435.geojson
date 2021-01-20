@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027145,
-    "geom:area_square_m":258842161.030635,
+    "geom:area_square_m":258842161.030575,
     "geom:bbox":"-75.534014,39.377036,-75.341044,39.677304",
     "geom:latitude":39.541976,
     "geom:longitude":-75.430362,
@@ -14,20 +14,26 @@
     "lbl:latitude":39.542408,
     "lbl:longitude":-75.431684,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Salem",
+    "mz:postal_locality_alt":[
+        "Pennsville",
+        "Alloway"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477903,
         85633793,
-        102083879
+        102083879,
+        404477903,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761048"
     },
     "wof:country":"US",
-    "wof:geomhash":"22fb1865695e34c9288634814b732f42",
+    "wof:geomhash":"1ef4f3c569b107a56ac1e661536b80fd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554700435,
-    "wof:lastmodified":1480905055,
+    "wof:lastmodified":1611183205,
     "wof:name":"08079",
     "wof:parent_id":404477903,
     "wof:placetype":"postalcode",

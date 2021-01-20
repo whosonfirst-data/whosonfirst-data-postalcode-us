@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033286,
-    "geom:area_square_m":297257898.737263,
+    "geom:area_square_m":297257898.737191,
     "geom:bbox":"-88.613667,43.630933,-88.250876,43.890941",
     "geom:latitude":43.761327,
     "geom:longitude":-88.430356,
@@ -13,21 +13,26 @@
     "lbl:latitude":43.79205,
     "lbl:longitude":-88.390935,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fond Du Lac",
+    "mz:postal_locality_alt":[
+        "N Fond Du Lac"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404491785,
         85633793,
+        102081759,
+        404491785,
         101733125,
-        102081759
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781620"
     },
     "wof:country":"US",
-    "wof:geomhash":"4c657e4e86a0bf247e6bdc2078d35df2",
+    "wof:geomhash":"73f65cd2eac4aa53b5ffc3dc83973a6c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554728821,
-    "wof:lastmodified":1480829727,
+    "wof:lastmodified":1611185056,
     "wof:name":"54937",
     "wof:parent_id":101733125,
     "wof:placetype":"postalcode",

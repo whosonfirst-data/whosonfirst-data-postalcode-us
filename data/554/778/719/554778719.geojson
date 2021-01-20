@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006035,
-    "geom:area_square_m":54049732.416945,
+    "geom:area_square_m":54049732.416947,
     "geom:bbox":"-70.281078,43.534705,-70.181986,43.634118",
     "geom:latitude":43.586447,
     "geom:longitude":-70.232339,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.587173,
     "lbl:longitude":-70.236476,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cape Elizabeth",
+    "mz:postal_locality_alt":[
+        "Cape Eliz"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404475517,
         85633793,
-        102087463
+        102087463,
+        404475517,
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759450"
     },
     "wof:country":"US",
-    "wof:geomhash":"390207874857b59e0ffaf5626509231b",
+    "wof:geomhash":"36fa33a6083f4d43185bd52482929e85",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554778719,
-    "wof:lastmodified":1480785910,
+    "wof:lastmodified":1611183445,
     "wof:name":"04107",
     "wof:parent_id":404475517,
     "wof:placetype":"postalcode",

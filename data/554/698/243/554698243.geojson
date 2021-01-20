@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01134,
-    "geom:area_square_m":100928290.909034,
+    "geom:area_square_m":100928290.909039,
     "geom:bbox":"-70.229244,43.90671,-70.034238,44.020971",
     "geom:latitude":43.96445,
     "geom:longitude":-70.129646,
@@ -14,20 +14,22 @@
     "lbl:latitude":43.956021,
     "lbl:longitude":-70.132418,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Durham",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404475331,
         85633793,
-        102087457
+        102087457,
+        404475331,
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759467"
     },
     "wof:country":"US",
-    "wof:geomhash":"840696c2f3c742e3d51cbc62851c3143",
+    "wof:geomhash":"3ce1e017134d3ad502a3f57d4f795821",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554698243,
-    "wof:lastmodified":1480785908,
+    "wof:lastmodified":1611184681,
     "wof:name":"04222",
     "wof:parent_id":404475331,
     "wof:placetype":"postalcode",

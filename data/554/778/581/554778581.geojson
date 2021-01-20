@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009032,
-    "geom:area_square_m":83500315.633203,
+    "geom:area_square_m":83500315.633184,
     "geom:bbox":"-71.223413,41.544861,-71.127788,41.675201",
     "geom:latitude":41.608781,
     "geom:longitude":-71.175613,
@@ -14,20 +14,26 @@
     "lbl:latitude":41.609436,
     "lbl:longitude":-71.178113,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Tiverton",
+    "mz:postal_locality_alt":[
+        "Portsmouth",
+        "Lincoln"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688509,
         102191575,
-        404488353,
         85633793,
-        102081595
+        102081595,
+        404488353,
+        85688509
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759036"
     },
     "wof:country":"US",
-    "wof:geomhash":"58156b49b1ac9e0487f22c2c77e83535",
+    "wof:geomhash":"56816d5c30b807feb1aab68c32809ea0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554778581,
-    "wof:lastmodified":1480830991,
+    "wof:lastmodified":1611183433,
     "wof:name":"02878",
     "wof:parent_id":404488353,
     "wof:placetype":"postalcode",

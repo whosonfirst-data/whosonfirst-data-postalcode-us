@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014016,
-    "geom:area_square_m":137564841.964149,
+    "geom:area_square_m":137564841.964522,
     "geom:bbox":"-122.5126,37.311653,-122.310717,37.555133",
     "geom:latitude":37.464765,
     "geom:longitude":-122.416124,
@@ -14,19 +14,26 @@
     "lbl:latitude":37.469453,
     "lbl:longitude":-122.411841,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Half Moon Bay",
+    "mz:postal_locality_alt":[
+        "El Granada",
+        "Sunnyvale",
+        "Portola Valley"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688637,
-        102085387
+        102085387,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12797110"
     },
     "wof:country":"US",
-    "wof:geomhash":"152b9328516a2820cc0779b502554cca",
+    "wof:geomhash":"537d4429b95b38a39a9888ad4f8e919e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +44,7 @@
         }
     ],
     "wof:id":554784625,
-    "wof:lastmodified":1480806944,
+    "wof:lastmodified":1611183949,
     "wof:name":"94019",
     "wof:parent_id":102085387,
     "wof:placetype":"postalcode",

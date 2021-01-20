@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014732,
-    "geom:area_square_m":131028902.981381,
+    "geom:area_square_m":131028902.981416,
     "geom:bbox":"-72.912193,43.936089,-72.754244,44.07366",
     "geom:latitude":44.005164,
     "geom:longitude":-72.841591,
@@ -14,20 +14,25 @@
     "lbl:latitude":44.005291,
     "lbl:longitude":-72.841314,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Granville",
+    "mz:postal_locality_alt":[
+        "Pittsfield"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688763,
         102191575,
-        404527395,
         85633793,
-        102080765
+        102080765,
+        404527395,
+        85688763
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760089"
     },
     "wof:country":"US",
-    "wof:geomhash":"cf442fcb8df7ebff41bea4684d02e1af",
+    "wof:geomhash":"f50ed1cf416b6149e18bc59ed2a410a4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554699117,
-    "wof:lastmodified":1480906210,
+    "wof:lastmodified":1611184616,
     "wof:name":"05747",
     "wof:parent_id":404527395,
     "wof:placetype":"postalcode",

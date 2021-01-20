@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004856,
-    "geom:area_square_m":44784192.837898,
+    "geom:area_square_m":44784192.837908,
     "geom:bbox":"-70.023767,41.723239,-69.935829,41.815263",
     "geom:latitude":41.768932,
     "geom:longitude":-69.974113,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.769125,
     "lbl:longitude":-69.97358,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Orleans",
+    "mz:postal_locality_alt":[
+        "East Orleans"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476187,
         85633793,
-        102084379
+        102084379,
+        404476187,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758923"
     },
     "wof:country":"US",
-    "wof:geomhash":"bad7b9be091b525039af8575be9520a4",
+    "wof:geomhash":"794b5747b931e123dbacf7828713d0d1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554778491,
-    "wof:lastmodified":1480802732,
+    "wof:lastmodified":1611183432,
     "wof:name":"02653",
     "wof:parent_id":404476187,
     "wof:placetype":"postalcode",

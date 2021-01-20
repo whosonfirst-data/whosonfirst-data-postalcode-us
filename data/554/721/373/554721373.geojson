@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008045,
-    "geom:area_square_m":75292024.449541,
+    "geom:area_square_m":75292024.44947,
     "geom:bbox":"-81.537885,40.733717,-81.44584,40.906023",
     "geom:latitude":40.812492,
     "geom:longitude":-81.498413,
@@ -13,21 +13,26 @@
     "lbl:latitude":40.814381,
     "lbl:longitude":-81.497182,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Massillon",
+    "mz:postal_locality_alt":[
+        "Canton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404525801,
         85633793,
+        102083731,
+        404525801,
         101713305,
-        102083731
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776887"
     },
     "wof:country":"US",
-    "wof:geomhash":"968f4661a1d05c6b306ea0b1aadc4dd2",
+    "wof:geomhash":"19b7684cdeed62556878181118d997d5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554721373,
-    "wof:lastmodified":1480835409,
+    "wof:lastmodified":1611184979,
     "wof:name":"44646",
     "wof:parent_id":101713305,
     "wof:placetype":"postalcode",

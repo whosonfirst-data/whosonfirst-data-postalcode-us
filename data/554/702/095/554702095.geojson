@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016785,
-    "geom:area_square_m":150177208.881747,
+    "geom:area_square_m":150177208.881722,
     "geom:bbox":"-76.093205,43.58505,-75.86591,43.704353",
     "geom:latitude":43.648483,
     "geom:longitude":-75.981205,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.645775,
     "lbl:longitude":-75.98168,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lacona",
+    "mz:postal_locality_alt":[
+        "Sandy Creek"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522949,
         85633793,
-        102081783
+        102081783,
+        404522949,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762653"
     },
     "wof:country":"US",
-    "wof:geomhash":"27b7820494493258c497c60b186c8f8a",
+    "wof:geomhash":"7d7c0f76e901eb64990425a1a4c88793",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554702095,
-    "wof:lastmodified":1480832042,
+    "wof:lastmodified":1611184165,
     "wof:name":"13083",
     "wof:parent_id":404522949,
     "wof:placetype":"postalcode",

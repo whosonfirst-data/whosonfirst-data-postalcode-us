@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002898,
-    "geom:area_square_m":30979680.589305,
+    "geom:area_square_m":30979680.589386,
     "geom:bbox":"-92.110589,30.123935,-92.003899,30.21793",
     "geom:latitude":30.172831,
     "geom:longitude":-92.060526,
@@ -13,20 +13,22 @@
     "lbl:latitude":30.170874,
     "lbl:longitude":-92.054784,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lafayette",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688735,
         102191575,
         85633793,
+        102081919,
         85948377,
-        102081919
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12788310"
     },
     "wof:country":"US",
-    "wof:geomhash":"9925648e3356920f918df34a3eb96387",
+    "wof:geomhash":"1d1b77f40b761fb59014e7f807ac76fa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +40,7 @@
         }
     ],
     "wof:id":554740775,
-    "wof:lastmodified":1480840745,
+    "wof:lastmodified":1611183419,
     "wof:name":"70503",
     "wof:parent_id":85948377,
     "wof:placetype":"postalcode",

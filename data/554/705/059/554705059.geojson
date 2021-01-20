@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003576,
-    "geom:area_square_m":33779716.964433,
+    "geom:area_square_m":33779716.964405,
     "geom:bbox":"-77.781443,40.138374,-77.697307,40.224033",
     "geom:latitude":40.184808,
     "geom:longitude":-77.741274,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.191575,
     "lbl:longitude":-77.738979,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Dry Run",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485313,
         85633793,
-        102081365
+        102081365,
+        404485313,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764673"
     },
     "wof:country":"US",
-    "wof:geomhash":"ccb80edb04db964cd2c20e6405dcff99",
+    "wof:geomhash":"359b979d9d5c85de0c4fdc33889fe821",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554705059,
-    "wof:lastmodified":1480904863,
+    "wof:lastmodified":1611184122,
     "wof:name":"17220",
     "wof:parent_id":404485313,
     "wof:placetype":"postalcode",

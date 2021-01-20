@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005494,
-    "geom:area_square_m":50849183.445082,
+    "geom:area_square_m":50849183.445054,
     "geom:bbox":"-72.227624,41.504006,-72.125889,41.589564",
     "geom:latitude":41.544301,
     "geom:longitude":-72.174192,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.544925,
     "lbl:longitude":-72.173849,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bozrah",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688629,
         102191575,
-        404495809,
         85633793,
-        102084295
+        102084295,
+        404495809,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760340"
     },
     "wof:country":"US",
-    "wof:geomhash":"3c01452e42bf922afade85a64672da62",
+    "wof:geomhash":"085b66f21307dc4d4a053e154e94bd1b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554699495,
-    "wof:lastmodified":1480801961,
+    "wof:lastmodified":1611184628,
     "wof:name":"06334",
     "wof:parent_id":404495809,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02933,
-    "geom:area_square_m":287281828.888661,
+    "geom:area_square_m":287281828.888505,
     "geom:bbox":"-90.770235,37.499255,-90.514267,37.720547",
     "geom:latitude":37.616276,
     "geom:longitude":-90.631398,
@@ -14,20 +14,25 @@
     "lbl:latitude":37.623434,
     "lbl:longitude":-90.609393,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ironton",
+    "mz:postal_locality_alt":[
+        "Potosi"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404517991,
         85633793,
-        102080793
+        102080793,
+        404517991,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785802"
     },
     "wof:country":"US",
-    "wof:geomhash":"d0f5b88d0cd23f63a58fa45f20073e29",
+    "wof:geomhash":"27b105e5b102ac09541cb3f12a478162",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554736149,
-    "wof:lastmodified":1480905338,
+    "wof:lastmodified":1611183054,
     "wof:name":"63650",
     "wof:parent_id":404517991,
     "wof:placetype":"postalcode",

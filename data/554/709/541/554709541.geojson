@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001603,
-    "geom:area_square_m":15305644.190797,
+    "geom:area_square_m":15305644.190802,
     "geom:bbox":"-77.990389,39.42363,-77.946152,39.494558",
     "geom:latitude":39.456848,
     "geom:longitude":-77.972667,
@@ -14,20 +14,27 @@
     "lbl:latitude":39.457116,
     "lbl:longitude":-77.972465,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Martinsburg",
+    "mz:postal_locality_alt":[
+        "Inwood",
+        "Charles Town",
+        "Kearneysville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688589,
         102191575,
         85633793,
+        102083367,
         101731377,
-        102083367
+        85688589
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12768289"
     },
     "wof:country":"US",
-    "wof:geomhash":"9d4037d280bab6444037efee8c45791d",
+    "wof:geomhash":"f3eab4f80e718a322a2c5ca2b89d4bee",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554709541,
-    "wof:lastmodified":1480839443,
+    "wof:lastmodified":1611183015,
     "wof:name":"25401",
     "wof:parent_id":101731377,
     "wof:placetype":"postalcode",

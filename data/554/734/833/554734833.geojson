@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046092,
-    "geom:area_square_m":433969796.156173,
+    "geom:area_square_m":433969796.156123,
     "geom:bbox":"-91.252372,40.257005,-90.944438,40.521001",
     "geom:latitude":40.408495,
     "geom:longitude":-91.103917,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.409722,
     "lbl:longitude":-91.095437,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Carthage",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404496133,
         85633793,
-        102082845
+        102082845,
+        404496133,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785078"
     },
     "wof:country":"US",
-    "wof:geomhash":"82b8541c4416d407933643d314b97d8f",
+    "wof:geomhash":"fe77ed2bc250dc1e0be7330188015f7e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554734833,
-    "wof:lastmodified":1480789531,
+    "wof:lastmodified":1611184187,
     "wof:name":"62321",
     "wof:parent_id":404496133,
     "wof:placetype":"postalcode",

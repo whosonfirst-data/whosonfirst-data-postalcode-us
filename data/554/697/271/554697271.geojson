@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002477,
-    "geom:area_square_m":22485720.074101,
+    "geom:area_square_m":22485720.074114,
     "geom:bbox":"-71.131603,42.732463,-71.041769,42.774231",
     "geom:latitude":42.752951,
     "geom:longitude":-71.085952,
@@ -13,21 +13,27 @@
     "lbl:latitude":42.751233,
     "lbl:longitude":-71.0943,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Haverhill",
+    "mz:postal_locality_alt":[
+        "Bradford",
+        "Ward Hill"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476201,
         85633793,
+        102084463,
+        404476201,
         85950417,
-        102084463
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758593"
     },
     "wof:country":"US",
-    "wof:geomhash":"73add499f84cbb01eaeb31013cb596df",
+    "wof:geomhash":"b10f210f68649fc6a20914b25f29b0ab",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +46,7 @@
         }
     ],
     "wof:id":554697271,
-    "wof:lastmodified":1480801146,
+    "wof:lastmodified":1611184657,
     "wof:name":"01835",
     "wof:parent_id":85950417,
     "wof:placetype":"postalcode",

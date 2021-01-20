@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040214,
-    "geom:area_square_m":387583629.579803,
+    "geom:area_square_m":387583629.579797,
     "geom:bbox":"-98.578733,38.681378,-98.28115,38.900247",
     "geom:latitude":38.789899,
     "geom:longitude":-98.442252,
@@ -14,20 +14,22 @@
     "lbl:latitude":38.788536,
     "lbl:longitude":-98.439661,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wilson",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404503609,
         85633793,
-        102085323
+        102085323,
+        404503609,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787288"
     },
     "wof:country":"US",
-    "wof:geomhash":"634f09e0cf4bb0fb4af0a4831e514bc5",
+    "wof:geomhash":"d157c57675f964420857e74185941db6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554739001,
-    "wof:lastmodified":1480841978,
+    "wof:lastmodified":1611182660,
     "wof:name":"67490",
     "wof:parent_id":404503609,
     "wof:placetype":"postalcode",

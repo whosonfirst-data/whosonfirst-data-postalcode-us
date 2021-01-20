@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01746,
-    "geom:area_square_m":181766767.454195,
+    "geom:area_square_m":181766767.454204,
     "geom:bbox":"-83.871539,32.56214,-83.688346,32.731399",
     "geom:latitude":32.656061,
     "geom:longitude":-83.782527,
@@ -14,19 +14,27 @@
     "lbl:latitude":32.665346,
     "lbl:longitude":-83.785924,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Byron",
+    "mz:postal_locality_alt":[
+        "Milledgeville",
+        "Fort Valley",
+        "Montezuma",
+        "Centerville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688535,
-        102082339
+        102082339,
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12771057"
     },
     "wof:country":"US",
-    "wof:geomhash":"9b05dab23a9f3166fc508337c7ea1f18",
+    "wof:geomhash":"a416137e375cf42c741671f43120f5e8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +45,7 @@
         }
     ],
     "wof:id":554713557,
-    "wof:lastmodified":1480839374,
+    "wof:lastmodified":1611183294,
     "wof:name":"31008",
     "wof:parent_id":102082339,
     "wof:placetype":"postalcode",

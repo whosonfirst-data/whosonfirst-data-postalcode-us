@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008287,
-    "geom:area_square_m":78110198.535973,
+    "geom:area_square_m":78110198.535949,
     "geom:bbox":"-85.219694,40.285183,-85.093534,40.387322",
     "geom:latitude":40.336732,
     "geom:longitude":-85.155799,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.337508,
     "lbl:longitude":-85.160845,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Redkey",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404501025,
         85633793,
-        102086251
+        102086251,
+        404501025,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778191"
     },
     "wof:country":"US",
-    "wof:geomhash":"b930b1684c13389e8b7711a99ab221c0",
+    "wof:geomhash":"fb24ed697f2e46da39fde1c4bb01926c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554723355,
-    "wof:lastmodified":1480916346,
+    "wof:lastmodified":1611183779,
     "wof:name":"47373",
     "wof:parent_id":404501025,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006907,
-    "geom:area_square_m":64839275.001903,
+    "geom:area_square_m":64839275.001851,
     "geom:bbox":"-74.826146,40.549042,-74.711471,40.672701",
     "geom:latitude":40.607605,
     "geom:longitude":-74.759587,
@@ -14,20 +14,28 @@
     "lbl:latitude":40.609021,
     "lbl:longitude":-74.754216,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Whitehouse Sta",
+    "mz:postal_locality_alt":[
+        "White House Station",
+        "Whitehouse",
+        "Oldwick",
+        "Whitehouse Station"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478237,
         85633793,
-        102085997
+        102085997,
+        404478237,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761319"
     },
     "wof:country":"US",
-    "wof:geomhash":"79843c3360f058d1f8e65b238a0ee2c2",
+    "wof:geomhash":"5178f9c5910bc44083e1b70d8bbc5668",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +47,7 @@
         }
     ],
     "wof:id":554700793,
-    "wof:lastmodified":1480812024,
+    "wof:lastmodified":1611183194,
     "wof:name":"08889",
     "wof:parent_id":404478237,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007572,
-    "geom:area_square_m":68908957.842171,
+    "geom:area_square_m":68908957.842271,
     "geom:bbox":"-74.113801,42.554698,-74.007964,42.68131",
     "geom:latitude":42.612121,
     "geom:longitude":-74.058955,
@@ -14,20 +14,22 @@
     "lbl:latitude":42.619223,
     "lbl:longitude":-74.060881,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"East Berne",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404521131,
         85633793,
-        102082353
+        102082353,
+        404521131,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762074"
     },
     "wof:country":"US",
-    "wof:geomhash":"306da090c44d461bb83534e4b20b17a7",
+    "wof:geomhash":"58294dc548925325d8acf669bf0403ea",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554701121,
-    "wof:lastmodified":1480790025,
+    "wof:lastmodified":1611182628,
     "wof:name":"12059",
     "wof:parent_id":404521131,
     "wof:placetype":"postalcode",

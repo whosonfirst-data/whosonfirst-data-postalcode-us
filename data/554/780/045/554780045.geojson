@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004426,
-    "geom:area_square_m":41305447.908727,
+    "geom:area_square_m":41305447.908729,
     "geom:bbox":"-72.383227,40.95475,-72.266269,41.042643",
     "geom:latitude":40.994274,
     "geom:longitude":-72.320784,
@@ -14,21 +14,26 @@
     "lbl:latitude":40.993155,
     "lbl:longitude":-72.319664,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Sag Harbor",
+    "mz:postal_locality_alt":[
+        "Amagansett"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522671,
         85633793,
+        102082395,
+        404522671,
         85979707,
-        102082395
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762020"
     },
     "wof:country":"US",
-    "wof:geomhash":"ca3d9f0ed4ef2b5a29459059eabc0dfb",
+    "wof:geomhash":"56427bf6e37354d2efd083e19818b955",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554780045,
-    "wof:lastmodified":1480794862,
+    "wof:lastmodified":1611185182,
     "wof:name":"11963",
     "wof:parent_id":85979707,
     "wof:placetype":"postalcode",

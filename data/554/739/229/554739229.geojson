@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.104306,
-    "geom:area_square_m":990820681.983675,
+    "geom:area_square_m":990820681.983894,
     "geom:bbox":"-101.299274,39.567917,-100.86092,40.002586",
     "geom:latitude":39.805779,
     "geom:longitude":-101.105864,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.808974,
     "lbl:longitude":-101.111247,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Atwood",
+    "mz:postal_locality_alt":[
+        "Winona"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404505599,
         85633793,
-        102084169
+        102084169,
+        404505599,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787393"
     },
     "wof:country":"US",
-    "wof:geomhash":"379a7b20dd9943e4d0a5ad587a3614cd",
+    "wof:geomhash":"ab2d88804041e45bf8fe4b230bdaa06a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554739229,
-    "wof:lastmodified":1480797349,
+    "wof:lastmodified":1611182652,
     "wof:name":"67730",
     "wof:parent_id":404505599,
     "wof:placetype":"postalcode",

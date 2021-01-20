@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002177,
-    "geom:area_square_m":19653796.363474,
+    "geom:area_square_m":19653796.363434,
     "geom:bbox":"-88.43006,43.075892,-88.372142,43.153403",
     "geom:latitude":43.110051,
     "geom:longitude":-88.403434,
@@ -14,20 +14,22 @@
     "lbl:latitude":43.112262,
     "lbl:longitude":-88.411475,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Nashotah",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404495651,
         85633793,
-        102081741
+        102081741,
+        404495651,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12780798"
     },
     "wof:country":"US",
-    "wof:geomhash":"6765159e0a0cbe503a2dcf167e7f6a92",
+    "wof:geomhash":"44b736e0b5a9f1bcc0810489bcdba005",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554727531,
-    "wof:lastmodified":1480832498,
+    "wof:lastmodified":1611185517,
     "wof:name":"53058",
     "wof:parent_id":404495651,
     "wof:placetype":"postalcode",

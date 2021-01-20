@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023432,
-    "geom:area_square_m":217921041.43117,
+    "geom:area_square_m":217921041.431543,
     "geom:bbox":"-75.665619,41.130343,-75.372235,41.322744",
     "geom:latitude":41.225113,
     "geom:longitude":-75.515982,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.230478,
     "lbl:longitude":-75.524965,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Gouldsboro",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404486873,
         85633793,
-        102081345
+        102081345,
+        404486873,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765182"
     },
     "wof:country":"US",
-    "wof:geomhash":"d9753c9c48824b5a04b59f99d8f9a123",
+    "wof:geomhash":"a476f09b2cd0c28832679695822b56a3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554705797,
-    "wof:lastmodified":1480906474,
+    "wof:lastmodified":1611184090,
     "wof:name":"18424",
     "wof:parent_id":404486873,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026448,
-    "geom:area_square_m":275323089.861336,
+    "geom:area_square_m":275323089.861482,
     "geom:bbox":"-116.567811,32.584052,-116.341002,32.760268",
     "geom:latitude":32.659435,
     "geom:longitude":-116.460598,
@@ -14,20 +14,22 @@
     "lbl:latitude":32.654821,
     "lbl:longitude":-116.465541,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Campo",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102083569,
         85925195,
-        102083569
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796158"
     },
     "wof:country":"US",
-    "wof:geomhash":"8f7da3893905f764f598ebb9921f2f21",
+    "wof:geomhash":"ff47eabe2b6a04b5de2897c5fa865311",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554752135,
-    "wof:lastmodified":1480938435,
+    "wof:lastmodified":1611182512,
     "wof:name":"91906",
     "wof:parent_id":85925195,
     "wof:placetype":"postalcode",

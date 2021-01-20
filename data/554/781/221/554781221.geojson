@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031009,
-    "geom:area_square_m":334427008.694821,
+    "geom:area_square_m":334427008.69483,
     "geom:bbox":"-81.278868,29.14732,-81.039777,29.421485",
     "geom:latitude":29.285464,
     "geom:longitude":-81.163457,
@@ -13,19 +13,25 @@
     "lbl:latitude":29.284784,
     "lbl:longitude":-81.161348,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ormond Beach",
+    "mz:postal_locality_alt":[
+        "Daytona Beach",
+        "Palm Coast"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688651,
-        102085833
+        102085833,
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12771551"
     },
     "wof:country":"US",
-    "wof:geomhash":"eeeb792eb64ed37ef7e0a9cc106c3a5f",
+    "wof:geomhash":"270ef8ad558f826b5ceec318b9a736b4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +42,7 @@
         }
     ],
     "wof:id":554781221,
-    "wof:lastmodified":1480809125,
+    "wof:lastmodified":1611184813,
     "wof:name":"32174",
     "wof:parent_id":102085833,
     "wof:placetype":"postalcode",

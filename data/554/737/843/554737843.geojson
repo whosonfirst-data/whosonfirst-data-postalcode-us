@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024145,
-    "geom:area_square_m":234956455.539551,
+    "geom:area_square_m":234956455.539561,
     "geom:bbox":"-95.077887,38.022529,-94.841939,38.182854",
     "geom:latitude":38.095333,
     "geom:longitude":-94.986107,
@@ -14,20 +14,22 @@
     "lbl:latitude":38.088217,
     "lbl:longitude":-94.97917,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Blue Mound",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404504543,
         85633793,
-        102083431
+        102083431,
+        404504543,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786704"
     },
     "wof:country":"US",
-    "wof:geomhash":"952db50a42c4a2a26efe2b1eb38cd37c",
+    "wof:geomhash":"2e8ff806362380ac4d5a706e60e82a71",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554737843,
-    "wof:lastmodified":1480843105,
+    "wof:lastmodified":1611182834,
     "wof:name":"66010",
     "wof:parent_id":404504543,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041334,
-    "geom:area_square_m":360579817.027245,
+    "geom:area_square_m":360579817.02708,
     "geom:bbox":"-85.223679,45.011806,-84.94255,45.286299",
     "geom:latitude":45.130638,
     "geom:longitude":-85.10348,
@@ -14,20 +14,26 @@
     "lbl:latitude":45.125273,
     "lbl:longitude":-85.105817,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"East Jordan",
+    "mz:postal_locality_alt":[
+        "Mackinac Island",
+        "Alanson"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404507017,
         85633793,
-        102083739
+        102083739,
+        404507017,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779511"
     },
     "wof:country":"US",
-    "wof:geomhash":"bae2accdba5cc7e613458c20576cc404",
+    "wof:geomhash":"0b3b4c57149e5018231f8933d7a64a04",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554725257,
-    "wof:lastmodified":1480838774,
+    "wof:lastmodified":1611183261,
     "wof:name":"49727",
     "wof:parent_id":404507017,
     "wof:placetype":"postalcode",

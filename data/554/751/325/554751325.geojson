@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.135703,
-    "geom:area_square_m":1382896094.662668,
+    "geom:area_square_m":1382896094.661967,
     "geom:bbox":"-103.496086,34.302673,-103.073441,34.727393",
     "geom:latitude":34.498741,
     "geom:longitude":-103.283748,
@@ -14,19 +14,26 @@
     "lbl:latitude":34.499384,
     "lbl:longitude":-103.275272,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Clovis",
+    "mz:postal_locality_alt":[
+        "Cannon Afb",
+        "Texico",
+        "Dora"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688493,
-        102081179
+        102081179,
+        85688493
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795207"
     },
     "wof:country":"US",
-    "wof:geomhash":"10244a248a0553e3d69f01393c452b86",
+    "wof:geomhash":"77a56dcd9204a23a0f4ad472789c0dcc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +44,7 @@
         }
     ],
     "wof:id":554751325,
-    "wof:lastmodified":1480832277,
+    "wof:lastmodified":1611184344,
     "wof:name":"88101",
     "wof:parent_id":102081179,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007222,
-    "geom:area_square_m":67261129.977748,
+    "geom:area_square_m":67261129.977743,
     "geom:bbox":"-73.38877,41.057697,-73.296127,41.194539",
     "geom:latitude":41.133716,
     "geom:longitude":-73.349534,
@@ -13,21 +13,27 @@
     "lbl:latitude":41.133275,
     "lbl:longitude":-73.348699,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Westport",
+    "mz:postal_locality_alt":[
+        "Old Greenwich",
+        "Greenwich"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688629,
         102191575,
-        404495861,
         85633793,
+        102084283,
+        404495861,
         85930969,
-        102084283
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760574"
     },
     "wof:country":"US",
-    "wof:geomhash":"ebd1c4d85eaf9db04ee33b696817a41d",
+    "wof:geomhash":"ed33524628381b78b0fb640a91376662",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +46,7 @@
         }
     ],
     "wof:id":554779073,
-    "wof:lastmodified":1480799395,
+    "wof:lastmodified":1611183980,
     "wof:name":"06880",
     "wof:parent_id":85930969,
     "wof:placetype":"postalcode",

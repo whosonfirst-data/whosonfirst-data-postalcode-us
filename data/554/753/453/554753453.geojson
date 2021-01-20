@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.077214,
-    "geom:area_square_m":747886918.885242,
+    "geom:area_square_m":747886918.88588,
     "geom:bbox":"-120.45085,38.192603,-119.627908,38.580113",
     "geom:latitude":38.434186,
     "geom:longitude":-119.974488,
@@ -14,19 +14,27 @@
     "lbl:latitude":38.433968,
     "lbl:longitude":-119.968435,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Arnold",
+    "mz:postal_locality_alt":[
+        "Bear Valley",
+        "San Andreas",
+        "Camp Connell",
+        "Avery"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688637,
-        102084351
+        102084351,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12797635"
     },
     "wof:country":"US",
-    "wof:geomhash":"96075d1c57f610753570297baa48a8c6",
+    "wof:geomhash":"d92fa54e2902d6ea0cfe0467a3210f61",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +45,7 @@
         }
     ],
     "wof:id":554753453,
-    "wof:lastmodified":1480908576,
+    "wof:lastmodified":1611182942,
     "wof:name":"95223",
     "wof:parent_id":102084351,
     "wof:placetype":"postalcode",

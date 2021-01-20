@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013005,
-    "geom:area_square_m":119562616.564424,
+    "geom:area_square_m":119562616.564383,
     "geom:bbox":"-77.324618,41.923966,-76.953121,42.001376",
     "geom:latitude":41.970839,
     "geom:longitude":-77.148755,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.963406,
     "lbl:longitude":-77.134908,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lawrenceville",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404487443,
         85633793,
-        102080937
+        102080937,
+        404487443,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764528"
     },
     "wof:country":"US",
-    "wof:geomhash":"7d9f64cbba6866b730e9a170e99a8e59",
+    "wof:geomhash":"fcd6386721757a95634989c2045fadd3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554704825,
-    "wof:lastmodified":1480904322,
+    "wof:lastmodified":1611184514,
     "wof:name":"16929",
     "wof:parent_id":404487443,
     "wof:placetype":"postalcode",

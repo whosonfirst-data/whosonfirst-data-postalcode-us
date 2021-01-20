@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001051,
-    "geom:area_square_m":9969846.694223,
+    "geom:area_square_m":9969846.694245,
     "geom:bbox":"-75.390069,39.870216,-75.350413,39.912831",
     "geom:latitude":39.890633,
     "geom:longitude":-75.370032,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.890631,
     "lbl:longitude":-75.370032,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wallingford",
+    "mz:postal_locality_alt":[
+        "Rose Valley"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404486563,
         85633793,
-        102080913
+        102080913,
+        404486563,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765477"
     },
     "wof:country":"US",
-    "wof:geomhash":"063ba185d593ade251f682c125d61359",
+    "wof:geomhash":"ed3a3e625ddfab75f58291718edbbb7e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554706255,
-    "wof:lastmodified":1480906382,
+    "wof:lastmodified":1611182713,
     "wof:name":"19086",
     "wof:parent_id":404486563,
     "wof:placetype":"postalcode",

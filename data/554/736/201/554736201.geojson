@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020139,
-    "geom:area_square_m":197103410.707318,
+    "geom:area_square_m":197103410.707197,
     "geom:bbox":"-89.723547,37.586867,-89.512009,37.753703",
     "geom:latitude":37.672681,
     "geom:longitude":-89.622233,
@@ -14,20 +14,25 @@
     "lbl:latitude":37.668926,
     "lbl:longitude":-89.626315,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Frohna",
+    "mz:postal_locality_alt":[
+        "Altenburg"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404517361,
         85633793,
-        102087515
+        102087515,
+        404517361,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785837"
     },
     "wof:country":"US",
-    "wof:geomhash":"ab7f8cd82c41c553850beabe4e2f1ced",
+    "wof:geomhash":"3ec5e4056338e176a41f08a265193eea",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554736201,
-    "wof:lastmodified":1480915745,
+    "wof:lastmodified":1611183048,
     "wof:name":"63748",
     "wof:parent_id":404517361,
     "wof:placetype":"postalcode",

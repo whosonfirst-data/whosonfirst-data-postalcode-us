@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028892,
-    "geom:area_square_m":283551489.746747,
+    "geom:area_square_m":283551489.746723,
     "geom:bbox":"-95.597264,37.368862,-95.378762,37.573313",
     "geom:latitude":37.469089,
     "geom:longitude":-95.4874,
@@ -14,20 +14,22 @@
     "lbl:latitude":37.462882,
     "lbl:longitude":-95.489391,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Thayer",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404505475,
         85633793,
-        102084157
+        102084157,
+        404505475,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786988"
     },
     "wof:country":"US",
-    "wof:geomhash":"58cb5a3fcd402f1654db2381d119cd1d",
+    "wof:geomhash":"871d45a2ac12f38534225455e2189ba5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554738375,
-    "wof:lastmodified":1480836172,
+    "wof:lastmodified":1611183128,
     "wof:name":"66776",
     "wof:parent_id":404505475,
     "wof:placetype":"postalcode",

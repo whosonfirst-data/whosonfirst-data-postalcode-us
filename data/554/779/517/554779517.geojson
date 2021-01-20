@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000218,
-    "geom:area_square_m":2042465.196694,
+    "geom:area_square_m":2042465.196692,
     "geom:bbox":"-73.937858,40.763574,-73.91431,40.782635",
     "geom:latitude":40.772498,
     "geom:longitude":-73.925928,
@@ -14,21 +14,28 @@
     "lbl:latitude":40.772884,
     "lbl:longitude":-73.926295,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Astoria",
+    "mz:postal_locality_alt":[
+        "Queens",
+        "Long Island City",
+        "New York"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404521211,
         85633793,
+        102082361,
+        404521211,
         85977539,
-        102082361
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761712"
     },
     "wof:country":"US",
-    "wof:geomhash":"c61b57ce15ebbcc398a6b135c5f1fba9",
+    "wof:geomhash":"957c81ae682565caebf68ad3eeab6dd4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +48,7 @@
         }
     ],
     "wof:id":554779517,
-    "wof:lastmodified":1480831339,
+    "wof:lastmodified":1611183973,
     "wof:name":"11102",
     "wof:parent_id":85977539,
     "wof:placetype":"postalcode",

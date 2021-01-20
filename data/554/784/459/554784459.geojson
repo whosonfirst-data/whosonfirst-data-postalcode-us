@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002223,
-    "geom:area_square_m":22942099.655658,
+    "geom:area_square_m":22942099.65569,
     "geom:bbox":"-117.660018,33.383629,-117.580659,33.45903",
     "geom:latitude":33.427581,
     "geom:longitude":-117.609737,
@@ -13,20 +13,25 @@
     "lbl:latitude":33.42411,
     "lbl:longitude":-117.606775,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"San Clemente",
+    "mz:postal_locality_alt":[
+        "Costa Mesa"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102080847,
         85923057,
-        102080847
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796588"
     },
     "wof:country":"US",
-    "wof:geomhash":"ba71de7ba5b4509f45e34b175418b8c4",
+    "wof:geomhash":"220bd6f3fb18a718f0875c1dc9932177",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554784459,
-    "wof:lastmodified":1480906256,
+    "wof:lastmodified":1611183956,
     "wof:name":"92672",
     "wof:parent_id":85923057,
     "wof:placetype":"postalcode",

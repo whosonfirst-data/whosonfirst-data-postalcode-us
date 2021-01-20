@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007058,
-    "geom:area_square_m":66943737.386907,
+    "geom:area_square_m":66943737.386822,
     "geom:bbox":"-76.083331,39.845393,-75.980963,39.966724",
     "geom:latitude":39.909668,
     "geom:longitude":-76.030085,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.912055,
     "lbl:longitude":-76.036499,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Christiana",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404483375,
         85633793,
-        102081377
+        102081377,
+        404483375,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764790"
     },
     "wof:country":"US",
-    "wof:geomhash":"025dca0afc20f1ede916589fd43d75af",
+    "wof:geomhash":"1b6597eb4538cda43fa5f61c9484b852",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554705231,
-    "wof:lastmodified":1480817409,
+    "wof:lastmodified":1611184120,
     "wof:name":"17509",
     "wof:parent_id":404483375,
     "wof:placetype":"postalcode",

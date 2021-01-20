@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008105,
-    "geom:area_square_m":76572074.658791,
+    "geom:area_square_m":76572074.658832,
     "geom:bbox":"-83.170874,40.117042,-83.019836,40.23667",
     "geom:latitude":40.177612,
     "geom:longitude":-83.093626,
@@ -14,21 +14,26 @@
     "lbl:latitude":40.17754,
     "lbl:longitude":-83.094187,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Powell",
+    "mz:postal_locality_alt":[
+        "Dublin"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404524523,
         85633793,
+        102084739,
+        404524523,
         101713487,
-        102084739
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776125"
     },
     "wof:country":"US",
-    "wof:geomhash":"3fee46570bf5f6e8e3c56727cd9d7bb3",
+    "wof:geomhash":"53a5c7c63e46af5cd045371ad3c11d95",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554720277,
-    "wof:lastmodified":1480903870,
+    "wof:lastmodified":1611185474,
     "wof:name":"43065",
     "wof:parent_id":101713487,
     "wof:placetype":"postalcode",

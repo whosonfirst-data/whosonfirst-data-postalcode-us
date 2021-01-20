@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046508,
-    "geom:area_square_m":431272155.777034,
+    "geom:area_square_m":431272155.777084,
     "geom:bbox":"-95.155316,41.258876,-94.853865,41.562872",
     "geom:latitude":41.415998,
     "geom:longitude":-95.001725,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.414374,
     "lbl:longitude":-94.996402,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Atlantic",
+    "mz:postal_locality_alt":[
+        "Adair"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688713,
         102191575,
         85633793,
+        102086611,
         85944075,
-        102086611
+        85688713
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779698"
     },
     "wof:country":"US",
-    "wof:geomhash":"0650923e044b71ce451e445a7c715ba5",
+    "wof:geomhash":"f3af09c3587498014c88331cae2f4862",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554725435,
-    "wof:lastmodified":1480915780,
+    "wof:lastmodified":1611183284,
     "wof:name":"50022",
     "wof:parent_id":85944075,
     "wof:placetype":"postalcode",

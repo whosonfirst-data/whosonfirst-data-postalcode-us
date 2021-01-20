@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008949,
-    "geom:area_square_m":89679297.65752,
+    "geom:area_square_m":89679297.657497,
     "geom:bbox":"-84.195349,35.793806,-84.006276,35.918204",
     "geom:latitude":35.861553,
     "geom:longitude":-84.100359,
@@ -13,19 +13,24 @@
     "lbl:latitude":35.860496,
     "lbl:longitude":-84.100535,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Knoxville",
+    "mz:postal_locality_alt":[
+        "Concord Farragut"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688701,
-        102086455
+        102086455,
+        85688701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12774207"
     },
     "wof:country":"US",
-    "wof:geomhash":"b57eb62d880beb7f93156d96ca0373c4",
+    "wof:geomhash":"bd1ac9c34f16d49cf6fcc16a0f6f0139",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +41,7 @@
         }
     ],
     "wof:id":554717203,
-    "wof:lastmodified":1480912104,
+    "wof:lastmodified":1611185000,
     "wof:name":"37922",
     "wof:parent_id":102086455,
     "wof:placetype":"postalcode",

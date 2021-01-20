@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018375,
-    "geom:area_square_m":180765186.47982,
+    "geom:area_square_m":180765186.479838,
     "geom:bbox":"-76.586197,37.233316,-76.3045,37.356853",
     "geom:latitude":37.290588,
     "geom:longitude":-76.448173,
@@ -14,19 +14,26 @@
     "lbl:latitude":37.290444,
     "lbl:longitude":-76.44779,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hayes",
+    "mz:postal_locality_alt":[
+        "Gloucester",
+        "Bena",
+        "White Marsh"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688747,
-        102081417
+        102081417,
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12767185"
     },
     "wof:country":"US",
-    "wof:geomhash":"727d0bfb3d0bbfbf1ca56d9f69416bab",
+    "wof:geomhash":"d9f6044574297605453cf3e946b4266b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +44,7 @@
         }
     ],
     "wof:id":554780719,
-    "wof:lastmodified":1480910513,
+    "wof:lastmodified":1611185192,
     "wof:name":"23072",
     "wof:parent_id":102081417,
     "wof:placetype":"postalcode",

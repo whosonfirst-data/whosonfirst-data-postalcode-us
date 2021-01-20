@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004425,
-    "geom:area_square_m":42671080.898816,
+    "geom:area_square_m":42671080.898803,
     "geom:bbox":"-90.802504,38.71182,-90.682432,38.781452",
     "geom:latitude":38.751294,
     "geom:longitude":-90.72963,
@@ -13,21 +13,26 @@
     "lbl:latitude":38.751294,
     "lbl:longitude":-90.729628,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"O Fallon",
+    "mz:postal_locality_alt":[
+        "Saint Charles"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404518123,
         85633793,
+        102086159,
+        404518123,
         85972025,
-        102086159
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26814757"
     },
     "wof:country":"US",
-    "wof:geomhash":"4406998a9a4732f8db35517e568f4b76",
+    "wof:geomhash":"859eab5faf12d5f79dae9f2636e12fa3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554756851,
-    "wof:lastmodified":1480910510,
+    "wof:lastmodified":1611184282,
     "wof:name":"63368",
     "wof:parent_id":85972025,
     "wof:placetype":"postalcode",

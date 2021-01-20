@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000965,
-    "geom:area_square_m":8443901.995617,
+    "geom:area_square_m":8443901.995603,
     "geom:bbox":"-93.314209,44.915234,-93.26772,44.957634",
     "geom:latitude":44.939931,
     "geom:longitude":-93.292064,
@@ -13,21 +13,23 @@
     "lbl:latitude":44.940424,
     "lbl:longitude":-93.292639,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Minneapolis",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404511883,
         85633793,
+        102087709,
+        404511883,
         85969169,
-        102087709
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781889"
     },
     "wof:country":"US",
-    "wof:geomhash":"e0071dab8f87bf5c848a9c7599c140d8",
+    "wof:geomhash":"240492b3d104257ec428dfc5db205eaa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +42,7 @@
         }
     ],
     "wof:id":554729321,
-    "wof:lastmodified":1480789096,
+    "wof:lastmodified":1611185444,
     "wof:name":"55408",
     "wof:parent_id":85969169,
     "wof:placetype":"postalcode",

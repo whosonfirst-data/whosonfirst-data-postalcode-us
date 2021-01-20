@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017043,
-    "geom:area_square_m":144697745.711929,
+    "geom:area_square_m":144697745.711876,
     "geom:bbox":"-97.892125,46.530834,-97.75716,46.731615",
     "geom:latitude":46.636012,
     "geom:longitude":-97.828408,
@@ -14,20 +14,22 @@
     "lbl:latitude":46.637435,
     "lbl:longitude":-97.818823,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Nome",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688525,
         102191575,
-        404480111,
         85633793,
-        102082051
+        102082051,
+        404480111,
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12783153"
     },
     "wof:country":"US",
-    "wof:geomhash":"7ec93fefaab213348b6a9a33923f2531",
+    "wof:geomhash":"a9e173941ecf77952b46db35c813efdd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554731671,
-    "wof:lastmodified":1480818313,
+    "wof:lastmodified":1611183079,
     "wof:name":"58062",
     "wof:parent_id":404480111,
     "wof:placetype":"postalcode",

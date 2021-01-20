@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00383,
-    "geom:area_square_m":38725993.408001,
+    "geom:area_square_m":38725993.408024,
     "geom:bbox":"-106.689882,35.105162,-106.599679,35.182759",
     "geom:latitude":35.137358,
     "geom:longitude":-106.643047,
@@ -13,20 +13,22 @@
     "lbl:latitude":35.1378,
     "lbl:longitude":-106.642543,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Albuquerque",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688493,
         102191575,
         85633793,
+        102081199,
         85976715,
-        102081199
+        85688493
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12794955"
     },
     "wof:country":"US",
-    "wof:geomhash":"2286fb6ab144e4d78ef4b1c5555808f6",
+    "wof:geomhash":"31b1635d25abfa6314822797f7e0e9b2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +40,7 @@
         }
     ],
     "wof:id":554751021,
-    "wof:lastmodified":1480833427,
+    "wof:lastmodified":1611184353,
     "wof:name":"87107",
     "wof:parent_id":85976715,
     "wof:placetype":"postalcode",

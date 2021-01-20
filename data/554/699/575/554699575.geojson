@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003685,
-    "geom:area_square_m":34151817.814218,
+    "geom:area_square_m":34151817.814199,
     "geom:bbox":"-72.546477,41.423724,-72.450983,41.499162",
     "geom:latitude":41.457098,
     "geom:longitude":-72.50355,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.455264,
     "lbl:longitude":-72.504397,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Haddam",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688629,
         102191575,
-        404496069,
         85633793,
-        102086211
+        102086211,
+        404496069,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760401"
     },
     "wof:country":"US",
-    "wof:geomhash":"8da6b19941a62e93372f6330ef2aa370",
+    "wof:geomhash":"bdcaaab8aae89609eb9b909f35ab0b74",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554699575,
-    "wof:lastmodified":1480908720,
+    "wof:lastmodified":1611184614,
     "wof:name":"06438",
     "wof:parent_id":404496069,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027581,
-    "geom:area_square_m":278065623.315938,
+    "geom:area_square_m":278065623.315985,
     "geom:bbox":"-79.287121,35.266574,-79.001847,35.468548",
     "geom:latitude":35.379299,
     "geom:longitude":-79.136019,
@@ -13,19 +13,24 @@
     "lbl:latitude":35.384704,
     "lbl:longitude":-79.137215,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Sanford",
+    "mz:postal_locality_alt":[
+        "Siler City"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688773,
-        102087817
+        102087817,
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"23424583"
     },
     "wof:country":"US",
-    "wof:geomhash":"43840292a2e862e4ceb0b242c9b1b4dd",
+    "wof:geomhash":"3ff1683b1a514a1cd6321f7b4f4c23d0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +41,7 @@
         }
     ],
     "wof:id":554756501,
-    "wof:lastmodified":1480788124,
+    "wof:lastmodified":1611184291,
     "wof:name":"27332",
     "wof:parent_id":102087817,
     "wof:placetype":"postalcode",

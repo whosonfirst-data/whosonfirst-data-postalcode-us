@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007835,
-    "geom:area_square_m":77899189.358258,
+    "geom:area_square_m":77899189.358176,
     "geom:bbox":"-86.734928,36.414768,-86.608315,36.548554",
     "geom:latitude":36.48028,
     "geom:longitude":-86.681331,
@@ -14,20 +14,25 @@
     "lbl:latitude":36.480269,
     "lbl:longitude":-86.681321,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"White House",
+    "mz:postal_locality_alt":[
+        "Murfreesboro"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688701,
         102191575,
         85633793,
+        102086381,
         101722987,
-        102086381
+        85688701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12773872"
     },
     "wof:country":"US",
-    "wof:geomhash":"cf3315ad31b69322e7e36480d0ec9bbc",
+    "wof:geomhash":"d054f291b386c766e1f0684732f55556",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554716627,
-    "wof:lastmodified":1480917082,
+    "wof:lastmodified":1611185362,
     "wof:name":"37188",
     "wof:parent_id":101722987,
     "wof:placetype":"postalcode",

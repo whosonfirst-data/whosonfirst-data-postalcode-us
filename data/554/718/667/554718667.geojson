@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.047896,
-    "geom:area_square_m":465311438.409507,
+    "geom:area_square_m":465311438.409413,
     "geom:bbox":"-85.336125,38.085747,-85.018489,38.34341",
     "geom:latitude":38.216514,
     "geom:longitude":-85.206844,
@@ -13,20 +13,27 @@
     "lbl:latitude":38.2165,
     "lbl:longitude":-85.206928,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Shelbyville",
+    "mz:postal_locality_alt":[
+        "Bardstown",
+        "Taylorsville",
+        "Bagdad"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688641,
         102191575,
         85633793,
+        102085555,
         85947185,
-        102085555
+        85688641
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12775117"
     },
     "wof:country":"US",
-    "wof:geomhash":"42bd9853d6207c01333be1314dc45f9c",
+    "wof:geomhash":"20c5d364cf24e589e74712f15aadaca4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +45,7 @@
         }
     ],
     "wof:id":554718667,
-    "wof:lastmodified":1480814453,
+    "wof:lastmodified":1611185555,
     "wof:name":"40065",
     "wof:parent_id":85947185,
     "wof:placetype":"postalcode",

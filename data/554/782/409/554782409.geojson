@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004446,
-    "geom:area_square_m":41203765.016805,
+    "geom:area_square_m":41203765.016804,
     "geom:bbox":"-81.970263,41.411045,-81.873653,41.478017",
     "geom:latitude":41.452426,
     "geom:longitude":-81.929476,
@@ -14,21 +14,26 @@
     "lbl:latitude":41.449531,
     "lbl:longitude":-81.930162,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cleveland",
+    "mz:postal_locality_alt":[
+        "Westlake"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404524471,
         85633793,
+        102084837,
+        404524471,
         101712567,
-        102084837
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776671"
     },
     "wof:country":"US",
-    "wof:geomhash":"dd193b176800ce33a0c9727e9ba044ea",
+    "wof:geomhash":"867d2255a2519ce141136e8ef9ff3f9d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554782409,
-    "wof:lastmodified":1480835324,
+    "wof:lastmodified":1611183611,
     "wof:name":"44145",
     "wof:parent_id":101712567,
     "wof:placetype":"postalcode",

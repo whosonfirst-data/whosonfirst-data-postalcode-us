@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003388,
-    "geom:area_square_m":31319147.453307,
+    "geom:area_square_m":31319147.453314,
     "geom:bbox":"-72.715924,41.573018,-72.617456,41.640199",
     "geom:latitude":41.614104,
     "geom:longitude":-72.664203,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.616657,
     "lbl:longitude":-72.661586,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cromwell",
+    "mz:postal_locality_alt":[
+        "Fairfield"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688629,
         102191575,
-        404496059,
         85633793,
-        102086211
+        102086211,
+        404496059,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760387"
     },
     "wof:country":"US",
-    "wof:geomhash":"c80776fc7cd5394ea3c8a4b1ea247b75",
+    "wof:geomhash":"95a70055a79074365bbde3b668c44fc1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554699553,
-    "wof:lastmodified":1480908719,
+    "wof:lastmodified":1611184621,
     "wof:name":"06416",
     "wof:parent_id":404496059,
     "wof:placetype":"postalcode",

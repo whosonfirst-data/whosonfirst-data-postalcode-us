@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019082,
-    "geom:area_square_m":196121574.136392,
+    "geom:area_square_m":196121574.136285,
     "geom:bbox":"-85.086528,33.657709,-84.896841,33.883155",
     "geom:latitude":33.779153,
     "geom:longitude":-85.015648,
@@ -14,19 +14,25 @@
     "lbl:latitude":33.779335,
     "lbl:longitude":-85.013502,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Temple",
+    "mz:postal_locality_alt":[
+        "Dallas",
+        "Woodstock"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688535,
-        102081719
+        102081719,
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770641"
     },
     "wof:country":"US",
-    "wof:geomhash":"71552179dc4878a3d0978528cb4fa9e3",
+    "wof:geomhash":"0b12b6c10b4759ca5167136cc5b7132b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554712891,
-    "wof:lastmodified":1480832655,
+    "wof:lastmodified":1611183730,
     "wof:name":"30179",
     "wof:parent_id":102081719,
     "wof:placetype":"postalcode",

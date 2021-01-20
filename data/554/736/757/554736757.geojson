@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025285,
-    "geom:area_square_m":240436588.008533,
+    "geom:area_square_m":240436588.008539,
     "geom:bbox":"-94.646807,39.645204,-94.422704,39.849902",
     "geom:latitude":39.735322,
     "geom:longitude":-94.516028,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.731215,
     "lbl:longitude":-94.514713,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Stewartsville",
+    "mz:postal_locality_alt":[
+        "Osborn"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404516733,
         85633793,
-        102085345
+        102085345,
+        404516733,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786151"
     },
     "wof:country":"US",
-    "wof:geomhash":"6b1f56e28e14de50b2321cadbbbecef8",
+    "wof:geomhash":"af82255f7c82bbc36b21deec09098c54",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554736757,
-    "wof:lastmodified":1480910353,
+    "wof:lastmodified":1611183040,
     "wof:name":"64490",
     "wof:parent_id":404516733,
     "wof:placetype":"postalcode",

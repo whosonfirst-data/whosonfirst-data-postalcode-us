@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00342,
-    "geom:area_square_m":36674309.7159,
+    "geom:area_square_m":36674309.715905,
     "geom:bbox":"-95.584973,29.834805,-95.486772,29.902712",
     "geom:latitude":29.874422,
     "geom:longitude":-95.527825,
@@ -13,19 +13,24 @@
     "lbl:latitude":29.874575,
     "lbl:longitude":-95.527099,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Houston",
+    "mz:postal_locality_alt":[
+        "Jersey Village"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688753,
-        102081111
+        102081111,
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12791361"
     },
     "wof:country":"US",
-    "wof:geomhash":"031001c3048564b758f03a7cc14c9b00",
+    "wof:geomhash":"2116e201e5e9a011b639adff71f5aeb6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +41,7 @@
         }
     ],
     "wof:id":554745907,
-    "wof:lastmodified":1480833206,
+    "wof:lastmodified":1611185253,
     "wof:name":"77040",
     "wof:parent_id":102081111,
     "wof:placetype":"postalcode",

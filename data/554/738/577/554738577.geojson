@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.050016,
-    "geom:area_square_m":493412237.606775,
+    "geom:area_square_m":493412237.606692,
     "geom:bbox":"-97.802437,36.998546,-97.455647,37.198867",
     "geom:latitude":37.078326,
     "geom:longitude":-97.635247,
@@ -14,20 +14,22 @@
     "lbl:latitude":37.076932,
     "lbl:longitude":-97.626852,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Caldwell",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404505219,
         85633793,
-        102085325
+        102085325,
+        404505219,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787081"
     },
     "wof:country":"US",
-    "wof:geomhash":"72468c4edc1058c1c958d6297480fdce",
+    "wof:geomhash":"1d6d73fe9edfc5c80a5061119389fcd5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554738577,
-    "wof:lastmodified":1480809769,
+    "wof:lastmodified":1611183127,
     "wof:name":"67022",
     "wof:parent_id":404505219,
     "wof:placetype":"postalcode",

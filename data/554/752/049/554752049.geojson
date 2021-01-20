@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001767,
-    "geom:area_square_m":18106646.570766,
+    "geom:area_square_m":18106646.570761,
     "geom:bbox":"-118.083622,34.018415,-118.02153,34.07105",
     "geom:latitude":34.045548,
     "geom:longitude":-118.053141,
@@ -14,20 +14,26 @@
     "lbl:latitude":34.046243,
     "lbl:longitude":-118.053748,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"South El Monte",
+    "mz:postal_locality_alt":[
+        "El Monte",
+        "S El Monte"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086957,
         85923805,
-        102086957
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796098"
     },
     "wof:country":"US",
-    "wof:geomhash":"091538c50b9ac6cfe251531be9a7f06f",
+    "wof:geomhash":"066350399d36595db191d7b0d48e5984",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554752049,
-    "wof:lastmodified":1480912608,
+    "wof:lastmodified":1611182522,
     "wof:name":"91733",
     "wof:parent_id":85923805,
     "wof:placetype":"postalcode",

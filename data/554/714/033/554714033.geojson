@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016312,
-    "geom:area_square_m":171695373.330667,
+    "geom:area_square_m":171695373.330664,
     "geom:bbox":"-83.679851,31.594205,-83.463264,31.721679",
     "geom:latitude":31.651632,
     "geom:longitude":-83.569021,
@@ -14,19 +14,25 @@
     "lbl:latitude":31.652476,
     "lbl:longitude":-83.577967,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Sycamore",
+    "mz:postal_locality_alt":[
+        "Blakely",
+        "Cuthbert"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688535,
-        102083583
+        102083583,
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12771397"
     },
     "wof:country":"US",
-    "wof:geomhash":"5266c899d61d8eac2e7284e4d6058d18",
+    "wof:geomhash":"40fe70efd0027fe204f61cd43575b8a1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554714033,
-    "wof:lastmodified":1480834971,
+    "wof:lastmodified":1611183377,
     "wof:name":"31790",
     "wof:parent_id":102083583,
     "wof:placetype":"postalcode",

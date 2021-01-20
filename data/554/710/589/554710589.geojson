@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045832,
-    "geom:area_square_m":463004395.679573,
+    "geom:area_square_m":463004395.679903,
     "geom:bbox":"-80.098411,35.085291,-79.846691,35.356598",
     "geom:latitude":35.215366,
     "geom:longitude":-79.97525,
@@ -14,19 +14,24 @@
     "lbl:latitude":35.225229,
     "lbl:longitude":-79.980186,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mt Gilead",
+    "mz:postal_locality_alt":[
+        "Mount Gilead"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688773,
-        102080893
+        102080893,
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12769000"
     },
     "wof:country":"US",
-    "wof:geomhash":"c3b0bf2c9b4c2e85360d9930d4454d39",
+    "wof:geomhash":"570341e0ea2ecf2599452a2078576625",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554710589,
-    "wof:lastmodified":1480903690,
+    "wof:lastmodified":1611185118,
     "wof:name":"27306",
     "wof:parent_id":102080893,
     "wof:placetype":"postalcode",

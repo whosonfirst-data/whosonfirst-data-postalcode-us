@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001678,
-    "geom:area_square_m":15864173.053169,
+    "geom:area_square_m":15864173.053171,
     "geom:bbox":"-75.365732,40.105189,-75.298153,40.158473",
     "geom:latitude":40.130328,
     "geom:longitude":-75.331342,
@@ -13,21 +13,30 @@
     "lbl:latitude":40.13018,
     "lbl:longitude":-75.331629,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Norristown",
+    "mz:postal_locality_alt":[
+        "East Norriton",
+        "Plymouth Meeting",
+        "Mont Clare",
+        "Conshohocken",
+        "Blue Bell"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485585,
         85633793,
+        102081355,
+        404485585,
         101717423,
-        102081355
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765619"
     },
     "wof:country":"US",
-    "wof:geomhash":"0f586e5a3d4226cda7a016a23baa6d0b",
+    "wof:geomhash":"8e4c95e5ef6b2a69f4fb3ea20766ccef",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +49,7 @@
         }
     ],
     "wof:id":554706435,
-    "wof:lastmodified":1480818599,
+    "wof:lastmodified":1611182713,
     "wof:name":"19401",
     "wof:parent_id":101717423,
     "wof:placetype":"postalcode",

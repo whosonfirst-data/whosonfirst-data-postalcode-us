@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033633,
-    "geom:area_square_m":323010734.664756,
+    "geom:area_square_m":323010734.664605,
     "geom:bbox":"-101.184561,38.945745,-100.960349,39.133822",
     "geom:latitude":39.042032,
     "geom:longitude":-101.065061,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.04201,
     "lbl:longitude":-101.065079,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Monument",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404504567,
         85633793,
-        102082177
+        102082177,
+        404504567,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787408"
     },
     "wof:country":"US",
-    "wof:geomhash":"9ff51295b38784a5b03e158110851fd5",
+    "wof:geomhash":"943e575736bb44c5affc5fd37171b08c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554774747,
-    "wof:lastmodified":1480792630,
+    "wof:lastmodified":1611185198,
     "wof:name":"67747",
     "wof:parent_id":404504567,
     "wof:placetype":"postalcode",

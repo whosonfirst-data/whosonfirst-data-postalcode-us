@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029395,
-    "geom:area_square_m":272060425.061924,
+    "geom:area_square_m":272060425.061913,
     "geom:bbox":"-89.194275,41.454254,-88.964337,41.66331",
     "geom:latitude":41.54058,
     "geom:longitude":-89.090581,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.543677,
     "lbl:longitude":-89.084088,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mendota",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404496587,
         85633793,
-        102081255
+        102081255,
+        404496587,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784570"
     },
     "wof:country":"US",
-    "wof:geomhash":"c4db42241a740c790ecb5033fc7cd581",
+    "wof:geomhash":"d522f5b5b662bdf4b02c1ef616cbdb59",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554733901,
-    "wof:lastmodified":1480833831,
+    "wof:lastmodified":1611184212,
     "wof:name":"61342",
     "wof:parent_id":404496587,
     "wof:placetype":"postalcode",

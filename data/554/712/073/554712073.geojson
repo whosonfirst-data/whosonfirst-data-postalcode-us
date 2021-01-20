@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001661,
-    "geom:area_square_m":17032120.498913,
+    "geom:area_square_m":17032120.498926,
     "geom:bbox":"-81.031106,33.962836,-80.962415,34.010763",
     "geom:latitude":33.990058,
     "geom:longitude":-80.997249,
@@ -13,20 +13,25 @@
     "lbl:latitude":33.990057,
     "lbl:longitude":-80.997249,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Columbia",
+    "mz:postal_locality_alt":[
+        "Irmo"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688683,
         102191575,
         85633793,
+        102085405,
         101720793,
-        102085405
+        85688683
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770066"
     },
     "wof:country":"US",
-    "wof:geomhash":"7aafd09fc209526abdb8318bc137b381",
+    "wof:geomhash":"1fabb375f1810dc11475e33dad768cb8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554712073,
-    "wof:lastmodified":1480806074,
+    "wof:lastmodified":1611183723,
     "wof:name":"29205",
     "wof:parent_id":101720793,
     "wof:placetype":"postalcode",

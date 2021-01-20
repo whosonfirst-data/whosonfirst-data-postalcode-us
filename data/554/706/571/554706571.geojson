@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003087,
-    "geom:area_square_m":29119967.789167,
+    "geom:area_square_m":29119967.78921,
     "geom:bbox":"-76.00256,40.254154,-75.900931,40.322268",
     "geom:latitude":40.291646,
     "geom:longitude":-75.944403,
@@ -13,21 +13,26 @@
     "lbl:latitude":40.291483,
     "lbl:longitude":-75.944791,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Reading",
+    "mz:postal_locality_alt":[
+        "Shillington"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404484581,
         85633793,
+        102080991,
+        404484581,
         101719221,
-        102080991
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765734"
     },
     "wof:country":"US",
-    "wof:geomhash":"7208639cd9a18623e3599b633210714d",
+    "wof:geomhash":"5833e6c6779c17e5c23492f00939b813",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554706571,
-    "wof:lastmodified":1480903402,
+    "wof:lastmodified":1611182714,
     "wof:name":"19607",
     "wof:parent_id":101719221,
     "wof:placetype":"postalcode",

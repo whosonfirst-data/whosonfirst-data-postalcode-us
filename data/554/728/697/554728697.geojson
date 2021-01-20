@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014678,
-    "geom:area_square_m":127453119.979022,
+    "geom:area_square_m":127453119.979032,
     "geom:bbox":"-91.797861,45.321907,-91.554928,45.45808",
     "geom:latitude":45.393744,
     "geom:longitude":-91.696491,
@@ -14,20 +14,22 @@
     "lbl:latitude":45.400937,
     "lbl:longitude":-91.694413,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cameron",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404492871,
         85633793,
-        102081847
+        102081847,
+        404492871,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781540"
     },
     "wof:country":"US",
-    "wof:geomhash":"35e139a38d328abfd9292625d9be805f",
+    "wof:geomhash":"d2e5b1f1712c9a1394e96841289fed19",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554728697,
-    "wof:lastmodified":1480831138,
+    "wof:lastmodified":1611185086,
     "wof:name":"54822",
     "wof:parent_id":404492871,
     "wof:placetype":"postalcode",

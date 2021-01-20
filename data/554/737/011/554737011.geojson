@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024068,
-    "geom:area_square_m":237610480.294514,
+    "geom:area_square_m":237610480.294418,
     "geom:bbox":"-94.618243,36.940394,-94.368415,37.087227",
     "geom:latitude":37.020896,
     "geom:longitude":-94.509933,
@@ -13,20 +13,25 @@
     "lbl:latitude":37.021691,
     "lbl:longitude":-94.510899,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Joplin",
+    "mz:postal_locality_alt":[
+        "Anderson"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404517043,
         85633793,
-        102087471
+        102087471,
+        404517043,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786276"
     },
     "wof:country":"US",
-    "wof:geomhash":"c49e5f082db9f91554c2b971b7f4305c",
+    "wof:geomhash":"3f421580db65d0db75e16bb81cc83ba8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554737011,
-    "wof:lastmodified":1480841791,
+    "wof:lastmodified":1611182853,
     "wof:name":"64804",
     "wof:parent_id":404517043,
     "wof:placetype":"postalcode",

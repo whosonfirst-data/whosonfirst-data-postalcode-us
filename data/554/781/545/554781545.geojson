@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001503,
-    "geom:area_square_m":16728869.910194,
+    "geom:area_square_m":16728869.910205,
     "geom:bbox":"-80.197884,25.832377,-80.154803,25.874772",
     "geom:latitude":25.853955,
     "geom:longitude":-80.178403,
@@ -13,20 +13,26 @@
     "lbl:latitude":25.853765,
     "lbl:longitude":-80.178006,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Miami",
+    "mz:postal_locality_alt":[
+        "Miami Shores",
+        "El Portal"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688651,
         102191575,
         85633793,
+        102085771,
         85933669,
-        102085771
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12772148"
     },
     "wof:country":"US",
-    "wof:geomhash":"c2fffef073f025b723e4b03e6c70acf6",
+    "wof:geomhash":"85c20abd3d47d4b93a01f16660da7511",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554781545,
-    "wof:lastmodified":1480806626,
+    "wof:lastmodified":1611184823,
     "wof:name":"33138",
     "wof:parent_id":85933669,
     "wof:placetype":"postalcode",

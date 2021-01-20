@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005299,
-    "geom:area_square_m":54562919.322671,
+    "geom:area_square_m":54562919.322645,
     "geom:bbox":"-117.308165,33.583494,-117.206326,33.656163",
     "geom:latitude":33.617847,
     "geom:longitude":-117.259305,
@@ -14,20 +14,26 @@
     "lbl:latitude":33.617845,
     "lbl:longitude":-117.259305,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wildomar",
+    "mz:postal_locality_alt":[
+        "Lake Elsinore",
+        "Temecula"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086221,
         85923331,
-        102086221
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796545"
     },
     "wof:country":"US",
-    "wof:geomhash":"ab975d15af66908d6bc871beacd7e681",
+    "wof:geomhash":"4cfade45be6f3ca19b7e53b39f804861",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554752515,
-    "wof:lastmodified":1480913411,
+    "wof:lastmodified":1611182558,
     "wof:name":"92595",
     "wof:parent_id":85923331,
     "wof:placetype":"postalcode",

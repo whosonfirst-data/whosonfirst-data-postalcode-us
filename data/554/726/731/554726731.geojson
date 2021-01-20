@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013595,
-    "geom:area_square_m":126408191.277255,
+    "geom:area_square_m":126408191.277235,
     "geom:bbox":"-95.694473,41.178133,-95.522655,41.303939",
     "geom:latitude":41.241886,
     "geom:longitude":-95.602978,
@@ -14,19 +14,25 @@
     "lbl:latitude":41.240054,
     "lbl:longitude":-95.602157,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Treynor",
+    "mz:postal_locality_alt":[
+        "Council Bluffs",
+        "Mc Clelland"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688713,
-        102086657
+        102086657,
+        85688713
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12780378"
     },
     "wof:country":"US",
-    "wof:geomhash":"8ff8e48cd159a8a726b1005d344e3a05",
+    "wof:geomhash":"d206ac73388e9e3c81adb789a0241f56",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554726731,
-    "wof:lastmodified":1480912388,
+    "wof:lastmodified":1611184867,
     "wof:name":"51575",
     "wof:parent_id":102086657,
     "wof:placetype":"postalcode",

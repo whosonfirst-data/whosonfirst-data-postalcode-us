@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014694,
-    "geom:area_square_m":148765405.903382,
+    "geom:area_square_m":148765405.903357,
     "geom:bbox":"-86.320277,34.989926,-86.142289,35.115185",
     "geom:latitude":35.036714,
     "geom:longitude":-86.240244,
@@ -14,19 +14,25 @@
     "lbl:latitude":35.016807,
     "lbl:longitude":-86.20302,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Huntland",
+    "mz:postal_locality_alt":[
+        "Decatur",
+        "Tracy City"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688701,
-        102086227
+        102086227,
+        85688701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12773963"
     },
     "wof:country":"US",
-    "wof:geomhash":"e67397dfb873699c5c5dbc7e32e231f5",
+    "wof:geomhash":"b668ca80e844219becb93aa096d77dc7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554716767,
-    "wof:lastmodified":1480908865,
+    "wof:lastmodified":1611185377,
     "wof:name":"37345",
     "wof:parent_id":102086227,
     "wof:placetype":"postalcode",

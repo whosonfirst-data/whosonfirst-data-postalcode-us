@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003524,
-    "geom:area_square_m":34334108.30872,
+    "geom:area_square_m":34334108.308725,
     "geom:bbox":"-90.49683,37.977076,-90.415849,38.046273",
     "geom:latitude":38.013125,
     "geom:longitude":-90.453695,
@@ -14,20 +14,25 @@
     "lbl:latitude":38.013279,
     "lbl:longitude":-90.451539,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Valles Mines",
+    "mz:postal_locality_alt":[
+        "De Soto"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404518377,
         85633793,
-        102085297
+        102085297,
+        404518377,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785580"
     },
     "wof:country":"US",
-    "wof:geomhash":"dcedc7fb7089482419d2ef235ff460e0",
+    "wof:geomhash":"97d1f8614c8aa7bffd27a2d6b22c0ec0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554735733,
-    "wof:lastmodified":1480908592,
+    "wof:lastmodified":1611184428,
     "wof:name":"63087",
     "wof:parent_id":404518377,
     "wof:placetype":"postalcode",

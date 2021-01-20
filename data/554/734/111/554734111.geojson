@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019071,
-    "geom:area_square_m":178443801.747025,
+    "geom:area_square_m":178443801.746957,
     "geom:bbox":"-89.965785,40.733327,-89.754459,40.916698",
     "geom:latitude":40.826013,
     "geom:longitude":-89.854315,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.828373,
     "lbl:longitude":-89.844847,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Brimfield",
+    "mz:postal_locality_alt":[
+        "Edwards"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404496625,
         85633793,
-        102081247
+        102081247,
+        404496625,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784675"
     },
     "wof:country":"US",
-    "wof:geomhash":"0c36d3374ad8b5229d07b5d6c3d2fe55",
+    "wof:geomhash":"a2cfd22590abe022f5ead2813cdfb6f9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554734111,
-    "wof:lastmodified":1480823042,
+    "wof:lastmodified":1611184189,
     "wof:name":"61517",
     "wof:parent_id":404496625,
     "wof:placetype":"postalcode",

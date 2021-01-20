@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034376,
-    "geom:area_square_m":346617900.047602,
+    "geom:area_square_m":346617900.0475,
     "geom:bbox":"-89.260802,35.17751,-89.037602,35.524722",
     "geom:latitude":35.368411,
     "geom:longitude":-89.151812,
@@ -14,19 +14,24 @@
     "lbl:latitude":35.379076,
     "lbl:longitude":-89.136127,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Whiteville",
+    "mz:postal_locality_alt":[
+        "Dyersburg"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688701,
-        102086295
+        102086295,
+        85688701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12774280"
     },
     "wof:country":"US",
-    "wof:geomhash":"7d02a54dabb6a39336f33bf365c39010",
+    "wof:geomhash":"21aa5ef891252372d0ad81a1cc6363b7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554717297,
-    "wof:lastmodified":1480916982,
+    "wof:lastmodified":1611185034,
     "wof:name":"38075",
     "wof:parent_id":102086295,
     "wof:placetype":"postalcode",

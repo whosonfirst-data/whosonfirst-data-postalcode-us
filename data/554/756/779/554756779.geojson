@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00207,
-    "geom:area_square_m":19706640.664438,
+    "geom:area_square_m":19706640.664432,
     "geom:bbox":"-104.992669,39.616887,-104.921154,39.6677",
     "geom:latitude":39.642175,
     "geom:longitude":-104.962549,
@@ -13,20 +13,25 @@
     "lbl:latitude":39.644445,
     "lbl:longitude":-104.965111,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Englewood",
+    "mz:postal_locality_alt":[
+        "Denver"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688603,
         102191575,
         85633793,
+        102086877,
         85929843,
-        102086877
+        85688603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"23510073"
     },
     "wof:country":"US",
-    "wof:geomhash":"06ce7b8fd6801abf8b83b4e0c771c35c",
+    "wof:geomhash":"6dca3d7d6c62a2726e3ff6d766d2b180",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554756779,
-    "wof:lastmodified":1480913400,
+    "wof:lastmodified":1611184290,
     "wof:name":"80113",
     "wof:parent_id":85929843,
     "wof:placetype":"postalcode",

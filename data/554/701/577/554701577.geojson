@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00714,
-    "geom:area_square_m":66167716.517615,
+    "geom:area_square_m":66167716.517559,
     "geom:bbox":"-74.134399,41.388669,-74.007143,41.505869",
     "geom:latitude":41.45713,
     "geom:longitude":-74.075665,
@@ -14,20 +14,27 @@
     "lbl:latitude":41.455714,
     "lbl:longitude":-74.074901,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"New Windsor",
+    "mz:postal_locality_alt":[
+        "Newburgh",
+        "Vails Gate",
+        "Patterson"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522915,
         85633793,
-        102083061
+        102083061,
+        404522915,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762369"
     },
     "wof:country":"US",
-    "wof:geomhash":"c856bc0963695f926c3bae760718d3cb",
+    "wof:geomhash":"17054d7af20062ffa0ce7651f9767456",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554701577,
-    "wof:lastmodified":1480834092,
+    "wof:lastmodified":1611182647,
     "wof:name":"12553",
     "wof:parent_id":404522915,
     "wof:placetype":"postalcode",

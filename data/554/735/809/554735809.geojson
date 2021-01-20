@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00135,
-    "geom:area_square_m":13036092.548424,
+    "geom:area_square_m":13036092.548378,
     "geom:bbox":"-90.353454,38.646291,-90.295504,38.68561",
     "geom:latitude":38.665066,
     "geom:longitude":-90.325308,
@@ -13,21 +13,28 @@
     "lbl:latitude":38.665066,
     "lbl:longitude":-90.325306,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Saint Louis",
+    "mz:postal_locality_alt":[
+        "St Louis",
+        "University City",
+        "St. Louis"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404517471,
         85633793,
+        102086173,
+        404517471,
         85972235,
-        102086173
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785615"
     },
     "wof:country":"US",
-    "wof:geomhash":"5f8be40a608096e6d46a6939f0c47f2a",
+    "wof:geomhash":"9055e281853a9b3d3887a5cdbd3948d6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +47,7 @@
         }
     ],
     "wof:id":554735809,
-    "wof:lastmodified":1480914492,
+    "wof:lastmodified":1611184437,
     "wof:name":"63130",
     "wof:parent_id":85972235,
     "wof:placetype":"postalcode",

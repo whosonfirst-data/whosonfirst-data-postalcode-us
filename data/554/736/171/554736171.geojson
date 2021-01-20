@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029911,
-    "geom:area_square_m":292078188.699017,
+    "geom:area_square_m":292078188.699391,
     "geom:bbox":"-90.132947,37.69582,-89.834996,37.960722",
     "geom:latitude":37.84214,
     "geom:longitude":-89.990823,
@@ -14,20 +14,27 @@
     "lbl:latitude":37.841831,
     "lbl:longitude":-89.991058,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"St Mary",
+    "mz:postal_locality_alt":[
+        "Saint Marys",
+        "Sainte Genevieve",
+        "Ste Genevieve"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404518283,
         85633793,
-        102086899
+        102086899,
+        404518283,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785816"
     },
     "wof:country":"US",
-    "wof:geomhash":"5be3146a7914c79d2c58d8b9e157a4bf",
+    "wof:geomhash":"346b934a0f693e93bc82426a29f2ed4b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554736171,
-    "wof:lastmodified":1480908591,
+    "wof:lastmodified":1611183054,
     "wof:name":"63673",
     "wof:parent_id":404518283,
     "wof:placetype":"postalcode",

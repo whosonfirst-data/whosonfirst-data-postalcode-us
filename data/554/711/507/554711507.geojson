@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021993,
-    "geom:area_square_m":222083713.742225,
+    "geom:area_square_m":222083713.742332,
     "geom:bbox":"-77.520714,35.129142,-77.279688,35.343637",
     "geom:latitude":35.250924,
     "geom:longitude":-77.39737,
@@ -14,19 +14,24 @@
     "lbl:latitude":35.261232,
     "lbl:longitude":-77.371934,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Dover",
+    "mz:postal_locality_alt":[
+        "Jacksonville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688773,
-        102087763
+        102087763,
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12769710"
     },
     "wof:country":"US",
-    "wof:geomhash":"751b5f0f6637ea5f33e0813030d9d7be",
+    "wof:geomhash":"3253f6bffa49a0cd87b60563a57ebfb9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554711507,
-    "wof:lastmodified":1480903242,
+    "wof:lastmodified":1611185326,
     "wof:name":"28526",
     "wof:parent_id":102087763,
     "wof:placetype":"postalcode",

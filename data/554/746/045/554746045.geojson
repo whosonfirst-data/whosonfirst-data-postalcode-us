@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009653,
-    "geom:area_square_m":103024478.895702,
+    "geom:area_square_m":103024478.895657,
     "geom:bbox":"-95.583311,30.244957,-95.456795,30.398519",
     "geom:latitude":30.329507,
     "geom:longitude":-95.51412,
@@ -13,20 +13,26 @@
     "lbl:latitude":30.32776,
     "lbl:longitude":-95.516045,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Conroe",
+    "mz:postal_locality_alt":[
+        "Huntsville",
+        "Humble"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102081435,
         101725633,
-        102081435
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12791506"
     },
     "wof:country":"US",
-    "wof:geomhash":"634d8a611b0d941130f2b70dc98604db",
+    "wof:geomhash":"b835d8617dc8041054b5bb41004c81af",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554746045,
-    "wof:lastmodified":1480816362,
+    "wof:lastmodified":1611184018,
     "wof:name":"77304",
     "wof:parent_id":101725633,
     "wof:placetype":"postalcode",

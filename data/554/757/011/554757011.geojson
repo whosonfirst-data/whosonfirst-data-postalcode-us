@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003143,
-    "geom:area_square_m":27263177.04093,
+    "geom:area_square_m":27263177.04094,
     "geom:bbox":"-122.582588,45.424843,-122.477303,45.461518",
     "geom:latitude":45.445179,
     "geom:longitude":-122.528069,
@@ -14,20 +14,26 @@
     "lbl:latitude":45.445048,
     "lbl:longitude":-122.528173,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Portland",
+    "mz:postal_locality_alt":[
+        "Happy Valley",
+        "Clackamas"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688513,
         102191575,
         85633793,
+        102082213,
         101715871,
-        102082213
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"28350134"
     },
     "wof:country":"US",
-    "wof:geomhash":"5976767f421ff40415805ebfedbbc771",
+    "wof:geomhash":"c469e40537e5726f7fc1896ac1223867",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554757011,
-    "wof:lastmodified":1480817179,
+    "wof:lastmodified":1611184580,
     "wof:name":"97086",
     "wof:parent_id":101715871,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001846,
-    "geom:area_square_m":18945475.406797,
+    "geom:area_square_m":18945475.406786,
     "geom:bbox":"-117.98652,33.854183,-117.94125,33.906468",
     "geom:latitude":33.879327,
     "geom:longitude":-117.961756,
@@ -13,20 +13,25 @@
     "lbl:latitude":33.879325,
     "lbl:longitude":-117.961755,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fullerton",
+    "mz:postal_locality_alt":[
+        "Corona"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102080847,
         85923145,
-        102080847
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796644"
     },
     "wof:country":"US",
-    "wof:geomhash":"331324913dc65f1eadda341eda2232fa",
+    "wof:geomhash":"51e19aa75740481921ee5417887a873d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554752551,
-    "wof:lastmodified":1480912613,
+    "wof:lastmodified":1611182512,
     "wof:name":"92833",
     "wof:parent_id":85923145,
     "wof:placetype":"postalcode",

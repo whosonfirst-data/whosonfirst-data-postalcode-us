@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008189,
-    "geom:area_square_m":84764204.94991,
+    "geom:area_square_m":84764204.949948,
     "geom:bbox":"-96.659641,33.111697,-96.527811,33.229765",
     "geom:latitude":33.165465,
     "geom:longitude":-96.594696,
@@ -13,20 +13,29 @@
     "lbl:latitude":33.179984,
     "lbl:longitude":-96.585712,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mc Kinney",
+    "mz:postal_locality_alt":[
+        "Mckinney",
+        "Allen",
+        "Richardson",
+        "Plano",
+        "Grand Prairie"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102086765,
         101726035,
-        102086765
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12790352"
     },
     "wof:country":"US",
-    "wof:geomhash":"2535d355c83e1a212d80164a3b3fbca7",
+    "wof:geomhash":"bb266f7f2a5cd77f9f6946ef0591f15b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +47,7 @@
         }
     ],
     "wof:id":554744233,
-    "wof:lastmodified":1480911654,
+    "wof:lastmodified":1611184724,
     "wof:name":"75069",
     "wof:parent_id":101726035,
     "wof:placetype":"postalcode",

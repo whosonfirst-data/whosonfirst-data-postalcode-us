@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001273,
-    "geom:area_square_m":14072375.602426,
+    "geom:area_square_m":14072375.602432,
     "geom:bbox":"-80.07231,26.592079,-80.043467,26.646598",
     "geom:latitude":26.619988,
     "geom:longitude":-80.056747,
@@ -13,20 +13,27 @@
     "lbl:latitude":26.619664,
     "lbl:longitude":-80.056715,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lake Worth",
+    "mz:postal_locality_alt":[
+        "Jupiter",
+        "Deerfield Beach",
+        "Belle Glade"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688651,
         102191575,
         85633793,
+        102085845,
         85931985,
-        102085845
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12772325"
     },
     "wof:country":"US",
-    "wof:geomhash":"615ee61f62dfd7fd58bcfae0f705c8db",
+    "wof:geomhash":"93d89f00d0e116f280629fc43eb1c802",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +45,7 @@
         }
     ],
     "wof:id":554781777,
-    "wof:lastmodified":1480804002,
+    "wof:lastmodified":1611184823,
     "wof:name":"33460",
     "wof:parent_id":85931985,
     "wof:placetype":"postalcode",

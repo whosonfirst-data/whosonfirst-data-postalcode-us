@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009005,
-    "geom:area_square_m":83824042.216043,
+    "geom:area_square_m":83824042.216083,
     "geom:bbox":"-86.094522,41.114028,-85.931251,41.21745",
     "geom:latitude":41.167155,
     "geom:longitude":-86.024213,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.163149,
     "lbl:longitude":-86.026511,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mentone",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404500943,
         85633793,
-        102087157
+        102087157,
+        404500943,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777794"
     },
     "wof:country":"US",
-    "wof:geomhash":"ba8470aa5db902e46197c5be094ea052",
+    "wof:geomhash":"358e76f4848925b859a788564eb48005",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554722729,
-    "wof:lastmodified":1480917174,
+    "wof:lastmodified":1611183250,
     "wof:name":"46539",
     "wof:parent_id":404500943,
     "wof:placetype":"postalcode",

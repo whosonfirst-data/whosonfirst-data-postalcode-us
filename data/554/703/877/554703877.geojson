@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023697,
-    "geom:area_square_m":223424583.33931,
+    "geom:area_square_m":223424583.339488,
     "geom:bbox":"-79.669543,40.214076,-79.43668,40.451897",
     "geom:latitude":40.315181,
     "geom:longitude":-79.535544,
@@ -13,21 +13,27 @@
     "lbl:latitude":40.314981,
     "lbl:longitude":-79.534803,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Greensburg",
+    "mz:postal_locality_alt":[
+        "Ruffs Dale",
+        "Youngwood"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404487487,
         85633793,
+        102081383,
+        404487487,
         101717177,
-        102081383
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763888"
     },
     "wof:country":"US",
-    "wof:geomhash":"8bb394a492cc3b44aef9f8b8832917e8",
+    "wof:geomhash":"deff8d374f61b63aaa8a9206a06697fe",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +46,7 @@
         }
     ],
     "wof:id":554703877,
-    "wof:lastmodified":1480823409,
+    "wof:lastmodified":1611184472,
     "wof:name":"15601",
     "wof:parent_id":101717177,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048096,
-    "geom:area_square_m":462037705.396449,
+    "geom:area_square_m":462037705.39671,
     "geom:bbox":"-82.80709,38.902404,-82.435309,39.146905",
     "geom:latitude":39.02201,
     "geom:longitude":-82.653612,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.019728,
     "lbl:longitude":-82.656314,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Jackson",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404526687,
         85633793,
-        102084827
+        102084827,
+        404526687,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777348"
     },
     "wof:country":"US",
-    "wof:geomhash":"c557bae0d8df86481cf28d04df8ce78b",
+    "wof:geomhash":"ca1b27de2f164962e7f351b93757a18b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554722051,
-    "wof:lastmodified":1480836185,
+    "wof:lastmodified":1611183244,
     "wof:name":"45640",
     "wof:parent_id":404526687,
     "wof:placetype":"postalcode",

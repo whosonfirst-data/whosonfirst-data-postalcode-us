@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020965,
-    "geom:area_square_m":194466797.623912,
+    "geom:area_square_m":194466797.623838,
     "geom:bbox":"-90.752072,41.313117,-90.485876,41.485032",
     "geom:latitude":41.396807,
     "geom:longitude":-90.591752,
@@ -14,20 +14,26 @@
     "lbl:latitude":41.402799,
     "lbl:longitude":-90.595864,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Milan",
+    "mz:postal_locality_alt":[
+        "Rock Island",
+        "Moline"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404496939,
         85633793,
-        102082281
+        102082281,
+        404496939,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784520"
     },
     "wof:country":"US",
-    "wof:geomhash":"32b7a1269bd5d063ab9ca3b77a78cc5a",
+    "wof:geomhash":"543f2a11d325cf1d0fa6528e4382caf5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554733823,
-    "wof:lastmodified":1480915568,
+    "wof:lastmodified":1611184236,
     "wof:name":"61264",
     "wof:parent_id":404496939,
     "wof:placetype":"postalcode",

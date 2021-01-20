@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011999,
-    "geom:area_square_m":114944510.345421,
+    "geom:area_square_m":114944510.345385,
     "geom:bbox":"-84.232544,39.162453,-83.994205,39.28639",
     "geom:latitude":39.220376,
     "geom:longitude":-84.116244,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.216745,
     "lbl:longitude":-84.115369,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Goshen",
+    "mz:postal_locality_alt":[
+        "Pleasant Plain"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404525017,
         85633793,
-        102084793
+        102084793,
+        404525017,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777086"
     },
     "wof:country":"US",
-    "wof:geomhash":"366004f568271c021c43674cacbf15a8",
+    "wof:geomhash":"19bf6d4c3afa4c4b8b7aa392389526ea",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554721653,
-    "wof:lastmodified":1480840117,
+    "wof:lastmodified":1611184975,
     "wof:name":"45122",
     "wof:parent_id":404525017,
     "wof:placetype":"postalcode",

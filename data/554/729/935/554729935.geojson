@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013037,
-    "geom:area_square_m":115758660.875857,
+    "geom:area_square_m":115758660.876061,
     "geom:bbox":"-96.265469,44.022894,-96.06403,44.168956",
     "geom:latitude":44.102937,
     "geom:longitude":-96.177251,
@@ -14,20 +14,26 @@
     "lbl:latitude":44.103929,
     "lbl:longitude":-96.179427,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Holland",
+    "mz:postal_locality_alt":[
+        "Luverne",
+        "Hardwick"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404510439,
         85633793,
-        102087865
+        102087865,
+        404510439,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782275"
     },
     "wof:country":"US",
-    "wof:geomhash":"f9f89f439697ba25ce05b99977f489f2",
+    "wof:geomhash":"8aeb3062baa850c139b43a5d81024101",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554729935,
-    "wof:lastmodified":1480784841,
+    "wof:lastmodified":1611185426,
     "wof:name":"56139",
     "wof:parent_id":404510439,
     "wof:placetype":"postalcode",

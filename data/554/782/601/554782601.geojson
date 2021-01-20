@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010177,
-    "geom:area_square_m":90777246.209037,
+    "geom:area_square_m":90777246.209003,
     "geom:bbox":"-83.460813,43.769704,-83.270549,43.887531",
     "geom:latitude":43.833526,
     "geom:longitude":-83.352203,
@@ -14,20 +14,22 @@
     "lbl:latitude":43.838908,
     "lbl:longitude":-83.342072,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bay Port",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404507631,
         85633793,
-        102083017
+        102083017,
+        404507631,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778950"
     },
     "wof:country":"US",
-    "wof:geomhash":"c9592354c48c3eb614d385bc1393452f",
+    "wof:geomhash":"81a0a7169558f961f3da10c62f5a405a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554782601,
-    "wof:lastmodified":1480836195,
+    "wof:lastmodified":1611183629,
     "wof:name":"48720",
     "wof:parent_id":404507631,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02423,
-    "geom:area_square_m":226272399.004979,
+    "geom:area_square_m":226272399.005143,
     "geom:bbox":"-98.49316,40.811812,-98.339697,41.046492",
     "geom:latitude":40.954888,
     "geom:longitude":-98.415203,
@@ -13,20 +13,25 @@
     "lbl:latitude":40.956077,
     "lbl:longitude":-98.414575,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Grand Island",
+    "mz:postal_locality_alt":[
+        "Alda"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688563,
         102191575,
-        404519299,
         85633793,
-        102083477
+        102083477,
+        404519299,
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787855"
     },
     "wof:country":"US",
-    "wof:geomhash":"89789cbb0ad4c8170b886b95cfff07ef",
+    "wof:geomhash":"b51c6b02855555587ed5b8e0e61fd470",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554740151,
-    "wof:lastmodified":1480840743,
+    "wof:lastmodified":1611183389,
     "wof:name":"68803",
     "wof:parent_id":404519299,
     "wof:placetype":"postalcode",

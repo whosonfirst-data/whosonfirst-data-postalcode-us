@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006359,
-    "geom:area_square_m":58817036.7568,
+    "geom:area_square_m":58817036.756755,
     "geom:bbox":"-91.159446,41.511745,-91.057484,41.645609",
     "geom:latitude":41.581725,
     "geom:longitude":-91.099083,
@@ -14,19 +14,24 @@
     "lbl:latitude":41.548655,
     "lbl:longitude":-91.086807,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Moscow",
+    "mz:postal_locality_alt":[
+        "Muscatine"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688713,
-        102086287
+        102086287,
+        85688713
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12780727"
     },
     "wof:country":"US",
-    "wof:geomhash":"62eaca62549bdebad809af2586720aa2",
+    "wof:geomhash":"ec4c68eda46742b4b4b0a6eb744de79c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554727407,
-    "wof:lastmodified":1480916921,
+    "wof:lastmodified":1611185506,
     "wof:name":"52760",
     "wof:parent_id":102086287,
     "wof:placetype":"postalcode",

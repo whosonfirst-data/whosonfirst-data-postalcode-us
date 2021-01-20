@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005699,
-    "geom:area_square_m":61379727.6443,
+    "geom:area_square_m":61379727.644346,
     "geom:bbox":"-94.781083,29.360201,-94.564335,29.491084",
     "geom:latitude":29.426648,
     "geom:longitude":-94.68608,
@@ -14,20 +14,25 @@
     "lbl:latitude":29.426496,
     "lbl:longitude":-94.685696,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Port Bolivar",
+    "mz:postal_locality_alt":[
+        "Crystal Beach"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102085003,
         101726773,
-        102085003
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12791745"
     },
     "wof:country":"US",
-    "wof:geomhash":"00be0dea392bde41d91ade86290c9ad7",
+    "wof:geomhash":"3215345f5b6572fca6ab2ac8fb4ba50b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554783701,
-    "wof:lastmodified":1480814832,
+    "wof:lastmodified":1611183872,
     "wof:name":"77650",
     "wof:parent_id":101726773,
     "wof:placetype":"postalcode",

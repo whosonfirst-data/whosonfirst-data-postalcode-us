@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00083,
-    "geom:area_square_m":7649490.457644,
+    "geom:area_square_m":7649490.457639,
     "geom:bbox":"-71.372799,41.824833,-71.334397,41.8613",
     "geom:latitude":41.844389,
     "geom:longitude":-71.352087,
@@ -14,21 +14,26 @@
     "lbl:latitude":41.842661,
     "lbl:longitude":-71.352438,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Rumford",
+    "mz:postal_locality_alt":[
+        "East Providence"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688509,
         102191575,
-        404488363,
         85633793,
+        102081597,
+        404488363,
         101720571,
-        102081597
+        85688509
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759068"
     },
     "wof:country":"US",
-    "wof:geomhash":"8e0d7e25ca94d1374384c912ba55c86e",
+    "wof:geomhash":"f03ec86e6d2033d3a09e1f78bbee0ffa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554778623,
-    "wof:lastmodified":1480817073,
+    "wof:lastmodified":1611183440,
     "wof:name":"02916",
     "wof:parent_id":101720571,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011338,
-    "geom:area_square_m":101646586.968669,
+    "geom:area_square_m":101646586.968649,
     "geom:bbox":"-70.975157,43.455567,-70.857743,43.61441",
     "geom:latitude":43.527265,
     "geom:longitude":-70.920964,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.521206,
     "lbl:longitude":-70.91767,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Acton",
+    "mz:postal_locality_alt":[
+        "Scarborough"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404475875,
         85633793,
-        102087449
+        102087449,
+        404475875,
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759364"
     },
     "wof:country":"US",
-    "wof:geomhash":"852aa9f5e693a3af252188183752b0c7",
+    "wof:geomhash":"2bca8c928e77ba7060a1115ffa88a88a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554698139,
-    "wof:lastmodified":1480911762,
+    "wof:lastmodified":1611184693,
     "wof:name":"04001",
     "wof:parent_id":404475875,
     "wof:placetype":"postalcode",

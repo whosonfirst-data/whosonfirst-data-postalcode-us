@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001234,
-    "geom:area_square_m":11527928.085699,
+    "geom:area_square_m":11527928.085689,
     "geom:bbox":"-73.807197,40.926017,-73.768243,40.976376",
     "geom:latitude":40.949122,
     "geom:longitude":-73.786325,
@@ -13,21 +13,23 @@
     "lbl:latitude":40.946841,
     "lbl:longitude":-73.788051,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"New Rochelle",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404523375,
         85633793,
+        102082373,
+        404523375,
         85978749,
-        102082373
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761619"
     },
     "wof:country":"US",
-    "wof:geomhash":"be84fc0da18aeedf01f639ac18e8337f",
+    "wof:geomhash":"b76a8bc8156a3bef47d3fb6d96a8ab87",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +42,7 @@
         }
     ],
     "wof:id":554779481,
-    "wof:lastmodified":1480796130,
+    "wof:lastmodified":1611183981,
     "wof:name":"10804",
     "wof:parent_id":85978749,
     "wof:placetype":"postalcode",

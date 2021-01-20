@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030187,
-    "geom:area_square_m":284361520.597961,
+    "geom:area_square_m":284361520.597863,
     "geom:bbox":"-105.415165,40.309755,-104.980417,40.445554",
     "geom:latitude":40.375431,
     "geom:longitude":-105.182964,
@@ -13,19 +13,24 @@
     "lbl:latitude":40.363205,
     "lbl:longitude":-105.17668,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Loveland",
+    "mz:postal_locality_alt":[
+        "Fort Collins"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688603,
-        102083353
+        102083353,
+        85688603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12793118"
     },
     "wof:country":"US",
-    "wof:geomhash":"93165d6da912cbf2c2e6978fafa3160b",
+    "wof:geomhash":"81df0729b4c10a9cba7fb21b72d924e9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +41,7 @@
         }
     ],
     "wof:id":554748209,
-    "wof:lastmodified":1480913967,
+    "wof:lastmodified":1611183858,
     "wof:name":"80537",
     "wof:parent_id":102083353,
     "wof:placetype":"postalcode",

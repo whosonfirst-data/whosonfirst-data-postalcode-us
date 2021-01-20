@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040524,
-    "geom:area_square_m":410814808.370202,
+    "geom:area_square_m":410814808.370008,
     "geom:bbox":"-79.927618,34.805377,-79.60029,35.055056",
     "geom:latitude":34.930996,
     "geom:longitude":-79.780033,
@@ -13,20 +13,28 @@
     "lbl:latitude":34.930279,
     "lbl:longitude":-79.778633,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Rockingham",
+    "mz:postal_locality_alt":[
+        "Fayetteville",
+        "Pope Afb",
+        "Kenansville",
+        "Red Springs"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688773,
         102191575,
         85633793,
+        102080891,
         85981021,
-        102080891
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12769608"
     },
     "wof:country":"US",
-    "wof:geomhash":"a16c89cb720509c701ca5fcc6acfe86c",
+    "wof:geomhash":"96d72ca3693a14e6781d0768b2aec17f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +46,7 @@
         }
     ],
     "wof:id":554711371,
-    "wof:lastmodified":1480903423,
+    "wof:lastmodified":1611185319,
     "wof:name":"28379",
     "wof:parent_id":85981021,
     "wof:placetype":"postalcode",

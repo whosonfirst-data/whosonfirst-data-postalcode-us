@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009561,
-    "geom:area_square_m":89757748.122011,
+    "geom:area_square_m":89757748.121996,
     "geom:bbox":"-76.797683,40.551625,-76.639697,40.659595",
     "geom:latitude":40.607821,
     "geom:longitude":-76.72605,
@@ -14,20 +14,27 @@
     "lbl:latitude":40.576793,
     "lbl:longitude":-76.761348,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lykens",
+    "mz:postal_locality_alt":[
+        "Jonestown",
+        "Gratz",
+        "Myerstown"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404483317,
         85633793,
-        102081347
+        102081347,
+        404483317,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764592"
     },
     "wof:country":"US",
-    "wof:geomhash":"c8fc3e57aaf7967586a35df875812595",
+    "wof:geomhash":"81422705a8a955346e3372242c434f86",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554704945,
-    "wof:lastmodified":1480831657,
+    "wof:lastmodified":1611184522,
     "wof:name":"17048",
     "wof:parent_id":404483317,
     "wof:placetype":"postalcode",

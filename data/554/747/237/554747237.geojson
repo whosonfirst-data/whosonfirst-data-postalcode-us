@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.047027,
-    "geom:area_square_m":505135124.244564,
+    "geom:area_square_m":505135124.244348,
     "geom:bbox":"-96.692363,29.514689,-96.416798,29.855466",
     "geom:latitude":29.693733,
     "geom:longitude":-96.560137,
@@ -14,19 +14,24 @@
     "lbl:latitude":29.693467,
     "lbl:longitude":-96.557698,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Columbus",
+    "mz:postal_locality_alt":[
+        "New Ulm"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688753,
-        102081455
+        102081455,
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12792401"
     },
     "wof:country":"US",
-    "wof:geomhash":"6dfe960eee44b10dd3ce6437c1702399",
+    "wof:geomhash":"5c3f51ec3951654d79d4888e25fc2785",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554747237,
-    "wof:lastmodified":1480831332,
+    "wof:lastmodified":1611183481,
     "wof:name":"78934",
     "wof:parent_id":102081455,
     "wof:placetype":"postalcode",

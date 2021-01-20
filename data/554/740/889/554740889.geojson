@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044237,
-    "geom:area_square_m":472484426.622624,
+    "geom:area_square_m":472484426.622724,
     "geom:bbox":"-93.131155,30.103659,-92.889984,30.423753",
     "geom:latitude":30.257037,
     "geom:longitude":-93.018696,
@@ -14,19 +14,24 @@
     "lbl:latitude":30.254625,
     "lbl:longitude":-93.023942,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Iowa",
+    "mz:postal_locality_alt":[
+        "Lake Charles"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688735,
-        102081035
+        102081035,
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12788407"
     },
     "wof:country":"US",
-    "wof:geomhash":"8358155cefdfbc14395fa988221b2e86",
+    "wof:geomhash":"4ffde9a0c7196c548cd3c1f5a4912472",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554740889,
-    "wof:lastmodified":1480911799,
+    "wof:lastmodified":1611183391,
     "wof:name":"70647",
     "wof:parent_id":102081035,
     "wof:placetype":"postalcode",

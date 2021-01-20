@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.110995,
-    "geom:area_square_m":1091502867.91851,
+    "geom:area_square_m":1091502867.91808,
     "geom:bbox":"-109.045844,37.14749,-108.426138,37.486195",
     "geom:latitude":37.318377,
     "geom:longitude":-108.762182,
@@ -14,19 +14,25 @@
     "lbl:latitude":37.31297,
     "lbl:longitude":-108.734537,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cortez",
+    "mz:postal_locality_alt":[
+        "Dolores",
+        "Lewis"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688603,
-        102084099
+        102084099,
+        85688603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12793422"
     },
     "wof:country":"US",
-    "wof:geomhash":"43ba35122c4ae4b8b4de4ccf9fbea661",
+    "wof:geomhash":"8310cb2c47f909e78e852fb9a99484b9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554748691,
-    "wof:lastmodified":1480913947,
+    "wof:lastmodified":1611183861,
     "wof:name":"81321",
     "wof:parent_id":102084099,
     "wof:placetype":"postalcode",

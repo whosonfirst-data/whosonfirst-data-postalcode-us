@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019142,
-    "geom:area_square_m":183220426.853011,
+    "geom:area_square_m":183220426.853052,
     "geom:bbox":"-88.410796,39.182169,-88.173502,39.360352",
     "geom:latitude":39.277329,
     "geom:longitude":-88.270305,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.276946,
     "lbl:longitude":-88.270309,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Toledo",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404497691,
         85633793,
-        102080843
+        102080843,
+        404497691,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785171"
     },
     "wof:country":"US",
-    "wof:geomhash":"4015063b45d96975ee84b852d0075783",
+    "wof:geomhash":"8e676743810433fbc6c71b9286b0b7cf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554735029,
-    "wof:lastmodified":1480903328,
+    "wof:lastmodified":1611184433,
     "wof:name":"62468",
     "wof:parent_id":404497691,
     "wof:placetype":"postalcode",

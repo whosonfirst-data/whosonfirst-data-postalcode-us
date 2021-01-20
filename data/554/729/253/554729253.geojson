@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006756,
-    "geom:area_square_m":59304255.810189,
+    "geom:area_square_m":59304255.810133,
     "geom:bbox":"-94.09156,44.717358,-94.00999,44.843017",
     "geom:latitude":44.77739,
     "geom:longitude":-94.038965,
@@ -14,20 +14,25 @@
     "lbl:latitude":44.77718,
     "lbl:longitude":-94.036783,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Plato",
+    "mz:postal_locality_alt":[
+        "Bird Island"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404512811,
         85633793,
-        102086993
+        102086993,
+        404512811,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781852"
     },
     "wof:country":"US",
-    "wof:geomhash":"b6087e6bbf08a41984c41b94d57a77ae",
+    "wof:geomhash":"85ab134c7a494c434054ac1d3f0152cb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554729253,
-    "wof:lastmodified":1480910377,
+    "wof:lastmodified":1611185436,
     "wof:name":"55370",
     "wof:parent_id":404512811,
     "wof:placetype":"postalcode",

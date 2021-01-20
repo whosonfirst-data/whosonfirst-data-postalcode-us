@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010413,
-    "geom:area_square_m":92129447.208828,
+    "geom:area_square_m":92129447.208814,
     "geom:bbox":"-72.185349,44.257155,-72.004284,44.376876",
     "geom:latitude":44.313556,
     "geom:longitude":-72.10951,
@@ -14,20 +14,22 @@
     "lbl:latitude":44.311345,
     "lbl:longitude":-72.114854,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Barnet",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688763,
         102191575,
-        404527485,
         85633793,
-        102080755
+        102080755,
+        404527485,
+        85688763
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760117"
     },
     "wof:country":"US",
-    "wof:geomhash":"e5d74bc02342d9bd7a01fa93379e1c45",
+    "wof:geomhash":"831f2d2c867b3cda73fc851120c50b34",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554699175,
-    "wof:lastmodified":1480916380,
+    "wof:lastmodified":1611184615,
     "wof:name":"05821",
     "wof:parent_id":404527485,
     "wof:placetype":"postalcode",

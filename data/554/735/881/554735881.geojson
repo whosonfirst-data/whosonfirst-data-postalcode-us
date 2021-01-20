@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009807,
-    "geom:area_square_m":94272825.378948,
+    "geom:area_square_m":94272825.378903,
     "geom:bbox":"-91.222778,38.924663,-91.082062,39.039824",
     "geom:latitude":38.977569,
     "geom:longitude":-91.153102,
@@ -14,20 +14,22 @@
     "lbl:latitude":38.974386,
     "lbl:longitude":-91.150965,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hawk Point",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404515709,
         85633793,
-        102087479
+        102087479,
+        404515709,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785676"
     },
     "wof:country":"US",
-    "wof:geomhash":"e69bdb9cd2a7b8ac7febc55762ed383f",
+    "wof:geomhash":"5cd458fbc529ea63971d684eb2e4e68b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554735881,
-    "wof:lastmodified":1480815698,
+    "wof:lastmodified":1611184417,
     "wof:name":"63349",
     "wof:parent_id":404515709,
     "wof:placetype":"postalcode",

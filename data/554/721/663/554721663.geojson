@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012686,
-    "geom:area_square_m":121458245.365305,
+    "geom:area_square_m":121458245.365181,
     "geom:bbox":"-84.326196,39.185406,-84.158661,39.314908",
     "geom:latitude":39.25762,
     "geom:longitude":-84.241667,
@@ -14,21 +14,28 @@
     "lbl:latitude":39.257271,
     "lbl:longitude":-84.242049,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Loveland",
+    "mz:postal_locality_alt":[
+        "Milford",
+        "Miamiville",
+        "Cincinnati"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404525361,
         85633793,
+        102083687,
+        404525361,
         85982865,
-        102083687
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777094"
     },
     "wof:country":"US",
-    "wof:geomhash":"b8d58a76a546934de335f9a084758d0a",
+    "wof:geomhash":"22f861555a8e3779869bed21d81da989",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +48,7 @@
         }
     ],
     "wof:id":554721663,
-    "wof:lastmodified":1480838315,
+    "wof:lastmodified":1611184973,
     "wof:name":"45140",
     "wof:parent_id":85982865,
     "wof:placetype":"postalcode",

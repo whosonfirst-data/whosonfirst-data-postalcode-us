@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023105,
-    "geom:area_square_m":221192494.124442,
+    "geom:area_square_m":221192494.124424,
     "geom:bbox":"-119.925453,39.165509,-119.677476,39.338678",
     "geom:latitude":39.266849,
     "geom:longitude":-119.817393,
@@ -14,19 +14,24 @@
     "lbl:latitude":39.262623,
     "lbl:longitude":-119.815832,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Carson City",
+    "mz:postal_locality_alt":[
+        "Washoe Valley"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688531,
-        102081533
+        102081533,
+        85688531
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795584"
     },
     "wof:country":"US",
-    "wof:geomhash":"ad4cf9a4a373cdf0d767c60f10c835bc",
+    "wof:geomhash":"34cb17d8238cb2f09a3d2de3a6dd1bde",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554751769,
-    "wof:lastmodified":1480823106,
+    "wof:lastmodified":1611184345,
     "wof:name":"89704",
     "wof:parent_id":102081533,
     "wof:placetype":"postalcode",

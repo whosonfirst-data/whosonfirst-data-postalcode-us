@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000309,
-    "geom:area_square_m":2895109.010087,
+    "geom:area_square_m":2895109.010089,
     "geom:bbox":"-73.862346,40.666759,-73.83094,40.685327",
     "geom:latitude":40.676434,
     "geom:longitude":-73.844467,
@@ -14,21 +14,28 @@
     "lbl:latitude":40.676434,
     "lbl:longitude":-73.844467,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ozone Park",
+    "mz:postal_locality_alt":[
+        "Jamaica",
+        "Queens",
+        "New York"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404521211,
         85633793,
+        102082361,
+        404521211,
         85977539,
-        102082361
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761808"
     },
     "wof:country":"US",
-    "wof:geomhash":"5c80919fa1dab88c426765404da4b141",
+    "wof:geomhash":"00f36670ea551b0c8b9530ff1ab9bebf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +48,7 @@
         }
     ],
     "wof:id":554779687,
-    "wof:lastmodified":1480793438,
+    "wof:lastmodified":1611183968,
     "wof:name":"11417",
     "wof:parent_id":85977539,
     "wof:placetype":"postalcode",

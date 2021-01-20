@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020094,
-    "geom:area_square_m":176748887.018759,
+    "geom:area_square_m":176748887.018605,
     "geom:bbox":"-93.747339,44.587379,-93.460241,44.740221",
     "geom:latitude":44.655006,
     "geom:longitude":-93.587649,
@@ -14,20 +14,22 @@
     "lbl:latitude":44.651475,
     "lbl:longitude":-93.592608,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Jordan",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404515043,
         85633793,
-        102087041
+        102087041,
+        404515043,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781834"
     },
     "wof:country":"US",
-    "wof:geomhash":"53b51e84687a4804c13cd3d6669fdda1",
+    "wof:geomhash":"a3a8555c18e79b2c37e2c8907d54518f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554729217,
-    "wof:lastmodified":1480789031,
+    "wof:lastmodified":1611185413,
     "wof:name":"55352",
     "wof:parent_id":404515043,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002781,
-    "geom:area_square_m":28489351.251969,
+    "geom:area_square_m":28489351.251949,
     "geom:bbox":"-117.42696,34.033747,-117.351806,34.092275",
     "geom:latitude":34.059095,
     "geom:longitude":-117.390688,
@@ -14,20 +14,25 @@
     "lbl:latitude":34.059306,
     "lbl:longitude":-117.390768,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bloomington",
+    "mz:postal_locality_alt":[
+        "Rialto"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102085395,
         85928657,
-        102085395
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796409"
     },
     "wof:country":"US",
-    "wof:geomhash":"888c356ad56930e14d394566ce7ff532",
+    "wof:geomhash":"242f5dbc8ef7a6f54418d235b11b06b2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554752315,
-    "wof:lastmodified":1480913412,
+    "wof:lastmodified":1611182531,
     "wof:name":"92316",
     "wof:parent_id":85928657,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0038,
-    "geom:area_square_m":38916997.005754,
+    "geom:area_square_m":38916997.005629,
     "geom:bbox":"-118.521475,34.04143,-118.449929,34.131223",
     "geom:latitude":34.087191,
     "geom:longitude":-118.489267,
@@ -13,20 +13,25 @@
     "lbl:latitude":34.09254,
     "lbl:longitude":-118.491064,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Los Angeles",
+    "mz:postal_locality_alt":[
+        "Brentwood"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086957,
         85923517,
-        102086957
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795657"
     },
     "wof:country":"US",
-    "wof:geomhash":"a17e527459eb34a06c313e64d0642811",
+    "wof:geomhash":"9de9b3098ca4ff6bc0c0e7e9e448d572",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554783951,
-    "wof:lastmodified":1480912626,
+    "wof:lastmodified":1611183893,
     "wof:name":"90049",
     "wof:parent_id":85923517,
     "wof:placetype":"postalcode",

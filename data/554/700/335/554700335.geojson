@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006579,
-    "geom:area_square_m":62250299.831646,
+    "geom:area_square_m":62250299.831652,
     "geom:bbox":"-74.898776,40.024885,-74.765433,40.120343",
     "geom:latitude":40.069345,
     "geom:longitude":-74.82977,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.069521,
     "lbl:longitude":-74.824196,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Burlington",
+    "mz:postal_locality_alt":[
+        "Burlington Township"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477763,
         85633793,
-        102087415
+        102087415,
+        404477763,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760991"
     },
     "wof:country":"US",
-    "wof:geomhash":"893af7ffabc02b92810f175024dddd42",
+    "wof:geomhash":"74500c60e2095069765fd8f25d9ee9a4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554700335,
-    "wof:lastmodified":1480906423,
+    "wof:lastmodified":1611183194,
     "wof:name":"08016",
     "wof:parent_id":404477763,
     "wof:placetype":"postalcode",

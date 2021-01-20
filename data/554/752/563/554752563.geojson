@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000961,
-    "geom:area_square_m":9869211.389332,
+    "geom:area_square_m":9869211.389352,
     "geom:bbox":"-117.870228,33.812477,-117.83059,33.847053",
     "geom:latitude":33.828873,
     "geom:longitude":-117.849018,
@@ -13,20 +13,22 @@
     "lbl:latitude":33.826393,
     "lbl:longitude":-117.851307,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Orange",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102080847,
         85923071,
-        102080847
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796666"
     },
     "wof:country":"US",
-    "wof:geomhash":"312aae90da53ce68ad871b29a66df176",
+    "wof:geomhash":"fa307bf9a6e5bac19195e32e7eece9ab",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +40,7 @@
         }
     ],
     "wof:id":554752563,
-    "wof:lastmodified":1480906252,
+    "wof:lastmodified":1611182537,
     "wof:name":"92865",
     "wof:parent_id":85923071,
     "wof:placetype":"postalcode",

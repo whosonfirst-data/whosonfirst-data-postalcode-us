@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001796,
-    "geom:area_square_m":16634145.129742,
+    "geom:area_square_m":16634145.129725,
     "geom:bbox":"-87.709872,41.447332,-87.652514,41.506176",
     "geom:latitude":41.479044,
     "geom:longitude":-87.682832,
@@ -14,21 +14,27 @@
     "lbl:latitude":41.477816,
     "lbl:longitude":-87.683188,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Park Forest",
+    "mz:postal_locality_alt":[
+        "University Park",
+        "Richton Park"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404497581,
         85633793,
+        102084317,
+        404497581,
         85940533,
-        102084317
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784174"
     },
     "wof:country":"US",
-    "wof:geomhash":"fc1311016be71d1d919c3d074e3e3f08",
+    "wof:geomhash":"f45fff3be47a9542f34ef2cc91f0d6b4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554733397,
-    "wof:lastmodified":1480903212,
+    "wof:lastmodified":1611184214,
     "wof:name":"60466",
     "wof:parent_id":85940533,
     "wof:placetype":"postalcode",

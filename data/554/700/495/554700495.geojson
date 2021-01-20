@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032429,
-    "geom:area_square_m":309045929.346992,
+    "geom:area_square_m":309045929.347023,
     "geom:bbox":"-74.729407,39.459172,-74.446269,39.695978",
     "geom:latitude":39.582606,
     "geom:longitude":-74.581495,
@@ -13,21 +13,27 @@
     "lbl:latitude":39.586506,
     "lbl:longitude":-74.563656,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Egg Harbor City",
+    "mz:postal_locality_alt":[
+        "Cologne",
+        "Pomona"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477269,
         85633793,
+        102083869,
+        404477269,
         85975341,
-        102083869
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761086"
     },
     "wof:country":"US",
-    "wof:geomhash":"c612aa74b37ec5f49610237c8a180770",
+    "wof:geomhash":"f2315b945bd1148fbb8c2069d0952a2c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +46,7 @@
         }
     ],
     "wof:id":554700495,
-    "wof:lastmodified":1480834718,
+    "wof:lastmodified":1611183204,
     "wof:name":"08215",
     "wof:parent_id":85975341,
     "wof:placetype":"postalcode",

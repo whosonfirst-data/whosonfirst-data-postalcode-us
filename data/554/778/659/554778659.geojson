@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011039,
-    "geom:area_square_m":99556553.002159,
+    "geom:area_square_m":99556553.002175,
     "geom:bbox":"-70.757427,43.097097,-70.585853,43.228941",
     "geom:latitude":43.166117,
     "geom:longitude":-70.678997,
@@ -14,20 +14,27 @@
     "lbl:latitude":43.16646,
     "lbl:longitude":-70.679004,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"York",
+    "mz:postal_locality_alt":[
+        "South Berwick",
+        "York Harbor",
+        "Cape Neddick"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404475823,
         85633793,
-        102087449
+        102087449,
+        404475823,
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759361"
     },
     "wof:country":"US",
-    "wof:geomhash":"81bdf1229d14d6ff364e5ebb084fb4be",
+    "wof:geomhash":"9ce8f8ce83e66889f52fe0a12f14eca0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554778659,
-    "wof:lastmodified":1480788174,
+    "wof:lastmodified":1611183432,
     "wof:name":"03909",
     "wof:parent_id":404475823,
     "wof:placetype":"postalcode",

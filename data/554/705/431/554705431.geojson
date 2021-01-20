@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012954,
-    "geom:area_square_m":120620785.594984,
+    "geom:area_square_m":120620785.595005,
     "geom:bbox":"-76.593394,41.07508,-76.425772,41.232496",
     "geom:latitude":41.14531,
     "geom:longitude":-76.517246,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.141745,
     "lbl:longitude":-76.517122,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Millville",
+    "mz:postal_locality_alt":[
+        "Bloomsburg"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485387,
         85633793,
-        102080973
+        102080973,
+        404485387,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764929"
     },
     "wof:country":"US",
-    "wof:geomhash":"f59b1dd7baadfa312f49dbdb908b941b",
+    "wof:geomhash":"7f8696abc3d1d1ad70922d30fd628c7b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554705431,
-    "wof:lastmodified":1480905761,
+    "wof:lastmodified":1611184102,
     "wof:name":"17846",
     "wof:parent_id":404485387,
     "wof:placetype":"postalcode",

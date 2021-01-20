@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015416,
-    "geom:area_square_m":135908334.353054,
+    "geom:area_square_m":135908334.353134,
     "geom:bbox":"-85.805829,44.452501,-85.57746,44.59373",
     "geom:latitude":44.521357,
     "geom:longitude":-85.693795,
@@ -14,20 +14,22 @@
     "lbl:latitude":44.523532,
     "lbl:longitude":-85.691242,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Buckley",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404506565,
         85633793,
-        102083133
+        102083133,
+        404506565,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779431"
     },
     "wof:country":"US",
-    "wof:geomhash":"fa43e61a7eedd972d6ad05eba9f15753",
+    "wof:geomhash":"637da621bc669eda47deadede72dde77",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554725159,
-    "wof:lastmodified":1480839060,
+    "wof:lastmodified":1611183253,
     "wof:name":"49620",
     "wof:parent_id":404506565,
     "wof:placetype":"postalcode",

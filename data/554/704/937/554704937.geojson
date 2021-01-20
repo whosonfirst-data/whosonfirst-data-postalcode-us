@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027457,
-    "geom:area_square_m":257862252.368359,
+    "geom:area_square_m":257862252.368192,
     "geom:bbox":"-77.734819,40.443689,-77.451725,40.690273",
     "geom:latitude":40.578439,
     "geom:longitude":-77.594275,
@@ -14,20 +14,27 @@
     "lbl:latitude":40.577237,
     "lbl:longitude":-77.594258,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lewistown",
+    "mz:postal_locality_alt":[
+        "Burnham",
+        "Newport",
+        "Elliottsburg"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404488173,
         85633793,
-        102081333
+        102081333,
+        404488173,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764588"
     },
     "wof:country":"US",
-    "wof:geomhash":"d9529e06547b2f2ac1dc5e2e2fe70c8c",
+    "wof:geomhash":"ee57b40e6188b37dc3c374ab6aedb697",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554704937,
-    "wof:lastmodified":1480831088,
+    "wof:lastmodified":1611184488,
     "wof:name":"17044",
     "wof:parent_id":404488173,
     "wof:placetype":"postalcode",

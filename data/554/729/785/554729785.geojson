@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025672,
-    "geom:area_square_m":229648901.020597,
+    "geom:area_square_m":229648901.020702,
     "geom:bbox":"-94.427955,43.500175,-94.24778,43.774894",
     "geom:latitude":43.661139,
     "geom:longitude":-94.325839,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.663418,
     "lbl:longitude":-94.323586,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Granada",
+    "mz:postal_locality_alt":[
+        "Fairmont"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404509981,
         85633793,
-        102087019
+        102087019,
+        404509981,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782205"
     },
     "wof:country":"US",
-    "wof:geomhash":"73aa9f838bead3af1b1ecdf391879af0",
+    "wof:geomhash":"ce58738aa1f83c8d7da618f1a046a2c6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554729785,
-    "wof:lastmodified":1480908919,
+    "wof:lastmodified":1611185422,
     "wof:name":"56039",
     "wof:parent_id":404509981,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044636,
-    "geom:area_square_m":426799350.068406,
+    "geom:area_square_m":426799350.068429,
     "geom:bbox":"-87.621176,39.259187,-87.206036,39.456588",
     "geom:latitude":39.351103,
     "geom:longitude":-87.407477,
@@ -13,20 +13,26 @@
     "lbl:latitude":39.351585,
     "lbl:longitude":-87.404886,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Terre Haute",
+    "mz:postal_locality_alt":[
+        "Riley",
+        "Prairie Creek"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404502041,
         85633793,
-        102087183
+        102087183,
+        404502041,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778383"
     },
     "wof:country":"US",
-    "wof:geomhash":"f92b3b04d05156321fc110c85e549047",
+    "wof:geomhash":"d852a462f1db693f4fc15186a76de90d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554723651,
-    "wof:lastmodified":1480913805,
+    "wof:lastmodified":1611183786,
     "wof:name":"47802",
     "wof:parent_id":404502041,
     "wof:placetype":"postalcode",

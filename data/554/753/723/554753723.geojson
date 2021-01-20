@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018478,
-    "geom:area_square_m":179069022.714161,
+    "geom:area_square_m":179069022.714072,
     "geom:bbox":"-123.008761,38.326029,-122.738143,38.482013",
     "geom:latitude":38.398164,
     "geom:longitude":-122.865759,
@@ -13,19 +13,27 @@
     "lbl:latitude":38.398815,
     "lbl:longitude":-122.861923,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Sebastopol",
+    "mz:postal_locality_alt":[
+        "Freestone",
+        "Graton",
+        "Forestville",
+        "Occidental"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688637,
-        102081671
+        102081671,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12797811"
     },
     "wof:country":"US",
-    "wof:geomhash":"618df9a5f280017bcb029a09a3300bb6",
+    "wof:geomhash":"eb62d23817203ab2d6d45f367c82ef54",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +44,7 @@
         }
     ],
     "wof:id":554753723,
-    "wof:lastmodified":1480816522,
+    "wof:lastmodified":1611182948,
     "wof:name":"95472",
     "wof:parent_id":102081671,
     "wof:placetype":"postalcode",

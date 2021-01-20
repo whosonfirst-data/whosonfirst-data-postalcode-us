@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004049,
-    "geom:area_square_m":39503951.082582,
+    "geom:area_square_m":39503951.082696,
     "geom:bbox":"-122.05489,37.849998,-121.925567,37.942412",
     "geom:latitude":37.901097,
     "geom:longitude":-122.000426,
@@ -13,20 +13,26 @@
     "lbl:latitude":37.899935,
     "lbl:longitude":-121.999244,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Walnut Creek",
+    "mz:postal_locality_alt":[
+        "Concord",
+        "Vallejo"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086225,
         85924891,
-        102086225
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12797386"
     },
     "wof:country":"US",
-    "wof:geomhash":"d4eaee7d0c2b72a30eeefd10c22b31b8",
+    "wof:geomhash":"d99e5ffb0f3df31e10e1228cbdf31873",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554753209,
-    "wof:lastmodified":1480908615,
+    "wof:lastmodified":1611182963,
     "wof:name":"94598",
     "wof:parent_id":85924891,
     "wof:placetype":"postalcode",

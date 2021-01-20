@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030255,
-    "geom:area_square_m":268674534.225309,
+    "geom:area_square_m":268674534.225244,
     "geom:bbox":"-87.856955,43.999961,-87.610843,44.218485",
     "geom:latitude":44.096215,
     "geom:longitude":-87.726805,
@@ -13,20 +13,25 @@
     "lbl:latitude":44.101805,
     "lbl:longitude":-87.722805,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Manitowoc",
+    "mz:postal_locality_alt":[
+        "Francis Creek"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404495171,
         85633793,
-        102081871
+        102081871,
+        404495171,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781252"
     },
     "wof:country":"US",
-    "wof:geomhash":"0e86b01d043c7248990ed66712a776ee",
+    "wof:geomhash":"8d574f70fd83ab778e2a51c5ee813c9b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554728195,
-    "wof:lastmodified":1480820245,
+    "wof:lastmodified":1611185046,
     "wof:name":"54220",
     "wof:parent_id":404495171,
     "wof:placetype":"postalcode",

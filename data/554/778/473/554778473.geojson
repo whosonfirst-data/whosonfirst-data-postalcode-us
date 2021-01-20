@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004865,
-    "geom:area_square_m":44814034.368776,
+    "geom:area_square_m":44814034.368793,
     "geom:bbox":"-70.01095,41.792908,-69.931096,41.881057",
     "geom:latitude":41.84018,
     "geom:longitude":-69.975263,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.841331,
     "lbl:longitude":-69.977436,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Eastham",
+    "mz:postal_locality_alt":[
+        "North Eastham"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404475901,
         85633793,
-        102084379
+        102084379,
+        404475901,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758912"
     },
     "wof:country":"US",
-    "wof:geomhash":"c1e52f40433c6c494b35d2f4ebffbbaf",
+    "wof:geomhash":"1359935868613c6b135d70205b69857e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554778473,
-    "wof:lastmodified":1480802732,
+    "wof:lastmodified":1611183441,
     "wof:name":"02642",
     "wof:parent_id":404475901,
     "wof:placetype":"postalcode",

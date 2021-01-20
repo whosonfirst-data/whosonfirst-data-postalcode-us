@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003972,
-    "geom:area_square_m":42705658.538911,
+    "geom:area_square_m":42705658.538882,
     "geom:bbox":"-98.471241,29.539639,-98.339617,29.63871",
     "geom:latitude":29.585468,
     "geom:longitude":-98.407078,
@@ -13,20 +13,22 @@
     "lbl:latitude":29.585862,
     "lbl:longitude":-98.406811,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"San Antonio",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102082471,
         101724653,
-        102082471
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12792012"
     },
     "wof:country":"US",
-    "wof:geomhash":"65ab438382cabb75a0993f3786fa6d31",
+    "wof:geomhash":"9bd1351589838c521e04a9821441b6f6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +40,7 @@
         }
     ],
     "wof:id":554746769,
-    "wof:lastmodified":1480790255,
+    "wof:lastmodified":1611184014,
     "wof:name":"78247",
     "wof:parent_id":101724653,
     "wof:placetype":"postalcode",

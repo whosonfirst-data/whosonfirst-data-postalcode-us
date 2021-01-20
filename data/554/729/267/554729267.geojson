@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010058,
-    "geom:area_square_m":87622750.201364,
+    "geom:area_square_m":87622750.201361,
     "geom:bbox":"-93.765823,45.158842,-93.552296,45.259752",
     "geom:latitude":45.210612,
     "geom:longitude":-93.687233,
@@ -14,21 +14,27 @@
     "lbl:latitude":45.211249,
     "lbl:longitude":-93.687899,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Saint Michael",
+    "mz:postal_locality_alt":[
+        "St Michael",
+        "Princeton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404515253,
         85633793,
+        102087815,
+        404515253,
         85968887,
-        102087815
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781858"
     },
     "wof:country":"US",
-    "wof:geomhash":"f996742f956c6f92fa45faeaf1c12754",
+    "wof:geomhash":"48e5e5d9f8b1a3958f8cedba9201a301",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554729267,
-    "wof:lastmodified":1480789093,
+    "wof:lastmodified":1611185417,
     "wof:name":"55376",
     "wof:parent_id":85968887,
     "wof:placetype":"postalcode",

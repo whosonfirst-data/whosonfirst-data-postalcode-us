@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003897,
-    "geom:area_square_m":36746566.435863,
+    "geom:area_square_m":36746566.435834,
     "geom:bbox":"-74.942909,40.276837,-74.811055,40.347694",
     "geom:latitude":40.313508,
     "geom:longitude":-74.859123,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.31573,
     "lbl:longitude":-74.857279,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Titusville",
+    "mz:postal_locality_alt":[
+        "Cranbury"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478253,
         85633793,
-        102081129
+        102081129,
+        404478253,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761192"
     },
     "wof:country":"US",
-    "wof:geomhash":"1d2901f5b3eb485353e3958fb212cff6",
+    "wof:geomhash":"c90f546a7b04bad1ba68d9ce0411450e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554700621,
-    "wof:lastmodified":1480906421,
+    "wof:lastmodified":1611183180,
     "wof:name":"08560",
     "wof:parent_id":404478253,
     "wof:placetype":"postalcode",

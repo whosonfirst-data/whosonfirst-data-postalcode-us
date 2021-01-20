@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03402,
-    "geom:area_square_m":295691340.400997,
+    "geom:area_square_m":295691340.400941,
     "geom:bbox":"-90.663121,45.256163,-90.166998,45.39532",
     "geom:latitude":45.338024,
     "geom:longitude":-90.402363,
@@ -14,20 +14,22 @@
     "lbl:latitude":45.343391,
     "lbl:longitude":-90.392334,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Westboro",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404493797,
         85633793,
-        102081769
+        102081769,
+        404493797,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781357"
     },
     "wof:country":"US",
-    "wof:geomhash":"e94d7433b8e20a80f5796f4f510144c6",
+    "wof:geomhash":"f990a7e37288cdfe27d68e22a3a95220",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554728359,
-    "wof:lastmodified":1480818269,
+    "wof:lastmodified":1611185073,
     "wof:name":"54490",
     "wof:parent_id":404493797,
     "wof:placetype":"postalcode",

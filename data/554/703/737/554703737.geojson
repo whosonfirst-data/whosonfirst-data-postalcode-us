@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01341,
-    "geom:area_square_m":127111264.488843,
+    "geom:area_square_m":127111264.488878,
     "geom:bbox":"-79.73211,39.887374,-79.486337,40.0129",
     "geom:latitude":39.95033,
     "geom:longitude":-79.596854,
@@ -14,20 +14,26 @@
     "lbl:latitude":39.949851,
     "lbl:longitude":-79.596338,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Dunbar",
+    "mz:postal_locality_alt":[
+        "Uniontown",
+        "Connellsville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404486929,
         85633793,
-        102080959
+        102080959,
+        404486929,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763794"
     },
     "wof:country":"US",
-    "wof:geomhash":"3e86f887b0410e9627b49a69b08e0489",
+    "wof:geomhash":"e6c9b8a87475a66529ff0427e3b873f9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554703737,
-    "wof:lastmodified":1480906230,
+    "wof:lastmodified":1611184447,
     "wof:name":"15431",
     "wof:parent_id":404486929,
     "wof:placetype":"postalcode",

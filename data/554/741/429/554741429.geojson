@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034635,
-    "geom:area_square_m":365862808.267726,
+    "geom:area_square_m":365862808.267266,
     "geom:bbox":"-92.853018,31.224535,-92.483235,31.404528",
     "geom:latitude":31.319638,
     "geom:longitude":-92.707397,
@@ -14,19 +14,24 @@
     "lbl:latitude":31.310753,
     "lbl:longitude":-92.689221,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Boyce",
+    "mz:postal_locality_alt":[
+        "Natchitoches"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688735,
-        102081039
+        102081039,
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12788759"
     },
     "wof:country":"US",
-    "wof:geomhash":"77471d99e2b7d85b37bd68ff130ba73b",
+    "wof:geomhash":"77fc52f0cd5aeb5f6bb66bb16c6c0be6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554741429,
-    "wof:lastmodified":1480916249,
+    "wof:lastmodified":1611184074,
     "wof:name":"71409",
     "wof:parent_id":102081039,
     "wof:placetype":"postalcode",

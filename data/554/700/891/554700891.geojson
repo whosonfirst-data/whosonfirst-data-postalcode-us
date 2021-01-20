@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003437,
-    "geom:area_square_m":32077417.618604,
+    "geom:area_square_m":32077417.618611,
     "geom:bbox":"-73.845461,40.955677,-73.744276,41.021698",
     "geom:latitude":40.989255,
     "geom:longitude":-73.793134,
@@ -14,21 +14,26 @@
     "lbl:latitude":40.988682,
     "lbl:longitude":-73.789203,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Scarsdale",
+    "mz:postal_locality_alt":[
+        "Mt Vernon"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404523391,
         85633793,
+        102082373,
+        404523391,
         85978767,
-        102082373
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761582"
     },
     "wof:country":"US",
-    "wof:geomhash":"908e7708ce7cbd8347acc625b75cbf8b",
+    "wof:geomhash":"2356978dd43a2ea6c39f44df13e6057e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554700891,
-    "wof:lastmodified":1480796130,
+    "wof:lastmodified":1611183203,
     "wof:name":"10583",
     "wof:parent_id":85978767,
     "wof:placetype":"postalcode",

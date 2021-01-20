@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045313,
-    "geom:area_square_m":385214323.922055,
+    "geom:area_square_m":385214323.922033,
     "geom:bbox":"-92.066424,46.417319,-91.802063,46.712616",
     "geom:latitude":46.567068,
     "geom:longitude":-91.943868,
@@ -14,20 +14,22 @@
     "lbl:latitude":46.565542,
     "lbl:longitude":-91.942807,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"South Range",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404492591,
         85633793,
-        102081291
+        102081291,
+        404492591,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781583"
     },
     "wof:country":"US",
-    "wof:geomhash":"1294c1e2a7465a1782621dcaa6f0acbb",
+    "wof:geomhash":"f4b544279e9ffcba4cbc3ab7c41f1372",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554728763,
-    "wof:lastmodified":1480825338,
+    "wof:lastmodified":1611185043,
     "wof:name":"54874",
     "wof:parent_id":404492591,
     "wof:placetype":"postalcode",

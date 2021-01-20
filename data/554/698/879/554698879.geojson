@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021789,
-    "geom:area_square_m":197109764.862213,
+    "geom:area_square_m":197109764.862184,
     "geom:bbox":"-73.269307,42.930087,-73.002789,43.029012",
     "geom:latitude":42.980439,
     "geom:longitude":-73.126835,
@@ -14,20 +14,25 @@
     "lbl:latitude":42.97375,
     "lbl:longitude":-73.07524,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Shaftsbury",
+    "mz:postal_locality_alt":[
+        "Manchester"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688763,
         102191575,
-        404527217,
         85633793,
-        102087439
+        102087439,
+        404527217,
+        85688763
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759940"
     },
     "wof:country":"US",
-    "wof:geomhash":"582c800fde88cf42a219b8b47f61bd4f",
+    "wof:geomhash":"0ed6b4e7e84fb6133c1cde303077dca3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554698879,
-    "wof:lastmodified":1480903161,
+    "wof:lastmodified":1611184695,
     "wof:name":"05262",
     "wof:parent_id":404527217,
     "wof:placetype":"postalcode",

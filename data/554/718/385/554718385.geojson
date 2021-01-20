@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.139383,
-    "geom:area_square_m":1479204736.838757,
+    "geom:area_square_m":1479204736.840619,
     "geom:bbox":"-88.885038,30.610477,-88.409429,31.131292",
     "geom:latitude":30.878696,
     "geom:longitude":-88.599579,
@@ -14,19 +14,27 @@
     "lbl:latitude":30.873965,
     "lbl:longitude":-88.601996,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lucedale",
+    "mz:postal_locality_alt":[
+        "Hattiesburg",
+        "Agricola",
+        "Collins",
+        "Bay Springs"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688579,
-        102082441
+        102082441,
+        85688579
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12774945"
     },
     "wof:country":"US",
-    "wof:geomhash":"1ff4416e53705f0aaf79c7fdf1815820",
+    "wof:geomhash":"dabf4fa657ba323607f18b156f09d99b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +45,7 @@
         }
     ],
     "wof:id":554718385,
-    "wof:lastmodified":1480912723,
+    "wof:lastmodified":1611185563,
     "wof:name":"39452",
     "wof:parent_id":102082441,
     "wof:placetype":"postalcode",

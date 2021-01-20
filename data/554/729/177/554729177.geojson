@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033704,
-    "geom:area_square_m":297149174.163543,
+    "geom:area_square_m":297149174.163502,
     "geom:bbox":"-94.832661,44.382359,-94.612908,44.629895",
     "geom:latitude":44.52043,
     "geom:longitude":-94.709442,
@@ -14,20 +14,22 @@
     "lbl:latitude":44.520437,
     "lbl:longitude":-94.699538,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fairfax",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404512463,
         85633793,
-        102087655
+        102087655,
+        404512463,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781815"
     },
     "wof:country":"US",
-    "wof:geomhash":"12486e4480e9049e649c893120230387",
+    "wof:geomhash":"f847c311ef85ac2f18fc4f5316b7d285",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554729177,
-    "wof:lastmodified":1480789130,
+    "wof:lastmodified":1611185442,
     "wof:name":"55332",
     "wof:parent_id":404512463,
     "wof:placetype":"postalcode",

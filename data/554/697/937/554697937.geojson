@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042478,
-    "geom:area_square_m":373910512.380776,
+    "geom:area_square_m":373910512.380785,
     "geom:bbox":"-71.356114,44.524713,-71.02849,44.711701",
     "geom:latitude":44.612378,
     "geom:longitude":-71.207486,
@@ -14,20 +14,25 @@
     "lbl:latitude":44.62304,
     "lbl:longitude":-71.211845,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Milan",
+    "mz:postal_locality_alt":[
+        "Dummer"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688689,
         102191575,
-        404476855,
         85633793,
-        102085529
+        102085529,
+        404476855,
+        85688689
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759233"
     },
     "wof:country":"US",
-    "wof:geomhash":"89b446c8545de4889f65f00e393af76f",
+    "wof:geomhash":"f36a3bae21797375445c75ac9cf77437",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554697937,
-    "wof:lastmodified":1480805193,
+    "wof:lastmodified":1611184637,
     "wof:name":"03588",
     "wof:parent_id":404476855,
     "wof:placetype":"postalcode",

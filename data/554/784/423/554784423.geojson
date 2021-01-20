@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001606,
-    "geom:area_square_m":16527034.077302,
+    "geom:area_square_m":16527034.077321,
     "geom:bbox":"-117.953675,33.625171,-117.883083,33.670976",
     "geom:latitude":33.647891,
     "geom:longitude":-117.920385,
@@ -13,20 +13,25 @@
     "lbl:latitude":33.647764,
     "lbl:longitude":-117.919761,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Costa Mesa",
+    "mz:postal_locality_alt":[
+        "Newport Beach"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102080847,
         85923161,
-        102080847
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796566"
     },
     "wof:country":"US",
-    "wof:geomhash":"ca794cc4eff37329f88b8d27c6635488",
+    "wof:geomhash":"e4633e5227fd00c1f6fc3132c8f64257",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554784423,
-    "wof:lastmodified":1480906254,
+    "wof:lastmodified":1611183935,
     "wof:name":"92627",
     "wof:parent_id":85923161,
     "wof:placetype":"postalcode",

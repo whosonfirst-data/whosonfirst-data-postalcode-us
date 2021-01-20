@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004326,
-    "geom:area_square_m":39914263.283962,
+    "geom:area_square_m":39914263.283968,
     "geom:bbox":"-71.365207,41.679936,-71.284404,41.776113",
     "geom:latitude":41.73424,
     "geom:longitude":-71.319294,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.734753,
     "lbl:longitude":-71.319732,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Barrington",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688509,
         102191575,
-        404488301,
         85633793,
-        102081221
+        102081221,
+        404488301,
+        85688509
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758988"
     },
     "wof:country":"US",
-    "wof:geomhash":"d283184c4b99bbcabc6280d9aca90022",
+    "wof:geomhash":"d4bda4c1ff1ee073a0d326a9b6fd7060",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554778551,
-    "wof:lastmodified":1480830991,
+    "wof:lastmodified":1611183424,
     "wof:name":"02806",
     "wof:parent_id":404488301,
     "wof:placetype":"postalcode",

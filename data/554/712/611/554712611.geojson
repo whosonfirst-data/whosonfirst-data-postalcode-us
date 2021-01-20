@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005346,
-    "geom:area_square_m":55119813.51886,
+    "geom:area_square_m":55119813.518787,
     "geom:bbox":"-81.870149,33.46741,-81.767038,33.561721",
     "geom:latitude":33.511823,
     "geom:longitude":-81.811578,
@@ -14,19 +14,25 @@
     "lbl:latitude":33.507439,
     "lbl:longitude":-81.811783,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Warrenville",
+    "mz:postal_locality_alt":[
+        "Allendale",
+        "Langley"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688683,
-        102085721
+        102085721,
+        85688683
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770447"
     },
     "wof:country":"US",
-    "wof:geomhash":"f145d84aebfdf2145f58d765ac9ed119",
+    "wof:geomhash":"1ce19d4858470f5b42fe7ee3d5fdd927",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554712611,
-    "wof:lastmodified":1480809643,
+    "wof:lastmodified":1611183702,
     "wof:name":"29851",
     "wof:parent_id":102085721,
     "wof:placetype":"postalcode",

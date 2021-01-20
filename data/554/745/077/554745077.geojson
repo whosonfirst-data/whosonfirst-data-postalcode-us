@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00185,
-    "geom:area_square_m":19257656.815563,
+    "geom:area_square_m":19257656.815577,
     "geom:bbox":"-97.248332,32.619289,-97.181963,32.668077",
     "geom:latitude":32.640787,
     "geom:longitude":-97.215852,
@@ -14,20 +14,26 @@
     "lbl:latitude":32.639648,
     "lbl:longitude":-97.217476,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Kennedale",
+    "mz:postal_locality_alt":[
+        "Colleyville",
+        "Midlothian"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102083201,
         101723623,
-        102083201
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12790891"
     },
     "wof:country":"US",
-    "wof:geomhash":"9766a6eed95216651d983b029b7ff064",
+    "wof:geomhash":"10fc71546a8b02d333c7e531dde57fd4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554745077,
-    "wof:lastmodified":1480840093,
+    "wof:lastmodified":1611185259,
     "wof:name":"76060",
     "wof:parent_id":101723623,
     "wof:placetype":"postalcode",

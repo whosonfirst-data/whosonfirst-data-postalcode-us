@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012809,
-    "geom:area_square_m":113028331.768709,
+    "geom:area_square_m":113028331.768765,
     "geom:bbox":"-73.033253,44.383121,-72.838696,44.550303",
     "geom:latitude":44.468319,
     "geom:longitude":-72.949911,
@@ -14,20 +14,26 @@
     "lbl:latitude":44.464175,
     "lbl:longitude":-72.951057,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Jericho",
+    "mz:postal_locality_alt":[
+        "Burlington",
+        "Jericho Center"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688763,
         102191575,
-        404527493,
         85633793,
-        102087451
+        102087451,
+        404527493,
+        85688763
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759999"
     },
     "wof:country":"US",
-    "wof:geomhash":"7b263f54a2ee72d9b588687a794eb0de",
+    "wof:geomhash":"67cbccd739cba268965d9259005af4fe",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554698979,
-    "wof:lastmodified":1480782816,
+    "wof:lastmodified":1611184687,
     "wof:name":"05465",
     "wof:parent_id":404527493,
     "wof:placetype":"postalcode",

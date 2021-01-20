@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00396,
-    "geom:area_square_m":38709724.888252,
+    "geom:area_square_m":38709724.888264,
     "geom:bbox":"-122.049916,37.718629,-121.917372,37.81659",
     "geom:latitude":37.755123,
     "geom:longitude":-121.972707,
@@ -13,20 +13,25 @@
     "lbl:latitude":37.75512,
     "lbl:longitude":-121.972699,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"San Ramon",
+    "mz:postal_locality_alt":[
+        "Danville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086225,
         85922121,
-        102086225
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12797374"
     },
     "wof:country":"US",
-    "wof:geomhash":"0189e907d6c88fca556e93789409b3d8",
+    "wof:geomhash":"bf5972d20ca4c952992bcde68c4254c8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554753189,
-    "wof:lastmodified":1480915081,
+    "wof:lastmodified":1611182945,
     "wof:name":"94583",
     "wof:parent_id":85922121,
     "wof:placetype":"postalcode",

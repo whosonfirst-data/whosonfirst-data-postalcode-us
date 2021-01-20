@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009872,
-    "geom:area_square_m":93425550.600761,
+    "geom:area_square_m":93425550.600766,
     "geom:bbox":"-86.119462,40.000049,-85.964175,40.123886",
     "geom:latitude":40.061735,
     "geom:longitude":-86.055462,
@@ -13,20 +13,25 @@
     "lbl:latitude":40.061266,
     "lbl:longitude":-86.056039,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Noblesville",
+    "mz:postal_locality_alt":[
+        "Westfield"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404500697,
         85633793,
-        102087089
+        102087089,
+        404500697,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26815000"
     },
     "wof:country":"US",
-    "wof:geomhash":"ae99a5eb16fb1207927dcf0d3609cab0",
+    "wof:geomhash":"51fb2161ac95cfa0f15dd1d3a18f0426",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554756901,
-    "wof:lastmodified":1480784758,
+    "wof:lastmodified":1611184270,
     "wof:name":"46062",
     "wof:parent_id":404500697,
     "wof:placetype":"postalcode",

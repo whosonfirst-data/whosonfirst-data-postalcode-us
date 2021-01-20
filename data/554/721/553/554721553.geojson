@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022138,
-    "geom:area_square_m":205820595.300752,
+    "geom:area_square_m":205820595.300745,
     "geom:bbox":"-82.461683,41.137878,-82.316124,41.357869",
     "geom:latitude":41.245532,
     "geom:longitude":-82.383259,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.245882,
     "lbl:longitude":-82.382432,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wakeman",
+    "mz:postal_locality_alt":[
+        "Birmingham"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404523893,
         85633793,
-        102083735
+        102083735,
+        404523893,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777014"
     },
     "wof:country":"US",
-    "wof:geomhash":"f2b0292a8a0e5cae6e7f481b9a0db919",
+    "wof:geomhash":"15f806dc8281d67de7d03397a3400146",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554721553,
-    "wof:lastmodified":1480836123,
+    "wof:lastmodified":1611184967,
     "wof:name":"44889",
     "wof:parent_id":404523893,
     "wof:placetype":"postalcode",

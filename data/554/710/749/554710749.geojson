@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.063007,
-    "geom:area_square_m":629471017.617774,
+    "geom:area_square_m":629471017.617589,
     "geom:bbox":"-78.424227,35.932518,-78.006554,36.248173",
     "geom:latitude":36.103707,
     "geom:longitude":-78.238274,
@@ -14,19 +14,26 @@
     "lbl:latitude":36.101663,
     "lbl:longitude":-78.232233,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Louisburg",
+    "mz:postal_locality_alt":[
+        "Youngsville",
+        "Franklinton",
+        "Bunn"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688773,
-        102080873
+        102080873,
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12769105"
     },
     "wof:country":"US",
-    "wof:geomhash":"bbb0bdb12350b7856cca08dfbde78036",
+    "wof:geomhash":"0b25c09215bd281e20aa80c10f88e8e1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +44,7 @@
         }
     ],
     "wof:id":554710749,
-    "wof:lastmodified":1480906185,
+    "wof:lastmodified":1611185115,
     "wof:name":"27549",
     "wof:parent_id":102080873,
     "wof:placetype":"postalcode",

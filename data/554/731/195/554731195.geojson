@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.087043,
-    "geom:area_square_m":754706217.085351,
+    "geom:area_square_m":754706217.08536,
     "geom:bbox":"-98.725377,45.31503,-98.267834,45.634075",
     "geom:latitude":45.476487,
     "geom:longitude":-98.527548,
@@ -13,20 +13,25 @@
     "lbl:latitude":45.482335,
     "lbl:longitude":-98.53254,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Aberdeen",
+    "mz:postal_locality_alt":[
+        "Andover"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688693,
         102191575,
-        404489433,
         85633793,
-        102086843
+        102086843,
+        404489433,
+        85688693
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782908"
     },
     "wof:country":"US",
-    "wof:geomhash":"99ac7ec0959297a3fd29487acf6f5791",
+    "wof:geomhash":"86e89f60ddcd7b91a36e16197e29e8a1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554731195,
-    "wof:lastmodified":1480912434,
+    "wof:lastmodified":1611183056,
     "wof:name":"57401",
     "wof:parent_id":404489433,
     "wof:placetype":"postalcode",

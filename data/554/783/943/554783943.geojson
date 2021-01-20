@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001464,
-    "geom:area_square_m":14988584.880874,
+    "geom:area_square_m":14988584.880892,
     "geom:bbox":"-118.399444,34.081567,-118.344035,34.131089",
     "geom:latitude":34.107416,
     "geom:longitude":-118.365218,
@@ -13,20 +13,27 @@
     "lbl:latitude":34.10781,
     "lbl:longitude":-118.362247,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Los Angeles",
+    "mz:postal_locality_alt":[
+        "West Hollywood",
+        "W Hollywood",
+        "Hollywood"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086957,
         85923517,
-        102086957
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795654"
     },
     "wof:country":"US",
-    "wof:geomhash":"7e3eccc2b000816a5c6ebafe11e50f3c",
+    "wof:geomhash":"828fe616db35320a358bcdb2ddde51a1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +45,7 @@
         }
     ],
     "wof:id":554783943,
-    "wof:lastmodified":1480912627,
+    "wof:lastmodified":1611183908,
     "wof:name":"90046",
     "wof:parent_id":85923517,
     "wof:placetype":"postalcode",

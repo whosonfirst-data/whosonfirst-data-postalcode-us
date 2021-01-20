@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002955,
-    "geom:area_square_m":24845462.235112,
+    "geom:area_square_m":24845462.235076,
     "geom:bbox":"-122.593093,47.118508,-122.522702,47.19772",
     "geom:latitude":47.162387,
     "geom:longitude":-122.554485,
@@ -13,20 +13,25 @@
     "lbl:latitude":47.159194,
     "lbl:longitude":-122.553123,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lakewood",
+    "mz:postal_locality_alt":[
+        "Tacoma"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688623,
         102191575,
         85633793,
+        102087547,
         101730283,
-        102087547
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12799202"
     },
     "wof:country":"US",
-    "wof:geomhash":"dea6a97abf262a6a2c9553496f076392",
+    "wof:geomhash":"c2b44bbfaada6a69443187a20a3684d7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554755821,
-    "wof:lastmodified":1480781955,
+    "wof:lastmodified":1611182569,
     "wof:name":"98498",
     "wof:parent_id":101730283,
     "wof:placetype":"postalcode",

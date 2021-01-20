@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031264,
-    "geom:area_square_m":332883868.292384,
+    "geom:area_square_m":332883868.292452,
     "geom:bbox":"-98.066699,30.422215,-97.762756,30.660175",
     "geom:latitude":30.561735,
     "geom:longitude":-97.915167,
@@ -13,19 +13,26 @@
     "lbl:latitude":30.56217,
     "lbl:longitude":-97.907802,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Leander",
+    "mz:postal_locality_alt":[
+        "Cedar Park",
+        "Volente",
+        "Kyle"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688753,
-        102081935
+        102081935,
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12792244"
     },
     "wof:country":"US",
-    "wof:geomhash":"dd1ba34aeff9eb1d8ad7629901afa2d7",
+    "wof:geomhash":"973dce63c7bfe2277c701f85810e5b7d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +43,7 @@
         }
     ],
     "wof:id":554747007,
-    "wof:lastmodified":1480831117,
+    "wof:lastmodified":1611183459,
     "wof:name":"78641",
     "wof:parent_id":102081935,
     "wof:placetype":"postalcode",

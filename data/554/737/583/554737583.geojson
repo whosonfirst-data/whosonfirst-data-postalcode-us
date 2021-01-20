@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014606,
-    "geom:area_square_m":144827154.155818,
+    "geom:area_square_m":144827154.155942,
     "geom:bbox":"-94.108151,36.630299,-93.910071,36.761214",
     "geom:latitude":36.690185,
     "geom:longitude":-94.006994,
@@ -14,20 +14,25 @@
     "lbl:latitude":36.69296,
     "lbl:longitude":-94.007064,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Exeter",
+    "mz:postal_locality_alt":[
+        "Buffalo"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404516285,
         85633793,
-        102086881
+        102086881,
+        404516285,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786572"
     },
     "wof:country":"US",
-    "wof:geomhash":"5226a788759742a86d57919f8f12d0f1",
+    "wof:geomhash":"017c49b96694993c2828f02d5a9ed5ce",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554737583,
-    "wof:lastmodified":1480913294,
+    "wof:lastmodified":1611182865,
     "wof:name":"65647",
     "wof:parent_id":404516285,
     "wof:placetype":"postalcode",

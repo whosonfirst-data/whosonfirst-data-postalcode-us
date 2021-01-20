@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015034,
-    "geom:area_square_m":143364941.128709,
+    "geom:area_square_m":143364941.128604,
     "geom:bbox":"-81.609002,39.461221,-81.414032,39.608363",
     "geom:latitude":39.537672,
     "geom:longitude":-81.504073,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.548767,
     "lbl:longitude":-81.493983,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lowell",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404526287,
         85633793,
-        102084767
+        102084767,
+        404526287,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777419"
     },
     "wof:country":"US",
-    "wof:geomhash":"b29a247fa6cd5fa473cf4e3abe637d7f",
+    "wof:geomhash":"cc6ad429babb824c738d25ef410e3dff",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554722175,
-    "wof:lastmodified":1480841963,
+    "wof:lastmodified":1611183228,
     "wof:name":"45744",
     "wof:parent_id":404526287,
     "wof:placetype":"postalcode",

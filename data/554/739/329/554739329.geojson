@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.084943,
-    "geom:area_square_m":827819445.396284,
+    "geom:area_square_m":827819445.396114,
     "geom:bbox":"-101.70861,37.736235,-101.321175,38.263626",
     "geom:latitude":37.987023,
     "geom:longitude":-101.550784,
@@ -14,20 +14,22 @@
     "lbl:latitude":37.980694,
     "lbl:longitude":-101.555227,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Kendall",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404503963,
         85633793,
-        102082675
+        102082675,
+        404503963,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787439"
     },
     "wof:country":"US",
-    "wof:geomhash":"98f1263b8934e8d2f8cbba7bd17cc483",
+    "wof:geomhash":"3dab959277117fa3724061cf1e433225",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554739329,
-    "wof:lastmodified":1480834575,
+    "wof:lastmodified":1611182678,
     "wof:name":"67857",
     "wof:parent_id":404503963,
     "wof:placetype":"postalcode",

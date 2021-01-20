@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00221,
-    "geom:area_square_m":22733066.249163,
+    "geom:area_square_m":22733066.249138,
     "geom:bbox":"-118.089245,33.699282,-118.02202,33.744991",
     "geom:latitude":33.725569,
     "geom:longitude":-118.051435,
@@ -13,20 +13,26 @@
     "lbl:latitude":33.72524,
     "lbl:longitude":-118.051579,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Huntington Beach",
+    "mz:postal_locality_alt":[
+        "Sunset Beach",
+        "Huntingtn Bch"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102080847,
         85923137,
-        102080847
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796573"
     },
     "wof:country":"US",
-    "wof:geomhash":"2f05ef44a9d7c6cd839d2a9e86c502ca",
+    "wof:geomhash":"828bc8c29a594461546e5041d656609b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554784437,
-    "wof:lastmodified":1480906250,
+    "wof:lastmodified":1611183936,
     "wof:name":"92649",
     "wof:parent_id":85923137,
     "wof:placetype":"postalcode",

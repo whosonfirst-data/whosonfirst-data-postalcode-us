@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008253,
-    "geom:area_square_m":75635795.990393,
+    "geom:area_square_m":75635795.990384,
     "geom:bbox":"-76.058149,42.094791,-75.94349,42.233534",
     "geom:latitude":42.170143,
     "geom:longitude":-75.997984,
@@ -14,20 +14,26 @@
     "lbl:latitude":42.165361,
     "lbl:longitude":-76.001942,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Johnson City",
+    "mz:postal_locality_alt":[
+        "Andes",
+        "Endicott"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404521823,
         85633793,
-        102081755
+        102081755,
+        404521823,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763001"
     },
     "wof:country":"US",
-    "wof:geomhash":"6f44126cfe15a0b3e46e1c7c1e512d29",
+    "wof:geomhash":"f173afb9280f4eac892e78b14b34602f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554702619,
-    "wof:lastmodified":1480829325,
+    "wof:lastmodified":1611184138,
     "wof:name":"13790",
     "wof:parent_id":404521823,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001287,
-    "geom:area_square_m":11823463.833854,
+    "geom:area_square_m":11823463.833844,
     "geom:bbox":"-87.790766,41.975369,-87.718655,42.015539",
     "geom:latitude":41.993019,
     "geom:longitude":-87.759629,
@@ -13,21 +13,27 @@
     "lbl:latitude":41.993019,
     "lbl:longitude":-87.759627,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Chicago",
+    "mz:postal_locality_alt":[
+        "Niles",
+        "Lincolnwood"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404496273,
         85633793,
+        102084317,
+        404496273,
         85940195,
-        102084317
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784297"
     },
     "wof:country":"US",
-    "wof:geomhash":"f2f16b31426fb723ad3aaa0461f6ec46",
+    "wof:geomhash":"4654ed1d95871e75a98e262c1e442161",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +46,7 @@
         }
     ],
     "wof:id":554783435,
-    "wof:lastmodified":1480802048,
+    "wof:lastmodified":1611183903,
     "wof:name":"60646",
     "wof:parent_id":85940195,
     "wof:placetype":"postalcode",

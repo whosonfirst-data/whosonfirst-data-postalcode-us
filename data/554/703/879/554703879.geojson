@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010574,
-    "geom:area_square_m":99950405.039218,
+    "geom:area_square_m":99950405.03925,
     "geom:bbox":"-79.48424,40.054689,-79.340436,40.21877",
     "geom:latitude":40.141565,
     "geom:longitude":-79.414871,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.146956,
     "lbl:longitude":-79.417201,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Acme",
+    "mz:postal_locality_alt":[
+        "Mount Pleasant"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404487537,
         85633793,
-        102081383
+        102081383,
+        404487537,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763891"
     },
     "wof:country":"US",
-    "wof:geomhash":"700f67b7721f5b3777a69c93e99fd539",
+    "wof:geomhash":"056086c2f472e24b7396fe0a675b96f6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554703879,
-    "wof:lastmodified":1480906232,
+    "wof:lastmodified":1611184471,
     "wof:name":"15610",
     "wof:parent_id":404487537,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014409,
-    "geom:area_square_m":128604909.015989,
+    "geom:area_square_m":128604909.015848,
     "geom:bbox":"-70.471362,43.697356,-70.324379,43.886574",
     "geom:latitude":43.797464,
     "geom:longitude":-70.404475,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.794689,
     "lbl:longitude":-70.405329,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Windham",
+    "mz:postal_locality_alt":[
+        "Naples"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404475443,
         85633793,
-        102087463
+        102087463,
+        404475443,
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759411"
     },
     "wof:country":"US",
-    "wof:geomhash":"8ea79935cb045677a06b67c6c814cbf4",
+    "wof:geomhash":"38b433d1c8a21446ec515a9027dda8a4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554698195,
-    "wof:lastmodified":1480785909,
+    "wof:lastmodified":1611184676,
     "wof:name":"04062",
     "wof:parent_id":404475443,
     "wof:placetype":"postalcode",

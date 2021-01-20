@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001912,
-    "geom:area_square_m":18160146.484836,
+    "geom:area_square_m":18160146.484844,
     "geom:bbox":"-75.471512,39.806088,-75.393279,39.86119",
     "geom:latitude":39.829452,
     "geom:longitude":-75.435404,
@@ -14,21 +14,27 @@
     "lbl:latitude":39.82883,
     "lbl:longitude":-75.435069,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Marcus Hook",
+    "mz:postal_locality_alt":[
+        "Boothwyn",
+        "Linwood"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404486695,
         85633793,
+        102080913,
+        404486695,
         101720035,
-        102080913
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765458"
     },
     "wof:country":"US",
-    "wof:geomhash":"f83263adb304f474dae2335a899591d1",
+    "wof:geomhash":"3a7a0151b747f4c8afe80ac903a1e3ac",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554757105,
-    "wof:lastmodified":1480906379,
+    "wof:lastmodified":1611184575,
     "wof:name":"19061",
     "wof:parent_id":101720035,
     "wof:placetype":"postalcode",

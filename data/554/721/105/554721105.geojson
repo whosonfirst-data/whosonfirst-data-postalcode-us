@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026231,
-    "geom:area_square_m":244167403.562081,
+    "geom:area_square_m":244167403.56209,
     "geom:bbox":"-81.336367,41.073374,-81.021678,41.246791",
     "geom:latitude":41.166743,
     "geom:longitude":-81.20257,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.16625,
     "lbl:longitude":-81.208229,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ravenna",
+    "mz:postal_locality_alt":[
+        "Rootstown"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404525747,
         85633793,
-        102084819
+        102084819,
+        404525747,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776729"
     },
     "wof:country":"US",
-    "wof:geomhash":"cc94749a9630c9c6f279830111d5eda4",
+    "wof:geomhash":"4987fe075096ff563428a056496357ec",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554721105,
-    "wof:lastmodified":1480796442,
+    "wof:lastmodified":1611184945,
     "wof:name":"44266",
     "wof:parent_id":404525747,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014854,
-    "geom:area_square_m":138211460.57132,
+    "geom:area_square_m":138211460.5714,
     "geom:bbox":"-74.867771,41.119559,-74.663708,41.266383",
     "geom:latitude":41.192549,
     "geom:longitude":-74.768823,
@@ -13,20 +13,26 @@
     "lbl:latitude":41.193137,
     "lbl:longitude":-74.778188,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Branchville",
+    "mz:postal_locality_alt":[
+        "Sandyston",
+        "Newton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478475,
         85633793,
-        102086779
+        102086779,
+        404478475,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760894"
     },
     "wof:country":"US",
-    "wof:geomhash":"c6f8d403fc1670c15922586d0ebda273",
+    "wof:geomhash":"63249785ff8ccb0df3428029665026cb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554700197,
-    "wof:lastmodified":1480914754,
+    "wof:lastmodified":1611183195,
     "wof:name":"07826",
     "wof:parent_id":404478475,
     "wof:placetype":"postalcode",

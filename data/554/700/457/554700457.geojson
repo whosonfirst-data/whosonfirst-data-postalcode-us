@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000708,
-    "geom:area_square_m":6728641.957254,
+    "geom:area_square_m":6728641.957261,
     "geom:bbox":"-75.172077,39.780734,-75.12899,39.812907",
     "geom:latitude":39.797567,
     "geom:longitude":-75.150625,
@@ -14,21 +14,26 @@
     "lbl:latitude":39.799077,
     "lbl:longitude":-75.150692,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wenonah",
+    "mz:postal_locality_alt":[
+        "Woodbury"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477443,
         85633793,
+        102085999,
+        404477443,
         85975449,
-        102085999
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761058"
     },
     "wof:country":"US",
-    "wof:geomhash":"aead50639575f5312710ba7a948ea255",
+    "wof:geomhash":"5c76ab052ca240bc3761a29ab64e82d1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554700457,
-    "wof:lastmodified":1480811066,
+    "wof:lastmodified":1611183204,
     "wof:name":"08090",
     "wof:parent_id":85975449,
     "wof:placetype":"postalcode",

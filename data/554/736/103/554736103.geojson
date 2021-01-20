@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015025,
-    "geom:area_square_m":146755627.433405,
+    "geom:area_square_m":146755627.433371,
     "geom:bbox":"-90.643276,37.729219,-90.460847,37.89847",
     "geom:latitude":37.824153,
     "geom:longitude":-90.547055,
@@ -14,20 +14,25 @@
     "lbl:latitude":37.824047,
     "lbl:longitude":-90.544546,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Desloge",
+    "mz:postal_locality_alt":[
+        "Park Hills"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404517197,
         85633793,
-        102085297
+        102085297,
+        404517197,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785781"
     },
     "wof:country":"US",
-    "wof:geomhash":"1e3e7304a550619d4a90d8ed5bfe51f7",
+    "wof:geomhash":"b0702ab9c6f42556102323e2452f18e3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554736103,
-    "wof:lastmodified":1480815343,
+    "wof:lastmodified":1611183018,
     "wof:name":"63601",
     "wof:parent_id":404517197,
     "wof:placetype":"postalcode",

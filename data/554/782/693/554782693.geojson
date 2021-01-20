@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018383,
-    "geom:area_square_m":166673088.18689,
+    "geom:area_square_m":166673088.186852,
     "geom:bbox":"-86.229204,42.77092,-86.03614,42.936071",
     "geom:latitude":42.84234,
     "geom:longitude":-86.132866,
@@ -13,20 +13,25 @@
     "lbl:latitude":42.843818,
     "lbl:longitude":-86.134355,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Holland",
+    "mz:postal_locality_alt":[
+        "Zeeland"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404508485,
         85633793,
-        102083097
+        102083097,
+        404508485,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779358"
     },
     "wof:country":"US",
-    "wof:geomhash":"18f12f97f43901a88999df9cf8327421",
+    "wof:geomhash":"939cc5b8ee6f61937cecba9e22c01fe4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554782693,
-    "wof:lastmodified":1480842678,
+    "wof:lastmodified":1611183611,
     "wof:name":"49424",
     "wof:parent_id":404508485,
     "wof:placetype":"postalcode",

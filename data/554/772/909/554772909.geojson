@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000304,
-    "geom:area_square_m":2961978.625318,
+    "geom:area_square_m":2961978.625314,
     "geom:bbox":"-122.583509,37.954924,-122.540474,37.972858",
     "geom:latitude":37.963111,
     "geom:longitude":-122.563588,
@@ -14,20 +14,22 @@
     "lbl:latitude":37.963111,
     "lbl:longitude":-122.563588,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ross",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102084353,
         85922013,
-        102084353
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12797478"
     },
     "wof:country":"US",
-    "wof:geomhash":"0654414cdf8ea3a5a06f5690fe29a8ef",
+    "wof:geomhash":"bb435af9c1db816c3dd24449fdea2a23",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554772909,
-    "wof:lastmodified":1480796904,
+    "wof:lastmodified":1611184843,
     "wof:name":"94957",
     "wof:parent_id":85922013,
     "wof:placetype":"postalcode",

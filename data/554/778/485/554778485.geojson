@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007653,
-    "geom:area_square_m":70743241.57377,
+    "geom:area_square_m":70743241.573773,
     "geom:bbox":"-70.539646,41.546554,-70.446514,41.685129",
     "geom:latitude":41.617229,
     "geom:longitude":-70.490368,
@@ -14,20 +14,26 @@
     "lbl:latitude":41.616801,
     "lbl:longitude":-70.490097,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mashpee",
+    "mz:postal_locality_alt":[
+        "Yarmouth Port",
+        "Orleans"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476185,
         85633793,
-        102084379
+        102084379,
+        404476185,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758919"
     },
     "wof:country":"US",
-    "wof:geomhash":"650887a7623794e069dfbab301a626f0",
+    "wof:geomhash":"9defa683bc7dffe06f6d75e17d64e62a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554778485,
-    "wof:lastmodified":1480802731,
+    "wof:lastmodified":1611183427,
     "wof:name":"02649",
     "wof:parent_id":404476185,
     "wof:placetype":"postalcode",

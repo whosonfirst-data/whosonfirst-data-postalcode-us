@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009866,
-    "geom:area_square_m":105737393.700337,
+    "geom:area_square_m":105737393.700272,
     "geom:bbox":"-90.279533,29.855463,-90.127428,29.969842",
     "geom:latitude":29.913491,
     "geom:longitude":-90.208078,
@@ -13,20 +13,29 @@
     "lbl:latitude":29.915778,
     "lbl:longitude":-90.207605,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Westwego",
+    "mz:postal_locality_alt":[
+        "Bridge City",
+        "Avondale",
+        "Venice",
+        "Metairie",
+        "Belle Chasse"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688735,
         102191575,
         85633793,
+        102083179,
         85948763,
-        102083179
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12788158"
     },
     "wof:country":"US",
-    "wof:geomhash":"5842c1340a5fcfaa40d63018a927c438",
+    "wof:geomhash":"8673af896618df0100484605b9890d66",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +47,7 @@
         }
     ],
     "wof:id":554783563,
-    "wof:lastmodified":1480910698,
+    "wof:lastmodified":1611183892,
     "wof:name":"70094",
     "wof:parent_id":85948763,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045984,
-    "geom:area_square_m":475931749.396426,
+    "geom:area_square_m":475931749.396578,
     "geom:bbox":"-85.541426,33.034292,-85.232378,33.306012",
     "geom:latitude":33.173079,
     "geom:longitude":-85.367882,
@@ -14,20 +14,25 @@
     "lbl:latitude":33.172406,
     "lbl:longitude":-85.363142,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Roanoke",
+    "mz:postal_locality_alt":[
+        "Rock Mills"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688675,
         102191575,
         85633793,
+        102085739,
         85913643,
-        102085739
+        85688675
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12773449"
     },
     "wof:country":"US",
-    "wof:geomhash":"7f0f6c70f85d4019ee8299066c2f77be",
+    "wof:geomhash":"32e3da8db5b3c3a88651508778528a31",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554715977,
-    "wof:lastmodified":1480840550,
+    "wof:lastmodified":1611183656,
     "wof:name":"36274",
     "wof:parent_id":85913643,
     "wof:placetype":"postalcode",

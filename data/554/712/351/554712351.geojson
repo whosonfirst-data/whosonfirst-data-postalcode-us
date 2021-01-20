@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018304,
-    "geom:area_square_m":187777199.525898,
+    "geom:area_square_m":187777199.525825,
     "geom:bbox":"-79.905343,33.872503,-79.613377,34.02364",
     "geom:latitude":33.9384,
     "geom:longitude":-79.762408,
@@ -14,19 +14,24 @@
     "lbl:latitude":33.937999,
     "lbl:longitude":-79.762289,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Scranton",
+    "mz:postal_locality_alt":[
+        "Lake City"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688683,
-        102085723
+        102085723,
+        85688683
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770282"
     },
     "wof:country":"US",
-    "wof:geomhash":"e101e7b126958cbeabb8e06261363722",
+    "wof:geomhash":"17349a553f6da8d57b50f6dc5175192c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554712351,
-    "wof:lastmodified":1480811574,
+    "wof:lastmodified":1611183719,
     "wof:name":"29591",
     "wof:parent_id":102085723,
     "wof:placetype":"postalcode",

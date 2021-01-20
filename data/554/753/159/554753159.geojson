@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00475,
-    "geom:area_square_m":46286145.114318,
+    "geom:area_square_m":46286145.114323,
     "geom:bbox":"-121.756753,37.966151,-121.622143,38.02902",
     "geom:latitude":37.993624,
     "geom:longitude":-121.692597,
@@ -14,20 +14,26 @@
     "lbl:latitude":37.993936,
     "lbl:longitude":-121.691139,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Oakley",
+    "mz:postal_locality_alt":[
+        "Bethel Island",
+        "Brentwood"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086225,
         85922153,
-        102086225
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12797353"
     },
     "wof:country":"US",
-    "wof:geomhash":"80d794be05e44a953a34b085547a86a4",
+    "wof:geomhash":"bce60d4f2cdb7cbcddb869bfdafc3611",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554753159,
-    "wof:lastmodified":1480908620,
+    "wof:lastmodified":1611182927,
     "wof:name":"94561",
     "wof:parent_id":85922153,
     "wof:placetype":"postalcode",

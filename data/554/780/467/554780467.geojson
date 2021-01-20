@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003366,
-    "geom:area_square_m":32328875.621127,
+    "geom:area_square_m":32328875.621119,
     "geom:bbox":"-76.545299,39.006398,-76.440546,39.076311",
     "geom:latitude":39.045313,
     "geom:longitude":-76.497071,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.046525,
     "lbl:longitude":-76.495552,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Arnold",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688501,
         102191575,
         85633793,
+        102083469,
         85949699,
-        102083469
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766405"
     },
     "wof:country":"US",
-    "wof:geomhash":"b8239554c4903de774ba05794f1a9e20",
+    "wof:geomhash":"deb1a21aa829f39fce18f28512d30cca",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554780467,
-    "wof:lastmodified":1480843201,
+    "wof:lastmodified":1611185187,
     "wof:name":"21012",
     "wof:parent_id":85949699,
     "wof:placetype":"postalcode",

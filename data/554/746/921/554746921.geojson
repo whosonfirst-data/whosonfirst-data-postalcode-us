@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00486,
-    "geom:area_square_m":53935397.161168,
+    "geom:area_square_m":53935397.161076,
     "geom:bbox":"-98.182088,26.081307,-98.125689,26.246807",
     "geom:latitude":26.16786,
     "geom:longitude":-98.154828,
@@ -14,20 +14,25 @@
     "lbl:latitude":26.167843,
     "lbl:longitude":-98.154834,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"San Juan",
+    "mz:postal_locality_alt":[
+        "Pharr"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102083831,
         101723479,
-        102083831
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12792197"
     },
     "wof:country":"US",
-    "wof:geomhash":"22b12f82cb3342d874e2de9c9de0d1a3",
+    "wof:geomhash":"854ce46d366c675a32a1034e7bbefd59",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554746921,
-    "wof:lastmodified":1480835004,
+    "wof:lastmodified":1611184033,
     "wof:name":"78589",
     "wof:parent_id":101723479,
     "wof:placetype":"postalcode",

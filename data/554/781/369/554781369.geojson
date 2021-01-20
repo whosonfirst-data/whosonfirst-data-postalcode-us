@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004159,
-    "geom:area_square_m":45349631.117233,
+    "geom:area_square_m":45349631.117223,
     "geom:bbox":"-80.693916,28.106971,-80.603976,28.206322",
     "geom:latitude":28.145687,
     "geom:longitude":-80.648465,
@@ -13,20 +13,22 @@
     "lbl:latitude":28.145509,
     "lbl:longitude":-80.649957,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Melbourne",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688651,
         102191575,
         85633793,
+        102084721,
         85932957,
-        102084721
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12772020"
     },
     "wof:country":"US",
-    "wof:geomhash":"36f986dde18ee0f7cc9d5caf6ca444fa",
+    "wof:geomhash":"8ba017327a81652be83503d85e0f1ca6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +40,7 @@
         }
     ],
     "wof:id":554781369,
-    "wof:lastmodified":1480800108,
+    "wof:lastmodified":1611184826,
     "wof:name":"32935",
     "wof:parent_id":85932957,
     "wof:placetype":"postalcode",

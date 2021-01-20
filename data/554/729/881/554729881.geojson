@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.051469,
-    "geom:area_square_m":458702989.020996,
+    "geom:area_square_m":458702989.020858,
     "geom:bbox":"-95.290894,43.746526,-94.954489,44.021585",
     "geom:latitude":43.88313,
     "geom:longitude":-95.137317,
@@ -14,21 +14,26 @@
     "lbl:latitude":43.879976,
     "lbl:longitude":-95.134004,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Windom",
+    "mz:postal_locality_alt":[
+        "Hills"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404512013,
         85633793,
+        102086995,
+        404512013,
         85952789,
-        102086995
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782251"
     },
     "wof:country":"US",
-    "wof:geomhash":"357228f32d73142ac7af51f3c0baccb2",
+    "wof:geomhash":"e86712c71dee338c33ae6997743b4d2c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554729881,
-    "wof:lastmodified":1480910356,
+    "wof:lastmodified":1611185414,
     "wof:name":"56101",
     "wof:parent_id":85952789,
     "wof:placetype":"postalcode",

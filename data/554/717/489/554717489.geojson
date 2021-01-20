@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035844,
-    "geom:area_square_m":359358209.524685,
+    "geom:area_square_m":359358209.524926,
     "geom:bbox":"-89.095417,35.703432,-88.794767,35.935063",
     "geom:latitude":35.826878,
     "geom:longitude":-88.926245,
@@ -14,20 +14,27 @@
     "lbl:latitude":35.827399,
     "lbl:longitude":-88.926409,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Humboldt",
+    "mz:postal_locality_alt":[
+        "Medina",
+        "Gibson",
+        "Jackson"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688701,
         102191575,
         85633793,
+        102086403,
         101722765,
-        102086403
+        85688701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12774417"
     },
     "wof:country":"US",
-    "wof:geomhash":"5d53f68c68bc7efa2d83a5ccf81e8853",
+    "wof:geomhash":"63f192bd337d113e4c7d08cb6bc96607",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554717489,
-    "wof:lastmodified":1480914699,
+    "wof:lastmodified":1611185027,
     "wof:name":"38343",
     "wof:parent_id":101722765,
     "wof:placetype":"postalcode",

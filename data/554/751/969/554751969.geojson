@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003973,
-    "geom:area_square_m":40518825.792354,
+    "geom:area_square_m":40518825.792412,
     "geom:bbox":"-118.659626,34.378685,-118.537841,34.461148",
     "geom:latitude":34.424653,
     "geom:longitude":-118.589246,
@@ -14,19 +14,25 @@
     "lbl:latitude":34.440248,
     "lbl:longitude":-118.643992,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Valencia",
+    "mz:postal_locality_alt":[
+        "Santa Clarita",
+        "Newhall"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688637,
-        102086957
+        102086957,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796000"
     },
     "wof:country":"US",
-    "wof:geomhash":"58f13f19907a81d6a9bd69ecdc80fa80",
+    "wof:geomhash":"f6cbf761a055d90eb550837caf254727",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554751969,
-    "wof:lastmodified":1480912610,
+    "wof:lastmodified":1611184346,
     "wof:name":"91355",
     "wof:parent_id":102086957,
     "wof:placetype":"postalcode",

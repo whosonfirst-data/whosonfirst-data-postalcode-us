@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036752,
-    "geom:area_square_m":330998705.172881,
+    "geom:area_square_m":330998705.172732,
     "geom:bbox":"-98.267827,43.125128,-98.069044,43.383783",
     "geom:latitude":43.251852,
     "geom:longitude":-98.165633,
@@ -14,20 +14,22 @@
     "lbl:latitude":43.248016,
     "lbl:longitude":-98.156994,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Delmont",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688693,
         102191575,
-        404490025,
         85633793,
-        102086053
+        102086053,
+        404490025,
+        85688693
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782861"
     },
     "wof:country":"US",
-    "wof:geomhash":"8912589bec623618b5b6c2b929f0a1ae",
+    "wof:geomhash":"d4d1fe49f07ec9a3de989431f6f44a0f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554731097,
-    "wof:lastmodified":1480916910,
+    "wof:lastmodified":1611183068,
     "wof:name":"57330",
     "wof:parent_id":404490025,
     "wof:placetype":"postalcode",

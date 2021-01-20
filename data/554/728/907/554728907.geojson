@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031375,
-    "geom:area_square_m":271573849.668703,
+    "geom:area_square_m":271573849.668695,
     "geom:bbox":"-93.440558,45.485753,-93.110181,45.644386",
     "geom:latitude":45.572716,
     "geom:longitude":-93.27004,
@@ -14,20 +14,25 @@
     "lbl:latitude":45.569486,
     "lbl:longitude":-93.276659,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cambridge",
+    "mz:postal_locality_alt":[
+        "Dalbo"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404513121,
         85633793,
-        102087813
+        102087813,
+        404513121,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781668"
     },
     "wof:country":"US",
-    "wof:geomhash":"351357995372ad26cb9fbdbb560d128b",
+    "wof:geomhash":"507b5ce6823bb4541ca20f7810a64ade",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554728907,
-    "wof:lastmodified":1480915794,
+    "wof:lastmodified":1611185044,
     "wof:name":"55008",
     "wof:parent_id":404513121,
     "wof:placetype":"postalcode",

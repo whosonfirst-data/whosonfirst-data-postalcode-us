@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001402,
-    "geom:area_square_m":15550548.110861,
+    "geom:area_square_m":15550548.110829,
     "geom:bbox":"-80.244196,26.197239,-80.192143,26.230559",
     "geom:latitude":26.215717,
     "geom:longitude":-80.217739,
@@ -13,20 +13,28 @@
     "lbl:latitude":26.215954,
     "lbl:longitude":-80.217951,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pompano Beach",
+    "mz:postal_locality_alt":[
+        "North Lauderdale",
+        "Margate",
+        "Plantation",
+        "Fort Lauderdale"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688651,
         102191575,
         85633793,
+        102084727,
         85932319,
-        102084727
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12772105"
     },
     "wof:country":"US",
-    "wof:geomhash":"06d1163114b232bb55bbc5e91ece5805",
+    "wof:geomhash":"fb8857e517a15cfbef6093f59e709cff",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +46,7 @@
         }
     ],
     "wof:id":554781497,
-    "wof:lastmodified":1480802320,
+    "wof:lastmodified":1611184816,
     "wof:name":"33068",
     "wof:parent_id":85932319,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009182,
-    "geom:area_square_m":84235183.992131,
+    "geom:area_square_m":84235183.99216,
     "geom:bbox":"-85.308136,42.045354,-85.15818,42.159218",
     "geom:latitude":42.105252,
     "geom:longitude":-85.22291,
@@ -14,20 +14,22 @@
     "lbl:latitude":42.110137,
     "lbl:longitude":-85.218699,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Athens",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404505805,
         85633793,
-        102082993
+        102082993,
+        404505805,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779122"
     },
     "wof:country":"US",
-    "wof:geomhash":"b8590efee5bed5144e7397d6a058cd58",
+    "wof:geomhash":"1b8fa552beb06d934d5dd23636820bd9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554724719,
-    "wof:lastmodified":1480843001,
+    "wof:lastmodified":1611183772,
     "wof:name":"49011",
     "wof:parent_id":404505805,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001577,
-    "geom:area_square_m":14788476.85849,
+    "geom:area_square_m":14788476.858522,
     "geom:bbox":"-111.867521,40.637771,-111.802463,40.676461",
     "geom:latitude":40.661043,
     "geom:longitude":-111.834714,
@@ -13,20 +13,26 @@
     "lbl:latitude":40.661044,
     "lbl:longitude":-111.834714,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Salt Lake City",
+    "mz:postal_locality_alt":[
+        "Holladay",
+        "Murray"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688567,
         102191575,
         85633793,
+        102082877,
         101728049,
-        102082877
+        85688567
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12794140"
     },
     "wof:country":"US",
-    "wof:geomhash":"1623c57f2e215963a44678de0d0094c6",
+    "wof:geomhash":"73c85c44df1dfdf1853d6af7dd3ad772",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554749923,
-    "wof:lastmodified":1480793070,
+    "wof:lastmodified":1611183562,
     "wof:name":"84117",
     "wof:parent_id":101728049,
     "wof:placetype":"postalcode",

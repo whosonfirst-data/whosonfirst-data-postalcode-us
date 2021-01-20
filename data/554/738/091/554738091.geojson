@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027062,
-    "geom:area_square_m":260883742.660289,
+    "geom:area_square_m":260883742.660117,
     "geom:bbox":"-96.022597,38.695291,-95.760381,38.870002",
     "geom:latitude":38.774572,
     "geom:longitude":-95.881794,
@@ -14,20 +14,22 @@
     "lbl:latitude":38.768875,
     "lbl:longitude":-95.880727,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Burlingame",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404504983,
         85633793,
-        102083421
+        102083421,
+        404504983,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786833"
     },
     "wof:country":"US",
-    "wof:geomhash":"fab0d8c3009f5d0e16691c14b0fa9d44",
+    "wof:geomhash":"36a889ba6a773218c55836fac5307f73",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554738091,
-    "wof:lastmodified":1480840139,
+    "wof:lastmodified":1611183101,
     "wof:name":"66413",
     "wof:parent_id":404504983,
     "wof:placetype":"postalcode",

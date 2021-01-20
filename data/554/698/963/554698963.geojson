@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009888,
-    "geom:area_square_m":86754296.311101,
+    "geom:area_square_m":86754296.311049,
     "geom:bbox":"-73.084774,44.746251,-72.899905,44.87702",
     "geom:latitude":44.80292,
     "geom:longitude":-72.96671,
@@ -14,20 +14,25 @@
     "lbl:latitude":44.801687,
     "lbl:longitude":-72.967394,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fairfield",
+    "mz:postal_locality_alt":[
+        "Williston"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688763,
         102191575,
-        404527119,
         85633793,
-        102080729
+        102080729,
+        404527119,
+        85688763
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759989"
     },
     "wof:country":"US",
-    "wof:geomhash":"cc44a6398fac06eff11440ea37cb8ba6",
+    "wof:geomhash":"eb34e65bea947f508842267ebe964881",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554698963,
-    "wof:lastmodified":1480903696,
+    "wof:lastmodified":1611184678,
     "wof:name":"05455",
     "wof:parent_id":404527119,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02144,
-    "geom:area_square_m":215605452.947679,
+    "geom:area_square_m":215605452.947554,
     "geom:bbox":"-78.338923,35.480579,-78.154358,35.688639",
     "geom:latitude":35.582841,
     "geom:longitude":-78.257601,
@@ -14,19 +14,26 @@
     "lbl:latitude":35.577524,
     "lbl:longitude":-78.261311,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Selma",
+    "mz:postal_locality_alt":[
+        "Cary",
+        "Chapel Hill",
+        "Princeton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688773,
-        102080883
+        102080883,
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12769124"
     },
     "wof:country":"US",
-    "wof:geomhash":"eaf76084913b6639fb76112aab5ae27c",
+    "wof:geomhash":"f682e7dae60b365cdc89d72e6d1b76b4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +44,7 @@
         }
     ],
     "wof:id":554710777,
-    "wof:lastmodified":1480904307,
+    "wof:lastmodified":1611185117,
     "wof:name":"27576",
     "wof:parent_id":102080883,
     "wof:placetype":"postalcode",

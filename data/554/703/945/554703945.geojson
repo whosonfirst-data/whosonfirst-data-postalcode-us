@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027007,
-    "geom:area_square_m":254874327.041904,
+    "geom:area_square_m":254874327.042133,
     "geom:bbox":"-79.34021,40.139576,-79.058868,40.357548",
     "geom:latitude":40.250454,
     "geom:longitude":-79.223235,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.247834,
     "lbl:longitude":-79.230681,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ligonier",
+    "mz:postal_locality_alt":[
+        "Jones Mills"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404487499,
         85633793,
-        102081383
+        102081383,
+        404487499,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763929"
     },
     "wof:country":"US",
-    "wof:geomhash":"840b3a599b5567cb297bf2af6ce4848a",
+    "wof:geomhash":"6ee639a0794f3d6a82ce7d4af7125461",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554703945,
-    "wof:lastmodified":1480830629,
+    "wof:lastmodified":1611184482,
     "wof:name":"15658",
     "wof:parent_id":404487499,
     "wof:placetype":"postalcode",

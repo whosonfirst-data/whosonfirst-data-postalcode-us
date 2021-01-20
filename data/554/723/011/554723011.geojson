@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.051788,
-    "geom:area_square_m":485049797.389472,
+    "geom:area_square_m":485049797.389335,
     "geom:bbox":"-86.581739,40.627938,-86.182757,40.866665",
     "geom:latitude":40.760069,
     "geom:longitude":-86.376446,
@@ -14,21 +14,26 @@
     "lbl:latitude":40.759919,
     "lbl:longitude":-86.376113,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Logansport",
+    "mz:postal_locality_alt":[
+        "Kokomo"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404501159,
         85633793,
+        102087039,
+        404501159,
         85941881,
-        102087039
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777985"
     },
     "wof:country":"US",
-    "wof:geomhash":"e9b715e43ca34021a18ba7ab2bfa7c20",
+    "wof:geomhash":"5c68ef32e3205bd5d3167cae4f7997b0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554723011,
-    "wof:lastmodified":1480789053,
+    "wof:lastmodified":1611183801,
     "wof:name":"46947",
     "wof:parent_id":85941881,
     "wof:placetype":"postalcode",

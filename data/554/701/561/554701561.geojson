@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003379,
-    "geom:area_square_m":31293003.86085,
+    "geom:area_square_m":31293003.86087,
     "geom:bbox":"-74.245564,41.469269,-74.116347,41.517939",
     "geom:latitude":41.493244,
     "geom:longitude":-74.175841,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.49552,
     "lbl:longitude":-74.173104,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Maybrook",
+    "mz:postal_locality_alt":[
+        "Harriman"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522915,
         85633793,
-        102083061
+        102083061,
+        404522915,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762359"
     },
     "wof:country":"US",
-    "wof:geomhash":"3c141c6d52a8bc48b23eba9529008f18",
+    "wof:geomhash":"c4feb52bbd83a2ad6b6d1a77594988da",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554701561,
-    "wof:lastmodified":1480834094,
+    "wof:lastmodified":1611182613,
     "wof:name":"12543",
     "wof:parent_id":404522915,
     "wof:placetype":"postalcode",

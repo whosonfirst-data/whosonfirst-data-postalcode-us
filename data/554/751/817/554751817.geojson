@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001004,
-    "geom:area_square_m":10282429.912663,
+    "geom:area_square_m":10282429.912676,
     "geom:bbox":"-118.278337,34.082876,-118.22689,34.15326",
     "geom:latitude":34.111841,
     "geom:longitude":-118.260058,
@@ -13,20 +13,25 @@
     "lbl:latitude":34.111885,
     "lbl:longitude":-118.261032,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Los Angeles",
+    "mz:postal_locality_alt":[
+        "Atwater Village"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086957,
         85923517,
-        102086957
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795647"
     },
     "wof:country":"US",
-    "wof:geomhash":"b9bd9aa8a9a452d93e2a7c3983523f51",
+    "wof:geomhash":"14961927e80e44967799d56ce59030e3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554751817,
-    "wof:lastmodified":1480912627,
+    "wof:lastmodified":1611184331,
     "wof:name":"90039",
     "wof:parent_id":85923517,
     "wof:placetype":"postalcode",

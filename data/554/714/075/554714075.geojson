@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009997,
-    "geom:area_square_m":103813865.375901,
+    "geom:area_square_m":103813865.37592,
     "geom:bbox":"-84.700538,32.819167,-84.50685,32.960949",
     "geom:latitude":32.878586,
     "geom:longitude":-84.604818,
@@ -14,19 +14,24 @@
     "lbl:latitude":32.881465,
     "lbl:longitude":-84.60815,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Manchester",
+    "mz:postal_locality_alt":[
+        "Toms River"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688535,
-        102082961
+        102082961,
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12771419"
     },
     "wof:country":"US",
-    "wof:geomhash":"ed04ba0ed2aac470606801d3d525f61d",
+    "wof:geomhash":"d0531dbea3f79829204a07c51bbb9827",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554714075,
-    "wof:lastmodified":1480819298,
+    "wof:lastmodified":1611183372,
     "wof:name":"31816",
     "wof:parent_id":102082961,
     "wof:placetype":"postalcode",

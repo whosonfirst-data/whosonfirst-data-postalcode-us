@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038728,
-    "geom:area_square_m":340291246.254936,
+    "geom:area_square_m":340291246.254862,
     "geom:bbox":"-97.158198,44.595536,-96.833627,44.804394",
     "geom:latitude":44.715689,
     "geom:longitude":-97.008428,
@@ -14,20 +14,22 @@
     "lbl:latitude":44.706368,
     "lbl:longitude":-97.014945,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Castlewood",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688693,
         102191575,
-        404490655,
         85633793,
-        102086845
+        102086845,
+        404490655,
+        85688693
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782797"
     },
     "wof:country":"US",
-    "wof:geomhash":"402a1e220e142b1a664e9956f34fedbd",
+    "wof:geomhash":"13d4e17196b1da3ac66c533f86c05314",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554730961,
-    "wof:lastmodified":1480913567,
+    "wof:lastmodified":1611182741,
     "wof:name":"57223",
     "wof:parent_id":404490655,
     "wof:placetype":"postalcode",

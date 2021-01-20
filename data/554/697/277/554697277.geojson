@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001022,
-    "geom:area_square_m":9291004.487008,
+    "geom:area_square_m":9291004.487009,
     "geom:bbox":"-71.188858,42.675863,-71.133686,42.707197",
     "geom:latitude":42.689805,
     "geom:longitude":-71.161055,
@@ -13,21 +13,26 @@
     "lbl:latitude":42.689974,
     "lbl:longitude":-71.160383,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lawrence",
+    "mz:postal_locality_alt":[
+        "Tewksbury"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476205,
         85633793,
+        102084463,
+        404476205,
         85950415,
-        102084463
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758597"
     },
     "wof:country":"US",
-    "wof:geomhash":"904c18250b5a914c8cba1414d56b1626",
+    "wof:geomhash":"5b2ebf56c8341974fc17c21b0237b85a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554697277,
-    "wof:lastmodified":1480801146,
+    "wof:lastmodified":1611184654,
     "wof:name":"01843",
     "wof:parent_id":85950415,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.051945,
-    "geom:area_square_m":486513177.481954,
+    "geom:area_square_m":486513177.481802,
     "geom:bbox":"-86.261714,40.644353,-85.922012,40.882711",
     "geom:latitude":40.760116,
     "geom:longitude":-86.06309,
@@ -14,21 +14,27 @@
     "lbl:latitude":40.760125,
     "lbl:longitude":-86.061471,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Peru",
+    "mz:postal_locality_alt":[
+        "Kokomo",
+        "Mexico"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404501295,
         85633793,
+        102087079,
+        404501295,
         85941673,
-        102087079
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777999"
     },
     "wof:country":"US",
-    "wof:geomhash":"a231e8f3b35cd07b86f59fa12b686384",
+    "wof:geomhash":"6b26a0d0176d32b48b6dcce487fd815e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554723027,
-    "wof:lastmodified":1480910217,
+    "wof:lastmodified":1611183801,
     "wof:name":"46970",
     "wof:parent_id":85941673,
     "wof:placetype":"postalcode",

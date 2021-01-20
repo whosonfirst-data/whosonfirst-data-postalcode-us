@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008948,
-    "geom:area_square_m":80563010.295185,
+    "geom:area_square_m":80563010.295201,
     "geom:bbox":"-97.03302,43.199685,-96.924405,43.32987",
     "geom:latitude":43.270235,
     "geom:longitude":-96.97793,
@@ -14,20 +14,22 @@
     "lbl:latitude":43.264816,
     "lbl:longitude":-96.972194,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Davis",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688693,
         102191575,
-        404491223,
         85633793,
-        102086867
+        102086867,
+        404491223,
+        85688693
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782708"
     },
     "wof:country":"US",
-    "wof:geomhash":"7406214c62fa7d9e2c28b811803535ab",
+    "wof:geomhash":"d30999e999736f533c9cc3a5e89ab6df",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554730807,
-    "wof:lastmodified":1480915546,
+    "wof:lastmodified":1611182751,
     "wof:name":"57021",
     "wof:parent_id":404491223,
     "wof:placetype":"postalcode",

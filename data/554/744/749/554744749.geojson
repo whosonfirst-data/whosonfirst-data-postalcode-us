@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.05914,
-    "geom:area_square_m":616963092.278631,
+    "geom:area_square_m":616963092.278988,
     "geom:bbox":"-94.458248,32.326583,-94.11877,32.686159",
     "geom:latitude":32.468831,
     "geom:longitude":-94.294893,
@@ -13,19 +13,25 @@
     "lbl:latitude":32.468303,
     "lbl:longitude":-94.299079,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Marshall",
+    "mz:postal_locality_alt":[
+        "Carthage",
+        "De Berry"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688753,
-        102085031
+        102085031,
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12790706"
     },
     "wof:country":"US",
-    "wof:geomhash":"5344483b9f2ad62b2b979bc8aefb64ff",
+    "wof:geomhash":"a331e3638f2016761792b0f3ff67b6e0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +42,7 @@
         }
     ],
     "wof:id":554744749,
-    "wof:lastmodified":1480911201,
+    "wof:lastmodified":1611184728,
     "wof:name":"75672",
     "wof:parent_id":102085031,
     "wof:placetype":"postalcode",

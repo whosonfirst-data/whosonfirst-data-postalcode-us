@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001995,
-    "geom:area_square_m":18914304.904939,
+    "geom:area_square_m":18914304.904952,
     "geom:bbox":"-75.066171,39.903338,-74.982632,39.954188",
     "geom:latitude":39.931313,
     "geom:longitude":-75.025385,
@@ -14,21 +14,27 @@
     "lbl:latitude":39.931978,
     "lbl:longitude":-75.027557,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cherry Hill",
+    "mz:postal_locality_alt":[
+        "Merchantville",
+        "Haddonfield"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477993,
         85633793,
+        102081131,
+        404477993,
         85976233,
-        102081131
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760978"
     },
     "wof:country":"US",
-    "wof:geomhash":"1d9a3f95e687b8bd4de115e73cbc0966",
+    "wof:geomhash":"2326ef354519df1d0299d7950df6e455",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554700313,
-    "wof:lastmodified":1480823435,
+    "wof:lastmodified":1611183191,
     "wof:name":"08002",
     "wof:parent_id":85976233,
     "wof:placetype":"postalcode",

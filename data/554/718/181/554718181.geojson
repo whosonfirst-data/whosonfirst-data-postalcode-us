@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028002,
-    "geom:area_square_m":292913282.69367,
+    "geom:area_square_m":292913282.693411,
     "geom:bbox":"-90.604493,32.131883,-90.319919,32.309929",
     "geom:latitude":32.225827,
     "geom:longitude":-90.449068,
@@ -14,19 +14,27 @@
     "lbl:latitude":32.225111,
     "lbl:longitude":-90.444671,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Raymond",
+    "mz:postal_locality_alt":[
+        "Raleigh",
+        "Learned",
+        "Newhebron",
+        "Taylorsville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688579,
-        102081407
+        102081407,
+        85688579
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12774817"
     },
     "wof:country":"US",
-    "wof:geomhash":"3ec1fa19e6bf554d5ab4e888d4ca704b",
+    "wof:geomhash":"4c7740d068121b28e2ef98c8c9303a83",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +45,7 @@
         }
     ],
     "wof:id":554718181,
-    "wof:lastmodified":1480829243,
+    "wof:lastmodified":1611185565,
     "wof:name":"39154",
     "wof:parent_id":102081407,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023842,
-    "geom:area_square_m":211280816.432543,
+    "geom:area_square_m":211280816.432538,
     "geom:bbox":"-72.018899,44.100917,-71.79423,44.314682",
     "geom:latitude":44.22063,
     "geom:longitude":-71.894619,
@@ -14,20 +14,27 @@
     "lbl:latitude":44.222416,
     "lbl:longitude":-71.877173,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lisbon",
+    "mz:postal_locality_alt":[
+        "Lyman",
+        "Landaff",
+        "Milan"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688689,
         102191575,
-        404476897,
         85633793,
-        102086567
+        102086567,
+        404476897,
+        85688689
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759231"
     },
     "wof:country":"US",
-    "wof:geomhash":"a8fb3b2a388c804423682203fa6fb06b",
+    "wof:geomhash":"55dee1da0f8bd6a38100f8fa83584872",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554697935,
-    "wof:lastmodified":1480916383,
+    "wof:lastmodified":1611184651,
     "wof:name":"03585",
     "wof:parent_id":404476897,
     "wof:placetype":"postalcode",

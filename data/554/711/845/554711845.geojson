@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009864,
-    "geom:area_square_m":99205541.35591,
+    "geom:area_square_m":99205541.355759,
     "geom:bbox":"-82.67565,35.491329,-82.558412,35.653071",
     "geom:latitude":35.57237,
     "geom:longitude":-82.614285,
@@ -13,20 +13,25 @@
     "lbl:latitude":35.571971,
     "lbl:longitude":-82.614729,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Asheville",
+    "mz:postal_locality_alt":[
+        "Candler"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688773,
         102191575,
         85633793,
+        102087845,
         85981171,
-        102087845
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12769941"
     },
     "wof:country":"US",
-    "wof:geomhash":"722aeeb9bbc87acdb3bbbf0aa73c04dd",
+    "wof:geomhash":"e387711078bba6569cba9da21ff3223b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554711845,
-    "wof:lastmodified":1480781967,
+    "wof:lastmodified":1611185303,
     "wof:name":"28806",
     "wof:parent_id":85981171,
     "wof:placetype":"postalcode",

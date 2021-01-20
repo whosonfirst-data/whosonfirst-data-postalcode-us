@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00745,
-    "geom:area_square_m":71906033.96301,
+    "geom:area_square_m":71906033.963076,
     "geom:bbox":"-75.161041,38.606862,-75.047922,38.749097",
     "geom:latitude":38.68679,
     "geom:longitude":-75.098255,
@@ -14,19 +14,27 @@
     "lbl:latitude":38.686005,
     "lbl:longitude":-75.086681,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Rehoboth Beach",
+    "mz:postal_locality_alt":[
+        "Dewey Beach",
+        "Lewes",
+        "Ocean View",
+        "Milford"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688611,
-        102083887
+        102083887,
+        85688611
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765832"
     },
     "wof:country":"US",
-    "wof:geomhash":"c2eb5a48b13e041933de048823476b39",
+    "wof:geomhash":"119a660614395e2379ceea68b9238ac1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +45,7 @@
         }
     ],
     "wof:id":554780389,
-    "wof:lastmodified":1480839217,
+    "wof:lastmodified":1611185192,
     "wof:name":"19971",
     "wof:parent_id":102083887,
     "wof:placetype":"postalcode",

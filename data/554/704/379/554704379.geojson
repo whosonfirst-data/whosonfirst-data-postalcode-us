@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018366,
-    "geom:area_square_m":171722945.945138,
+    "geom:area_square_m":171722945.945286,
     "geom:bbox":"-79.366317,40.782703,-79.163411,40.9576",
     "geom:latitude":40.873784,
     "geom:longitude":-79.260884,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.873676,
     "lbl:longitude":-79.257028,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Dayton",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404484351,
         85633793,
-        102081371
+        102081371,
+        404484351,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764206"
     },
     "wof:country":"US",
-    "wof:geomhash":"38042ea42a0aaabfe9033ed813fb7e46",
+    "wof:geomhash":"68b34b0d9da4851e5c64ae92b81efc4b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554704379,
-    "wof:lastmodified":1480836892,
+    "wof:lastmodified":1611184499,
     "wof:name":"16222",
     "wof:parent_id":404484351,
     "wof:placetype":"postalcode",

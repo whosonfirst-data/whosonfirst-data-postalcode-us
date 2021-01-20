@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004441,
-    "geom:area_square_m":41846326.6008,
+    "geom:area_square_m":41846326.600821,
     "geom:bbox":"-74.327404,40.322167,-74.198088,40.395356",
     "geom:latitude":40.362592,
     "geom:longitude":-74.259124,
@@ -14,20 +14,26 @@
     "lbl:latitude":40.35965,
     "lbl:longitude":-74.261462,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Morganville",
+    "mz:postal_locality_alt":[
+        "Marlboro",
+        "Englishtown"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478365,
         85633793,
-        102085049
+        102085049,
+        404478365,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760870"
     },
     "wof:country":"US",
-    "wof:geomhash":"62e92e215222c310dce7316367f4bb16",
+    "wof:geomhash":"9fff375c014916a716b340ef81380735",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554700181,
-    "wof:lastmodified":1480809854,
+    "wof:lastmodified":1611183191,
     "wof:name":"07751",
     "wof:parent_id":404478365,
     "wof:placetype":"postalcode",

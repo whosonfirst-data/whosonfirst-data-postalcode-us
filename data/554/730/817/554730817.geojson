@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046025,
-    "geom:area_square_m":407593077.771051,
+    "geom:area_square_m":407593077.771202,
     "geom:bbox":"-96.646541,44.080175,-96.403364,44.412776",
     "geom:latitude":44.259257,
     "geom:longitude":-96.51238,
@@ -14,20 +14,25 @@
     "lbl:latitude":44.259932,
     "lbl:longitude":-96.518396,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Elkton",
+    "mz:postal_locality_alt":[
+        "Elk Point"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688693,
         102191575,
-        404490151,
         85633793,
-        102086013
+        102086013,
+        404490151,
+        85688693
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782712"
     },
     "wof:country":"US",
-    "wof:geomhash":"09ae289b0f8d388ef61ebb2b9a0811f1",
+    "wof:geomhash":"f207101f562d8fb6bf9cb9412eb0960e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554730817,
-    "wof:lastmodified":1480916966,
+    "wof:lastmodified":1611182727,
     "wof:name":"57026",
     "wof:parent_id":404490151,
     "wof:placetype":"postalcode",

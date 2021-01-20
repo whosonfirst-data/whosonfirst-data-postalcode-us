@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030532,
-    "geom:area_square_m":314532247.075486,
+    "geom:area_square_m":314532247.07614,
     "geom:bbox":"-83.951533,33.367239,-83.736011,33.761572",
     "geom:latitude":33.578271,
     "geom:longitude":-83.820461,
@@ -13,20 +13,25 @@
     "lbl:latitude":33.580062,
     "lbl:longitude":-83.823102,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Covington",
+    "mz:postal_locality_alt":[
+        "Porterdale"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688535,
         102191575,
         85633793,
+        102082963,
         85936971,
-        102082963
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770501"
     },
     "wof:country":"US",
-    "wof:geomhash":"ca436f95694f710bc8f6401cced44714",
+    "wof:geomhash":"d1d0e6607ee173b29a725120964ece59",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554712673,
-    "wof:lastmodified":1480823668,
+    "wof:lastmodified":1611183701,
     "wof:name":"30014",
     "wof:parent_id":85936971,
     "wof:placetype":"postalcode",

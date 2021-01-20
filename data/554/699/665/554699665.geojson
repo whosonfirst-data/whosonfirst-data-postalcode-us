@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002686,
-    "geom:area_square_m":24855938.299547,
+    "geom:area_square_m":24855938.299539,
     "geom:bbox":"-73.093853,41.51422,-73.036385,41.588546",
     "geom:latitude":41.549617,
     "geom:longitude":-73.067221,
@@ -13,21 +13,23 @@
     "lbl:latitude":41.550872,
     "lbl:longitude":-73.068653,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Waterbury",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688629,
         102191575,
-        404495803,
         85633793,
+        102086923,
+        404495803,
         85930889,
-        102086923
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760496"
     },
     "wof:country":"US",
-    "wof:geomhash":"32e0361c4152fd22cf3c2d3d57616113",
+    "wof:geomhash":"61c2fa353516fb7aaff9eefb600bcfb4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +42,7 @@
         }
     ],
     "wof:id":554699665,
-    "wof:lastmodified":1480916209,
+    "wof:lastmodified":1611184628,
     "wof:name":"06708",
     "wof:parent_id":85930889,
     "wof:placetype":"postalcode",

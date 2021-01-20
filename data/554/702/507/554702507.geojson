@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014743,
-    "geom:area_square_m":129273343.066963,
+    "geom:area_square_m":129273343.066901,
     "geom:bbox":"-75.080058,44.768484,-74.826733,44.912181",
     "geom:latitude":44.837227,
     "geom:longitude":-74.963933,
@@ -14,20 +14,26 @@
     "lbl:latitude":44.837267,
     "lbl:longitude":-74.960097,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Norfolk",
+    "mz:postal_locality_alt":[
+        "Canton",
+        "Norwood"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404523137,
         85633793,
-        102082379
+        102082379,
+        404523137,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762929"
     },
     "wof:country":"US",
-    "wof:geomhash":"3c923f1fc2c676aa6ae3b6ad42942cd1",
+    "wof:geomhash":"9c04695230e3003c025bf8d657cc5b6c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554702507,
-    "wof:lastmodified":1480794829,
+    "wof:lastmodified":1611184156,
     "wof:name":"13667",
     "wof:parent_id":404523137,
     "wof:placetype":"postalcode",

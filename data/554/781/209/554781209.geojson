@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00583,
-    "geom:area_square_m":63097749.057483,
+    "geom:area_square_m":63097749.057531,
     "geom:bbox":"-80.950929,28.867803,-80.854309,28.972913",
     "geom:latitude":28.923047,
     "geom:longitude":-80.901028,
@@ -13,19 +13,25 @@
     "lbl:latitude":28.928953,
     "lbl:longitude":-80.919135,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Edgewater",
+    "mz:postal_locality_alt":[
+        "Satsuma",
+        "New Smyrna Beach"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688651,
-        102085865
+        102085865,
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12771535"
     },
     "wof:country":"US",
-    "wof:geomhash":"00ba84235e4c0efda039291ce82bcb9b",
+    "wof:geomhash":"9711672123b920cc31b39c90157a5904",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +42,7 @@
         }
     ],
     "wof:id":554781209,
-    "wof:lastmodified":1480809127,
+    "wof:lastmodified":1611184832,
     "wof:name":"32141",
     "wof:parent_id":102085865,
     "wof:placetype":"postalcode",

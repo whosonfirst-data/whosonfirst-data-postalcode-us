@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0236,
-    "geom:area_square_m":223199228.030793,
+    "geom:area_square_m":223199228.030802,
     "geom:bbox":"-74.455997,40.033872,-74.241539,40.172355",
     "geom:latitude":40.104807,
     "geom:longitude":-74.349825,
@@ -14,20 +14,26 @@
     "lbl:latitude":40.108665,
     "lbl:longitude":-74.358602,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Jackson",
+    "mz:postal_locality_alt":[
+        "Princeton",
+        "Belle Mead"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477839,
         85633793,
-        102081485
+        102081485,
+        404477839,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761171"
     },
     "wof:country":"US",
-    "wof:geomhash":"e07b21e60b196d5d253177b00e9075dd",
+    "wof:geomhash":"efcade95862ba42162e451bb2a40d438",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554700585,
-    "wof:lastmodified":1480817268,
+    "wof:lastmodified":1611183206,
     "wof:name":"08527",
     "wof:parent_id":404477839,
     "wof:placetype":"postalcode",

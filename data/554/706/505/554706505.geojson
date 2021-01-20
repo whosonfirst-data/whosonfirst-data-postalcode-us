@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010625,
-    "geom:area_square_m":100248829.600434,
+    "geom:area_square_m":100248829.600426,
     "geom:bbox":"-75.922693,40.182572,-75.738436,40.326608",
     "geom:latitude":40.263817,
     "geom:longitude":-75.841645,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.2666,
     "lbl:longitude":-75.838436,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Birdsboro",
+    "mz:postal_locality_alt":[
+        "Geigertown"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404484549,
         85633793,
-        102080991
+        102080991,
+        404484549,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765687"
     },
     "wof:country":"US",
-    "wof:geomhash":"aa85e2228a246a44398cd2c23c32ccb0",
+    "wof:geomhash":"1df9f13b4a91f666f10b126dd6645d9d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554706505,
-    "wof:lastmodified":1480903400,
+    "wof:lastmodified":1611182684,
     "wof:name":"19508",
     "wof:parent_id":404484549,
     "wof:placetype":"postalcode",

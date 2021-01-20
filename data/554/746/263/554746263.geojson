@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03849,
-    "geom:area_square_m":414716584.948735,
+    "geom:area_square_m":414716584.948663,
     "geom:bbox":"-95.371094,29.240231,-95.093211,29.523774",
     "geom:latitude":29.381529,
     "geom:longitude":-95.242,
@@ -13,19 +13,27 @@
     "lbl:latitude":29.380858,
     "lbl:longitude":-95.241857,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Alvin",
+    "mz:postal_locality_alt":[
+        "Friendswood",
+        "Liverpool",
+        "Dayton",
+        "Hardin"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688753,
-        102080677
+        102080677,
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12791661"
     },
     "wof:country":"US",
-    "wof:geomhash":"7d5c1d13c7a267328bdf212323cb07b2",
+    "wof:geomhash":"96ca3a60a60cbb686fcc473698ec35ca",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +44,7 @@
         }
     ],
     "wof:id":554746263,
-    "wof:lastmodified":1480906877,
+    "wof:lastmodified":1611184029,
     "wof:name":"77511",
     "wof:parent_id":102080677,
     "wof:placetype":"postalcode",

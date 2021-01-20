@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003285,
-    "geom:area_square_m":34103894.579081,
+    "geom:area_square_m":34103894.579091,
     "geom:bbox":"-97.188058,32.860115,-97.09978,32.92374",
     "geom:latitude":32.891201,
     "geom:longitude":-97.148788,
@@ -14,20 +14,27 @@
     "lbl:latitude":32.891787,
     "lbl:longitude":-97.149641,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Colleyville",
+    "mz:postal_locality_alt":[
+        "Grapevine",
+        "Fort Worth",
+        "Bedford"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102083201,
         101723675,
-        102083201
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12790873"
     },
     "wof:country":"US",
-    "wof:geomhash":"01cf0f2274d4d31f8d8af369987f1ed1",
+    "wof:geomhash":"1793f84d1ba4aeda6b17eeba854a11ed",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554745035,
-    "wof:lastmodified":1480840095,
+    "wof:lastmodified":1611185285,
     "wof:name":"76034",
     "wof:parent_id":101723675,
     "wof:placetype":"postalcode",

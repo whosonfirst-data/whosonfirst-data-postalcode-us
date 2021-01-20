@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015661,
-    "geom:area_square_m":151785436.162071,
+    "geom:area_square_m":151785436.162297,
     "geom:bbox":"-91.296594,38.279946,-91.115495,38.501265",
     "geom:latitude":38.389824,
     "geom:longitude":-91.21711,
@@ -14,20 +14,25 @@
     "lbl:latitude":38.39968,
     "lbl:longitude":-91.215039,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Leslie",
+    "mz:postal_locality_alt":[
+        "Hillsboro"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404516009,
         85633793,
-        102081205
+        102081205,
+        404516009,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785563"
     },
     "wof:country":"US",
-    "wof:geomhash":"3eb91621d5859abdc6aed936d1b3055b",
+    "wof:geomhash":"02cfc81627f9a43ce1ca2a3739a6860f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554735705,
-    "wof:lastmodified":1480823841,
+    "wof:lastmodified":1611184427,
     "wof:name":"63056",
     "wof:parent_id":404516009,
     "wof:placetype":"postalcode",

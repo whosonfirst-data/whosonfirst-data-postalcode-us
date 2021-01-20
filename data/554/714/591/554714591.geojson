@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002597,
-    "geom:area_square_m":28170697.808565,
+    "geom:area_square_m":28170697.808551,
     "geom:bbox":"-81.388871,28.677509,-81.301329,28.734409",
     "geom:latitude":28.706097,
     "geom:longitude":-81.351994,
@@ -13,20 +13,27 @@
     "lbl:latitude":28.708784,
     "lbl:longitude":-81.350801,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Longwood",
+    "mz:postal_locality_alt":[
+        "De Bary",
+        "Orange City",
+        "Sanford"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688651,
         102191575,
         85633793,
+        102085775,
         85932133,
-        102085775
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12771897"
     },
     "wof:country":"US",
-    "wof:geomhash":"7f638c13e4e1bcf64fbcf4b42799603c",
+    "wof:geomhash":"7c051e3030b189a1d410519a1cb91c41",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +45,7 @@
         }
     ],
     "wof:id":554714591,
-    "wof:lastmodified":1480807921,
+    "wof:lastmodified":1611183368,
     "wof:name":"32750",
     "wof:parent_id":85932133,
     "wof:placetype":"postalcode",

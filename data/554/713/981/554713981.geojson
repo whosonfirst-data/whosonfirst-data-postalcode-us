@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014896,
-    "geom:area_square_m":157190281.371851,
+    "geom:area_square_m":157190281.371635,
     "geom:bbox":"-83.398683,31.318793,-83.249358,31.500362",
     "geom:latitude":31.412991,
     "geom:longitude":-83.327234,
@@ -14,20 +14,26 @@
     "lbl:latitude":31.41359,
     "lbl:longitude":-83.327184,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Enigma",
+    "mz:postal_locality_alt":[
+        "Blakely",
+        "Tifton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688535,
         102191575,
         85633793,
+        102082915,
         85936713,
-        102082915
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12771358"
     },
     "wof:country":"US",
-    "wof:geomhash":"578814b6b5f7d108f2a65b48cd90fd6d",
+    "wof:geomhash":"8059b8ddb495cec4ebc7df1abacd5de7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554713981,
-    "wof:lastmodified":1480802739,
+    "wof:lastmodified":1611183341,
     "wof:name":"31749",
     "wof:parent_id":85936713,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.050069,
-    "geom:area_square_m":451096317.362289,
+    "geom:area_square_m":451096317.362131,
     "geom:bbox":"-123.377104,43.084179,-123.073735,43.372968",
     "geom:latitude":43.229747,
     "geom:longitude":-123.234329,
@@ -13,19 +13,24 @@
     "lbl:latitude":43.250675,
     "lbl:longitude":-123.242413,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Roseburg",
+    "mz:postal_locality_alt":[
+        "Winchester"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688513,
-        102081635
+        102081635,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12798698"
     },
     "wof:country":"US",
-    "wof:geomhash":"104f29e17c294837832d6379623e6c85",
+    "wof:geomhash":"644f73ea8bfd4f289d2b63b727ebf974",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +41,7 @@
         }
     ],
     "wof:id":554754985,
-    "wof:lastmodified":1480820102,
+    "wof:lastmodified":1611182895,
     "wof:name":"97470",
     "wof:parent_id":102081635,
     "wof:placetype":"postalcode",

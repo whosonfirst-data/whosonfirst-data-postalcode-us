@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007456,
-    "geom:area_square_m":69367744.932526,
+    "geom:area_square_m":69367744.932555,
     "geom:bbox":"-75.996797,41.166225,-75.808801,41.24097",
     "geom:latitude":41.20441,
     "geom:longitude":-75.911327,
@@ -13,20 +13,29 @@
     "lbl:latitude":41.203289,
     "lbl:longitude":-75.914803,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hanover Twp",
+    "mz:postal_locality_alt":[
+        "Wilkes Barre",
+        "Ashley",
+        "Sugar Notch",
+        "Laurel Run",
+        "Warrior Run"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404486233,
         85633793,
-        102081351
+        102081351,
+        404486233,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765290"
     },
     "wof:country":"US",
-    "wof:geomhash":"9d053b99f104ae809e2f17e6981f40ac",
+    "wof:geomhash":"6e8158286ba13689b0528ab467b2443c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +47,7 @@
         }
     ],
     "wof:id":554705983,
-    "wof:lastmodified":1480831061,
+    "wof:lastmodified":1611184105,
     "wof:name":"18706",
     "wof:parent_id":404486233,
     "wof:placetype":"postalcode",

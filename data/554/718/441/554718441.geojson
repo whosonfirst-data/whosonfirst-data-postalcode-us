@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02031,
-    "geom:area_square_m":216397211.949155,
+    "geom:area_square_m":216397211.948788,
     "geom:bbox":"-89.073198,30.41554,-88.839159,30.585376",
     "geom:latitude":30.493563,
     "geom:longitude":-88.964488,
@@ -13,20 +13,27 @@
     "lbl:latitude":30.493085,
     "lbl:longitude":-88.964318,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Biloxi",
+    "mz:postal_locality_alt":[
+        "Diberville",
+        "Ocean Springs",
+        "Gulfport"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688579,
         102191575,
         85633793,
+        102087223,
         85969861,
-        102087223
+        85688579
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12774981"
     },
     "wof:country":"US",
-    "wof:geomhash":"cf0a124a8598440888d2bf5f21d807b4",
+    "wof:geomhash":"1d62638ade26fa3727deba981aeb2a50",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +45,7 @@
         }
     ],
     "wof:id":554718441,
-    "wof:lastmodified":1480838249,
+    "wof:lastmodified":1611185548,
     "wof:name":"39532",
     "wof:parent_id":85969861,
     "wof:placetype":"postalcode",

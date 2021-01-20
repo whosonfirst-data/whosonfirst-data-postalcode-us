@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009319,
-    "geom:area_square_m":81862115.907638,
+    "geom:area_square_m":81862115.907639,
     "geom:bbox":"-72.663025,44.671657,-72.527409,44.790616",
     "geom:latitude":44.728323,
     "geom:longitude":-72.587463,
@@ -14,20 +14,26 @@
     "lbl:latitude":44.723753,
     "lbl:longitude":-72.610965,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Eden",
+    "mz:postal_locality_alt":[
+        "North Hyde Park",
+        "Morrisville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688763,
         102191575,
-        404527025,
         85633793,
-        102080785
+        102080785,
+        404527025,
+        85688763
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760041"
     },
     "wof:country":"US",
-    "wof:geomhash":"9cdfd7adc9b3735815c8c705ebd3608c",
+    "wof:geomhash":"2f86c5cd7737b3397f8bdd73180cbd0e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554699037,
-    "wof:lastmodified":1480906389,
+    "wof:lastmodified":1611184611,
     "wof:name":"05652",
     "wof:parent_id":404527025,
     "wof:placetype":"postalcode",

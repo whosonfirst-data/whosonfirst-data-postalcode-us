@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046205,
-    "geom:area_square_m":460440896.862028,
+    "geom:area_square_m":460440896.861847,
     "geom:bbox":"-95.44005,36.185074,-95.122056,36.413721",
     "geom:latitude":36.302939,
     "geom:longitude":-95.30664,
@@ -14,20 +14,25 @@
     "lbl:latitude":36.302767,
     "lbl:longitude":-95.306842,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pryor",
+    "mz:postal_locality_alt":[
+        "Adair"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688585,
         102191575,
         85633793,
+        102083307,
         101715191,
-        102083307
+        85688585
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12790058"
     },
     "wof:country":"US",
-    "wof:geomhash":"935c58228fed6ada3aaec1d954455fbf",
+    "wof:geomhash":"b210868a4c59743b1876cb0c80f84894",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554743727,
-    "wof:lastmodified":1480840460,
+    "wof:lastmodified":1611184801,
     "wof:name":"74361",
     "wof:parent_id":101715191,
     "wof:placetype":"postalcode",

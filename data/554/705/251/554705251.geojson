@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004311,
-    "geom:area_square_m":40811182.08173,
+    "geom:area_square_m":40811182.081758,
     "geom:bbox":"-76.162541,40.004744,-76.033921,40.079182",
     "geom:latitude":40.039781,
     "geom:longitude":-76.100194,
@@ -14,21 +14,27 @@
     "lbl:latitude":40.041933,
     "lbl:longitude":-76.097142,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Gordonville",
+    "mz:postal_locality_alt":[
+        "Intercourse",
+        "Paradise"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404487187,
         85633793,
+        102081377,
+        404487187,
         101720429,
-        102081377
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764801"
     },
     "wof:country":"US",
-    "wof:geomhash":"3ca9abc02ef8494cd3d0d2f078582cb5",
+    "wof:geomhash":"f01a9c5e9223b4f720bdb61303bd3a66",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554705251,
-    "wof:lastmodified":1480817416,
+    "wof:lastmodified":1611184103,
     "wof:name":"17529",
     "wof:parent_id":101720429,
     "wof:placetype":"postalcode",

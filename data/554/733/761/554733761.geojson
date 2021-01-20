@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004148,
-    "geom:area_square_m":37910700.348817,
+    "geom:area_square_m":37910700.348822,
     "geom:bbox":"-89.069693,42.288762,-88.91999,42.369996",
     "geom:latitude":42.335396,
     "geom:longitude":-89.003637,
@@ -13,21 +13,26 @@
     "lbl:latitude":42.335503,
     "lbl:longitude":-89.002745,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Loves Park",
+    "mz:postal_locality_alt":[
+        "Rockford"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404499341,
         85633793,
+        102080827,
+        404499341,
         85938817,
-        102080827
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784481"
     },
     "wof:country":"US",
-    "wof:geomhash":"d83a3f8a1f6c5a6c03adc5881cc6c9c2",
+    "wof:geomhash":"085d743c657f6d4544b8c804b7290ae4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554733761,
-    "wof:lastmodified":1480912138,
+    "wof:lastmodified":1611184234,
     "wof:name":"61111",
     "wof:parent_id":85938817,
     "wof:placetype":"postalcode",

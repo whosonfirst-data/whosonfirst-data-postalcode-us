@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001284,
-    "geom:area_square_m":12590525.641381,
+    "geom:area_square_m":12590525.641367,
     "geom:bbox":"-122.361134,37.507082,-122.296278,37.573163",
     "geom:latitude":37.540978,
     "geom:longitude":-122.333194,
@@ -13,20 +13,25 @@
     "lbl:latitude":37.523602,
     "lbl:longitude":-122.34492,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"San Mateo",
+    "mz:postal_locality_alt":[
+        "San Francisco"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102085387,
         85925827,
-        102085387
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12797290"
     },
     "wof:country":"US",
-    "wof:geomhash":"51cd98def5db2d0414497f3d2bff4b60",
+    "wof:geomhash":"376912f26da996097fd6c4821461ceab",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554784739,
-    "wof:lastmodified":1480806943,
+    "wof:lastmodified":1611183928,
     "wof:name":"94402",
     "wof:parent_id":85925827,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010009,
-    "geom:area_square_m":90411681.752602,
+    "geom:area_square_m":90411681.752629,
     "geom:bbox":"-72.468033,43.015117,-72.352162,43.160747",
     "geom:latitude":43.070672,
     "geom:longitude":-72.406588,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.076505,
     "lbl:longitude":-72.395926,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Walpole",
+    "mz:postal_locality_alt":[
+        "Alstead"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688689,
         102191575,
-        404477047,
         85633793,
-        102085643
+        102085643,
+        404477047,
+        85688689
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759246"
     },
     "wof:country":"US",
-    "wof:geomhash":"6068dc467eed2cf8447d4f0bc910ae4a",
+    "wof:geomhash":"be2035d751e7f721242afab65229f441",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554697955,
-    "wof:lastmodified":1480908975,
+    "wof:lastmodified":1611184638,
     "wof:name":"03608",
     "wof:parent_id":404477047,
     "wof:placetype":"postalcode",

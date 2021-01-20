@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039429,
-    "geom:area_square_m":375167197.143063,
+    "geom:area_square_m":375167197.143043,
     "geom:bbox":"-82.002996,39.585249,-81.622308,39.767852",
     "geom:latitude":39.690763,
     "geom:longitude":-81.794957,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.691749,
     "lbl:longitude":-81.795492,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mc Connelsville",
+    "mz:postal_locality_alt":[
+        "Mcconnelsville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404524085,
         85633793,
-        102083711
+        102083711,
+        404524085,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776454"
     },
     "wof:country":"US",
-    "wof:geomhash":"d8ad23c4b248da8a2fb72f0f6c46c1bb",
+    "wof:geomhash":"d48e9a69d3175b2d62bf01c64e2de25b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554720749,
-    "wof:lastmodified":1480841962,
+    "wof:lastmodified":1611185466,
     "wof:name":"43756",
     "wof:parent_id":404524085,
     "wof:placetype":"postalcode",

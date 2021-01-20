@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001099,
-    "geom:area_square_m":10168727.871595,
+    "geom:area_square_m":10168727.871594,
     "geom:bbox":"-87.713614,41.549678,-87.636278,41.58634",
     "geom:latitude":41.573677,
     "geom:longitude":-87.684088,
@@ -14,21 +14,26 @@
     "lbl:latitude":41.574029,
     "lbl:longitude":-87.683706,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hazel Crest",
+    "mz:postal_locality_alt":[
+        "Homewood"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404497613,
         85633793,
+        102084317,
+        404497613,
         85940827,
-        102084317
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784137"
     },
     "wof:country":"US",
-    "wof:geomhash":"7c41ca0d2594a3ca87005591ddf02b7c",
+    "wof:geomhash":"894b5637dcb80170b2e2f04ca385a40f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554783285,
-    "wof:lastmodified":1480802052,
+    "wof:lastmodified":1611183897,
     "wof:name":"60429",
     "wof:parent_id":85940827,
     "wof:placetype":"postalcode",

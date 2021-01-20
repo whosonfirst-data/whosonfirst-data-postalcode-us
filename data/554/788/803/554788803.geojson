@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000219,
-    "geom:area_square_m":2329490.586725,
+    "geom:area_square_m":2329490.586724,
     "geom:bbox":"-88.292835,30.508469,-88.259412,30.520713",
     "geom:latitude":30.512795,
     "geom:longitude":-88.272608,
@@ -14,19 +14,24 @@
     "lbl:latitude":30.511926,
     "lbl:longitude":-88.27264,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"St Elmo",
+    "mz:postal_locality_alt":[
+        "Irvington"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688675,
-        102085585
+        102085585,
+        85688675
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12773583"
     },
     "wof:country":"US",
-    "wof:geomhash":"549bb6c74b598791fb640e9adf0e7542",
+    "wof:geomhash":"3c349d249bd80e9b9d5f00ec8f74d179",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554788803,
-    "wof:lastmodified":1480815717,
+    "wof:lastmodified":1611184760,
     "wof:name":"36568",
     "wof:parent_id":102085585,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018215,
-    "geom:area_square_m":190275726.559966,
+    "geom:area_square_m":190275726.560042,
     "geom:bbox":"-97.395704,32.22318,-97.263455,32.484594",
     "geom:latitude":32.348491,
     "geom:longitude":-97.331118,
@@ -13,19 +13,26 @@
     "lbl:latitude":32.346162,
     "lbl:longitude":-97.328079,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cleburne",
+    "mz:postal_locality_alt":[
+        "Weatherford",
+        "Alvarado",
+        "Arlington"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688753,
-        102081065
+        102081065,
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12790871"
     },
     "wof:country":"US",
-    "wof:geomhash":"3d13d013eb6a57c19b86efaa75644f8d",
+    "wof:geomhash":"53f0bdf4b9655d6c2184fc50c789ce95",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +43,7 @@
         }
     ],
     "wof:id":554745029,
-    "wof:lastmodified":1480818853,
+    "wof:lastmodified":1611185281,
     "wof:name":"76031",
     "wof:parent_id":102081065,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002639,
-    "geom:area_square_m":25358021.985283,
+    "geom:area_square_m":25358021.98524,
     "geom:bbox":"-94.821691,38.974488,-94.751833,39.050802",
     "geom:latitude":39.009109,
     "geom:longitude":-94.782038,
@@ -14,21 +14,27 @@
     "lbl:latitude":39.009521,
     "lbl:longitude":-94.782287,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Shawnee",
+    "mz:postal_locality_alt":[
+        "Shawnee Mission",
+        "Lake Quivira"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404504403,
         85633793,
+        102082673,
+        404504403,
         85945763,
-        102082673
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786805"
     },
     "wof:country":"US",
-    "wof:geomhash":"46fba763f611370e467b42a86b1ba601",
+    "wof:geomhash":"9a62f8fc0350cbd088e649eb41cac9d1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554738047,
-    "wof:lastmodified":1480792906,
+    "wof:lastmodified":1611183101,
     "wof:name":"66217",
     "wof:parent_id":85945763,
     "wof:placetype":"postalcode",

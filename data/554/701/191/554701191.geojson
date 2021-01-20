@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013055,
-    "geom:area_square_m":117734421.505593,
+    "geom:area_square_m":117734421.505555,
     "geom:bbox":"-74.322375,43.087497,-74.149308,43.232932",
     "geom:latitude":43.1687,
     "geom:longitude":-74.254658,
@@ -14,20 +14,22 @@
     "lbl:latitude":43.167143,
     "lbl:longitude":-74.261237,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mayfield",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404521375,
         85633793,
-        102081813
+        102081813,
+        404521375,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762112"
     },
     "wof:country":"US",
-    "wof:geomhash":"ec4197728860be61364b70d2d8d34477",
+    "wof:geomhash":"2e6b6471f921d632bb187aa286ca950e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554701191,
-    "wof:lastmodified":1480838353,
+    "wof:lastmodified":1611182630,
     "wof:name":"12117",
     "wof:parent_id":404521375,
     "wof:placetype":"postalcode",

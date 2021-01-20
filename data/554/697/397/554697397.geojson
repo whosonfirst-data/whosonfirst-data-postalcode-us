@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000333,
-    "geom:area_square_m":3037089.160942,
+    "geom:area_square_m":3037089.160946,
     "geom:bbox":"-71.156302,42.382555,-71.112939,42.404172",
     "geom:latitude":42.393285,
     "geom:longitude":-71.133342,
@@ -13,21 +13,27 @@
     "lbl:latitude":42.392157,
     "lbl:longitude":-71.133996,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cambridge",
+    "mz:postal_locality_alt":[
+        "Somerville",
+        "Melrose"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476475,
         85633793,
+        102084643,
+        404476475,
         85950329,
-        102084643
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758739"
     },
     "wof:country":"US",
-    "wof:geomhash":"edb4e648425819a99d3661e31060ad61",
+    "wof:geomhash":"b5b13e5c66cfd38167ad6418c7860a76",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +46,7 @@
         }
     ],
     "wof:id":554697397,
-    "wof:lastmodified":1480799921,
+    "wof:lastmodified":1611184638,
     "wof:name":"02140",
     "wof:parent_id":85950329,
     "wof:placetype":"postalcode",

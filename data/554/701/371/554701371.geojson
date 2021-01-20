@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011613,
-    "geom:area_square_m":106591667.225431,
+    "geom:area_square_m":106591667.225309,
     "geom:bbox":"-74.520267,41.986324,-74.391207,42.16473",
     "geom:latitude":42.069891,
     "geom:longitude":-74.449762,
@@ -14,20 +14,25 @@
     "lbl:latitude":42.066096,
     "lbl:longitude":-74.424732,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Big Indian",
+    "mz:postal_locality_alt":[
+        "Oliverea"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404521655,
         85633793,
-        102081775
+        102081775,
+        404521655,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762248"
     },
     "wof:country":"US",
-    "wof:geomhash":"05ce25b86bf754fcc93fc87a548ecba2",
+    "wof:geomhash":"ba903f54b1d8ec868a3b73bbd1401ee2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554701371,
-    "wof:lastmodified":1480819675,
+    "wof:lastmodified":1611182627,
     "wof:name":"12410",
     "wof:parent_id":404521655,
     "wof:placetype":"postalcode",

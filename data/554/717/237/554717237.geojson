@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004746,
-    "geom:area_square_m":47986424.753367,
+    "geom:area_square_m":47986424.753336,
     "geom:bbox":"-89.837121,35.103028,-89.708276,35.170679",
     "geom:latitude":35.13815,
     "geom:longitude":-89.765991,
@@ -13,20 +13,26 @@
     "lbl:latitude":35.13851,
     "lbl:longitude":-89.760016,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cordova",
+    "mz:postal_locality_alt":[
+        "Arlington",
+        "Memphis"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688701,
         102191575,
         85633793,
+        102087213,
         101722645,
-        102087213
+        85688701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12774239"
     },
     "wof:country":"US",
-    "wof:geomhash":"244f7e5f386cf90926af1cb362f15faa",
+    "wof:geomhash":"b12386c2c5f5c1ee11a6d95b8f89a80f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554717237,
-    "wof:lastmodified":1480783982,
+    "wof:lastmodified":1611185033,
     "wof:name":"38018",
     "wof:parent_id":101722645,
     "wof:placetype":"postalcode",

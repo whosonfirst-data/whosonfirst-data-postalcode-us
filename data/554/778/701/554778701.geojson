@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016886,
-    "geom:area_square_m":151893200.331297,
+    "geom:area_square_m":151893200.331324,
     "geom:bbox":"-70.724187,43.260175,-70.535153,43.391224",
     "geom:latitude":43.326509,
     "geom:longitude":-70.632998,
@@ -14,20 +14,26 @@
     "lbl:latitude":43.331432,
     "lbl:longitude":-70.645586,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wells",
+    "mz:postal_locality_alt":[
+        "Ogunquit",
+        "Kennebunk"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404475821,
         85633793,
-        102087449
+        102087449,
+        404475821,
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759435"
     },
     "wof:country":"US",
-    "wof:geomhash":"4cd95c17ed82e3a0e64c1d04d45eaf96",
+    "wof:geomhash":"57b651b5853467efb6aca3816891292e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554778701,
-    "wof:lastmodified":1480788173,
+    "wof:lastmodified":1611183425,
     "wof:name":"04090",
     "wof:parent_id":404475821,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.056575,
-    "geom:area_square_m":490038525.3868,
+    "geom:area_square_m":490038525.386898,
     "geom:bbox":"-100.430079,45.246793,-100.172252,45.759143",
     "geom:latitude":45.533609,
     "geom:longitude":-100.282434,
@@ -14,20 +14,25 @@
     "lbl:latitude":45.532933,
     "lbl:longitude":-100.28101,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Glenham",
+    "mz:postal_locality_alt":[
+        "Pollock"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688693,
         102191575,
-        404491313,
         85633793,
-        102086011
+        102086011,
+        404491313,
+        85688693
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12783016"
     },
     "wof:country":"US",
-    "wof:geomhash":"4b46b9089955dc8c458e103a1a828167",
+    "wof:geomhash":"2dac66d05142abc3774b5fc180518ea8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554731411,
-    "wof:lastmodified":1480915575,
+    "wof:lastmodified":1611183079,
     "wof:name":"57631",
     "wof:parent_id":404491313,
     "wof:placetype":"postalcode",

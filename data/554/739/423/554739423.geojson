@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018433,
-    "geom:area_square_m":171743766.634589,
+    "geom:area_square_m":171743766.63459,
     "geom:bbox":"-96.339805,41.004348,-96.158735,41.190504",
     "geom:latitude":41.106352,
     "geom:longitude":-96.260838,
@@ -14,21 +14,27 @@
     "lbl:latitude":41.105185,
     "lbl:longitude":-96.258314,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Gretna",
+    "mz:postal_locality_alt":[
+        "Yutan",
+        "Scribner"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688563,
         102191575,
-        404520923,
         85633793,
+        102082777,
+        404520923,
         85974547,
-        102082777
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787485"
     },
     "wof:country":"US",
-    "wof:geomhash":"a6e66e0ed5d045c5aba2b827759ce6c3",
+    "wof:geomhash":"5da5251508bdad6de53a357cfe443040",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554739423,
-    "wof:lastmodified":1480796033,
+    "wof:lastmodified":1611182657,
     "wof:name":"68028",
     "wof:parent_id":85974547,
     "wof:placetype":"postalcode",

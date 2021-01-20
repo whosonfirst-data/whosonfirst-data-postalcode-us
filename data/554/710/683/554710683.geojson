@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023355,
-    "geom:area_square_m":235405797.025944,
+    "geom:area_square_m":235405797.026126,
     "geom:bbox":"-78.634262,35.283299,-78.361303,35.552125",
     "geom:latitude":35.398996,
     "geom:longitude":-78.519015,
@@ -14,19 +14,27 @@
     "lbl:latitude":35.400309,
     "lbl:longitude":-78.518278,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Benson",
+    "mz:postal_locality_alt":[
+        "Goldsboro",
+        "Chapel Hill",
+        "Roxboro",
+        "Cary"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688773,
-        102080883
+        102080883,
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12769070"
     },
     "wof:country":"US",
-    "wof:geomhash":"79391b1d7e90607cbd35908d8dfd4ddd",
+    "wof:geomhash":"1fbc280d6e3dffda48a6403b92e1b794",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +45,7 @@
         }
     ],
     "wof:id":554710683,
-    "wof:lastmodified":1480904309,
+    "wof:lastmodified":1611185129,
     "wof:name":"27504",
     "wof:parent_id":102080883,
     "wof:placetype":"postalcode",

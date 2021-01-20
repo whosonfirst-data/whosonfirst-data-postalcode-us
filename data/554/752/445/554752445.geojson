@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003006,
-    "geom:area_square_m":30852587.48381,
+    "geom:area_square_m":30852587.483847,
     "geom:bbox":"-117.319414,33.858948,-117.242745,33.916795",
     "geom:latitude":33.888642,
     "geom:longitude":-117.277613,
@@ -14,20 +14,26 @@
     "lbl:latitude":33.889184,
     "lbl:longitude":-117.277729,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"March Air Force Base",
+    "mz:postal_locality_alt":[
+        "March Arb",
+        "Riverside"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086221,
         85928063,
-        102086221
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796503"
     },
     "wof:country":"US",
-    "wof:geomhash":"47e61a2a18648d3eda99fc32768f257d",
+    "wof:geomhash":"da432817c01c0c3bb0fae0d9d9abd028",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554752445,
-    "wof:lastmodified":1480913417,
+    "wof:lastmodified":1611182546,
     "wof:name":"92518",
     "wof:parent_id":85928063,
     "wof:placetype":"postalcode",

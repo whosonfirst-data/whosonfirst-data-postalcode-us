@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009378,
-    "geom:area_square_m":88591102.767724,
+    "geom:area_square_m":88591102.767585,
     "geom:bbox":"-82.451242,40.138733,-82.259399,40.239984",
     "geom:latitude":40.184243,
     "geom:longitude":-82.35819,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.180695,
     "lbl:longitude":-82.359463,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"St Louisville",
+    "mz:postal_locality_alt":[
+        "Saint Louisville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404525217,
         85633793,
-        102084761
+        102084761,
+        404525217,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776130"
     },
     "wof:country":"US",
-    "wof:geomhash":"79b72f8a5ba8f2296b7677c99d0723ce",
+    "wof:geomhash":"2ac1c025a8abe1fc51c445093d576680",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554720287,
-    "wof:lastmodified":1480803278,
+    "wof:lastmodified":1611185453,
     "wof:name":"43071",
     "wof:parent_id":404525217,
     "wof:placetype":"postalcode",

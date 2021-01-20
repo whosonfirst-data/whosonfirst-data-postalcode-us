@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002837,
-    "geom:area_square_m":26027115.059517,
+    "geom:area_square_m":26027115.059489,
     "geom:bbox":"-87.806461,42.08487,-87.703526,42.142664",
     "geom:latitude":42.105376,
     "geom:longitude":-87.753539,
@@ -14,21 +14,26 @@
     "lbl:latitude":42.106708,
     "lbl:longitude":-87.756292,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Winnetka",
+    "mz:postal_locality_alt":[
+        "Northfield"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404497633,
         85633793,
+        102084317,
+        404497633,
         85940915,
-        102084317
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784010"
     },
     "wof:country":"US",
-    "wof:geomhash":"a5a90cfa8430589115d5eaf5ffaf9477",
+    "wof:geomhash":"d1d7cc2214a1796d929446b10a4e664a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554783209,
-    "wof:lastmodified":1480802058,
+    "wof:lastmodified":1611183899,
     "wof:name":"60093",
     "wof:parent_id":85940915,
     "wof:placetype":"postalcode",

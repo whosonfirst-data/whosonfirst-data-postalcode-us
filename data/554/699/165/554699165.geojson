@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013936,
-    "geom:area_square_m":124878696.874767,
+    "geom:area_square_m":124878696.874703,
     "geom:bbox":"-73.120181,43.482813,-72.978763,43.664857",
     "geom:latitude":43.558196,
     "geom:longitude":-73.056502,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.556449,
     "lbl:longitude":-73.048787,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"West Rutland",
+    "mz:postal_locality_alt":[
+        "Bomoseen"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688763,
         102191575,
-        404527297,
         85633793,
-        102080771
+        102080771,
+        404527297,
+        85688763
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760113"
     },
     "wof:country":"US",
-    "wof:geomhash":"cb26c878db19bd31f1637e3bcb690d65",
+    "wof:geomhash":"320765d559ae71682a6c08538d6efd4f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554699165,
-    "wof:lastmodified":1480903865,
+    "wof:lastmodified":1611184617,
     "wof:name":"05777",
     "wof:parent_id":404527297,
     "wof:placetype":"postalcode",

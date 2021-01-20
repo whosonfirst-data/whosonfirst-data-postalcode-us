@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010396,
-    "geom:area_square_m":110729876.523646,
+    "geom:area_square_m":110729876.523608,
     "geom:bbox":"-98.472815,30.478013,-98.278645,30.581562",
     "geom:latitude":30.530979,
     "geom:longitude":-98.3777,
@@ -14,19 +14,25 @@
     "lbl:latitude":30.531394,
     "lbl:longitude":-98.378381,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Horseshoe Bay",
+    "mz:postal_locality_alt":[
+        "Marble Falls",
+        "Cottonwood Shrs"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688753,
-        102083187
+        102083187,
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12792258"
     },
     "wof:country":"US",
-    "wof:geomhash":"522e2c4c63ff4103892c4b9c9e705fc6",
+    "wof:geomhash":"bc3ec3be454661ae0cc3f4b42bffac1a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554747035,
-    "wof:lastmodified":1480840113,
+    "wof:lastmodified":1611183479,
     "wof:name":"78657",
     "wof:parent_id":102083187,
     "wof:placetype":"postalcode",

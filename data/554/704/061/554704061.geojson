@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046021,
-    "geom:area_square_m":429738173.111711,
+    "geom:area_square_m":429738173.111468,
     "geom:bbox":"-79.213739,40.862871,-78.708162,41.041048",
     "geom:latitude":40.960046,
     "geom:longitude":-78.967528,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.962153,
     "lbl:longitude":-78.968171,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Punxsutawney",
+    "mz:postal_locality_alt":[
+        "Marion Center"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404483515,
         85633793,
-        102083883
+        102083883,
+        404483515,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764016"
     },
     "wof:country":"US",
-    "wof:geomhash":"1e9ff95b2bea9db3f086233f64aa3c6d",
+    "wof:geomhash":"3720373ee4f74d5864f29d563d378405",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554704061,
-    "wof:lastmodified":1480904936,
+    "wof:lastmodified":1611184516,
     "wof:name":"15767",
     "wof:parent_id":404483515,
     "wof:placetype":"postalcode",

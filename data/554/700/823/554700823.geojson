@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016828,
-    "geom:area_square_m":155969420.692014,
+    "geom:area_square_m":155969420.692138,
     "geom:bbox":"-73.821527,41.351387,-73.610835,41.513377",
     "geom:latitude":41.449204,
     "geom:longitude":-73.712101,
@@ -14,20 +14,27 @@
     "lbl:latitude":41.457619,
     "lbl:longitude":-73.724608,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Carmel",
+    "mz:postal_locality_alt":[
+        "Garrison",
+        "Mahopac",
+        "Cold Spring"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404523049,
         85633793,
-        102083007
+        102083007,
+        404523049,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761532"
     },
     "wof:country":"US",
-    "wof:geomhash":"27e7f9d7c520f075826d4216927aa131",
+    "wof:geomhash":"478dc46b792466b3513c3a659d330674",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554700823,
-    "wof:lastmodified":1480835023,
+    "wof:lastmodified":1611183198,
     "wof:name":"10512",
     "wof:parent_id":404523049,
     "wof:placetype":"postalcode",

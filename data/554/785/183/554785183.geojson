@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023893,
-    "geom:area_square_m":174166141.838913,
+    "geom:area_square_m":174166141.83915,
     "geom:bbox":"-166.641971,53.801403,-166.356604,54.008461",
     "geom:latitude":53.878367,
     "geom:longitude":-166.478678,
@@ -14,20 +14,25 @@
     "lbl:latitude":53.8718,
     "lbl:longitude":-166.482869,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Unalaska",
+    "mz:postal_locality_alt":[
+        "Dutch Harbor"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85682057,
         102191575,
         85633041,
+        102080627,
         85916059,
-        102080627
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12799736"
     },
     "wof:country":"US",
-    "wof:geomhash":"021989c8eb02852361e3c9a00a8e6bdf",
+    "wof:geomhash":"4dbb3e18961010cc952b9409706eb156",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554785183,
-    "wof:lastmodified":1480903844,
+    "wof:lastmodified":1611183517,
     "wof:name":"99685",
     "wof:parent_id":85916059,
     "wof:placetype":"postalcode",

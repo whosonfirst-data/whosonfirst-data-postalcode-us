@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002953,
-    "geom:area_square_m":32061989.782422,
+    "geom:area_square_m":32061989.782372,
     "geom:bbox":"-81.517535,28.546243,-81.465088,28.633632",
     "geom:latitude":28.586504,
     "geom:longitude":-81.48763,
@@ -13,20 +13,22 @@
     "lbl:latitude":28.586751,
     "lbl:longitude":-81.486896,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Orlando",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688651,
         102191575,
         85633793,
+        102085847,
         85935127,
-        102085847
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12771952"
     },
     "wof:country":"US",
-    "wof:geomhash":"aaefc34e02b965853cd758572b1ec6fa",
+    "wof:geomhash":"d03647552c3dac2f3c14cef329614345",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +40,7 @@
         }
     ],
     "wof:id":554714657,
-    "wof:lastmodified":1480813114,
+    "wof:lastmodified":1611183357,
     "wof:name":"32818",
     "wof:parent_id":85935127,
     "wof:placetype":"postalcode",

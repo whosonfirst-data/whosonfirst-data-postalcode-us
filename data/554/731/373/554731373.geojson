@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.107045,
-    "geom:area_square_m":954413695.483667,
+    "geom:area_square_m":954413695.483581,
     "geom:bbox":"-99.785663,43.629944,-99.345868,44.047062",
     "geom:latitude":43.857935,
     "geom:longitude":-99.575343,
@@ -14,20 +14,22 @@
     "lbl:latitude":43.856447,
     "lbl:longitude":-99.572854,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Reliance",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688693,
         102191575,
-        404490373,
         85633793,
-        102086041
+        102086041,
+        404490373,
+        85688693
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782994"
     },
     "wof:country":"US",
-    "wof:geomhash":"012ccfb1e540b8170a869061b853d664",
+    "wof:geomhash":"7a5ce7eac7866ffef94247ace52f5d77",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554731373,
-    "wof:lastmodified":1480917033,
+    "wof:lastmodified":1611183089,
     "wof:name":"57569",
     "wof:parent_id":404490373,
     "wof:placetype":"postalcode",

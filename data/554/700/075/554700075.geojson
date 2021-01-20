@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001205,
-    "geom:area_square_m":11262088.072255,
+    "geom:area_square_m":11262088.07225,
     "geom:bbox":"-74.068385,40.858698,-74.024737,40.913285",
     "geom:latitude":40.889015,
     "geom:longitude":-74.046088,
@@ -14,21 +14,27 @@
     "lbl:latitude":40.889398,
     "lbl:longitude":-74.045698,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hackensack",
+    "mz:postal_locality_alt":[
+        "South Hackensack",
+        "Paramus"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477545,
         85633793,
+        102086773,
+        404477545,
         85975997,
-        102086773
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760796"
     },
     "wof:country":"US",
-    "wof:geomhash":"d281c3acb65447b896a5b0c63af66f96",
+    "wof:geomhash":"c48face8c7c9372d52ca55f7864295a3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554700075,
-    "wof:lastmodified":1480908560,
+    "wof:lastmodified":1611183199,
     "wof:name":"07601",
     "wof:parent_id":85975997,
     "wof:placetype":"postalcode",

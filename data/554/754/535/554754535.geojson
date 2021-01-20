@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035978,
-    "geom:area_square_m":311127982.382333,
+    "geom:area_square_m":311127982.382342,
     "geom:bbox":"-121.713586,45.504307,-121.440577,45.726541",
     "geom:latitude":45.624753,
     "geom:longitude":-121.545636,
@@ -14,20 +14,25 @@
     "lbl:latitude":45.626691,
     "lbl:longitude":-121.550386,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hood River",
+    "mz:postal_locality_alt":[
+        "Odell"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688513,
         102191575,
         85633793,
+        102081239,
         101716469,
-        102081239
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12798422"
     },
     "wof:country":"US",
-    "wof:geomhash":"5eec4acffa4eca83e4968d66a00eab2c",
+    "wof:geomhash":"fe3fee307d99c102ef08e2f3907a6f0b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554754535,
-    "wof:lastmodified":1480831316,
+    "wof:lastmodified":1611182875,
     "wof:name":"97031",
     "wof:parent_id":101716469,
     "wof:placetype":"postalcode",

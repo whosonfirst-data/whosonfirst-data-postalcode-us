@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028481,
-    "geom:area_square_m":269878153.957321,
+    "geom:area_square_m":269878153.957386,
     "geom:bbox":"-93.000468,39.877076,-92.73364,40.069487",
     "geom:latitude":39.976197,
     "geom:longitude":-92.871582,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.970985,
     "lbl:longitude":-92.878772,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"New Boston",
+    "mz:postal_locality_alt":[
+        "Unionville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404517417,
         85633793,
-        102085269
+        102085269,
+        404517417,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785772"
     },
     "wof:country":"US",
-    "wof:geomhash":"380ecc96275f9a17b1cc6da1fe95669c",
+    "wof:geomhash":"8e97a59d9aaf1715372684aeb82be4b1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554736083,
-    "wof:lastmodified":1480913739,
+    "wof:lastmodified":1611183024,
     "wof:name":"63557",
     "wof:parent_id":404517417,
     "wof:placetype":"postalcode",

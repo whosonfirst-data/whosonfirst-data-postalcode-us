@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015844,
-    "geom:area_square_m":170362619.633078,
+    "geom:area_square_m":170362619.633072,
     "geom:bbox":"-90.919192,29.534803,-90.71017,29.67939",
     "geom:latitude":29.588191,
     "geom:longitude":-90.810283,
@@ -13,19 +13,24 @@
     "lbl:latitude":29.578671,
     "lbl:longitude":-90.805402,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Houma",
+    "mz:postal_locality_alt":[
+        "Raceland"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688735,
-        102081923
+        102081923,
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12788242"
     },
     "wof:country":"US",
-    "wof:geomhash":"0eb781a1dd1579bf5ca5fc369e54e44d",
+    "wof:geomhash":"eda9ca21944670325878f2de7548f955",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +41,7 @@
         }
     ],
     "wof:id":554740691,
-    "wof:lastmodified":1480832596,
+    "wof:lastmodified":1611183416,
     "wof:name":"70360",
     "wof:parent_id":102081923,
     "wof:placetype":"postalcode",

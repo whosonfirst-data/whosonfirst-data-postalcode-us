@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012349,
-    "geom:area_square_m":124872656.941979,
+    "geom:area_square_m":124872656.941818,
     "geom:bbox":"-78.860543,35.076775,-78.634652,35.185281",
     "geom:latitude":35.138406,
     "geom:longitude":-78.739753,
@@ -14,19 +14,25 @@
     "lbl:latitude":35.138511,
     "lbl:longitude":-78.741362,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wade",
+    "mz:postal_locality_alt":[
+        "Fayetteville",
+        "Godwin"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688773,
-        102080897
+        102080897,
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12769622"
     },
     "wof:country":"US",
-    "wof:geomhash":"99ed36f4047d7f635992bd09c0fc894a",
+    "wof:geomhash":"a1ffe8e3fcf22decd406d02615b392b7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554711399,
-    "wof:lastmodified":1480905324,
+    "wof:lastmodified":1611185300,
     "wof:name":"28395",
     "wof:parent_id":102080897,
     "wof:placetype":"postalcode",

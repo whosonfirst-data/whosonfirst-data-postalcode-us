@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008,
-    "geom:area_square_m":77131413.517872,
+    "geom:area_square_m":77131413.517963,
     "geom:bbox":"-87.483664,38.724272,-87.342322,38.832128",
     "geom:latitude":38.767379,
     "geom:longitude":-87.419413,
@@ -14,20 +14,22 @@
     "lbl:latitude":38.771006,
     "lbl:longitude":-87.419265,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bruceville",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404500101,
         85633793,
-        102086229
+        102086229,
+        404500101,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778263"
     },
     "wof:country":"US",
-    "wof:geomhash":"fae8afaf97b8ff977a9e5f286f3bdbd2",
+    "wof:geomhash":"b09dd5a5d6eb202fe16b7810e142e735",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554723475,
-    "wof:lastmodified":1480911784,
+    "wof:lastmodified":1611183801,
     "wof:name":"47516",
     "wof:parent_id":404500101,
     "wof:placetype":"postalcode",

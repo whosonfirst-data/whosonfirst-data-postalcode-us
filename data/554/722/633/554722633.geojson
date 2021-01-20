@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003187,
-    "geom:area_square_m":30224708.297173,
+    "geom:area_square_m":30224708.2972,
     "geom:bbox":"-86.047205,39.864935,-85.933101,39.941861",
     "geom:latitude":39.906786,
     "geom:longitude":-86.011813,
@@ -13,21 +13,26 @@
     "lbl:latitude":39.908383,
     "lbl:longitude":-86.013138,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Indianapolis",
+    "mz:postal_locality_alt":[
+        "Fishers"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404502029,
         85633793,
+        102087201,
+        404502029,
         85942569,
-        102087201
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777689"
     },
     "wof:country":"US",
-    "wof:geomhash":"752bad0a3f5e5a4afd1d629857c6abff",
+    "wof:geomhash":"04cfbc35d0ba365eda46c2140675f7ea",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554722633,
-    "wof:lastmodified":1480911623,
+    "wof:lastmodified":1611183220,
     "wof:name":"46256",
     "wof:parent_id":85942569,
     "wof:placetype":"postalcode",

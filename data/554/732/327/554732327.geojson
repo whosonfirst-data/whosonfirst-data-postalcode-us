@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.051629,
-    "geom:area_square_m":419857631.025424,
+    "geom:area_square_m":419857631.025481,
     "geom:bbox":"-103.180688,48.720422,-102.938777,48.999341",
     "geom:latitude":48.877313,
     "geom:longitude":-103.039901,
@@ -14,20 +14,22 @@
     "lbl:latitude":48.873295,
     "lbl:longitude":-103.042817,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Noonan",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688525,
         102191575,
-        404479959,
         85633793,
-        102082081
+        102082081,
+        404479959,
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12783483"
     },
     "wof:country":"US",
-    "wof:geomhash":"71e818fd1f0b26381c5521ea7763f023",
+    "wof:geomhash":"2b31f417f6987b73a5199cb7ad34c07b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554732327,
-    "wof:lastmodified":1480830825,
+    "wof:lastmodified":1611184403,
     "wof:name":"58765",
     "wof:parent_id":404479959,
     "wof:placetype":"postalcode",

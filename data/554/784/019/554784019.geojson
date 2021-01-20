@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001208,
-    "geom:area_square_m":12405229.740916,
+    "geom:area_square_m":12405229.740985,
     "geom:bbox":"-118.312123,33.839474,-118.262304,33.916422",
     "geom:latitude":33.876599,
     "geom:longitude":-118.283505,
@@ -13,20 +13,27 @@
     "lbl:latitude":33.878431,
     "lbl:longitude":-118.284104,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Gardena",
+    "mz:postal_locality_alt":[
+        "Carson",
+        "Torrance",
+        "Los Angeles"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086957,
         85923517,
-        102086957
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795730"
     },
     "wof:country":"US",
-    "wof:geomhash":"8a509ac0510cd3dc6f7fa917ceda178f",
+    "wof:geomhash":"6d401ce6c3ea2764de8f55ec8b5317d0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +45,7 @@
         }
     ],
     "wof:id":554784019,
-    "wof:lastmodified":1480912624,
+    "wof:lastmodified":1611183952,
     "wof:name":"90248",
     "wof:parent_id":85923517,
     "wof:placetype":"postalcode",

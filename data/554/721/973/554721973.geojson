@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001691,
-    "geom:area_square_m":16084289.497247,
+    "geom:area_square_m":16084289.497239,
     "geom:bbox":"-84.1725,39.687802,-84.104042,39.746442",
     "geom:latitude":39.719509,
     "geom:longitude":-84.130593,
@@ -13,21 +13,26 @@
     "lbl:latitude":39.718818,
     "lbl:longitude":-84.129169,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Dayton",
+    "mz:postal_locality_alt":[
+        "Kettering"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404526863,
         85633793,
+        102083667,
+        404526863,
         101712169,
-        102083667
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777290"
     },
     "wof:country":"US",
-    "wof:geomhash":"0d81054b69c708a85b0e7115a4eb9dee",
+    "wof:geomhash":"d8930ca6d6b40025e1c54daea7916b6d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554721973,
-    "wof:lastmodified":1480842992,
+    "wof:lastmodified":1611184979,
     "wof:name":"45420",
     "wof:parent_id":101712169,
     "wof:placetype":"postalcode",

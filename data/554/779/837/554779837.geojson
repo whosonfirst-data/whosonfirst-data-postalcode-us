@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001418,
-    "geom:area_square_m":13273434.650607,
+    "geom:area_square_m":13273434.650593,
     "geom:bbox":"-72.965299,40.740417,-72.915121,40.806718",
     "geom:latitude":40.775056,
     "geom:longitude":-72.943034,
@@ -14,21 +14,26 @@
     "lbl:latitude":40.776087,
     "lbl:longitude":-72.942806,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bellport",
+    "mz:postal_locality_alt":[
+        "Smithtown"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404521441,
         85633793,
+        102082395,
+        404521441,
         85979723,
-        102082395
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761905"
     },
     "wof:country":"US",
-    "wof:geomhash":"61d88d72d94aafd817bec41b6ca6ab85",
+    "wof:geomhash":"d57e34b20a5cb645ca42e52377218a1f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554779837,
-    "wof:lastmodified":1480794861,
+    "wof:lastmodified":1611183986,
     "wof:name":"11713",
     "wof:parent_id":85979723,
     "wof:placetype":"postalcode",

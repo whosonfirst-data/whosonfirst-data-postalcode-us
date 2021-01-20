@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.069493,
-    "geom:area_square_m":597033305.221757,
+    "geom:area_square_m":597033305.221764,
     "geom:bbox":"-94.588167,45.846897,-94.187312,46.130826",
     "geom:latitude":45.988828,
     "geom:longitude":-94.374834,
@@ -14,21 +14,26 @@
     "lbl:latitude":45.988419,
     "lbl:longitude":-94.373531,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Little Falls",
+    "mz:postal_locality_alt":[
+        "Hoffman"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404512849,
         85633793,
+        102087847,
+        404512849,
         85968727,
-        102087847
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782433"
     },
     "wof:country":"US",
-    "wof:geomhash":"8dd50d493b72a4fe1e7e4d681e5219b8",
+    "wof:geomhash":"c5dfe1e5758334c06ea89a04515f8cc0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554730267,
-    "wof:lastmodified":1480787021,
+    "wof:lastmodified":1611182733,
     "wof:name":"56345",
     "wof:parent_id":85968727,
     "wof:placetype":"postalcode",

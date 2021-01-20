@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001193,
-    "geom:area_square_m":11175721.082966,
+    "geom:area_square_m":11175721.082971,
     "geom:bbox":"-73.503875,40.712822,-73.468748,40.767964",
     "geom:latitude":40.742566,
     "geom:longitude":-73.486073,
@@ -13,21 +13,26 @@
     "lbl:latitude":40.742563,
     "lbl:longitude":-73.486073,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bethpage",
+    "mz:postal_locality_alt":[
+        "Commack"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404521475,
         85633793,
+        102082371,
+        404521475,
         85979165,
-        102082371
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761906"
     },
     "wof:country":"US",
-    "wof:geomhash":"f8ffe796ae9d068aa4562ad574ef5167",
+    "wof:geomhash":"20a340986b289d0c167ec05dd36fc772",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554779839,
-    "wof:lastmodified":1480790620,
+    "wof:lastmodified":1611183986,
     "wof:name":"11714",
     "wof:parent_id":85979165,
     "wof:placetype":"postalcode",

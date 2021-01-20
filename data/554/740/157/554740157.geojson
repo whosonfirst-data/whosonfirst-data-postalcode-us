@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032736,
-    "geom:area_square_m":305952230.109315,
+    "geom:area_square_m":305952230.109186,
     "geom:bbox":"-99.406617,40.785892,-99.197764,41.032436",
     "geom:latitude":40.901177,
     "geom:longitude":-99.279401,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.887782,
     "lbl:longitude":-99.283842,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Amherst",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688563,
         102191575,
-        404519371,
         85633793,
-        102084305
+        102084305,
+        404519371,
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787857"
     },
     "wof:country":"US",
-    "wof:geomhash":"7f72bbd01b095b21620c722b7a0ca7af",
+    "wof:geomhash":"23f796c53145004f6d400bba6103d44d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554740157,
-    "wof:lastmodified":1480802733,
+    "wof:lastmodified":1611183386,
     "wof:name":"68812",
     "wof:parent_id":404519371,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.061912,
-    "geom:area_square_m":648971512.737541,
+    "geom:area_square_m":648971512.737224,
     "geom:bbox":"-85.06833,31.920314,-84.644805,32.210043",
     "geom:latitude":32.035526,
     "geom:longitude":-84.838428,
@@ -14,19 +14,24 @@
     "lbl:latitude":32.030013,
     "lbl:longitude":-84.84488,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lumpkin",
+    "mz:postal_locality_alt":[
+        "Ellaville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688535,
-        102084445
+        102084445,
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12771418"
     },
     "wof:country":"US",
-    "wof:geomhash":"a29663b06b48fdbf95cc1c7db5c18a37",
+    "wof:geomhash":"773ead6c2591c16910e9bee73176e23e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554714071,
-    "wof:lastmodified":1480841387,
+    "wof:lastmodified":1611183351,
     "wof:name":"31815",
     "wof:parent_id":102084445,
     "wof:placetype":"postalcode",

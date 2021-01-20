@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013208,
-    "geom:area_square_m":116010362.808211,
+    "geom:area_square_m":116010362.808208,
     "geom:bbox":"-93.217753,44.673198,-92.974086,44.775779",
     "geom:latitude":44.737821,
     "geom:longitude":-93.068532,
@@ -14,21 +14,26 @@
     "lbl:latitude":44.735516,
     "lbl:longitude":-93.062773,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Rosemount",
+    "mz:postal_locality_alt":[
+        "Lakeville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404511991,
         85633793,
+        102087895,
+        404511991,
         85968455,
-        102087895
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781714"
     },
     "wof:country":"US",
-    "wof:geomhash":"cc1c75c94fddbc2b8b5d8cf50a4a8173",
+    "wof:geomhash":"6197f5d44be65c8f6b3a1637f8c568bb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554729005,
-    "wof:lastmodified":1480783431,
+    "wof:lastmodified":1611185438,
     "wof:name":"55068",
     "wof:parent_id":85968455,
     "wof:placetype":"postalcode",

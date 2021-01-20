@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007216,
-    "geom:area_square_m":66598970.232049,
+    "geom:area_square_m":66598970.232068,
     "geom:bbox":"-93.600703,41.651197,-93.52238,41.79138",
     "geom:latitude":41.72119,
     "geom:longitude":-93.568167,
@@ -13,19 +13,24 @@
     "lbl:latitude":41.724267,
     "lbl:longitude":-93.56532,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ankeny",
+    "mz:postal_locality_alt":[
+        "Des Moines"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688713,
-        102086603
+        102086603,
+        85688713
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779697"
     },
     "wof:country":"US",
-    "wof:geomhash":"799f830b76ca0bfc7292bbc2d4938e9d",
+    "wof:geomhash":"21a051663e37f1ec627db580902c1562",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +41,7 @@
         }
     ],
     "wof:id":554725433,
-    "wof:lastmodified":1480916305,
+    "wof:lastmodified":1611183283,
     "wof:name":"50021",
     "wof:parent_id":102086603,
     "wof:placetype":"postalcode",

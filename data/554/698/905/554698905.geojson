@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010645,
-    "geom:area_square_m":96164647.633096,
+    "geom:area_square_m":96164647.633069,
     "geom:bbox":"-72.742738,43.01794,-72.596172,43.133975",
     "geom:latitude":43.065348,
     "geom:longitude":-72.666481,
@@ -14,20 +14,22 @@
     "lbl:latitude":43.071027,
     "lbl:longitude":-72.682177,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Townshend",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688763,
         102191575,
-        404527341,
         85633793,
-        102080773
+        102080773,
+        404527341,
+        85688763
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759955"
     },
     "wof:country":"US",
-    "wof:geomhash":"c58f1d4b6029bf6ae41b22265edcd52f",
+    "wof:geomhash":"f419975dd92ccee8fa31d3943a4ee95d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554698905,
-    "wof:lastmodified":1480903161,
+    "wof:lastmodified":1611184694,
     "wof:name":"05353",
     "wof:parent_id":404527341,
     "wof:placetype":"postalcode",

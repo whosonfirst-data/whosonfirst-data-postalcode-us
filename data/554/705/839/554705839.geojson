@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005735,
-    "geom:area_square_m":53103471.990662,
+    "geom:area_square_m":53103471.99058,
     "geom:bbox":"-75.662199,41.427616,-75.535823,41.579744",
     "geom:latitude":41.50841,
     "geom:longitude":-75.616685,
@@ -13,20 +13,26 @@
     "lbl:latitude":41.513448,
     "lbl:longitude":-75.607166,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Olyphant",
+    "mz:postal_locality_alt":[
+        "Blakely",
+        "Lackawaxen"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404486843,
         85633793,
-        102081345
+        102081345,
+        404486843,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765202"
     },
     "wof:country":"US",
-    "wof:geomhash":"80b3abf491093fa7cd90799353459462",
+    "wof:geomhash":"368a03c6276b91eafcdfc1ad3ceae8a3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554705839,
-    "wof:lastmodified":1480832113,
+    "wof:lastmodified":1611184123,
     "wof:name":"18447",
     "wof:parent_id":404486843,
     "wof:placetype":"postalcode",

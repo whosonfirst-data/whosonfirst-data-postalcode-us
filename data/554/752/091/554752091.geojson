@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004782,
-    "geom:area_square_m":49030223.171218,
+    "geom:area_square_m":49030223.171174,
     "geom:bbox":"-117.868374,33.945936,-117.767045,34.042876",
     "geom:latitude":33.988271,
     "geom:longitude":-117.814468,
@@ -14,20 +14,25 @@
     "lbl:latitude":33.98627,
     "lbl:longitude":-117.821282,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Diamond Bar",
+    "mz:postal_locality_alt":[
+        "Walnut"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086957,
         85923645,
-        102086957
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796123"
     },
     "wof:country":"US",
-    "wof:geomhash":"070eda65d7704535d7eda3ea26e3c626",
+    "wof:geomhash":"bae95fc432bdf73a9413d26c3ad25a3a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554752091,
-    "wof:lastmodified":1480912603,
+    "wof:lastmodified":1611182523,
     "wof:name":"91765",
     "wof:parent_id":85923645,
     "wof:placetype":"postalcode",

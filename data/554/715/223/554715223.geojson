@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017092,
-    "geom:area_square_m":175902979.716507,
+    "geom:area_square_m":175902979.716348,
     "geom:bbox":"-86.516815,33.578612,-86.329142,33.736764",
     "geom:latitude":33.666553,
     "geom:longitude":-86.423051,
@@ -14,20 +14,25 @@
     "lbl:latitude":33.666809,
     "lbl:longitude":-86.423755,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Odenville",
+    "mz:postal_locality_alt":[
+        "Branchville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688675,
         102191575,
         85633793,
+        102085647,
         85913413,
-        102085647
+        85688675
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12772970"
     },
     "wof:country":"US",
-    "wof:geomhash":"c2d7ccaf47ccf54b2f357982bac325dd",
+    "wof:geomhash":"4c0290a8d27ff0bba127d6d8b95ea6ae",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554715223,
-    "wof:lastmodified":1480808994,
+    "wof:lastmodified":1611183673,
     "wof:name":"35120",
     "wof:parent_id":85913413,
     "wof:placetype":"postalcode",

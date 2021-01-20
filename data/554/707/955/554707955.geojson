@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020128,
-    "geom:area_square_m":196186601.357915,
+    "geom:area_square_m":196186601.357969,
     "geom:bbox":"-78.907978,37.89818,-78.707494,38.07384",
     "geom:latitude":37.977248,
     "geom:longitude":-78.810721,
@@ -14,19 +14,28 @@
     "lbl:latitude":37.96879,
     "lbl:longitude":-78.805504,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Afton",
+    "mz:postal_locality_alt":[
+        "Palmyra",
+        "Batesville",
+        "Lovingston",
+        "Wintergreen",
+        "Waynesboro"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688747,
-        102084977
+        102084977,
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12767099"
     },
     "wof:country":"US",
-    "wof:geomhash":"19ff3c7c027374cc99ff8dee9446e2c7",
+    "wof:geomhash":"fa52a8f83b757a1f6aeb4a181362d46a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +46,7 @@
         }
     ],
     "wof:id":554707955,
-    "wof:lastmodified":1480913500,
+    "wof:lastmodified":1611183135,
     "wof:name":"22920",
     "wof:parent_id":102084977,
     "wof:placetype":"postalcode",

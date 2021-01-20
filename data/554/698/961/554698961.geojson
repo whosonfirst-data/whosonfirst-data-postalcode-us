@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014316,
-    "geom:area_square_m":125822738.22521,
+    "geom:area_square_m":125822738.225176,
     "geom:bbox":"-73.122577,44.639903,-72.922689,44.775841",
     "geom:latitude":44.702476,
     "geom:longitude":-73.027023,
@@ -14,20 +14,25 @@
     "lbl:latitude":44.710289,
     "lbl:longitude":-73.028877,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fairfax",
+    "mz:postal_locality_alt":[
+        "Milton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688763,
         102191575,
-        404527013,
         85633793,
-        102080729
+        102080729,
+        404527013,
+        85688763
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759988"
     },
     "wof:country":"US",
-    "wof:geomhash":"47a3941ca6b334ecaf49be3ecbac9810",
+    "wof:geomhash":"d436e93d4615d426fdaa4e68ba20d9b0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554698961,
-    "wof:lastmodified":1480906388,
+    "wof:lastmodified":1611184691,
     "wof:name":"05454",
     "wof:parent_id":404527013,
     "wof:placetype":"postalcode",

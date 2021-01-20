@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001086,
-    "geom:area_square_m":11199225.814714,
+    "geom:area_square_m":11199225.814733,
     "geom:bbox":"-86.95344,33.426837,-86.880814,33.484892",
     "geom:latitude":33.456098,
     "geom:longitude":-86.920955,
@@ -13,20 +13,25 @@
     "lbl:latitude":33.456098,
     "lbl:longitude":-86.920958,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Birmingham",
+    "mz:postal_locality_alt":[
+        "Midfield"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688675,
         102191575,
         85633793,
+        102085481,
         85914817,
-        102085481
+        85688675
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12773038"
     },
     "wof:country":"US",
-    "wof:geomhash":"2f343301ffb4896d987bfd0b3048a6b9",
+    "wof:geomhash":"a6047cb5168db6b7c6b3e5e0ada09bf4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554715341,
-    "wof:lastmodified":1480808056,
+    "wof:lastmodified":1611183657,
     "wof:name":"35228",
     "wof:parent_id":85914817,
     "wof:placetype":"postalcode",

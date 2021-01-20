@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002272,
-    "geom:area_square_m":20742451.45077,
+    "geom:area_square_m":20742451.450763,
     "geom:bbox":"-83.13322,42.388084,-83.072477,42.447153",
     "geom:latitude":42.421658,
     "geom:longitude":-83.102298,
@@ -14,21 +14,26 @@
     "lbl:latitude":42.420736,
     "lbl:longitude":-83.104338,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Detroit",
+    "mz:postal_locality_alt":[
+        "Highland Park"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404506393,
         85633793,
+        102083147,
+        404506393,
         85951091,
-        102083147
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778675"
     },
     "wof:country":"US",
-    "wof:geomhash":"c167cbaef950c8e9f0aa1e9ce55ab66c",
+    "wof:geomhash":"de74c584cd07b0f7a7ed05eff854efa3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554724069,
-    "wof:lastmodified":1480840672,
+    "wof:lastmodified":1611183770,
     "wof:name":"48203",
     "wof:parent_id":85951091,
     "wof:placetype":"postalcode",

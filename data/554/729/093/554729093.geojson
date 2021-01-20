@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003493,
-    "geom:area_square_m":30643741.599812,
+    "geom:area_square_m":30643741.599803,
     "geom:bbox":"-93.228115,44.775311,-93.164102,44.843626",
     "geom:latitude":44.804659,
     "geom:longitude":-93.197626,
@@ -13,21 +13,27 @@
     "lbl:latitude":44.80681,
     "lbl:longitude":-93.201497,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Saint Paul",
+    "mz:postal_locality_alt":[
+        "Eagan",
+        "St Paul"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404512099,
         85633793,
+        102087895,
+        404512099,
         85968491,
-        102087895
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781757"
     },
     "wof:country":"US",
-    "wof:geomhash":"598c382751c31668bdc9f61cdea395dc",
+    "wof:geomhash":"805e19da6f4fe428ccfee15e60c5bf54",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +46,7 @@
         }
     ],
     "wof:id":554729093,
-    "wof:lastmodified":1480789092,
+    "wof:lastmodified":1611185439,
     "wof:name":"55122",
     "wof:parent_id":85968491,
     "wof:placetype":"postalcode",

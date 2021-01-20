@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002777,
-    "geom:area_square_m":25322089.318243,
+    "geom:area_square_m":25322089.318271,
     "geom:bbox":"-92.329508,42.448845,-92.219465,42.527534",
     "geom:latitude":42.479278,
     "geom:longitude":-92.278996,
@@ -14,20 +14,26 @@
     "lbl:latitude":42.458164,
     "lbl:longitude":-92.260032,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Evansdale",
+    "mz:postal_locality_alt":[
+        "Waterloo",
+        "Elk Run Heights"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688713,
         102191575,
         85633793,
+        102086513,
         85944381,
-        102086513
+        85688713
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12780146"
     },
     "wof:country":"US",
-    "wof:geomhash":"23091a930b1208da00cfbe424d945452",
+    "wof:geomhash":"c00437bbf042d63202afd35ead1c7929",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554726273,
-    "wof:lastmodified":1480915504,
+    "wof:lastmodified":1611184869,
     "wof:name":"50707",
     "wof:parent_id":85944381,
     "wof:placetype":"postalcode",

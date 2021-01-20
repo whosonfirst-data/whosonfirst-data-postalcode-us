@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.073271,
-    "geom:area_square_m":622752903.479567,
+    "geom:area_square_m":622752903.478942,
     "geom:bbox":"-87.853101,46.347355,-87.107314,46.814468",
     "geom:latitude":46.578637,
     "geom:longitude":-87.454534,
@@ -14,20 +14,25 @@
     "lbl:latitude":46.578823,
     "lbl:longitude":-87.455319,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Marquette",
+    "mz:postal_locality_alt":[
+        "Harvey"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404508619,
         85633793,
-        102083039
+        102083039,
+        404508619,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779604"
     },
     "wof:country":"US",
-    "wof:geomhash":"74b4561ff7b6cd8c4705cb13950c4d8f",
+    "wof:geomhash":"786e18840324800b6c6b6a484a4b27e5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554782849,
-    "wof:lastmodified":1480843187,
+    "wof:lastmodified":1611183624,
     "wof:name":"49855",
     "wof:parent_id":404508619,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.055362,
-    "geom:area_square_m":545726916.808759,
+    "geom:area_square_m":545726916.808805,
     "geom:bbox":"-84.331786,36.997289,-83.862477,37.268075",
     "geom:latitude":37.137533,
     "geom:longitude":-84.126161,
@@ -13,19 +13,25 @@
     "lbl:latitude":37.13679,
     "lbl:longitude":-84.127273,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"London",
+    "mz:postal_locality_alt":[
+        "Corbin",
+        "East Bernstadt"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688641,
-        102084393
+        102084393,
+        85688641
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12775370"
     },
     "wof:country":"US",
-    "wof:geomhash":"a86cfc2cdedc58362161fb6dbac50741",
+    "wof:geomhash":"7865f139995d278b4ec8b5aa4b01ccdd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +42,7 @@
         }
     ],
     "wof:id":554718999,
-    "wof:lastmodified":1480806399,
+    "wof:lastmodified":1611185540,
     "wof:name":"40741",
     "wof:parent_id":102084393,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005507,
-    "geom:area_square_m":50553344.473916,
+    "geom:area_square_m":50553344.473903,
     "geom:bbox":"-72.469939,42.032705,-72.366991,42.103131",
     "geom:latitude":42.063669,
     "geom:longitude":-72.415882,
@@ -14,20 +14,22 @@
     "lbl:latitude":42.062946,
     "lbl:longitude":-72.417297,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hampden",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476351,
         85633793,
-        102084627
+        102084627,
+        404476351,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758311"
     },
     "wof:country":"US",
-    "wof:geomhash":"a4a09aad34e01eb9e59f6202398f2d97",
+    "wof:geomhash":"3a45534d768e9a1909f84af0f5486a0e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554696805,
-    "wof:lastmodified":1480814287,
+    "wof:lastmodified":1611184669,
     "wof:name":"01036",
     "wof:parent_id":404476351,
     "wof:placetype":"postalcode",

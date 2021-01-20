@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018798,
-    "geom:area_square_m":191792157.905611,
+    "geom:area_square_m":191792157.905513,
     "geom:bbox":"-83.764758,34.315685,-83.518616,34.503909",
     "geom:latitude":34.399408,
     "geom:longitude":-83.659007,
@@ -14,20 +14,25 @@
     "lbl:latitude":34.398083,
     "lbl:longitude":-83.661982,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lula",
+    "mz:postal_locality_alt":[
+        "Homer"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688535,
         102191575,
         85633793,
+        102083629,
         85936867,
-        102083629
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770896"
     },
     "wof:country":"US",
-    "wof:geomhash":"514cce2e930419cf6d5a227abcd21425",
+    "wof:geomhash":"e64d55c5cf483b19c770c78b0159b24e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554713283,
-    "wof:lastmodified":1480836742,
+    "wof:lastmodified":1611183323,
     "wof:name":"30554",
     "wof:parent_id":85936867,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.225176,
-    "geom:area_square_m":1916610076.727477,
+    "geom:area_square_m":1916610076.726449,
     "geom:bbox":"-85.864958,46.24499,-85.237123,46.76637",
     "geom:latitude":46.50007,
     "geom:longitude":-85.506954,
@@ -14,20 +14,25 @@
     "lbl:latitude":46.510988,
     "lbl:longitude":-85.517552,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Newberry",
+    "mz:postal_locality_alt":[
+        "Gwinn"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404507427,
         85633793,
-        102083075
+        102083075,
+        404507427,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779612"
     },
     "wof:country":"US",
-    "wof:geomhash":"e5c3b0f26e16d561c2391e2282cd57ee",
+    "wof:geomhash":"2a8bc2e22a8a83fd7a55cc0f3a0dfd4e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554725361,
-    "wof:lastmodified":1480843136,
+    "wof:lastmodified":1611183271,
     "wof:name":"49868",
     "wof:parent_id":404507427,
     "wof:placetype":"postalcode",

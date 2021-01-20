@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011913,
-    "geom:area_square_m":118888581.758617,
+    "geom:area_square_m":118888581.75879,
     "geom:bbox":"-83.067452,36.082336,-82.88668,36.289254",
     "geom:latitude":36.189175,
     "geom:longitude":-82.968763,
@@ -14,20 +14,26 @@
     "lbl:latitude":36.188793,
     "lbl:longitude":-82.971098,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mosheim",
+    "mz:postal_locality_alt":[
+        "Bulls Gap",
+        "Greeneville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688701,
         102191575,
         85633793,
+        102086377,
         101722679,
-        102086377
+        85688701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12774139"
     },
     "wof:country":"US",
-    "wof:geomhash":"d555865bc824dab408af920fc84e419f",
+    "wof:geomhash":"3a114932689edc1490f61a5609326456",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554717077,
-    "wof:lastmodified":1480911096,
+    "wof:lastmodified":1611184992,
     "wof:name":"37818",
     "wof:parent_id":101722679,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020514,
-    "geom:area_square_m":236953532.43617,
+    "geom:area_square_m":236953532.436201,
     "geom:bbox":"-156.70421,20.778117,-156.54053,21.037947",
     "geom:latitude":20.911293,
     "geom:longitude":-156.621931,
@@ -13,19 +13,24 @@
     "lbl:latitude":20.897296,
     "lbl:longitude":-156.61354,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lahaina",
+    "mz:postal_locality_alt":[
+        "Kailua Kona"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688671,
-        102085577
+        102085577,
+        85688671
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12798305"
     },
     "wof:country":"US",
-    "wof:geomhash":"932c0995ef717c15accacc1b214b1ecf",
+    "wof:geomhash":"289b17d3b7e4b4fa1cb93b0cce9b8b51",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +41,7 @@
         }
     ],
     "wof:id":554785651,
-    "wof:lastmodified":1480806963,
+    "wof:lastmodified":1611183498,
     "wof:name":"96761",
     "wof:parent_id":102085577,
     "wof:placetype":"postalcode",

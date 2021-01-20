@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001463,
-    "geom:area_square_m":13487687.251246,
+    "geom:area_square_m":13487687.251271,
     "geom:bbox":"-87.863027,41.750184,-87.800287,41.806469",
     "geom:latitude":41.780142,
     "geom:longitude":-87.823952,
@@ -14,21 +14,27 @@
     "lbl:latitude":41.780221,
     "lbl:longitude":-87.823244,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Summit Argo",
+    "mz:postal_locality_alt":[
+        "Summit",
+        "Summit-Argo"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404497589,
         85633793,
+        102084317,
+        404497589,
         85940909,
-        102084317
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784193"
     },
     "wof:country":"US",
-    "wof:geomhash":"07d7e7aff002e78b78a075d5a45fade7",
+    "wof:geomhash":"462c46855d0209888f804c03ecc3cee8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554783327,
-    "wof:lastmodified":1480802055,
+    "wof:lastmodified":1611183904,
     "wof:name":"60501",
     "wof:parent_id":85940909,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00943,
-    "geom:area_square_m":97194735.853592,
+    "geom:area_square_m":97194735.853623,
     "geom:bbox":"-87.121073,33.481996,-86.961847,33.590759",
     "geom:latitude":33.537176,
     "geom:longitude":-87.051501,
@@ -14,20 +14,25 @@
     "lbl:latitude":33.527419,
     "lbl:longitude":-87.034686,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mulga",
+    "mz:postal_locality_alt":[
+        "Sylvan Springs"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688675,
         102191575,
         85633793,
+        102085481,
         85914789,
-        102085481
+        85688675
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12772968"
     },
     "wof:country":"US",
-    "wof:geomhash":"d204d6e227b9ddf50dc7ea5828793120",
+    "wof:geomhash":"ff0631c4c022a67b7edbed0bf991a2ff",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554715221,
-    "wof:lastmodified":1480808050,
+    "wof:lastmodified":1611183646,
     "wof:name":"35118",
     "wof:parent_id":85914789,
     "wof:placetype":"postalcode",

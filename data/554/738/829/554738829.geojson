@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.056201,
-    "geom:area_square_m":553468128.366437,
+    "geom:area_square_m":553468128.366445,
     "geom:bbox":"-95.928014,37.03323,-95.594629,37.356328",
     "geom:latitude":37.2089,
     "geom:longitude":-95.753408,
@@ -14,20 +14,22 @@
     "lbl:latitude":37.20823,
     "lbl:longitude":-95.756081,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Independence",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404504653,
         85633793,
-        102082143
+        102082143,
+        404504653,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787206"
     },
     "wof:country":"US",
-    "wof:geomhash":"a02b8d27a2597fe4742a7a66a9b4e80e",
+    "wof:geomhash":"5add1e102e9b3e00b5f81cbe37442bee",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554738829,
-    "wof:lastmodified":1480792571,
+    "wof:lastmodified":1611183097,
     "wof:name":"67301",
     "wof:parent_id":404504653,
     "wof:placetype":"postalcode",

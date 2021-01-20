@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00404,
-    "geom:area_square_m":37951382.810912,
+    "geom:area_square_m":37951382.810858,
     "geom:bbox":"-75.302256,40.524722,-75.189268,40.610811",
     "geom:latitude":40.56685,
     "geom:longitude":-75.243536,
@@ -14,20 +14,26 @@
     "lbl:latitude":40.570065,
     "lbl:longitude":-75.237114,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Riegelsville",
+    "mz:postal_locality_alt":[
+        "Durham",
+        "Bethlehem"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404484809,
         85633793,
-        102080987
+        102080987,
+        404484809,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765066"
     },
     "wof:country":"US",
-    "wof:geomhash":"68e3583037424160e52a277ca7b08091",
+    "wof:geomhash":"f17f0ba6ecb4cf28225b8e14ecec7736",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554705633,
-    "wof:lastmodified":1480906419,
+    "wof:lastmodified":1611184100,
     "wof:name":"18077",
     "wof:parent_id":404484809,
     "wof:placetype":"postalcode",

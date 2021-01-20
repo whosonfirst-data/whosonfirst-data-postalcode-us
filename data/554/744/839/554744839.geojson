@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009241,
-    "geom:area_square_m":96336462.937286,
+    "geom:area_square_m":96336462.937515,
     "geom:bbox":"-95.714044,32.470232,-95.577626,32.592551",
     "geom:latitude":32.532299,
     "geom:longitude":-95.642609,
@@ -14,20 +14,22 @@
     "lbl:latitude":32.535169,
     "lbl:longitude":-95.643977,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Van",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102081947,
         101725223,
-        102081947
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12790761"
     },
     "wof:country":"US",
-    "wof:geomhash":"cca09574a51fd2cd74491bb0fd2ac134",
+    "wof:geomhash":"6a1c2916da1ba541318f2fa072ecc524",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554744839,
-    "wof:lastmodified":1480905019,
+    "wof:lastmodified":1611184746,
     "wof:name":"75790",
     "wof:parent_id":101725223,
     "wof:placetype":"postalcode",

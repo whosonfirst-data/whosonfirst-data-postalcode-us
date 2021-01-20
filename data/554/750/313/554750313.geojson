@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014723,
-    "geom:area_square_m":151259958.917892,
+    "geom:area_square_m":151259958.917811,
     "geom:bbox":"-112.20632,33.734211,-112.021568,33.883892",
     "geom:latitude":33.815455,
     "geom:longitude":-112.120174,
@@ -13,20 +13,25 @@
     "lbl:latitude":33.816137,
     "lbl:longitude":-112.119971,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Phoenix",
+    "mz:postal_locality_alt":[
+        "Anthem"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688719,
         102191575,
         85633793,
+        102087421,
         85919039,
-        102087421
+        85688719
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12794457"
     },
     "wof:country":"US",
-    "wof:geomhash":"160256a7260c6336294e018f1766c86a",
+    "wof:geomhash":"06ecadef174892d4276e3c914df2fafe",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554750313,
-    "wof:lastmodified":1480786592,
+    "wof:lastmodified":1611184548,
     "wof:name":"85086",
     "wof:parent_id":85919039,
     "wof:placetype":"postalcode",

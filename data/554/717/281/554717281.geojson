@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011329,
-    "geom:area_square_m":114457937.55479,
+    "geom:area_square_m":114457937.554894,
     "geom:bbox":"-89.585201,35.143558,-89.417695,35.292908",
     "geom:latitude":35.209088,
     "geom:longitude":-89.503314,
@@ -14,19 +14,24 @@
     "lbl:latitude":35.209347,
     "lbl:longitude":-89.505468,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Oakland",
+    "mz:postal_locality_alt":[
+        "Somerville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688701,
-        102086439
+        102086439,
+        85688701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12774270"
     },
     "wof:country":"US",
-    "wof:geomhash":"b2d090bb80047d9d419bc8db33348f3f",
+    "wof:geomhash":"346d702843da34a46a1c149e1ba2e2d7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554717281,
-    "wof:lastmodified":1480916982,
+    "wof:lastmodified":1611184997,
     "wof:name":"38060",
     "wof:parent_id":102086439,
     "wof:placetype":"postalcode",

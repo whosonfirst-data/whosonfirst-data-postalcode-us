@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04114,
-    "geom:area_square_m":450254386.216238,
+    "geom:area_square_m":450254386.216288,
     "geom:bbox":"-81.95715,27.646172,-81.599461,27.849842",
     "geom:latitude":27.735606,
     "geom:longitude":-81.756351,
@@ -14,19 +14,24 @@
     "lbl:latitude":27.741146,
     "lbl:longitude":-81.754602,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fort Meade",
+    "mz:postal_locality_alt":[
+        "Bowling Green"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688651,
-        102085843
+        102085843,
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12772552"
     },
     "wof:country":"US",
-    "wof:geomhash":"372339609e509a67a7061ca5bed944e8",
+    "wof:geomhash":"5cc7aecd396daad51ccc6c6575b2008d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554714837,
-    "wof:lastmodified":1480811091,
+    "wof:lastmodified":1611183377,
     "wof:name":"33841",
     "wof:parent_id":102085843,
     "wof:placetype":"postalcode",

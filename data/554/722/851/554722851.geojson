@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006231,
-    "geom:area_square_m":57958395.691378,
+    "geom:area_square_m":57958395.691356,
     "geom:bbox":"-84.941373,41.182356,-84.803495,41.271273",
     "geom:latitude":41.215361,
     "geom:longitude":-84.851113,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.215359,
     "lbl:longitude":-84.851125,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Harlan",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404501173,
         85633793,
-        102087177
+        102087177,
+        404501173,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777864"
     },
     "wof:country":"US",
-    "wof:geomhash":"486d93e630446dfbe4e02e1406d6d612",
+    "wof:geomhash":"c007fa2038b4b1fe5702368662e432dc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554722851,
-    "wof:lastmodified":1480913301,
+    "wof:lastmodified":1611183222,
     "wof:name":"46743",
     "wof:parent_id":404501173,
     "wof:placetype":"postalcode",

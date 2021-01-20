@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022125,
-    "geom:area_square_m":215252040.743059,
+    "geom:area_square_m":215252040.743226,
     "geom:bbox":"-121.29039,38.057004,-121.012193,38.186118",
     "geom:latitude":38.113068,
     "geom:longitude":-121.149018,
@@ -13,19 +13,25 @@
     "lbl:latitude":38.114388,
     "lbl:longitude":-121.144658,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lodi",
+    "mz:postal_locality_alt":[
+        "San Andreas",
+        "Victor"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688637,
-        102085393
+        102085393,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12797649"
     },
     "wof:country":"US",
-    "wof:geomhash":"7f1b8f53f565cf77f57b46fecb78e888",
+    "wof:geomhash":"fab205e2561304d2eb0d2d5db740313f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +42,7 @@
         }
     ],
     "wof:id":554753469,
-    "wof:lastmodified":1480811080,
+    "wof:lastmodified":1611182963,
     "wof:name":"95240",
     "wof:parent_id":102085393,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010806,
-    "geom:area_square_m":109077967.299301,
+    "geom:area_square_m":109077967.299231,
     "geom:bbox":"-86.234161,35.210488,-85.992633,35.363574",
     "geom:latitude":35.281793,
     "geom:longitude":-86.129915,
@@ -14,20 +14,25 @@
     "lbl:latitude":35.279542,
     "lbl:longitude":-86.130578,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Estill Springs",
+    "mz:postal_locality_alt":[
+        "Decatur"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688701,
         102191575,
         85633793,
+        102086227,
         101722731,
-        102086227
+        85688701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12773949"
     },
     "wof:country":"US",
-    "wof:geomhash":"4b94f91a034701374a14142b7831a814",
+    "wof:geomhash":"2e9413442fd0010e77c209f7609116ed",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554716735,
-    "wof:lastmodified":1480908865,
+    "wof:lastmodified":1611185380,
     "wof:name":"37330",
     "wof:parent_id":101722731,
     "wof:placetype":"postalcode",

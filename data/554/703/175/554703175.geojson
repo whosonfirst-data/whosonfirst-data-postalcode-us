@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00707,
-    "geom:area_square_m":64704942.791669,
+    "geom:area_square_m":64704942.791629,
     "geom:bbox":"-77.886937,42.208927,-77.696542,42.289822",
     "geom:latitude":42.254318,
     "geom:longitude":-77.786851,
@@ -14,20 +14,22 @@
     "lbl:latitude":42.273415,
     "lbl:longitude":-77.745296,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Alfred Station",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404521725,
         85633793,
-        102082403
+        102082403,
+        404521725,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763447"
     },
     "wof:country":"US",
-    "wof:geomhash":"cadf1418c97a0eb927b23999d2eaff52",
+    "wof:geomhash":"d669d473c23026ff8be4bc53153b4a75",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554703175,
-    "wof:lastmodified":1480835916,
+    "wof:lastmodified":1611184464,
     "wof:name":"14803",
     "wof:parent_id":404521725,
     "wof:placetype":"postalcode",

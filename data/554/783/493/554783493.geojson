@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001058,
-    "geom:area_square_m":11327876.370066,
+    "geom:area_square_m":11327876.37007,
     "geom:bbox":"-90.14751,29.97223,-90.120691,30.025238",
     "geom:latitude":29.999435,
     "geom:longitude":-90.133859,
@@ -13,20 +13,25 @@
     "lbl:latitude":29.999416,
     "lbl:longitude":-90.134064,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Metairie",
+    "mz:postal_locality_alt":[
+        "St Rose"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688735,
         102191575,
         85633793,
+        102083179,
         85948743,
-        102083179
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12788099"
     },
     "wof:country":"US",
-    "wof:geomhash":"b1a350d967ac868351df92dd6d03248e",
+    "wof:geomhash":"95f019c8c05229d080b4d9179aa39653",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554783493,
-    "wof:lastmodified":1480910699,
+    "wof:lastmodified":1611183899,
     "wof:name":"70005",
     "wof:parent_id":85948743,
     "wof:placetype":"postalcode",

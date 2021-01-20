@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041836,
-    "geom:area_square_m":360677048.658536,
+    "geom:area_square_m":360677048.658483,
     "geom:bbox":"-96.33734,45.701576,-95.92196,45.876675",
     "geom:latitude":45.795661,
     "geom:longitude":-96.136809,
@@ -14,20 +14,25 @@
     "lbl:latitude":45.786154,
     "lbl:longitude":-96.135813,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Herman",
+    "mz:postal_locality_alt":[
+        "Odessa"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404509433,
         85633793,
-        102087739
+        102087739,
+        404509433,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782353"
     },
     "wof:country":"US",
-    "wof:geomhash":"a56b5d6673dc52a9091970f8219e1a65",
+    "wof:geomhash":"0586029a6f74f1399a8e233031975758",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554730101,
-    "wof:lastmodified":1480785046,
+    "wof:lastmodified":1611182744,
     "wof:name":"56248",
     "wof:parent_id":404509433,
     "wof:placetype":"postalcode",

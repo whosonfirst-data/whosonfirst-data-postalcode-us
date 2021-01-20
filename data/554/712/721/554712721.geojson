@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022252,
-    "geom:area_square_m":228602107.23504,
+    "geom:area_square_m":228602107.235155,
     "geom:bbox":"-83.990957,33.711727,-83.787614,33.899374",
     "geom:latitude":33.815794,
     "geom:longitude":-83.894654,
@@ -14,19 +14,26 @@
     "lbl:latitude":33.815151,
     "lbl:longitude":-83.893561,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Loganville",
+    "mz:postal_locality_alt":[
+        "Monroe",
+        "Bethlehem",
+        "Lawrenceville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688535,
-        102084653
+        102084653,
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770534"
     },
     "wof:country":"US",
-    "wof:geomhash":"ce3bc410faeefe4b49716a78720e5513",
+    "wof:geomhash":"0fbe4481c1a0c3d790ceafe73177bb0e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +44,7 @@
         }
     ],
     "wof:id":554712721,
-    "wof:lastmodified":1480823668,
+    "wof:lastmodified":1611183736,
     "wof:name":"30052",
     "wof:parent_id":102084653,
     "wof:placetype":"postalcode",

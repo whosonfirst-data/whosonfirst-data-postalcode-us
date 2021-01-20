@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011342,
-    "geom:area_square_m":103049106.607241,
+    "geom:area_square_m":103049106.607313,
     "geom:bbox":"-78.917679,42.630811,-78.742082,42.776805",
     "geom:latitude":42.714324,
     "geom:longitude":-78.832944,
@@ -14,21 +14,26 @@
     "lbl:latitude":42.712657,
     "lbl:longitude":-78.834708,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hamburg",
+    "mz:postal_locality_alt":[
+        "Batavia"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522347,
         85633793,
+        102082387,
+        404522347,
         85978013,
-        102082387
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763110"
     },
     "wof:country":"US",
-    "wof:geomhash":"e52113917a766333ecfce85c69266dd3",
+    "wof:geomhash":"c6a697dc8ec1c9ae8268fa0d2ac8d4bf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554780161,
-    "wof:lastmodified":1480791307,
+    "wof:lastmodified":1611185160,
     "wof:name":"14075",
     "wof:parent_id":85978013,
     "wof:placetype":"postalcode",

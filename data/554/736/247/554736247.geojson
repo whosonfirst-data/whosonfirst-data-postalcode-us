@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010445,
-    "geom:area_square_m":103287185.238685,
+    "geom:area_square_m":103287185.238622,
     "geom:bbox":"-89.519932,36.832764,-89.392654,36.979763",
     "geom:latitude":36.895671,
     "geom:longitude":-89.456313,
@@ -14,20 +14,22 @@
     "lbl:latitude":36.895007,
     "lbl:longitude":-89.460378,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bertrand",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404516931,
         85633793,
-        102085295
+        102085295,
+        404516931,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785868"
     },
     "wof:country":"US",
-    "wof:geomhash":"8acf4ac060137e3965fb51a414efe32f",
+    "wof:geomhash":"05b062303753b056db84700c72629418",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554736247,
-    "wof:lastmodified":1480812233,
+    "wof:lastmodified":1611183044,
     "wof:name":"63823",
     "wof:parent_id":404516931,
     "wof:placetype":"postalcode",

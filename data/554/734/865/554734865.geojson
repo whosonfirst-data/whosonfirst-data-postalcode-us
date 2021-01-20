@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009277,
-    "geom:area_square_m":87683393.092206,
+    "geom:area_square_m":87683393.092198,
     "geom:bbox":"-91.046749,40.104452,-90.833065,40.194694",
     "geom:latitude":40.148152,
     "geom:longitude":-90.947482,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.150624,
     "lbl:longitude":-90.951257,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"La Prairie",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404496151,
         85633793,
-        102086213
+        102086213,
+        404496151,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785094"
     },
     "wof:country":"US",
-    "wof:geomhash":"7245ea3826912374065b30187cf10566",
+    "wof:geomhash":"d28ddefcc4d0a4467c051308621d5f0f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554734865,
-    "wof:lastmodified":1480911664,
+    "wof:lastmodified":1611184202,
     "wof:name":"62346",
     "wof:parent_id":404496151,
     "wof:placetype":"postalcode",

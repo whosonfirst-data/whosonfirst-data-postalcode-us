@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016807,
-    "geom:area_square_m":154594523.0377,
+    "geom:area_square_m":154594523.03786,
     "geom:bbox":"-74.192505,41.842812,-73.950708,42.031569",
     "geom:latitude":41.935607,
     "geom:longitude":-74.052766,
@@ -13,20 +13,29 @@
     "lbl:latitude":41.987541,
     "lbl:longitude":-74.010273,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Kingston",
+    "mz:postal_locality_alt":[
+        "Rosendale",
+        "Eddyville",
+        "Margaretville",
+        "Port Ewen",
+        "Lake Katrine"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404523273,
         85633793,
-        102081775
+        102081775,
+        404523273,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762241"
     },
     "wof:country":"US",
-    "wof:geomhash":"6a0cd34e0cc52b09c55b23cb2cabb33d",
+    "wof:geomhash":"a86fbfc247f91057bbfffea54722a864",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +47,7 @@
         }
     ],
     "wof:id":554701357,
-    "wof:lastmodified":1480819673,
+    "wof:lastmodified":1611182630,
     "wof:name":"12401",
     "wof:parent_id":404523273,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012649,
-    "geom:area_square_m":112643943.628378,
+    "geom:area_square_m":112643943.628393,
     "geom:bbox":"-70.545775,43.786266,-70.374499,44.012804",
     "geom:latitude":43.928357,
     "geom:longitude":-70.450827,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.926746,
     "lbl:longitude":-70.45076,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Raymond",
+    "mz:postal_locality_alt":[
+        "Windham"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404475431,
         85633793,
-        102087463
+        102087463,
+        404475431,
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759418"
     },
     "wof:country":"US",
-    "wof:geomhash":"e3343c000a27675250098e7b9848194f",
+    "wof:geomhash":"db7cde5e44452a2546d02419d0810d96",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554698203,
-    "wof:lastmodified":1480785909,
+    "wof:lastmodified":1611184684,
     "wof:name":"04071",
     "wof:parent_id":404475431,
     "wof:placetype":"postalcode",

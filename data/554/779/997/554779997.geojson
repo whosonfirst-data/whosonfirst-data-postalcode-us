@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008346,
-    "geom:area_square_m":77972704.985327,
+    "geom:area_square_m":77972704.98533,
     "geom:bbox":"-72.834073,40.843946,-72.696677,40.98578",
     "geom:latitude":40.927584,
     "geom:longitude":-72.754082,
@@ -14,21 +14,26 @@
     "lbl:latitude":40.942231,
     "lbl:longitude":-72.765594,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Calverton",
+    "mz:postal_locality_alt":[
+        "Riverhead"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522663,
         85633793,
+        102082395,
+        404522663,
         85979845,
-        102082395
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761994"
     },
     "wof:country":"US",
-    "wof:geomhash":"76a101af0e2205f9d792b54852f1ac3c",
+    "wof:geomhash":"cf88f818043d329a139569f231a91140",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554779997,
-    "wof:lastmodified":1480794862,
+    "wof:lastmodified":1611183964,
     "wof:name":"11933",
     "wof:parent_id":85979845,
     "wof:placetype":"postalcode",

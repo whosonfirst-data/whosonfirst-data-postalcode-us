@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025526,
-    "geom:area_square_m":261123843.381194,
+    "geom:area_square_m":261123843.381429,
     "geom:bbox":"-83.374193,34.06551,-83.138771,34.268537",
     "geom:latitude":34.17835,
     "geom:longitude":-83.247091,
@@ -14,19 +14,25 @@
     "lbl:latitude":34.180903,
     "lbl:longitude":-83.249172,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Danielsville",
+    "mz:postal_locality_alt":[
+        "Ila",
+        "Commerce"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688535,
-        102082903
+        102082903,
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770945"
     },
     "wof:country":"US",
-    "wof:geomhash":"e04da461d90aac24274ce10533bbade4",
+    "wof:geomhash":"7547bc7ee64417d108257ee9636ab771",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554713363,
-    "wof:lastmodified":1480800395,
+    "wof:lastmodified":1611183296,
     "wof:name":"30633",
     "wof:parent_id":102082903,
     "wof:placetype":"postalcode",

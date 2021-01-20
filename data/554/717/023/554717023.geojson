@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011109,
-    "geom:area_square_m":110970753.216859,
+    "geom:area_square_m":110970753.21676,
     "geom:bbox":"-83.528365,36.032391,-83.376245,36.178384",
     "geom:latitude":36.110449,
     "geom:longitude":-83.464508,
@@ -14,19 +14,24 @@
     "lbl:latitude":36.108387,
     "lbl:longitude":-83.457779,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Jefferson City",
+    "mz:postal_locality_alt":[
+        "Loudon"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688701,
-        102086419
+        102086419,
+        85688701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12774111"
     },
     "wof:country":"US",
-    "wof:geomhash":"ba008a31b0b1e6f796d1e95cbf592c56",
+    "wof:geomhash":"3cba768bd769bf72bce6cd525a9f4aa8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554717023,
-    "wof:lastmodified":1480915604,
+    "wof:lastmodified":1611184990,
     "wof:name":"37760",
     "wof:parent_id":102086419,
     "wof:placetype":"postalcode",

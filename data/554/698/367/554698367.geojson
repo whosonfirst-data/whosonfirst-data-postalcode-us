@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009084,
-    "geom:area_square_m":80275255.190455,
+    "geom:area_square_m":80275255.190444,
     "geom:bbox":"-70.025609,44.341054,-69.874287,44.42444",
     "geom:latitude":44.382091,
     "geom:longitude":-69.949074,
@@ -14,20 +14,25 @@
     "lbl:latitude":44.384388,
     "lbl:longitude":-69.9502,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Readfield",
+    "mz:postal_locality_alt":[
+        "Winthrop"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404475675,
         85633793,
-        102087461
+        102087461,
+        404475675,
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759540"
     },
     "wof:country":"US",
-    "wof:geomhash":"ef05152170e889aabd724d67730d1199",
+    "wof:geomhash":"c9f9250b6f611386629ef8cd26903efd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554698367,
-    "wof:lastmodified":1480786869,
+    "wof:lastmodified":1611184693,
     "wof:name":"04355",
     "wof:parent_id":404475675,
     "wof:placetype":"postalcode",

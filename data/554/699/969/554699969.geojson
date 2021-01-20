@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005803,
-    "geom:area_square_m":54165920.911751,
+    "geom:area_square_m":54165920.911721,
     "geom:bbox":"-74.432097,40.946298,-74.328411,41.028759",
     "geom:latitude":40.98647,
     "geom:longitude":-74.383106,
@@ -14,21 +14,26 @@
     "lbl:latitude":40.987841,
     "lbl:longitude":-74.378188,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Butler",
+    "mz:postal_locality_alt":[
+        "Kinnelon"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478433,
         85633793,
+        102087413,
+        404478433,
         85975565,
-        102087413
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760734"
     },
     "wof:country":"US",
-    "wof:geomhash":"db9ce6ac7537e4c7ed368b75d0856dbb",
+    "wof:geomhash":"a7d808c2e9ca0600ae30f521ae2c766c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554699969,
-    "wof:lastmodified":1480818576,
+    "wof:lastmodified":1611184620,
     "wof:name":"07405",
     "wof:parent_id":85975565,
     "wof:placetype":"postalcode",

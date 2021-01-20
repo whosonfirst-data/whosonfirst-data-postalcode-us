@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02326,
-    "geom:area_square_m":221911159.635871,
+    "geom:area_square_m":221911159.635853,
     "geom:bbox":"-91.650263,39.405999,-91.414622,39.634099",
     "geom:latitude":39.506594,
     "geom:longitude":-91.546685,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.505732,
     "lbl:longitude":-91.55251,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Center",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404517777,
         85633793,
-        102086167
+        102086167,
+        404517777,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785713"
     },
     "wof:country":"US",
-    "wof:geomhash":"9ea48c8f9dfafb3699c9b68925062735",
+    "wof:geomhash":"5e05f08e7673214c65cd5f36f522a204",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554735957,
-    "wof:lastmodified":1480911071,
+    "wof:lastmodified":1611184427,
     "wof:name":"63436",
     "wof:parent_id":404517777,
     "wof:placetype":"postalcode",

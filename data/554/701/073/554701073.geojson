@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002054,
-    "geom:area_square_m":18602098.812868,
+    "geom:area_square_m":18602098.812874,
     "geom:bbox":"-73.942242,42.894459,-73.881767,42.952391",
     "geom:latitude":42.922477,
     "geom:longitude":-73.907212,
@@ -14,20 +14,25 @@
     "lbl:latitude":42.935415,
     "lbl:longitude":-73.907815,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Burnt Hills",
+    "mz:postal_locality_alt":[
+        "Ballston Spa"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404523159,
         85633793,
-        102082413
+        102082413,
+        404523159,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762049"
     },
     "wof:country":"US",
-    "wof:geomhash":"15171ec54bd97623d3fa3e12c3d6c7f9",
+    "wof:geomhash":"f67fd455934d48de8feb889020a1b7c1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554701073,
-    "wof:lastmodified":1480818876,
+    "wof:lastmodified":1611182634,
     "wof:name":"12027",
     "wof:parent_id":404523159,
     "wof:placetype":"postalcode",

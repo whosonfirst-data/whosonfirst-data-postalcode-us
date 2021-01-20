@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.056289,
-    "geom:area_square_m":498144988.186892,
+    "geom:area_square_m":498144988.186815,
     "geom:bbox":"-93.465599,44.196203,-93.101227,44.459053",
     "geom:latitude":44.299792,
     "geom:longitude":-93.277173,
@@ -14,21 +14,27 @@
     "lbl:latitude":44.299725,
     "lbl:longitude":-93.277222,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Faribault",
+    "mz:postal_locality_alt":[
+        "Kenyon",
+        "Morristown"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404512629,
         85633793,
+        102087623,
+        404512629,
         85968795,
-        102087623
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781680"
     },
     "wof:country":"US",
-    "wof:geomhash":"34546ea43e757421396d25248f19522e",
+    "wof:geomhash":"2f9df74341a4d6a1dc340655d7c3625d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554728931,
-    "wof:lastmodified":1480783272,
+    "wof:lastmodified":1611185044,
     "wof:name":"55021",
     "wof:parent_id":85968795,
     "wof:placetype":"postalcode",

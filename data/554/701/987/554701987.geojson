@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.067523,
-    "geom:area_square_m":597339121.685421,
+    "geom:area_square_m":597339121.685155,
     "geom:bbox":"-74.435865,44.142445,-73.902105,44.440735",
     "geom:latitude":44.321423,
     "geom:longitude":-74.202928,
@@ -14,20 +14,25 @@
     "lbl:latitude":44.307529,
     "lbl:longitude":-74.147022,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Saranac Lake",
+    "mz:postal_locality_alt":[
+        "Chateaugay"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522417,
         85633793,
-        102081817
+        102081817,
+        404522417,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762594"
     },
     "wof:country":"US",
-    "wof:geomhash":"878d3d9205a0c9f35f04ad287e018e23",
+    "wof:geomhash":"0f5a62a8d3bb326e3347305f1174debb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554701987,
-    "wof:lastmodified":1480832641,
+    "wof:lastmodified":1611182644,
     "wof:name":"12983",
     "wof:parent_id":404522417,
     "wof:placetype":"postalcode",

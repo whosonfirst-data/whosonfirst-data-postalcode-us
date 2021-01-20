@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003437,
-    "geom:area_square_m":30061257.131956,
+    "geom:area_square_m":30061257.131929,
     "geom:bbox":"-92.98484,44.948522,-92.934094,45.036091",
     "geom:latitude":44.98798,
     "geom:longitude":-92.96393,
@@ -13,21 +13,27 @@
     "lbl:latitude":44.987546,
     "lbl:longitude":-92.963553,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Saint Paul",
+    "mz:postal_locality_alt":[
+        "St Paul",
+        "Oakdale"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404514913,
         85633793,
+        102087659,
+        404514913,
         85953565,
-        102087659
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781763"
     },
     "wof:country":"US",
-    "wof:geomhash":"901a9e52af2c917d28420423f022b41f",
+    "wof:geomhash":"a7613fa163489459c314073cbc30c43f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +46,7 @@
         }
     ],
     "wof:id":554729107,
-    "wof:lastmodified":1480783432,
+    "wof:lastmodified":1611185427,
     "wof:name":"55128",
     "wof:parent_id":85953565,
     "wof:placetype":"postalcode",

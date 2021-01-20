@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000713,
-    "geom:area_square_m":6829262.960877,
+    "geom:area_square_m":6829262.960873,
     "geom:bbox":"-75.021069,39.262767,-74.978701,39.289993",
     "geom:latitude":39.277314,
     "geom:longitude":-75.001922,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.275992,
     "lbl:longitude":-75.007675,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mauricetown",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478077,
         85633793,
-        102080721
+        102080721,
+        404478077,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761133"
     },
     "wof:country":"US",
-    "wof:geomhash":"f42f636d476e96ad93de893c86d9bdfd",
+    "wof:geomhash":"31ec516b98a10d138fac00fb05e04307",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554788387,
-    "wof:lastmodified":1480905055,
+    "wof:lastmodified":1611184766,
     "wof:name":"08329",
     "wof:parent_id":404478077,
     "wof:placetype":"postalcode",

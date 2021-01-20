@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027459,
-    "geom:area_square_m":265196875.394866,
+    "geom:area_square_m":265196875.394861,
     "geom:bbox":"-86.609659,38.484778,-86.307725,38.716468",
     "geom:latitude":38.641381,
     "geom:longitude":-86.422489,
@@ -14,20 +14,22 @@
     "lbl:latitude":38.647143,
     "lbl:longitude":-86.43343,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Orleans",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404501585,
         85633793,
-        102087163
+        102087163,
+        404501585,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778239"
     },
     "wof:country":"US",
-    "wof:geomhash":"e3219f7b70febd600615e8c2a8c6e680",
+    "wof:geomhash":"1e0566ae5e8fcbf67539e755ac96a836",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554723437,
-    "wof:lastmodified":1480917014,
+    "wof:lastmodified":1611183785,
     "wof:name":"47452",
     "wof:parent_id":404501585,
     "wof:placetype":"postalcode",

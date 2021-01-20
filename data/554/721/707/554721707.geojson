@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.047441,
-    "geom:area_square_m":452906865.280055,
+    "geom:area_square_m":452906865.27976,
     "geom:bbox":"-83.984819,39.353313,-83.650046,39.569169",
     "geom:latitude":39.460115,
     "geom:longitude":-83.837148,
@@ -14,20 +14,26 @@
     "lbl:latitude":39.460731,
     "lbl:longitude":-83.844296,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wilmington",
+    "mz:postal_locality_alt":[
+        "Buford",
+        "Williamsburg"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404524931,
         85633793,
-        102083645
+        102083645,
+        404524931,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777121"
     },
     "wof:country":"US",
-    "wof:geomhash":"fe28c129316f7f511fe898a170fae12e",
+    "wof:geomhash":"2fabb7a57ee8bebb7fe253dcecbd30c9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554721707,
-    "wof:lastmodified":1480837106,
+    "wof:lastmodified":1611184947,
     "wof:name":"45177",
     "wof:parent_id":404524931,
     "wof:placetype":"postalcode",

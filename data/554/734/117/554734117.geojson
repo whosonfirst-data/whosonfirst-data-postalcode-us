@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015418,
-    "geom:area_square_m":144062452.854829,
+    "geom:area_square_m":144062452.854875,
     "geom:bbox":"-89.610418,40.820794,-89.447693,41.00279",
     "geom:latitude":40.917266,
     "geom:longitude":-89.535478,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.91193,
     "lbl:longitude":-89.53777,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Chillicothe",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404498771,
         85633793,
-        102081247
+        102081247,
+        404498771,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784678"
     },
     "wof:country":"US",
-    "wof:geomhash":"9751c507e1ef49da1b73375fcec25302",
+    "wof:geomhash":"2cf7ff7d861aa7b35cd1871202b850c0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554734117,
-    "wof:lastmodified":1480823041,
+    "wof:lastmodified":1611184192,
     "wof:name":"61523",
     "wof:parent_id":404498771,
     "wof:placetype":"postalcode",

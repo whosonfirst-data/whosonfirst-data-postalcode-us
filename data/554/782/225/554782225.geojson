@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009436,
-    "geom:area_square_m":100419480.11482,
+    "geom:area_square_m":100419480.11474,
     "geom:bbox":"-87.924587,30.545513,-87.79508,30.668731",
     "geom:latitude":30.612791,
     "geom:longitude":-87.862763,
@@ -14,19 +14,25 @@
     "lbl:latitude":30.611151,
     "lbl:longitude":-87.859918,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Daphne",
+    "mz:postal_locality_alt":[
+        "Montrose",
+        "Fairhope"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688675,
-        102085469
+        102085469,
+        85688675
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12773551"
     },
     "wof:country":"US",
-    "wof:geomhash":"781a6b3be1a8cc7af113c17a360e57c7",
+    "wof:geomhash":"cf876e5e5e4cbd4e04005c0f55ccf316",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554782225,
-    "wof:lastmodified":1480816138,
+    "wof:lastmodified":1611183626,
     "wof:name":"36526",
     "wof:parent_id":102085469,
     "wof:placetype":"postalcode",

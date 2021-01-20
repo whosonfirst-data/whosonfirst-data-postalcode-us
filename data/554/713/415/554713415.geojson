@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038823,
-    "geom:area_square_m":395644324.051137,
+    "geom:area_square_m":395644324.051014,
     "geom:bbox":"-85.143828,34.401154,-84.788759,34.588587",
     "geom:latitude":34.496567,
     "geom:longitude":-84.955733,
@@ -13,20 +13,26 @@
     "lbl:latitude":34.492384,
     "lbl:longitude":-84.958336,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Calhoun",
+    "mz:postal_locality_alt":[
+        "Ringgold",
+        "Trenton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688535,
         102191575,
         85633793,
+        102084679,
         85936609,
-        102084679
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770975"
     },
     "wof:country":"US",
-    "wof:geomhash":"6d5288e4d3550a9a1c5a948c21d51905",
+    "wof:geomhash":"a6e51b065a3c35e055b884e411200d64",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554713415,
-    "wof:lastmodified":1480798882,
+    "wof:lastmodified":1611183302,
     "wof:name":"30701",
     "wof:parent_id":85936609,
     "wof:placetype":"postalcode",

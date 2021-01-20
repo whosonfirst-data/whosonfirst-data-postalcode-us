@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02194,
-    "geom:area_square_m":226829745.534993,
+    "geom:area_square_m":226829745.534887,
     "geom:bbox":"-96.032118,33.19531,-95.75964,33.365563",
     "geom:latitude":33.268488,
     "geom:longitude":-95.916051,
@@ -13,19 +13,24 @@
     "lbl:latitude":33.271869,
     "lbl:longitude":-95.917415,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Commerce",
+    "mz:postal_locality_alt":[
+        "Sulphur Springs"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688753,
-        102080661
+        102080661,
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12790575"
     },
     "wof:country":"US",
-    "wof:geomhash":"e4c9dc51acabe24b2f5289096e5a7b72",
+    "wof:geomhash":"2275a3ce8abd3f8422adb685ee8f05a1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +41,7 @@
         }
     ],
     "wof:id":554744525,
-    "wof:lastmodified":1480912062,
+    "wof:lastmodified":1611184752,
     "wof:name":"75428",
     "wof:parent_id":102080661,
     "wof:placetype":"postalcode",

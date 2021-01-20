@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01707,
-    "geom:area_square_m":150569200.019197,
+    "geom:area_square_m":150569200.019185,
     "geom:bbox":"-68.017219,44.384576,-67.87375,44.597708",
     "geom:latitude":44.490476,
     "geom:longitude":-67.940006,
@@ -14,20 +14,22 @@
     "lbl:latitude":44.478414,
     "lbl:longitude":-67.947062,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Steuben",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404475863,
         85633793,
-        102081143
+        102081143,
+        404475863,
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759708"
     },
     "wof:country":"US",
-    "wof:geomhash":"4069cdb4ea045b9902d7c1ade9ce3a2b",
+    "wof:geomhash":"f81c02586685a297ee37262574dcd77c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554778887,
-    "wof:lastmodified":1480830744,
+    "wof:lastmodified":1611183428,
     "wof:name":"04680",
     "wof:parent_id":404475863,
     "wof:placetype":"postalcode",

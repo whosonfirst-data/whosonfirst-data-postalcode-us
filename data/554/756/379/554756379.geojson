@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001453,
-    "geom:area_square_m":12108050.509558,
+    "geom:area_square_m":12108050.509569,
     "geom:bbox":"-117.438281,47.613623,-117.373009,47.642792",
     "geom:latitude":47.62909,
     "geom:longitude":-117.403301,
@@ -13,20 +13,22 @@
     "lbl:latitude":47.628641,
     "lbl:longitude":-117.402997,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Spokane",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688623,
         102191575,
         85633793,
+        102087555,
         101730021,
-        102087555
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12799527"
     },
     "wof:country":"US",
-    "wof:geomhash":"c528ceaeb6ae66a97910fe342f210cfb",
+    "wof:geomhash":"bb0626f98cf15843f9ac30b1120d6847",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +40,7 @@
         }
     ],
     "wof:id":554756379,
-    "wof:lastmodified":1480787764,
+    "wof:lastmodified":1611184285,
     "wof:name":"99203",
     "wof:parent_id":101730021,
     "wof:placetype":"postalcode",

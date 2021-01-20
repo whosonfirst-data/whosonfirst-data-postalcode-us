@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027735,
-    "geom:area_square_m":298026800.078798,
+    "geom:area_square_m":298026800.078957,
     "geom:bbox":"-97.962117,29.509381,-97.683873,29.765932",
     "geom:latitude":29.656897,
     "geom:longitude":-97.794953,
@@ -14,20 +14,25 @@
     "lbl:latitude":29.659589,
     "lbl:longitude":-97.785208,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Kingsbury",
+    "mz:postal_locality_alt":[
+        "Seguin"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102086771,
         101726375,
-        102086771
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12792241"
     },
     "wof:country":"US",
-    "wof:geomhash":"4368ed1fe3a17f181e938c4ca773b461",
+    "wof:geomhash":"88d3aedcbbda0a9c1e38ad0bd9e9db41",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554747001,
-    "wof:lastmodified":1480911559,
+    "wof:lastmodified":1611183462,
     "wof:name":"78638",
     "wof:parent_id":101726375,
     "wof:placetype":"postalcode",

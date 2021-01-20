@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003214,
-    "geom:area_square_m":33205396.776307,
+    "geom:area_square_m":33205396.776288,
     "geom:bbox":"-111.859133,33.287336,-111.789585,33.361325",
     "geom:latitude":33.317364,
     "geom:longitude":-111.832204,
@@ -13,20 +13,22 @@
     "lbl:latitude":33.317445,
     "lbl:longitude":-111.830477,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Chandler",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688719,
         102191575,
         85633793,
+        102087421,
         85917533,
-        102087421
+        85688719
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12794483"
     },
     "wof:country":"US",
-    "wof:geomhash":"6df06664adc12fb657d083406a36c90e",
+    "wof:geomhash":"fa9ac6765cb12250587ffd441359c2a5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +40,7 @@
         }
     ],
     "wof:id":554750353,
-    "wof:lastmodified":1480786595,
+    "wof:lastmodified":1611184528,
     "wof:name":"85225",
     "wof:parent_id":85917533,
     "wof:placetype":"postalcode",

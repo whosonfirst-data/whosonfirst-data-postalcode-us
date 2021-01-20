@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003744,
-    "geom:area_square_m":34981389.009102,
+    "geom:area_square_m":34981389.009108,
     "geom:bbox":"-74.827318,40.87502,-74.665679,40.963139",
     "geom:latitude":40.921412,
     "geom:longitude":-74.736277,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.923063,
     "lbl:longitude":-74.73579,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Stanhope",
+    "mz:postal_locality_alt":[
+        "Newton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478453,
         85633793,
-        102086779
+        102086779,
+        404478453,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760930"
     },
     "wof:country":"US",
-    "wof:geomhash":"3448ac85976ff193528a13c9bb28e9b3",
+    "wof:geomhash":"6af1eb78d5a29a317a675ada66a490f1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554700253,
-    "wof:lastmodified":1480914755,
+    "wof:lastmodified":1611183202,
     "wof:name":"07874",
     "wof:parent_id":404478453,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043921,
-    "geom:area_square_m":385642494.922921,
+    "geom:area_square_m":385642494.922943,
     "geom:bbox":"-85.634266,44.62072,-85.332879,44.996914",
     "geom:latitude":44.757726,
     "geom:longitude":-85.50864,
@@ -13,20 +13,25 @@
     "lbl:latitude":44.713682,
     "lbl:longitude":-85.557845,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Traverse City",
+    "mz:postal_locality_alt":[
+        "Old Mission"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404506559,
         85633793,
-        102083133
+        102083133,
+        404506559,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779485"
     },
     "wof:country":"US",
-    "wof:geomhash":"7ab76bba0405f5b10751e42fc536a411",
+    "wof:geomhash":"f5df1df2ea11e90fd8647dc6c59d4aed",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554782763,
-    "wof:lastmodified":1480839055,
+    "wof:lastmodified":1611183599,
     "wof:name":"49686",
     "wof:parent_id":404506559,
     "wof:placetype":"postalcode",

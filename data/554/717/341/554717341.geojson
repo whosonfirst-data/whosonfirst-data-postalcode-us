@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002474,
-    "geom:area_square_m":25025830.776575,
+    "geom:area_square_m":25025830.776569,
     "geom:bbox":"-89.888405,35.099294,-89.796971,35.156481",
     "geom:latitude":35.12356,
     "geom:longitude":-89.852199,
@@ -14,20 +14,25 @@
     "lbl:latitude":35.123633,
     "lbl:longitude":-89.852645,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Memphis",
+    "mz:postal_locality_alt":[
+        "Germantown"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688701,
         102191575,
         85633793,
+        102087213,
         101722645,
-        102087213
+        85688701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12774305"
     },
     "wof:country":"US",
-    "wof:geomhash":"58a2b8c28bbb31328310fa041f1a2672",
+    "wof:geomhash":"e839ad406d3171f06ed4203ec0c27d39",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554717341,
-    "wof:lastmodified":1480783981,
+    "wof:lastmodified":1611185006,
     "wof:name":"38120",
     "wof:parent_id":101722645,
     "wof:placetype":"postalcode",

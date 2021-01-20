@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030385,
-    "geom:area_square_m":284992796.864059,
+    "geom:area_square_m":284992796.864259,
     "geom:bbox":"-91.680119,40.551425,-91.401546,40.799305",
     "geom:latitude":40.665469,
     "geom:longitude":-91.569405,
@@ -14,19 +14,24 @@
     "lbl:latitude":40.660783,
     "lbl:longitude":-91.574196,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Donnellson",
+    "mz:postal_locality_alt":[
+        "Houghton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688713,
-        102086651
+        102086651,
+        85688713
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12780665"
     },
     "wof:country":"US",
-    "wof:geomhash":"7a1eae1fa9781806c915497d7a8d3ac2",
+    "wof:geomhash":"1c7d11dbc97b4ea0f5399579fd404599",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554727295,
-    "wof:lastmodified":1480911021,
+    "wof:lastmodified":1611185504,
     "wof:name":"52625",
     "wof:parent_id":102086651,
     "wof:placetype":"postalcode",

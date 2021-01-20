@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0028,
-    "geom:area_square_m":26064120.731032,
+    "geom:area_square_m":26064120.731036,
     "geom:bbox":"-74.234473,41.126831,-74.121594,41.21756",
     "geom:latitude":41.167965,
     "geom:longitude":-74.178271,
@@ -14,21 +14,26 @@
     "lbl:latitude":41.168058,
     "lbl:longitude":-74.178013,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Sloatsburg",
+    "mz:postal_locality_alt":[
+        "Tuxedo Park"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404523097,
         85633793,
+        102082385,
+        404523097,
         85978561,
-        102082385
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761664"
     },
     "wof:country":"US",
-    "wof:geomhash":"ba8464eaa6fa3c250f50207435b300fd",
+    "wof:geomhash":"655268a7f110958d86b2beadeacd4009",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554701007,
-    "wof:lastmodified":1480908563,
+    "wof:lastmodified":1611182622,
     "wof:name":"10974",
     "wof:parent_id":85978561,
     "wof:placetype":"postalcode",

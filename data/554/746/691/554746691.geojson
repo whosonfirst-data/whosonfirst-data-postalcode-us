@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002462,
-    "geom:area_square_m":26497168.319683,
+    "geom:area_square_m":26497168.319634,
     "geom:bbox":"-98.482162,29.451374,-98.429944,29.519571",
     "geom:latitude":29.48904,
     "geom:longitude":-98.45673,
@@ -13,20 +13,25 @@
     "lbl:latitude":29.488906,
     "lbl:longitude":-98.456235,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"San Antonio",
+    "mz:postal_locality_alt":[
+        "Alamo Heights"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102082471,
         101724653,
-        102082471
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12791974"
     },
     "wof:country":"US",
-    "wof:geomhash":"c970f67e9282459dd696dfed708284be",
+    "wof:geomhash":"1e4d4dd189da96ae160ee69b5324cf5f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554746691,
-    "wof:lastmodified":1480790255,
+    "wof:lastmodified":1611184027,
     "wof:name":"78209",
     "wof:parent_id":101724653,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004741,
-    "geom:area_square_m":43061910.341204,
+    "geom:area_square_m":43061910.34128,
     "geom:bbox":"-87.910368,42.668487,-87.835769,42.784542",
     "geom:latitude":42.729895,
     "geom:longitude":-87.864905,
@@ -13,21 +13,26 @@
     "lbl:latitude":42.734537,
     "lbl:longitude":-87.864892,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Racine",
+    "mz:postal_locality_alt":[
+        "Sturtevant"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404494899,
         85633793,
+        102081763,
+        404494899,
         101732321,
-        102081763
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12780952"
     },
     "wof:country":"US",
-    "wof:geomhash":"0f50cf28b07eb06802a9718f77c9e6ac",
+    "wof:geomhash":"737a2bc4a806a5e074603b38ceb2546c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554783007,
-    "wof:lastmodified":1480830660,
+    "wof:lastmodified":1611183881,
     "wof:name":"53406",
     "wof:parent_id":101732321,
     "wof:placetype":"postalcode",

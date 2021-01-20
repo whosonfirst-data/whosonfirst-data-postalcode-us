@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006168,
-    "geom:area_square_m":58301994.855545,
+    "geom:area_square_m":58301994.855345,
     "geom:bbox":"-81.27059,40.096192,-81.1476,40.225348",
     "geom:latitude":40.141539,
     "geom:longitude":-81.205397,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.137143,
     "lbl:longitude":-81.199035,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Piedmont",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404523593,
         85633793,
-        102083721
+        102083721,
+        404523593,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776556"
     },
     "wof:country":"US",
-    "wof:geomhash":"f6d73e6c0446f860977ec30f54269e8b",
+    "wof:geomhash":"b40f1bca07074f1593def61cd4a8af5c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554720899,
-    "wof:lastmodified":1480838456,
+    "wof:lastmodified":1611185483,
     "wof:name":"43983",
     "wof:parent_id":404523593,
     "wof:placetype":"postalcode",

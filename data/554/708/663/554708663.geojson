@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018646,
-    "geom:area_square_m":185146935.725103,
+    "geom:area_square_m":185146935.725126,
     "geom:bbox":"-79.997323,36.541938,-79.712353,36.659295",
     "geom:latitude":36.581682,
     "geom:longitude":-79.872642,
@@ -14,19 +14,25 @@
     "lbl:latitude":36.579801,
     "lbl:longitude":-79.877967,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ridgeway",
+    "mz:postal_locality_alt":[
+        "Moneta",
+        "Martinsville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688747,
-        102086705
+        102086705,
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12767686"
     },
     "wof:country":"US",
-    "wof:geomhash":"819a5225c64350f4432cdf99c7bbd1d6",
+    "wof:geomhash":"8b4cfa1fd505f1d16a93bcb4cc8c53f7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554708663,
-    "wof:lastmodified":1480908948,
+    "wof:lastmodified":1611182800,
     "wof:name":"24148",
     "wof:parent_id":102086705,
     "wof:placetype":"postalcode",

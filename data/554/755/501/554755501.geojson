@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0028,
-    "geom:area_square_m":23395593.987194,
+    "geom:area_square_m":23395593.987219,
     "geom:bbox":"-122.335332,47.462962,-122.251569,47.515648",
     "geom:latitude":47.488932,
     "geom:longitude":-122.301202,
@@ -13,20 +13,27 @@
     "lbl:latitude":47.489569,
     "lbl:longitude":-122.29996,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Seattle",
+    "mz:postal_locality_alt":[
+        "Tukwila",
+        "Burien",
+        "Seatac"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688623,
         102191575,
         85633793,
+        102086191,
         101730453,
-        102086191
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12798990"
     },
     "wof:country":"US",
-    "wof:geomhash":"d63c0efbe51aab892e37e564116c4bb6",
+    "wof:geomhash":"4315c62f152bb6817d52170501377dce",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +45,7 @@
         }
     ],
     "wof:id":554755501,
-    "wof:lastmodified":1480915587,
+    "wof:lastmodified":1611182585,
     "wof:name":"98168",
     "wof:parent_id":101730453,
     "wof:placetype":"postalcode",

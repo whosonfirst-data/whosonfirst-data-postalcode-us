@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000717,
-    "geom:area_square_m":7700192.890794,
+    "geom:area_square_m":7700192.890777,
     "geom:bbox":"-95.251863,29.65089,-95.207833,29.670376",
     "geom:latitude":29.661053,
     "geom:longitude":-95.229517,
@@ -14,20 +14,25 @@
     "lbl:latitude":29.661032,
     "lbl:longitude":-95.229784,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"South Houston",
+    "mz:postal_locality_alt":[
+        "Pasadena"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102081111,
         101726097,
-        102081111
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12791715"
     },
     "wof:country":"US",
-    "wof:geomhash":"1449602c28d86177976246dde87faa3e",
+    "wof:geomhash":"c0f33519454c6ed32a1787afc0252580",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554746337,
-    "wof:lastmodified":1480833205,
+    "wof:lastmodified":1611183995,
     "wof:name":"77587",
     "wof:parent_id":101726097,
     "wof:placetype":"postalcode",

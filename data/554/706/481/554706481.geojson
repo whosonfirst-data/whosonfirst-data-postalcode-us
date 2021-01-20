@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004565,
-    "geom:area_square_m":43112371.668919,
+    "geom:area_square_m":43112371.668905,
     "geom:bbox":"-75.592657,40.161587,-75.489976,40.252611",
     "geom:latitude":40.207541,
     "geom:longitude":-75.532858,
@@ -14,20 +14,27 @@
     "lbl:latitude":40.207638,
     "lbl:longitude":-75.532067,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Royersford",
+    "mz:postal_locality_alt":[
+        "Limerick",
+        "Linfield",
+        "Mainland"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485471,
         85633793,
-        102081355
+        102081355,
+        404485471,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765659"
     },
     "wof:country":"US",
-    "wof:geomhash":"8cd300b9151a96b9a9f00f4691bd83cc",
+    "wof:geomhash":"834e2594aafbd88ad406f7e162450cd6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554706481,
-    "wof:lastmodified":1480818593,
+    "wof:lastmodified":1611182707,
     "wof:name":"19468",
     "wof:parent_id":404485471,
     "wof:placetype":"postalcode",

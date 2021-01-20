@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018686,
-    "geom:area_square_m":173891879.080515,
+    "geom:area_square_m":173891879.080575,
     "geom:bbox":"-87.375098,41.129588,-87.141043,41.281153",
     "geom:latitude":41.184046,
     "geom:longitude":-87.231829,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.179926,
     "lbl:longitude":-87.2308,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Demotte",
+    "mz:postal_locality_alt":[
+        "Roselawn"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404501001,
         85633793,
-        102087005
+        102087005,
+        404501001,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777712"
     },
     "wof:country":"US",
-    "wof:geomhash":"c58ff7a0bd4366228cbf1c4b5da99f1e",
+    "wof:geomhash":"5e40c72d76e6fe2d8f18d0609657e055",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554722653,
-    "wof:lastmodified":1480911845,
+    "wof:lastmodified":1611183244,
     "wof:name":"46310",
     "wof:parent_id":404501001,
     "wof:placetype":"postalcode",

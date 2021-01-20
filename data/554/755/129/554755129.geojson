@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016993,
-    "geom:area_square_m":151589665.78965,
+    "geom:area_square_m":151589665.789678,
     "geom:bbox":"-121.644214,43.74738,-121.342636,43.925535",
     "geom:latitude":43.8258,
     "geom:longitude":-121.495246,
@@ -13,20 +13,25 @@
     "lbl:latitude":43.826223,
     "lbl:longitude":-121.492124,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bend",
+    "mz:postal_locality_alt":[
+        "Sunriver"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688513,
         102191575,
         85633793,
+        102082251,
         101716459,
-        102082251
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12798774"
     },
     "wof:country":"US",
-    "wof:geomhash":"fd40aee5cbf4fe7718801d773eef497e",
+    "wof:geomhash":"e8ae19b5adfd73fcdd6c85b400f73be3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554755129,
-    "wof:lastmodified":1480789750,
+    "wof:lastmodified":1611182580,
     "wof:name":"97707",
     "wof:parent_id":101716459,
     "wof:placetype":"postalcode",

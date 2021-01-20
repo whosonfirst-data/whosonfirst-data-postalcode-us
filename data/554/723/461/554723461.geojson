@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018573,
-    "geom:area_square_m":178123461.54002,
+    "geom:area_square_m":178123461.540105,
     "geom:bbox":"-87.129027,39.069814,-86.892219,39.232485",
     "geom:latitude":39.141685,
     "geom:longitude":-87.002263,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.143294,
     "lbl:longitude":-87.005186,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Worthington",
+    "mz:postal_locality_alt":[
+        "Nashville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404500677,
         85633793,
-        102087203
+        102087203,
+        404500677,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778256"
     },
     "wof:country":"US",
-    "wof:geomhash":"809accb9aecee2586a725dc69c33bf52",
+    "wof:geomhash":"99c7774df909a0d4951265141fafcb3f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554723461,
-    "wof:lastmodified":1480789036,
+    "wof:lastmodified":1611183807,
     "wof:name":"47471",
     "wof:parent_id":404500677,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009549,
-    "geom:area_square_m":90903719.285193,
+    "geom:area_square_m":90903719.285136,
     "geom:bbox":"-86.811886,39.572173,-86.669635,39.73238",
     "geom:latitude":39.655703,
     "geom:longitude":-86.742808,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.658583,
     "lbl:longitude":-86.742562,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fillmore",
+    "mz:postal_locality_alt":[
+        "Greencastle"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404501689,
         85633793,
-        102087217
+        102087217,
+        404501689,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777604"
     },
     "wof:country":"US",
-    "wof:geomhash":"16159f1a5c9d62f870d01a2c6b1dd4cd",
+    "wof:geomhash":"0352444f9ef150af1f9b97ec84463d0a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554722487,
-    "wof:lastmodified":1480911098,
+    "wof:lastmodified":1611183239,
     "wof:name":"46128",
     "wof:parent_id":404501689,
     "wof:placetype":"postalcode",

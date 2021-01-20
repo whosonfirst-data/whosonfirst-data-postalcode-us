@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012741,
-    "geom:area_square_m":111617533.78465,
+    "geom:area_square_m":111617533.784653,
     "geom:bbox":"-89.641122,44.828816,-89.407754,44.945527",
     "geom:latitude":44.887996,
     "geom:longitude":-89.523716,
@@ -14,21 +14,27 @@
     "lbl:latitude":44.88996,
     "lbl:longitude":-89.520725,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Schofield",
+    "mz:postal_locality_alt":[
+        "Weston",
+        "Wausau"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404493737,
         85633793,
+        102081881,
+        404493737,
         101732525,
-        102081881
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781347"
     },
     "wof:country":"US",
-    "wof:geomhash":"a9665ec5cac9bb6e061603f398189b7b",
+    "wof:geomhash":"7e5aae8dd7a315edc40d870ddabb7aaa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554728337,
-    "wof:lastmodified":1480829650,
+    "wof:lastmodified":1611185048,
     "wof:name":"54476",
     "wof:parent_id":101732525,
     "wof:placetype":"postalcode",

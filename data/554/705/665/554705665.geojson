@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00595,
-    "geom:area_square_m":55738950.425292,
+    "geom:area_square_m":55738950.425282,
     "geom:bbox":"-75.878325,40.694121,-75.757807,40.792412",
     "geom:latitude":40.74375,
     "geom:longitude":-75.825381,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.74408,
     "lbl:longitude":-75.830406,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Andreas",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404487371,
         85633793,
-        102081271
+        102081271,
+        404487371,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765092"
     },
     "wof:country":"US",
-    "wof:geomhash":"b62bcbf67453204da70a6e5847a60419",
+    "wof:geomhash":"edef7233dc6b6b7812e7a1207366c8fc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554705665,
-    "wof:lastmodified":1480831457,
+    "wof:lastmodified":1611184123,
     "wof:name":"18211",
     "wof:parent_id":404487371,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007602,
-    "geom:area_square_m":68021695.02012,
+    "geom:area_square_m":68021695.020121,
     "geom:bbox":"-92.769547,43.615706,-92.589215,43.673977",
     "geom:latitude":43.645996,
     "geom:longitude":-92.680588,
@@ -14,20 +14,22 @@
     "lbl:latitude":43.646002,
     "lbl:longitude":-92.680581,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Elkton",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404513005,
         85633793,
-        102087717
+        102087717,
+        404513005,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782124"
     },
     "wof:country":"US",
-    "wof:geomhash":"2308b35b38d70dbac3fcfbe10ae9cbf6",
+    "wof:geomhash":"b9d7852f0131fe22cee96f92398977a1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554729615,
-    "wof:lastmodified":1480783324,
+    "wof:lastmodified":1611185433,
     "wof:name":"55933",
     "wof:parent_id":404513005,
     "wof:placetype":"postalcode",

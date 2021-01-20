@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002369,
-    "geom:area_square_m":21870966.901815,
+    "geom:area_square_m":21870966.901806,
     "geom:bbox":"-87.798757,41.683246,-87.720317,41.734524",
     "geom:latitude":41.714269,
     "geom:longitude":-87.752822,
@@ -13,21 +13,26 @@
     "lbl:latitude":41.713437,
     "lbl:longitude":-87.75256,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Oak Lawn",
+    "mz:postal_locality_alt":[
+        "Alsip"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404497667,
         85633793,
+        102084317,
+        404497667,
         85940759,
-        102084317
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784161"
     },
     "wof:country":"US",
-    "wof:geomhash":"969af521a2c8ffe8343288e462f9d0f8",
+    "wof:geomhash":"a79f0fbdb399655749723798364cc8b5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554783295,
-    "wof:lastmodified":1480802053,
+    "wof:lastmodified":1611183881,
     "wof:name":"60453",
     "wof:parent_id":85940759,
     "wof:placetype":"postalcode",

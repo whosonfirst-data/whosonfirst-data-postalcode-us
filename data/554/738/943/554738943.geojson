@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039333,
-    "geom:area_square_m":379559294.035313,
+    "geom:area_square_m":379559294.035244,
     "geom:bbox":"-97.261136,38.609233,-97.001423,38.827415",
     "geom:latitude":38.702532,
     "geom:longitude":-97.127323,
@@ -14,20 +14,22 @@
     "lbl:latitude":38.703171,
     "lbl:longitude":-97.12158,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hope",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404503507,
         85633793,
-        102082691
+        102082691,
+        404503507,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787262"
     },
     "wof:country":"US",
-    "wof:geomhash":"4fe06b76ae0d2b89e621ffe6a642e806",
+    "wof:geomhash":"5104e7a955006b9e73533e6cb304f56f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554738943,
-    "wof:lastmodified":1480808036,
+    "wof:lastmodified":1611183128,
     "wof:name":"67451",
     "wof:parent_id":404503507,
     "wof:placetype":"postalcode",

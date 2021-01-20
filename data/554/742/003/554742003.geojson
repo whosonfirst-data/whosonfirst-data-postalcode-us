@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012925,
-    "geom:area_square_m":131076166.424565,
+    "geom:area_square_m":131076166.424595,
     "geom:bbox":"-92.34583,34.804018,-92.142959,34.993799",
     "geom:latitude":34.898872,
     "geom:longitude":-92.241016,
@@ -14,20 +14,26 @@
     "lbl:latitude":34.902228,
     "lbl:longitude":-92.240817,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Sherwood",
+    "mz:postal_locality_alt":[
+        "North Little Rock",
+        "N Little Rock"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688549,
         102191575,
         85633793,
+        102082497,
         85921679,
-        102082497
+        85688549
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12789077"
     },
     "wof:country":"US",
-    "wof:geomhash":"f1f2045fb4f54ffb2f495e8b7ba0c0f7",
+    "wof:geomhash":"d6700f917cd5a83a8bc71664895eb582",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554742003,
-    "wof:lastmodified":1480836170,
+    "wof:lastmodified":1611185241,
     "wof:name":"72120",
     "wof:parent_id":85921679,
     "wof:placetype":"postalcode",

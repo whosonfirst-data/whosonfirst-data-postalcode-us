@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028915,
-    "geom:area_square_m":275979619.138932,
+    "geom:area_square_m":275979619.139254,
     "geom:bbox":"-92.66676,39.343987,-92.474557,39.609544",
     "geom:latitude":39.476011,
     "geom:longitude":-92.569309,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.475322,
     "lbl:longitude":-92.563651,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Huntsville",
+    "mz:postal_locality_alt":[
+        "Jacksonville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404517911,
         85633793,
-        102087527
+        102087527,
+        404517911,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786414"
     },
     "wof:country":"US",
-    "wof:geomhash":"7f0ca86bf6c42edbc316bb4300a861db",
+    "wof:geomhash":"88d5a6653b313ebb8b82ca1fce3c36b0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554737261,
-    "wof:lastmodified":1480913738,
+    "wof:lastmodified":1611182835,
     "wof:name":"65259",
     "wof:parent_id":404517911,
     "wof:placetype":"postalcode",

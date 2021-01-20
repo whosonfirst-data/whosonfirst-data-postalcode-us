@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006458,
-    "geom:area_square_m":66556762.885152,
+    "geom:area_square_m":66556762.885114,
     "geom:bbox":"-86.735781,33.488213,-86.602572,33.601707",
     "geom:latitude":33.545172,
     "geom:longitude":-86.665463,
@@ -13,20 +13,25 @@
     "lbl:latitude":33.541461,
     "lbl:longitude":-86.669642,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Birmingham",
+    "mz:postal_locality_alt":[
+        "Irondale"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688675,
         102191575,
         85633793,
+        102085481,
         85914835,
-        102085481
+        85688675
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12773021"
     },
     "wof:country":"US",
-    "wof:geomhash":"ff2e1b6cab2e4f287ff8e2ff1c218d38",
+    "wof:geomhash":"26c41368d7f15d09d12e8580f13fc323",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554715309,
-    "wof:lastmodified":1480808056,
+    "wof:lastmodified":1611183637,
     "wof:name":"35210",
     "wof:parent_id":85914835,
     "wof:placetype":"postalcode",

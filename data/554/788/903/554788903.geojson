@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000748,
-    "geom:area_square_m":6269594.825884,
+    "geom:area_square_m":6269594.825888,
     "geom:bbox":"-88.422081,47.288484,-88.374392,47.322657",
     "geom:latitude":47.307746,
     "geom:longitude":-88.395376,
@@ -14,20 +14,22 @@
     "lbl:latitude":47.307745,
     "lbl:longitude":-88.395376,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ahmeek",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404507951,
         85633793,
-        102083083
+        102083083,
+        404507951,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779635"
     },
     "wof:country":"US",
-    "wof:geomhash":"d7b668ddcbf4fe6dc601518fd8a8fe8a",
+    "wof:geomhash":"e097d6dcc55cb29f1e18499b460c4484",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554788903,
-    "wof:lastmodified":1480836773,
+    "wof:lastmodified":1611184762,
     "wof:name":"49901",
     "wof:parent_id":404507951,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000014,
-    "geom:area_square_m":128686.786299,
+    "geom:area_square_m":128686.786298,
     "geom:bbox":"-105.175572,40.101604,-105.168794,40.10594",
     "geom:latitude":40.103412,
     "geom:longitude":-105.171093,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.103412,
     "lbl:longitude":-105.171093,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Niwot",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688603,
         102191575,
         85633793,
+        102085251,
         85930703,
-        102085251
+        85688603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12793125"
     },
     "wof:country":"US",
-    "wof:geomhash":"9127bbe5d1638a1f46b82dbc79291747",
+    "wof:geomhash":"33a95d118d5658e813673d53dc046903",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554763287,
-    "wof:lastmodified":1480804303,
+    "wof:lastmodified":1611182503,
     "wof:name":"80544",
     "wof:parent_id":85930703,
     "wof:placetype":"postalcode",

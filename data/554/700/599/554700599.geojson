@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014531,
-    "geom:area_square_m":136905308.88443,
+    "geom:area_square_m":136905308.884303,
     "geom:bbox":"-74.756769,40.279383,-74.571633,40.460841",
     "geom:latitude":40.363313,
     "geom:longitude":-74.65563,
@@ -13,20 +13,30 @@
     "lbl:latitude":40.36301,
     "lbl:longitude":-74.655321,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Princeton",
+    "mz:postal_locality_alt":[
+        "Cranbury",
+        "Jackson",
+        "Plainsboro",
+        "Kingston",
+        "Pennington",
+        "Allentown"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478259,
         85633793,
-        102081129
+        102081129,
+        404478259,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761178"
     },
     "wof:country":"US",
-    "wof:geomhash":"5a2ec8f4e0d058d23373d6071dfdc6d0",
+    "wof:geomhash":"bd8246326b231e471eb8785ca2e039ed",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +48,7 @@
         }
     ],
     "wof:id":554700599,
-    "wof:lastmodified":1480831096,
+    "wof:lastmodified":1611183194,
     "wof:name":"08540",
     "wof:parent_id":404478259,
     "wof:placetype":"postalcode",

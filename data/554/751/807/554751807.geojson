@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002085,
-    "geom:area_square_m":21342778.469323,
+    "geom:area_square_m":21342778.469338,
     "geom:bbox":"-118.312615,34.09489,-118.265391,34.161439",
     "geom:latitude":34.12522,
     "geom:longitude":-118.29057,
@@ -13,20 +13,26 @@
     "lbl:latitude":34.127607,
     "lbl:longitude":-118.296387,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Los Angeles",
+    "mz:postal_locality_alt":[
+        "Hollywood",
+        "Los Feliz"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086957,
         85923517,
-        102086957
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795635"
     },
     "wof:country":"US",
-    "wof:geomhash":"bd0747a811857c0dadcbc42b35c0b6b8",
+    "wof:geomhash":"133cee200db6131f30cef69b9092e9fa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554751807,
-    "wof:lastmodified":1480912622,
+    "wof:lastmodified":1611184353,
     "wof:name":"90027",
     "wof:parent_id":85923517,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025468,
-    "geom:area_square_m":262736985.396745,
+    "geom:area_square_m":262736985.396246,
     "geom:bbox":"-97.89881,33.370978,-97.582231,33.559099",
     "geom:latitude":33.456111,
     "geom:longitude":-97.75203,
@@ -14,20 +14,22 @@
     "lbl:latitude":33.455656,
     "lbl:longitude":-97.752881,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Sunset",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102082477,
         101726569,
-        102082477
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12791015"
     },
     "wof:country":"US",
-    "wof:geomhash":"a8ef32e7a9f201501c323249c972f64d",
+    "wof:geomhash":"027a00f56319b32581b3b4334384b4d2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554745269,
-    "wof:lastmodified":1480814828,
+    "wof:lastmodified":1611185266,
     "wof:name":"76270",
     "wof:parent_id":101726569,
     "wof:placetype":"postalcode",

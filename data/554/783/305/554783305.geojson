@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000819,
-    "geom:area_square_m":7555548.454442,
+    "geom:area_square_m":7555548.454433,
     "geom:bbox":"-87.858256,41.732732,-87.814325,41.762299",
     "geom:latitude":41.748959,
     "geom:longitude":-87.834609,
@@ -14,21 +14,27 @@
     "lbl:latitude":41.753401,
     "lbl:longitude":-87.826941,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Justice",
+    "mz:postal_locality_alt":[
+        "Bedford Park",
+        "Oak Lawn"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404497627,
         85633793,
+        102084317,
+        404497627,
         85940809,
-        102084317
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784166"
     },
     "wof:country":"US",
-    "wof:geomhash":"5aafdbaaf9e41599373f5afe2abcfd4e",
+    "wof:geomhash":"f964e6c410c96db09c3ca25436a50c8e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554783305,
-    "wof:lastmodified":1480802049,
+    "wof:lastmodified":1611183894,
     "wof:name":"60458",
     "wof:parent_id":85940809,
     "wof:placetype":"postalcode",

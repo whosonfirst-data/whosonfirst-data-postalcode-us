@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000812,
-    "geom:area_square_m":7491537.557253,
+    "geom:area_square_m":7491537.557255,
     "geom:bbox":"-87.848028,41.708657,-87.806492,41.740325",
     "geom:latitude":41.724665,
     "geom:longitude":-87.828048,
@@ -14,21 +14,27 @@
     "lbl:latitude":41.724664,
     "lbl:longitude":-87.828047,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hickory Hills",
+    "mz:postal_locality_alt":[
+        "Oak Lawn",
+        "Bridgeview"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404496277,
         85633793,
+        102084317,
+        404496277,
         85940825,
-        102084317
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784165"
     },
     "wof:country":"US",
-    "wof:geomhash":"8bd37f28573b086a8e112f220afe1039",
+    "wof:geomhash":"a8043da3fe94d9de2cb95d2273e2cfcf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554783303,
-    "wof:lastmodified":1480802052,
+    "wof:lastmodified":1611183891,
     "wof:name":"60457",
     "wof:parent_id":85940825,
     "wof:placetype":"postalcode",

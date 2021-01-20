@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001428,
-    "geom:area_square_m":14045832.298037,
+    "geom:area_square_m":14045832.298009,
     "geom:bbox":"-121.86283,37.253156,-121.789016,37.31036",
     "geom:latitude":37.283461,
     "geom:longitude":-121.826564,
@@ -13,20 +13,22 @@
     "lbl:latitude":37.283111,
     "lbl:longitude":-121.826245,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"San Jose",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102081673,
         85922347,
-        102081673
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12797562"
     },
     "wof:country":"US",
-    "wof:geomhash":"8fffb2ed88489c9d399adeee17412a18",
+    "wof:geomhash":"25cf00c77d23c85e97e80bcf9ebcb4ff",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +40,7 @@
         }
     ],
     "wof:id":554753353,
-    "wof:lastmodified":1480829304,
+    "wof:lastmodified":1611182927,
     "wof:name":"95111",
     "wof:parent_id":85922347,
     "wof:placetype":"postalcode",

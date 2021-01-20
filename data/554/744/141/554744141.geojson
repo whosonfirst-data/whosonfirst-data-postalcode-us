@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000958,
-    "geom:area_square_m":9944371.2216,
+    "geom:area_square_m":9944371.221569,
     "geom:bbox":"-96.858915,32.933154,-96.82115,32.987521",
     "geom:latitude":32.960001,
     "geom:longitude":-96.838499,
@@ -14,20 +14,25 @@
     "lbl:latitude":32.960047,
     "lbl:longitude":-96.838522,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Addison",
+    "mz:postal_locality_alt":[
+        "Dallas"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102080647,
         101725671,
-        102080647
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12790297"
     },
     "wof:country":"US",
-    "wof:geomhash":"de0e3bbba401a63c44f107235ed6b683",
+    "wof:geomhash":"3b565f77f7c854c66d82c378054b6210",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554744141,
-    "wof:lastmodified":1480911656,
+    "wof:lastmodified":1611184752,
     "wof:name":"75001",
     "wof:parent_id":101725671,
     "wof:placetype":"postalcode",

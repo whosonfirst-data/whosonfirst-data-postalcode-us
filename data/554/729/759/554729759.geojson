@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031054,
-    "geom:area_square_m":276795369.905569,
+    "geom:area_square_m":276795369.905601,
     "geom:bbox":"-93.42664,43.776566,-93.165837,44.007708",
     "geom:latitude":43.875562,
     "geom:longitude":-93.292779,
@@ -14,20 +14,26 @@
     "lbl:latitude":43.885775,
     "lbl:longitude":-93.290995,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ellendale",
+    "mz:postal_locality_alt":[
+        "Hope",
+        "Hayward"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404510807,
         85633793,
-        102087661
+        102087661,
+        404510807,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782193"
     },
     "wof:country":"US",
-    "wof:geomhash":"2c2c828a650108f626c296897078598a",
+    "wof:geomhash":"75076e3b3e50f2a360f6a6fe69408083",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554729759,
-    "wof:lastmodified":1480785547,
+    "wof:lastmodified":1611185429,
     "wof:name":"56026",
     "wof:parent_id":404510807,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000522,
-    "geom:area_square_m":4876705.162785,
+    "geom:area_square_m":4876705.162781,
     "geom:bbox":"-74.195548,40.896584,-74.154318,40.926261",
     "geom:latitude":40.912603,
     "geom:longitude":-74.17124,
@@ -13,21 +13,26 @@
     "lbl:latitude":40.911999,
     "lbl:longitude":-74.170964,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Paterson",
+    "mz:postal_locality_alt":[
+        "Little Falls"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477819,
         85633793,
+        102081133,
+        404477819,
         85975481,
-        102081133
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760775"
     },
     "wof:country":"US",
-    "wof:geomhash":"a914ef5675040a333cfb5d13b63b3642",
+    "wof:geomhash":"06a063a72261246315126313ca53c4c2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554700047,
-    "wof:lastmodified":1480818575,
+    "wof:lastmodified":1611183183,
     "wof:name":"07501",
     "wof:parent_id":85975481,
     "wof:placetype":"postalcode",

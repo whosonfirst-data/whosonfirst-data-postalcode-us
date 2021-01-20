@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017272,
-    "geom:area_square_m":179854941.765078,
+    "geom:area_square_m":179854941.764819,
     "geom:bbox":"-97.591237,32.555297,-97.424977,32.724671",
     "geom:latitude":32.633834,
     "geom:longitude":-97.512337,
@@ -13,20 +13,25 @@
     "lbl:latitude":32.635919,
     "lbl:longitude":-97.511626,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fort Worth",
+    "mz:postal_locality_alt":[
+        "Benbrook"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102083201,
         101724443,
-        102083201
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12790941"
     },
     "wof:country":"US",
-    "wof:geomhash":"f67e9ea87f24677e0b579175b79c6b7c",
+    "wof:geomhash":"04f1a0477a8a785dcc7c0e091e0b9add",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554745163,
-    "wof:lastmodified":1480840093,
+    "wof:lastmodified":1611185276,
     "wof:name":"76126",
     "wof:parent_id":101724443,
     "wof:placetype":"postalcode",

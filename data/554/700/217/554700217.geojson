@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001418,
-    "geom:area_square_m":13242870.146859,
+    "geom:area_square_m":13242870.146855,
     "geom:bbox":"-74.685143,40.914374,-74.634636,40.961682",
     "geom:latitude":40.939573,
     "geom:longitude":-74.659796,
@@ -14,21 +14,26 @@
     "lbl:latitude":40.939241,
     "lbl:longitude":-74.659474,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hopatcong",
+    "mz:postal_locality_alt":[
+        "Sparta"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478467,
         85633793,
+        102086779,
+        404478467,
         85975715,
-        102086779
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760909"
     },
     "wof:country":"US",
-    "wof:geomhash":"a7e41f9267418af5b38d6786a182fc62",
+    "wof:geomhash":"1661bc4deafd5a6ba78f9a670dfd5967",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554700217,
-    "wof:lastmodified":1480914756,
+    "wof:lastmodified":1611183181,
     "wof:name":"07843",
     "wof:parent_id":85975715,
     "wof:placetype":"postalcode",

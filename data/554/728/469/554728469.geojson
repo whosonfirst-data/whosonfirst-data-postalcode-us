@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.088626,
-    "geom:area_square_m":784829680.798963,
+    "geom:area_square_m":784829680.799131,
     "geom:bbox":"-91.037544,44.118506,-90.543629,44.411522",
     "geom:latitude":44.260928,
     "geom:longitude":-90.786152,
@@ -14,20 +14,26 @@
     "lbl:latitude":44.260458,
     "lbl:longitude":-90.813297,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Black River Fls",
+    "mz:postal_locality_alt":[
+        "Black River Falls",
+        "Millston"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404493817,
         85633793,
-        102081821
+        102081821,
+        404493817,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781420"
     },
     "wof:country":"US",
-    "wof:geomhash":"45b36e8851917a27fdb970099ba21dc2",
+    "wof:geomhash":"dee79d8bea6896028fc0d5d8cc20374e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554728469,
-    "wof:lastmodified":1480831366,
+    "wof:lastmodified":1611185086,
     "wof:name":"54615",
     "wof:parent_id":404493817,
     "wof:placetype":"postalcode",

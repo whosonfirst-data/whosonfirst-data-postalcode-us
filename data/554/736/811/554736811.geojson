@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026631,
-    "geom:area_square_m":250510368.62192,
+    "geom:area_square_m":250510368.62172,
     "geom:bbox":"-93.899965,40.336461,-93.653471,40.578099",
     "geom:latitude":40.470724,
     "geom:longitude":-93.766675,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.468986,
     "lbl:longitude":-93.766788,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cainsville",
+    "mz:postal_locality_alt":[
+        "Chillicothe"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404517121,
         85633793,
-        102086891
+        102086891,
+        404517121,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786177"
     },
     "wof:country":"US",
-    "wof:geomhash":"2440dc93d0c73000ce9a11256541c1ac",
+    "wof:geomhash":"14b2ef994fdd70793ab7febe1fb21592",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554736811,
-    "wof:lastmodified":1480914220,
+    "wof:lastmodified":1611183023,
     "wof:name":"64632",
     "wof:parent_id":404517121,
     "wof:placetype":"postalcode",

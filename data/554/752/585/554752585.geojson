@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003726,
-    "geom:area_square_m":38241755.04296,
+    "geom:area_square_m":38241755.042829,
     "geom:bbox":"-117.846092,33.862642,-117.735464,33.922358",
     "geom:latitude":33.896475,
     "geom:longitude":-117.797193,
@@ -13,20 +13,27 @@
     "lbl:latitude":33.896324,
     "lbl:longitude":-117.796561,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Yorba Linda",
+    "mz:postal_locality_alt":[
+        "Placentia",
+        "Brea",
+        "Fullerton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102080847,
         85923021,
-        102080847
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796681"
     },
     "wof:country":"US",
-    "wof:geomhash":"2ce8394a39e94b202d12d6c1249c5b9b",
+    "wof:geomhash":"ebb8b66d707a642fe156d13b1b9d211c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +45,7 @@
         }
     ],
     "wof:id":554752585,
-    "wof:lastmodified":1480906253,
+    "wof:lastmodified":1611182553,
     "wof:name":"92886",
     "wof:parent_id":85923021,
     "wof:placetype":"postalcode",

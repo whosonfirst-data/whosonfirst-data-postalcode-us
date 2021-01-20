@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01932,
-    "geom:area_square_m":186619493.558804,
+    "geom:area_square_m":186619493.558515,
     "geom:bbox":"-78.903794,38.518765,-78.667112,38.778902",
     "geom:latitude":38.630294,
     "geom:longitude":-78.809424,
@@ -14,19 +14,24 @@
     "lbl:latitude":38.712509,
     "lbl:longitude":-78.841209,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Broadway",
+    "mz:postal_locality_alt":[
+        "Harrisonburg"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688747,
-        102085949
+        102085949,
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12767064"
     },
     "wof:country":"US",
-    "wof:geomhash":"bbf50d8011ba5def00a13eb2405fdf14",
+    "wof:geomhash":"a59458f7af1abb1ee4d94bbff17ba877",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554707895,
-    "wof:lastmodified":1480816322,
+    "wof:lastmodified":1611183140,
     "wof:name":"22815",
     "wof:parent_id":102085949,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000103,
-    "geom:area_square_m":1059086.071646,
+    "geom:area_square_m":1059086.071645,
     "geom:bbox":"-117.90269,33.600422,-117.88219,33.609207",
     "geom:latitude":33.605499,
     "geom:longitude":-117.892049,
@@ -13,20 +13,25 @@
     "lbl:latitude":33.605086,
     "lbl:longitude":-117.892319,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Newport Beach",
+    "mz:postal_locality_alt":[
+        "Balboa Island"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102080847,
         85923075,
-        102080847
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796586"
     },
     "wof:country":"US",
-    "wof:geomhash":"2d2cec2d46e59f39f248be78b3ebf9ae",
+    "wof:geomhash":"10a0874ed137a20d1878244e22193207",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554784455,
-    "wof:lastmodified":1480906254,
+    "wof:lastmodified":1611183938,
     "wof:name":"92662",
     "wof:parent_id":85923075,
     "wof:placetype":"postalcode",

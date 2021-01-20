@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044611,
-    "geom:area_square_m":466629885.389126,
+    "geom:area_square_m":466629885.389042,
     "geom:bbox":"-94.91894,32.125152,-94.571272,32.370776",
     "geom:latitude":32.229903,
     "geom:longitude":-94.732716,
@@ -13,19 +13,24 @@
     "lbl:latitude":32.239409,
     "lbl:longitude":-94.728328,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Henderson",
+    "mz:postal_locality_alt":[
+        "Longview"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688753,
-        102083199
+        102083199,
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12790689"
     },
     "wof:country":"US",
-    "wof:geomhash":"9ee9f671e0359df348a143d15db46781",
+    "wof:geomhash":"fc5ceecf024acb91d7225a8a0781fda8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +41,7 @@
         }
     ],
     "wof:id":554744725,
-    "wof:lastmodified":1480911203,
+    "wof:lastmodified":1611184725,
     "wof:name":"75652",
     "wof:parent_id":102083199,
     "wof:placetype":"postalcode",

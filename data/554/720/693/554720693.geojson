@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001533,
-    "geom:area_square_m":14157054.293753,
+    "geom:area_square_m":14157054.293756,
     "geom:bbox":"-83.761948,41.6417,-83.683105,41.688469",
     "geom:latitude":41.664633,
     "geom:longitude":-83.728266,
@@ -13,20 +13,25 @@
     "lbl:latitude":41.664632,
     "lbl:longitude":-83.728269,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Toledo",
+    "mz:postal_locality_alt":[
+        "Sylvania Twp"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404525353,
         85633793,
-        102084787
+        102084787,
+        404525353,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776400"
     },
     "wof:country":"US",
-    "wof:geomhash":"e37d845e3a84f75bfbab5a2489ad8362",
+    "wof:geomhash":"04043597b593f392a6d22188b642db7d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554720693,
-    "wof:lastmodified":1480797477,
+    "wof:lastmodified":1611185459,
     "wof:name":"43617",
     "wof:parent_id":404525353,
     "wof:placetype":"postalcode",

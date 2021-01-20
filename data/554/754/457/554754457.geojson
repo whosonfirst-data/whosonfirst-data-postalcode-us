@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001323,
-    "geom:area_square_m":12674395.652332,
+    "geom:area_square_m":12674395.652285,
     "geom:bbox":"-120.130363,39.198264,-120.061207,39.243519",
     "geom:latitude":39.22463,
     "geom:longitude":-120.098048,
@@ -14,19 +14,25 @@
     "lbl:latitude":39.232019,
     "lbl:longitude":-120.0964,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Carnelian Bay",
+    "mz:postal_locality_alt":[
+        "Kings Beach",
+        "Tahoe Vista"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688637,
-        102080863
+        102080863,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12798234"
     },
     "wof:country":"US",
-    "wof:geomhash":"d0a5ff0b94fa6e999e7109916f1831a0",
+    "wof:geomhash":"4c91a59924eeb0ffe55c8e6f67aba3a5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554754457,
-    "wof:lastmodified":1480906298,
+    "wof:lastmodified":1611182914,
     "wof:name":"96140",
     "wof:parent_id":102080863,
     "wof:placetype":"postalcode",

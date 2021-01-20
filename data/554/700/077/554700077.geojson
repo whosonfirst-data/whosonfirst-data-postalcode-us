@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000225,
-    "geom:area_square_m":2103522.261982,
+    "geom:area_square_m":2103522.261977,
     "geom:bbox":"-74.039786,40.865561,-74.020786,40.884637",
     "geom:latitude":40.875223,
     "geom:longitude":-74.029392,
@@ -14,21 +14,26 @@
     "lbl:latitude":40.874287,
     "lbl:longitude":-74.029735,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bogota",
+    "mz:postal_locality_alt":[
+        "Cresskill"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477281,
         85633793,
+        102086773,
+        404477281,
         85975935,
-        102086773
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760798"
     },
     "wof:country":"US",
-    "wof:geomhash":"dc7aebb196b9133fb4f42d4f14f2ba1e",
+    "wof:geomhash":"0ec91e159469e3641f040370ce7f64c5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554700077,
-    "wof:lastmodified":1480908561,
+    "wof:lastmodified":1611183180,
     "wof:name":"07603",
     "wof:parent_id":85975935,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005537,
-    "geom:area_square_m":55342269.476674,
+    "geom:area_square_m":55342269.476708,
     "geom:bbox":"-86.765834,36.00217,-86.671364,36.13367",
     "geom:latitude":36.067243,
     "geom:longitude":-86.723712,
@@ -14,20 +14,25 @@
     "lbl:latitude":36.067234,
     "lbl:longitude":-86.723711,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Nashville",
+    "mz:postal_locality_alt":[
+        "Antioch"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688701,
         102191575,
         85633793,
+        102087061,
         101723183,
-        102087061
+        85688701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12773886"
     },
     "wof:country":"US",
-    "wof:geomhash":"433a936b48caf9790acb003952b13862",
+    "wof:geomhash":"b11498c0933a4f62c71cb52067ab6725",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554716657,
-    "wof:lastmodified":1480915649,
+    "wof:lastmodified":1611185368,
     "wof:name":"37211",
     "wof:parent_id":101723183,
     "wof:placetype":"postalcode",

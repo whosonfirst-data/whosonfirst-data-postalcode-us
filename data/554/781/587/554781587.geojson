@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001236,
-    "geom:area_square_m":13741992.823233,
+    "geom:area_square_m":13741992.823244,
     "geom:bbox":"-80.203888,25.912324,-80.154822,25.946071",
     "geom:latitude":25.928252,
     "geom:longitude":-80.177999,
@@ -13,20 +13,29 @@
     "lbl:latitude":25.927997,
     "lbl:longitude":-80.177175,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Miami",
+    "mz:postal_locality_alt":[
+        "North Miami Bch",
+        "North Miami Beach",
+        "N Miami Beach",
+        "Aventura",
+        "Miami Beach"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688651,
         102191575,
         85633793,
+        102085771,
         85933569,
-        102085771
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12772172"
     },
     "wof:country":"US",
-    "wof:geomhash":"401c349efb942f5e77130f563c27dcdb",
+    "wof:geomhash":"a8be174a37325a74700d80330629ffcd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +47,7 @@
         }
     ],
     "wof:id":554781587,
-    "wof:lastmodified":1480806626,
+    "wof:lastmodified":1611184823,
     "wof:name":"33162",
     "wof:parent_id":85933569,
     "wof:placetype":"postalcode",

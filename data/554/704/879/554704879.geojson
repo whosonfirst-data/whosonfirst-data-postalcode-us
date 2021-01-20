@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003735,
-    "geom:area_square_m":35255659.780974,
+    "geom:area_square_m":35255659.780968,
     "geom:bbox":"-76.972104,40.202751,-76.880019,40.277979",
     "geom:latitude":40.235163,
     "geom:longitude":-76.929154,
@@ -13,21 +13,27 @@
     "lbl:latitude":40.23483,
     "lbl:longitude":-76.928846,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Camp Hill",
+    "mz:postal_locality_alt":[
+        "Shiremanstown",
+        "Mechanicsburg"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404486391,
         85633793,
+        102081359,
+        404486391,
         101716779,
-        102081359
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764556"
     },
     "wof:country":"US",
-    "wof:geomhash":"518a3643e6975e429ec664bb6aa16cb8",
+    "wof:geomhash":"3a7e17a3d31dc6557b2847e3aafd3130",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +46,7 @@
         }
     ],
     "wof:id":554704879,
-    "wof:lastmodified":1480903980,
+    "wof:lastmodified":1611184510,
     "wof:name":"17011",
     "wof:parent_id":101716779,
     "wof:placetype":"postalcode",

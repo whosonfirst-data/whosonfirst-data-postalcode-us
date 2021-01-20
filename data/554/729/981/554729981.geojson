@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011058,
-    "geom:area_square_m":98814738.261998,
+    "geom:area_square_m":98814738.261958,
     "geom:bbox":"-95.77343,43.674152,-95.633064,43.790663",
     "geom:latitude":43.724704,
     "geom:longitude":-95.710487,
@@ -14,20 +14,22 @@
     "lbl:latitude":43.725343,
     "lbl:longitude":-95.703057,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Reading",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404512147,
         85633793,
-        102087607
+        102087607,
+        404512147,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782298"
     },
     "wof:country":"US",
-    "wof:geomhash":"e9312fd25e0310ee74bc76ddd7daaa3d",
+    "wof:geomhash":"db24741e05d950d1df5613961bacedad",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554729981,
-    "wof:lastmodified":1480788949,
+    "wof:lastmodified":1611185445,
     "wof:name":"56165",
     "wof:parent_id":404512147,
     "wof:placetype":"postalcode",

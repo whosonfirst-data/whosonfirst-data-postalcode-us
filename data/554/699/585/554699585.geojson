@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006583,
-    "geom:area_square_m":60840330.998471,
+    "geom:area_square_m":60840330.998482,
     "geom:bbox":"-72.505431,41.583899,-72.407874,41.688799",
     "geom:latitude":41.633066,
     "geom:longitude":-72.454694,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.636439,
     "lbl:longitude":-72.454002,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Marlborough",
+    "mz:postal_locality_alt":[
+        "East Hampton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688629,
         102191575,
-        404495987,
         85633793,
-        102085381
+        102085381,
+        404495987,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760408"
     },
     "wof:country":"US",
-    "wof:geomhash":"b624b451b7c2ae918fde10f1179243b0",
+    "wof:geomhash":"fc70011f7a3daa8894acde15dcff68fc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554699585,
-    "wof:lastmodified":1480908720,
+    "wof:lastmodified":1611184631,
     "wof:name":"06447",
     "wof:parent_id":404495987,
     "wof:placetype":"postalcode",

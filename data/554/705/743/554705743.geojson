@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022432,
-    "geom:area_square_m":208298983.639024,
+    "geom:area_square_m":208298983.639089,
     "geom:bbox":"-75.023588,41.222991,-74.722289,41.441279",
     "geom:latitude":41.327131,
     "geom:longitude":-74.878905,
@@ -13,21 +13,26 @@
     "lbl:latitude":41.32911,
     "lbl:longitude":-74.871787,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Milford",
+    "mz:postal_locality_alt":[
+        "Dingmans Ferry"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404486259,
         85633793,
+        102081385,
+        404486259,
         101718985,
-        102081385
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765145"
     },
     "wof:country":"US",
-    "wof:geomhash":"b8e916d3b6e45801f6d0de8118e5e0ba",
+    "wof:geomhash":"ffba1fe6fae6463089d0bdfdc02655f9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554705743,
-    "wof:lastmodified":1480914754,
+    "wof:lastmodified":1611184126,
     "wof:name":"18337",
     "wof:parent_id":101718985,
     "wof:placetype":"postalcode",

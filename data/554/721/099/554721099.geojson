@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009902,
-    "geom:area_square_m":92352914.92037,
+    "geom:area_square_m":92352914.920324,
     "geom:bbox":"-81.417008,40.979011,-81.256307,41.087705",
     "geom:latitude":41.036739,
     "geom:longitude":-81.340717,
@@ -14,20 +14,27 @@
     "lbl:latitude":41.035186,
     "lbl:longitude":-81.338441,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mogadore",
+    "mz:postal_locality_alt":[
+        "Tallmadge",
+        "Akron",
+        "Hartville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404525753,
         85633793,
-        102084819
+        102084819,
+        404525753,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776725"
     },
     "wof:country":"US",
-    "wof:geomhash":"a39f7c0c5f6a32b53990b42463580993",
+    "wof:geomhash":"1a7f9b08a005197334837f239dca7c1b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554721099,
-    "wof:lastmodified":1480835411,
+    "wof:lastmodified":1611184955,
     "wof:name":"44260",
     "wof:parent_id":404525753,
     "wof:placetype":"postalcode",

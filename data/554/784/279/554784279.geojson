@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006027,
-    "geom:area_square_m":62441378.121927,
+    "geom:area_square_m":62441378.121885,
     "geom:bbox":"-117.20817,33.042711,-117.068986,33.133269",
     "geom:latitude":33.085092,
     "geom:longitude":-117.129967,
@@ -13,20 +13,25 @@
     "lbl:latitude":33.0824,
     "lbl:longitude":-117.127641,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Escondido",
+    "mz:postal_locality_alt":[
+        "San Marcos"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102083569,
         85922263,
-        102083569
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796211"
     },
     "wof:country":"US",
-    "wof:geomhash":"e250109289e2da9d626977fd6ccc4fe1",
+    "wof:geomhash":"7b85732d1ed7100cf514334eb2aa48ed",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554784279,
-    "wof:lastmodified":1480835292,
+    "wof:lastmodified":1611183949,
     "wof:name":"92029",
     "wof:parent_id":85922263,
     "wof:placetype":"postalcode",

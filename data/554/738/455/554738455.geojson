@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032171,
-    "geom:area_square_m":311503941.784403,
+    "geom:area_square_m":311503941.784399,
     "geom:bbox":"-96.684618,38.374493,-96.36126,38.521974",
     "geom:latitude":38.457673,
     "geom:longitude":-96.527469,
@@ -14,20 +14,25 @@
     "lbl:latitude":38.46881,
     "lbl:longitude":-96.515162,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Strong City",
+    "mz:postal_locality_alt":[
+        "Madison"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404502493,
         85633793,
-        102082159
+        102082159,
+        404502493,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787026"
     },
     "wof:country":"US",
-    "wof:geomhash":"d1a921feb4916b3118eb06eb62c72f51",
+    "wof:geomhash":"b1de619bde9a8444bbab095f3095b0a4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554738455,
-    "wof:lastmodified":1480834983,
+    "wof:lastmodified":1611183103,
     "wof:name":"66869",
     "wof:parent_id":404502493,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016633,
-    "geom:area_square_m":152945806.658792,
+    "geom:area_square_m":152945806.658793,
     "geom:bbox":"-73.168319,41.836809,-72.936348,42.040541",
     "geom:latitude":41.956911,
     "geom:longitude":-73.087271,
@@ -14,20 +14,26 @@
     "lbl:latitude":41.956189,
     "lbl:longitude":-73.086364,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Winsted",
+    "mz:postal_locality_alt":[
+        "New Hartford",
+        "Pleasant Valley"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688629,
         102191575,
-        404495849,
         85633793,
-        102085375
+        102085375,
+        404495849,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760243"
     },
     "wof:country":"US",
-    "wof:geomhash":"3ec9d7b790887d731ba840585524ba2b",
+    "wof:geomhash":"e5ea0271b2c75da00ff2cef278166dce",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554699383,
-    "wof:lastmodified":1480815743,
+    "wof:lastmodified":1611184612,
     "wof:name":"06098",
     "wof:parent_id":404495849,
     "wof:placetype":"postalcode",

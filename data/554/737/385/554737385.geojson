@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046722,
-    "geom:area_square_m":454697450.267595,
+    "geom:area_square_m":454697450.267454,
     "geom:bbox":"-91.367632,37.957889,-90.972896,38.228875",
     "geom:latitude":38.089591,
     "geom:longitude":-91.156174,
@@ -14,20 +14,22 @@
     "lbl:latitude":38.09638,
     "lbl:longitude":-91.159022,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bourbon",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404516825,
         85633793,
-        102085329
+        102085329,
+        404516825,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786476"
     },
     "wof:country":"US",
-    "wof:geomhash":"fc017e3e41f6c730d70dbbc35ef91f00",
+    "wof:geomhash":"5cf52d9fb4a6192efa139c22bad49365",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554737385,
-    "wof:lastmodified":1480908853,
+    "wof:lastmodified":1611182841,
     "wof:name":"65441",
     "wof:parent_id":404516825,
     "wof:placetype":"postalcode",

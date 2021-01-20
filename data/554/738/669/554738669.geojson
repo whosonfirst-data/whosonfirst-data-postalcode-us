@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.047467,
-    "geom:area_square_m":464570262.085977,
+    "geom:area_square_m":464570262.08579,
     "geom:bbox":"-96.923508,37.563221,-96.525296,37.792567",
     "geom:latitude":37.672207,
     "geom:longitude":-96.720964,
@@ -14,20 +14,25 @@
     "lbl:latitude":37.670731,
     "lbl:longitude":-96.723859,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Leon",
+    "mz:postal_locality_alt":[
+        "Hillsboro"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404502481,
         85633793,
-        102082695
+        102082695,
+        404502481,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787122"
     },
     "wof:country":"US",
-    "wof:geomhash":"fb58ec18304a47134163a971b694b411",
+    "wof:geomhash":"51d276be6b93b5a1a1bf9bef7a9ff689",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554738669,
-    "wof:lastmodified":1480800136,
+    "wof:lastmodified":1611183102,
     "wof:name":"67074",
     "wof:parent_id":404502481,
     "wof:placetype":"postalcode",

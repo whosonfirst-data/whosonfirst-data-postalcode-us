@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017545,
-    "geom:area_square_m":178278291.285217,
+    "geom:area_square_m":178278291.285163,
     "geom:bbox":"-77.182594,34.647097,-76.957322,34.810692",
     "geom:latitude":34.737789,
     "geom:longitude":-77.073276,
@@ -14,20 +14,26 @@
     "lbl:latitude":34.736767,
     "lbl:longitude":-77.077619,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Swansboro",
+    "mz:postal_locality_alt":[
+        "Cape Carteret",
+        "Cedar Point"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688773,
         102191575,
         85633793,
+        102080875,
         85981389,
-        102080875
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12769754"
     },
     "wof:country":"US",
-    "wof:geomhash":"ad3a262dc631ce7fab4d6556615387ec",
+    "wof:geomhash":"412016c5285e05e502856175b1583916",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554781085,
-    "wof:lastmodified":1480904314,
+    "wof:lastmodified":1611184814,
     "wof:name":"28584",
     "wof:parent_id":85981389,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002577,
-    "geom:area_square_m":23809756.057561,
+    "geom:area_square_m":23809756.057589,
     "geom:bbox":"-81.488934,41.622382,-81.400308,41.694601",
     "geom:latitude":41.652426,
     "geom:longitude":-81.442129,
@@ -13,21 +13,28 @@
     "lbl:latitude":41.652326,
     "lbl:longitude":-81.441721,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Willoughby",
+    "mz:postal_locality_alt":[
+        "Willowick",
+        "Eastlake",
+        "Wickliffe"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404526905,
         85633793,
+        102083703,
+        404526905,
         85983203,
-        102083703
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776623"
     },
     "wof:country":"US",
-    "wof:geomhash":"9440c12db2984177c641620fca98cbc8",
+    "wof:geomhash":"201eb9e04e084974a9cf16d652f28b5b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +47,7 @@
         }
     ],
     "wof:id":554782367,
-    "wof:lastmodified":1480836770,
+    "wof:lastmodified":1611183620,
     "wof:name":"44095",
     "wof:parent_id":85983203,
     "wof:placetype":"postalcode",

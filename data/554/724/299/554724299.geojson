@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010315,
-    "geom:area_square_m":93578044.221097,
+    "geom:area_square_m":93578044.221084,
     "geom:bbox":"-83.911386,42.725327,-83.736518,42.877501",
     "geom:latitude":42.802703,
     "geom:longitude":-83.819453,
@@ -14,20 +14,22 @@
     "lbl:latitude":42.801222,
     "lbl:longitude":-83.819172,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Linden",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404506583,
         85633793,
-        102083111
+        102083111,
+        404506583,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778841"
     },
     "wof:country":"US",
-    "wof:geomhash":"fb5a08f530aa1ce3c7cf87b12dbc56ea",
+    "wof:geomhash":"8a1c0942084aae4d218dea0c19d086e2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554724299,
-    "wof:lastmodified":1480843133,
+    "wof:lastmodified":1611183771,
     "wof:name":"48451",
     "wof:parent_id":404506583,
     "wof:placetype":"postalcode",

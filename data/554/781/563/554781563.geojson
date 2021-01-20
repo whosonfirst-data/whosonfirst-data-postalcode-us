@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000752,
-    "geom:area_square_m":8380938.297647,
+    "geom:area_square_m":8380938.297631,
     "geom:bbox":"-80.28652,25.704589,-80.253931,25.73571",
     "geom:latitude":25.720464,
     "geom:longitude":-80.27281,
@@ -13,20 +13,26 @@
     "lbl:latitude":25.72085,
     "lbl:longitude":-80.272571,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Coral Gables",
+    "mz:postal_locality_alt":[
+        "Miami",
+        "Coconut Grove"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688651,
         102191575,
         85633793,
+        102085771,
         85933643,
-        102085771
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12772156"
     },
     "wof:country":"US",
-    "wof:geomhash":"912e9b947c29bc7d0a70626f2b95d8d7",
+    "wof:geomhash":"1714f55ee1a9c13b72d779975734716f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554781563,
-    "wof:lastmodified":1480806627,
+    "wof:lastmodified":1611184825,
     "wof:name":"33146",
     "wof:parent_id":85933643,
     "wof:placetype":"postalcode",

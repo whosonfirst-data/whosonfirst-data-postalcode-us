@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010636,
-    "geom:area_square_m":109111449.708059,
+    "geom:area_square_m":109111449.708083,
     "geom:bbox":"-85.987612,33.853271,-85.739637,33.990478",
     "geom:latitude":33.934068,
     "geom:longitude":-85.899523,
@@ -13,20 +13,25 @@
     "lbl:latitude":33.9614,
     "lbl:longitude":-85.922422,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Gadsden",
+    "mz:postal_locality_alt":[
+        "Glencoe"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688675,
         102191575,
         85633793,
+        102085545,
         85914285,
-        102085545
+        85688675
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12773282"
     },
     "wof:country":"US",
-    "wof:geomhash":"6324edce44d6a0936ccc98314a9b81f2",
+    "wof:geomhash":"e84c683f6e01b50fd8e5b536040256df",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554715695,
-    "wof:lastmodified":1480814567,
+    "wof:lastmodified":1611183655,
     "wof:name":"35905",
     "wof:parent_id":85914285,
     "wof:placetype":"postalcode",

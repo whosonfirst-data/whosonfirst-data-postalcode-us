@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.085521,
-    "geom:area_square_m":796732003.909338,
+    "geom:area_square_m":796732003.909385,
     "geom:bbox":"-102.621033,41.002189,-102.180409,41.222076",
     "geom:latitude":41.112583,
     "geom:longitude":-102.41755,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.113295,
     "lbl:longitude":-102.409026,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Chappell",
+    "mz:postal_locality_alt":[
+        "Stapleton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688563,
         102191575,
-        404519853,
         85633793,
-        102082211
+        102082211,
+        404519853,
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12788015"
     },
     "wof:country":"US",
-    "wof:geomhash":"167659b5e1b67319f076b774fd5d7162",
+    "wof:geomhash":"c5916d664245052f63b9c6e49f157e7c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554740499,
-    "wof:lastmodified":1480801070,
+    "wof:lastmodified":1611183396,
     "wof:name":"69129",
     "wof:parent_id":404519853,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001502,
-    "geom:area_square_m":15349439.212539,
+    "geom:area_square_m":15349439.212536,
     "geom:bbox":"-118.502667,34.220124,-118.451878,34.257461",
     "geom:latitude":34.238283,
     "geom:longitude":-118.480681,
@@ -13,20 +13,28 @@
     "lbl:latitude":34.237912,
     "lbl:longitude":-118.482306,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"North Hills",
+    "mz:postal_locality_alt":[
+        "Sepulveda",
+        "Northridge",
+        "Van Nuys",
+        "Panorama City"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086957,
         85923517,
-        102086957
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795991"
     },
     "wof:country":"US",
-    "wof:geomhash":"1c671ce45dc73d7989a63ef58f6bcda2",
+    "wof:geomhash":"0e0e817f044373471b0a9c2ef1453209",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +46,7 @@
         }
     ],
     "wof:id":554751953,
-    "wof:lastmodified":1480912614,
+    "wof:lastmodified":1611184323,
     "wof:name":"91343",
     "wof:parent_id":85923517,
     "wof:placetype":"postalcode",

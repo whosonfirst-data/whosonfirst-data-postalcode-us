@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00156,
-    "geom:area_square_m":14346921.43319,
+    "geom:area_square_m":14346921.433161,
     "geom:bbox":"-87.92056,41.913096,-87.849588,41.958151",
     "geom:latitude":41.938753,
     "geom:longitude":-87.884269,
@@ -14,21 +14,26 @@
     "lbl:latitude":41.938754,
     "lbl:longitude":-87.884266,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Franklin Park",
+    "mz:postal_locality_alt":[
+        "Schiller Park"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404497625,
         85633793,
+        102084317,
+        404497625,
         85940843,
-        102084317
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784045"
     },
     "wof:country":"US",
-    "wof:geomhash":"7d7808b4e62adf162bdf605a9a4a47b8",
+    "wof:geomhash":"cbdfd20adb47cff22b6af3c1f9998da5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554783221,
-    "wof:lastmodified":1480830866,
+    "wof:lastmodified":1611183878,
     "wof:name":"60131",
     "wof:parent_id":85940843,
     "wof:placetype":"postalcode",

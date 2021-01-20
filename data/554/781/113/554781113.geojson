@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007813,
-    "geom:area_square_m":80214097.527152,
+    "geom:area_square_m":80214097.527143,
     "geom:bbox":"-78.741923,33.80877,-78.574059,33.930668",
     "geom:latitude":33.872349,
     "geom:longitude":-78.663228,
@@ -14,20 +14,25 @@
     "lbl:latitude":33.873402,
     "lbl:longitude":-78.666957,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Little River",
+    "mz:postal_locality_alt":[
+        "Longs"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688683,
         102191575,
         85633793,
+        102085687,
         101721261,
-        102085687
+        85688683
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770259"
     },
     "wof:country":"US",
-    "wof:geomhash":"1cef06985c2a21284f3dc27d80d76c62",
+    "wof:geomhash":"a59ed510c81599dcfe10a524f0381c47",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554781113,
-    "wof:lastmodified":1480809546,
+    "wof:lastmodified":1611184839,
     "wof:name":"29566",
     "wof:parent_id":101721261,
     "wof:placetype":"postalcode",

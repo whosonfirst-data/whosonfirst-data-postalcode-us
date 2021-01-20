@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01142,
-    "geom:area_square_m":116458809.375323,
+    "geom:area_square_m":116458809.375236,
     "geom:bbox":"-83.675079,34.389062,-83.477617,34.501533",
     "geom:latitude":34.441806,
     "geom:longitude":-83.582687,
@@ -14,19 +14,24 @@
     "lbl:latitude":34.444855,
     "lbl:longitude":-83.570701,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Alto",
+    "mz:postal_locality_alt":[
+        "Cornelia"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688535,
-        102084663
+        102084663,
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770858"
     },
     "wof:country":"US",
-    "wof:geomhash":"ec0cbefa0b8dbffcdf29f39d742e9a1b",
+    "wof:geomhash":"1d6968fad274d20233c0e9aae8020419",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554713203,
-    "wof:lastmodified":1480836742,
+    "wof:lastmodified":1611183305,
     "wof:name":"30510",
     "wof:parent_id":102084663,
     "wof:placetype":"postalcode",

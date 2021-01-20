@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.052715,
-    "geom:area_square_m":442812257.286284,
+    "geom:area_square_m":442812257.286221,
     "geom:bbox":"-103.0965,47.053283,-102.631205,47.331395",
     "geom:latitude":47.208638,
     "geom:longitude":-102.84273,
@@ -14,20 +14,22 @@
     "lbl:latitude":47.20818,
     "lbl:longitude":-102.8332,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Manning",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688525,
         102191575,
-        404481025,
         85633793,
-        102081487
+        102081487,
+        404481025,
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12783428"
     },
     "wof:country":"US",
-    "wof:geomhash":"a652209a6a900fe764f67041a7dd335e",
+    "wof:geomhash":"8e98b9faf211f5c132a9a5b06ca55c5b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554732209,
-    "wof:lastmodified":1480823326,
+    "wof:lastmodified":1611184397,
     "wof:name":"58642",
     "wof:parent_id":404481025,
     "wof:placetype":"postalcode",

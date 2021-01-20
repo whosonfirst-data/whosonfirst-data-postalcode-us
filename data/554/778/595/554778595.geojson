@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004727,
-    "geom:area_square_m":43643990.336638,
+    "geom:area_square_m":43643990.336639,
     "geom:bbox":"-71.431931,41.650326,-71.325667,41.735411",
     "geom:latitude":41.700568,
     "geom:longitude":-71.377962,
@@ -13,21 +13,27 @@
     "lbl:latitude":41.700591,
     "lbl:longitude":-71.376927,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Warwick",
+    "mz:postal_locality_alt":[
+        "Jamestown",
+        "North Kingstown"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688509,
         102191575,
-        404488313,
         85633793,
+        102081209,
+        404488313,
         101720577,
-        102081209
+        85688509
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759046"
     },
     "wof:country":"US",
-    "wof:geomhash":"7dbd09fe4d62475c99e7e2f4e396f360",
+    "wof:geomhash":"54353faa24ed4db6c47bac574ae7ec62",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +46,7 @@
         }
     ],
     "wof:id":554778595,
-    "wof:lastmodified":1480830990,
+    "wof:lastmodified":1611183425,
     "wof:name":"02889",
     "wof:parent_id":101720577,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.047071,
-    "geom:area_square_m":505814063.85896,
+    "geom:area_square_m":505814063.858528,
     "geom:bbox":"-96.87422,29.486255,-96.606673,29.796068",
     "geom:latitude":29.65418,
     "geom:longitude":-96.735569,
@@ -14,19 +14,25 @@
     "lbl:latitude":29.657572,
     "lbl:longitude":-96.733177,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Weimar",
+    "mz:postal_locality_alt":[
+        "La Grange",
+        "Flatonia"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688753,
-        102081455
+        102081455,
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12792424"
     },
     "wof:country":"US",
-    "wof:geomhash":"028c962ea346a099e69a71f72c9e11f5",
+    "wof:geomhash":"c6a854c324bbc5df79d2b9859d567816",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554747277,
-    "wof:lastmodified":1480836369,
+    "wof:lastmodified":1611183474,
     "wof:name":"78962",
     "wof:parent_id":102081455,
     "wof:placetype":"postalcode",

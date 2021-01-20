@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.056479,
-    "geom:area_square_m":605429937.734875,
+    "geom:area_square_m":605429937.734732,
     "geom:bbox":"-92.434135,29.749781,-91.997964,30.058455",
     "geom:latitude":29.898116,
     "geom:longitude":-92.199655,
@@ -13,19 +13,24 @@
     "lbl:latitude":29.894612,
     "lbl:longitude":-92.193173,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Abbeville",
+    "mz:postal_locality_alt":[
+        "Youngsville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688735,
-        102083181
+        102083181,
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12788317"
     },
     "wof:country":"US",
-    "wof:geomhash":"d8cbb978a5be61ed3b682d23623014fc",
+    "wof:geomhash":"dc0476dbd74eb4b06b28241370bd8ed0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +41,7 @@
         }
     ],
     "wof:id":554783647,
-    "wof:lastmodified":1480840744,
+    "wof:lastmodified":1611183896,
     "wof:name":"70510",
     "wof:parent_id":102083181,
     "wof:placetype":"postalcode",

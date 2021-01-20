@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008981,
-    "geom:area_square_m":81084528.207222,
+    "geom:area_square_m":81084528.207201,
     "geom:bbox":"-71.667826,43.054173,-71.511859,43.160283",
     "geom:latitude":43.101793,
     "geom:longitude":-71.605407,
@@ -14,20 +14,22 @@
     "lbl:latitude":43.116338,
     "lbl:longitude":-71.595355,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Goffstown",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688689,
         102191575,
-        404477161,
         85633793,
-        102086515
+        102086515,
+        404477161,
+        85688689
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"23424561"
     },
     "wof:country":"US",
-    "wof:geomhash":"24e2e1b20471e30a3e0c8db3fce5090c",
+    "wof:geomhash":"9d9fd5cb0bd7628880ddde44c9cbd477",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554756477,
-    "wof:lastmodified":1480913719,
+    "wof:lastmodified":1611184276,
     "wof:name":"03046",
     "wof:parent_id":404477161,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010292,
-    "geom:area_square_m":98694563.397901,
+    "geom:area_square_m":98694563.398425,
     "geom:bbox":"-120.25207,39.060995,-120.085077,39.239234",
     "geom:latitude":39.147351,
     "geom:longitude":-120.186686,
@@ -14,20 +14,28 @@
     "lbl:latitude":39.14829,
     "lbl:longitude":-120.170908,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Tahoe City",
+    "mz:postal_locality_alt":[
+        "Olympic Valley",
+        "Carnelian Bay",
+        "Kings Beach",
+        "Tahoe Vista"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102080863,
         85924187,
-        102080863
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12798238"
     },
     "wof:country":"US",
-    "wof:geomhash":"b84dc69b0ae2fdab017b89d28794cb4c",
+    "wof:geomhash":"779deee75c6739c7617ad5227187dc75",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +47,7 @@
         }
     ],
     "wof:id":554754467,
-    "wof:lastmodified":1480906293,
+    "wof:lastmodified":1611182911,
     "wof:name":"96145",
     "wof:parent_id":85924187,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053159,
-    "geom:area_square_m":548373630.317231,
+    "geom:area_square_m":548373630.316739,
     "geom:bbox":"-116.28494,33.234878,-115.888232,33.673994",
     "geom:latitude":33.461581,
     "geom:longitude":-116.085636,
@@ -14,20 +14,26 @@
     "lbl:latitude":33.460512,
     "lbl:longitude":-116.084589,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Thermal",
+    "mz:postal_locality_alt":[
+        "La Quinta",
+        "Coachella"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086221,
         85928221,
-        102086221
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796384"
     },
     "wof:country":"US",
-    "wof:geomhash":"52f6f051046855b6e334856a13a0389a",
+    "wof:geomhash":"4000b8be60dbf0ff24c342a3deffb5b4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554752267,
-    "wof:lastmodified":1480913414,
+    "wof:lastmodified":1611182526,
     "wof:name":"92274",
     "wof:parent_id":85928221,
     "wof:placetype":"postalcode",

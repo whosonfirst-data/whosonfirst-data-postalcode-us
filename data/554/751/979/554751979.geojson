@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000952,
-    "geom:area_square_m":9733369.923157,
+    "geom:area_square_m":9733369.923134,
     "geom:bbox":"-118.468737,34.207345,-118.420324,34.250619",
     "geom:latitude":34.224077,
     "geom:longitude":-118.444831,
@@ -13,20 +13,27 @@
     "lbl:latitude":34.222506,
     "lbl:longitude":-118.444689,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Panorama City",
+    "mz:postal_locality_alt":[
+        "Van Nuys",
+        "North Hollywood",
+        "San Fernando Valley"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086957,
         85923517,
-        102086957
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796030"
     },
     "wof:country":"US",
-    "wof:geomhash":"866a412826d071cda841b569f6fa7087",
+    "wof:geomhash":"50ed2208eb20dadcce7aef07ed2ea664",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +45,7 @@
         }
     ],
     "wof:id":554751979,
-    "wof:lastmodified":1480912611,
+    "wof:lastmodified":1611184339,
     "wof:name":"91402",
     "wof:parent_id":85923517,
     "wof:placetype":"postalcode",

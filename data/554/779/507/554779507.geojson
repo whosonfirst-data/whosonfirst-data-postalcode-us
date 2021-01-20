@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001879,
-    "geom:area_square_m":17591890.374603,
+    "geom:area_square_m":17591890.374624,
     "geom:bbox":"-73.712399,40.766589,-73.661623,40.821135",
     "geom:latitude":40.793364,
     "geom:longitude":-73.688817,
@@ -14,21 +14,28 @@
     "lbl:latitude":40.793409,
     "lbl:longitude":-73.688549,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Manhasset",
+    "mz:postal_locality_alt":[
+        "Great Neck",
+        "Port Washington",
+        "Plandome"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522729,
         85633793,
+        102082371,
+        404522729,
         85979083,
-        102082371
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761699"
     },
     "wof:country":"US",
-    "wof:geomhash":"1c9fa0f4a0fe049e4790bf9356440520",
+    "wof:geomhash":"56282a04d51e0987ae44ed1a4732d45c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +48,7 @@
         }
     ],
     "wof:id":554779507,
-    "wof:lastmodified":1480790618,
+    "wof:lastmodified":1611183978,
     "wof:name":"11030",
     "wof:parent_id":85979083,
     "wof:placetype":"postalcode",

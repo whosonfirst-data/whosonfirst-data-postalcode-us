@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000653,
-    "geom:area_square_m":6192561.028095,
+    "geom:area_square_m":6192561.028101,
     "geom:bbox":"-82.982421,39.947872,-82.94242,39.968823",
     "geom:latitude":39.957599,
     "geom:longitude":-82.962188,
@@ -13,21 +13,23 @@
     "lbl:latitude":39.957342,
     "lbl:longitude":-82.962019,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Columbus",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404524625,
         85633793,
+        102080969,
+        404524625,
         101712381,
-        102080969
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776199"
     },
     "wof:country":"US",
-    "wof:geomhash":"dc224ef82bcbf3ea1281a01fb95354cf",
+    "wof:geomhash":"f873014920313b341097ca721c4adedc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +42,7 @@
         }
     ],
     "wof:id":554720395,
-    "wof:lastmodified":1480903872,
+    "wof:lastmodified":1611185468,
     "wof:name":"43205",
     "wof:parent_id":101712381,
     "wof:placetype":"postalcode",

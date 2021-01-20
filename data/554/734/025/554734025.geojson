@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011668,
-    "geom:area_square_m":108995343.18119,
+    "geom:area_square_m":108995343.18133,
     "geom:bbox":"-90.327605,40.845004,-90.184334,41.034153",
     "geom:latitude":40.933622,
     "geom:longitude":-90.246777,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.933602,
     "lbl:longitude":-90.246806,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Knoxville",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404498429,
         85633793,
-        102082867
+        102082867,
+        404498429,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784636"
     },
     "wof:country":"US",
-    "wof:geomhash":"d4fc284d33803b589eea5ab475666d2a",
+    "wof:geomhash":"fd45033b55f048eebeb3f8f78e6976cd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554734025,
-    "wof:lastmodified":1480793639,
+    "wof:lastmodified":1611184182,
     "wof:name":"61448",
     "wof:parent_id":404498429,
     "wof:placetype":"postalcode",

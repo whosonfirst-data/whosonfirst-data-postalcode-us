@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040854,
-    "geom:area_square_m":394403395.554066,
+    "geom:area_square_m":394403395.554065,
     "geom:bbox":"-78.615579,38.516948,-78.293547,38.830152",
     "geom:latitude":38.672417,
     "geom:longitude":-78.452523,
@@ -14,20 +14,26 @@
     "lbl:latitude":38.669963,
     "lbl:longitude":-78.453688,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Luray",
+    "mz:postal_locality_alt":[
+        "Harrisonburg",
+        "Stanley"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688747,
         102191575,
         85633793,
+        102084929,
         101728651,
-        102084929
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12767074"
     },
     "wof:country":"US",
-    "wof:geomhash":"7677e6f69815b593091748cf9a114db9",
+    "wof:geomhash":"71d4f509638f5fa37fcf081635de6546",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554707915,
-    "wof:lastmodified":1480816319,
+    "wof:lastmodified":1611183147,
     "wof:name":"22835",
     "wof:parent_id":101728651,
     "wof:placetype":"postalcode",

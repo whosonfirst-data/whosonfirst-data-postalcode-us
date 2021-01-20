@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001492,
-    "geom:area_square_m":13738711.297583,
+    "geom:area_square_m":13738711.297601,
     "geom:bbox":"-71.475571,41.830341,-71.399437,41.878569",
     "geom:latitude":41.86027,
     "geom:longitude":-71.435336,
@@ -13,21 +13,29 @@
     "lbl:latitude":41.858334,
     "lbl:longitude":-71.436295,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Providence",
+    "mz:postal_locality_alt":[
+        "North Providence",
+        "N Providence",
+        "Smithfield",
+        "Cranston"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688509,
         102191575,
-        404488375,
         85633793,
+        102081597,
+        404488375,
         101720567,
-        102081597
+        85688509
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759057"
     },
     "wof:country":"US",
-    "wof:geomhash":"2ed450ea023004dd16549c9c9126409f",
+    "wof:geomhash":"7d76f11c37918985fb0de96419a8db19",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +48,7 @@
         }
     ],
     "wof:id":554778599,
-    "wof:lastmodified":1480817074,
+    "wof:lastmodified":1611183437,
     "wof:name":"02904",
     "wof:parent_id":101720567,
     "wof:placetype":"postalcode",

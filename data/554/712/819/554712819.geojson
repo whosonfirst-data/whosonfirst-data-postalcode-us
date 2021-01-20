@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023592,
-    "geom:area_square_m":241371006.920173,
+    "geom:area_square_m":241371006.9195,
     "geom:bbox":"-84.956052,34.082412,-84.732904,34.303671",
     "geom:latitude":34.167096,
     "geom:longitude":-84.855352,
@@ -13,19 +13,28 @@
     "lbl:latitude":34.167879,
     "lbl:longitude":-84.852014,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cartersville",
+    "mz:postal_locality_alt":[
+        "Euharlee",
+        "Holly Springs",
+        "Adairsville",
+        "Rockmart",
+        "Kingston"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688535,
-        102082937
+        102082937,
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770595"
     },
     "wof:country":"US",
-    "wof:geomhash":"bf8ba5e186aa2fc32bda6ad5e654567c",
+    "wof:geomhash":"e741d9cd746cc99cf2c30483600efe21",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +45,7 @@
         }
     ],
     "wof:id":554712819,
-    "wof:lastmodified":1480801616,
+    "wof:lastmodified":1611183701,
     "wof:name":"30120",
     "wof:parent_id":102082937,
     "wof:placetype":"postalcode",

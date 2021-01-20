@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014223,
-    "geom:area_square_m":138293734.991798,
+    "geom:area_square_m":138293734.991848,
     "geom:bbox":"-87.472955,38.064314,-87.355112,38.245199",
     "geom:latitude":38.157506,
     "geom:longitude":-87.417262,
@@ -14,20 +14,22 @@
     "lbl:latitude":38.158948,
     "lbl:longitude":-87.417471,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Elberfeld",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404500649,
         85633793,
-        102087169
+        102087169,
+        404500649,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778319"
     },
     "wof:country":"US",
-    "wof:geomhash":"11eebcd3cabe259253ae8f9272660d0d",
+    "wof:geomhash":"0a1a0d58a38cf29ee3e13a40635b0b97",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554723581,
-    "wof:lastmodified":1480910414,
+    "wof:lastmodified":1611183791,
     "wof:name":"47613",
     "wof:parent_id":404500649,
     "wof:placetype":"postalcode",

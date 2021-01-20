@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005442,
-    "geom:area_square_m":55779735.707279,
+    "geom:area_square_m":55779735.707242,
     "geom:bbox":"-117.745378,33.953359,-117.610482,34.048077",
     "geom:latitude":34.004471,
     "geom:longitude":-117.684705,
@@ -13,20 +13,26 @@
     "lbl:latitude":34.004467,
     "lbl:longitude":-117.684697,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Chino",
+    "mz:postal_locality_alt":[
+        "Chino Hills",
+        "Ontario"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102085395,
         85923885,
-        102085395
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796087"
     },
     "wof:country":"US",
-    "wof:geomhash":"e68fe6e9243cd6aba02b9586440e499e",
+    "wof:geomhash":"1b46d3e7c2cf749ca8460a0d64fe1924",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554752031,
-    "wof:lastmodified":1480913413,
+    "wof:lastmodified":1611182525,
     "wof:name":"91710",
     "wof:parent_id":85923885,
     "wof:placetype":"postalcode",

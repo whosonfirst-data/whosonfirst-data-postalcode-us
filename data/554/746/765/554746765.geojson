@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002281,
-    "geom:area_square_m":24554147.587287,
+    "geom:area_square_m":24554147.587222,
     "geom:bbox":"-98.378794,29.44289,-98.319442,29.511327",
     "geom:latitude":29.473844,
     "geom:longitude":-98.349962,
@@ -13,19 +13,24 @@
     "lbl:latitude":29.474146,
     "lbl:longitude":-98.348083,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"San Antonio",
+    "mz:postal_locality_alt":[
+        "Converse"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688753,
-        102082471
+        102082471,
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12792009"
     },
     "wof:country":"US",
-    "wof:geomhash":"103cfe0e71489ed06316d1a014c1e2d6",
+    "wof:geomhash":"5082522c5aab4e58ce37c4a34aeb9dd6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +41,7 @@
         }
     ],
     "wof:id":554746765,
-    "wof:lastmodified":1480790255,
+    "wof:lastmodified":1611183995,
     "wof:name":"78244",
     "wof:parent_id":102082471,
     "wof:placetype":"postalcode",

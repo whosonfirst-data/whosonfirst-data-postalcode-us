@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00354,
-    "geom:area_square_m":34181853.934887,
+    "geom:area_square_m":34181853.934889,
     "geom:bbox":"-121.312707,38.620604,-121.192558,38.682855",
     "geom:latitude":38.651948,
     "geom:longitude":-121.254329,
@@ -14,20 +14,25 @@
     "lbl:latitude":38.652065,
     "lbl:longitude":-121.25441,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fair Oaks",
+    "mz:postal_locality_alt":[
+        "Sacramento"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102082889,
         85926851,
-        102082889
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12797903"
     },
     "wof:country":"US",
-    "wof:geomhash":"a7ea35b061d9a20be422858da70c9eb8",
+    "wof:geomhash":"ac3887b1dbe55b610a53963a5d8f7e59",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554753865,
-    "wof:lastmodified":1480796110,
+    "wof:lastmodified":1611182965,
     "wof:name":"95628",
     "wof:parent_id":85926851,
     "wof:placetype":"postalcode",

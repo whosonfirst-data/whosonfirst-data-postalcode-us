@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053001,
-    "geom:area_square_m":509411295.424549,
+    "geom:area_square_m":509411295.424815,
     "geom:bbox":"-83.555073,38.837565,-83.148202,39.172121",
     "geom:latitude":38.986474,
     "geom:longitude":-83.361187,
@@ -14,20 +14,25 @@
     "lbl:latitude":38.991356,
     "lbl:longitude":-83.367015,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Peebles",
+    "mz:postal_locality_alt":[
+        "West Union"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404523529,
         85633793,
-        102084821
+        102084821,
+        404523529,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777365"
     },
     "wof:country":"US",
-    "wof:geomhash":"ffaa67fa0d5cb5abbab204a5d8e5aa35",
+    "wof:geomhash":"bd9458807264e61da2a7a2438c948e3b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554722085,
-    "wof:lastmodified":1480833724,
+    "wof:lastmodified":1611183219,
     "wof:name":"45660",
     "wof:parent_id":404523529,
     "wof:placetype":"postalcode",

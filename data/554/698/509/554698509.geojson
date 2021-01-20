@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022961,
-    "geom:area_square_m":203854469.115253,
+    "geom:area_square_m":203854469.115341,
     "geom:bbox":"-69.45017,44.00461,-69.282027,44.212258",
     "geom:latitude":44.109818,
     "geom:longitude":-69.369558,
@@ -14,20 +14,26 @@
     "lbl:latitude":44.122084,
     "lbl:longitude":-69.383354,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Waldoboro",
+    "mz:postal_locality_alt":[
+        "Edgecomb",
+        "Boothbay Harbor"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404475719,
         85633793,
-        102087447
+        102087447,
+        404475719,
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759644"
     },
     "wof:country":"US",
-    "wof:geomhash":"afa4020fefb26a7d25c2e47039635a67",
+    "wof:geomhash":"57430de5d0d4a36157a132973db47571",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554698509,
-    "wof:lastmodified":1480787197,
+    "wof:lastmodified":1611184693,
     "wof:name":"04572",
     "wof:parent_id":404475719,
     "wof:placetype":"postalcode",

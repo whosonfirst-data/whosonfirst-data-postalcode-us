@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000483,
-    "geom:area_square_m":4356690.950578,
+    "geom:area_square_m":4356690.950587,
     "geom:bbox":"-77.607218,43.141773,-77.561945,43.161835",
     "geom:latitude":43.150776,
     "geom:longitude":-77.586434,
@@ -13,21 +13,23 @@
     "lbl:latitude":43.150776,
     "lbl:longitude":-77.586434,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Rochester",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404521467,
         85633793,
+        102081815,
+        404521467,
         85977591,
-        102081815
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763334"
     },
     "wof:country":"US",
-    "wof:geomhash":"d46ad4eca1b137df52e93c1df9000ba1",
+    "wof:geomhash":"050c05a423ae35fa6271506f2ef52949",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +42,7 @@
         }
     ],
     "wof:id":554703025,
-    "wof:lastmodified":1480829698,
+    "wof:lastmodified":1611184454,
     "wof:name":"14607",
     "wof:parent_id":85977591,
     "wof:placetype":"postalcode",

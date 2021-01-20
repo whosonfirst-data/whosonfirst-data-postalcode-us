@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007524,
-    "geom:area_square_m":77623048.233162,
+    "geom:area_square_m":77623048.233173,
     "geom:bbox":"-111.684539,33.407819,-111.580626,33.49579",
     "geom:latitude":33.453499,
     "geom:longitude":-111.636838,
@@ -13,20 +13,22 @@
     "lbl:latitude":33.454586,
     "lbl:longitude":-111.637972,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mesa",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688719,
         102191575,
         85633793,
+        102087421,
         85917491,
-        102087421
+        85688719
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12794467"
     },
     "wof:country":"US",
-    "wof:geomhash":"6e73ef6c64fe9a01a1894fe9fa714115",
+    "wof:geomhash":"a0330a4018bf2d08efd133329dae7600",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +40,7 @@
         }
     ],
     "wof:id":554750331,
-    "wof:lastmodified":1480816586,
+    "wof:lastmodified":1611184527,
     "wof:name":"85207",
     "wof:parent_id":85917491,
     "wof:placetype":"postalcode",

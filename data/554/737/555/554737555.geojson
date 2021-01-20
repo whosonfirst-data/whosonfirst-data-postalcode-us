@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002562,
-    "geom:area_square_m":25355471.36368,
+    "geom:area_square_m":25355471.363658,
     "geom:bbox":"-93.27261,36.814495,-93.176624,36.86334",
     "geom:latitude":36.832032,
     "geom:longitude":-93.216642,
@@ -14,21 +14,26 @@
     "lbl:latitude":36.832959,
     "lbl:longitude":-93.21365,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hollister",
+    "mz:postal_locality_alt":[
+        "Chestnutridge"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404516567,
         85633793,
+        102087497,
+        404516567,
         85970587,
-        102087497
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786558"
     },
     "wof:country":"US",
-    "wof:geomhash":"c1280dc35ad3f95420fabc159f51cb2e",
+    "wof:geomhash":"e7950ff43d9c4180722ab9b470aa257e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554737555,
-    "wof:lastmodified":1480915725,
+    "wof:lastmodified":1611182846,
     "wof:name":"65630",
     "wof:parent_id":85970587,
     "wof:placetype":"postalcode",

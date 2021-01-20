@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021032,
-    "geom:area_square_m":198154553.264917,
+    "geom:area_square_m":198154553.264763,
     "geom:bbox":"-81.859077,40.282009,-81.646742,40.444483",
     "geom:latitude":40.362778,
     "geom:longitude":-81.761478,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.36391,
     "lbl:longitude":-81.758449,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fresno",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404525135,
         85633793,
-        102083635
+        102083635,
+        404525135,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776488"
     },
     "wof:country":"US",
-    "wof:geomhash":"4dc92ae6eca38fbc0d9539d11adb638b",
+    "wof:geomhash":"8e191cc8591e7f8d3963122b79726016",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554720807,
-    "wof:lastmodified":1480837434,
+    "wof:lastmodified":1611185479,
     "wof:name":"43824",
     "wof:parent_id":404525135,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002408,
-    "geom:area_square_m":25049023.775482,
+    "geom:area_square_m":25049023.775485,
     "geom:bbox":"-117.025233,32.688098,-116.962476,32.758867",
     "geom:latitude":32.725963,
     "geom:longitude":-116.99655,
@@ -13,20 +13,25 @@
     "lbl:latitude":32.726237,
     "lbl:longitude":-116.994318,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Spring Valley",
+    "mz:postal_locality_alt":[
+        "San Diego"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102083569,
         85925231,
-        102083569
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796188"
     },
     "wof:country":"US",
-    "wof:geomhash":"8886aecd488f32b3ca59a6062aa17762",
+    "wof:geomhash":"2d6af02aa2ae25f355d926824981364c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554784263,
-    "wof:lastmodified":1480835292,
+    "wof:lastmodified":1611183956,
     "wof:name":"91977",
     "wof:parent_id":85925231,
     "wof:placetype":"postalcode",

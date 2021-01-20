@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004234,
-    "geom:area_square_m":35563601.61903,
+    "geom:area_square_m":35563601.619069,
     "geom:bbox":"-122.298962,47.157996,-122.214165,47.257554",
     "geom:latitude":47.205965,
     "geom:longitude":-122.266852,
@@ -13,20 +13,25 @@
     "lbl:latitude":47.205607,
     "lbl:longitude":-122.266088,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Puyallup",
+    "mz:postal_locality_alt":[
+        "Edgewood"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688623,
         102191575,
         85633793,
+        102087547,
         101731025,
-        102087547
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12799135"
     },
     "wof:country":"US",
-    "wof:geomhash":"52e47c332c578c0b9dc5cc781cdbd980",
+    "wof:geomhash":"5cedade286f31f9a9c6587ad16d12391",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554755731,
-    "wof:lastmodified":1480915586,
+    "wof:lastmodified":1611182565,
     "wof:name":"98372",
     "wof:parent_id":101731025,
     "wof:placetype":"postalcode",

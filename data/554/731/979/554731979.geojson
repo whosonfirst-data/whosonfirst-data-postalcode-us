@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.095797,
-    "geom:area_square_m":821552720.723213,
+    "geom:area_square_m":821552720.72317,
     "geom:bbox":"-98.859611,45.936664,-98.29725,46.282936",
     "geom:latitude":46.087576,
     "geom:longitude":-98.57872,
@@ -14,20 +14,26 @@
     "lbl:latitude":46.089591,
     "lbl:longitude":-98.581639,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ellendale",
+    "mz:postal_locality_alt":[
+        "Monango",
+        "Marion"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688525,
         102191575,
-        404479897,
         85633793,
-        102082079
+        102082079,
+        404479897,
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12783318"
     },
     "wof:country":"US",
-    "wof:geomhash":"31fbfeaefa1b5344a7732c635802af45",
+    "wof:geomhash":"44144cd35bdc5fd7c81d5bfa89ece24b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554731979,
-    "wof:lastmodified":1480908954,
+    "wof:lastmodified":1611183069,
     "wof:name":"58436",
     "wof:parent_id":404479897,
     "wof:placetype":"postalcode",

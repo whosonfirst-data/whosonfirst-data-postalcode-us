@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026464,
-    "geom:area_square_m":264173456.503577,
+    "geom:area_square_m":264173456.503457,
     "geom:bbox":"-81.229278,36.058959,-80.896578,36.272773",
     "geom:latitude":36.166045,
     "geom:longitude":-81.076255,
@@ -13,20 +13,25 @@
     "lbl:latitude":36.215959,
     "lbl:longitude":-81.148169,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"North Wilkesboro",
+    "mz:postal_locality_alt":[
+        "Wilkesboro"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688773,
         102191575,
         85633793,
+        102087899,
         85981601,
-        102087899
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12769814"
     },
     "wof:country":"US",
-    "wof:geomhash":"9b1da3a11f314bcab6191ca71918418d",
+    "wof:geomhash":"0c074f2a1eaf7b86e0362c51f7afbb8b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554711633,
-    "wof:lastmodified":1480781934,
+    "wof:lastmodified":1611185309,
     "wof:name":"28659",
     "wof:parent_id":85981601,
     "wof:placetype":"postalcode",

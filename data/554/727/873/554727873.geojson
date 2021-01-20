@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000998,
-    "geom:area_square_m":8992772.358583,
+    "geom:area_square_m":8992772.358568,
     "geom:bbox":"-89.361236,43.181243,-89.323149,43.223664",
     "geom:latitude":43.206171,
     "geom:longitude":-89.337619,
@@ -14,21 +14,26 @@
     "lbl:latitude":43.210856,
     "lbl:longitude":-89.332727,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Windsor",
+    "mz:postal_locality_alt":[
+        "De Forest"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404493373,
         85633793,
+        102081795,
+        404493373,
         101733575,
-        102081795
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781041"
     },
     "wof:country":"US",
-    "wof:geomhash":"3db9cc0aca231bbe22a9af731a6ce60f",
+    "wof:geomhash":"01360e04ba3bc9225dce38f8d7ba8f85",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554727873,
-    "wof:lastmodified":1480820042,
+    "wof:lastmodified":1611185500,
     "wof:name":"53598",
     "wof:parent_id":101733575,
     "wof:placetype":"postalcode",

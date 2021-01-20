@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007437,
-    "geom:area_square_m":68927813.302961,
+    "geom:area_square_m":68927813.303038,
     "geom:bbox":"-80.05307,41.377815,-79.902434,41.525327",
     "geom:latitude":41.450336,
     "geom:longitude":-79.96236,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.450497,
     "lbl:longitude":-79.965179,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Utica",
+    "mz:postal_locality_alt":[
+        "Franklin"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404487523,
         85633793,
-        102081279
+        102081279,
+        404487523,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764275"
     },
     "wof:country":"US",
-    "wof:geomhash":"290cc75453cc8cc3747087c17803f2ab",
+    "wof:geomhash":"caf5406d265e57511b4b6f5bd9b1f708",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554704493,
-    "wof:lastmodified":1480906660,
+    "wof:lastmodified":1611184514,
     "wof:name":"16362",
     "wof:parent_id":404487523,
     "wof:placetype":"postalcode",

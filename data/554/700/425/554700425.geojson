@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000911,
-    "geom:area_square_m":8659016.59655,
+    "geom:area_square_m":8659016.596545,
     "geom:bbox":"-75.156732,39.714821,-75.113469,39.749441",
     "geom:latitude":39.732348,
     "geom:longitude":-75.133811,
@@ -14,21 +14,27 @@
     "lbl:latitude":39.731894,
     "lbl:longitude":-75.133534,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pitman",
+    "mz:postal_locality_alt":[
+        "Moorestown",
+        "Sewell"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477441,
         85633793,
+        102085999,
+        404477441,
         85975453,
-        102085999
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761040"
     },
     "wof:country":"US",
-    "wof:geomhash":"9d866a052dfc73390763087d9e62d4bb",
+    "wof:geomhash":"132c09d36fba70c72b6065d78f68eb64",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554700425,
-    "wof:lastmodified":1480811064,
+    "wof:lastmodified":1611183180,
     "wof:name":"08071",
     "wof:parent_id":85975453,
     "wof:placetype":"postalcode",

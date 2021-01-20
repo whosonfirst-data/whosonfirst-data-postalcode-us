@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008887,
-    "geom:area_square_m":86130496.54693,
+    "geom:area_square_m":86130496.546863,
     "geom:bbox":"-90.508302,38.333554,-90.347526,38.4583",
     "geom:latitude":38.390758,
     "geom:longitude":-90.435606,
@@ -14,20 +14,28 @@
     "lbl:latitude":38.388903,
     "lbl:longitude":-90.436886,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Imperial",
+    "mz:postal_locality_alt":[
+        "Antonia",
+        "Kimmswick",
+        "Arnold",
+        "Otto"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404518161,
         85633793,
-        102080787
+        102080787,
+        404518161,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785560"
     },
     "wof:country":"US",
-    "wof:geomhash":"9f5b3d511cfaa1a852990673a9c3f5b0",
+    "wof:geomhash":"841e1e5be97c24122a96b09d1a7f3f2d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +47,7 @@
         }
     ],
     "wof:id":554735701,
-    "wof:lastmodified":1480904316,
+    "wof:lastmodified":1611184410,
     "wof:name":"63052",
     "wof:parent_id":404518161,
     "wof:placetype":"postalcode",

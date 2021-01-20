@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001378,
-    "geom:area_square_m":14151385.591894,
+    "geom:area_square_m":14151385.591859,
     "geom:bbox":"-84.348483,33.796205,-84.302983,33.859474",
     "geom:latitude":33.826996,
     "geom:longitude":-84.322935,
@@ -13,20 +13,25 @@
     "lbl:latitude":33.827479,
     "lbl:longitude":-84.323017,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Atlanta",
+    "mz:postal_locality_alt":[
+        "Doraville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688535,
         102191575,
         85633793,
+        102084539,
         85937259,
-        102084539
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770744"
     },
     "wof:country":"US",
-    "wof:geomhash":"1fae57293cd7b7e74aebc4601dc5655c",
+    "wof:geomhash":"1ba7e9b03316b22ac7cd64a3c21f95e1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554713071,
-    "wof:lastmodified":1480841940,
+    "wof:lastmodified":1611183301,
     "wof:name":"30329",
     "wof:parent_id":85937259,
     "wof:placetype":"postalcode",

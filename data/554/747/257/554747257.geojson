@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.05228,
-    "geom:area_square_m":557450660.189233,
+    "geom:area_square_m":557450660.18965,
     "geom:bbox":"-97.222095,30.296294,-96.868063,30.557169",
     "geom:latitude":30.420892,
     "geom:longitude":-97.037619,
@@ -14,19 +14,24 @@
     "lbl:latitude":30.420154,
     "lbl:longitude":-97.035831,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lexington",
+    "mz:postal_locality_alt":[
+        "Columbus"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688753,
-        102082467
+        102082467,
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12792411"
     },
     "wof:country":"US",
-    "wof:geomhash":"93cd9449e6f383a78f329d10739ed104",
+    "wof:geomhash":"550f82f47a0cb43e1c2d4ca8f1295f56",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554747257,
-    "wof:lastmodified":1480903317,
+    "wof:lastmodified":1611183458,
     "wof:name":"78947",
     "wof:parent_id":102082467,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012398,
-    "geom:area_square_m":115763652.265773,
+    "geom:area_square_m":115763652.265758,
     "geom:bbox":"-74.888036,40.914496,-74.614808,41.024404",
     "geom:latitude":40.964856,
     "geom:longitude":-74.749803,
@@ -14,20 +14,27 @@
     "lbl:latitude":40.965937,
     "lbl:longitude":-74.754393,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Andover",
+    "mz:postal_locality_alt":[
+        "Tranquility",
+        "Stanhope",
+        "Budd Lake"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478461,
         85633793,
-        102086779
+        102086779,
+        404478461,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760890"
     },
     "wof:country":"US",
-    "wof:geomhash":"5c07649932ad3721d3bec87b3addfb1b",
+    "wof:geomhash":"ab8a672b366ef6d605abeccff76f7d85",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554700187,
-    "wof:lastmodified":1480914756,
+    "wof:lastmodified":1611183188,
     "wof:name":"07821",
     "wof:parent_id":404478461,
     "wof:placetype":"postalcode",

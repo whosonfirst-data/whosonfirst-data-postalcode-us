@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010569,
-    "geom:area_square_m":98513712.250809,
+    "geom:area_square_m":98513712.2509,
     "geom:bbox":"-80.931291,41.011215,-80.809501,41.13442",
     "geom:latitude":41.081192,
     "geom:longitude":-80.868497,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.079368,
     "lbl:longitude":-80.868193,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"North Jackson",
+    "mz:postal_locality_alt":[
+        "Ellsworth"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404526173,
         85633793,
-        102084799
+        102084799,
+        404526173,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776815"
     },
     "wof:country":"US",
-    "wof:geomhash":"28d32bf31e3c35ada68f9a0a88616766",
+    "wof:geomhash":"889cbaa89b1fbc5354b6f43fa9374c56",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554721249,
-    "wof:lastmodified":1480841912,
+    "wof:lastmodified":1611184971,
     "wof:name":"44451",
     "wof:parent_id":404526173,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002737,
-    "geom:area_square_m":25270841.992707,
+    "geom:area_square_m":25270841.992705,
     "geom:bbox":"-70.281236,41.685475,-70.178823,41.729102",
     "geom:latitude":41.705099,
     "geom:longitude":-70.230968,
@@ -14,21 +14,26 @@
     "lbl:latitude":41.704155,
     "lbl:longitude":-70.231801,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Yarmouth Port",
+    "mz:postal_locality_alt":[
+        "East Dennis"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476089,
         85633793,
+        102084379,
+        404476089,
         85950535,
-        102084379
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758940"
     },
     "wof:country":"US",
-    "wof:geomhash":"747f38d9ae95374115ccfc2e7dd3c683",
+    "wof:geomhash":"e89c42414d77e225137e69e3a06bdc5a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554778519,
-    "wof:lastmodified":1480802731,
+    "wof:lastmodified":1611183433,
     "wof:name":"02675",
     "wof:parent_id":85950535,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004112,
-    "geom:area_square_m":39170160.873979,
+    "geom:area_square_m":39170160.873968,
     "geom:bbox":"-86.250133,39.597136,-86.10627,39.635785",
     "geom:latitude":39.620238,
     "geom:longitude":-86.176399,
@@ -13,20 +13,25 @@
     "lbl:latitude":39.62181,
     "lbl:longitude":-86.175319,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Greenwood",
+    "mz:postal_locality_alt":[
+        "Indianapolis"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404500935,
         85633793,
-        102086239
+        102086239,
+        404500935,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777611"
     },
     "wof:country":"US",
-    "wof:geomhash":"942d452d9ea50232547579b1651fe12d",
+    "wof:geomhash":"c490697e9886e8d572e9a7049166e4af",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554722501,
-    "wof:lastmodified":1480908881,
+    "wof:lastmodified":1611183230,
     "wof:name":"46142",
     "wof:parent_id":404500935,
     "wof:placetype":"postalcode",

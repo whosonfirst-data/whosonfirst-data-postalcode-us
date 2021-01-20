@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.055087,
-    "geom:area_square_m":509665120.541854,
+    "geom:area_square_m":509665120.541969,
     "geom:bbox":"-98.752225,41.393842,-98.540036,41.740564",
     "geom:latitude":41.562875,
     "geom:longitude":-98.667392,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.563132,
     "lbl:longitude":-98.670523,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Scotia",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688563,
         102191575,
-        404519289,
         85633793,
-        102082785
+        102082785,
+        404519289,
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787913"
     },
     "wof:country":"US",
-    "wof:geomhash":"0eda6b82e18959c7f4d57816732f1932",
+    "wof:geomhash":"6d00988c4c26398dd5edf0336cd99bf4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554740277,
-    "wof:lastmodified":1480835027,
+    "wof:lastmodified":1611183409,
     "wof:name":"68875",
     "wof:parent_id":404519289,
     "wof:placetype":"postalcode",

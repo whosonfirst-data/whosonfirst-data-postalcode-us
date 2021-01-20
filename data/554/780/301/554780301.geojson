@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002581,
-    "geom:area_square_m":23580928.279314,
+    "geom:area_square_m":23580928.279334,
     "geom:bbox":"-79.510626,42.334538,-79.445324,42.407498",
     "geom:latitude":42.368108,
     "geom:longitude":-79.476441,
@@ -14,20 +14,22 @@
     "lbl:latitude":42.367931,
     "lbl:longitude":-79.472317,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Portland",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522093,
         85633793,
-        102081811
+        102081811,
+        404522093,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763429"
     },
     "wof:country":"US",
-    "wof:geomhash":"d1587ef6cec54ae331697ca962674ecf",
+    "wof:geomhash":"2e95b766cf2c2663c6a205528091ff09",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554780301,
-    "wof:lastmodified":1480823112,
+    "wof:lastmodified":1611185161,
     "wof:name":"14769",
     "wof:parent_id":404522093,
     "wof:placetype":"postalcode",

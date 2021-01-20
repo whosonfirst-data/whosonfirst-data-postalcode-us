@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006257,
-    "geom:area_square_m":53545771.041977,
+    "geom:area_square_m":53545771.041996,
     "geom:bbox":"-85.805874,46.165914,-85.613069,46.245245",
     "geom:latitude":46.203855,
     "geom:longitude":-85.690596,
@@ -14,20 +14,22 @@
     "lbl:latitude":46.190093,
     "lbl:longitude":-85.654181,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Curtis",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404505949,
         85633793,
-        102083639
+        102083639,
+        404505949,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779580"
     },
     "wof:country":"US",
-    "wof:geomhash":"8a11c8bc64f5e4c1fe5779bc61299383",
+    "wof:geomhash":"a191eb3a49d70d66086a611e6412ae3c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554725331,
-    "wof:lastmodified":1480841637,
+    "wof:lastmodified":1611183253,
     "wof:name":"49820",
     "wof:parent_id":404505949,
     "wof:placetype":"postalcode",

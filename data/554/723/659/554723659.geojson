@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001046,
-    "geom:area_square_m":9980461.112294,
+    "geom:area_square_m":9980461.112284,
     "geom:bbox":"-87.42652,39.448236,-87.37889,39.484808",
     "geom:latitude":39.470727,
     "geom:longitude":-87.402803,
@@ -13,21 +13,26 @@
     "lbl:latitude":39.472935,
     "lbl:longitude":-87.403423,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Terre Haute",
+    "mz:postal_locality_alt":[
+        "Montezuma"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404502037,
         85633793,
+        102087183,
+        404502037,
         85941919,
-        102087183
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778387"
     },
     "wof:country":"US",
-    "wof:geomhash":"a6f2b925e1ceb8b43afdbdbda6f8a495",
+    "wof:geomhash":"bcc92b1985a722714a6eb67211b0d8bd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554723659,
-    "wof:lastmodified":1480787701,
+    "wof:lastmodified":1611183789,
     "wof:name":"47807",
     "wof:parent_id":85941919,
     "wof:placetype":"postalcode",

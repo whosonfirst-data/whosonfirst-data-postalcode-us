@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025164,
-    "geom:area_square_m":240607398.996977,
+    "geom:area_square_m":240607398.996959,
     "geom:bbox":"-86.391978,39.255821,-86.17707,39.483108",
     "geom:latitude":39.352313,
     "geom:longitude":-86.270747,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.351134,
     "lbl:longitude":-86.268692,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Morgantown",
+    "mz:postal_locality_alt":[
+        "Greencastle"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404500265,
         85633793,
-        102087091
+        102087091,
+        404500265,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777625"
     },
     "wof:country":"US",
-    "wof:geomhash":"9e54d79a52064919d9120f5ea4b54f59",
+    "wof:geomhash":"704c72abdfdea30a0b0cd4a8912131b9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554722523,
-    "wof:lastmodified":1480915072,
+    "wof:lastmodified":1611183250,
     "wof:name":"46160",
     "wof:parent_id":404500265,
     "wof:placetype":"postalcode",

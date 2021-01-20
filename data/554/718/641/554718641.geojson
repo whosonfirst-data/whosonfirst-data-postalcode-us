@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007979,
-    "geom:area_square_m":77708330.76428,
+    "geom:area_square_m":77708330.764289,
     "geom:bbox":"-85.659464,37.994648,-85.476616,38.084379",
     "geom:latitude":38.039732,
     "geom:longitude":-85.554771,
@@ -14,20 +14,25 @@
     "lbl:latitude":38.039402,
     "lbl:longitude":-85.555239,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mt Washington",
+    "mz:postal_locality_alt":[
+        "Mount Washington"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688641,
         102191575,
         85633793,
+        102084673,
         85946765,
-        102084673
+        85688641
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12775102"
     },
     "wof:country":"US",
-    "wof:geomhash":"3c4b4aec75d9c06cbca706fd46a2fa2c",
+    "wof:geomhash":"72543b7cdbf97335245d8db4ddeebb29",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554718641,
-    "wof:lastmodified":1480802911,
+    "wof:lastmodified":1611185580,
     "wof:name":"40047",
     "wof:parent_id":85946765,
     "wof:placetype":"postalcode",

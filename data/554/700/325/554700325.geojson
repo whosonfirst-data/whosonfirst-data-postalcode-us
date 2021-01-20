@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003776,
-    "geom:area_square_m":35887405.560469,
+    "geom:area_square_m":35887405.560448,
     "geom:bbox":"-74.984551,39.710375,-74.881366,39.809175",
     "geom:latitude":39.765112,
     "geom:longitude":-74.932601,
@@ -14,20 +14,29 @@
     "lbl:latitude":39.760656,
     "lbl:longitude":-74.93286,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Berlin",
+    "mz:postal_locality_alt":[
+        "West Berlin",
+        "Sewell",
+        "Vincentown",
+        "Sicklerville",
+        "Atco"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477939,
         85633793,
-        102081131
+        102081131,
+        404477939,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760985"
     },
     "wof:country":"US",
-    "wof:geomhash":"e52843bd758913f0ccd398c3de0afe01",
+    "wof:geomhash":"32098bf2f423a06b67a29d7066cb3f9b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +48,7 @@
         }
     ],
     "wof:id":554700325,
-    "wof:lastmodified":1480823436,
+    "wof:lastmodified":1611183192,
     "wof:name":"08009",
     "wof:parent_id":404477939,
     "wof:placetype":"postalcode",

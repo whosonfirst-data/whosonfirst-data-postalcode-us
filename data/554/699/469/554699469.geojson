@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007412,
-    "geom:area_square_m":68325262.427783,
+    "geom:area_square_m":68325262.427837,
     "geom:bbox":"-72.316782,41.745808,-72.190392,41.836259",
     "geom:latitude":41.799687,
     "geom:longitude":-72.247783,
@@ -13,21 +13,26 @@
     "lbl:latitude":41.800444,
     "lbl:longitude":-72.24803,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Storrs Mansfield",
+    "mz:postal_locality_alt":[
+        "Mansfield Depot"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688629,
         102191575,
-        404495903,
         85633793,
+        102085379,
+        404495903,
         85931263,
-        102085379
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760327"
     },
     "wof:country":"US",
-    "wof:geomhash":"2c1f85aae2f97e87e97a0c6caa1580b1",
+    "wof:geomhash":"b1e4eff6de80a6a45440520642e6117a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554699469,
-    "wof:lastmodified":1480814286,
+    "wof:lastmodified":1611184626,
     "wof:name":"06268",
     "wof:parent_id":85931263,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009609,
-    "geom:area_square_m":90860586.427262,
+    "geom:area_square_m":90860586.427114,
     "geom:bbox":"-76.025997,40.025222,-75.901024,40.216843",
     "geom:latitude":40.121317,
     "geom:longitude":-75.964203,
@@ -14,20 +14,26 @@
     "lbl:latitude":40.122377,
     "lbl:longitude":-75.959392,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Narvon",
+    "mz:postal_locality_alt":[
+        "Bowmansville",
+        "Morgantown"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404486951,
         85633793,
-        102081377
+        102081377,
+        404486951,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764818"
     },
     "wof:country":"US",
-    "wof:geomhash":"99a28cc070d56ebf42dbacd0c993dbc1",
+    "wof:geomhash":"1684b145dd239cd599622ae5c1328b52",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554705279,
-    "wof:lastmodified":1480903404,
+    "wof:lastmodified":1611184117,
     "wof:name":"17555",
     "wof:parent_id":404486951,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014056,
-    "geom:area_square_m":130399169.580804,
+    "geom:area_square_m":130399169.58082,
     "geom:bbox":"-80.16412,41.312943,-79.999777,41.452667",
     "geom:latitude":41.385244,
     "geom:longitude":-80.071823,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.380195,
     "lbl:longitude":-80.078627,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Sandy Lake",
+    "mz:postal_locality_alt":[
+        "Wheatland"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404488073,
         85633793,
-        102080965
+        102080965,
+        404488073,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764180"
     },
     "wof:country":"US",
-    "wof:geomhash":"875893cf48fc5a8fe428d08460932e72",
+    "wof:geomhash":"e5488ad94d835d45ff58880d5a45cc98",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554704341,
-    "wof:lastmodified":1480906662,
+    "wof:lastmodified":1611184500,
     "wof:name":"16145",
     "wof:parent_id":404488073,
     "wof:placetype":"postalcode",

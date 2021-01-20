@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.110216,
-    "geom:area_square_m":957216318.890804,
+    "geom:area_square_m":957216318.891352,
     "geom:bbox":"-102.745348,45.12594,-102.333901,45.641089",
     "geom:latitude":45.38244,
     "geom:longitude":-102.548717,
@@ -14,20 +14,26 @@
     "lbl:latitude":45.377258,
     "lbl:longitude":-102.540212,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bison",
+    "mz:postal_locality_alt":[
+        "Mc Intosh",
+        "Morristown"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688693,
         102191575,
-        404490747,
         85633793,
-        102086801
+        102086801,
+        404490747,
+        85688693
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12783007"
     },
     "wof:country":"US",
-    "wof:geomhash":"9af28bdaed60ad5d726c32a314d5031c",
+    "wof:geomhash":"8675405a2c91582c4f399525c3b53036",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554731397,
-    "wof:lastmodified":1480914095,
+    "wof:lastmodified":1611183059,
     "wof:name":"57620",
     "wof:parent_id":404490747,
     "wof:placetype":"postalcode",

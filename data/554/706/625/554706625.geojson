@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002336,
-    "geom:area_square_m":22205362.896847,
+    "geom:area_square_m":22205362.896829,
     "geom:bbox":"-75.53359,39.714354,-75.468868,39.804137",
     "geom:latitude":39.757864,
     "geom:longitude":-75.501222,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.757787,
     "lbl:longitude":-75.500953,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wilmington",
+    "mz:postal_locality_alt":[
+        "Edgemoor"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688611,
         102191575,
         85633793,
+        102083891,
         85931735,
-        102083891
+        85688611
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765776"
     },
     "wof:country":"US",
-    "wof:geomhash":"a2862c7911032779283204bdc717080e",
+    "wof:geomhash":"273072e695769c7fc65eef6c1230ab3e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554706625,
-    "wof:lastmodified":1480835445,
+    "wof:lastmodified":1611182706,
     "wof:name":"19809",
     "wof:parent_id":85931735,
     "wof:placetype":"postalcode",

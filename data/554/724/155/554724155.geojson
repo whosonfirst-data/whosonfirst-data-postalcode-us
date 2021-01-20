@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003452,
-    "geom:area_square_m":31425970.809239,
+    "geom:area_square_m":31425970.809241,
     "geom:bbox":"-83.441956,42.572168,-83.32392,42.6181",
     "geom:latitude":42.59614,
     "geom:longitude":-83.392626,
@@ -14,20 +14,25 @@
     "lbl:latitude":42.595022,
     "lbl:longitude":-83.39123,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"West Bloomfield",
+    "mz:postal_locality_alt":[
+        "Orchard Lake"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404508391,
         85633793,
-        102083713
+        102083713,
+        404508391,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778757"
     },
     "wof:country":"US",
-    "wof:geomhash":"58d4ab0419921811aa906c976cacfe48",
+    "wof:geomhash":"8f54ac7d4e9e39f0a7dc0b60a7eb3eb7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554724155,
-    "wof:lastmodified":1480834712,
+    "wof:lastmodified":1611183760,
     "wof:name":"48324",
     "wof:parent_id":404508391,
     "wof:placetype":"postalcode",

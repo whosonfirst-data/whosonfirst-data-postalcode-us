@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.071487,
-    "geom:area_square_m":611906947.556283,
+    "geom:area_square_m":611906947.556158,
     "geom:bbox":"-90.304571,46.069396,-89.928741,46.337039",
     "geom:latitude":46.192313,
     "geom:longitude":-90.102076,
@@ -14,20 +14,25 @@
     "lbl:latitude":46.21135,
     "lbl:longitude":-90.10613,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mercer",
+    "mz:postal_locality_alt":[
+        "Manitowish Wtrs"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404493707,
         85633793,
-        102081263
+        102081263,
+        404493707,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781394"
     },
     "wof:country":"US",
-    "wof:geomhash":"30626f7df7b9b3103849225de146ca36",
+    "wof:geomhash":"5dd9005e25d311bca4357a5c02bcc47d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554783065,
-    "wof:lastmodified":1480836899,
+    "wof:lastmodified":1611183880,
     "wof:name":"54547",
     "wof:parent_id":404493707,
     "wof:placetype":"postalcode",

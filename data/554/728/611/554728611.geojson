@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030299,
-    "geom:area_square_m":265548692.810548,
+    "geom:area_square_m":265548692.810411,
     "geom:bbox":"-91.823975,44.743535,-91.569615,44.954623",
     "geom:latitude":44.863061,
     "geom:longitude":-91.701384,
@@ -14,20 +14,25 @@
     "lbl:latitude":44.859764,
     "lbl:longitude":-91.701174,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Elk Mound",
+    "mz:postal_locality_alt":[
+        "Eau Claire"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404492729,
         85633793,
-        102081747
+        102081747,
+        404492729,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781493"
     },
     "wof:country":"US",
-    "wof:geomhash":"136c09b4ee0d55957fa1392def18333d",
+    "wof:geomhash":"c6565ed76a794cfc6fcf4d6167e61d9d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554728611,
-    "wof:lastmodified":1480833294,
+    "wof:lastmodified":1611185058,
     "wof:name":"54739",
     "wof:parent_id":404492729,
     "wof:placetype":"postalcode",

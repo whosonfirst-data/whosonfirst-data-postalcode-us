@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.052134,
-    "geom:area_square_m":431594389.422113,
+    "geom:area_square_m":431594389.422087,
     "geom:bbox":"-100.907891,47.84748,-100.585161,48.152794",
     "geom:latitude":47.971125,
     "geom:longitude":-100.743263,
@@ -14,20 +14,25 @@
     "lbl:latitude":47.971228,
     "lbl:longitude":-100.746785,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Voltaire",
+    "mz:postal_locality_alt":[
+        "Velva"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688525,
         102191575,
-        404481095,
         85633793,
-        102082517
+        102082517,
+        404481095,
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12783503"
     },
     "wof:country":"US",
-    "wof:geomhash":"764dca2b50d04732938349db23a7d6f5",
+    "wof:geomhash":"fffb65534fb935388f0b73b9777067fd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554732371,
-    "wof:lastmodified":1480796192,
+    "wof:lastmodified":1611184382,
     "wof:name":"58792",
     "wof:parent_id":404481095,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000818,
-    "geom:area_square_m":7633577.128077,
+    "geom:area_square_m":7633577.128083,
     "geom:bbox":"-74.080117,40.967091,-74.046249,41.004475",
     "geom:latitude":40.988344,
     "geom:longitude":-74.063542,
@@ -14,20 +14,28 @@
     "lbl:latitude":40.988306,
     "lbl:longitude":-74.064693,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Westwood",
+    "mz:postal_locality_alt":[
+        "Washington Twp",
+        "Hillsdale",
+        "Paramus",
+        "Township Of Washington"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477309,
         85633793,
-        102086773
+        102086773,
+        404477309,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"23509633"
     },
     "wof:country":"US",
-    "wof:geomhash":"7ad3406e89bc29931298d97cdb332ee6",
+    "wof:geomhash":"a3d7db121ee3674873b5baa58b35f0f1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +47,7 @@
         }
     ],
     "wof:id":554756659,
-    "wof:lastmodified":1480908560,
+    "wof:lastmodified":1611184283,
     "wof:name":"07676",
     "wof:parent_id":404477309,
     "wof:placetype":"postalcode",

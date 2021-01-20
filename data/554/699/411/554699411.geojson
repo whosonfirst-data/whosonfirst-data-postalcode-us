@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002859,
-    "geom:area_square_m":26372157.817935,
+    "geom:area_square_m":26372157.817926,
     "geom:bbox":"-72.655936,41.723827,-72.571233,41.774042",
     "geom:latitude":41.748725,
     "geom:longitude":-72.609937,
@@ -13,21 +13,26 @@
     "lbl:latitude":41.748702,
     "lbl:longitude":-72.609686,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"East Hartford",
+    "mz:postal_locality_alt":[
+        "Hartford"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688629,
         102191575,
-        404495879,
         85633793,
+        102085381,
+        404495879,
         85931097,
-        102085381
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760259"
     },
     "wof:country":"US",
-    "wof:geomhash":"9a2b0050f5d5f30191819bffcfa5faa6",
+    "wof:geomhash":"ce2066c3a68b555e35869c30d372171a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554699411,
-    "wof:lastmodified":1480815742,
+    "wof:lastmodified":1611184623,
     "wof:name":"06118",
     "wof:parent_id":85931097,
     "wof:placetype":"postalcode",

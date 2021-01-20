@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002037,
-    "geom:area_square_m":21648829.476997,
+    "geom:area_square_m":21648829.477025,
     "geom:bbox":"-88.110967,30.706605,-88.0417,30.760698",
     "geom:latitude":30.736263,
     "geom:longitude":-88.072848,
@@ -13,20 +13,25 @@
     "lbl:latitude":30.736246,
     "lbl:longitude":-88.073507,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mobile",
+    "mz:postal_locality_alt":[
+        "Prichard"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688675,
         102191575,
         85633793,
+        102085585,
         85913741,
-        102085585
+        85688675
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12773612"
     },
     "wof:country":"US",
-    "wof:geomhash":"5c57484835954fa24e231702305fae76",
+    "wof:geomhash":"d480998eddfbc8fff99e212968567e71",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554782263,
-    "wof:lastmodified":1480815718,
+    "wof:lastmodified":1611183631,
     "wof:name":"36610",
     "wof:parent_id":85913741,
     "wof:placetype":"postalcode",

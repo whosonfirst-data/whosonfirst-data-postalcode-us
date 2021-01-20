@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008812,
-    "geom:area_square_m":81606484.772631,
+    "geom:area_square_m":81606484.772567,
     "geom:bbox":"-78.761604,41.440707,-78.641594,41.564634",
     "geom:latitude":41.500474,
     "geom:longitude":-78.695747,
@@ -14,21 +14,23 @@
     "lbl:latitude":41.494294,
     "lbl:longitude":-78.689546,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Johnsonburg",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404486709,
         85633793,
+        102081265,
+        404486709,
         101716703,
-        102081265
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764045"
     },
     "wof:country":"US",
-    "wof:geomhash":"92173fb442f27e121120668524460f57",
+    "wof:geomhash":"f4c830a0d5bfa01fb1115dceabfef646",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +43,7 @@
         }
     ],
     "wof:id":554704113,
-    "wof:lastmodified":1480830973,
+    "wof:lastmodified":1611184524,
     "wof:name":"15845",
     "wof:parent_id":101716703,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002121,
-    "geom:area_square_m":20427332.47591,
+    "geom:area_square_m":20427332.475937,
     "geom:bbox":"-76.95811,38.798638,-76.8679,38.865839",
     "geom:latitude":38.836816,
     "geom:longitude":-76.918114,
@@ -13,20 +13,27 @@
     "lbl:latitude":38.836402,
     "lbl:longitude":-76.918265,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Suitland",
+    "mz:postal_locality_alt":[
+        "Camp Springs",
+        "Suitland-Silver Hill",
+        "Marlow Heights"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688501,
         102191575,
         85633793,
+        102082191,
         85949979,
-        102082191
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766289"
     },
     "wof:country":"US",
-    "wof:geomhash":"9d6e5bafcdf2feec13b3e174f8284dd5",
+    "wof:geomhash":"319d46f7352909f3f350678ca1746bb7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +45,7 @@
         }
     ],
     "wof:id":554706977,
-    "wof:lastmodified":1480803495,
+    "wof:lastmodified":1611182695,
     "wof:name":"20746",
     "wof:parent_id":85949979,
     "wof:placetype":"postalcode",

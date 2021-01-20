@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01294,
-    "geom:area_square_m":122192325.787766,
+    "geom:area_square_m":122192325.787859,
     "geom:bbox":"-86.185333,40.162901,-85.861903,40.247334",
     "geom:latitude":40.21027,
     "geom:longitude":-86.019003,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.210969,
     "lbl:longitude":-86.018095,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Atlanta",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404500003,
         85633793,
-        102087089
+        102087089,
+        404500003,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777545"
     },
     "wof:country":"US",
-    "wof:geomhash":"0d27a5e58c4dd27f773a8e1f477e2d23",
+    "wof:geomhash":"31f4cd86df678a496ad4405896316171",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554722377,
-    "wof:lastmodified":1480912895,
+    "wof:lastmodified":1611183225,
     "wof:name":"46031",
     "wof:parent_id":404500003,
     "wof:placetype":"postalcode",

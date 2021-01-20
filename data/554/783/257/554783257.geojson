@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000847,
-    "geom:area_square_m":7791879.727957,
+    "geom:area_square_m":7791879.72795,
     "geom:bbox":"-87.805748,41.87815,-87.774654,41.909254",
     "geom:latitude":41.894609,
     "geom:longitude":-87.789711,
@@ -13,21 +13,26 @@
     "lbl:latitude":41.894608,
     "lbl:longitude":-87.78971,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Oak Park",
+    "mz:postal_locality_alt":[
+        "Chicago"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404497641,
         85633793,
+        102084317,
+        404497641,
         85940755,
-        102084317
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784113"
     },
     "wof:country":"US",
-    "wof:geomhash":"d01c993c27fd9e932ecf93d0340d380f",
+    "wof:geomhash":"6534b7f38cc86d32e084fb3cc73a4c0f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554783257,
-    "wof:lastmodified":1480802057,
+    "wof:lastmodified":1611183880,
     "wof:name":"60302",
     "wof:parent_id":85940755,
     "wof:placetype":"postalcode",

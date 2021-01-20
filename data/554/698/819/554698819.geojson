@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011926,
-    "geom:area_square_m":106978829.228818,
+    "geom:area_square_m":106978829.228824,
     "geom:bbox":"-72.532899,43.401402,-72.380301,43.571389",
     "geom:latitude":43.492229,
     "geom:longitude":-72.446444,
@@ -14,20 +14,27 @@
     "lbl:latitude":43.495591,
     "lbl:longitude":-72.442313,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Windsor",
+    "mz:postal_locality_alt":[
+        "West Windsor",
+        "Ascutney",
+        "Randolph Center"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688763,
         102191575,
-        404527385,
         85633793,
-        102080777
+        102080777,
+        404527385,
+        85688763
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759910"
     },
     "wof:country":"US",
-    "wof:geomhash":"2ca8318f5dbc4a29e1bc4d438d93487c",
+    "wof:geomhash":"2def25b6e46ca7ea0d3fdd53dc5e1f17",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554698819,
-    "wof:lastmodified":1480908974,
+    "wof:lastmodified":1611184681,
     "wof:name":"05089",
     "wof:parent_id":404527385,
     "wof:placetype":"postalcode",

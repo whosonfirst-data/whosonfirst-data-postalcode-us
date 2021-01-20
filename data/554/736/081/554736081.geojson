@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.066618,
-    "geom:area_square_m":629314560.396404,
+    "geom:area_square_m":629314560.396648,
     "geom:bbox":"-93.339705,40.051133,-92.883811,40.338514",
     "geom:latitude":40.185125,
     "geom:longitude":-93.124985,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.182985,
     "lbl:longitude":-93.12729,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Milan",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404518179,
         85633793,
-        102087489
+        102087489,
+        404518179,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785771"
     },
     "wof:country":"US",
-    "wof:geomhash":"3ccfd5b8f3b383d59d2fe51da07413d5",
+    "wof:geomhash":"9debc94eca7302e9e5716e76c282246c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554736081,
-    "wof:lastmodified":1480785312,
+    "wof:lastmodified":1611183043,
     "wof:name":"63556",
     "wof:parent_id":404518179,
     "wof:placetype":"postalcode",

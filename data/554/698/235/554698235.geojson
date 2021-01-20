@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.054273,
-    "geom:area_square_m":479741219.636636,
+    "geom:area_square_m":479741219.636792,
     "geom:bbox":"-71.017317,44.235631,-70.654753,44.498097",
     "geom:latitude":44.367716,
     "geom:longitude":-70.833194,
@@ -14,20 +14,25 @@
     "lbl:latitude":44.3801,
     "lbl:longitude":-70.815239,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bethel",
+    "mz:postal_locality_alt":[
+        "Albany Twp"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404475727,
         85633793,
-        102087437
+        102087437,
+        404475727,
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759463"
     },
     "wof:country":"US",
-    "wof:geomhash":"f2806b261fe9694c31598d439ee2dd71",
+    "wof:geomhash":"f492e862881b356f66a556e79a12684a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554698235,
-    "wof:lastmodified":1480911760,
+    "wof:lastmodified":1611184683,
     "wof:name":"04217",
     "wof:parent_id":404475727,
     "wof:placetype":"postalcode",

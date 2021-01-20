@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011133,
-    "geom:area_square_m":98161846.587054,
+    "geom:area_square_m":98161846.587019,
     "geom:bbox":"-92.316169,44.439132,-92.151407,44.568561",
     "geom:latitude":44.514173,
     "geom:longitude":-92.237395,
@@ -14,20 +14,22 @@
     "lbl:latitude":44.528229,
     "lbl:longitude":-92.239712,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Stockholm",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404494485,
         85633793,
-        102081803
+        102081803,
+        404494485,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781521"
     },
     "wof:country":"US",
-    "wof:geomhash":"06943834b0326b00e8678ac12386e914",
+    "wof:geomhash":"f8786cbd047ca296902987c1bfa806f5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554728665,
-    "wof:lastmodified":1480833248,
+    "wof:lastmodified":1611185089,
     "wof:name":"54769",
     "wof:parent_id":404494485,
     "wof:placetype":"postalcode",

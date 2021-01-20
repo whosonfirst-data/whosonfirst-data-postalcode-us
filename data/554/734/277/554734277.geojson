@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015439,
-    "geom:area_square_m":144599930.651329,
+    "geom:area_square_m":144599930.651286,
     "geom:bbox":"-88.469175,40.660988,-88.327092,40.84742",
     "geom:latitude":40.75946,
     "geom:longitude":-88.404267,
@@ -14,20 +14,26 @@
     "lbl:latitude":40.759435,
     "lbl:longitude":-88.40427,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Forrest",
+    "mz:postal_locality_alt":[
+        "Goodfield",
+        "Le Roy"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404497983,
         85633793,
-        102082873
+        102082873,
+        404497983,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784783"
     },
     "wof:country":"US",
-    "wof:geomhash":"46f2884a730be0b093ab6b7f4e64a6f7",
+    "wof:geomhash":"82fcf6c3ad69ec62fdb5ab6a18c491e0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554734277,
-    "wof:lastmodified":1480791736,
+    "wof:lastmodified":1611184197,
     "wof:name":"61741",
     "wof:parent_id":404497983,
     "wof:placetype":"postalcode",

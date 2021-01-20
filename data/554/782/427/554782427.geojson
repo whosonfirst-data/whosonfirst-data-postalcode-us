@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002136,
-    "geom:area_square_m":19764433.729448,
+    "geom:area_square_m":19764433.729456,
     "geom:bbox":"-87.525586,41.522655,-87.480436,41.581533",
     "geom:latitude":41.546941,
     "geom:longitude":-87.50394,
@@ -14,21 +14,27 @@
     "lbl:latitude":41.54751,
     "lbl:longitude":-87.503269,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Munster",
+    "mz:postal_locality_alt":[
+        "Dyer",
+        "Hammond"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404501869,
         85633793,
+        102087149,
+        404501869,
         85941831,
-        102087149
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777717"
     },
     "wof:country":"US",
-    "wof:geomhash":"e4de7a3d280b2f0c1760347d2b24e036",
+    "wof:geomhash":"5af339c88d6bea396717e66874646839",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554782427,
-    "wof:lastmodified":1480802049,
+    "wof:lastmodified":1611183625,
     "wof:name":"46321",
     "wof:parent_id":85941831,
     "wof:placetype":"postalcode",

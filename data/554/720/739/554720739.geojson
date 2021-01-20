@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008642,
-    "geom:area_square_m":82026059.875422,
+    "geom:area_square_m":82026059.875348,
     "geom:bbox":"-81.214165,39.785238,-81.052166,39.932246",
     "geom:latitude":39.862495,
     "geom:longitude":-81.121655,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.860809,
     "lbl:longitude":-81.124896,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Jerusalem",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404526721,
         85633793,
-        102083663
+        102083663,
+        404526721,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776447"
     },
     "wof:country":"US",
-    "wof:geomhash":"e94a0f30d03eb631ef57b90afeb158f8",
+    "wof:geomhash":"311d419755034e0d7e7ef90fa00aa3cf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554720739,
-    "wof:lastmodified":1480838512,
+    "wof:lastmodified":1611185447,
     "wof:name":"43747",
     "wof:parent_id":404526721,
     "wof:placetype":"postalcode",

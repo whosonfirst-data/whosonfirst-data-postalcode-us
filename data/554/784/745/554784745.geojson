@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001284,
-    "geom:area_square_m":12584100.307569,
+    "geom:area_square_m":12584100.30755,
     "geom:bbox":"-122.294439,37.533401,-122.245156,37.575822",
     "geom:latitude":37.555966,
     "geom:longitude":-122.268872,
@@ -13,20 +13,25 @@
     "lbl:latitude":37.555999,
     "lbl:longitude":-122.267679,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Foster City",
+    "mz:postal_locality_alt":[
+        "San Mateo"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102085387,
         85922519,
-        102085387
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12797292"
     },
     "wof:country":"US",
-    "wof:geomhash":"2189b2f4406fdc1073c878dcbc9f4e1f",
+    "wof:geomhash":"e7b4beb1cb92e4ced7647f8075f688c1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554784745,
-    "wof:lastmodified":1480806943,
+    "wof:lastmodified":1611183960,
     "wof:name":"94404",
     "wof:parent_id":85922519,
     "wof:placetype":"postalcode",

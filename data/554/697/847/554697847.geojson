@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015,
-    "geom:area_square_m":135157457.79362,
+    "geom:area_square_m":135157457.793609,
     "geom:bbox":"-71.638527,43.151787,-71.456501,43.309816",
     "geom:latitude":43.224469,
     "geom:longitude":-71.543321,
@@ -13,21 +13,26 @@
     "lbl:latitude":43.238549,
     "lbl:longitude":-71.555988,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Concord",
+    "mz:postal_locality_alt":[
+        "Loudon"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688689,
         102191575,
-        404477159,
         85633793,
+        102086515,
+        404477159,
         85975075,
-        102086515
+        85688689
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759186"
     },
     "wof:country":"US",
-    "wof:geomhash":"352791d7d6313401a73bb935820d0b7e",
+    "wof:geomhash":"c9b5902892efb89990d486a47abd248c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554697847,
-    "wof:lastmodified":1480913718,
+    "wof:lastmodified":1611184656,
     "wof:name":"03301",
     "wof:parent_id":85975075,
     "wof:placetype":"postalcode",

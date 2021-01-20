@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01479,
-    "geom:area_square_m":134138309.441559,
+    "geom:area_square_m":134138309.441467,
     "geom:bbox":"-77.225248,42.73871,-77.049887,42.901274",
     "geom:latitude":42.820448,
     "geom:longitude":-77.131759,
@@ -13,20 +13,22 @@
     "lbl:latitude":42.820432,
     "lbl:longitude":-77.131778,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Stanley",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522781,
         85633793,
-        102082359
+        102082359,
+        404522781,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763313"
     },
     "wof:country":"US",
-    "wof:geomhash":"997e729a6638cc7e8c69e027b00962b0",
+    "wof:geomhash":"6a3300b19843b5be1a2889a02ee3e910",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +40,7 @@
         }
     ],
     "wof:id":554703001,
-    "wof:lastmodified":1480835610,
+    "wof:lastmodified":1611184461,
     "wof:name":"14561",
     "wof:parent_id":404522781,
     "wof:placetype":"postalcode",

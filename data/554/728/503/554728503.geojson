@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013987,
-    "geom:area_square_m":125321470.362987,
+    "geom:area_square_m":125321470.362953,
     "geom:bbox":"-91.244093,43.517641,-91.032792,43.629968",
     "geom:latitude":43.564131,
     "geom:longitude":-91.146036,
@@ -14,20 +14,22 @@
     "lbl:latitude":43.568829,
     "lbl:longitude":-91.146482,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Genoa",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404494105,
         85633793,
-        102081733
+        102081733,
+        404494105,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781436"
     },
     "wof:country":"US",
-    "wof:geomhash":"5130fc9809ee79ced5016c2fa8829578",
+    "wof:geomhash":"88600b9a9e9ce28e43dcb671871aaf23",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554728503,
-    "wof:lastmodified":1480823578,
+    "wof:lastmodified":1611185050,
     "wof:name":"54632",
     "wof:parent_id":404494105,
     "wof:placetype":"postalcode",

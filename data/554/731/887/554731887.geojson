@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.055641,
-    "geom:area_square_m":459485266.085539,
+    "geom:area_square_m":459485266.085361,
     "geom:bbox":"-99.502482,47.962519,-99.070443,48.223836",
     "geom:latitude":48.098702,
     "geom:longitude":-99.279112,
@@ -14,20 +14,22 @@
     "lbl:latitude":48.099087,
     "lbl:longitude":-99.278042,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Minnewaukan",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688525,
         102191575,
-        404480183,
         85633793,
-        102082071
+        102082071,
+        404480183,
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12783273"
     },
     "wof:country":"US",
-    "wof:geomhash":"301c3a4dc4f5c702987c143789738814",
+    "wof:geomhash":"430df5e0b567d59b98b644910901bd77",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554731887,
-    "wof:lastmodified":1480831347,
+    "wof:lastmodified":1611183061,
     "wof:name":"58351",
     "wof:parent_id":404480183,
     "wof:placetype":"postalcode",

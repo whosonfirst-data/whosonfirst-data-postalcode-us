@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003398,
-    "geom:area_square_m":35296482.493616,
+    "geom:area_square_m":35296482.493615,
     "geom:bbox":"-97.317444,32.80977,-97.25901,32.894831",
     "geom:latitude":32.858781,
     "geom:longitude":-97.291291,
@@ -13,20 +13,26 @@
     "lbl:latitude":32.859685,
     "lbl:longitude":-97.291523,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fort Worth",
+    "mz:postal_locality_alt":[
+        "Haltom City",
+        "Watauga"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102083201,
         101724443,
-        102083201
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12790951"
     },
     "wof:country":"US",
-    "wof:geomhash":"86e0647d117c4e26aff39b100b4dde12",
+    "wof:geomhash":"3e4a28e295e5a1029b0ee8018a860051",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554745181,
-    "wof:lastmodified":1480840098,
+    "wof:lastmodified":1611185272,
     "wof:name":"76137",
     "wof:parent_id":101724443,
     "wof:placetype":"postalcode",

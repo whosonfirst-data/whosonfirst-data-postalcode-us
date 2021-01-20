@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017599,
-    "geom:area_square_m":162243255.625153,
+    "geom:area_square_m":162243255.625089,
     "geom:bbox":"-79.77744,41.721057,-79.556882,41.851449",
     "geom:latitude":41.793775,
     "geom:longitude":-79.664993,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.79672,
     "lbl:longitude":-79.668697,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Spartansburg",
+    "mz:postal_locality_alt":[
+        "Saegertown"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404483143,
         85633793,
-        102080911
+        102080911,
+        404483143,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764314"
     },
     "wof:country":"US",
-    "wof:geomhash":"74dc468c53a4229db7e38dc8d7447c0a",
+    "wof:geomhash":"abf2d4b9d3b355aed9996456b61f3a1f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554704529,
-    "wof:lastmodified":1480906218,
+    "wof:lastmodified":1611184502,
     "wof:name":"16434",
     "wof:parent_id":404483143,
     "wof:placetype":"postalcode",

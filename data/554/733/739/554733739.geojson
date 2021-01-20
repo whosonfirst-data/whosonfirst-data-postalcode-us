@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008439,
-    "geom:area_square_m":76958687.584761,
+    "geom:area_square_m":76958687.584731,
     "geom:bbox":"-90.085589,42.444385,-89.896755,42.508175",
     "geom:latitude":42.480211,
     "geom:longitude":-89.992629,
@@ -14,20 +14,22 @@
     "lbl:latitude":42.480214,
     "lbl:longitude":-89.99263,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Warren",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404498317,
         85633793,
-        102080811
+        102080811,
+        404498317,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784467"
     },
     "wof:country":"US",
-    "wof:geomhash":"d3778ca9334c88e946d2f94750cd22c1",
+    "wof:geomhash":"f8f385f25cb4250cd93c9e36fd549769",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554733739,
-    "wof:lastmodified":1480904879,
+    "wof:lastmodified":1611184211,
     "wof:name":"61087",
     "wof:parent_id":404498317,
     "wof:placetype":"postalcode",

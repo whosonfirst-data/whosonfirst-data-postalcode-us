@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012852,
-    "geom:area_square_m":118417481.643416,
+    "geom:area_square_m":118417481.643304,
     "geom:bbox":"-71.728048,41.75074,-71.555756,41.880977",
     "geom:latitude":41.829313,
     "geom:longitude":-71.632027,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.822761,
     "lbl:longitude":-71.633605,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"North Scituate",
+    "mz:postal_locality_alt":[
+        "Newport"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688509,
         102191575,
-        404488379,
         85633793,
-        102081597
+        102081597,
+        404488379,
+        85688509
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759020"
     },
     "wof:country":"US",
-    "wof:geomhash":"520ad87d8f3bc9f2cc23017796283153",
+    "wof:geomhash":"093595c40f9ad4399f2b604846ab1418",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554697601,
-    "wof:lastmodified":1480817074,
+    "wof:lastmodified":1611184660,
     "wof:name":"02857",
     "wof:parent_id":404488379,
     "wof:placetype":"postalcode",

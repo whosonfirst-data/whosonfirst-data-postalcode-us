@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021566,
-    "geom:area_square_m":222114269.264467,
+    "geom:area_square_m":222114269.264587,
     "geom:bbox":"-81.487343,33.522277,-81.187238,33.694415",
     "geom:latitude":33.600578,
     "geom:longitude":-81.324522,
@@ -14,19 +14,25 @@
     "lbl:latitude":33.596191,
     "lbl:longitude":-81.321416,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Salley",
+    "mz:postal_locality_alt":[
+        "Wagener",
+        "Perry"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688683,
-        102085721
+        102085721,
+        85688683
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770033"
     },
     "wof:country":"US",
-    "wof:geomhash":"5e1a7b4419308054c769e35c643f448d",
+    "wof:geomhash":"8818bbb2649e1d5ab6e85c5fb8f54ceb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554712015,
-    "wof:lastmodified":1480814074,
+    "wof:lastmodified":1611183697,
     "wof:name":"29137",
     "wof:parent_id":102085721,
     "wof:placetype":"postalcode",

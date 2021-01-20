@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020825,
-    "geom:area_square_m":183472841.722438,
+    "geom:area_square_m":183472841.722441,
     "geom:bbox":"-94.965013,44.459362,-94.785691,44.659016",
     "geom:latitude":44.560214,
     "geom:longitude":-94.867119,
@@ -14,20 +14,25 @@
     "lbl:latitude":44.562955,
     "lbl:longitude":-94.860631,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Franklin",
+    "mz:postal_locality_alt":[
+        "Morton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404510569,
         85633793,
-        102087655
+        102087655,
+        404510569,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781816"
     },
     "wof:country":"US",
-    "wof:geomhash":"d24004c4c461ae0c9cdb88d4715d581d",
+    "wof:geomhash":"64f33682438601174f1fe71fcdc6b7da",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554729179,
-    "wof:lastmodified":1480789132,
+    "wof:lastmodified":1611185443,
     "wof:name":"55333",
     "wof:parent_id":404510569,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007119,
-    "geom:area_square_m":66611775.245551,
+    "geom:area_square_m":66611775.24552,
     "geom:bbox":"-75.110675,40.773434,-74.957153,40.879127",
     "geom:latitude":40.828028,
     "geom:longitude":-75.036448,
@@ -14,20 +14,26 @@
     "lbl:latitude":40.829451,
     "lbl:longitude":-75.039497,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Belvidere",
+    "mz:postal_locality_alt":[
+        "Hackettstown",
+        "Newton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478535,
         85633793,
-        102083873
+        102083873,
+        404478535,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760892"
     },
     "wof:country":"US",
-    "wof:geomhash":"4e3c6beda55bc33857074d56ca613da2",
+    "wof:geomhash":"ec95578d2854c003661bd4de65e9898f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554700191,
-    "wof:lastmodified":1480837399,
+    "wof:lastmodified":1611183193,
     "wof:name":"07823",
     "wof:parent_id":404478535,
     "wof:placetype":"postalcode",

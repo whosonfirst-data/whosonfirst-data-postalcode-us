@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.077544,
-    "geom:area_square_m":783677778.492186,
+    "geom:area_square_m":783677778.491948,
     "geom:bbox":"-83.651922,34.994761,-83.209903,35.331004",
     "geom:latitude":35.182761,
     "geom:longitude":-83.421059,
@@ -13,19 +13,29 @@
     "lbl:latitude":35.189081,
     "lbl:longitude":-83.41226,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Franklin",
+    "mz:postal_locality_alt":[
+        "Dillsboro",
+        "Candler",
+        "Burnsville",
+        "Arden",
+        "Mountain Home",
+        "Brevard"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688773,
-        102087627
+        102087627,
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12769882"
     },
     "wof:country":"US",
-    "wof:geomhash":"17a87eb4dd524dfd720af5bb02171f84",
+    "wof:geomhash":"afc383ada0aaeb14192f814781fdafff",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +46,7 @@
         }
     ],
     "wof:id":554711747,
-    "wof:lastmodified":1480817316,
+    "wof:lastmodified":1611185318,
     "wof:name":"28734",
     "wof:parent_id":102087627,
     "wof:placetype":"postalcode",

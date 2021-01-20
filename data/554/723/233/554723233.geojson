@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007625,
-    "geom:area_square_m":73373427.090095,
+    "geom:area_square_m":73373427.089959,
     "geom:bbox":"-85.550442,38.832562,-85.444849,38.956585",
     "geom:latitude":38.899268,
     "geom:longitude":-85.495795,
@@ -14,20 +14,22 @@
     "lbl:latitude":38.900912,
     "lbl:longitude":-85.494614,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Dupont",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404500083,
         85633793,
-        102087103
+        102087103,
+        404500083,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778119"
     },
     "wof:country":"US",
-    "wof:geomhash":"abe34f37f6161808cd0674f128353bd0",
+    "wof:geomhash":"741d8be133381c3309665b998d1feb14",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554723233,
-    "wof:lastmodified":1480910623,
+    "wof:lastmodified":1611183789,
     "wof:name":"47231",
     "wof:parent_id":404500083,
     "wof:placetype":"postalcode",

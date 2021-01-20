@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034929,
-    "geom:area_square_m":343399665.09684,
+    "geom:area_square_m":343399665.0973,
     "geom:bbox":"-89.758142,37.229165,-89.420542,37.453102",
     "geom:latitude":37.33784,
     "geom:longitude":-89.576803,
@@ -13,21 +13,26 @@
     "lbl:latitude":37.335872,
     "lbl:longitude":-89.575814,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cape Girardeau",
+    "mz:postal_locality_alt":[
+        "Gordonville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404516537,
         85633793,
+        102086155,
+        404516537,
         85971691,
-        102086155
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785819"
     },
     "wof:country":"US",
-    "wof:geomhash":"dc42283a629b38ff5e441ce776780c38",
+    "wof:geomhash":"6c5b1cc61071c065a7d1b1d05620a464",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554736175,
-    "wof:lastmodified":1480915743,
+    "wof:lastmodified":1611183035,
     "wof:name":"63701",
     "wof:parent_id":85971691,
     "wof:placetype":"postalcode",

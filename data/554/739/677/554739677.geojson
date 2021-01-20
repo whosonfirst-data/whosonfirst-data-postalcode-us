@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.08021,
-    "geom:area_square_m":758146624.616883,
+    "geom:area_square_m":758146624.616932,
     "geom:bbox":"-97.369251,40.001179,-97.010789,40.320858",
     "geom:latitude":40.145854,
     "geom:longitude":-97.22029,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.142403,
     "lbl:longitude":-97.229238,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fairbury",
+    "mz:postal_locality_alt":[
+        "Reynolds"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688563,
         102191575,
-        404520413,
         85633793,
-        102082759
+        102082759,
+        404520413,
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787622"
     },
     "wof:country":"US",
-    "wof:geomhash":"c6cd4f0eaddb0a05fa923c5dfcca6043",
+    "wof:geomhash":"3921e72415bf213c41ffb00407a60357",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554739677,
-    "wof:lastmodified":1480841757,
+    "wof:lastmodified":1611182673,
     "wof:name":"68352",
     "wof:parent_id":404520413,
     "wof:placetype":"postalcode",

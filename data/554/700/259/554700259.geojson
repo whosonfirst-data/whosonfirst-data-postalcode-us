@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004364,
-    "geom:area_square_m":40766810.269771,
+    "geom:area_square_m":40766810.269796,
     "geom:bbox":"-74.633945,40.88584,-74.504122,40.98685",
     "geom:latitude":40.935125,
     "geom:longitude":-74.578522,
@@ -14,20 +14,28 @@
     "lbl:latitude":40.910506,
     "lbl:longitude":-74.599911,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wharton",
+    "mz:postal_locality_alt":[
+        "Lafayette",
+        "Sparta",
+        "Newton",
+        "Lake Hopatcong"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478317,
         85633793,
-        102087413
+        102087413,
+        404478317,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760939"
     },
     "wof:country":"US",
-    "wof:geomhash":"83de43702cbe5506ec494836d41d28e0",
+    "wof:geomhash":"01c1aca51d85eb510907888a5f66b4cf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +47,7 @@
         }
     ],
     "wof:id":554700259,
-    "wof:lastmodified":1480787583,
+    "wof:lastmodified":1611183184,
     "wof:name":"07885",
     "wof:parent_id":404478317,
     "wof:placetype":"postalcode",

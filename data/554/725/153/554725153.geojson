@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015283,
-    "geom:area_square_m":134455751.957925,
+    "geom:area_square_m":134455751.957839,
     "geom:bbox":"-86.189295,44.575692,-85.884647,44.699818",
     "geom:latitude":44.644087,
     "geom:longitude":-86.032553,
@@ -14,20 +14,22 @@
     "lbl:latitude":44.643232,
     "lbl:longitude":-86.031754,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Beulah",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404506961,
         85633793,
-        102082999
+        102082999,
+        404506961,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779428"
     },
     "wof:country":"US",
-    "wof:geomhash":"bd52c0d8d5add56ec437a4486c09a05b",
+    "wof:geomhash":"42e0d891fbe8c4bd4447deb908ffd696",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554725153,
-    "wof:lastmodified":1480793352,
+    "wof:lastmodified":1611183271,
     "wof:name":"49617",
     "wof:parent_id":404506961,
     "wof:placetype":"postalcode",

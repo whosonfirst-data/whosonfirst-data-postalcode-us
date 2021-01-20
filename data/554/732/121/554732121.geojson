@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.192378,
-    "geom:area_square_m":1630261788.9648,
+    "geom:area_square_m":1630261788.965405,
     "geom:bbox":"-101.26269,46.379745,-100.544136,47.055733",
     "geom:latitude":46.738003,
     "geom:longitude":-100.940238,
@@ -14,20 +14,28 @@
     "lbl:latitude":46.742723,
     "lbl:longitude":-100.9353,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mandan",
+    "mz:postal_locality_alt":[
+        "Hensler",
+        "Fort Rice",
+        "Bismarck",
+        "Huff"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688525,
         102191575,
-        404479523,
         85633793,
-        102082067
+        102082067,
+        404479523,
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12783388"
     },
     "wof:country":"US",
-    "wof:geomhash":"11f72bb39bc34f30665d46f275d9b616",
+    "wof:geomhash":"dfefcee6a415fec314621fbadaf502f7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +47,7 @@
         }
     ],
     "wof:id":554732121,
-    "wof:lastmodified":1480831100,
+    "wof:lastmodified":1611184384,
     "wof:name":"58554",
     "wof:parent_id":404479523,
     "wof:placetype":"postalcode",

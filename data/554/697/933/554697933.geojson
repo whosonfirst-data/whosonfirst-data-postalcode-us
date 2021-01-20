@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017578,
-    "geom:area_square_m":155065234.933073,
+    "geom:area_square_m":155065234.933056,
     "geom:bbox":"-71.660046,44.410141,-71.429752,44.56556",
     "geom:latitude":44.48469,
     "geom:longitude":-71.545149,
@@ -14,20 +14,25 @@
     "lbl:latitude":44.483853,
     "lbl:longitude":-71.545865,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lancaster",
+    "mz:postal_locality_alt":[
+        "Lisbon"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688689,
         102191575,
-        404477003,
         85633793,
-        102085529
+        102085529,
+        404477003,
+        85688689
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759230"
     },
     "wof:country":"US",
-    "wof:geomhash":"e32a62ef0d3d929586c6400555d95b16",
+    "wof:geomhash":"f84c61c2d306a340ad60a4210282e5f8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554697933,
-    "wof:lastmodified":1480905151,
+    "wof:lastmodified":1611184654,
     "wof:name":"03584",
     "wof:parent_id":404477003,
     "wof:placetype":"postalcode",

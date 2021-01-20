@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021292,
-    "geom:area_square_m":215879499.178834,
+    "geom:area_square_m":215879499.178824,
     "geom:bbox":"-89.472181,34.852382,-89.159482,34.993935",
     "geom:latitude":34.917278,
     "geom:longitude":-89.329873,
@@ -14,19 +14,24 @@
     "lbl:latitude":34.928904,
     "lbl:longitude":-89.334667,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lamar",
+    "mz:postal_locality_alt":[
+        "Holly Springs"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688579,
-        102081917
+        102081917,
+        85688579
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12774569"
     },
     "wof:country":"US",
-    "wof:geomhash":"cab9b92fe4317778e048a194588cd00f",
+    "wof:geomhash":"a234e8e13689b8ce3e1c2ddcfd633d83",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554717785,
-    "wof:lastmodified":1480916982,
+    "wof:lastmodified":1611185008,
     "wof:name":"38642",
     "wof:parent_id":102081917,
     "wof:placetype":"postalcode",

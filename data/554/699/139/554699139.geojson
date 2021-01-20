@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008349,
-    "geom:area_square_m":74604664.981761,
+    "geom:area_square_m":74604664.981742,
     "geom:bbox":"-73.053886,43.666132,-72.943029,43.813189",
     "geom:latitude":43.726665,
     "geom:longitude":-72.999635,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.730204,
     "lbl:longitude":-72.99523,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pittsford",
+    "mz:postal_locality_alt":[
+        "North Chittenden"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688763,
         102191575,
-        404527309,
         85633793,
-        102080771
+        102080771,
+        404527309,
+        85688763
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760100"
     },
     "wof:country":"US",
-    "wof:geomhash":"3be8785f5378378285ebbbc676db49b6",
+    "wof:geomhash":"045cfec6793ec26bf9de71327e2648f0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554699139,
-    "wof:lastmodified":1480903939,
+    "wof:lastmodified":1611184620,
     "wof:name":"05763",
     "wof:parent_id":404527309,
     "wof:placetype":"postalcode",

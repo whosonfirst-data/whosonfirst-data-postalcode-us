@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030994,
-    "geom:area_square_m":314376348.21992,
+    "geom:area_square_m":314376348.220048,
     "geom:bbox":"-81.175934,34.784095,-80.865039,34.987421",
     "geom:latitude":34.886705,
     "geom:longitude":-81.020833,
@@ -13,19 +13,24 @@
     "lbl:latitude":34.889889,
     "lbl:longitude":-81.017848,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Rock Hill",
+    "mz:postal_locality_alt":[
+        "Catawba"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688683,
-        102085661
+        102085661,
+        85688683
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770399"
     },
     "wof:country":"US",
-    "wof:geomhash":"b32ea8937d3d24064a359e11e718fb2e",
+    "wof:geomhash":"48842cad2b599aabab86c0171e911dbb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +41,7 @@
         }
     ],
     "wof:id":554712537,
-    "wof:lastmodified":1480814558,
+    "wof:lastmodified":1611183716,
     "wof:name":"29730",
     "wof:parent_id":102085661,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004349,
-    "geom:area_square_m":40653561.859296,
+    "geom:area_square_m":40653561.85933,
     "geom:bbox":"-74.807385,40.843011,-74.707414,40.920823",
     "geom:latitude":40.884999,
     "geom:longitude":-74.751388,
@@ -14,21 +14,27 @@
     "lbl:latitude":40.883935,
     "lbl:longitude":-74.750312,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Budd Lake",
+    "mz:postal_locality_alt":[
+        "Newton",
+        "Flanders"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477661,
         85633793,
+        102087413,
+        404477661,
         85976201,
-        102087413
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760896"
     },
     "wof:country":"US",
-    "wof:geomhash":"f51622dae50381f705fc6b1e18c0a04b",
+    "wof:geomhash":"42f70da8d0621aafdb3f14b62011f10b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554700201,
-    "wof:lastmodified":1480914756,
+    "wof:lastmodified":1611183203,
     "wof:name":"07828",
     "wof:parent_id":85976201,
     "wof:placetype":"postalcode",

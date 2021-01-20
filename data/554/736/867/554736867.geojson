@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02594,
-    "geom:area_square_m":246907178.588231,
+    "geom:area_square_m":246907178.588039,
     "geom:bbox":"-93.027239,39.547027,-92.822508,39.761423",
     "geom:latitude":39.666862,
     "geom:longitude":-92.923604,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.662965,
     "lbl:longitude":-92.917299,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Marceline",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404515473,
         85633793,
-        102087475
+        102087475,
+        404515473,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786202"
     },
     "wof:country":"US",
-    "wof:geomhash":"ca949e31116fbb2180283e3d5952eec0",
+    "wof:geomhash":"586a67cdf14a74f308416836ad712aa5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554736867,
-    "wof:lastmodified":1480913740,
+    "wof:lastmodified":1611183031,
     "wof:name":"64658",
     "wof:parent_id":404515473,
     "wof:placetype":"postalcode",

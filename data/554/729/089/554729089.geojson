@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001832,
-    "geom:area_square_m":16052686.539879,
+    "geom:area_square_m":16052686.539877,
     "geom:bbox":"-93.200744,44.861276,-93.105899,44.888311",
     "geom:latitude":44.872517,
     "geom:longitude":-93.149122,
@@ -13,21 +13,28 @@
     "lbl:latitude":44.874984,
     "lbl:longitude":-93.152093,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Saint Paul",
+    "mz:postal_locality_alt":[
+        "Mendota Heights",
+        "St Paul",
+        "Eagan"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404511979,
         85633793,
+        102087895,
+        404511979,
         85968465,
-        102087895
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781755"
     },
     "wof:country":"US",
-    "wof:geomhash":"2f548eee9cdcea435444dfca66485027",
+    "wof:geomhash":"d6c8b45840da5c6b7a062476457f4c3c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +47,7 @@
         }
     ],
     "wof:id":554729089,
-    "wof:lastmodified":1480789093,
+    "wof:lastmodified":1611185430,
     "wof:name":"55120",
     "wof:parent_id":85968465,
     "wof:placetype":"postalcode",

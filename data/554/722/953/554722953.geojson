@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010155,
-    "geom:area_square_m":94762688.699324,
+    "geom:area_square_m":94762688.699318,
     "geom:bbox":"-85.136554,40.933431,-84.930619,41.047277",
     "geom:latitude":41.004593,
     "geom:longitude":-85.038434,
@@ -13,20 +13,22 @@
     "lbl:latitude":41.000785,
     "lbl:longitude":-85.036179,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fort Wayne",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404501163,
         85633793,
-        102087177
+        102087177,
+        404501163,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777919"
     },
     "wof:country":"US",
-    "wof:geomhash":"e5d62cc00f635b48f6685837f13c604b",
+    "wof:geomhash":"8f85f9c5de289883904b98c8beb12b06",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +40,7 @@
         }
     ],
     "wof:id":554722953,
-    "wof:lastmodified":1480784649,
+    "wof:lastmodified":1611183211,
     "wof:name":"46816",
     "wof:parent_id":404501163,
     "wof:placetype":"postalcode",

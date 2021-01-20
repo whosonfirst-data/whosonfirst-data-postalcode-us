@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008713,
-    "geom:area_square_m":82554558.730685,
+    "geom:area_square_m":82554558.730657,
     "geom:bbox":"-75.735142,39.936389,-75.488613,40.029602",
     "geom:latitude":39.984849,
     "geom:longitude":-75.607186,
@@ -13,20 +13,26 @@
     "lbl:latitude":39.987186,
     "lbl:longitude":-75.603156,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"West Chester",
+    "mz:postal_locality_alt":[
+        "Exton",
+        "Westtown"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485177,
         85633793,
-        102081275
+        102081275,
+        404485177,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765610"
     },
     "wof:country":"US",
-    "wof:geomhash":"d30feea0fc570b9ec69a1d8dc46f170a",
+    "wof:geomhash":"0b8240ac8fc23d76b14c769e7def6ecd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554706427,
-    "wof:lastmodified":1480817364,
+    "wof:lastmodified":1611182709,
     "wof:name":"19380",
     "wof:parent_id":404485177,
     "wof:placetype":"postalcode",

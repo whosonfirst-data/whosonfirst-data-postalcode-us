@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002331,
-    "geom:area_square_m":20857098.928737,
+    "geom:area_square_m":20857098.928715,
     "geom:bbox":"-73.061441,43.610751,-73.000491,43.692382",
     "geom:latitude":43.6525,
     "geom:longitude":-73.035073,
@@ -14,20 +14,22 @@
     "lbl:latitude":43.651666,
     "lbl:longitude":-73.034649,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Proctor",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688763,
         102191575,
-        404527403,
         85633793,
-        102080771
+        102080771,
+        404527403,
+        85688763
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760102"
     },
     "wof:country":"US",
-    "wof:geomhash":"502277062cd668b0c469d4f9db446485",
+    "wof:geomhash":"4c6b16027c45508ba989b8c90d0a5ae3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554699143,
-    "wof:lastmodified":1480903864,
+    "wof:lastmodified":1611184614,
     "wof:name":"05765",
     "wof:parent_id":404527403,
     "wof:placetype":"postalcode",

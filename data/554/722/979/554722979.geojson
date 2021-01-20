@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01485,
-    "geom:area_square_m":139368839.113881,
+    "geom:area_square_m":139368839.113909,
     "geom:bbox":"-86.582426,40.575863,-86.373697,40.692434",
     "geom:latitude":40.622852,
     "geom:longitude":-86.469253,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.626869,
     "lbl:longitude":-86.475047,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Camden",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404500163,
         85633793,
-        102087071
+        102087071,
+        404500163,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777962"
     },
     "wof:country":"US",
-    "wof:geomhash":"ecffa1134072e6b9ab6cd5592123423a",
+    "wof:geomhash":"020eb351edcf6f69edab1c3f22685720",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554722979,
-    "wof:lastmodified":1480789052,
+    "wof:lastmodified":1611183225,
     "wof:name":"46917",
     "wof:parent_id":404500163,
     "wof:placetype":"postalcode",

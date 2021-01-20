@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02484,
-    "geom:area_square_m":250531943.441661,
+    "geom:area_square_m":250531943.44143,
     "geom:bbox":"-86.361967,35.245252,-86.041589,35.45182",
     "geom:latitude":35.346834,
     "geom:longitude":-86.219966,
@@ -14,20 +14,26 @@
     "lbl:latitude":35.343672,
     "lbl:longitude":-86.221295,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Tullahoma",
+    "mz:postal_locality_alt":[
+        "Decatur",
+        "Cleveland"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688701,
         102191575,
         85633793,
+        102087095,
         101722727,
-        102087095
+        85688701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12774002"
     },
     "wof:country":"US",
-    "wof:geomhash":"570a7468271e675d538fb999e26fa2c6",
+    "wof:geomhash":"1f1721f065288952d49d2b99fb262174",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554716837,
-    "wof:lastmodified":1480916896,
+    "wof:lastmodified":1611185393,
     "wof:name":"37388",
     "wof:parent_id":101722727,
     "wof:placetype":"postalcode",

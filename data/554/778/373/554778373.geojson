@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000609,
-    "geom:area_square_m":5572473.605182,
+    "geom:area_square_m":5572473.605183,
     "geom:bbox":"-71.03751,42.25347,-70.995973,42.281243",
     "geom:latitude":42.266504,
     "geom:longitude":-71.016006,
@@ -13,21 +13,27 @@
     "lbl:latitude":42.266415,
     "lbl:longitude":-71.015576,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Quincy",
+    "mz:postal_locality_alt":[
+        "Wollaston",
+        "Boston"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476591,
         85633793,
+        102084403,
+        404476591,
         85950429,
-        102084403
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758755"
     },
     "wof:country":"US",
-    "wof:geomhash":"e03bf721803dc04c4f380e9f6c51b752",
+    "wof:geomhash":"537bdfa6167c8b136f2740392a921d1d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +46,7 @@
         }
     ],
     "wof:id":554778373,
-    "wof:lastmodified":1480799552,
+    "wof:lastmodified":1611183445,
     "wof:name":"02170",
     "wof:parent_id":85950429,
     "wof:placetype":"postalcode",

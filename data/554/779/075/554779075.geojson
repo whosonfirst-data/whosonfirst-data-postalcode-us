@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00575,
-    "geom:area_square_m":53476885.403066,
+    "geom:area_square_m":53476885.403068,
     "geom:bbox":"-73.430102,41.174685,-73.323634,41.274975",
     "geom:latitude":41.228387,
     "geom:longitude":-73.372529,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.227413,
     "lbl:longitude":-73.367061,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Weston",
+    "mz:postal_locality_alt":[
+        "Wilton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688629,
         102191575,
-        404495821,
         85633793,
-        102084283
+        102084283,
+        404495821,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760576"
     },
     "wof:country":"US",
-    "wof:geomhash":"888c66d80146370843d67fa59626f2af",
+    "wof:geomhash":"b742e8dfdefcf8ee3f02056db4333ae3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554779075,
-    "wof:lastmodified":1480799396,
+    "wof:lastmodified":1611183982,
     "wof:name":"06883",
     "wof:parent_id":404495821,
     "wof:placetype":"postalcode",

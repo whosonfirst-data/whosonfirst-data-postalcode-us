@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030099,
-    "geom:area_square_m":284566738.634107,
+    "geom:area_square_m":284566738.634251,
     "geom:bbox":"-87.532018,39.993645,-87.294222,40.254967",
     "geom:latitude":40.129231,
     "geom:longitude":-87.408829,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.134328,
     "lbl:longitude":-87.415241,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Covington",
+    "mz:postal_locality_alt":[
+        "Monticello"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404502073,
         85633793,
-        102087047
+        102087047,
+        404502073,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778461"
     },
     "wof:country":"US",
-    "wof:geomhash":"d0ac19ccb5b5a70d20062fb7c1326069",
+    "wof:geomhash":"7e05a54136c5c1fb4898bc3d8dca95ab",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554723759,
-    "wof:lastmodified":1480913708,
+    "wof:lastmodified":1611183799,
     "wof:name":"47932",
     "wof:parent_id":404502073,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015532,
-    "geom:area_square_m":138348703.750979,
+    "geom:area_square_m":138348703.750988,
     "geom:bbox":"-72.268405,43.812498,-72.09902,43.992127",
     "geom:latitude":43.917175,
     "geom:longitude":-72.19875,
@@ -14,20 +14,27 @@
     "lbl:latitude":43.917789,
     "lbl:longitude":-72.180113,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fairlee",
+    "mz:postal_locality_alt":[
+        "Quechee",
+        "Post Mills",
+        "West Fairlee"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688763,
         102191575,
-        404527173,
         85633793,
-        102087431
+        102087431,
+        404527173,
+        85688763
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759874"
     },
     "wof:country":"US",
-    "wof:geomhash":"c8f910d7904b8ae7f42a0809935ff7a9",
+    "wof:geomhash":"3816660b838b959be770fe86cda1bc0a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554698759,
-    "wof:lastmodified":1480916380,
+    "wof:lastmodified":1611184694,
     "wof:name":"05045",
     "wof:parent_id":404527173,
     "wof:placetype":"postalcode",

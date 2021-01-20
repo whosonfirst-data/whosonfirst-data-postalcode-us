@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00462,
-    "geom:area_square_m":47265232.527269,
+    "geom:area_square_m":47265232.527303,
     "geom:bbox":"-119.00381,34.135933,-118.885435,34.215885",
     "geom:latitude":34.175961,
     "geom:longitude":-118.945104,
@@ -13,20 +13,25 @@
     "lbl:latitude":34.175961,
     "lbl:longitude":-118.945108,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Newbury Park",
+    "mz:postal_locality_alt":[
+        "Thousand Oaks"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086933,
         85923211,
-        102086933
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795973"
     },
     "wof:country":"US",
-    "wof:geomhash":"9a3c9d039ee073a17ad175f1e51a8430",
+    "wof:geomhash":"b49b323790a0f9c8f43a6ea79ecaeece",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554784207,
-    "wof:lastmodified":1480911647,
+    "wof:lastmodified":1611183954,
     "wof:name":"91320",
     "wof:parent_id":85923211,
     "wof:placetype":"postalcode",

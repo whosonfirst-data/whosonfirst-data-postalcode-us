@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017482,
-    "geom:area_square_m":168508919.909271,
+    "geom:area_square_m":168508919.90935,
     "geom:bbox":"-94.16127,38.670962,-94.023598,38.892616",
     "geom:latitude":38.780826,
     "geom:longitude":-94.088739,
@@ -14,20 +14,25 @@
     "lbl:latitude":38.783394,
     "lbl:longitude":-94.084862,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Kingsville",
+    "mz:postal_locality_alt":[
+        "Grain Valley"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404518299,
         85633793,
-        102085307
+        102085307,
+        404518299,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785980"
     },
     "wof:country":"US",
-    "wof:geomhash":"761bdad35bc08dc9de814bb7434c65b6",
+    "wof:geomhash":"a0973cd5f94ad645cf18099556ef7e1d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554736445,
-    "wof:lastmodified":1480905399,
+    "wof:lastmodified":1611183045,
     "wof:name":"64061",
     "wof:parent_id":404518299,
     "wof:placetype":"postalcode",

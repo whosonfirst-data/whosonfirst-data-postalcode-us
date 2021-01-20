@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004066,
-    "geom:area_square_m":38606477.033122,
+    "geom:area_square_m":38606477.033132,
     "geom:bbox":"-85.509087,39.799342,-85.409948,39.872699",
     "geom:latitude":39.832458,
     "geom:longitude":-85.446519,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.832905,
     "lbl:longitude":-85.446008,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Spiceland",
+    "mz:postal_locality_alt":[
+        "Hagerstown"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404500809,
         85633793,
-        102087085
+        102087085,
+        404500809,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778199"
     },
     "wof:country":"US",
-    "wof:geomhash":"43c56a0eefe0ffd3b62469f41339b3bf",
+    "wof:geomhash":"2b1b2e6d98fa9ceb1e93b0c7b1faca7f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554723371,
-    "wof:lastmodified":1480783410,
+    "wof:lastmodified":1611183792,
     "wof:name":"47385",
     "wof:parent_id":404500809,
     "wof:placetype":"postalcode",

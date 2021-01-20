@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013362,
-    "geom:area_square_m":136391590.336168,
+    "geom:area_square_m":136391590.336125,
     "geom:bbox":"-83.570055,34.297596,-83.388819,34.431118",
     "geom:latitude":34.360577,
     "geom:longitude":-83.462284,
@@ -14,19 +14,25 @@
     "lbl:latitude":34.361833,
     "lbl:longitude":-83.455885,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Homer",
+    "mz:postal_locality_alt":[
+        "Hiawassee",
+        "Alto"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688535,
-        102084663
+        102084663,
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770891"
     },
     "wof:country":"US",
-    "wof:geomhash":"6af14b72d04bbb92fefbda26775daa62",
+    "wof:geomhash":"9302028f20c93e106b8e3816939a5973",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554713271,
-    "wof:lastmodified":1480800396,
+    "wof:lastmodified":1611183327,
     "wof:name":"30547",
     "wof:parent_id":102084663,
     "wof:placetype":"postalcode",

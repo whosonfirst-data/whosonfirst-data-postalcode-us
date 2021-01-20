@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007342,
-    "geom:area_square_m":69815571.316575,
+    "geom:area_square_m":69815571.31667,
     "geom:bbox":"-75.04877,39.688723,-74.892901,39.789668",
     "geom:latitude":39.736633,
     "geom:longitude":-74.975463,
@@ -14,20 +14,29 @@
     "lbl:latitude":39.732942,
     "lbl:longitude":-74.976657,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Sicklerville",
+    "mz:postal_locality_alt":[
+        "Blackwood",
+        "Cedar Brook",
+        "Burlington",
+        "Sewell",
+        "Hainesport"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477939,
         85633793,
-        102081131
+        102081131,
+        404477939,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761050"
     },
     "wof:country":"US",
-    "wof:geomhash":"9f015ffcf075961c4fab9df2e4fc46f1",
+    "wof:geomhash":"f0b1cd92e9d914326ac05c15f1e9c41a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +48,7 @@
         }
     ],
     "wof:id":554700439,
-    "wof:lastmodified":1480823436,
+    "wof:lastmodified":1611183183,
     "wof:name":"08081",
     "wof:parent_id":404477939,
     "wof:placetype":"postalcode",

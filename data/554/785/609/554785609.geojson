@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001075,
-    "geom:area_square_m":12328975.363501,
+    "geom:area_square_m":12328975.363563,
     "geom:bbox":"-159.781272,21.957383,-159.691701,22.012111",
     "geom:latitude":21.982261,
     "geom:longitude":-159.739762,
@@ -14,20 +14,22 @@
     "lbl:latitude":21.970965,
     "lbl:longitude":-159.714507,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Kekaha",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688671,
         102191575,
         85633793,
+        102085457,
         85937507,
-        102085457
+        85688671
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12798297"
     },
     "wof:country":"US",
-    "wof:geomhash":"0dbc93122c507038081104c64ca40570",
+    "wof:geomhash":"61ff9778ea87daab0e2bcc59402c81cb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554785609,
-    "wof:lastmodified":1480806194,
+    "wof:lastmodified":1611183514,
     "wof:name":"96752",
     "wof:parent_id":85937507,
     "wof:placetype":"postalcode",

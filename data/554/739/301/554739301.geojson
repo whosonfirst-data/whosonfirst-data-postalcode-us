@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.151452,
-    "geom:area_square_m":1466187270.39936,
+    "geom:area_square_m":1466187270.399099,
     "geom:bbox":"-100.686439,38.262134,-100.244249,38.75189",
     "geom:latitude":38.471882,
     "geom:longitude":-100.431388,
@@ -14,20 +14,25 @@
     "lbl:latitude":38.470501,
     "lbl:longitude":-100.441624,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Dighton",
+    "mz:postal_locality_alt":[
+        "Shields"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404504449,
         85633793,
-        102082693
+        102082693,
+        404504449,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787427"
     },
     "wof:country":"US",
-    "wof:geomhash":"449f7b8fde94e3b588beedb8099521d3",
+    "wof:geomhash":"3ff3cee57e986f87cb4177c857638788",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554739301,
-    "wof:lastmodified":1480840675,
+    "wof:lastmodified":1611182651,
     "wof:name":"67839",
     "wof:parent_id":404504449,
     "wof:placetype":"postalcode",

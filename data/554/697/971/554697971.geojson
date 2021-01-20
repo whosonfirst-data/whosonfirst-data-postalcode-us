@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003661,
-    "geom:area_square_m":32726949.185585,
+    "geom:area_square_m":32726949.185581,
     "geom:bbox":"-72.257426,43.661401,-72.159721,43.746315",
     "geom:latitude":43.707613,
     "geom:longitude":-72.202599,
@@ -14,20 +14,26 @@
     "lbl:latitude":43.721023,
     "lbl:longitude":-72.185207,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Etna",
+    "mz:postal_locality_alt":[
+        "Lebanon",
+        "Hanover"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688689,
         102191575,
-        404477237,
         85633793,
-        102086567
+        102086567,
+        404477237,
+        85688689
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759255"
     },
     "wof:country":"US",
-    "wof:geomhash":"fe1d8bd13ae6cc6d87ba939559e27792",
+    "wof:geomhash":"d0870a1a01ed5c7da678a12c0cbb8839",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554697971,
-    "wof:lastmodified":1480916380,
+    "wof:lastmodified":1611184648,
     "wof:name":"03750",
     "wof:parent_id":404477237,
     "wof:placetype":"postalcode",

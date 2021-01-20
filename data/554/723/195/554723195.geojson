@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009395,
-    "geom:area_square_m":91037652.645597,
+    "geom:area_square_m":91037652.645546,
     "geom:bbox":"-86.165047,38.353049,-86.023319,38.452632",
     "geom:latitude":38.404163,
     "geom:longitude":-86.092747,
@@ -14,20 +14,22 @@
     "lbl:latitude":38.413092,
     "lbl:longitude":-86.095786,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Palmyra",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404500015,
         85633793,
-        102087165
+        102087165,
+        404500015,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778097"
     },
     "wof:country":"US",
-    "wof:geomhash":"33b0ae7987a0f9d0dc35f3f678a315ed",
+    "wof:geomhash":"d4977cc541b48d2af031b75e25766c2e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554723195,
-    "wof:lastmodified":1480917013,
+    "wof:lastmodified":1611183777,
     "wof:name":"47164",
     "wof:parent_id":404500015,
     "wof:placetype":"postalcode",

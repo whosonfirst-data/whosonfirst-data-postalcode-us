@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035553,
-    "geom:area_square_m":332102263.291889,
+    "geom:area_square_m":332102263.291972,
     "geom:bbox":"-77.924142,40.823589,-77.602246,41.090782",
     "geom:latitude":40.937683,
     "geom:longitude":-77.773024,
@@ -14,20 +14,31 @@
     "lbl:latitude":40.939052,
     "lbl:longitude":-77.772647,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bellefonte",
+    "mz:postal_locality_alt":[
+        "Pleasant Gap",
+        "State College",
+        "University Park",
+        "Centre Hall",
+        "Spring Mills",
+        "Milesburg",
+        "Philipsburg"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485735,
         85633793,
-        102081369
+        102081369,
+        404485735,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764461"
     },
     "wof:country":"US",
-    "wof:geomhash":"8cb19c7c0109779aaa5369d299b0e9ad",
+    "wof:geomhash":"cf2c6af42a7eea29650ae63b3e34f1ed",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +50,7 @@
         }
     ],
     "wof:id":554704717,
-    "wof:lastmodified":1480833139,
+    "wof:lastmodified":1611184522,
     "wof:name":"16823",
     "wof:parent_id":404485735,
     "wof:placetype":"postalcode",

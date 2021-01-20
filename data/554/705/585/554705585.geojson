@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005136,
-    "geom:area_square_m":48147874.646031,
+    "geom:area_square_m":48147874.646057,
     "geom:bbox":"-75.313535,40.634404,-75.233354,40.755003",
     "geom:latitude":40.693972,
     "geom:longitude":-75.274258,
@@ -13,21 +13,26 @@
     "lbl:latitude":40.69345,
     "lbl:longitude":-75.272796,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Easton",
+    "mz:postal_locality_alt":[
+        "Palmer"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404486371,
         85633793,
+        102081395,
+        404486371,
         101719941,
-        102081395
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765039"
     },
     "wof:country":"US",
-    "wof:geomhash":"98ea88b708fc66ff277e9b8a81ca1432",
+    "wof:geomhash":"06b31f3f57d2872789f098a02d2c44d8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554705585,
-    "wof:lastmodified":1480832455,
+    "wof:lastmodified":1611184126,
     "wof:name":"18045",
     "wof:parent_id":101719941,
     "wof:placetype":"postalcode",

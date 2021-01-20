@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021778,
-    "geom:area_square_m":206938223.654816,
+    "geom:area_square_m":206938223.654697,
     "geom:bbox":"-95.059135,39.667791,-94.863323,39.901352",
     "geom:latitude":39.785562,
     "geom:longitude":-94.973174,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.787949,
     "lbl:longitude":-94.973367,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wathena",
+    "mz:postal_locality_alt":[
+        "Elwood"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404503525,
         85633793,
-        102082137
+        102082137,
+        404503525,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786766"
     },
     "wof:country":"US",
-    "wof:geomhash":"6b6745a0225f91b3b1c01fe1c01f0d63",
+    "wof:geomhash":"814bd6fc943d8d181aec671a9843c76a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554737969,
-    "wof:lastmodified":1480910352,
+    "wof:lastmodified":1611182848,
     "wof:name":"66090",
     "wof:parent_id":404503525,
     "wof:placetype":"postalcode",

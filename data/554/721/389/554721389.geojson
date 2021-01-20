@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02586,
-    "geom:area_square_m":243292653.872894,
+    "geom:area_square_m":243292653.872676,
     "geom:bbox":"-81.601104,40.37331,-81.304798,40.535883",
     "geom:latitude":40.460461,
     "geom:longitude":-81.452082,
@@ -14,20 +14,27 @@
     "lbl:latitude":40.459991,
     "lbl:longitude":-81.452391,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"New Philadelphia",
+    "mz:postal_locality_alt":[
+        "Walnut Creek",
+        "Midvale",
+        "Berlin"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404526239,
         85633793,
-        102084737
+        102084737,
+        404526239,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776901"
     },
     "wof:country":"US",
-    "wof:geomhash":"b3f26c186ed093c833de4dae089007a6",
+    "wof:geomhash":"8582d4371546437b6e073fe02e746099",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554721389,
-    "wof:lastmodified":1480801594,
+    "wof:lastmodified":1611184978,
     "wof:name":"44663",
     "wof:parent_id":404526239,
     "wof:placetype":"postalcode",

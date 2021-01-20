@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045474,
-    "geom:area_square_m":432892228.14617,
+    "geom:area_square_m":432892228.14621,
     "geom:bbox":"-87.031605,39.544273,-86.7016,39.779634",
     "geom:latitude":39.658343,
     "geom:longitude":-86.89227,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.654571,
     "lbl:longitude":-86.893996,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Greencastle",
+    "mz:postal_locality_alt":[
+        "Putnamville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404501685,
         85633793,
-        102087217
+        102087217,
+        404501685,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777609"
     },
     "wof:country":"US",
-    "wof:geomhash":"95067918bd0ea8ee231b3cbf64126ee9",
+    "wof:geomhash":"c45c3d760486f24b7a99b94b971c00ba",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554722495,
-    "wof:lastmodified":1480916630,
+    "wof:lastmodified":1611183243,
     "wof:name":"46135",
     "wof:parent_id":404501685,
     "wof:placetype":"postalcode",

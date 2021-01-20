@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034819,
-    "geom:area_square_m":299993425.046013,
+    "geom:area_square_m":299993425.045934,
     "geom:bbox":"-91.66342,45.736173,-91.331982,45.92913",
     "geom:latitude":45.830484,
     "geom:longitude":-91.502644,
@@ -14,20 +14,25 @@
     "lbl:latitude":45.836042,
     "lbl:longitude":-91.493513,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Stone Lake",
+    "mz:postal_locality_alt":[
+        "Hayward"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404494201,
         85633793,
-        102081743
+        102081743,
+        404494201,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781585"
     },
     "wof:country":"US",
-    "wof:geomhash":"df86564a402f2a135a8bdd6d6fb5c7f4",
+    "wof:geomhash":"c7a09c2842ee6383dcd0c061e91e63f7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554728767,
-    "wof:lastmodified":1480819921,
+    "wof:lastmodified":1611185074,
     "wof:name":"54876",
     "wof:parent_id":404494201,
     "wof:placetype":"postalcode",

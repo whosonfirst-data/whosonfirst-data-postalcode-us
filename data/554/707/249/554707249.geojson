@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002798,
-    "geom:area_square_m":26764474.773044,
+    "geom:area_square_m":26764474.773052,
     "geom:bbox":"-76.746585,39.289755,-76.682407,39.363045",
     "geom:latitude":39.324296,
     "geom:longitude":-76.720373,
@@ -14,20 +14,27 @@
     "lbl:latitude":39.324167,
     "lbl:longitude":-76.719484,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Gwynn Oak",
+    "mz:postal_locality_alt":[
+        "Baltimore",
+        "Catonsville",
+        "Woodlawn"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688501,
         102191575,
         85633793,
+        102082193,
         85950231,
-        102082193
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766500"
     },
     "wof:country":"US",
-    "wof:geomhash":"6f554019d9045d5bc6ae851f28deabaf",
+    "wof:geomhash":"9a88d00f8c6ed423939ce1270e909c9b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554707249,
-    "wof:lastmodified":1480831125,
+    "wof:lastmodified":1611183160,
     "wof:name":"21207",
     "wof:parent_id":85950231,
     "wof:placetype":"postalcode",

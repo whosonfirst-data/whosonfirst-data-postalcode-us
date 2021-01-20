@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015929,
-    "geom:area_square_m":140453309.679749,
+    "geom:area_square_m":140453309.679757,
     "geom:bbox":"-98.099065,44.412338,-97.893644,44.603008",
     "geom:latitude":44.513187,
     "geom:longitude":-98.003659,
@@ -14,20 +14,22 @@
     "lbl:latitude":44.505721,
     "lbl:longitude":-98.006176,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Yale",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688693,
         102191575,
-        404490003,
         85633793,
-        102086841
+        102086841,
+        404490003,
+        85688693
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782906"
     },
     "wof:country":"US",
-    "wof:geomhash":"53ce3e057c98826475f30506f339a57a",
+    "wof:geomhash":"7c180566a2204d8319000e3a0a17c257",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554731193,
-    "wof:lastmodified":1480912705,
+    "wof:lastmodified":1611183058,
     "wof:name":"57386",
     "wof:parent_id":404490003,
     "wof:placetype":"postalcode",

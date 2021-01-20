@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031069,
-    "geom:area_square_m":292222728.763787,
+    "geom:area_square_m":292222728.763745,
     "geom:bbox":"-105.364511,40.404908,-104.944222,40.595341",
     "geom:latitude":40.478845,
     "geom:longitude":-105.173993,
@@ -13,19 +13,25 @@
     "lbl:latitude":40.457521,
     "lbl:longitude":-105.050761,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Loveland",
+    "mz:postal_locality_alt":[
+        "Windsor",
+        "Fort Collins"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688603,
-        102083353
+        102083353,
+        85688603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12793119"
     },
     "wof:country":"US",
-    "wof:geomhash":"20a189f8d7a24d3295690817374a6ab5",
+    "wof:geomhash":"427fc281756b27ef680588dd7da8e720",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +42,7 @@
         }
     ],
     "wof:id":554748211,
-    "wof:lastmodified":1480913969,
+    "wof:lastmodified":1611183823,
     "wof:name":"80538",
     "wof:parent_id":102083353,
     "wof:placetype":"postalcode",

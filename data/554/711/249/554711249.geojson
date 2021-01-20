@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009998,
-    "geom:area_square_m":101034810.725819,
+    "geom:area_square_m":101034810.725771,
     "geom:bbox":"-80.745542,35.130218,-80.555394,35.236915",
     "geom:latitude":35.186146,
     "geom:longitude":-80.651312,
@@ -13,20 +13,25 @@
     "lbl:latitude":35.189567,
     "lbl:longitude":-80.645408,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Charlotte",
+    "mz:postal_locality_alt":[
+        "Mint Hill"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688773,
         102191575,
         85633793,
+        102080981,
         85981325,
-        102080981
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12769490"
     },
     "wof:country":"US",
-    "wof:geomhash":"8837f30d4077c9add1f3890c94348bf9",
+    "wof:geomhash":"8d9108fb0f37c0ccc737661a6417f136",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554711249,
-    "wof:lastmodified":1480906988,
+    "wof:lastmodified":1611185333,
     "wof:name":"28227",
     "wof:parent_id":85981325,
     "wof:placetype":"postalcode",

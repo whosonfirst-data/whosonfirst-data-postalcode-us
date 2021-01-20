@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003623,
-    "geom:area_square_m":34338366.03733,
+    "geom:area_square_m":34338366.037333,
     "geom:bbox":"-85.143139,39.917374,-85.053057,40.004519",
     "geom:latitude":39.962634,
     "geom:longitude":-85.094933,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.938777,
     "lbl:longitude":-85.079129,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Economy",
+    "mz:postal_locality_alt":[
+        "Centerville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404501963,
         85633793,
-        102086979
+        102086979,
+        404501963,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778165"
     },
     "wof:country":"US",
-    "wof:geomhash":"0304f6810e434526732f5bae58df89f1",
+    "wof:geomhash":"2479e92bd4a6b31a3b156f420abd5782",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554723311,
-    "wof:lastmodified":1480916346,
+    "wof:lastmodified":1611183810,
     "wof:name":"47339",
     "wof:parent_id":404501963,
     "wof:placetype":"postalcode",

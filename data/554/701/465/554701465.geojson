@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001048,
-    "geom:area_square_m":9650289.275177,
+    "geom:area_square_m":9650289.275158,
     "geom:bbox":"-74.110537,41.823459,-74.037548,41.876426",
     "geom:latitude":41.846038,
     "geom:longitude":-74.078755,
@@ -14,21 +14,26 @@
     "lbl:latitude":41.84709,
     "lbl:longitude":-74.079544,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Rosendale",
+    "mz:postal_locality_alt":[
+        "Windham"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404523267,
         85633793,
+        102081775,
+        404523267,
         85978973,
-        102081775
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762302"
     },
     "wof:country":"US",
-    "wof:geomhash":"d7ede7e2d1a39350db87e38080d62cb1",
+    "wof:geomhash":"7002d789741242ba739bc0e7134100ab",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554701465,
-    "wof:lastmodified":1480819672,
+    "wof:lastmodified":1611182624,
     "wof:name":"12472",
     "wof:parent_id":85978973,
     "wof:placetype":"postalcode",

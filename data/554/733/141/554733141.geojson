@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00186,
-    "geom:area_square_m":17072280.051258,
+    "geom:area_square_m":17072280.051298,
     "geom:bbox":"-88.026722,42.019444,-87.943197,42.098476",
     "geom:latitude":42.063845,
     "geom:longitude":-87.985564,
@@ -13,21 +13,27 @@
     "lbl:latitude":42.06449,
     "lbl:longitude":-87.985461,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Arlington Heights",
+    "mz:postal_locality_alt":[
+        "Arlington Hts",
+        "Cary"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404497663,
         85633793,
+        102084317,
+        404497663,
         85938421,
-        102084317
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12783935"
     },
     "wof:country":"US",
-    "wof:geomhash":"48f6fe3e73dce690bf6e2298f9d2445b",
+    "wof:geomhash":"a1fa88e11547dad0d06e57044efbea84",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +46,7 @@
         }
     ],
     "wof:id":554733141,
-    "wof:lastmodified":1480802045,
+    "wof:lastmodified":1611184248,
     "wof:name":"60005",
     "wof:parent_id":85938421,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.050012,
-    "geom:area_square_m":435079826.257752,
+    "geom:area_square_m":435079826.257558,
     "geom:bbox":"-89.367736,45.162783,-88.926483,45.380663",
     "geom:latitude":45.287763,
     "geom:longitude":-89.18111,
@@ -14,20 +14,25 @@
     "lbl:latitude":45.286659,
     "lbl:longitude":-89.192153,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Deerbrook",
+    "mz:postal_locality_alt":[
+        "Summit Lake"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404493433,
         85633793,
-        102081751
+        102081751,
+        404493433,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781301"
     },
     "wof:country":"US",
-    "wof:geomhash":"0c7407d6772f5ff5e76356386c21abbf",
+    "wof:geomhash":"1038cb48ed19bff4ae0b281dfbf920be",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554728253,
-    "wof:lastmodified":1480817008,
+    "wof:lastmodified":1611185087,
     "wof:name":"54424",
     "wof:parent_id":404493433,
     "wof:placetype":"postalcode",

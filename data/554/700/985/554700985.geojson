@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001164,
-    "geom:area_square_m":10851450.483972,
+    "geom:area_square_m":10851450.484019,
     "geom:bbox":"-73.950542,41.039672,-73.905986,41.13509",
     "geom:latitude":41.091831,
     "geom:longitude":-73.925797,
@@ -14,21 +14,26 @@
     "lbl:latitude":41.091826,
     "lbl:longitude":-73.925798,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Nyack",
+    "mz:postal_locality_alt":[
+        "Tallman"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404523095,
         85633793,
+        102082385,
+        404523095,
         85978535,
-        102082385
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761655"
     },
     "wof:country":"US",
-    "wof:geomhash":"06fc835860bc6ecd2c01d84034993c93",
+    "wof:geomhash":"5d941d1f3a65dfe444507fe06c3dea73",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554700985,
-    "wof:lastmodified":1480792639,
+    "wof:lastmodified":1611183191,
     "wof:name":"10960",
     "wof:parent_id":85978535,
     "wof:placetype":"postalcode",

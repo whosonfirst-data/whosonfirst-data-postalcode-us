@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016468,
-    "geom:area_square_m":147128242.944888,
+    "geom:area_square_m":147128242.944932,
     "geom:bbox":"-75.986088,43.688884,-75.774553,43.791862",
     "geom:latitude":43.738259,
     "geom:longitude":-75.871199,
@@ -14,20 +14,22 @@
     "lbl:latitude":43.738005,
     "lbl:longitude":-75.86338,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lorraine",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404521207,
         85633793,
-        102082357
+        102082357,
+        404521207,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762922"
     },
     "wof:country":"US",
-    "wof:geomhash":"de6bc477d6937d377b99a790def59e66",
+    "wof:geomhash":"85d7e46ff8e6fe26d1a9360686b980d5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554702497,
-    "wof:lastmodified":1480832039,
+    "wof:lastmodified":1611184143,
     "wof:name":"13659",
     "wof:parent_id":404521207,
     "wof:placetype":"postalcode",

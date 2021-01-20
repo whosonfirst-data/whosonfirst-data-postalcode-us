@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011015,
-    "geom:area_square_m":121505180.452607,
+    "geom:area_square_m":121505180.452501,
     "geom:bbox":"-80.29133,26.779158,-80.103575,26.928373",
     "geom:latitude":26.860772,
     "geom:longitude":-80.166926,
@@ -13,20 +13,28 @@
     "lbl:latitude":26.872712,
     "lbl:longitude":-80.165712,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Palm Beach Gardens",
+    "mz:postal_locality_alt":[
+        "Palm Beach Gdns",
+        "West Palm Beach",
+        "Jupiter",
+        "Riviera Beach"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688651,
         102191575,
         85633793,
+        102085845,
         85931967,
-        102085845
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12772291"
     },
     "wof:country":"US",
-    "wof:geomhash":"9ca72307222042259b5cc52c066ed007",
+    "wof:geomhash":"1b798d8bfb9d4c092a74771264af4521",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +46,7 @@
         }
     ],
     "wof:id":554781739,
-    "wof:lastmodified":1480803998,
+    "wof:lastmodified":1611184808,
     "wof:name":"33418",
     "wof:parent_id":85931967,
     "wof:placetype":"postalcode",

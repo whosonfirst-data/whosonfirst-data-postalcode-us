@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010819,
-    "geom:area_square_m":100803844.276666,
+    "geom:area_square_m":100803844.276701,
     "geom:bbox":"-76.897919,41.050031,-76.718675,41.163888",
     "geom:latitude":41.103107,
     "geom:longitude":-76.825469,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.106517,
     "lbl:longitude":-76.821696,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Watsontown",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404486115,
         85633793,
-        102081349
+        102081349,
+        404486115,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764896"
     },
     "wof:country":"US",
-    "wof:geomhash":"95e81180c842f31cec0b97a79e48ea85",
+    "wof:geomhash":"56fe34389f03b2745b4c9579cba4c85d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554705375,
-    "wof:lastmodified":1480903972,
+    "wof:lastmodified":1611184130,
     "wof:name":"17777",
     "wof:parent_id":404486115,
     "wof:placetype":"postalcode",

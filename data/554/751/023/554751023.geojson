@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001505,
-    "geom:area_square_m":15226104.626371,
+    "geom:area_square_m":15226104.62637,
     "geom:bbox":"-106.604559,35.051247,-106.55036,35.08748",
     "geom:latitude":35.072479,
     "geom:longitude":-106.578362,
@@ -13,20 +13,25 @@
     "lbl:latitude":35.072479,
     "lbl:longitude":-106.578362,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Albuquerque",
+    "mz:postal_locality_alt":[
+        "Kirtland Afb"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688493,
         102191575,
         85633793,
+        102081199,
         85976715,
-        102081199
+        85688493
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12794956"
     },
     "wof:country":"US",
-    "wof:geomhash":"885ce6ab2b556df8b9ee9a844178b2f6",
+    "wof:geomhash":"6cbe8a95abb0a1eb58e0f44f60ce1ce8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554751023,
-    "wof:lastmodified":1480833431,
+    "wof:lastmodified":1611184328,
     "wof:name":"87108",
     "wof:parent_id":85976715,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043418,
-    "geom:area_square_m":408006089.924976,
+    "geom:area_square_m":408006089.925188,
     "geom:bbox":"-82.059491,40.41132,-81.66522,40.637466",
     "geom:latitude":40.539108,
     "geom:longitude":-81.870814,
@@ -14,20 +14,28 @@
     "lbl:latitude":40.537937,
     "lbl:longitude":-81.870867,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Millersburg",
+    "mz:postal_locality_alt":[
+        "Berlin",
+        "Walnut Creek",
+        "Charm",
+        "Winesburg"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404526443,
         85633793,
-        102083651
+        102083651,
+        404526443,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776894"
     },
     "wof:country":"US",
-    "wof:geomhash":"5b056dc6439097129dced136c87b0053",
+    "wof:geomhash":"427ba6e0ef908db652df29f6ec091f0d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +47,7 @@
         }
     ],
     "wof:id":554721379,
-    "wof:lastmodified":1480837435,
+    "wof:lastmodified":1611184958,
     "wof:name":"44654",
     "wof:parent_id":404526443,
     "wof:placetype":"postalcode",

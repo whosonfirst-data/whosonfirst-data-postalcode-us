@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007914,
-    "geom:area_square_m":85994279.520342,
+    "geom:area_square_m":85994279.520331,
     "geom:bbox":"-82.687181,28.433456,-82.571327,28.577962",
     "geom:latitude":28.500152,
     "geom:longitude":-82.639236,
@@ -13,19 +13,25 @@
     "lbl:latitude":28.486761,
     "lbl:longitude":-82.633021,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Spring Hill",
+    "mz:postal_locality_alt":[
+        "Hernando Beach",
+        "Weeki Wachee"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688651,
-        102085827
+        102085827,
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12772789"
     },
     "wof:country":"US",
-    "wof:geomhash":"0cdf3db3000dac30531b106117215ac4",
+    "wof:geomhash":"3c78acdb8de1625fdbf21fcb393c2224",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +42,7 @@
         }
     ],
     "wof:id":554782135,
-    "wof:lastmodified":1480814939,
+    "wof:lastmodified":1611183599,
     "wof:name":"34607",
     "wof:parent_id":102085827,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013331,
-    "geom:area_square_m":122803875.304929,
+    "geom:area_square_m":122803875.304967,
     "geom:bbox":"-71.300719,41.774801,-71.186788,41.912244",
     "geom:latitude":41.84394,
     "geom:longitude":-71.245579,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.846878,
     "lbl:longitude":-71.24487,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Rehoboth",
+    "mz:postal_locality_alt":[
+        "Fall River"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404475933,
         85633793,
-        102084407
+        102084407,
+        404475933,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758976"
     },
     "wof:country":"US",
-    "wof:geomhash":"7b5b5b6dc8e8a910d1336884d072d403",
+    "wof:geomhash":"132a34f246b1559a90c43d23f844c2a1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554697553,
-    "wof:lastmodified":1480800673,
+    "wof:lastmodified":1611184654,
     "wof:name":"02769",
     "wof:parent_id":404475933,
     "wof:placetype":"postalcode",

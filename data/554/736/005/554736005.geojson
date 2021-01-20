@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043946,
-    "geom:area_square_m":417498006.644636,
+    "geom:area_square_m":417498006.644386,
     "geom:bbox":"-91.705526,39.685328,-91.361571,39.911791",
     "geom:latitude":39.797989,
     "geom:longitude":-91.55761,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.790536,
     "lbl:longitude":-91.568855,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Palmyra",
+    "mz:postal_locality_alt":[
+        "Hannibal"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404516819,
         85633793,
-        102086171
+        102086171,
+        404516819,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785735"
     },
     "wof:country":"US",
-    "wof:geomhash":"9d9820428d7e004e095cdc9771a01eab",
+    "wof:geomhash":"41d163bc72f1eef2b8a3ca29661a168f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554736005,
-    "wof:lastmodified":1480912374,
+    "wof:lastmodified":1611183049,
     "wof:name":"63461",
     "wof:parent_id":404516819,
     "wof:placetype":"postalcode",

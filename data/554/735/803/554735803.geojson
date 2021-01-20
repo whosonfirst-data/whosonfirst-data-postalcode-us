@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001708,
-    "geom:area_square_m":16521805.663327,
+    "geom:area_square_m":16521805.663374,
     "geom:bbox":"-90.435748,38.504551,-90.380811,38.561725",
     "geom:latitude":38.533249,
     "geom:longitude":-90.413486,
@@ -13,21 +13,27 @@
     "lbl:latitude":38.534494,
     "lbl:longitude":-90.417387,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"St Louis",
+    "mz:postal_locality_alt":[
+        "Saint Louis",
+        "Sappington"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404517469,
         85633793,
+        102086173,
+        404517469,
         85972217,
-        102086173
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785612"
     },
     "wof:country":"US",
-    "wof:geomhash":"f31ee0b45c92bde9c7603d250c7bf7d1",
+    "wof:geomhash":"002e6a2a7c5d151aadf7695f1193abe0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +46,7 @@
         }
     ],
     "wof:id":554735803,
-    "wof:lastmodified":1480914495,
+    "wof:lastmodified":1611184420,
     "wof:name":"63127",
     "wof:parent_id":85972217,
     "wof:placetype":"postalcode",

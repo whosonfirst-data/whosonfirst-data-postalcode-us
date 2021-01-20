@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001406,
-    "geom:area_square_m":13164270.089663,
+    "geom:area_square_m":13164270.089658,
     "geom:bbox":"-72.818963,40.776706,-72.764018,40.824713",
     "geom:latitude":40.80007,
     "geom:longitude":-72.793609,
@@ -14,21 +14,26 @@
     "lbl:latitude":40.798359,
     "lbl:longitude":-72.794297,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Center Moriches",
+    "mz:postal_locality_alt":[
+        "Amagansett"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404521441,
         85633793,
+        102082395,
+        404521441,
         85979939,
-        102082395
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761995"
     },
     "wof:country":"US",
-    "wof:geomhash":"7792c31a5902c1672418cc8144d3605e",
+    "wof:geomhash":"007703cedc0939c7893f993760fd0220",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554779999,
-    "wof:lastmodified":1480794860,
+    "wof:lastmodified":1611183965,
     "wof:name":"11934",
     "wof:parent_id":85979939,
     "wof:placetype":"postalcode",

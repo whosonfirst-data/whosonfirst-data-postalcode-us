@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009418,
-    "geom:area_square_m":86688849.921192,
+    "geom:area_square_m":86688849.921234,
     "geom:bbox":"-72.311998,41.835184,-72.216306,41.958292",
     "geom:latitude":41.889554,
     "geom:longitude":-72.25934,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.897267,
     "lbl:longitude":-72.251848,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"West Willington",
+    "mz:postal_locality_alt":[
+        "Willington"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688629,
         102191575,
-        404495911,
         85633793,
-        102085379
+        102085379,
+        404495911,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760331"
     },
     "wof:country":"US",
-    "wof:geomhash":"2e09ecaac420a318dfc4f965779d58ce",
+    "wof:geomhash":"8130f80be2bf10324d211aef59a2de2b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554699479,
-    "wof:lastmodified":1480814286,
+    "wof:lastmodified":1611184606,
     "wof:name":"06279",
     "wof:parent_id":404495911,
     "wof:placetype":"postalcode",

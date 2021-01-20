@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019964,
-    "geom:area_square_m":206453188.529981,
+    "geom:area_square_m":206453188.529936,
     "geom:bbox":"-96.767702,33.188078,-96.473155,33.319615",
     "geom:latitude":33.246645,
     "geom:longitude":-96.629046,
@@ -13,20 +13,26 @@
     "lbl:latitude":33.245817,
     "lbl:longitude":-96.63072,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mc Kinney",
+    "mz:postal_locality_alt":[
+        "Mckinney",
+        "McKinney"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102086765,
         101726035,
-        102086765
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"23424643"
     },
     "wof:country":"US",
-    "wof:geomhash":"9dc04ae6babc0d093cf8ce8484feb75a",
+    "wof:geomhash":"629969cf351da22b4f73fbd872b59ea4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554756569,
-    "wof:lastmodified":1480911654,
+    "wof:lastmodified":1611184268,
     "wof:name":"75071",
     "wof:parent_id":101726035,
     "wof:placetype":"postalcode",

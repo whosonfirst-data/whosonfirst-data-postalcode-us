@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009415,
-    "geom:area_square_m":91654254.100523,
+    "geom:area_square_m":91654254.100485,
     "geom:bbox":"-87.015917,38.015712,-86.847962,38.114817",
     "geom:latitude":38.064619,
     "geom:longitude":-86.926352,
@@ -14,20 +14,22 @@
     "lbl:latitude":38.067186,
     "lbl:longitude":-86.921311,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lamar",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404500327,
         85633793,
-        102087069
+        102087069,
+        404500327,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778285"
     },
     "wof:country":"US",
-    "wof:geomhash":"83f722b3bde91250a8fdb5b986e08769",
+    "wof:geomhash":"468014ef3e5fc44706179b57728eed32",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554723513,
-    "wof:lastmodified":1480785296,
+    "wof:lastmodified":1611183811,
     "wof:name":"47550",
     "wof:parent_id":404500327,
     "wof:placetype":"postalcode",

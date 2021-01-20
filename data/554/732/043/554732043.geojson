@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040323,
-    "geom:area_square_m":340338921.621971,
+    "geom:area_square_m":340338921.621964,
     "geom:bbox":"-98.404255,46.776425,-98.12901,47.095636",
     "geom:latitude":46.953204,
     "geom:longitude":-98.260489,
@@ -14,20 +14,22 @@
     "lbl:latitude":46.957653,
     "lbl:longitude":-98.259449,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Sanborn",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688525,
         102191575,
-        404480091,
         85633793,
-        102082051
+        102082051,
+        404480091,
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12783347"
     },
     "wof:country":"US",
-    "wof:geomhash":"5fa7b221567ca8092219221fdcc2702f",
+    "wof:geomhash":"2224bd0047afed875102eac350c49875",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554732043,
-    "wof:lastmodified":1480796038,
+    "wof:lastmodified":1611184396,
     "wof:name":"58480",
     "wof:parent_id":404480091,
     "wof:placetype":"postalcode",

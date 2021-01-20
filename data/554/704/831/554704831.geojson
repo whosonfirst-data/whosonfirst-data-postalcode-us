@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027381,
-    "geom:area_square_m":252323021.422386,
+    "geom:area_square_m":252323021.422552,
     "geom:bbox":"-77.227492,41.723964,-76.922956,41.912028",
     "geom:latitude":41.819062,
     "geom:longitude":-77.06669,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.819424,
     "lbl:longitude":-77.062502,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mansfield",
+    "mz:postal_locality_alt":[
+        "Wellsboro"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404487457,
         85633793,
-        102080937
+        102080937,
+        404487457,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764531"
     },
     "wof:country":"US",
-    "wof:geomhash":"6ee2d80b27f077c06ac8251769ad6ea2",
+    "wof:geomhash":"eafdc0e20f977c520a10d6e008b69bf2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554704831,
-    "wof:lastmodified":1480904321,
+    "wof:lastmodified":1611184515,
     "wof:name":"16933",
     "wof:parent_id":404487457,
     "wof:placetype":"postalcode",

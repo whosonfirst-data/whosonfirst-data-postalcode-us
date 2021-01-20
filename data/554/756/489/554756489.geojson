@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001002,
-    "geom:area_square_m":9346304.257394,
+    "geom:area_square_m":9346304.257396,
     "geom:bbox":"-74.084861,41.010297,-74.025496,41.049413",
     "geom:latitude":41.025385,
     "geom:longitude":-74.060311,
@@ -14,21 +14,26 @@
     "lbl:latitude":41.025977,
     "lbl:longitude":-74.061061,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Woodcliff Lake",
+    "mz:postal_locality_alt":[
+        "Westwood"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477749,
         85633793,
+        102086773,
+        404477749,
         85975885,
-        102086773
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"23424567"
     },
     "wof:country":"US",
-    "wof:geomhash":"7476c27d0f3b152054620358dbc37cfb",
+    "wof:geomhash":"1606d42be503882d77d137cf248388a8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554756489,
-    "wof:lastmodified":1480908560,
+    "wof:lastmodified":1611184302,
     "wof:name":"07677",
     "wof:parent_id":85975885,
     "wof:placetype":"postalcode",

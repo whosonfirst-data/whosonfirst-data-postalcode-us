@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004867,
-    "geom:area_square_m":45924230.562467,
+    "geom:area_square_m":45924230.562512,
     "geom:bbox":"-74.585488,40.206915,-74.481202,40.301054",
     "geom:latitude":40.255138,
     "geom:longitude":-74.531402,
@@ -14,20 +14,31 @@
     "lbl:latitude":40.255265,
     "lbl:longitude":-74.530078,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hightstown",
+    "mz:postal_locality_alt":[
+        "East Windsor",
+        "Windsor",
+        "Jackson",
+        "Princeton",
+        "Cranbury",
+        "Bordentown",
+        "Lambertville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478247,
         85633793,
-        102081129
+        102081129,
+        404478247,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761168"
     },
     "wof:country":"US",
-    "wof:geomhash":"fcbcdc56d6c43d73b755c4de19f77e81",
+    "wof:geomhash":"0630d70843d17e002eee36f3ab47170f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +50,7 @@
         }
     ],
     "wof:id":554700579,
-    "wof:lastmodified":1480831096,
+    "wof:lastmodified":1611183208,
     "wof:name":"08520",
     "wof:parent_id":404478247,
     "wof:placetype":"postalcode",

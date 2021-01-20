@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005805,
-    "geom:area_square_m":55102448.118327,
+    "geom:area_square_m":55102448.118365,
     "geom:bbox":"-75.676242,39.817195,-75.521983,39.899436",
     "geom:latitude":39.857882,
     "geom:longitude":-75.601724,
@@ -14,20 +14,27 @@
     "lbl:latitude":39.8608,
     "lbl:longitude":-75.599381,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Chadds Ford",
+    "mz:postal_locality_alt":[
+        "Kennett Square",
+        "Concordville",
+        "Mendenhall"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485139,
         85633793,
-        102081275
+        102081275,
+        404485139,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765572"
     },
     "wof:country":"US",
-    "wof:geomhash":"96e586029cb42777c9daffcbf0ca50e8",
+    "wof:geomhash":"5f7c73f6f5a07583316cadd62084f4aa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554757099,
-    "wof:lastmodified":1480906379,
+    "wof:lastmodified":1611184577,
     "wof:name":"19317",
     "wof:parent_id":404485139,
     "wof:placetype":"postalcode",

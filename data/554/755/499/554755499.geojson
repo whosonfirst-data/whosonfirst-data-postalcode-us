@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002233,
-    "geom:area_square_m":18672256.783934,
+    "geom:area_square_m":18672256.783954,
     "geom:bbox":"-122.387382,47.408421,-122.333129,47.481278",
     "geom:latitude":47.451104,
     "geom:longitude":-122.353019,
@@ -13,20 +13,26 @@
     "lbl:latitude":47.451576,
     "lbl:longitude":-122.352986,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Burien",
+    "mz:postal_locality_alt":[
+        "Seattle",
+        "Normandy Park"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688623,
         102191575,
         85633793,
+        102086191,
         101730415,
-        102086191
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12798989"
     },
     "wof:country":"US",
-    "wof:geomhash":"11d87e6ed088973a79c8106a6c7e5fad",
+    "wof:geomhash":"6f1ce83712e7d52623369ad4a0175fe2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554755499,
-    "wof:lastmodified":1480915587,
+    "wof:lastmodified":1611182575,
     "wof:name":"98166",
     "wof:parent_id":101730415,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002488,
-    "geom:area_square_m":23576765.666647,
+    "geom:area_square_m":23576765.66662,
     "geom:bbox":"-82.918701,39.943567,-82.812517,39.994821",
     "geom:latitude":39.968959,
     "geom:longitude":-82.867434,
@@ -13,21 +13,26 @@
     "lbl:latitude":39.96687,
     "lbl:longitude":-82.862134,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Columbus",
+    "mz:postal_locality_alt":[
+        "Whitehall"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404524657,
         85633793,
+        102080969,
+        404524657,
         101712433,
-        102080969
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776206"
     },
     "wof:country":"US",
-    "wof:geomhash":"0fef4088b95ee9de4c72959c89c50789",
+    "wof:geomhash":"0d0e2d2d73a3e74236f5eea69e84b908",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554720411,
-    "wof:lastmodified":1480903871,
+    "wof:lastmodified":1611185476,
     "wof:name":"43213",
     "wof:parent_id":101712433,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008709,
-    "geom:area_square_m":94738163.649655,
+    "geom:area_square_m":94738163.649724,
     "geom:bbox":"-82.726638,28.328809,-82.577281,28.43391",
     "geom:latitude":28.39169,
     "geom:longitude":-82.661602,
@@ -13,19 +13,25 @@
     "lbl:latitude":28.39142,
     "lbl:longitude":-82.662783,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hudson",
+    "mz:postal_locality_alt":[
+        "Port Richey",
+        "Bayonet Point"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688651,
-        102085789
+        102085789,
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12772805"
     },
     "wof:country":"US",
-    "wof:geomhash":"d906147cc290fd7ee8310956f8dc8f70",
+    "wof:geomhash":"a356f6432c2847343a9d78e488136902",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +42,7 @@
         }
     ],
     "wof:id":554782151,
-    "wof:lastmodified":1480814937,
+    "wof:lastmodified":1611183603,
     "wof:name":"34667",
     "wof:parent_id":102085789,
     "wof:placetype":"postalcode",

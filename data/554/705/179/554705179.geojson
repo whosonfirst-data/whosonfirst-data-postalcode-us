@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011948,
-    "geom:area_square_m":113354054.734524,
+    "geom:area_square_m":113354054.734654,
     "geom:bbox":"-77.158054,39.823508,-77.006255,39.948532",
     "geom:latitude":39.88902,
     "geom:longitude":-77.079909,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.890088,
     "lbl:longitude":-77.079399,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"New Oxford",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404484913,
         85633793,
-        102080899
+        102080899,
+        404484913,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764756"
     },
     "wof:country":"US",
-    "wof:geomhash":"665b999c725f446ecd9d488ab9527e43",
+    "wof:geomhash":"cbdc12e7e956ea7d26981ed2bd8e8702",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554705179,
-    "wof:lastmodified":1480903179,
+    "wof:lastmodified":1611184128,
     "wof:name":"17350",
     "wof:parent_id":404484913,
     "wof:placetype":"postalcode",

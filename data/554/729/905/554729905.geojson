@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01184,
-    "geom:area_square_m":106134612.127349,
+    "geom:area_square_m":106134612.127363,
     "geom:bbox":"-94.714289,43.500354,-94.492487,43.587847",
     "geom:latitude":43.537823,
     "geom:longitude":-94.611164,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.534615,
     "lbl:longitude":-94.584233,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ceylon",
+    "mz:postal_locality_alt":[
+        "Steen"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404509985,
         85633793,
-        102087019
+        102087019,
+        404509985,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782262"
     },
     "wof:country":"US",
-    "wof:geomhash":"3862e384682f5aa9c5fd6946dfca7844",
+    "wof:geomhash":"42a48ddf6980bb477d2b04fcbe7b52be",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554729905,
-    "wof:lastmodified":1480916772,
+    "wof:lastmodified":1611185428,
     "wof:name":"56121",
     "wof:parent_id":404509985,
     "wof:placetype":"postalcode",

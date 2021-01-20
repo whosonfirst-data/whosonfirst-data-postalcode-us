@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010491,
-    "geom:area_square_m":100941827.515586,
+    "geom:area_square_m":100941827.515578,
     "geom:bbox":"-94.409139,38.849321,-94.190979,38.962251",
     "geom:latitude":38.907862,
     "geom:longitude":-94.287574,
@@ -14,21 +14,26 @@
     "lbl:latitude":38.899171,
     "lbl:longitude":-94.272385,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lees Summit",
+    "mz:postal_locality_alt":[
+        "Lake Lotawana"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404518079,
         85633793,
+        102081227,
+        404518079,
         85971461,
-        102081227
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786005"
     },
     "wof:country":"US",
-    "wof:geomhash":"ef66db891b9e671339b2384ae9c2c294",
+    "wof:geomhash":"c0ff7e98f0cd6f06c73b225826786d52",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554736491,
-    "wof:lastmodified":1480816989,
+    "wof:lastmodified":1611183031,
     "wof:name":"64086",
     "wof:parent_id":85971461,
     "wof:placetype":"postalcode",

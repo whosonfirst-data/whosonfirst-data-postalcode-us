@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024904,
-    "geom:area_square_m":264452616.991214,
+    "geom:area_square_m":264452616.991546,
     "geom:bbox":"-81.654268,30.708651,-81.398271,31.000244",
     "geom:latitude":30.822425,
     "geom:longitude":-81.500901,
@@ -14,19 +14,25 @@
     "lbl:latitude":30.899344,
     "lbl:longitude":-81.427587,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"St Marys",
+    "mz:postal_locality_alt":[
+        "Saint Marys",
+        "Alma"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688535,
-        102081693
+        102081693,
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12771268"
     },
     "wof:country":"US",
-    "wof:geomhash":"820c63f7731c7c980ef655eccb607f09",
+    "wof:geomhash":"bfb318f295f1721d088acf61d59d7c52",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554781169,
-    "wof:lastmodified":1480832862,
+    "wof:lastmodified":1611184810,
     "wof:name":"31558",
     "wof:parent_id":102081693,
     "wof:placetype":"postalcode",

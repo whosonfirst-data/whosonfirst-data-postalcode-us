@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035193,
-    "geom:area_square_m":334200845.103462,
+    "geom:area_square_m":334200845.103163,
     "geom:bbox":"-77.375023,39.719844,-77.082361,39.962415",
     "geom:latitude":39.827838,
     "geom:longitude":-77.226768,
@@ -14,21 +14,27 @@
     "lbl:latitude":39.826258,
     "lbl:longitude":-77.227606,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Gettysburg",
+    "mz:postal_locality_alt":[
+        "New Freedom",
+        "Mt Wolf"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404482793,
         85633793,
+        102080899,
+        404482793,
         101718863,
-        102080899
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764739"
     },
     "wof:country":"US",
-    "wof:geomhash":"4582d347754b7e55c4213050b4635b88",
+    "wof:geomhash":"0aee9f9e77efb2323d9740480eddf043",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554705157,
-    "wof:lastmodified":1480903179,
+    "wof:lastmodified":1611184092,
     "wof:name":"17325",
     "wof:parent_id":101718863,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002034,
-    "geom:area_square_m":19524586.869484,
+    "geom:area_square_m":19524586.869525,
     "geom:bbox":"-84.561279,39.035511,-84.497594,39.09772",
     "geom:latitude":39.068067,
     "geom:longitude":-84.529508,
@@ -13,20 +13,27 @@
     "lbl:latitude":39.067114,
     "lbl:longitude":-84.532685,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Covington",
+    "mz:postal_locality_alt":[
+        "Fort Wright",
+        "Park Hills",
+        "Fort Mitchell"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688641,
         102191575,
         85633793,
+        102084469,
         85947203,
-        102084469
+        85688641
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12775469"
     },
     "wof:country":"US",
-    "wof:geomhash":"a70917112aad72c7db4f50f61aff51e0",
+    "wof:geomhash":"e2d41a281aeabc5189787fe6ffdd217e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +45,7 @@
         }
     ],
     "wof:id":554719161,
-    "wof:lastmodified":1480838315,
+    "wof:lastmodified":1611184904,
     "wof:name":"41011",
     "wof:parent_id":85947203,
     "wof:placetype":"postalcode",

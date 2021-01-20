@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00303,
-    "geom:area_square_m":31546538.23386,
+    "geom:area_square_m":31546538.23388,
     "geom:bbox":"-96.745437,32.610868,-96.622198,32.676405",
     "geom:latitude":32.639978,
     "geom:longitude":-96.694594,
@@ -14,20 +14,29 @@
     "lbl:latitude":32.637332,
     "lbl:longitude":-96.697609,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hutchins",
+    "mz:postal_locality_alt":[
+        "Lancaster",
+        "Red Oak",
+        "Terrell",
+        "Canton",
+        "Palmer"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102080647,
         101725693,
-        102080647
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12790403"
     },
     "wof:country":"US",
-    "wof:geomhash":"2c51424535e097514f4d2cc00e184b2e",
+    "wof:geomhash":"aae1615c33614d927ae69fc357d5e367",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +48,7 @@
         }
     ],
     "wof:id":554744315,
-    "wof:lastmodified":1480904893,
+    "wof:lastmodified":1611184727,
     "wof:name":"75141",
     "wof:parent_id":101725693,
     "wof:placetype":"postalcode",

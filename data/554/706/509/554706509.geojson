@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011943,
-    "geom:area_square_m":112546730.002156,
+    "geom:area_square_m":112546730.002094,
     "geom:bbox":"-75.746466,40.259493,-75.618532,40.434061",
     "geom:latitude":40.348466,
     "geom:longitude":-75.679419,
@@ -14,20 +14,27 @@
     "lbl:latitude":40.348327,
     "lbl:longitude":-75.680555,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Boyertown",
+    "mz:postal_locality_alt":[
+        "New Berlinville",
+        "Gilbertsville",
+        "Bechtelsville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404482661,
         85633793,
-        102080991
+        102080991,
+        404482661,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765690"
     },
     "wof:country":"US",
-    "wof:geomhash":"77e60b4f9dd7b5ccf6a9861be67ba693",
+    "wof:geomhash":"f132c2f263edeb4e4514a047e46bd853",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554706509,
-    "wof:lastmodified":1480903403,
+    "wof:lastmodified":1611182703,
     "wof:name":"19512",
     "wof:parent_id":404482661,
     "wof:placetype":"postalcode",

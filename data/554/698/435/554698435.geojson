@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020585,
-    "geom:area_square_m":180844439.516379,
+    "geom:area_square_m":180844439.516381,
     "geom:bbox":"-69.081355,44.663946,-68.781153,44.783955",
     "geom:latitude":44.725928,
     "geom:longitude":-68.94587,
@@ -14,20 +14,26 @@
     "lbl:latitude":44.72898,
     "lbl:longitude":-68.949963,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hampden",
+    "mz:postal_locality_alt":[
+        "Newburgh",
+        "Brewer"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404475185,
         85633793,
-        102080723
+        102080723,
+        404475185,
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759578"
     },
     "wof:country":"US",
-    "wof:geomhash":"0dcb5f45f606655fc8a0c59fd5bec5d5",
+    "wof:geomhash":"068b17e0418016451cad14737e187fd5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554698435,
-    "wof:lastmodified":1480906067,
+    "wof:lastmodified":1611184702,
     "wof:name":"04444",
     "wof:parent_id":404475185,
     "wof:placetype":"postalcode",

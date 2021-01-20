@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002559,
-    "geom:area_square_m":25776180.527322,
+    "geom:area_square_m":25776180.527361,
     "geom:bbox":"-97.3753,35.431173,-97.307475,35.489338",
     "geom:latitude":35.458634,
     "geom:longitude":-97.345633,
@@ -13,20 +13,25 @@
     "lbl:latitude":35.458633,
     "lbl:longitude":-97.345632,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Oklahoma City",
+    "mz:postal_locality_alt":[
+        "Midwest City"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688585,
         102191575,
         85633793,
+        102082577,
         101714437,
-        102082577
+        85688585
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12789646"
     },
     "wof:country":"US",
-    "wof:geomhash":"68ae5862958eeae6b0bae6e734782e1f",
+    "wof:geomhash":"ee8797d0518b4157d812d2f271c9abb5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554743031,
-    "wof:lastmodified":1480791347,
+    "wof:lastmodified":1611184776,
     "wof:name":"73130",
     "wof:parent_id":101714437,
     "wof:placetype":"postalcode",

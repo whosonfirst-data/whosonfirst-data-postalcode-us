@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003283,
-    "geom:area_square_m":31064142.037464,
+    "geom:area_square_m":31064142.037499,
     "geom:bbox":"-79.891913,40.033087,-79.80303,40.118961",
     "geom:latitude":40.07553,
     "geom:longitude":-79.842445,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.073207,
     "lbl:longitude":-79.85777,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fayette City",
+    "mz:postal_locality_alt":[
+        "Vanderbilt"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404487043,
         85633793,
-        102080959
+        102080959,
+        404487043,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763801"
     },
     "wof:country":"US",
-    "wof:geomhash":"53539f498921f4b68529750ec1231716",
+    "wof:geomhash":"3c2db81871b7ef6d408d2d649cac7211",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554703751,
-    "wof:lastmodified":1480906227,
+    "wof:lastmodified":1611184468,
     "wof:name":"15438",
     "wof:parent_id":404487043,
     "wof:placetype":"postalcode",

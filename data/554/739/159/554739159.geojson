@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.091896,
-    "geom:area_square_m":883853362.439166,
+    "geom:area_square_m":883853362.439081,
     "geom:bbox":"-99.782558,38.696514,-99.426576,39.13251",
     "geom:latitude":38.937704,
     "geom:longitude":-99.598425,
@@ -14,20 +14,22 @@
     "lbl:latitude":38.938377,
     "lbl:longitude":-99.60533,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ellis",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404505375,
         85633793,
-        102082681
+        102082681,
+        404505375,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787359"
     },
     "wof:country":"US",
-    "wof:geomhash":"537cc95d9539912d68a8438de5e367b7",
+    "wof:geomhash":"78cdf4df1d07e4030b27af56f4d5d406",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554739159,
-    "wof:lastmodified":1480835539,
+    "wof:lastmodified":1611182650,
     "wof:name":"67637",
     "wof:parent_id":404505375,
     "wof:placetype":"postalcode",

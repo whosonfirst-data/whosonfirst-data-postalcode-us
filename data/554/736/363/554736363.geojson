@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031957,
-    "geom:area_square_m":315741883.258561,
+    "geom:area_square_m":315741883.258515,
     "geom:bbox":"-90.259918,36.846698,-90.00181,37.084541",
     "geom:latitude":36.961104,
     "geom:longitude":-90.122997,
@@ -14,20 +14,25 @@
     "lbl:latitude":36.95694,
     "lbl:longitude":-90.131465,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Puxico",
+    "mz:postal_locality_alt":[
+        "Campbell"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404517905,
         85633793,
-        102085279
+        102085279,
+        404517905,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785939"
     },
     "wof:country":"US",
-    "wof:geomhash":"15b6b659eace1dccd20dd4aa14b60ba0",
+    "wof:geomhash":"a57de1d017daa838c1c1421eebd3040e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554736363,
-    "wof:lastmodified":1480913551,
+    "wof:lastmodified":1611183021,
     "wof:name":"63960",
     "wof:parent_id":404517905,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.060107,
-    "geom:area_square_m":534108661.899208,
+    "geom:area_square_m":534108661.8992,
     "geom:bbox":"-93.406343,43.92091,-93.045569,44.175137",
     "geom:latitude":44.059012,
     "geom:longitude":-93.222911,
@@ -14,20 +14,22 @@
     "lbl:latitude":44.059126,
     "lbl:longitude":-93.223483,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Owatonna",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404514607,
         85633793,
-        102087661
+        102087661,
+        404514607,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781709"
     },
     "wof:country":"US",
-    "wof:geomhash":"2e1d54dccb9a42b86787dc0d48e23fb4",
+    "wof:geomhash":"52fa3594c9fb02d713ebbf97624374ce",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554728993,
-    "wof:lastmodified":1480788374,
+    "wof:lastmodified":1611185075,
     "wof:name":"55060",
     "wof:parent_id":404514607,
     "wof:placetype":"postalcode",

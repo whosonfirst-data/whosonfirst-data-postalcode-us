@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005939,
-    "geom:area_square_m":54839355.262202,
+    "geom:area_square_m":54839355.262139,
     "geom:bbox":"-72.460129,41.643337,-72.344008,41.73196",
     "geom:latitude":41.684912,
     "geom:longitude":-72.405751,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.688585,
     "lbl:longitude":-72.408671,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hebron",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688629,
         102191575,
-        404495899,
         85633793,
-        102085379
+        102085379,
+        404495899,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760311"
     },
     "wof:country":"US",
-    "wof:geomhash":"a1ce17d8947c90a3ef9a75ca7d62a880",
+    "wof:geomhash":"bb0cf6f392bdc469c936ac103f83ecdd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554699445,
-    "wof:lastmodified":1480815744,
+    "wof:lastmodified":1611184626,
     "wof:name":"06248",
     "wof:parent_id":404495899,
     "wof:placetype":"postalcode",

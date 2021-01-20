@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003073,
-    "geom:area_square_m":31546259.938625,
+    "geom:area_square_m":31546259.938654,
     "geom:bbox":"-84.006603,33.85601,-83.912865,33.925055",
     "geom:latitude":33.890102,
     "geom:longitude":-83.963212,
@@ -14,20 +14,26 @@
     "lbl:latitude":33.890533,
     "lbl:longitude":-83.961879,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Grayson",
+    "mz:postal_locality_alt":[
+        "Lawrenceville",
+        "Snellville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688535,
         102191575,
         85633793,
+        102082967,
         85936295,
-        102082967
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770504"
     },
     "wof:country":"US",
-    "wof:geomhash":"9762e859e29b7b1d59cfcc357305012f",
+    "wof:geomhash":"e35a184288281db538b2767d45bf97a9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554712677,
-    "wof:lastmodified":1480792476,
+    "wof:lastmodified":1611183727,
     "wof:name":"30017",
     "wof:parent_id":85936295,
     "wof:placetype":"postalcode",

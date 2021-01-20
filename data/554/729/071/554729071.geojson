@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0062,
-    "geom:area_square_m":54138227.692384,
+    "geom:area_square_m":54138227.692407,
     "geom:bbox":"-93.227967,45.031402,-93.146959,45.124533",
     "geom:latitude":45.076611,
     "geom:longitude":-93.188948,
@@ -13,21 +13,29 @@
     "lbl:latitude":45.081866,
     "lbl:longitude":-93.190493,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Saint Paul",
+    "mz:postal_locality_alt":[
+        "New Brighton",
+        "St Paul",
+        "Arden Hills",
+        "Mounds View"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404510233,
         85633793,
+        102087007,
+        404510233,
         85953147,
-        102087007
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781747"
     },
     "wof:country":"US",
-    "wof:geomhash":"76e1ea75dfac001ce003d8e2e30450c0",
+    "wof:geomhash":"2432e1a0ff993676dd0a696391d1c6be",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +48,7 @@
         }
     ],
     "wof:id":554729071,
-    "wof:lastmodified":1480789093,
+    "wof:lastmodified":1611185413,
     "wof:name":"55112",
     "wof:parent_id":85953147,
     "wof:placetype":"postalcode",

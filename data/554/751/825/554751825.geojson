@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001184,
-    "geom:area_square_m":12123047.004138,
+    "geom:area_square_m":12123047.004118,
     "geom:bbox":"-118.217401,34.091053,-118.16593,34.133732",
     "geom:latitude":34.114624,
     "geom:longitude":-118.191948,
@@ -13,20 +13,25 @@
     "lbl:latitude":34.114708,
     "lbl:longitude":-118.192098,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Los Angeles",
+    "mz:postal_locality_alt":[
+        "Highland Park"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086957,
         85923517,
-        102086957
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795650"
     },
     "wof:country":"US",
-    "wof:geomhash":"3c4662246a62bed82f17a273ce82c36a",
+    "wof:geomhash":"20812a7831cb996726ce3a642bdd5f0f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554751825,
-    "wof:lastmodified":1480912621,
+    "wof:lastmodified":1611184352,
     "wof:name":"90042",
     "wof:parent_id":85923517,
     "wof:placetype":"postalcode",

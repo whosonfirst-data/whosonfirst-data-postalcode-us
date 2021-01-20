@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.056965,
-    "geom:area_square_m":464109894.768355,
+    "geom:area_square_m":464109894.768034,
     "geom:bbox":"-95.068366,48.619466,-94.761581,48.98054",
     "geom:latitude":48.785224,
     "geom:longitude":-94.913747,
@@ -14,20 +14,22 @@
     "lbl:latitude":48.784048,
     "lbl:longitude":-94.911697,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Williams",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404512231,
         85633793,
-        102086985
+        102086985,
+        404512231,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782646"
     },
     "wof:country":"US",
-    "wof:geomhash":"8304eec3ce7f9aa569595187233eba87",
+    "wof:geomhash":"85514c7ee479e0b94c96df1c36331d93",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554730679,
-    "wof:lastmodified":1480912343,
+    "wof:lastmodified":1611182750,
     "wof:name":"56686",
     "wof:parent_id":404512231,
     "wof:placetype":"postalcode",

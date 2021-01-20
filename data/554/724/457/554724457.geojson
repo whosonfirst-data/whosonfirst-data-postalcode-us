@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.078572,
-    "geom:area_square_m":694997425.317813,
+    "geom:area_square_m":694997425.317581,
     "geom:bbox":"-84.370643,44.175318,-84.032334,44.507661",
     "geom:latitude":44.32884,
     "geom:longitude":-84.240826,
@@ -14,20 +14,22 @@
     "lbl:latitude":44.318407,
     "lbl:longitude":-84.236213,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"West Branch",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404506147,
         85633793,
-        102083113
+        102083113,
+        404506147,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778936"
     },
     "wof:country":"US",
-    "wof:geomhash":"8d5ed2bfc80df1ca4a27f563d2530336",
+    "wof:geomhash":"8386a8c660c6ef770ae1bcf3d55425a4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554724457,
-    "wof:lastmodified":1480840162,
+    "wof:lastmodified":1611183769,
     "wof:name":"48661",
     "wof:parent_id":404506147,
     "wof:placetype":"postalcode",

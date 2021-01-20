@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007397,
-    "geom:area_square_m":67301040.271513,
+    "geom:area_square_m":67301040.271509,
     "geom:bbox":"-72.664891,42.566266,-72.539896,42.702069",
     "geom:latitude":42.624133,
     "geom:longitude":-72.603905,
@@ -14,21 +14,27 @@
     "lbl:latitude":42.626761,
     "lbl:longitude":-72.60153,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Greenfield",
+    "mz:postal_locality_alt":[
+        "Shelburne Falls",
+        "Leyden"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476235,
         85633793,
+        102084457,
+        404476235,
         85950383,
-        102084457
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758415"
     },
     "wof:country":"US",
-    "wof:geomhash":"1b9859c7886008cb4e2dfef21dd9e8c6",
+    "wof:geomhash":"8e557c1d4a20aae1c6949393ba89b4ca",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554696961,
-    "wof:lastmodified":1480798064,
+    "wof:lastmodified":1611184670,
     "wof:name":"01301",
     "wof:parent_id":85950383,
     "wof:placetype":"postalcode",

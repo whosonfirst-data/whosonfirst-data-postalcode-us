@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003491,
-    "geom:area_square_m":33755731.301549,
+    "geom:area_square_m":33755731.301493,
     "geom:bbox":"-75.141752,38.510577,-75.062608,38.608318",
     "geom:latitude":38.561955,
     "geom:longitude":-75.096596,
@@ -14,19 +14,25 @@
     "lbl:latitude":38.556507,
     "lbl:longitude":-75.100246,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ocean View",
+    "mz:postal_locality_alt":[
+        "Frankford",
+        "Millville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688611,
-        102083887
+        102083887,
+        85688611
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765831"
     },
     "wof:country":"US",
-    "wof:geomhash":"eda26fb2b0be26ab35d0f508a94c60a4",
+    "wof:geomhash":"a5568a291d6e8942585c778e827d5f79",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554780387,
-    "wof:lastmodified":1480839217,
+    "wof:lastmodified":1611185193,
     "wof:name":"19970",
     "wof:parent_id":102083887,
     "wof:placetype":"postalcode",

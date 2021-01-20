@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000246,
-    "geom:area_square_m":2636298.316763,
+    "geom:area_square_m":2636298.316761,
     "geom:bbox":"-90.094459,29.931845,-90.071815,29.954789",
     "geom:latitude":29.943018,
     "geom:longitude":-90.083073,
@@ -13,20 +13,22 @@
     "lbl:latitude":29.943018,
     "lbl:longitude":-90.083073,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"New Orleans",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688735,
         102191575,
         85633793,
+        102086693,
         85948111,
-        102086693
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12788161"
     },
     "wof:country":"US",
-    "wof:geomhash":"c5e5bdfd7c036e8cb98030a021fe9286",
+    "wof:geomhash":"86d68fe6f8a42fbfda08d67d76c0749a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +40,7 @@
         }
     ],
     "wof:id":554783567,
-    "wof:lastmodified":1480910699,
+    "wof:lastmodified":1611183872,
     "wof:name":"70113",
     "wof:parent_id":85948111,
     "wof:placetype":"postalcode",

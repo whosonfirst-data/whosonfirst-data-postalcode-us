@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00318,
-    "geom:area_square_m":30104987.882594,
+    "geom:area_square_m":30104987.882545,
     "geom:bbox":"-74.990195,39.991812,-74.904577,40.068785",
     "geom:latitude":40.02932,
     "geom:longitude":-74.949722,
@@ -14,20 +14,26 @@
     "lbl:latitude":40.029586,
     "lbl:longitude":-74.948936,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Riverside",
+    "mz:postal_locality_alt":[
+        "Delran",
+        "Delanco"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477959,
         85633793,
-        102087415
+        102087415,
+        404477959,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761044"
     },
     "wof:country":"US",
-    "wof:geomhash":"537f0b4be83c44870bf169a5ac9f0e46",
+    "wof:geomhash":"dcbeff54b4e03b57d23583397268ae98",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554700427,
-    "wof:lastmodified":1480906422,
+    "wof:lastmodified":1611183200,
     "wof:name":"08075",
     "wof:parent_id":404477959,
     "wof:placetype":"postalcode",

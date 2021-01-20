@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006225,
-    "geom:area_square_m":66948936.966886,
+    "geom:area_square_m":66948936.96679,
     "geom:bbox":"-95.351952,29.503628,-95.214553,29.599104",
     "geom:latitude":29.56049,
     "geom:longitude":-95.277536,
@@ -13,20 +13,27 @@
     "lbl:latitude":29.561597,
     "lbl:longitude":-95.279759,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pearland",
+    "mz:postal_locality_alt":[
+        "Houston",
+        "Galveston",
+        "Friendswood"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102080677,
         101725125,
-        102080677
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12791709"
     },
     "wof:country":"US",
-    "wof:geomhash":"41bb0871b0ca94631910e14a4b6d33a6",
+    "wof:geomhash":"09b373c4731b2597e57ea795bc02fa7d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +45,7 @@
         }
     ],
     "wof:id":554746327,
-    "wof:lastmodified":1480906879,
+    "wof:lastmodified":1611184030,
     "wof:name":"77581",
     "wof:parent_id":101725125,
     "wof:placetype":"postalcode",

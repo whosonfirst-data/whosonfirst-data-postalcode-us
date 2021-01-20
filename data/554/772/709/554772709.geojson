@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003403,
-    "geom:area_square_m":32702497.71825,
+    "geom:area_square_m":32702497.718195,
     "geom:bbox":"-119.961521,38.971172,-119.889716,39.046767",
     "geom:latitude":39.00787,
     "geom:longitude":-119.92409,
@@ -14,20 +14,25 @@
     "lbl:latitude":38.996463,
     "lbl:longitude":-119.917493,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Zephyr Cove",
+    "mz:postal_locality_alt":[
+        "Stateline"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688531,
         102191575,
         85633793,
+        102081541,
         85974809,
-        102081541
+        85688531
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795555"
     },
     "wof:country":"US",
-    "wof:geomhash":"21f76a3721bc48107dc021dab230feab",
+    "wof:geomhash":"c0da64a8b11cca4c59a66817ab996880",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554772709,
-    "wof:lastmodified":1480833185,
+    "wof:lastmodified":1611184845,
     "wof:name":"89448",
     "wof:parent_id":85974809,
     "wof:placetype":"postalcode",

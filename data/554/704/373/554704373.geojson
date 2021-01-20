@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013951,
-    "geom:area_square_m":129794021.45639,
+    "geom:area_square_m":129794021.4563,
     "geom:bbox":"-79.472686,41.12624,-79.27739,41.312874",
     "geom:latitude":41.203153,
     "geom:longitude":-79.357523,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.20355,
     "lbl:longitude":-79.360502,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Clarion",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404486647,
         85633793,
-        102081389
+        102081389,
+        404486647,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764199"
     },
     "wof:country":"US",
-    "wof:geomhash":"f108926d0dd52ac239ad7635fa375d24",
+    "wof:geomhash":"f0d5ffcee89520303fca74ebb070882b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554704373,
-    "wof:lastmodified":1480830882,
+    "wof:lastmodified":1611184522,
     "wof:name":"16214",
     "wof:parent_id":404486647,
     "wof:placetype":"postalcode",

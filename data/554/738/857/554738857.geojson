@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.062082,
-    "geom:area_square_m":609115636.24223,
+    "geom:area_square_m":609115636.242231,
     "geom:bbox":"-96.526327,37.388207,-96.036465,37.60674",
     "geom:latitude":37.488613,
     "geom:longitude":-96.298826,
@@ -14,20 +14,22 @@
     "lbl:latitude":37.494403,
     "lbl:longitude":-96.297916,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Howard",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404502313,
         85633793,
-        102084193
+        102084193,
+        404502313,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787221"
     },
     "wof:country":"US",
-    "wof:geomhash":"9ffdb5985c76d0bad68dcf97e205555a",
+    "wof:geomhash":"4ffffa4a90a7299d471e88835317227d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554738857,
-    "wof:lastmodified":1480800136,
+    "wof:lastmodified":1611183102,
     "wof:name":"67349",
     "wof:parent_id":404502313,
     "wof:placetype":"postalcode",

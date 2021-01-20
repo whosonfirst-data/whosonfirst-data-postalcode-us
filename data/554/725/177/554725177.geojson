@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008315,
-    "geom:area_square_m":73178877.462356,
+    "geom:area_square_m":73178877.462475,
     "geom:bbox":"-85.768022,44.566951,-85.625859,44.678542",
     "geom:latitude":44.626392,
     "geom:longitude":-85.705909,
@@ -14,20 +14,27 @@
     "lbl:latitude":44.621616,
     "lbl:longitude":-85.709787,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Grawn",
+    "mz:postal_locality_alt":[
+        "Traverse City",
+        "Kingsley",
+        "Interlochen"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404506563,
         85633793,
-        102083133
+        102083133,
+        404506563,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779447"
     },
     "wof:country":"US",
-    "wof:geomhash":"7af4a7271362ae3091a333c2c28178db",
+    "wof:geomhash":"06388feb1770a99a2f45120faa48d3f8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554725177,
-    "wof:lastmodified":1480836356,
+    "wof:lastmodified":1611183287,
     "wof:name":"49637",
     "wof:parent_id":404506563,
     "wof:placetype":"postalcode",

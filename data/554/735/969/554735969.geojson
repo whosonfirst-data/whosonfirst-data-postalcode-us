@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024584,
-    "geom:area_square_m":234637357.609514,
+    "geom:area_square_m":234637357.609344,
     "geom:bbox":"-91.460442,39.398863,-91.198717,39.570281",
     "geom:latitude":39.478493,
     "geom:longitude":-91.309604,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.480325,
     "lbl:longitude":-91.312032,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Frankford",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404517497,
         85633793,
-        102086151
+        102086151,
+        404517497,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785718"
     },
     "wof:country":"US",
-    "wof:geomhash":"bf900e8b6e803a0dbd9a6a4690417058",
+    "wof:geomhash":"154886bade15e5a5f222880a05940e03",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554735969,
-    "wof:lastmodified":1480911072,
+    "wof:lastmodified":1611184430,
     "wof:name":"63441",
     "wof:parent_id":404517497,
     "wof:placetype":"postalcode",

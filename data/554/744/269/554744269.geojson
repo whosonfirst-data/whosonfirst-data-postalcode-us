@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001747,
-    "geom:area_square_m":18117514.967267,
+    "geom:area_square_m":18117514.967254,
     "geom:bbox":"-96.643084,32.986834,-96.59465,33.041013",
     "geom:latitude":33.019067,
     "geom:longitude":-96.61505,
@@ -13,20 +13,25 @@
     "lbl:latitude":33.021794,
     "lbl:longitude":-96.615481,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Plano",
+    "mz:postal_locality_alt":[
+        "Murphy"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102086765,
         101726031,
-        102086765
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12790373"
     },
     "wof:country":"US",
-    "wof:geomhash":"1525f3a6796b5de9e8a400cc05498791",
+    "wof:geomhash":"7220a6609c7a18b5089957c1ae1b35e5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554744269,
-    "wof:lastmodified":1480911653,
+    "wof:lastmodified":1611184723,
     "wof:name":"75094",
     "wof:parent_id":101726031,
     "wof:placetype":"postalcode",

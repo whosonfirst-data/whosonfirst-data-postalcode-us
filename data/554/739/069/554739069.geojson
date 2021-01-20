@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.084184,
-    "geom:area_square_m":818206970.235419,
+    "geom:area_square_m":818206970.235073,
     "geom:bbox":"-99.351379,37.999929,-98.876304,38.350442",
     "geom:latitude":38.184851,
     "geom:longitude":-99.122354,
@@ -14,20 +14,22 @@
     "lbl:latitude":38.185383,
     "lbl:longitude":-99.12459,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Larned",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404505453,
         85633793,
-        102082127
+        102082127,
+        404505453,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787319"
     },
     "wof:country":"US",
-    "wof:geomhash":"ac73ee0a2e05ebac16a9efbdedec0084",
+    "wof:geomhash":"25562d50559ef87a3502300af2334e74",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554739069,
-    "wof:lastmodified":1480841977,
+    "wof:lastmodified":1611182676,
     "wof:name":"67550",
     "wof:parent_id":404505453,
     "wof:placetype":"postalcode",

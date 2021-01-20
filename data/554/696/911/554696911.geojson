@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007328,
-    "geom:area_square_m":66740720.021084,
+    "geom:area_square_m":66740720.021104,
     "geom:bbox":"-73.212069,42.510932,-73.082214,42.606076",
     "geom:latitude":42.56268,
     "geom:longitude":-73.15483,
@@ -14,20 +14,22 @@
     "lbl:latitude":42.563401,
     "lbl:longitude":-73.153335,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cheshire",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404475911,
         85633793,
-        102084369
+        102084369,
+        404475911,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758385"
     },
     "wof:country":"US",
-    "wof:geomhash":"80ab2cdef4f38c164a287dc474cec2b7",
+    "wof:geomhash":"f17e82a1172ca44e31cd674366140ba2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554696911,
-    "wof:lastmodified":1480803163,
+    "wof:lastmodified":1611184673,
     "wof:name":"01225",
     "wof:parent_id":404475911,
     "wof:placetype":"postalcode",

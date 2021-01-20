@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02882,
-    "geom:area_square_m":267772551.067207,
+    "geom:area_square_m":267772551.06726,
     "geom:bbox":"-90.29592,41.199301,-90.03035,41.382875",
     "geom:latitude":41.287751,
     "geom:longitude":-90.173855,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.282483,
     "lbl:longitude":-90.172661,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cambridge",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404498137,
         85633793,
-        102086205
+        102086205,
+        404498137,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784501"
     },
     "wof:country":"US",
-    "wof:geomhash":"41cad0fb9d4c124d935d634372ddd1c6",
+    "wof:geomhash":"9ea06f8413576a00f9a1f655cf6254f2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554733785,
-    "wof:lastmodified":1480912692,
+    "wof:lastmodified":1611184227,
     "wof:name":"61238",
     "wof:parent_id":404498137,
     "wof:placetype":"postalcode",

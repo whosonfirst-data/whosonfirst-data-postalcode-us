@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013235,
-    "geom:area_square_m":116388834.848075,
+    "geom:area_square_m":116388834.848036,
     "geom:bbox":"-124.08209,44.56949,-123.943272,44.780431",
     "geom:latitude":44.668653,
     "geom:longitude":-124.014468,
@@ -14,19 +14,25 @@
     "lbl:latitude":44.666397,
     "lbl:longitude":-124.010783,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Newport",
+    "mz:postal_locality_alt":[
+        "Salem",
+        "Depoe Bay"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688513,
-        102081615
+        102081615,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12798609"
     },
     "wof:country":"US",
-    "wof:geomhash":"0ca1d3920d05cd12bcfcd4579695a8fd",
+    "wof:geomhash":"3bcf5096c210b0d49e889c9c32b95c16",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554784899,
-    "wof:lastmodified":1480823038,
+    "wof:lastmodified":1611183956,
     "wof:name":"97365",
     "wof:parent_id":102081615,
     "wof:placetype":"postalcode",

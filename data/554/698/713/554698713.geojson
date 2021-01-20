@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044559,
-    "geom:area_square_m":390122307.381265,
+    "geom:area_square_m":390122307.381325,
     "geom:bbox":"-70.521502,44.728055,-70.136542,45.065633",
     "geom:latitude":44.922808,
     "geom:longitude":-70.309287,
@@ -14,20 +14,28 @@
     "lbl:latitude":44.9794,
     "lbl:longitude":-70.367301,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Strong",
+    "mz:postal_locality_alt":[
+        "Phillips",
+        "Bingham",
+        "Stratton",
+        "China Village"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404475451,
         85633793,
-        102087433
+        102087433,
+        404475451,
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759850"
     },
     "wof:country":"US",
-    "wof:geomhash":"fadd9772957f8b72cbd7ddfd61d3fb12",
+    "wof:geomhash":"dd0f4391bfdc40d8f6d67cf940f045fe",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +47,7 @@
         }
     ],
     "wof:id":554698713,
-    "wof:lastmodified":1480782523,
+    "wof:lastmodified":1611184687,
     "wof:name":"04983",
     "wof:parent_id":404475451,
     "wof:placetype":"postalcode",

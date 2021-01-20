@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017177,
-    "geom:area_square_m":164161842.040404,
+    "geom:area_square_m":164161842.040365,
     "geom:bbox":"-74.723845,39.292847,-74.521104,39.466395",
     "geom:latitude":39.386468,
     "geom:longitude":-74.623849,
@@ -13,20 +13,29 @@
     "lbl:latitude":39.388393,
     "lbl:longitude":-74.620728,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Egg Harbor Twp",
+    "mz:postal_locality_alt":[
+        "Egg Harbor Township",
+        "Absecon",
+        "Cape May",
+        "Egg Harbor City",
+        "Northfield"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477611,
         85633793,
-        102083869
+        102083869,
+        404477611,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761099"
     },
     "wof:country":"US",
-    "wof:geomhash":"7ca48f5e4b319a55a71380424e1af63c",
+    "wof:geomhash":"68332aede84da537f771a30946055eaf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +47,7 @@
         }
     ],
     "wof:id":554700503,
-    "wof:lastmodified":1480913297,
+    "wof:lastmodified":1611183177,
     "wof:name":"08234",
     "wof:parent_id":404477611,
     "wof:placetype":"postalcode",

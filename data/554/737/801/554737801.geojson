@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.060664,
-    "geom:area_square_m":593462316.910012,
+    "geom:area_square_m":593462316.910194,
     "geom:bbox":"-93.996567,37.560121,-93.63797,37.890981",
     "geom:latitude":37.706118,
     "geom:longitude":-93.821203,
@@ -14,20 +14,22 @@
     "lbl:latitude":37.708475,
     "lbl:longitude":-93.825054,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Stockton",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404516623,
         85633793,
-        102085319
+        102085319,
+        404516623,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786677"
     },
     "wof:country":"US",
-    "wof:geomhash":"837fbec2d1de40de82f95a4e362c85b4",
+    "wof:geomhash":"d3a93029ff1bbb5a000031870c8d9df3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554737801,
-    "wof:lastmodified":1480904673,
+    "wof:lastmodified":1611182860,
     "wof:name":"65785",
     "wof:parent_id":404516623,
     "wof:placetype":"postalcode",

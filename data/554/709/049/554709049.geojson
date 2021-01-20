@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017384,
-    "geom:area_square_m":170619151.069524,
+    "geom:area_square_m":170619151.069533,
     "geom:bbox":"-79.225349,37.385697,-78.938706,37.539267",
     "geom:latitude":37.463622,
     "geom:longitude":-79.096439,
@@ -14,20 +14,25 @@
     "lbl:latitude":37.464909,
     "lbl:longitude":-79.095264,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Madison Heights",
+    "mz:postal_locality_alt":[
+        "Lynchburg"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688747,
         102191575,
         85633793,
+        102087249,
         101729489,
-        102087249
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12767895"
     },
     "wof:country":"US",
-    "wof:geomhash":"15199e8cfa6bb4cde6caa1af4d58cdea",
+    "wof:geomhash":"be4984bc081bf48085d81584dda23be2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554709049,
-    "wof:lastmodified":1480839176,
+    "wof:lastmodified":1611182993,
     "wof:name":"24572",
     "wof:parent_id":101729489,
     "wof:placetype":"postalcode",

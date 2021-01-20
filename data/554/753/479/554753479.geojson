@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011102,
-    "geom:area_square_m":107970174.009608,
+    "geom:area_square_m":107970174.009541,
     "geom:bbox":"-120.57176,38.075893,-120.369885,38.198419",
     "geom:latitude":38.138072,
     "geom:longitude":-120.453194,
@@ -14,20 +14,25 @@
     "lbl:latitude":38.138539,
     "lbl:longitude":-120.452903,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Murphys",
+    "mz:postal_locality_alt":[
+        "Hathaway Pines"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102080867,
         85927591,
-        102080867
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12797654"
     },
     "wof:country":"US",
-    "wof:geomhash":"f9f4aed4e8927428e2feb2304cc474f8",
+    "wof:geomhash":"56088e18d6ed82b6b4e45b3cff01eba2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554753479,
-    "wof:lastmodified":1480908576,
+    "wof:lastmodified":1611182935,
     "wof:name":"95247",
     "wof:parent_id":85927591,
     "wof:placetype":"postalcode",

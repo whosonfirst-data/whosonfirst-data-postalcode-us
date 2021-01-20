@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007268,
-    "geom:area_square_m":64423971.207803,
+    "geom:area_square_m":64423971.207787,
     "geom:bbox":"-73.326702,44.163706,-73.180288,44.259461",
     "geom:latitude":44.207631,
     "geom:longitude":-73.25508,
@@ -14,20 +14,25 @@
     "lbl:latitude":44.221416,
     "lbl:longitude":-73.264595,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ferrisburg",
+    "mz:postal_locality_alt":[
+        "Ferrisburgh"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688763,
         102191575,
-        404527393,
         85633793,
-        102080765
+        102080765,
+        404527393,
+        85688763
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759990"
     },
     "wof:country":"US",
-    "wof:geomhash":"b23eb2e80781ebb9d5d220f7ff3f7ed1",
+    "wof:geomhash":"ca7d253c4bcd0f78bcf8de5b74b480fc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554698965,
-    "wof:lastmodified":1480903939,
+    "wof:lastmodified":1611184676,
     "wof:name":"05456",
     "wof:parent_id":404527393,
     "wof:placetype":"postalcode",

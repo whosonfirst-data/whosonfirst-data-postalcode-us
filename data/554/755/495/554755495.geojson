@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002557,
-    "geom:area_square_m":21258185.77983,
+    "geom:area_square_m":21258185.779822,
     "geom:bbox":"-122.330565,47.733477,-122.26699,47.777687",
     "geom:latitude":47.755948,
     "geom:longitude":-122.300285,
@@ -13,20 +13,27 @@
     "lbl:latitude":47.754413,
     "lbl:longitude":-122.300477,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Seattle",
+    "mz:postal_locality_alt":[
+        "Shoreline",
+        "Lake Forest Park",
+        "Kenmore"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688623,
         102191575,
         85633793,
+        102086191,
         101730425,
-        102086191
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12798984"
     },
     "wof:country":"US",
-    "wof:geomhash":"2165188910b100f161da7cb96d25f377",
+    "wof:geomhash":"243378491abfa09f3991c6884524087d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +45,7 @@
         }
     ],
     "wof:id":554755495,
-    "wof:lastmodified":1480915588,
+    "wof:lastmodified":1611182602,
     "wof:name":"98155",
     "wof:parent_id":101730425,
     "wof:placetype":"postalcode",

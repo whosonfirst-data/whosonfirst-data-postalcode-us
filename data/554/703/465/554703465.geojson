@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002842,
-    "geom:area_square_m":26789444.895202,
+    "geom:area_square_m":26789444.895212,
     "geom:bbox":"-80.07396,40.289194,-79.998486,40.35703",
     "geom:latitude":40.321358,
     "geom:longitude":-80.036547,
@@ -14,21 +14,26 @@
     "lbl:latitude":40.321356,
     "lbl:longitude":-80.03655,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bethel Park",
+    "mz:postal_locality_alt":[
+        "Pittsburgh"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404484853,
         85633793,
+        102080887,
+        404484853,
         101718799,
-        102080887
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763612"
     },
     "wof:country":"US",
-    "wof:geomhash":"aac2fc14a8a77cd021281085a9277fc0",
+    "wof:geomhash":"0d937d680ce503ccaa4adc98339dd375",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554703465,
-    "wof:lastmodified":1480905392,
+    "wof:lastmodified":1611184461,
     "wof:name":"15102",
     "wof:parent_id":101718799,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001094,
-    "geom:area_square_m":9446844.175067,
+    "geom:area_square_m":9446844.175069,
     "geom:bbox":"-94.30043,45.6842,-94.24853,45.71741",
     "geom:latitude":45.700877,
     "geom:longitude":-94.274251,
@@ -14,21 +14,26 @@
     "lbl:latitude":45.700876,
     "lbl:longitude":-94.274251,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Saint Stephen",
+    "mz:postal_locality_alt":[
+        "St Stephen"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404514501,
         85633793,
+        102087719,
+        404514501,
         85952507,
-        102087719
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782457"
     },
     "wof:country":"US",
-    "wof:geomhash":"c82b761a1100f2f3069165dd309e71c9",
+    "wof:geomhash":"d7dd41f7f400d9b875250249424a2f33",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554730313,
-    "wof:lastmodified":1480788129,
+    "wof:lastmodified":1611182739,
     "wof:name":"56375",
     "wof:parent_id":85952507,
     "wof:placetype":"postalcode",

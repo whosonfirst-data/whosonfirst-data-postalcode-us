@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010951,
-    "geom:area_square_m":103967141.446045,
+    "geom:area_square_m":103967141.446017,
     "geom:bbox":"-86.695334,39.775923,-86.576527,39.915707",
     "geom:latitude":39.847031,
     "geom:longitude":-86.64559,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.849828,
     "lbl:longitude":-86.640151,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"North Salem",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404500777,
         85633793,
-        102086423
+        102086423,
+        404500777,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777630"
     },
     "wof:country":"US",
-    "wof:geomhash":"f132cc9d05e6a51c067c52d9eb46c504",
+    "wof:geomhash":"f2541e90f5183db767b0f9b4dc20f5f8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554722535,
-    "wof:lastmodified":1480911099,
+    "wof:lastmodified":1611183214,
     "wof:name":"46165",
     "wof:parent_id":404500777,
     "wof:placetype":"postalcode",

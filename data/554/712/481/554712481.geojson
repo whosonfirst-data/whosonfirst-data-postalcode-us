@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01225,
-    "geom:area_square_m":124106607.718001,
+    "geom:area_square_m":124106607.717902,
     "geom:bbox":"-82.373919,34.882038,-82.269247,35.104897",
     "geom:latitude":34.98422,
     "geom:longitude":-82.327632,
@@ -14,19 +14,26 @@
     "lbl:latitude":34.986636,
     "lbl:longitude":-82.327451,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Taylors",
+    "mz:postal_locality_alt":[
+        "Greer",
+        "Greenville",
+        "Clemson"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688683,
-        102085747
+        102085747,
+        85688683
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770367"
     },
     "wof:country":"US",
-    "wof:geomhash":"741792d4198caf0ad98df74710503796",
+    "wof:geomhash":"016e642632770e378616e89efab96ec0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +44,7 @@
         }
     ],
     "wof:id":554712481,
-    "wof:lastmodified":1480805763,
+    "wof:lastmodified":1611183724,
     "wof:name":"29687",
     "wof:parent_id":102085747,
     "wof:placetype":"postalcode",

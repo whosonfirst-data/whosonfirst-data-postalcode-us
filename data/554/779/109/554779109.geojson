@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0017,
-    "geom:area_square_m":15934396.4655,
+    "geom:area_square_m":15934396.465503,
     "geom:bbox":"-74.108154,40.666915,-74.033981,40.726101",
     "geom:latitude":40.698407,
     "geom:longitude":-74.080283,
@@ -13,21 +13,26 @@
     "lbl:latitude":40.697302,
     "lbl:longitude":-74.082273,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Jersey City",
+    "mz:postal_locality_alt":[
+        "North Bergen"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478139,
         85633793,
+        102080719,
+        404478139,
         85975295,
-        102080719
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760724"
     },
     "wof:country":"US",
-    "wof:geomhash":"4478d97cd8c04af58940dd75b369d20d",
+    "wof:geomhash":"a4d617edf877040338e0a2b2c9dc4e59",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554779109,
-    "wof:lastmodified":1480906620,
+    "wof:lastmodified":1611183977,
     "wof:name":"07305",
     "wof:parent_id":85975295,
     "wof:placetype":"postalcode",

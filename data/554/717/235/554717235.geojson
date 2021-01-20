@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021859,
-    "geom:area_square_m":221225233.585546,
+    "geom:area_square_m":221225233.585751,
     "geom:bbox":"-89.75978,34.994746,-89.554351,35.179338",
     "geom:latitude":35.067463,
     "geom:longitude":-89.650725,
@@ -13,20 +13,26 @@
     "lbl:latitude":35.066971,
     "lbl:longitude":-89.648939,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Collierville",
+    "mz:postal_locality_alt":[
+        "Covington",
+        "Cordova"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688701,
         102191575,
         85633793,
+        102087213,
         101722651,
-        102087213
+        85688701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12774238"
     },
     "wof:country":"US",
-    "wof:geomhash":"3711197563449fac9d726f406fa61100",
+    "wof:geomhash":"8336b4c6407940d251dd48e4402022ef",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554717235,
-    "wof:lastmodified":1480916981,
+    "wof:lastmodified":1611184999,
     "wof:name":"38017",
     "wof:parent_id":101722651,
     "wof:placetype":"postalcode",

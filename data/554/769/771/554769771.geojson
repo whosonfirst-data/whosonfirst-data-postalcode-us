@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000841,
-    "geom:area_square_m":8388919.933592,
+    "geom:area_square_m":8388919.93359,
     "geom:bbox":"-84.08891,36.182533,-84.046934,36.213803",
     "geom:latitude":36.197924,
     "geom:longitude":-84.069009,
@@ -14,20 +14,25 @@
     "lbl:latitude":36.197924,
     "lbl:longitude":-84.06901,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Norris",
+    "mz:postal_locality_alt":[
+        "Clinton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688701,
         102191575,
         85633793,
+        102086483,
         101722561,
-        102086483
+        85688701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12774147"
     },
     "wof:country":"US",
-    "wof:geomhash":"01db22ec078969ac38fea7c378d8f1e3",
+    "wof:geomhash":"297d189adddb15e43ea8a24ccc1fd23c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554769771,
-    "wof:lastmodified":1480915977,
+    "wof:lastmodified":1611184317,
     "wof:name":"37828",
     "wof:parent_id":101722561,
     "wof:placetype":"postalcode",

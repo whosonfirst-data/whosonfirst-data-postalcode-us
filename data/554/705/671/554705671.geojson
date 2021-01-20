@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001432,
-    "geom:area_square_m":13371362.789362,
+    "geom:area_square_m":13371362.789352,
     "geom:bbox":"-75.947182,40.926823,-75.848481,40.960976",
     "geom:latitude":40.941495,
     "geom:longitude":-75.892855,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.941496,
     "lbl:longitude":-75.892858,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Beaver Meadows",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485511,
         85633793,
-        102081331
+        102081331,
+        404485511,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765095"
     },
     "wof:country":"US",
-    "wof:geomhash":"0f44a172c794725f51ab6393aa3a618d",
+    "wof:geomhash":"71c49138fc72c8fb227d733b74c484ce",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554705671,
-    "wof:lastmodified":1480831457,
+    "wof:lastmodified":1611184117,
     "wof:name":"18216",
     "wof:parent_id":404485511,
     "wof:placetype":"postalcode",

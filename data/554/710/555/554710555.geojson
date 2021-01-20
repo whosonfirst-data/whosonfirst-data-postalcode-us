@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011215,
-    "geom:area_square_m":112174899.722813,
+    "geom:area_square_m":112174899.722807,
     "geom:bbox":"-80.139116,35.940903,-79.938482,36.08499",
     "geom:latitude":36.009587,
     "geom:longitude":-80.030546,
@@ -13,20 +13,26 @@
     "lbl:latitude":36.012305,
     "lbl:longitude":-80.030949,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"High Point",
+    "mz:postal_locality_alt":[
+        "Greensboro",
+        "Jamestown"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688773,
         102191575,
         85633793,
+        102080985,
         85980383,
-        102080985
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12768981"
     },
     "wof:country":"US",
-    "wof:geomhash":"d16a4790613c2950ea3ce7d2f2ced278",
+    "wof:geomhash":"e7499c584fd92c10f9e211123174ce18",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554710555,
-    "wof:lastmodified":1480905349,
+    "wof:lastmodified":1611185119,
     "wof:name":"27265",
     "wof:parent_id":85980383,
     "wof:placetype":"postalcode",

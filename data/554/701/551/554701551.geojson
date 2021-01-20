@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013799,
-    "geom:area_square_m":127672377.427295,
+    "geom:area_square_m":127672377.427356,
     "geom:bbox":"-73.86648,41.452377,-73.68849,41.637582",
     "geom:latitude":41.560337,
     "geom:longitude":-73.793937,
@@ -14,20 +14,28 @@
     "lbl:latitude":41.559771,
     "lbl:longitude":-73.787099,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hopewell Junction",
+    "mz:postal_locality_alt":[
+        "Hopewell Jct",
+        "Wappingers Falls",
+        "Modena",
+        "Marlboro"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522223,
         85633793,
-        102082363
+        102082363,
+        404522223,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762352"
     },
     "wof:country":"US",
-    "wof:geomhash":"f20b146a91e3d3f90354a506a575e0d9",
+    "wof:geomhash":"912d77db59782e4a30510e87554a6f72",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +47,7 @@
         }
     ],
     "wof:id":554701551,
-    "wof:lastmodified":1480835025,
+    "wof:lastmodified":1611182611,
     "wof:name":"12533",
     "wof:parent_id":404522223,
     "wof:placetype":"postalcode",

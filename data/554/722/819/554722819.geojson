@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016514,
-    "geom:area_square_m":154891993.679922,
+    "geom:area_square_m":154891993.679964,
     "geom:bbox":"-85.067604,40.615324,-84.802143,40.716675",
     "geom:latitude":40.663707,
     "geom:longitude":-84.925558,
@@ -14,20 +14,26 @@
     "lbl:latitude":40.661951,
     "lbl:longitude":-84.926879,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Berne",
+    "mz:postal_locality_alt":[
+        "Linn Grove",
+        "Wolcottville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404500953,
         85633793,
-        102087151
+        102087151,
+        404500953,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777849"
     },
     "wof:country":"US",
-    "wof:geomhash":"de94a9ff38e176cd1f80a0a08b278908",
+    "wof:geomhash":"f29d055f5db10d6695beb6c55189eba0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554722819,
-    "wof:lastmodified":1480838073,
+    "wof:lastmodified":1611183218,
     "wof:name":"46711",
     "wof:parent_id":404500953,
     "wof:placetype":"postalcode",

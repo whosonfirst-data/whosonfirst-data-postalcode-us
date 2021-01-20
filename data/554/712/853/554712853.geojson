@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020332,
-    "geom:area_square_m":207827353.905245,
+    "geom:area_square_m":207827353.90548,
     "geom:bbox":"-85.078519,34.133706,-84.890968,34.355497",
     "geom:latitude":34.243338,
     "geom:longitude":-84.983122,
@@ -14,19 +14,25 @@
     "lbl:latitude":34.24566,
     "lbl:longitude":-84.985878,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Kingston",
+    "mz:postal_locality_alt":[
+        "Euharlee",
+        "Villa Rica"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688535,
-        102082937
+        102082937,
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770616"
     },
     "wof:country":"US",
-    "wof:geomhash":"5cf68755833159a91bc3c5a958a71cd4",
+    "wof:geomhash":"66d6adf57f970c486a6442e1427b3544",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554712853,
-    "wof:lastmodified":1480798626,
+    "wof:lastmodified":1611183730,
     "wof:name":"30145",
     "wof:parent_id":102082937,
     "wof:placetype":"postalcode",

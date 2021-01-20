@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043941,
-    "geom:area_square_m":384659715.428219,
+    "geom:area_square_m":384659715.428175,
     "geom:bbox":"-96.19631,44.804679,-95.877488,45.097574",
     "geom:latitude":44.930539,
     "geom:longitude":-96.038344,
@@ -14,20 +14,22 @@
     "lbl:latitude":44.932618,
     "lbl:longitude":-96.035236,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Dawson",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404514443,
         85633793,
-        102087677
+        102087677,
+        404514443,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782342"
     },
     "wof:country":"US",
-    "wof:geomhash":"79843a8c315d821a94b78ab42c7b968f",
+    "wof:geomhash":"92fe0e56c9fdbf2be78e146498fd00a5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554730079,
-    "wof:lastmodified":1480788181,
+    "wof:lastmodified":1611182725,
     "wof:name":"56232",
     "wof:parent_id":404514443,
     "wof:placetype":"postalcode",

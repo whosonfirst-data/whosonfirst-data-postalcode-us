@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007148,
-    "geom:area_square_m":66986927.688367,
+    "geom:area_square_m":66986927.688397,
     "geom:bbox":"-79.715117,40.643842,-79.578908,40.767148",
     "geom:latitude":40.71796,
     "geom:longitude":-79.644868,
@@ -14,20 +14,26 @@
     "lbl:latitude":40.717124,
     "lbl:longitude":-79.642747,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Freeport",
+    "mz:postal_locality_alt":[
+        "Nu Mine",
+        "Worthington"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404484349,
         85633793,
-        102081371
+        102081371,
+        404484349,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764212"
     },
     "wof:country":"US",
-    "wof:geomhash":"8ca3a10745cdf1205c04cbede9546fd4",
+    "wof:geomhash":"09d21b9ae1d9b9a1513ed69f170d09c8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554704387,
-    "wof:lastmodified":1480905386,
+    "wof:lastmodified":1611184522,
     "wof:name":"16229",
     "wof:parent_id":404484349,
     "wof:placetype":"postalcode",

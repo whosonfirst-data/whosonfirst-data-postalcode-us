@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001312,
-    "geom:area_square_m":14111557.613402,
+    "geom:area_square_m":14111557.613384,
     "geom:bbox":"-95.159308,29.548957,-95.10361,29.595899",
     "geom:latitude":29.574862,
     "geom:longitude":-95.131456,
@@ -13,20 +13,22 @@
     "lbl:latitude":29.573552,
     "lbl:longitude":-95.130613,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Houston",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102081111,
         101725629,
-        102081111
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12791383"
     },
     "wof:country":"US",
-    "wof:geomhash":"eb8ba93554d329684c6efddd8dc49843",
+    "wof:geomhash":"122b8c144773698fa0d8dc5a8b8cb76b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +40,7 @@
         }
     ],
     "wof:id":554745955,
-    "wof:lastmodified":1480833200,
+    "wof:lastmodified":1611185257,
     "wof:name":"77062",
     "wof:parent_id":101725629,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012434,
-    "geom:area_square_m":117125549.992262,
+    "geom:area_square_m":117125549.992274,
     "geom:bbox":"-86.243015,40.331467,-85.994565,40.405983",
     "geom:latitude":40.37695,
     "geom:longitude":-86.115827,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.376963,
     "lbl:longitude":-86.115827,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Sharpsville",
+    "mz:postal_locality_alt":[
+        "Tipton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404500621,
         85633793,
-        102087143
+        102087143,
+        404500621,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777573"
     },
     "wof:country":"US",
-    "wof:geomhash":"3e2534f25ac86a7ea0647be853f6d42a",
+    "wof:geomhash":"c17d46dae411c7d193f50c6df0423088",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554722429,
-    "wof:lastmodified":1480912802,
+    "wof:lastmodified":1611183238,
     "wof:name":"46068",
     "wof:parent_id":404500621,
     "wof:placetype":"postalcode",

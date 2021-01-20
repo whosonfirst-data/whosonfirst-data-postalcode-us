@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0093,
-    "geom:area_square_m":86220192.326541,
+    "geom:area_square_m":86220192.32653,
     "geom:bbox":"-73.207688,41.367696,-73.077366,41.489409",
     "geom:latitude":41.431293,
     "geom:longitude":-73.13503,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.444001,
     "lbl:longitude":-73.147999,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Oxford",
+    "mz:postal_locality_alt":[
+        "Fairfield"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688629,
         102191575,
-        404495795,
         85633793,
-        102086923
+        102086923,
+        404495795,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760427"
     },
     "wof:country":"US",
-    "wof:geomhash":"14f8be309d1560b48963e6e65cb009f2",
+    "wof:geomhash":"e6796b124cf7623a6ecc1d702e50caba",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554699611,
-    "wof:lastmodified":1480916209,
+    "wof:lastmodified":1611184607,
     "wof:name":"06478",
     "wof:parent_id":404495795,
     "wof:placetype":"postalcode",

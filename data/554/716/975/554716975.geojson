@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022454,
-    "geom:area_square_m":224336962.625391,
+    "geom:area_square_m":224336962.625425,
     "geom:bbox":"-84.318106,35.990883,-84.032945,36.202264",
     "geom:latitude":36.099543,
     "geom:longitude":-84.16806,
@@ -14,19 +14,24 @@
     "lbl:latitude":36.097124,
     "lbl:longitude":-84.175183,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Clinton",
+    "mz:postal_locality_alt":[
+        "Powell"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688701,
-        102086483
+        102086483,
+        85688701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12774083"
     },
     "wof:country":"US",
-    "wof:geomhash":"ff329b0ba16aa6707d2033e0db38f9c4",
+    "wof:geomhash":"ae731d20d5751d68638d98556ff3555c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554716975,
-    "wof:lastmodified":1480915975,
+    "wof:lastmodified":1611185403,
     "wof:name":"37716",
     "wof:parent_id":102086483,
     "wof:placetype":"postalcode",

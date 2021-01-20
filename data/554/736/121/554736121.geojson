@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020233,
-    "geom:area_square_m":197030639.814481,
+    "geom:area_square_m":197030639.814445,
     "geom:bbox":"-90.349733,37.938723,-90.11408,38.158981",
     "geom:latitude":38.04462,
     "geom:longitude":-90.257397,
@@ -14,20 +14,25 @@
     "lbl:latitude":38.052858,
     "lbl:longitude":-90.267404,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bloomsdale",
+    "mz:postal_locality_alt":[
+        "Bonne Terre"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404518363,
         85633793,
-        102086899
+        102086899,
+        404518363,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785789"
     },
     "wof:country":"US",
-    "wof:geomhash":"02659287af88d4c5226f61b2c092653d",
+    "wof:geomhash":"2bb7a16edc5f99d5d50954267e4c5732",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554736121,
-    "wof:lastmodified":1480908592,
+    "wof:lastmodified":1611183036,
     "wof:name":"63627",
     "wof:parent_id":404518363,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017246,
-    "geom:area_square_m":163139207.746487,
+    "geom:area_square_m":163139207.746634,
     "geom:bbox":"-77.14912,40.00069,-76.925453,40.161805",
     "geom:latitude":40.090084,
     "geom:longitude":-77.02256,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.094022,
     "lbl:longitude":-77.022058,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Dillsburg",
+    "mz:postal_locality_alt":[
+        "Liverpool"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404487707,
         85633793,
-        102080953
+        102080953,
+        404487707,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764563"
     },
     "wof:country":"US",
-    "wof:geomhash":"cbe2130c0c44a76248773b2b639a98be",
+    "wof:geomhash":"5b2a3c4852892fe4aaa6f6c48e6c22a1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554704889,
-    "wof:lastmodified":1480903985,
+    "wof:lastmodified":1611184492,
     "wof:name":"17019",
     "wof:parent_id":404487707,
     "wof:placetype":"postalcode",

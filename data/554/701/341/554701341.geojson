@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004382,
-    "geom:area_square_m":39792599.62303,
+    "geom:area_square_m":39792599.622999,
     "geom:bbox":"-73.963082,42.705261,-73.864866,42.805122",
     "geom:latitude":42.749559,
     "geom:longitude":-73.924594,
@@ -14,20 +14,22 @@
     "lbl:latitude":42.740387,
     "lbl:longitude":-73.905398,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Schenectady",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404521715,
         85633793,
-        102082353
+        102082353,
+        404521715,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762232"
     },
     "wof:country":"US",
-    "wof:geomhash":"f4e5505935a90c711d2882ccdf7296c9",
+    "wof:geomhash":"20b0a2d1500b6fcbc6e3fdf8f2d0089f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554701341,
-    "wof:lastmodified":1480818877,
+    "wof:lastmodified":1611182625,
     "wof:name":"12303",
     "wof:parent_id":404521715,
     "wof:placetype":"postalcode",

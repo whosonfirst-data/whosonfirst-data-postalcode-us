@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011626,
-    "geom:area_square_m":108582253.660438,
+    "geom:area_square_m":108582253.66049,
     "geom:bbox":"-80.229415,40.874483,-80.068821,41.011342",
     "geom:latitude":40.946711,
     "geom:longitude":-80.138621,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.944894,
     "lbl:longitude":-80.138143,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Portersville",
+    "mz:postal_locality_alt":[
+        "Zelienople"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404484991,
         85633793,
-        102083677
+        102083677,
+        404484991,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764137"
     },
     "wof:country":"US",
-    "wof:geomhash":"a72d420bd6711f70d7141e8d3693e1e2",
+    "wof:geomhash":"1d753801ccf0b4479bf1fef0f7fae1a1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554704265,
-    "wof:lastmodified":1480906172,
+    "wof:lastmodified":1611184517,
     "wof:name":"16051",
     "wof:parent_id":404484991,
     "wof:placetype":"postalcode",

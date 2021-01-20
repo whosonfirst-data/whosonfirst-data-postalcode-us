@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033656,
-    "geom:area_square_m":360780784.472027,
+    "geom:area_square_m":360780784.47147,
     "geom:bbox":"-98.548449,29.789543,-98.26939,30.017266",
     "geom:latitude":29.898233,
     "geom:longitude":-98.406297,
@@ -14,20 +14,26 @@
     "lbl:latitude":29.893739,
     "lbl:longitude":-98.390891,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Spring Branch",
+    "mz:postal_locality_alt":[
+        "Bulverde",
+        "Laredo"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102087411,
         101726845,
-        102087411
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12791913"
     },
     "wof:country":"US",
-    "wof:geomhash":"59f8d579ef16276239f004aa8d8aac9a",
+    "wof:geomhash":"1b0ac967ad123d884aa408a9ba7b8a98",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554746585,
-    "wof:lastmodified":1480904953,
+    "wof:lastmodified":1611184031,
     "wof:name":"78070",
     "wof:parent_id":101726845,
     "wof:placetype":"postalcode",

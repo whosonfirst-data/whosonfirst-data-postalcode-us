@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009958,
-    "geom:area_square_m":100209515.02867,
+    "geom:area_square_m":100209515.028613,
     "geom:bbox":"-82.593309,35.481485,-82.452163,35.583844",
     "geom:latitude":35.529593,
     "geom:longitude":-82.520018,
@@ -14,20 +14,25 @@
     "lbl:latitude":35.531703,
     "lbl:longitude":-82.523021,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Asheville",
+    "mz:postal_locality_alt":[
+        "Arden"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688773,
         102191575,
         85633793,
+        102087845,
         85981171,
-        102087845
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12769938"
     },
     "wof:country":"US",
-    "wof:geomhash":"33fd7fd6eb1ce086559ddf19a5e75bba",
+    "wof:geomhash":"4c08f0f6aef60a70542d3060b282d4aa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554711837,
-    "wof:lastmodified":1480781970,
+    "wof:lastmodified":1611185338,
     "wof:name":"28803",
     "wof:parent_id":85981171,
     "wof:placetype":"postalcode",

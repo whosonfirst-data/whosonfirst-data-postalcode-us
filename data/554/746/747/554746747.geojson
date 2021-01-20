@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001096,
-    "geom:area_square_m":11799893.778498,
+    "geom:area_square_m":11799893.778466,
     "geom:bbox":"-98.474404,29.439619,-98.409005,29.484865",
     "geom:latitude":29.460395,
     "geom:longitude":-98.43924,
@@ -13,20 +13,25 @@
     "lbl:latitude":29.460597,
     "lbl:longitude":-98.438554,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"San Antonio",
+    "mz:postal_locality_alt":[
+        "Fort Sam Houston"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102082471,
         101724653,
-        102082471
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12791999"
     },
     "wof:country":"US",
-    "wof:geomhash":"ff7dedee09ae70ae57ce8296bdb5aeb1",
+    "wof:geomhash":"873db38928e253b3002b7f7ff15d323f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554746747,
-    "wof:lastmodified":1480790255,
+    "wof:lastmodified":1611184009,
     "wof:name":"78234",
     "wof:parent_id":101724653,
     "wof:placetype":"postalcode",

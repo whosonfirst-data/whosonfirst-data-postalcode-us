@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01763,
-    "geom:area_square_m":154497051.212529,
+    "geom:area_square_m":154497051.212436,
     "geom:bbox":"-85.969291,44.774984,-85.813989,44.969219",
     "geom:latitude":44.870307,
     "geom:longitude":-85.890019,
@@ -14,20 +14,26 @@
     "lbl:latitude":44.887981,
     "lbl:longitude":-85.89864,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Maple City",
+    "mz:postal_locality_alt":[
+        "Glen Arbor",
+        "Traverse City"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404508165,
         85633793,
-        102083155
+        102083155,
+        404508165,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779468"
     },
     "wof:country":"US",
-    "wof:geomhash":"6bed8ef189be88cb2a2b0d0b81f12d74",
+    "wof:geomhash":"e4ce7331391a1f45f2481e17ac318a9b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554725213,
-    "wof:lastmodified":1480841434,
+    "wof:lastmodified":1611183280,
     "wof:name":"49664",
     "wof:parent_id":404508165,
     "wof:placetype":"postalcode",

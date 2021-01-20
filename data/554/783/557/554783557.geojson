@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003072,
-    "geom:area_square_m":32900688.968251,
+    "geom:area_square_m":32900688.968247,
     "geom:bbox":"-90.344299,29.93687,-90.280021,30.016269",
     "geom:latitude":29.977403,
     "geom:longitude":-90.314858,
@@ -14,20 +14,25 @@
     "lbl:latitude":29.976027,
     "lbl:longitude":-90.315015,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"St Rose",
+    "mz:postal_locality_alt":[
+        "Saint Rose"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688735,
         102191575,
         85633793,
+        102081025,
         85948529,
-        102081025
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12788154"
     },
     "wof:country":"US",
-    "wof:geomhash":"d54fc77d257fa59211313dbe6a665ee5",
+    "wof:geomhash":"db1952e4a7e70a049c6ab692d5d2ca9a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554783557,
-    "wof:lastmodified":1480841654,
+    "wof:lastmodified":1611183874,
     "wof:name":"70087",
     "wof:parent_id":85948529,
     "wof:placetype":"postalcode",

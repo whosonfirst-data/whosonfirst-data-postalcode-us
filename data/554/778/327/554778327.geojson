@@ -13,21 +13,27 @@
     "lbl:latitude":42.33209,
     "lbl:longitude":-71.096545,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Roxbury Crossing",
+    "mz:postal_locality_alt":[
+        "Boston",
+        "Roxbury"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476573,
         85633793,
+        102084423,
+        404476573,
         85950361,
-        102084423
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758719"
     },
     "wof:country":"US",
-    "wof:geomhash":"7cdda92891bbc50b6dbc4d44f685c56d",
+    "wof:geomhash":"4dc6f32cbe11933169901ba7f208de3b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +46,7 @@
         }
     ],
     "wof:id":554778327,
-    "wof:lastmodified":1480798203,
+    "wof:lastmodified":1611183444,
     "wof:name":"02120",
     "wof:parent_id":85950361,
     "wof:placetype":"postalcode",

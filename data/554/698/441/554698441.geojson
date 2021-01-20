@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004967,
-    "geom:area_square_m":43490341.335912,
+    "geom:area_square_m":43490341.33592,
     "geom:bbox":"-68.979032,44.884225,-68.878442,44.949518",
     "geom:latitude":44.916051,
     "geom:longitude":-68.927991,
@@ -14,20 +14,22 @@
     "lbl:latitude":44.916049,
     "lbl:longitude":-68.927991,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Kenduskeag",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404474727,
         85633793,
-        102080723
+        102080723,
+        404474727,
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759581"
     },
     "wof:country":"US",
-    "wof:geomhash":"71efa5d46798cda31564cee7063753e2",
+    "wof:geomhash":"506c9f597b562173c4cb94487d3e6dcd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554698441,
-    "wof:lastmodified":1480906070,
+    "wof:lastmodified":1611184681,
     "wof:name":"04450",
     "wof:parent_id":404474727,
     "wof:placetype":"postalcode",

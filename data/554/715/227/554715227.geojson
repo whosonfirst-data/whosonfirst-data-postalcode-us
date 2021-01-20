@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036854,
-    "geom:area_square_m":378054329.050782,
+    "geom:area_square_m":378054329.050831,
     "geom:bbox":"-86.585349,33.829742,-86.314197,34.071217",
     "geom:latitude":33.94123,
     "geom:longitude":-86.455215,
@@ -14,20 +14,25 @@
     "lbl:latitude":33.941185,
     "lbl:longitude":-86.455102,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Oneonta",
+    "mz:postal_locality_alt":[
+        "Matawan"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688675,
         102191575,
         85633793,
+        102085667,
         85913893,
-        102085667
+        85688675
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12772971"
     },
     "wof:country":"US",
-    "wof:geomhash":"394d56d22fbc562684a426f973f66ef9",
+    "wof:geomhash":"0e6275bf2248e82a6801871a061bd351",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554715227,
-    "wof:lastmodified":1480815485,
+    "wof:lastmodified":1611183643,
     "wof:name":"35121",
     "wof:parent_id":85913893,
     "wof:placetype":"postalcode",

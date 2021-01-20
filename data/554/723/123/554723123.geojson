@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001543,
-    "geom:area_square_m":15011531.888619,
+    "geom:area_square_m":15011531.88865,
     "geom:bbox":"-86.229711,38.07759,-86.14266,38.115995",
     "geom:latitude":38.098851,
     "geom:longitude":-86.185046,
@@ -14,20 +14,22 @@
     "lbl:latitude":38.098852,
     "lbl:longitude":-86.185044,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Central",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404500013,
         85633793,
-        102087165
+        102087165,
+        404500013,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778057"
     },
     "wof:country":"US",
-    "wof:geomhash":"d5921d46a0621f36689c2a991092fc88",
+    "wof:geomhash":"03a082442a41600b90ac71e5e437fcdb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554723123,
-    "wof:lastmodified":1480784536,
+    "wof:lastmodified":1611183810,
     "wof:name":"47110",
     "wof:parent_id":404500013,
     "wof:placetype":"postalcode",

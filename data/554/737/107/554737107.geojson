@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021405,
-    "geom:area_square_m":207532150.871158,
+    "geom:area_square_m":207532150.871567,
     "geom:bbox":"-92.035541,38.288674,-91.820046,38.457127",
     "geom:latitude":38.362254,
     "geom:longitude":-91.932555,
@@ -14,20 +14,25 @@
     "lbl:latitude":38.363815,
     "lbl:longitude":-91.946963,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Freeburg",
+    "mz:postal_locality_alt":[
+        "Westphalia"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404517221,
         85633793,
-        102086907
+        102086907,
+        404517221,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786330"
     },
     "wof:country":"US",
-    "wof:geomhash":"cb3e90345f5d423448c9cf4cee74f91c",
+    "wof:geomhash":"1de8f820b6e330043979a653fbdd0e08",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554737107,
-    "wof:lastmodified":1480916679,
+    "wof:lastmodified":1611182847,
     "wof:name":"65035",
     "wof:parent_id":404517221,
     "wof:placetype":"postalcode",

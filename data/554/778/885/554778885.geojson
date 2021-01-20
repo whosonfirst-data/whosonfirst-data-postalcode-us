@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005699,
-    "geom:area_square_m":50461257.355811,
+    "geom:area_square_m":50461257.355794,
     "geom:bbox":"-68.383985,44.215665,-68.280779,44.326715",
     "geom:latitude":44.273673,
     "geom:longitude":-68.324825,
@@ -14,21 +14,26 @@
     "lbl:latitude":44.278734,
     "lbl:longitude":-68.324541,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Southwest Harbor",
+    "mz:postal_locality_alt":[
+        "Blue Hill"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404475545,
         85633793,
+        102081201,
+        404475545,
         85949097,
-        102081201
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759707"
     },
     "wof:country":"US",
-    "wof:geomhash":"db7a332011d6ea6d3576dcb118a310ac",
+    "wof:geomhash":"8c1930dfea23b55b080da409413ba264",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554778885,
-    "wof:lastmodified":1480830742,
+    "wof:lastmodified":1611183440,
     "wof:name":"04679",
     "wof:parent_id":85949097,
     "wof:placetype":"postalcode",

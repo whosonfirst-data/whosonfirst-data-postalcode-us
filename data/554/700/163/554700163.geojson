@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003434,
-    "geom:area_square_m":32381880.885456,
+    "geom:area_square_m":32381880.885574,
     "geom:bbox":"-74.112961,40.270348,-74.02762,40.337219",
     "geom:latitude":40.298445,
     "geom:longitude":-74.07483,
@@ -13,21 +13,26 @@
     "lbl:latitude":40.298625,
     "lbl:longitude":-74.074178,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Eatontown",
+    "mz:postal_locality_alt":[
+        "Tinton Falls"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478337,
         85633793,
+        102085049,
+        404478337,
         85975361,
-        102085049
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760852"
     },
     "wof:country":"US",
-    "wof:geomhash":"34547092ed897e7538711a8bc4518078",
+    "wof:geomhash":"a22240380dc2de13aa388fb1f0772629",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554700163,
-    "wof:lastmodified":1480809853,
+    "wof:lastmodified":1611183195,
     "wof:name":"07724",
     "wof:parent_id":85975361,
     "wof:placetype":"postalcode",

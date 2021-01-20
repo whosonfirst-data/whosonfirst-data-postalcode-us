@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003021,
-    "geom:area_square_m":28326609.881495,
+    "geom:area_square_m":28326609.881528,
     "geom:bbox":"-122.411328,40.650573,-122.337203,40.709755",
     "geom:latitude":40.679157,
     "geom:longitude":-122.377386,
@@ -13,20 +13,25 @@
     "lbl:latitude":40.676564,
     "lbl:longitude":-122.380909,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Shasta Lake",
+    "mz:postal_locality_alt":[
+        "Central Valley"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102083577,
         85923853,
-        102083577
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12798132"
     },
     "wof:country":"US",
-    "wof:geomhash":"195bd2697f7814c6f83f5449961c12e9",
+    "wof:geomhash":"a37428ea8aaa9db67efc4efb983fc96d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554754269,
-    "wof:lastmodified":1480836693,
+    "wof:lastmodified":1611182888,
     "wof:name":"96019",
     "wof:parent_id":85923853,
     "wof:placetype":"postalcode",

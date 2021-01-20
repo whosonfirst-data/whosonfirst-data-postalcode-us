@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032779,
-    "geom:area_square_m":346166321.523293,
+    "geom:area_square_m":346166321.523325,
     "geom:bbox":"-89.302428,31.215445,-89.051757,31.443641",
     "geom:latitude":31.344487,
     "geom:longitude":-89.180365,
@@ -14,20 +14,25 @@
     "lbl:latitude":31.339572,
     "lbl:longitude":-89.18817,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Petal",
+    "mz:postal_locality_alt":[
+        "Hattiesburg"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688579,
         102191575,
         85633793,
+        102086673,
         85970023,
-        102086673
+        85688579
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12774955"
     },
     "wof:country":"US",
-    "wof:geomhash":"c61a95d7b13ffb0c8e9d45c790c58d5f",
+    "wof:geomhash":"dd1e12e8f346472d6c5f70aa311b32eb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554718401,
-    "wof:lastmodified":1480913147,
+    "wof:lastmodified":1611185551,
     "wof:name":"39465",
     "wof:parent_id":85970023,
     "wof:placetype":"postalcode",

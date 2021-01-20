@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002359,
-    "geom:area_square_m":24443627.764789,
+    "geom:area_square_m":24443627.764793,
     "geom:bbox":"-96.772039,33.037459,-96.690077,33.080804",
     "geom:latitude":33.057009,
     "geom:longitude":-96.732443,
@@ -13,20 +13,26 @@
     "lbl:latitude":33.056756,
     "lbl:longitude":-96.730831,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Plano",
+    "mz:postal_locality_alt":[
+        "Frisco",
+        "Rockwall"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102086765,
         101724389,
-        102086765
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12790313"
     },
     "wof:country":"US",
-    "wof:geomhash":"0b490e674cda9e5cb6c207a34d5be126",
+    "wof:geomhash":"62c77b51e667901b1fcacf8421d4f286",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554744167,
-    "wof:lastmodified":1480911653,
+    "wof:lastmodified":1611184712,
     "wof:name":"75023",
     "wof:parent_id":101724389,
     "wof:placetype":"postalcode",

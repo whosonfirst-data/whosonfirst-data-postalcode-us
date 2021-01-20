@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030634,
-    "geom:area_square_m":320204783.335169,
+    "geom:area_square_m":320204783.335225,
     "geom:bbox":"-89.236337,32.16218,-89.02323,32.409672",
     "geom:latitude":32.294545,
     "geom:longitude":-89.125845,
@@ -14,19 +14,25 @@
     "lbl:latitude":32.291789,
     "lbl:longitude":-89.121899,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Newton",
+    "mz:postal_locality_alt":[
+        "Union",
+        "Quitman"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688579,
-        102080631
+        102080631,
+        85688579
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12774905"
     },
     "wof:country":"US",
-    "wof:geomhash":"c412c35f7a554cb22acf5b6dd79c4276",
+    "wof:geomhash":"b0ef770236d3d56bf87ca09cf03e54b5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554718307,
-    "wof:lastmodified":1480903374,
+    "wof:lastmodified":1611185534,
     "wof:name":"39345",
     "wof:parent_id":102080631,
     "wof:placetype":"postalcode",

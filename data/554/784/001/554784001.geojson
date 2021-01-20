@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000652,
-    "geom:area_square_m":6695296.700721,
+    "geom:area_square_m":6695296.700719,
     "geom:bbox":"-118.259672,33.902526,-118.215523,33.924628",
     "geom:latitude":33.912376,
     "geom:longitude":-118.236509,
@@ -13,20 +13,26 @@
     "lbl:latitude":33.912246,
     "lbl:longitude":-118.236773,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Compton",
+    "mz:postal_locality_alt":[
+        "Beverly Hills",
+        "E Rancho Dmngz"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086957,
         85923663,
-        102086957
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795717"
     },
     "wof:country":"US",
-    "wof:geomhash":"76b4cb141a7e9203d01b10481dfacc38",
+    "wof:geomhash":"94a6c5c4a3ac37af30cba11b805c7190",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554784001,
-    "wof:lastmodified":1480912609,
+    "wof:lastmodified":1611183939,
     "wof:name":"90222",
     "wof:parent_id":85923663,
     "wof:placetype":"postalcode",

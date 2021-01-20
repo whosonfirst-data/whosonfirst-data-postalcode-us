@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.108171,
-    "geom:area_square_m":1061387921.625221,
+    "geom:area_square_m":1061387921.625364,
     "geom:bbox":"-106.065291,37.29374,-105.485516,37.634386",
     "geom:latitude":37.483694,
     "geom:longitude":-105.829951,
@@ -13,20 +13,26 @@
     "lbl:latitude":37.481245,
     "lbl:longitude":-105.833213,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Alamosa",
+    "mz:postal_locality_alt":[
+        "La Jara",
+        "Mosca"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688603,
         102191575,
         85633793,
+        102084133,
         85930413,
-        102084133
+        85688603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12793351"
     },
     "wof:country":"US",
-    "wof:geomhash":"efd33c9bc79a7ad321dddf9b8539a7aa",
+    "wof:geomhash":"30a585da281c5f69b548926332a37756",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554748589,
-    "wof:lastmodified":1480910772,
+    "wof:lastmodified":1611183843,
     "wof:name":"81101",
     "wof:parent_id":85930413,
     "wof:placetype":"postalcode",

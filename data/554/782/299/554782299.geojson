@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00637,
-    "geom:area_square_m":58935554.627896,
+    "geom:area_square_m":58935554.627861,
     "geom:bbox":"-83.300225,41.516263,-83.202418,41.623207",
     "geom:latitude":41.563099,
     "geom:longitude":-83.252117,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.563259,
     "lbl:longitude":-83.252471,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Graytown",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404525867,
         85633793,
-        102083765
+        102083765,
+        404525867,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776298"
     },
     "wof:country":"US",
-    "wof:geomhash":"19d47a0a7aedba8650aa4228e4cb72b1",
+    "wof:geomhash":"94b4fef5c84d30f751441475328b0eaa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554782299,
-    "wof:lastmodified":1480836588,
+    "wof:lastmodified":1611183631,
     "wof:name":"43432",
     "wof:parent_id":404525867,
     "wof:placetype":"postalcode",

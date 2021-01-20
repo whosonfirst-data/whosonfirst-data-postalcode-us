@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008094,
-    "geom:area_square_m":79411705.142119,
+    "geom:area_square_m":79411705.142026,
     "geom:bbox":"-93.49509,37.432676,-93.354266,37.538624",
     "geom:latitude":37.4869,
     "geom:longitude":-93.422873,
@@ -14,20 +14,22 @@
     "lbl:latitude":37.485555,
     "lbl:longitude":-93.421088,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Morrisville",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404517683,
         85633793,
-        102087499
+        102087499,
+        404517683,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786615"
     },
     "wof:country":"US",
-    "wof:geomhash":"e180f7e94be584720b6fc73e047f9170",
+    "wof:geomhash":"06e22783a93247ce15ef53114442b515",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554737669,
-    "wof:lastmodified":1480786628,
+    "wof:lastmodified":1611182835,
     "wof:name":"65710",
     "wof:parent_id":404517683,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003254,
-    "geom:area_square_m":31270276.427188,
+    "geom:area_square_m":31270276.427194,
     "geom:bbox":"-94.285546,38.954543,-94.225279,39.052824",
     "geom:latitude":39.007103,
     "geom:longitude":-94.255048,
@@ -13,21 +13,26 @@
     "lbl:latitude":39.00676,
     "lbl:longitude":-94.255136,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Blue Springs",
+    "mz:postal_locality_alt":[
+        "Grain Valley"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404518081,
         85633793,
+        102081227,
+        404518081,
         85971453,
-        102081227
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785951"
     },
     "wof:country":"US",
-    "wof:geomhash":"a9143adc6ff7d5937d951429a4b734c3",
+    "wof:geomhash":"2fa9c681b56da84075470ff1d0d5a1e3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554736385,
-    "wof:lastmodified":1480816991,
+    "wof:lastmodified":1611183034,
     "wof:name":"64014",
     "wof:parent_id":85971453,
     "wof:placetype":"postalcode",

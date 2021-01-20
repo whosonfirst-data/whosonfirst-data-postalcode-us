@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006987,
-    "geom:area_square_m":67380441.810597,
+    "geom:area_square_m":67380441.810512,
     "geom:bbox":"-76.986004,38.692885,-76.837528,38.807476",
     "geom:latitude":38.750117,
     "geom:longitude":-76.905887,
@@ -14,20 +14,22 @@
     "lbl:latitude":38.750917,
     "lbl:longitude":-76.902669,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Clinton",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688501,
         102191575,
         85633793,
+        102082191,
         85949931,
-        102082191
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766279"
     },
     "wof:country":"US",
-    "wof:geomhash":"5094321c1a8079a9afb02beda04dcca1",
+    "wof:geomhash":"fe44ae09a3c705b197c96cbc286343df",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554706959,
-    "wof:lastmodified":1480794380,
+    "wof:lastmodified":1611182701,
     "wof:name":"20735",
     "wof:parent_id":85949931,
     "wof:placetype":"postalcode",

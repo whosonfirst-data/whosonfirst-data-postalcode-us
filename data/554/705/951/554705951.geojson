@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001223,
-    "geom:area_square_m":11352648.766605,
+    "geom:area_square_m":11352648.766567,
     "geom:bbox":"-75.762613,41.31389,-75.678704,41.365893",
     "geom:latitude":41.336064,
     "geom:longitude":-75.730414,
@@ -13,20 +13,27 @@
     "lbl:latitude":41.340533,
     "lbl:longitude":-75.725729,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Avoca",
+    "mz:postal_locality_alt":[
+        "Pittston",
+        "Dupont",
+        "Moosic"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404486983,
         85633793,
-        102081351
+        102081351,
+        404486983,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765272"
     },
     "wof:country":"US",
-    "wof:geomhash":"4e6437c58a75e7132345935e0e29481c",
+    "wof:geomhash":"e08eb44f911ef1a8549b75189bf727c6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +45,7 @@
         }
     ],
     "wof:id":554705951,
-    "wof:lastmodified":1480832111,
+    "wof:lastmodified":1611184114,
     "wof:name":"18641",
     "wof:parent_id":404486983,
     "wof:placetype":"postalcode",

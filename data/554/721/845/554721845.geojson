@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036527,
-    "geom:area_square_m":347263512.672075,
+    "geom:area_square_m":347263512.671956,
     "geom:bbox":"-84.8146,39.64363,-84.535484,39.867382",
     "geom:latitude":39.74914,
     "geom:longitude":-84.688106,
@@ -14,20 +14,26 @@
     "lbl:latitude":39.750639,
     "lbl:longitude":-84.681424,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Eaton",
+    "mz:postal_locality_alt":[
+        "Donnelsville",
+        "Englewood"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404525827,
         85633793,
-        102083757
+        102083757,
+        404525827,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777211"
     },
     "wof:country":"US",
-    "wof:geomhash":"e039b25aca8456c0c75b12abb9b3b5c3",
+    "wof:geomhash":"9732559216adc28c9d9575eebddfddd8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554721845,
-    "wof:lastmodified":1480915792,
+    "wof:lastmodified":1611184949,
     "wof:name":"45320",
     "wof:parent_id":404525827,
     "wof:placetype":"postalcode",

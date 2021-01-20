@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044583,
-    "geom:area_square_m":453187463.573779,
+    "geom:area_square_m":453187463.573513,
     "geom:bbox":"-83.681696,34.588085,-83.338173,34.86692",
     "geom:latitude":34.707826,
     "geom:longitude":-83.536491,
@@ -14,19 +14,24 @@
     "lbl:latitude":34.716543,
     "lbl:longitude":-83.552878,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Clarkesville",
+    "mz:postal_locality_alt":[
+        "Demorest"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688535,
-        102084699
+        102084699,
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770871"
     },
     "wof:country":"US",
-    "wof:geomhash":"0d36bb4dfc7915c020ebc00de92acc75",
+    "wof:geomhash":"d8bf45675f1836769bbeeb4e2a5bf897",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554713229,
-    "wof:lastmodified":1480841090,
+    "wof:lastmodified":1611183297,
     "wof:name":"30523",
     "wof:parent_id":102084699,
     "wof:placetype":"postalcode",

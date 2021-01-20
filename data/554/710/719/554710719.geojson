@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02406,
-    "geom:area_square_m":240322251.263901,
+    "geom:area_square_m":240322251.263818,
     "geom:bbox":"-78.599476,36.033877,-78.331475,36.191494",
     "geom:latitude":36.118379,
     "geom:longitude":-78.46809,
@@ -14,19 +14,26 @@
     "lbl:latitude":36.136109,
     "lbl:longitude":-78.458098,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Franklinton",
+    "mz:postal_locality_alt":[
+        "Creedmoor",
+        "Youngsville",
+        "Chapel Hill"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688773,
-        102080873
+        102080873,
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12769089"
     },
     "wof:country":"US",
-    "wof:geomhash":"34f128711b128b56ed064498fd2c43b3",
+    "wof:geomhash":"abe282ca6f20d9066a0ab095b98fc1b2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +44,7 @@
         }
     ],
     "wof:id":554710719,
-    "wof:lastmodified":1480904785,
+    "wof:lastmodified":1611185136,
     "wof:name":"27525",
     "wof:parent_id":102080873,
     "wof:placetype":"postalcode",

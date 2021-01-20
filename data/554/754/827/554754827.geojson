@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016621,
-    "geom:area_square_m":145313395.998141,
+    "geom:area_square_m":145313395.998097,
     "geom:bbox":"-124.017961,44.948267,-123.795116,45.072025",
     "geom:latitude":45.005859,
     "geom:longitude":-123.906352,
@@ -14,20 +14,25 @@
     "lbl:latitude":45.024376,
     "lbl:longitude":-123.903116,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Otis",
+    "mz:postal_locality_alt":[
+        "Lincoln City"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688513,
         102191575,
         85633793,
+        102081615,
         101716387,
-        102081615
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12798612"
     },
     "wof:country":"US",
-    "wof:geomhash":"a7b646b55cd37e7197c0fe7d6450a4b7",
+    "wof:geomhash":"90c8a8cf4131cbc298f127bba7cc17ac",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554754827,
-    "wof:lastmodified":1480823038,
+    "wof:lastmodified":1611182875,
     "wof:name":"97368",
     "wof:parent_id":101716387,
     "wof:placetype":"postalcode",

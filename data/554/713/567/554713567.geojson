@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.055713,
-    "geom:area_square_m":584628436.455802,
+    "geom:area_square_m":584628436.455675,
     "geom:bbox":"-83.961278,31.819731,-83.55751,32.030597",
     "geom:latitude":31.935503,
     "geom:longitude":-83.775315,
@@ -13,19 +13,24 @@
     "lbl:latitude":31.935,
     "lbl:longitude":-83.774945,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cordele",
+    "mz:postal_locality_alt":[
+        "Helena"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688535,
-        102083615
+        102083615,
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12771064"
     },
     "wof:country":"US",
-    "wof:geomhash":"873b28f112ed44a0aaceeaff8e0d81b5",
+    "wof:geomhash":"bc0577264e0a945cc7ad9d9143da7be4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +41,7 @@
         }
     ],
     "wof:id":554713567,
-    "wof:lastmodified":1480837942,
+    "wof:lastmodified":1611183292,
     "wof:name":"31015",
     "wof:parent_id":102083615,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011291,
-    "geom:area_square_m":103676697.996185,
+    "geom:area_square_m":103676697.99621,
     "geom:bbox":"-75.959176,41.998606,-75.808568,42.103569",
     "geom:latitude":42.04733,
     "geom:longitude":-75.895505,
@@ -14,20 +14,22 @@
     "lbl:latitude":42.041869,
     "lbl:longitude":-75.889077,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Binghamton",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404521627,
         85633793,
-        102081755
+        102081755,
+        404521627,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763053"
     },
     "wof:country":"US",
-    "wof:geomhash":"c4ad293cdae6f4870553256568c530b1",
+    "wof:geomhash":"5a8a1ae4773c36448d2c60d5efe9bb42",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554702717,
-    "wof:lastmodified":1480833360,
+    "wof:lastmodified":1611184172,
     "wof:name":"13903",
     "wof:parent_id":404521627,
     "wof:placetype":"postalcode",

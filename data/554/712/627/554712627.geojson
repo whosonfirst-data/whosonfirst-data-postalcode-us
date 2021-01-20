@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022763,
-    "geom:area_square_m":236735283.285221,
+    "geom:area_square_m":236735283.285171,
     "geom:bbox":"-81.427517,32.674723,-81.09795,32.824359",
     "geom:latitude":32.745604,
     "geom:longitude":-81.242037,
@@ -14,20 +14,25 @@
     "lbl:latitude":32.744462,
     "lbl:longitude":-81.247365,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Estill",
+    "mz:postal_locality_alt":[
+        "Bluffton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688683,
         102191575,
         85633793,
+        102085535,
         101720981,
-        102085535
+        85688683
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770465"
     },
     "wof:country":"US",
-    "wof:geomhash":"71e9aaf940bada399bb294f0103ad993",
+    "wof:geomhash":"2b1d01c15cc053edc84d048a39c40ccb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554712627,
-    "wof:lastmodified":1480838733,
+    "wof:lastmodified":1611183701,
     "wof:name":"29918",
     "wof:parent_id":101720981,
     "wof:placetype":"postalcode",

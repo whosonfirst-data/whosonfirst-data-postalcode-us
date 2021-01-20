@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005367,
-    "geom:area_square_m":50870027.33325,
+    "geom:area_square_m":50870027.333249,
     "geom:bbox":"-105.238933,39.913658,-105.109265,40.000136",
     "geom:latitude":39.950665,
     "geom:longitude":-105.1639,
@@ -13,20 +13,26 @@
     "lbl:latitude":39.950806,
     "lbl:longitude":-105.159496,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Louisville",
+    "mz:postal_locality_alt":[
+        "Superior",
+        "Aurora"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688603,
         102191575,
         85633793,
+        102085251,
         85929773,
-        102085251
+        85688603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12792885"
     },
     "wof:country":"US",
-    "wof:geomhash":"d71937dfd5754b94ebf52e11dd31a4f4",
+    "wof:geomhash":"42ca73986bad666a40473965bbc60985",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554747917,
-    "wof:lastmodified":1480910652,
+    "wof:lastmodified":1611183487,
     "wof:name":"80027",
     "wof:parent_id":85929773,
     "wof:placetype":"postalcode",

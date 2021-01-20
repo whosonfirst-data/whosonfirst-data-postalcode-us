@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025552,
-    "geom:area_square_m":272681935.996458,
+    "geom:area_square_m":272681935.996233,
     "geom:bbox":"-97.639053,30.197759,-97.423432,30.48521",
     "geom:latitude":30.339412,
     "geom:longitude":-97.523671,
@@ -14,20 +14,25 @@
     "lbl:latitude":30.339717,
     "lbl:longitude":-97.523482,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Manor",
+    "mz:postal_locality_alt":[
+        "Webberville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102081935,
         101725955,
-        102081935
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12792254"
     },
     "wof:country":"US",
-    "wof:geomhash":"53c3e6bf08e465dac240618839785a34",
+    "wof:geomhash":"724e5b69df218894cc3e6172b116ab01",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554747025,
-    "wof:lastmodified":1480831123,
+    "wof:lastmodified":1611183456,
     "wof:name":"78653",
     "wof:parent_id":101725955,
     "wof:placetype":"postalcode",

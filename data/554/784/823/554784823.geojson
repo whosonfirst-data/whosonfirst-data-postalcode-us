@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004722,
-    "geom:area_square_m":46106905.30663,
+    "geom:area_square_m":46106905.306652,
     "geom:bbox":"-122.634053,37.814947,-122.457283,37.886775",
     "geom:latitude":37.851299,
     "geom:longitude":-122.526968,
@@ -14,19 +14,25 @@
     "lbl:latitude":37.852904,
     "lbl:longitude":-122.547207,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Sausalito",
+    "mz:postal_locality_alt":[
+        "Mill Valley",
+        "Muir Beach"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688637,
-        102084353
+        102084353,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12797482"
     },
     "wof:country":"US",
-    "wof:geomhash":"de2b5ddc68f09c622b3fe6ebee47d965",
+    "wof:geomhash":"1e779c96c93388f8a311382e218724bf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554784823,
-    "wof:lastmodified":1480796905,
+    "wof:lastmodified":1611183950,
     "wof:name":"94965",
     "wof:parent_id":102084353,
     "wof:placetype":"postalcode",

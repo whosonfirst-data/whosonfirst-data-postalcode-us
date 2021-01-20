@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002187,
-    "geom:area_square_m":20201301.360038,
+    "geom:area_square_m":20201301.360028,
     "geom:bbox":"-70.223517,41.636006,-70.159352,41.705588",
     "geom:latitude":41.673855,
     "geom:longitude":-70.194852,
@@ -14,21 +14,30 @@
     "lbl:latitude":41.674727,
     "lbl:longitude":-70.195648,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"South Yarmouth",
+    "mz:postal_locality_alt":[
+        "Bass River",
+        "Yarmouth Port",
+        "East Dennis",
+        "Mashpee",
+        "West Dennis"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476089,
         85633793,
+        102084379,
+        404476089,
         85950511,
-        102084379
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758931"
     },
     "wof:country":"US",
-    "wof:geomhash":"9462b28cf373f024d5a79303b0070f02",
+    "wof:geomhash":"40c547a266cad90dc1e0e987b80e650d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +50,7 @@
         }
     ],
     "wof:id":554778503,
-    "wof:lastmodified":1480802731,
+    "wof:lastmodified":1611183426,
     "wof:name":"02664",
     "wof:parent_id":85950511,
     "wof:placetype":"postalcode",

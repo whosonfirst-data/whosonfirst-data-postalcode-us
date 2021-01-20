@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020624,
-    "geom:area_square_m":173611836.974861,
+    "geom:area_square_m":173611836.974788,
     "geom:bbox":"-98.340601,47.052059,-98.010565,47.168191",
     "geom:latitude":47.095289,
     "geom:longitude":-98.184595,
@@ -14,20 +14,22 @@
     "lbl:latitude":47.092281,
     "lbl:longitude":-98.182703,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Rogers",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688525,
         102191575,
-        404480093,
         85633793,
-        102082051
+        102082051,
+        404480093,
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12783346"
     },
     "wof:country":"US",
-    "wof:geomhash":"1177b2820a15ef081f69b7781412bc99",
+    "wof:geomhash":"b628d8b00b759c4ebe655faf6d7f00d5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554732041,
-    "wof:lastmodified":1480796039,
+    "wof:lastmodified":1611184369,
     "wof:name":"58479",
     "wof:parent_id":404480093,
     "wof:placetype":"postalcode",

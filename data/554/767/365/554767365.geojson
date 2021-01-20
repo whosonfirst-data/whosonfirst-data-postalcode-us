@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000009,
-    "geom:area_square_m":89158.976405,
+    "geom:area_square_m":89158.976404,
     "geom:bbox":"-76.58632,40.27554,-76.572401,40.278809",
     "geom:latitude":40.277691,
     "geom:longitude":-76.581711,
@@ -14,21 +14,26 @@
     "lbl:latitude":40.277992,
     "lbl:longitude":-76.582841,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Campbelltown",
+    "mz:postal_locality_alt":[
+        "Palmyra"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404483435,
         85633793,
+        102081341,
+        404483435,
         101719379,
-        102081341
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764555"
     },
     "wof:country":"US",
-    "wof:geomhash":"0c9aeb21f972d225da95f0e037999107",
+    "wof:geomhash":"341805239732514f7585efc3d20972be",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554767365,
-    "wof:lastmodified":1480818672,
+    "wof:lastmodified":1611184252,
     "wof:name":"17010",
     "wof:parent_id":101719379,
     "wof:placetype":"postalcode",

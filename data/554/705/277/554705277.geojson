@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000859,
-    "geom:area_square_m":8127717.704855,
+    "geom:area_square_m":8127717.704839,
     "geom:bbox":"-76.447305,40.023335,-76.40422,40.054334",
     "geom:latitude":40.039569,
     "geom:longitude":-76.426029,
@@ -14,21 +14,26 @@
     "lbl:latitude":40.040303,
     "lbl:longitude":-76.424176,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mountville",
+    "mz:postal_locality_alt":[
+        "New Holland"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404483393,
         85633793,
+        102081377,
+        404483393,
         101718629,
-        102081377
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764817"
     },
     "wof:country":"US",
-    "wof:geomhash":"7476b3ea078106ff3f806308e91bd99d",
+    "wof:geomhash":"80fa18a4c0489f54ce409e1eb93c91db",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554705277,
-    "wof:lastmodified":1480817411,
+    "wof:lastmodified":1611184116,
     "wof:name":"17554",
     "wof:parent_id":101718629,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031342,
-    "geom:area_square_m":270512786.757668,
+    "geom:area_square_m":270512786.757366,
     "geom:bbox":"-86.784373,45.478281,-86.459279,45.892975",
     "geom:latitude":45.733444,
     "geom:longitude":-86.578773,
@@ -14,20 +14,22 @@
     "lbl:latitude":45.735775,
     "lbl:longitude":-86.562598,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Garden",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404507301,
         85633793,
-        102083091
+        102083091,
+        404507301,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779590"
     },
     "wof:country":"US",
-    "wof:geomhash":"28498e69c45d1892e8d85bc9874b94fe",
+    "wof:geomhash":"2353d88a5d424677b0a7b777ebc9b1cd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554782841,
-    "wof:lastmodified":1480839398,
+    "wof:lastmodified":1611183621,
     "wof:name":"49835",
     "wof:parent_id":404507301,
     "wof:placetype":"postalcode",

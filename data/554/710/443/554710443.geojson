@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025732,
-    "geom:area_square_m":256173575.990761,
+    "geom:area_square_m":256173575.99084,
     "geom:bbox":"-80.147839,36.278982,-79.788063,36.463615",
     "geom:latitude":36.377884,
     "geom:longitude":-79.972869,
@@ -14,20 +14,27 @@
     "lbl:latitude":36.379051,
     "lbl:longitude":-79.969387,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Madison",
+    "mz:postal_locality_alt":[
+        "Rural Hall",
+        "Mayodan",
+        "Stokesdale"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688773,
         102191575,
         85633793,
+        102087893,
         85981307,
-        102087893
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12768895"
     },
     "wof:country":"US",
-    "wof:geomhash":"5cd7f85ced62c614c06b5e57c9785704",
+    "wof:geomhash":"803524506858ab1fc31c0774d11a69ba",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554710443,
-    "wof:lastmodified":1480784371,
+    "wof:lastmodified":1611185125,
     "wof:name":"27025",
     "wof:parent_id":85981307,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.084531,
-    "geom:area_square_m":729655701.729454,
+    "geom:area_square_m":729655701.729944,
     "geom:bbox":"-89.047635,45.586527,-88.570604,45.89593",
     "geom:latitude":45.727633,
     "geom:longitude":-88.834125,
@@ -14,20 +14,22 @@
     "lbl:latitude":45.737524,
     "lbl:longitude":-88.823003,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Argonne",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404491799,
         85633793,
-        102081885
+        102081885,
+        404491799,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781366"
     },
     "wof:country":"US",
-    "wof:geomhash":"db2bcc31ebe34623cafbfcf790972df7",
+    "wof:geomhash":"000fef33ab93e18e9977732ad2b79101",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554728377,
-    "wof:lastmodified":1480832427,
+    "wof:lastmodified":1611185066,
     "wof:name":"54511",
     "wof:parent_id":404491799,
     "wof:placetype":"postalcode",

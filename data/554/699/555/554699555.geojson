@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003948,
-    "geom:area_square_m":36638114.661258,
+    "geom:area_square_m":36638114.661261,
     "geom:bbox":"-72.524062,41.334209,-72.382594,41.401798",
     "geom:latitude":41.368936,
     "geom:longitude":-72.462293,
@@ -14,20 +14,26 @@
     "lbl:latitude":41.367819,
     "lbl:longitude":-72.477442,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Deep River",
+    "mz:postal_locality_alt":[
+        "Salem",
+        "Fairfield"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688629,
         102191575,
-        404495851,
         85633793,
-        102086211
+        102086211,
+        404495851,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760388"
     },
     "wof:country":"US",
-    "wof:geomhash":"41a3a9f01cbcec5b4845160685585791",
+    "wof:geomhash":"2115de9aa2b56b64561f49780a91852a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554699555,
-    "wof:lastmodified":1480908721,
+    "wof:lastmodified":1611184618,
     "wof:name":"06417",
     "wof:parent_id":404495851,
     "wof:placetype":"postalcode",

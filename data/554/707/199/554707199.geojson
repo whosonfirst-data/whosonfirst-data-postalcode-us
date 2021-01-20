@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005708,
-    "geom:area_square_m":54509933.239759,
+    "geom:area_square_m":54509933.239777,
     "geom:bbox":"-76.717458,39.397239,-76.55729,39.47627",
     "geom:latitude":39.439792,
     "geom:longitude":-76.640862,
@@ -14,20 +14,27 @@
     "lbl:latitude":39.43914,
     "lbl:longitude":-76.64095,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lutherville",
+    "mz:postal_locality_alt":[
+        "Timonium",
+        "Lutherville Timonium",
+        "Cockeysville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688501,
         102191575,
         85633793,
+        102082193,
         85950199,
-        102082193
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766457"
     },
     "wof:country":"US",
-    "wof:geomhash":"27ed0f3530eee72795225bffcbdd08d9",
+    "wof:geomhash":"b1f604df2c98ce911c6ae54936f80819",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554707199,
-    "wof:lastmodified":1480791338,
+    "wof:lastmodified":1611183155,
     "wof:name":"21093",
     "wof:parent_id":85950199,
     "wof:placetype":"postalcode",

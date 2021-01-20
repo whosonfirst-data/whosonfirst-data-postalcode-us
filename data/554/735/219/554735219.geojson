@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039682,
-    "geom:area_square_m":375110059.511764,
+    "geom:area_square_m":375110059.51194,
     "geom:bbox":"-89.550985,40.01919,-89.214885,40.243879",
     "geom:latitude":40.139865,
     "geom:longitude":-89.371637,
@@ -14,21 +14,26 @@
     "lbl:latitude":40.140745,
     "lbl:longitude":-89.370598,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lincoln",
+    "mz:postal_locality_alt":[
+        "Carlinville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404497921,
         85633793,
+        102082843,
+        404497921,
         85938803,
-        102082843
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785270"
     },
     "wof:country":"US",
-    "wof:geomhash":"d40c586d5cced854bc5f982f36be2529",
+    "wof:geomhash":"d68496b200f91afb9c0859893de95ab2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554735219,
-    "wof:lastmodified":1480789816,
+    "wof:lastmodified":1611184416,
     "wof:name":"62656",
     "wof:parent_id":85938803,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021509,
-    "geom:area_square_m":194998578.114722,
+    "geom:area_square_m":194998578.114719,
     "geom:bbox":"-86.058602,42.738709,-85.874114,42.97205",
     "geom:latitude":42.847138,
     "geom:longitude":-85.986165,
@@ -14,20 +14,26 @@
     "lbl:latitude":42.844801,
     "lbl:longitude":-85.984794,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Zeeland",
+    "mz:postal_locality_alt":[
+        "Holland",
+        "Douglas"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404506185,
         85633793,
-        102083097
+        102083097,
+        404506185,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779392"
     },
     "wof:country":"US",
-    "wof:geomhash":"88384a9a50733ac76c20d6f04b86cd35",
+    "wof:geomhash":"baf485428fc0d056c9a4af772e6d9ac6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554725113,
-    "wof:lastmodified":1480843204,
+    "wof:lastmodified":1611183289,
     "wof:name":"49464",
     "wof:parent_id":404506185,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011161,
-    "geom:area_square_m":102764546.928475,
+    "geom:area_square_m":102764546.928391,
     "geom:bbox":"-70.829827,41.800371,-70.680534,41.947507",
     "geom:latitude":41.873871,
     "geom:longitude":-70.756276,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.878644,
     "lbl:longitude":-70.743199,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Carver",
+    "mz:postal_locality_alt":[
+        "South Carver"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476505,
         85633793,
-        102084367
+        102084367,
+        404476505,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758801"
     },
     "wof:country":"US",
-    "wof:geomhash":"b56803c7a9447db81529c518b1d97805",
+    "wof:geomhash":"405a22a9a47eedd32be5506e070139bf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554778395,
-    "wof:lastmodified":1480801204,
+    "wof:lastmodified":1611183436,
     "wof:name":"02330",
     "wof:parent_id":404476505,
     "wof:placetype":"postalcode",

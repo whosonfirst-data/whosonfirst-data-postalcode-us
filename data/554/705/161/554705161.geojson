@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004453,
-    "geom:area_square_m":42328725.63334,
+    "geom:area_square_m":42328725.633343,
     "geom:bbox":"-76.899217,39.72039,-76.78161,39.800981",
     "geom:latitude":39.761846,
     "geom:longitude":-76.851111,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.761844,
     "lbl:longitude":-76.85112,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Glenville",
+    "mz:postal_locality_alt":[
+        "Brodbecks"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404487825,
         85633793,
-        102080953
+        102080953,
+        404487825,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764742"
     },
     "wof:country":"US",
-    "wof:geomhash":"e50a07c373065f08142c4f48bb613830",
+    "wof:geomhash":"29da77e7f4c8a697d93792c7e0cbf73b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554705161,
-    "wof:lastmodified":1480903981,
+    "wof:lastmodified":1611184092,
     "wof:name":"17329",
     "wof:parent_id":404487825,
     "wof:placetype":"postalcode",

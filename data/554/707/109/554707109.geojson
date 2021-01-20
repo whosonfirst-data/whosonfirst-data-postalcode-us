@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003524,
-    "geom:area_square_m":33807130.060584,
+    "geom:area_square_m":33807130.060593,
     "geom:bbox":"-77.037155,39.081776,-76.94815,39.148762",
     "geom:latitude":39.111948,
     "geom:longitude":-76.992923,
@@ -13,20 +13,25 @@
     "lbl:latitude":39.109705,
     "lbl:longitude":-76.988329,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Silver Spring",
+    "mz:postal_locality_alt":[
+        "Colesville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688501,
         102191575,
         85633793,
+        102082719,
         85950303,
-        102082719
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766388"
     },
     "wof:country":"US",
-    "wof:geomhash":"8730a99ff6e50b9f26915da0674ec914",
+    "wof:geomhash":"a284cd37639f580e5782673657246e38",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554707109,
-    "wof:lastmodified":1480800770,
+    "wof:lastmodified":1611183153,
     "wof:name":"20905",
     "wof:parent_id":85950303,
     "wof:placetype":"postalcode",

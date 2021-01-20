@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00284,
-    "geom:area_square_m":26669765.261632,
+    "geom:area_square_m":26669765.261641,
     "geom:bbox":"-74.40448,40.548278,-74.332485,40.605503",
     "geom:latitude":40.577068,
     "geom:longitude":-74.365776,
@@ -14,20 +14,27 @@
     "lbl:latitude":40.576806,
     "lbl:longitude":-74.36575,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Edison",
+    "mz:postal_locality_alt":[
+        "Clinton",
+        "Parlin",
+        "Somerset"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478273,
         85633793,
-        102087417
+        102087417,
+        404478273,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761267"
     },
     "wof:country":"US",
-    "wof:geomhash":"32f4c24ead3741ffff3888d2da23874c",
+    "wof:geomhash":"33ad1dbbfd6124052fd40c48f019b028",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554700707,
-    "wof:lastmodified":1480805175,
+    "wof:lastmodified":1611183178,
     "wof:name":"08820",
     "wof:parent_id":404478273,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000637,
-    "geom:area_square_m":5955198.31499,
+    "geom:area_square_m":5955198.314984,
     "geom:bbox":"-74.09864,40.861442,-74.064149,40.89517",
     "geom:latitude":40.878471,
     "geom:longitude":-74.081367,
@@ -14,21 +14,26 @@
     "lbl:latitude":40.877915,
     "lbl:longitude":-74.0825,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lodi",
+    "mz:postal_locality_alt":[
+        "Montvale"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477681,
         85633793,
+        102086773,
+        404477681,
         85975979,
-        102086773
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760817"
     },
     "wof:country":"US",
-    "wof:geomhash":"d1781e05b6b0ea91065612dd127cb160",
+    "wof:geomhash":"90fec72b6efeec8c22fec84d468cdf38",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554700119,
-    "wof:lastmodified":1480908560,
+    "wof:lastmodified":1611183192,
     "wof:name":"07644",
     "wof:parent_id":85975979,
     "wof:placetype":"postalcode",

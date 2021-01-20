@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007123,
-    "geom:area_square_m":67451746.500115,
+    "geom:area_square_m":67451746.500081,
     "geom:bbox":"-76.310866,39.960645,-76.191997,40.061927",
     "geom:latitude":40.01501,
     "geom:longitude":-76.245981,
@@ -13,20 +13,22 @@
     "lbl:latitude":40.014623,
     "lbl:longitude":-76.246351,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lancaster",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485553,
         85633793,
-        102081377
+        102081377,
+        404485553,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764843"
     },
     "wof:country":"US",
-    "wof:geomhash":"0ff1cba8e02f12ff7156691881ac11ed",
+    "wof:geomhash":"c6c235feedd8d7ed44723923f5344dd3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +40,7 @@
         }
     ],
     "wof:id":554705315,
-    "wof:lastmodified":1480817417,
+    "wof:lastmodified":1611184107,
     "wof:name":"17602",
     "wof:parent_id":404485553,
     "wof:placetype":"postalcode",

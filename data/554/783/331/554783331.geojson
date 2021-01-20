@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00354,
-    "geom:area_square_m":32636828.575776,
+    "geom:area_square_m":32636828.575764,
     "geom:bbox":"-87.907793,41.738902,-87.801961,41.819928",
     "geom:latitude":41.78423,
     "geom:longitude":-87.86893,
@@ -14,21 +14,32 @@
     "lbl:latitude":41.784397,
     "lbl:longitude":-87.868959,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Countryside",
+    "mz:postal_locality_alt":[
+        "La Grange",
+        "Hodgkins",
+        "La Grange Highlands",
+        "Mc Cook",
+        "McCook",
+        "Lagrange",
+        "Chicago"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404497627,
         85633793,
+        102084317,
+        404497627,
         85940873,
-        102084317
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784212"
     },
     "wof:country":"US",
-    "wof:geomhash":"50610d801a2193a8a34d8c83a507661e",
+    "wof:geomhash":"b8a62ac7c7b82db3c04a27329bd0a790",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +52,7 @@
         }
     ],
     "wof:id":554783331,
-    "wof:lastmodified":1480802054,
+    "wof:lastmodified":1611183872,
     "wof:name":"60525",
     "wof:parent_id":85940873,
     "wof:placetype":"postalcode",

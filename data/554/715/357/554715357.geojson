@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005596,
-    "geom:area_square_m":57793595.898905,
+    "geom:area_square_m":57793595.899036,
     "geom:bbox":"-86.908043,33.29976,-86.734508,33.402825",
     "geom:latitude":33.353737,
     "geom:longitude":-86.825425,
@@ -13,20 +13,25 @@
     "lbl:latitude":33.352918,
     "lbl:longitude":-86.825333,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Birmingham",
+    "mz:postal_locality_alt":[
+        "Hoover"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688675,
         102191575,
         85633793,
+        102085481,
         85914475,
-        102085481
+        85688675
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12773052"
     },
     "wof:country":"US",
-    "wof:geomhash":"5b175a47882c5a7318000682c11caf1f",
+    "wof:geomhash":"c7ff23408211111c7b64196b6ec33263",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554715357,
-    "wof:lastmodified":1480811906,
+    "wof:lastmodified":1611183665,
     "wof:name":"35244",
     "wof:parent_id":85914475,
     "wof:placetype":"postalcode",

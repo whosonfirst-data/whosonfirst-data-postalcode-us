@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013943,
-    "geom:area_square_m":131345722.398541,
+    "geom:area_square_m":131345722.398489,
     "geom:bbox":"-78.746776,40.260475,-78.518651,40.467507",
     "geom:latitude":40.372366,
     "geom:longitude":-78.632784,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.372127,
     "lbl:longitude":-78.633397,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Portage",
+    "mz:postal_locality_alt":[
+        "Wilmore"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485399,
         85633793,
-        102080879
+        102080879,
+        404485399,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764091"
     },
     "wof:country":"US",
-    "wof:geomhash":"69888885ff984b384a0aca83af9e7bd6",
+    "wof:geomhash":"8fccee9ae0a258128c0ebb3996f6bb9b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554704193,
-    "wof:lastmodified":1480903613,
+    "wof:lastmodified":1611184489,
     "wof:name":"15946",
     "wof:parent_id":404485399,
     "wof:placetype":"postalcode",

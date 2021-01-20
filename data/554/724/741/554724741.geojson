@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013497,
-    "geom:area_square_m":124302436.258686,
+    "geom:area_square_m":124302436.25883,
     "geom:bbox":"-85.438904,41.759763,-85.24998,41.924876",
     "geom:latitude":41.856494,
     "geom:longitude":-85.331749,
@@ -13,20 +13,25 @@
     "lbl:latitude":41.865948,
     "lbl:longitude":-85.33888,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Burr Oak",
+    "mz:postal_locality_alt":[
+        "Saint Joseph"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404508939,
         85633793,
-        102083093
+        102083093,
+        404508939,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779140"
     },
     "wof:country":"US",
-    "wof:geomhash":"a707a87d16838f2d3d7893f7e4859862",
+    "wof:geomhash":"80add04c637bd5007985f40377372fa8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554724741,
-    "wof:lastmodified":1480843001,
+    "wof:lastmodified":1611183757,
     "wof:name":"49030",
     "wof:parent_id":404508939,
     "wof:placetype":"postalcode",

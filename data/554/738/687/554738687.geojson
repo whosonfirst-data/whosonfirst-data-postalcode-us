@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019025,
-    "geom:area_square_m":185844532.769348,
+    "geom:area_square_m":185844532.769417,
     "geom:bbox":"-97.808134,37.733779,-97.518826,37.907757",
     "geom:latitude":37.81397,
     "geom:longitude":-97.68209,
@@ -14,20 +14,25 @@
     "lbl:latitude":37.816344,
     "lbl:longitude":-97.690681,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mt Hope",
+    "mz:postal_locality_alt":[
+        "Mount Hope"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404503149,
         85633793,
-        102084203
+        102084203,
+        404503149,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787130"
     },
     "wof:country":"US",
-    "wof:geomhash":"5a74788523fb924d41fe1295cee0da3a",
+    "wof:geomhash":"af1c2f5954ac134b53f7780b6130ba8f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554738687,
-    "wof:lastmodified":1480836574,
+    "wof:lastmodified":1611183100,
     "wof:name":"67108",
     "wof:parent_id":404503149,
     "wof:placetype":"postalcode",

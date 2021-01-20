@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00516,
-    "geom:area_square_m":48826378.924257,
+    "geom:area_square_m":48826378.92426,
     "geom:bbox":"-74.553105,40.036676,-74.444524,40.116643",
     "geom:latitude":40.07108,
     "geom:longitude":-74.493749,
@@ -14,20 +14,26 @@
     "lbl:latitude":40.071031,
     "lbl:longitude":-74.500141,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"New Egypt",
+    "mz:postal_locality_alt":[
+        "Jackson",
+        "Creamridge"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477787,
         85633793,
-        102081485
+        102081485,
+        404477787,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761174"
     },
     "wof:country":"US",
-    "wof:geomhash":"70eed33d8448b4df5436ef595b83eb86",
+    "wof:geomhash":"48acfd545455eb93d34c7cf3fb3be674",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554700589,
-    "wof:lastmodified":1480817270,
+    "wof:lastmodified":1611183192,
     "wof:name":"08533",
     "wof:parent_id":404477787,
     "wof:placetype":"postalcode",

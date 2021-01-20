@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022329,
-    "geom:area_square_m":223724603.796133,
+    "geom:area_square_m":223724603.796127,
     "geom:bbox":"-82.6109,35.777969,-82.408728,35.983782",
     "geom:latitude":35.875602,
     "geom:longitude":-82.515687,
@@ -14,19 +14,25 @@
     "lbl:latitude":35.875581,
     "lbl:longitude":-82.515681,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mars Hill",
+    "mz:postal_locality_alt":[
+        "Marshall",
+        "Burnsville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688773,
-        102087617
+        102087617,
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12769902"
     },
     "wof:country":"US",
-    "wof:geomhash":"227bf624268ad36cdce241d797e55a86",
+    "wof:geomhash":"fa0192afd4debf5cf1cef4dcf7050fa4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554711781,
-    "wof:lastmodified":1480912081,
+    "wof:lastmodified":1611185344,
     "wof:name":"28754",
     "wof:parent_id":102087617,
     "wof:placetype":"postalcode",

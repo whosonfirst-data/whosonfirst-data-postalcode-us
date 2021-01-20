@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028221,
-    "geom:area_square_m":268592575.839447,
+    "geom:area_square_m":268592575.839377,
     "geom:bbox":"-88.433588,39.598007,-88.167514,39.753743",
     "geom:latitude":39.674346,
     "geom:longitude":-88.299067,
@@ -14,21 +14,26 @@
     "lbl:latitude":39.677185,
     "lbl:longitude":-88.297938,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Arcola",
+    "mz:postal_locality_alt":[
+        "Arthur"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404496313,
         85633793,
+        102080821,
+        404496313,
         85938899,
-        102080821
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784878"
     },
     "wof:country":"US",
-    "wof:geomhash":"9a344d6d54cfee27145777c2c081f6ec",
+    "wof:geomhash":"30f6d26b08bd543452b221b74a90aac2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554734461,
-    "wof:lastmodified":1480911661,
+    "wof:lastmodified":1611184203,
     "wof:name":"61910",
     "wof:parent_id":85938899,
     "wof:placetype":"postalcode",

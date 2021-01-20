@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006984,
-    "geom:area_square_m":69719524.872842,
+    "geom:area_square_m":69719524.872816,
     "geom:bbox":"-86.712976,36.103628,-86.609517,36.246315",
     "geom:latitude":36.163089,
     "geom:longitude":-86.665099,
@@ -14,20 +14,25 @@
     "lbl:latitude":36.162189,
     "lbl:longitude":-86.670867,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Nashville",
+    "mz:postal_locality_alt":[
+        "Hermitage"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688701,
         102191575,
         85633793,
+        102087061,
         101723183,
-        102087061
+        85688701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12773889"
     },
     "wof:country":"US",
-    "wof:geomhash":"1b7da0f1e146cb06520568a80db49a45",
+    "wof:geomhash":"49e9595d5cfe57cf8a29b0126d10d832",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554716663,
-    "wof:lastmodified":1480781757,
+    "wof:lastmodified":1611185391,
     "wof:name":"37214",
     "wof:parent_id":101723183,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003799,
-    "geom:area_square_m":36746561.141442,
+    "geom:area_square_m":36746561.141454,
     "geom:bbox":"-90.036926,38.4574,-89.951605,38.578092",
     "geom:latitude":38.535198,
     "geom:longitude":-90.000591,
@@ -13,21 +13,26 @@
     "lbl:latitude":38.535162,
     "lbl:longitude":-89.999556,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Belleville",
+    "mz:postal_locality_alt":[
+        "Swansea"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404499787,
         85633793,
+        102084321,
+        404499787,
         85940705,
-        102084321
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785006"
     },
     "wof:country":"US",
-    "wof:geomhash":"b87d9d76dbf2f326b9373a93e4596ac0",
+    "wof:geomhash":"58fb0b82f67cf2a755e072e8c003c71a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554734703,
-    "wof:lastmodified":1480796995,
+    "wof:lastmodified":1611184195,
     "wof:name":"62226",
     "wof:parent_id":85940705,
     "wof:placetype":"postalcode",

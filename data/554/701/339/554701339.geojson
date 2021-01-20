@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012436,
-    "geom:area_square_m":112675478.826366,
+    "geom:area_square_m":112675478.8264,
     "geom:bbox":"-74.085148,42.814719,-73.891991,42.947635",
     "geom:latitude":42.881849,
     "geom:longitude":-73.982024,
@@ -14,20 +14,27 @@
     "lbl:latitude":42.878182,
     "lbl:longitude":-73.982505,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Schenectady",
+    "mz:postal_locality_alt":[
+        "Scotia",
+        "Glenville",
+        "Burnt Hills"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522383,
         85633793,
-        102081765
+        102081765,
+        404522383,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762231"
     },
     "wof:country":"US",
-    "wof:geomhash":"6e911e056aa330cd3a18e45c3001624e",
+    "wof:geomhash":"c773ffb3c7cfac00ad54da525c2ea2cc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554701339,
-    "wof:lastmodified":1480818878,
+    "wof:lastmodified":1611182614,
     "wof:name":"12302",
     "wof:parent_id":404522383,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025632,
-    "geom:area_square_m":269868964.007801,
+    "geom:area_square_m":269868964.007831,
     "geom:bbox":"-106.284291,31.500428,-106.028561,31.769115",
     "geom:latitude":31.628629,
     "geom:longitude":-106.155963,
@@ -13,20 +13,25 @@
     "lbl:latitude":31.631426,
     "lbl:longitude":-106.160065,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"El Paso",
+    "mz:postal_locality_alt":[
+        "Horizon City"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102085989,
         101726961,
-        102085989
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"23424656"
     },
     "wof:country":"US",
-    "wof:geomhash":"42f1f26b9fae860f3a9cb53215481906",
+    "wof:geomhash":"a43e7d12830087be3cf1a9a1ea53b3f6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554756597,
-    "wof:lastmodified":1480805446,
+    "wof:lastmodified":1611184293,
     "wof:name":"79928",
     "wof:parent_id":101726961,
     "wof:placetype":"postalcode",

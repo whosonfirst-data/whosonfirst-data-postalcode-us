@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006541,
-    "geom:area_square_m":56765702.829964,
+    "geom:area_square_m":56765702.830029,
     "geom:bbox":"-122.513788,45.382803,-122.381886,45.461579",
     "geom:latitude":45.42547,
     "geom:longitude":-122.443291,
@@ -14,20 +14,27 @@
     "lbl:latitude":45.426416,
     "lbl:longitude":-122.442992,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Boring",
+    "mz:postal_locality_alt":[
+        "Damascus",
+        "Clackamas",
+        "Gresham"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688513,
         102191575,
         85633793,
+        102082213,
         101715877,
-        102082213
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"28350135"
     },
     "wof:country":"US",
-    "wof:geomhash":"45d3929b1efba3e945e894d0bdbc5eae",
+    "wof:geomhash":"75c1047ad31b6566b58f77d9088b1bfd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554757013,
-    "wof:lastmodified":1480817179,
+    "wof:lastmodified":1611184576,
     "wof:name":"97089",
     "wof:parent_id":101715877,
     "wof:placetype":"postalcode",

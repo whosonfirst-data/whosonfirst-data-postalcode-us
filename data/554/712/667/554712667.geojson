@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011047,
-    "geom:area_square_m":113620382.157673,
+    "geom:area_square_m":113620382.157602,
     "geom:bbox":"-84.088629,33.653589,-83.930908,33.786054",
     "geom:latitude":33.718833,
     "geom:longitude":-83.998664,
@@ -13,19 +13,25 @@
     "lbl:latitude":33.717806,
     "lbl:longitude":-84.002515,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Conyers",
+    "mz:postal_locality_alt":[
+        "Cumming",
+        "Loganville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688535,
-        102081721
+        102081721,
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770499"
     },
     "wof:country":"US",
-    "wof:geomhash":"2dc717a8f5aa6552ade4093885620b59",
+    "wof:geomhash":"373f00c4bfe4ea9ab07968fcc7e95e85",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +42,7 @@
         }
     ],
     "wof:id":554712667,
-    "wof:lastmodified":1480823668,
+    "wof:lastmodified":1611183705,
     "wof:name":"30012",
     "wof:parent_id":102081721,
     "wof:placetype":"postalcode",

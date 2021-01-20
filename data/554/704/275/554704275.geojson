@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024368,
-    "geom:area_square_m":227283501.638753,
+    "geom:area_square_m":227283501.638405,
     "geom:bbox":"-80.229054,40.954901,-79.915433,41.139738",
     "geom:latitude":41.034569,
     "geom:longitude":-80.056751,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.034074,
     "lbl:longitude":-80.0603,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Slippery Rock",
+    "mz:postal_locality_alt":[
+        "Butler"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485009,
         85633793,
-        102083677
+        102083677,
+        404485009,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764143"
     },
     "wof:country":"US",
-    "wof:geomhash":"af5a790a2dfaccf968df48fd3b1264c6",
+    "wof:geomhash":"9450011270306e9b691f84aa301656d4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554704275,
-    "wof:lastmodified":1480906663,
+    "wof:lastmodified":1611184494,
     "wof:name":"16057",
     "wof:parent_id":404485009,
     "wof:placetype":"postalcode",

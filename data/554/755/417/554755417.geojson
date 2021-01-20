@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002805,
-    "geom:area_square_m":23429687.392467,
+    "geom:area_square_m":23429687.39249,
     "geom:bbox":"-122.225394,47.476805,-122.162211,47.546091",
     "geom:latitude":47.512828,
     "geom:longitude":-122.189655,
@@ -13,20 +13,25 @@
     "lbl:latitude":47.512527,
     "lbl:longitude":-122.190248,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Renton",
+    "mz:postal_locality_alt":[
+        "Newcastle"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688623,
         102191575,
         85633793,
+        102086191,
         101730407,
-        102086191
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12798926"
     },
     "wof:country":"US",
-    "wof:geomhash":"486ae6a319c421188077b3b029565820",
+    "wof:geomhash":"85794104eb50bed25057d4a28029937b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554755417,
-    "wof:lastmodified":1480915588,
+    "wof:lastmodified":1611182592,
     "wof:name":"98056",
     "wof:parent_id":101730407,
     "wof:placetype":"postalcode",

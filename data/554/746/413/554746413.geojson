@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.061447,
-    "geom:area_square_m":652708702.263946,
+    "geom:area_square_m":652708702.263632,
     "geom:bbox":"-96.563126,30.617135,-96.160224,30.927305",
     "geom:latitude":30.78934,
     "geom:longitude":-96.314341,
@@ -13,19 +13,24 @@
     "lbl:latitude":30.797736,
     "lbl:longitude":-96.312084,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bryan",
+    "mz:postal_locality_alt":[
+        "Hearne"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688753,
-        102081451
+        102081451,
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12791778"
     },
     "wof:country":"US",
-    "wof:geomhash":"52a8c89ace59bb6d101b31fab2fd611d",
+    "wof:geomhash":"b954fc3fb5e3e7d80aac20fbcf5e22d8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +41,7 @@
         }
     ],
     "wof:id":554746413,
-    "wof:lastmodified":1480832569,
+    "wof:lastmodified":1611183999,
     "wof:name":"77808",
     "wof:parent_id":102081451,
     "wof:placetype":"postalcode",

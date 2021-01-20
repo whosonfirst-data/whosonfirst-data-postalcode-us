@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0248,
-    "geom:area_square_m":219382132.134111,
+    "geom:area_square_m":219382132.134062,
     "geom:bbox":"-94.293952,44.200143,-94.10508,44.428702",
     "geom:latitude":44.323025,
     "geom:longitude":-94.200654,
@@ -14,20 +14,22 @@
     "lbl:latitude":44.326877,
     "lbl:longitude":-94.196935,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Nicollet",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404513335,
         85633793,
-        102087597
+        102087597,
+        404513335,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782232"
     },
     "wof:country":"US",
-    "wof:geomhash":"93c1bc4ecf5803b13b294650000cebc4",
+    "wof:geomhash":"50ab5deee1d4ce50d0f4e230b97fa88e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554729843,
-    "wof:lastmodified":1480784871,
+    "wof:lastmodified":1611185414,
     "wof:name":"56074",
     "wof:parent_id":404513335,
     "wof:placetype":"postalcode",

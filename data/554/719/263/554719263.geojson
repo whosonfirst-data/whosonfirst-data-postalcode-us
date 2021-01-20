@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002938,
-    "geom:area_square_m":28444335.769361,
+    "geom:area_square_m":28444335.769279,
     "geom:bbox":"-82.707854,38.434404,-82.601477,38.524717",
     "geom:latitude":38.472209,
     "geom:longitude":-82.646053,
@@ -13,20 +13,25 @@
     "lbl:latitude":38.473824,
     "lbl:longitude":-82.647933,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ashland",
+    "mz:postal_locality_alt":[
+        "Russell"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688641,
         102191575,
         85633793,
+        102084495,
         85946883,
-        102084495
+        85688641
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12775526"
     },
     "wof:country":"US",
-    "wof:geomhash":"a61ebb1c5e493fe19e22ece760775b8d",
+    "wof:geomhash":"b27ed60820c05890a7fb19c0ba1490e8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554719263,
-    "wof:lastmodified":1480839213,
+    "wof:lastmodified":1611184936,
     "wof:name":"41101",
     "wof:parent_id":85946883,
     "wof:placetype":"postalcode",

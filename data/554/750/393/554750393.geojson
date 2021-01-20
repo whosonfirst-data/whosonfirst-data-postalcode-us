@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00344,
-    "geom:area_square_m":35422872.516625,
+    "geom:area_square_m":35422872.516602,
     "geom:bbox":"-111.978317,33.578738,-111.907566,33.656264",
     "geom:latitude":33.615055,
     "geom:longitude":-111.951926,
@@ -13,20 +13,22 @@
     "lbl:latitude":33.615485,
     "lbl:longitude":-111.952235,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Scottsdale",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688719,
         102191575,
         85633793,
+        102087421,
         85917479,
-        102087421
+        85688719
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12794508"
     },
     "wof:country":"US",
-    "wof:geomhash":"5451e7119252b40512e8e932808eda95",
+    "wof:geomhash":"c5c01663fd0ef82f488c6ec12eb0cee3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +40,7 @@
         }
     ],
     "wof:id":554750393,
-    "wof:lastmodified":1480786587,
+    "wof:lastmodified":1611184554,
     "wof:name":"85254",
     "wof:parent_id":85917479,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005386,
-    "geom:area_square_m":51050092.755974,
+    "geom:area_square_m":51050092.756041,
     "geom:bbox":"-86.031009,39.927,-85.862123,39.99214",
     "geom:latitude":39.960317,
     "geom:longitude":-85.947187,
@@ -13,21 +13,27 @@
     "lbl:latitude":39.960563,
     "lbl:longitude":-85.947162,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fishers",
+    "mz:postal_locality_alt":[
+        "Indianapolis",
+        "Noblesville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404500695,
         85633793,
+        102087089,
+        404500695,
         85941335,
-        102087089
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26814696"
     },
     "wof:country":"US",
-    "wof:geomhash":"ce07a85b1ca5ead3af87d78c35ffbf86",
+    "wof:geomhash":"56a7702027019cb226911425af10eb05",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +46,7 @@
         }
     ],
     "wof:id":554756831,
-    "wof:lastmodified":1480912895,
+    "wof:lastmodified":1611184303,
     "wof:name":"46037",
     "wof:parent_id":85941335,
     "wof:placetype":"postalcode",

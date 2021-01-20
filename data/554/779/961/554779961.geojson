@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004339,
-    "geom:area_square_m":40580643.02223,
+    "geom:area_square_m":40580643.022253,
     "geom:bbox":"-73.260012,40.824293,-73.158999,40.898738",
     "geom:latitude":40.85336,
     "geom:longitude":-73.210362,
@@ -14,21 +14,27 @@
     "lbl:latitude":40.852924,
     "lbl:longitude":-73.21126,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Smithtown",
+    "mz:postal_locality_alt":[
+        "Hauppauge",
+        "Nesconset"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522669,
         85633793,
+        102082395,
+        404522669,
         85979919,
-        102082395
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761970"
     },
     "wof:country":"US",
-    "wof:geomhash":"b2599483e6e80f7e9d224691146f80c7",
+    "wof:geomhash":"32dff839fdb883f572e39abe93158a2e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554779961,
-    "wof:lastmodified":1480794862,
+    "wof:lastmodified":1611183977,
     "wof:name":"11787",
     "wof:parent_id":85979919,
     "wof:placetype":"postalcode",

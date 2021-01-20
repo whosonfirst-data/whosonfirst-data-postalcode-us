@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001583,
-    "geom:area_square_m":15256565.539135,
+    "geom:area_square_m":15256565.53913,
     "geom:bbox":"-76.903657,38.783601,-76.848928,38.829758",
     "geom:latitude":38.807299,
     "geom:longitude":-76.874834,
@@ -14,20 +14,25 @@
     "lbl:latitude":38.809803,
     "lbl:longitude":-76.869158,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Andrews Afb",
+    "mz:postal_locality_alt":[
+        "Andrews Air Force Base"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688501,
         102191575,
         85633793,
+        102082191,
         85949917,
-        102082191
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766302"
     },
     "wof:country":"US",
-    "wof:geomhash":"c38780ccce0b554b7bda2e1c160925cc",
+    "wof:geomhash":"a9c41af43af4f59e924e500423ac9807",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554706991,
-    "wof:lastmodified":1480794377,
+    "wof:lastmodified":1611182683,
     "wof:name":"20762",
     "wof:parent_id":85949917,
     "wof:placetype":"postalcode",

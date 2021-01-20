@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.069234,
-    "geom:area_square_m":605083449.006761,
+    "geom:area_square_m":605083449.00667,
     "geom:bbox":"-96.384233,44.83458,-95.98091,45.220782",
     "geom:latitude":45.02505,
     "geom:longitude":-96.197938,
@@ -14,20 +14,22 @@
     "lbl:latitude":45.028691,
     "lbl:longitude":-96.202421,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Madison",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404514431,
         85633793,
-        102087677
+        102087677,
+        404514431,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782359"
     },
     "wof:country":"US",
-    "wof:geomhash":"2cb5bf5ee17d6779b341724bfb272e4e",
+    "wof:geomhash":"377df3a405d9c85def79837cc5b1daa8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554730115,
-    "wof:lastmodified":1480788181,
+    "wof:lastmodified":1611182756,
     "wof:name":"56256",
     "wof:parent_id":404514431,
     "wof:placetype":"postalcode",

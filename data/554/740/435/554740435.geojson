@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.065199,
-    "geom:area_square_m":611913492.190168,
+    "geom:area_square_m":611913492.190468,
     "geom:bbox":"-100.646242,40.386447,-100.381458,40.894994",
     "geom:latitude":40.622676,
     "geom:longitude":-100.513059,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.620868,
     "lbl:longitude":-100.50948,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Curtis",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688563,
         102191575,
-        404518439,
         85633793,
-        102082803
+        102082803,
+        404518439,
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787985"
     },
     "wof:country":"US",
-    "wof:geomhash":"2550ee784f7c44c253d56b23fb9b6897",
+    "wof:geomhash":"c68e2e489692152fd073d0c7604fe3f4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554740435,
-    "wof:lastmodified":1480795713,
+    "wof:lastmodified":1611183417,
     "wof:name":"69025",
     "wof:parent_id":404518439,
     "wof:placetype":"postalcode",

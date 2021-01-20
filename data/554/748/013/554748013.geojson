@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001087,
-    "geom:area_square_m":10332751.091964,
+    "geom:area_square_m":10332751.091946,
     "geom:bbox":"-105.065123,39.74395,-105.034574,39.798852",
     "geom:latitude":39.7716,
     "geom:longitude":-105.04829,
@@ -13,20 +13,25 @@
     "lbl:latitude":39.772047,
     "lbl:longitude":-105.048027,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Denver",
+    "mz:postal_locality_alt":[
+        "Wheat Ridge"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688603,
         102191575,
         85633793,
+        102086135,
         85928879,
-        102086135
+        85688603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12792952"
     },
     "wof:country":"US",
-    "wof:geomhash":"88c5f5bf353e61ad1ed9029e8a722cb0",
+    "wof:geomhash":"e0553e3d9ffc1c3426186fe89f5b0c6b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554748013,
-    "wof:lastmodified":1480911601,
+    "wof:lastmodified":1611183827,
     "wof:name":"80212",
     "wof:parent_id":85928879,
     "wof:placetype":"postalcode",

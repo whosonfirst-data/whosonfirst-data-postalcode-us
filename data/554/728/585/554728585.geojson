@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024467,
-    "geom:area_square_m":214181663.678083,
+    "geom:area_square_m":214181663.678054,
     "geom:bbox":"-91.085919,44.77067,-90.94353,45.15092",
     "geom:latitude":44.931192,
     "geom:longitude":-91.017404,
@@ -14,20 +14,25 @@
     "lbl:latitude":44.937235,
     "lbl:longitude":-91.025904,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Boyd",
+    "mz:postal_locality_alt":[
+        "Fairchild"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404491585,
         85633793,
-        102081787
+        102081787,
+        404491585,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781480"
     },
     "wof:country":"US",
-    "wof:geomhash":"5bf997de5e887a365f698232ad225b7a",
+    "wof:geomhash":"50ec95190832cccb96653fbb3b9ac2bc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554728585,
-    "wof:lastmodified":1480833293,
+    "wof:lastmodified":1611185092,
     "wof:name":"54726",
     "wof:parent_id":404491585,
     "wof:placetype":"postalcode",

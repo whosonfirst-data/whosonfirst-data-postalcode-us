@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001525,
-    "geom:area_square_m":14946342.734914,
+    "geom:area_square_m":14946342.734998,
     "geom:bbox":"-122.520485,37.532504,-122.459786,37.586797",
     "geom:latitude":37.554299,
     "geom:longitude":-122.496633,
@@ -14,20 +14,25 @@
     "lbl:latitude":37.554298,
     "lbl:longitude":-122.496632,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Montara",
+    "mz:postal_locality_alt":[
+        "Marmora"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102085387,
         85925823,
-        102085387
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12797124"
     },
     "wof:country":"US",
-    "wof:geomhash":"e48521eabbe91444315da19aa5ab3927",
+    "wof:geomhash":"578ab8d4ce31dc2c04b0c8cbd0adbb6a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554789033,
-    "wof:lastmodified":1480806944,
+    "wof:lastmodified":1611185207,
     "wof:name":"94037",
     "wof:parent_id":85925823,
     "wof:placetype":"postalcode",

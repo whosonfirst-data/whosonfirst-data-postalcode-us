@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018981,
-    "geom:area_square_m":177493500.279986,
+    "geom:area_square_m":177493500.279997,
     "geom:bbox":"-87.042767,40.8063,-86.77456,40.9125",
     "geom:latitude":40.864849,
     "geom:longitude":-86.901508,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.862566,
     "lbl:longitude":-86.900583,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Monon",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404501993,
         85633793,
-        102087133
+        102087133,
+        404501993,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778484"
     },
     "wof:country":"US",
-    "wof:geomhash":"8e5a2ba4ed6c222332fc63c972949162",
+    "wof:geomhash":"9af64ff481f837bc05a9a691b5faf5b9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554723791,
-    "wof:lastmodified":1480915627,
+    "wof:lastmodified":1611183778,
     "wof:name":"47959",
     "wof:parent_id":404501993,
     "wof:placetype":"postalcode",

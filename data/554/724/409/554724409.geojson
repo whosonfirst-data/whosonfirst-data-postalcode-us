@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.100867,
-    "geom:area_square_m":896253043.668829,
+    "geom:area_square_m":896253043.6685,
     "geom:bbox":"-84.703478,43.901845,-84.195316,44.247622",
     "geom:latitude":44.062065,
     "geom:longitude":-84.466625,
@@ -14,20 +14,26 @@
     "lbl:latitude":44.061093,
     "lbl:longitude":-84.45737,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Gladwin",
+    "mz:postal_locality_alt":[
+        "Clare",
+        "West Branch"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404505659,
         85633793,
-        102083025
+        102083025,
+        404505659,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778907"
     },
     "wof:country":"US",
-    "wof:geomhash":"87d772515bc2d9f14c01b6ace8b7bb43",
+    "wof:geomhash":"10c26e1a0f2b54df0a18747f30547800",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554724409,
-    "wof:lastmodified":1480840163,
+    "wof:lastmodified":1611183751,
     "wof:name":"48624",
     "wof:parent_id":404505659,
     "wof:placetype":"postalcode",

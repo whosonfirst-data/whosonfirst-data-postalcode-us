@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001654,
-    "geom:area_square_m":15640002.401414,
+    "geom:area_square_m":15640002.401399,
     "geom:bbox":"-74.097027,40.097715,-74.007179,40.140839",
     "geom:latitude":40.117686,
     "geom:longitude":-74.06119,
@@ -14,21 +14,26 @@
     "lbl:latitude":40.120018,
     "lbl:longitude":-74.053257,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Manasquan",
+    "mz:postal_locality_alt":[
+        "Sea Girt"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477501,
         85633793,
+        102085049,
+        404477501,
         85975421,
-        102085049
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761238"
     },
     "wof:country":"US",
-    "wof:geomhash":"44681bf56f79a2373ded35aa2c2e7d56",
+    "wof:geomhash":"a9d646a737a77ff86f4216c6dc3d7c8c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554779257,
-    "wof:lastmodified":1480817269,
+    "wof:lastmodified":1611183969,
     "wof:name":"08736",
     "wof:parent_id":85975421,
     "wof:placetype":"postalcode",

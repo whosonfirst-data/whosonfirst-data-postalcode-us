@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003192,
-    "geom:area_square_m":31910871.96944,
+    "geom:area_square_m":31910871.969531,
     "geom:bbox":"-115.351906,36.02029,-115.278726,36.100129",
     "geom:latitude":36.058777,
     "geom:longitude":-115.310383,
@@ -13,20 +13,25 @@
     "lbl:latitude":36.080169,
     "lbl:longitude":-115.297021,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Las Vegas",
+    "mz:postal_locality_alt":[
+        "Spring Valley"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688531,
         102191575,
         85633793,
+        102081553,
         85975041,
-        102081553
+        85688531
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795483"
     },
     "wof:country":"US",
-    "wof:geomhash":"4f6594a6acbfbc01a5bfd1f572cd7f30",
+    "wof:geomhash":"eaffd1cfd06beb760983eda0bb32682d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554751651,
-    "wof:lastmodified":1480832977,
+    "wof:lastmodified":1611184334,
     "wof:name":"89148",
     "wof:parent_id":85975041,
     "wof:placetype":"postalcode",

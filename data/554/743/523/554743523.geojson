@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045977,
-    "geom:area_square_m":460184729.775183,
+    "geom:area_square_m":460184729.775133,
     "geom:bbox":"-96.908081,35.825779,-96.619181,36.093371",
     "geom:latitude":35.958011,
     "geom:longitude":-96.749812,
@@ -14,19 +14,24 @@
     "lbl:latitude":35.958944,
     "lbl:longitude":-96.751382,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cushing",
+    "mz:postal_locality_alt":[
+        "Catoosa"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688585,
-        102082537
+        102082537,
+        85688585
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12789925"
     },
     "wof:country":"US",
-    "wof:geomhash":"fc1fd9db0ccbecd9b474f0738f15aaa4",
+    "wof:geomhash":"bf695cdfeb1ea0b8b505035219d13e38",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554743523,
-    "wof:lastmodified":1480836830,
+    "wof:lastmodified":1611184801,
     "wof:name":"74023",
     "wof:parent_id":102082537,
     "wof:placetype":"postalcode",

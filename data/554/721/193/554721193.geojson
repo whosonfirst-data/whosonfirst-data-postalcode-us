@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006399,
-    "geom:area_square_m":59633236.747573,
+    "geom:area_square_m":59633236.747563,
     "geom:bbox":"-81.09865,41.061258,-80.91806,41.138998",
     "geom:latitude":41.09399,
     "geom:longitude":-81.024794,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.094164,
     "lbl:longitude":-81.023472,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Diamond",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404523949,
         85633793,
-        102084819
+        102084819,
+        404523949,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776785"
     },
     "wof:country":"US",
-    "wof:geomhash":"051aa6f56df098ce7746b0c4f56b65a2",
+    "wof:geomhash":"48ac950c1af54c642ab55ffb4b0db6e3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554721193,
-    "wof:lastmodified":1480796999,
+    "wof:lastmodified":1611184947,
     "wof:name":"44412",
     "wof:parent_id":404523949,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021328,
-    "geom:area_square_m":180808291.370855,
+    "geom:area_square_m":180808291.37095,
     "geom:bbox":"-96.989926,46.616013,-96.779136,46.804553",
     "geom:latitude":46.717405,
     "geom:longitude":-96.880203,
@@ -14,20 +14,25 @@
     "lbl:latitude":46.724262,
     "lbl:longitude":-96.872758,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Horace",
+    "mz:postal_locality_alt":[
+        "Hickson"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688525,
         102191575,
-        404480531,
         85633793,
-        102082073
+        102082073,
+        404480531,
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12783140"
     },
     "wof:country":"US",
-    "wof:geomhash":"7469287ab1684319bf167ff9c4134fc6",
+    "wof:geomhash":"c77c5ac0b09cacc49a4ef77f6f345d63",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554731643,
-    "wof:lastmodified":1480795316,
+    "wof:lastmodified":1611183060,
     "wof:name":"58047",
     "wof:parent_id":404480531,
     "wof:placetype":"postalcode",

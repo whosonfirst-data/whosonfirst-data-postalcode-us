@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005161,
-    "geom:area_square_m":47644094.481856,
+    "geom:area_square_m":47644094.481824,
     "geom:bbox":"-70.133936,41.671065,-69.988518,41.736924",
     "geom:latitude":41.704211,
     "geom:longitude":-70.060842,
@@ -14,21 +14,23 @@
     "lbl:latitude":41.711052,
     "lbl:longitude":-70.057609,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Harwich",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476183,
         85633793,
+        102084379,
+        404476183,
         85950547,
-        102084379
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758915"
     },
     "wof:country":"US",
-    "wof:geomhash":"8f1764eb47c95edf56e2868f00724279",
+    "wof:geomhash":"8145dd849f30b206992414c540feabdb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +43,7 @@
         }
     ],
     "wof:id":554778479,
-    "wof:lastmodified":1480802731,
+    "wof:lastmodified":1611183429,
     "wof:name":"02645",
     "wof:parent_id":85950547,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000404,
-    "geom:area_square_m":3887011.173462,
+    "geom:area_square_m":3887011.173465,
     "geom:bbox":"-76.962314,38.918584,-76.938507,38.949045",
     "geom:latitude":38.935077,
     "geom:longitude":-76.949435,
@@ -14,20 +14,26 @@
     "lbl:latitude":38.934557,
     "lbl:longitude":-76.950596,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Brentwood",
+    "mz:postal_locality_alt":[
+        "North Brentwood",
+        "North Brentwo"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688501,
         102191575,
         85633793,
+        102082191,
         85949329,
-        102082191
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766271"
     },
     "wof:country":"US",
-    "wof:geomhash":"98df97ba814ee6cc740e275f43ebf0b4",
+    "wof:geomhash":"cb19e8e9fe6f57bab10ca4e1f9a25419",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554706953,
-    "wof:lastmodified":1480803493,
+    "wof:lastmodified":1611182683,
     "wof:name":"20722",
     "wof:parent_id":85949329,
     "wof:placetype":"postalcode",

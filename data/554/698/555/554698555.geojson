@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039771,
-    "geom:area_square_m":337504212.95007,
+    "geom:area_square_m":337504212.949989,
     "geom:bbox":"-68.304901,46.55722,-68.047088,46.749722",
     "geom:latitude":46.662624,
     "geom:longitude":-68.172411,
@@ -14,20 +14,25 @@
     "lbl:latitude":46.667614,
     "lbl:longitude":-68.168635,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mapleton",
+    "mz:postal_locality_alt":[
+        "Chapman"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404474871,
         85633793,
-        102081161
+        102081161,
+        404474871,
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759738"
     },
     "wof:country":"US",
-    "wof:geomhash":"9f68a1bc7ba23d3e076734e26a9e0af5",
+    "wof:geomhash":"31cf99d5f270b2d4af4fd8c94c0ccf6b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554698555,
-    "wof:lastmodified":1480823533,
+    "wof:lastmodified":1611184691,
     "wof:name":"04757",
     "wof:parent_id":404474871,
     "wof:placetype":"postalcode",

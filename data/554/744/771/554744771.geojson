@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003905,
-    "geom:area_square_m":40805828.774284,
+    "geom:area_square_m":40805828.774288,
     "geom:bbox":"-95.36248,32.286223,-95.237065,32.346455",
     "geom:latitude":32.323288,
     "geom:longitude":-95.300955,
@@ -13,20 +13,25 @@
     "lbl:latitude":32.321937,
     "lbl:longitude":-95.302223,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Tyler",
+    "mz:postal_locality_alt":[
+        "Bullard"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102080687,
         101723901,
-        102080687
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12790721"
     },
     "wof:country":"US",
-    "wof:geomhash":"894eeaf0603721cd920deb19a59579a1",
+    "wof:geomhash":"0dd8341cc5ee170c75f0ee5f072fcda6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554744771,
-    "wof:lastmodified":1480905016,
+    "wof:lastmodified":1611184727,
     "wof:name":"75701",
     "wof:parent_id":101723901,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000916,
-    "geom:area_square_m":8645104.24325,
+    "geom:area_square_m":8645104.24324,
     "geom:bbox":"-80.243864,40.216742,-80.202615,40.271627",
     "geom:latitude":40.244234,
     "geom:longitude":-80.221185,
@@ -13,21 +13,26 @@
     "lbl:latitude":40.244232,
     "lbl:longitude":-80.221185,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Houston",
+    "mz:postal_locality_alt":[
+        "Meadow Lands"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404487739,
         85633793,
+        102081343,
+        404487739,
         101720337,
-        102081343
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763745"
     },
     "wof:country":"US",
-    "wof:geomhash":"88e682290673c639c50b278d511d72ad",
+    "wof:geomhash":"43755c6ed84d4409aa2ccf55bfd147d0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554703671,
-    "wof:lastmodified":1480818260,
+    "wof:lastmodified":1611184472,
     "wof:name":"15342",
     "wof:parent_id":101720337,
     "wof:placetype":"postalcode",

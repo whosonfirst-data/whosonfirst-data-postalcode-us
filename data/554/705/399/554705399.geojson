@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03782,
-    "geom:area_square_m":352999314.613926,
+    "geom:area_square_m":352999314.613872,
     "geom:bbox":"-76.794246,40.86504,-76.506431,41.144597",
     "geom:latitude":40.988708,
     "geom:longitude":-76.639273,
@@ -13,20 +13,27 @@
     "lbl:latitude":40.990142,
     "lbl:longitude":-76.644205,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Danville",
+    "mz:postal_locality_alt":[
+        "Catawissa",
+        "Milton",
+        "Mifflinburg"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485977,
         85633793,
-        102080931
+        102080931,
+        404485977,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764906"
     },
     "wof:country":"US",
-    "wof:geomhash":"ade82b3bd9293a12cc9cb6ce9f6501c4",
+    "wof:geomhash":"e0b747563801cf05d593eaa21f1e00dc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +45,7 @@
         }
     ],
     "wof:id":554705399,
-    "wof:lastmodified":1480905760,
+    "wof:lastmodified":1611184094,
     "wof:name":"17821",
     "wof:parent_id":404485977,
     "wof:placetype":"postalcode",

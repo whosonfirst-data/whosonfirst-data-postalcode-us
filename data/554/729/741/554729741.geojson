@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009894,
-    "geom:area_square_m":87547539.078482,
+    "geom:area_square_m":87547539.078542,
     "geom:bbox":"-93.902778,44.255308,-93.722553,44.366095",
     "geom:latitude":44.307057,
     "geom:longitude":-93.820223,
@@ -14,20 +14,25 @@
     "lbl:latitude":44.30535,
     "lbl:longitude":-93.819535,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cleveland",
+    "mz:postal_locality_alt":[
+        "Saint Peter"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404512207,
         85633793,
-        102087831
+        102087831,
+        404512207,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782185"
     },
     "wof:country":"US",
-    "wof:geomhash":"9ae2e82870eb0eb3049e36449e370b9d",
+    "wof:geomhash":"c31fc959e3658749201f5a006032db0d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554729741,
-    "wof:lastmodified":1480782531,
+    "wof:lastmodified":1611185424,
     "wof:name":"56017",
     "wof:parent_id":404512207,
     "wof:placetype":"postalcode",

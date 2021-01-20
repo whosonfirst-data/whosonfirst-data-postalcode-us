@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.082211,
-    "geom:area_square_m":814340103.577039,
+    "geom:area_square_m":814340103.576993,
     "geom:bbox":"-90.720553,36.582502,-90.265614,36.906569",
     "geom:latitude":36.76634,
     "geom:longitude":-90.462654,
@@ -13,20 +13,28 @@
     "lbl:latitude":36.759059,
     "lbl:longitude":-90.460058,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Poplar Bluff",
+    "mz:postal_locality_alt":[
+        "Broseley",
+        "Van Buren",
+        "Ellsinore",
+        "Doniphan"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404516397,
         85633793,
-        102087491
+        102087491,
+        404516397,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785913"
     },
     "wof:country":"US",
-    "wof:geomhash":"208741ce365749bc2528c35d91b90e54",
+    "wof:geomhash":"0094d46c1333de33e2cc7ffe7fca340c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +46,7 @@
         }
     ],
     "wof:id":554736311,
-    "wof:lastmodified":1480915069,
+    "wof:lastmodified":1611183051,
     "wof:name":"63901",
     "wof:parent_id":404516397,
     "wof:placetype":"postalcode",

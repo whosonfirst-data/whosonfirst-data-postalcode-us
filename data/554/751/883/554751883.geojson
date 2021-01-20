@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000336,
-    "geom:area_square_m":3433750.070364,
+    "geom:area_square_m":3433750.070363,
     "geom:bbox":"-118.150528,34.135795,-118.130804,34.157859",
     "geom:latitude":34.146665,
     "geom:longitude":-118.139459,
@@ -13,20 +13,25 @@
     "lbl:latitude":34.146665,
     "lbl:longitude":-118.139459,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pasadena",
+    "mz:postal_locality_alt":[
+        "Altadena"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086957,
         85923487,
-        102086957
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795911"
     },
     "wof:country":"US",
-    "wof:geomhash":"41da50caddf42cc4042228c59e76de6e",
+    "wof:geomhash":"fa6ccd78ae86a178c984fdb55bd04f8d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554751883,
-    "wof:lastmodified":1480912629,
+    "wof:lastmodified":1611184350,
     "wof:name":"91101",
     "wof:parent_id":85923487,
     "wof:placetype":"postalcode",

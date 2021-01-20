@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003438,
-    "geom:area_square_m":28672283.798136,
+    "geom:area_square_m":28672283.798168,
     "geom:bbox":"-122.098001,47.558959,-121.970427,47.602915",
     "geom:latitude":47.58667,
     "geom:longitude":-122.03808,
@@ -13,20 +13,25 @@
     "lbl:latitude":47.586092,
     "lbl:longitude":-122.037436,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Sammamish",
+    "mz:postal_locality_alt":[
+        "Issaquah"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688623,
         102191575,
         85633793,
+        102086191,
         101730405,
-        102086191
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"23424686"
     },
     "wof:country":"US",
-    "wof:geomhash":"639db0d0d28355f141e40a643a0100f4",
+    "wof:geomhash":"faf3ec07dae0ae79b04029ca0dc2862d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554756647,
-    "wof:lastmodified":1480915590,
+    "wof:lastmodified":1611184299,
     "wof:name":"98075",
     "wof:parent_id":101730405,
     "wof:placetype":"postalcode",

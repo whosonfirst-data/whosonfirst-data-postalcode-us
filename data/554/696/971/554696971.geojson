@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01569,
-    "geom:area_square_m":142794538.213162,
+    "geom:area_square_m":142794538.213114,
     "geom:bbox":"-72.975379,42.541152,-72.791022,42.702927",
     "geom:latitude":42.607958,
     "geom:longitude":-72.890108,
@@ -14,20 +14,25 @@
     "lbl:latitude":42.603776,
     "lbl:longitude":-72.889644,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Charlemont",
+    "mz:postal_locality_alt":[
+        "Hawley"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404475961,
         85633793,
-        102084457
+        102084457,
+        404475961,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758421"
     },
     "wof:country":"US",
-    "wof:geomhash":"d03850f0f0e7ed5075cc730c0772b6f2",
+    "wof:geomhash":"cac9af622f47f3e08e1d0156759434e7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554696971,
-    "wof:lastmodified":1480803257,
+    "wof:lastmodified":1611184669,
     "wof:name":"01339",
     "wof:parent_id":404475961,
     "wof:placetype":"postalcode",

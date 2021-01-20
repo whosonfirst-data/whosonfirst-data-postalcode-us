@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004906,
-    "geom:area_square_m":48018132.652023,
+    "geom:area_square_m":48018132.652015,
     "geom:bbox":"-92.074038,37.602542,-91.987748,37.763838",
     "geom:latitude":37.674406,
     "geom:longitude":-92.036656,
@@ -14,20 +14,22 @@
     "lbl:latitude":37.675359,
     "lbl:longitude":-92.042481,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Duke",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404515879,
         85633793,
-        102086161
+        102086161,
+        404515879,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786486"
     },
     "wof:country":"US",
-    "wof:geomhash":"614d1e040d40571c4b100629cca9b026",
+    "wof:geomhash":"4c3f95fae554e4108aedc33508828d2d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554737407,
-    "wof:lastmodified":1480912513,
+    "wof:lastmodified":1611182837,
     "wof:name":"65461",
     "wof:parent_id":404515879,
     "wof:placetype":"postalcode",

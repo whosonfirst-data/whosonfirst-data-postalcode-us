@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004495,
-    "geom:area_square_m":39468434.313832,
+    "geom:area_square_m":39468434.313835,
     "geom:bbox":"-93.40918,44.717501,-93.328482,44.798642",
     "geom:latitude":44.757416,
     "geom:longitude":-93.36311,
@@ -14,21 +14,26 @@
     "lbl:latitude":44.757299,
     "lbl:longitude":-93.366971,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Savage",
+    "mz:postal_locality_alt":[
+        "Prior Lake"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404510739,
         85633793,
+        102087041,
+        404510739,
         85952533,
-        102087041
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781860"
     },
     "wof:country":"US",
-    "wof:geomhash":"805411e581203b4d62918b65765decd5",
+    "wof:geomhash":"87f88b27d5333c10af50c6a18bd99f2f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554729269,
-    "wof:lastmodified":1480789093,
+    "wof:lastmodified":1611185418,
     "wof:name":"55378",
     "wof:parent_id":85952533,
     "wof:placetype":"postalcode",

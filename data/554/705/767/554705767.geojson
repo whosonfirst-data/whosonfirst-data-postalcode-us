@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022068,
-    "geom:area_square_m":206022777.981275,
+    "geom:area_square_m":206022777.981369,
     "geom:bbox":"-75.425296,40.862295,-75.13896,41.070825",
     "geom:latitude":40.973912,
     "geom:longitude":-75.283642,
@@ -14,20 +14,27 @@
     "lbl:latitude":40.967382,
     "lbl:longitude":-75.287972,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Stroudsburg",
+    "mz:postal_locality_alt":[
+        "Tannersville",
+        "Bartonsville",
+        "East Stroudsburg"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404488219,
         85633793,
-        102080945
+        102080945,
+        404488219,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765163"
     },
     "wof:country":"US",
-    "wof:geomhash":"f8d438ab940648bb520dc01c54d307bc",
+    "wof:geomhash":"43d387820b600dce74c6a128e25dce77",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554705767,
-    "wof:lastmodified":1480906478,
+    "wof:lastmodified":1611184111,
     "wof:name":"18360",
     "wof:parent_id":404488219,
     "wof:placetype":"postalcode",

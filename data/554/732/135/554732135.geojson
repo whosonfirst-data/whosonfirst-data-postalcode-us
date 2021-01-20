@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.166968,
-    "geom:area_square_m":1410590366.993017,
+    "geom:area_square_m":1410590366.993049,
     "geom:bbox":"-101.717725,46.630354,-101.195524,47.21246",
     "geom:latitude":46.903332,
     "geom:longitude":-101.434968,
@@ -14,20 +14,25 @@
     "lbl:latitude":46.898984,
     "lbl:longitude":-101.439257,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"New Salem",
+    "mz:postal_locality_alt":[
+        "Hannover"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688525,
         102191575,
-        404481679,
         85633793,
-        102082067
+        102082067,
+        404481679,
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12783394"
     },
     "wof:country":"US",
-    "wof:geomhash":"6043a6ca3526569094665b3f94a8d745",
+    "wof:geomhash":"f6e8fab51ae1bae0b40cedc33c983545",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554732135,
-    "wof:lastmodified":1480829253,
+    "wof:lastmodified":1611184363,
     "wof:name":"58563",
     "wof:parent_id":404481679,
     "wof:placetype":"postalcode",

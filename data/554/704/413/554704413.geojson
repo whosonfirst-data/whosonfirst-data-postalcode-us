@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014341,
-    "geom:area_square_m":133285638.644634,
+    "geom:area_square_m":133285638.644605,
     "geom:bbox":"-79.555161,41.169852,-79.367775,41.339094",
     "geom:latitude":41.268377,
     "geom:longitude":-79.457373,
@@ -14,21 +14,27 @@
     "lbl:latitude":41.253396,
     "lbl:longitude":-79.461389,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Shippenville",
+    "mz:postal_locality_alt":[
+        "Marble",
+        "New Bethlehem"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404482971,
         85633793,
+        102081389,
+        404482971,
         101717489,
-        102081389
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764230"
     },
     "wof:country":"US",
-    "wof:geomhash":"68af2868bd6a8e1044198c7cc77c1356",
+    "wof:geomhash":"175d9601d701ac7af7f99468f78d347e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554704413,
-    "wof:lastmodified":1480830881,
+    "wof:lastmodified":1611184492,
     "wof:name":"16254",
     "wof:parent_id":101717489,
     "wof:placetype":"postalcode",

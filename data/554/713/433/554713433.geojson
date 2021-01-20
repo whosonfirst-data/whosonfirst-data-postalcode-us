@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003819,
-    "geom:area_square_m":38713341.360225,
+    "geom:area_square_m":38713341.3603,
     "geom:bbox":"-85.385639,34.86532,-85.321984,34.983977",
     "geom:latitude":34.924317,
     "geom:longitude":-85.353178,
@@ -14,20 +14,25 @@
     "lbl:latitude":34.924777,
     "lbl:longitude":-85.352675,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Flintstone",
+    "mz:postal_locality_alt":[
+        "Summerville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688535,
         102191575,
         85633793,
+        102082321,
         85937185,
-        102082321
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770987"
     },
     "wof:country":"US",
-    "wof:geomhash":"572a9d3a5275d3c7927308bf589d726d",
+    "wof:geomhash":"8105bb2426aeddeaf5a0751f9963d8c8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554713433,
-    "wof:lastmodified":1480790087,
+    "wof:lastmodified":1611183331,
     "wof:name":"30725",
     "wof:parent_id":85937185,
     "wof:placetype":"postalcode",

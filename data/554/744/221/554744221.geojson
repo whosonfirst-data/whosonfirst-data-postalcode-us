@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002764,
-    "geom:area_square_m":28714282.105312,
+    "geom:area_square_m":28714282.105319,
     "geom:bbox":"-97.022138,32.830489,-96.888782,32.869448",
     "geom:latitude":32.847041,
     "geom:longitude":-96.956899,
@@ -14,20 +14,25 @@
     "lbl:latitude":32.84737,
     "lbl:longitude":-96.957871,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Irving",
+    "mz:postal_locality_alt":[
+        "Dallas"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102080647,
         101725697,
-        102080647
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12790347"
     },
     "wof:country":"US",
-    "wof:geomhash":"57fab8c57231de4149cfda3fd7cfa810",
+    "wof:geomhash":"73985e6a67f7d83ef37126d2a3a5d2c8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554744221,
-    "wof:lastmodified":1480904885,
+    "wof:lastmodified":1611184716,
     "wof:name":"75062",
     "wof:parent_id":101725697,
     "wof:placetype":"postalcode",

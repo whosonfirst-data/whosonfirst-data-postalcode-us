@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018387,
-    "geom:area_square_m":190377032.143797,
+    "geom:area_square_m":190377032.143971,
     "geom:bbox":"-96.006772,33.048519,-95.861778,33.219338",
     "geom:latitude":33.139367,
     "geom:longitude":-95.932018,
@@ -14,19 +14,24 @@
     "lbl:latitude":33.1414,
     "lbl:longitude":-95.934195,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Campbell",
+    "mz:postal_locality_alt":[
+        "Yantis"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688753,
-        102080661
+        102080661,
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12790570"
     },
     "wof:country":"US",
-    "wof:geomhash":"ddbebdc51a61862f3cfbab1ee957bbc2",
+    "wof:geomhash":"5d1e6ace90d3ae27f3ccb87498a98d13",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554744517,
-    "wof:lastmodified":1480912060,
+    "wof:lastmodified":1611184725,
     "wof:name":"75422",
     "wof:parent_id":102080661,
     "wof:placetype":"postalcode",

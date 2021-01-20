@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024895,
-    "geom:area_square_m":211574188.194814,
+    "geom:area_square_m":211574188.194809,
     "geom:bbox":"-101.065776,46.487101,-100.776074,46.675747",
     "geom:latitude":46.58322,
     "geom:longitude":-100.925382,
@@ -14,20 +14,25 @@
     "lbl:latitude":46.583219,
     "lbl:longitude":-100.925343,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Saint Anthony",
+    "mz:postal_locality_alt":[
+        "St Anthony"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688525,
         102191575,
-        404479523,
         85633793,
-        102082067
+        102082067,
+        404479523,
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12783397"
     },
     "wof:country":"US",
-    "wof:geomhash":"3e786187da89e390281d3285460ddc22",
+    "wof:geomhash":"acec07b8e4a077516a0d40de494da596",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554732141,
-    "wof:lastmodified":1480792459,
+    "wof:lastmodified":1611184405,
     "wof:name":"58566",
     "wof:parent_id":404479523,
     "wof:placetype":"postalcode",

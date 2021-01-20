@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007437,
-    "geom:area_square_m":70343113.249316,
+    "geom:area_square_m":70343113.249242,
     "geom:bbox":"-75.71481,40.056072,-75.57373,40.151682",
     "geom:latitude":40.102222,
     "geom:longitude":-75.646369,
@@ -14,20 +14,28 @@
     "lbl:latitude":40.101778,
     "lbl:longitude":-75.651066,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Chester Springs",
+    "mz:postal_locality_alt":[
+        "Uwchland",
+        "Exton",
+        "Pottstown",
+        "Collegeville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404486635,
         85633793,
-        102081275
+        102081275,
+        404486635,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765632"
     },
     "wof:country":"US",
-    "wof:geomhash":"efcd153039bfd0b1ee7e4e327549e6d9",
+    "wof:geomhash":"5c9f97cc14a01951246b6da0e035e79a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +47,7 @@
         }
     ],
     "wof:id":554706447,
-    "wof:lastmodified":1480817363,
+    "wof:lastmodified":1611182686,
     "wof:name":"19425",
     "wof:parent_id":404486635,
     "wof:placetype":"postalcode",

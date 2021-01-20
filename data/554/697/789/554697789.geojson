@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007558,
-    "geom:area_square_m":67710498.505585,
+    "geom:area_square_m":67710498.505568,
     "geom:bbox":"-71.536419,43.501271,-71.428639,43.629993",
     "geom:latitude":43.572703,
     "geom:longitude":-71.477468,
@@ -14,21 +14,29 @@
     "lbl:latitude":43.576496,
     "lbl:longitude":-71.482301,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Laconia",
+    "mz:postal_locality_alt":[
+        "Campton",
+        "Gilford",
+        "Gilmanton",
+        "Sanbornton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688689,
         102191575,
-        404477095,
         85633793,
+        102086503,
+        404477095,
         85975071,
-        102086503
+        85688689
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759150"
     },
     "wof:country":"US",
-    "wof:geomhash":"8b71fe12f5c2a89f1c07bfb0d330b92a",
+    "wof:geomhash":"6bc4d77dd84069559ce4f927572bfe33",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +49,7 @@
         }
     ],
     "wof:id":554697789,
-    "wof:lastmodified":1480911428,
+    "wof:lastmodified":1611184664,
     "wof:name":"03246",
     "wof:parent_id":85975071,
     "wof:placetype":"postalcode",

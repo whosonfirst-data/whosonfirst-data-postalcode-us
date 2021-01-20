@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001793,
-    "geom:area_square_m":18351670.638568,
+    "geom:area_square_m":18351670.638589,
     "geom:bbox":"-117.999542,34.113762,-117.924661,34.16531",
     "geom:latitude":34.14071,
     "geom:longitude":-117.956709,
@@ -13,20 +13,26 @@
     "lbl:latitude":34.141586,
     "lbl:longitude":-117.957627,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Duarte",
+    "mz:postal_locality_alt":[
+        "Monrovia",
+        "Bradbury"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086957,
         85923633,
-        102086957
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795890"
     },
     "wof:country":"US",
-    "wof:geomhash":"c81900b7cc0471ee544ea9fc83e7589c",
+    "wof:geomhash":"360397407a7ef2d69a2ba7b943b47917",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554751865,
-    "wof:lastmodified":1480912624,
+    "wof:lastmodified":1611184356,
     "wof:name":"91010",
     "wof:parent_id":85923633,
     "wof:placetype":"postalcode",

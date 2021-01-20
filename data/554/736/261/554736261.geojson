@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.068274,
-    "geom:area_square_m":674925956.815882,
+    "geom:area_square_m":674925956.815854,
     "geom:bbox":"-89.466596,36.751777,-89.098968,37.087236",
     "geom:latitude":36.920831,
     "geom:longitude":-89.278916,
@@ -14,20 +14,25 @@
     "lbl:latitude":36.914293,
     "lbl:longitude":-89.274233,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Charleston",
+    "mz:postal_locality_alt":[
+        "Kewanee"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404516939,
         85633793,
-        102085295
+        102085295,
+        404516939,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785877"
     },
     "wof:country":"US",
-    "wof:geomhash":"0680ae32503138ffa935c5ca2cc2f7f2",
+    "wof:geomhash":"38f4e53ffdf3135f43b27ffb055543a8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554736261,
-    "wof:lastmodified":1480915679,
+    "wof:lastmodified":1611183028,
     "wof:name":"63834",
     "wof:parent_id":404516939,
     "wof:placetype":"postalcode",

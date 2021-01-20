@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002021,
-    "geom:area_square_m":19765810.033163,
+    "geom:area_square_m":19765810.033157,
     "geom:bbox":"-121.455952,37.710437,-121.409533,37.764088",
     "geom:latitude":37.737193,
     "geom:longitude":-121.433383,
@@ -13,20 +13,25 @@
     "lbl:latitude":37.737191,
     "lbl:longitude":-121.433384,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Tracy",
+    "mz:postal_locality_alt":[
+        "Lathrop"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102085393,
         85923255,
-        102085393
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12797735"
     },
     "wof:country":"US",
-    "wof:geomhash":"975c449e86c0e7c3c3998f5e91d10bcf",
+    "wof:geomhash":"2c68485528ca88dbe1539d8ae1cab552",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554753611,
-    "wof:lastmodified":1480811077,
+    "wof:lastmodified":1611182936,
     "wof:name":"95376",
     "wof:parent_id":85923255,
     "wof:placetype":"postalcode",

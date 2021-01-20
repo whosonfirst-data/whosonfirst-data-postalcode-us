@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028992,
-    "geom:area_square_m":303207393.06502,
+    "geom:area_square_m":303207393.064991,
     "geom:bbox":"-100.043298,32.168148,-99.70485,32.3279",
     "geom:latitude":32.244404,
     "geom:longitude":-99.866001,
@@ -14,19 +14,24 @@
     "lbl:latitude":32.236251,
     "lbl:longitude":-99.866451,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Tuscola",
+    "mz:postal_locality_alt":[
+        "Buffalo Gap"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688753,
-        102081085
+        102081085,
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12792694"
     },
     "wof:country":"US",
-    "wof:geomhash":"fa4e11d45547d912a6ec663496dd407f",
+    "wof:geomhash":"b893f4052f2f51672305088c67a83174",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554747705,
-    "wof:lastmodified":1480817570,
+    "wof:lastmodified":1611183468,
     "wof:name":"79562",
     "wof:parent_id":102081085,
     "wof:placetype":"postalcode",

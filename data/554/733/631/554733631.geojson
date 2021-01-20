@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0103,
-    "geom:area_square_m":94037245.587612,
+    "geom:area_square_m":94037245.587624,
     "geom:bbox":"-88.804148,42.32779,-88.705613,42.492763",
     "geom:latitude":42.407423,
     "geom:longitude":-88.754442,
@@ -14,20 +14,22 @@
     "lbl:latitude":42.401445,
     "lbl:longitude":-88.764558,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Capron",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404496165,
         85633793,
-        102086197
+        102086197,
+        404496165,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784409"
     },
     "wof:country":"US",
-    "wof:geomhash":"e4623800b39f16253157f8821121568c",
+    "wof:geomhash":"27e3aaf73f6bafccfeb8ae42b2f06ff4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554733631,
-    "wof:lastmodified":1480912139,
+    "wof:lastmodified":1611184246,
     "wof:name":"61012",
     "wof:parent_id":404496165,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038035,
-    "geom:area_square_m":331838641.790484,
+    "geom:area_square_m":331838641.790618,
     "geom:bbox":"-88.368933,45.024799,-87.922057,45.20061",
     "geom:latitude":45.123322,
     "geom:longitude":-88.159388,
@@ -14,20 +14,22 @@
     "lbl:latitude":45.122213,
     "lbl:longitude":-88.162416,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pound",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404493839,
         85633793,
-        102081785
+        102081785,
+        404493839,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781223"
     },
     "wof:country":"US",
-    "wof:geomhash":"5b7ed0afb7cc3212768c326c307c0e6f",
+    "wof:geomhash":"38d966f62d909cb7cf47cd1f0e45285b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554728161,
-    "wof:lastmodified":1480832094,
+    "wof:lastmodified":1611185047,
     "wof:name":"54161",
     "wof:parent_id":404493839,
     "wof:placetype":"postalcode",

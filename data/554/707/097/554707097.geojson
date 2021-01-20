@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001104,
-    "geom:area_square_m":10609606.466057,
+    "geom:area_square_m":10609606.466037,
     "geom:bbox":"-77.110524,39.006,-77.051992,39.046955",
     "geom:latitude":39.026746,
     "geom:longitude":-77.077555,
@@ -13,20 +13,26 @@
     "lbl:latitude":39.027048,
     "lbl:longitude":-77.07759,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Kensington",
+    "mz:postal_locality_alt":[
+        "North Bethesda",
+        "Garrett Park"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688501,
         102191575,
         85633793,
+        102082719,
         85949497,
-        102082719
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766380"
     },
     "wof:country":"US",
-    "wof:geomhash":"8f02bfb0e8dc70c92055384f92544159",
+    "wof:geomhash":"b398f6ddb2dc7de4bb17986ee34d274f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554707097,
-    "wof:lastmodified":1480795129,
+    "wof:lastmodified":1611183143,
     "wof:name":"20895",
     "wof:parent_id":85949497,
     "wof:placetype":"postalcode",

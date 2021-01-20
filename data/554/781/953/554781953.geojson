@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001621,
-    "geom:area_square_m":17720175.663166,
+    "geom:area_square_m":17720175.66316,
     "geom:bbox":"-82.754265,27.824591,-82.677894,27.853769",
     "geom:latitude":27.838672,
     "geom:longitude":-82.715114,
@@ -13,20 +13,22 @@
     "lbl:latitude":27.838362,
     "lbl:longitude":-82.714996,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pinellas Park",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688651,
         102191575,
         85633793,
+        102085759,
         85931855,
-        102085759
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12772521"
     },
     "wof:country":"US",
-    "wof:geomhash":"15462ea4e6cce0c639b28d420adc30f0",
+    "wof:geomhash":"f8a86c1eac5b20107a04c6af63889362",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +40,7 @@
         }
     ],
     "wof:id":554781953,
-    "wof:lastmodified":1480807073,
+    "wof:lastmodified":1611184808,
     "wof:name":"33781",
     "wof:parent_id":85931855,
     "wof:placetype":"postalcode",

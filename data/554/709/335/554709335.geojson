@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001947,
-    "geom:area_square_m":18872522.338797,
+    "geom:area_square_m":18872522.338785,
     "geom:bbox":"-81.797878,38.355132,-81.706809,38.399281",
     "geom:latitude":38.376308,
     "geom:longitude":-81.748514,
@@ -14,19 +14,24 @@
     "lbl:latitude":38.377043,
     "lbl:longitude":-81.749626,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Dunbar",
+    "mz:postal_locality_alt":[
+        "Danville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688589,
-        102083335
+        102083335,
+        85688589
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12768124"
     },
     "wof:country":"US",
-    "wof:geomhash":"66b846231d7d289de2f926a8124f39a2",
+    "wof:geomhash":"5efc8a128511841bbb1a596509863eb1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554709335,
-    "wof:lastmodified":1480837071,
+    "wof:lastmodified":1611183004,
     "wof:name":"25064",
     "wof:parent_id":102083335,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003985,
-    "geom:area_square_m":37075434.529597,
+    "geom:area_square_m":37075434.529577,
     "geom:bbox":"-73.876581,41.13662,-73.765844,41.237605",
     "geom:latitude":41.192477,
     "geom:longitude":-73.830911,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.19448,
     "lbl:longitude":-73.825254,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ossining",
+    "mz:postal_locality_alt":[
+        "Briarcliff Manor"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404523373,
         85633793,
-        102082373
+        102082373,
+        404523373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761570"
     },
     "wof:country":"US",
-    "wof:geomhash":"7479167992d3ada93ea36832687d8b09",
+    "wof:geomhash":"52a4f367d0079e39c4ea9bdd4960f6e2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554700873,
-    "wof:lastmodified":1480796133,
+    "wof:lastmodified":1611183181,
     "wof:name":"10562",
     "wof:parent_id":404523373,
     "wof:placetype":"postalcode",

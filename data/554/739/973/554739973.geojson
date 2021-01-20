@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026082,
-    "geom:area_square_m":242621616.774677,
+    "geom:area_square_m":242621616.774732,
     "geom:bbox":"-97.483515,41.075914,-97.348318,41.337163",
     "geom:latitude":41.210566,
     "geom:longitude":-97.414025,
@@ -14,20 +14,26 @@
     "lbl:latitude":41.210704,
     "lbl:longitude":-97.417564,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Shelby",
+    "mz:postal_locality_alt":[
+        "Stromsburg",
+        "Petersburg"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688563,
         102191575,
-        404520861,
         85633793,
-        102082823
+        102082823,
+        404520861,
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787769"
     },
     "wof:country":"US",
-    "wof:geomhash":"ff31ff9cd40242044e9c36ce09492830",
+    "wof:geomhash":"f37d0532543b2300d798e54fb6afe42c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554739973,
-    "wof:lastmodified":1480792922,
+    "wof:lastmodified":1611182679,
     "wof:name":"68662",
     "wof:parent_id":404520861,
     "wof:placetype":"postalcode",

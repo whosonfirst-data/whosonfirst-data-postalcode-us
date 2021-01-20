@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012951,
-    "geom:area_square_m":130728855.877513,
+    "geom:area_square_m":130728855.87749,
     "geom:bbox":"-86.437996,35.218676,-86.27719,35.34678",
     "geom:latitude":35.280915,
     "geom:longitude":-86.355264,
@@ -14,20 +14,26 @@
     "lbl:latitude":35.27752,
     "lbl:longitude":-86.353027,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lynchburg",
+    "mz:postal_locality_alt":[
+        "Tracy City",
+        "Spring City"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688701,
         102191575,
         85633793,
+        102086437,
         101722431,
-        102086437
+        85688701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12773969"
     },
     "wof:country":"US",
-    "wof:geomhash":"c82860254ae771d2cf77f29c0831166d",
+    "wof:geomhash":"89d737a191a73d9652ba588192f91129",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554716777,
-    "wof:lastmodified":1480916896,
+    "wof:lastmodified":1611185375,
     "wof:name":"37352",
     "wof:parent_id":101722431,
     "wof:placetype":"postalcode",

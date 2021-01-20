@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00303,
-    "geom:area_square_m":31066540.264811,
+    "geom:area_square_m":31066540.264793,
     "geom:bbox":"-81.069077,33.93237,-80.980116,34.033408",
     "geom:latitude":33.983369,
     "geom:longitude":-81.028091,
@@ -13,20 +13,22 @@
     "lbl:latitude":33.982484,
     "lbl:longitude":-81.028098,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Columbia",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688683,
         102191575,
         85633793,
+        102085405,
         101720793,
-        102085405
+        85688683
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770062"
     },
     "wof:country":"US",
-    "wof:geomhash":"bed6dca813039909dd78b13be0f1fd3c",
+    "wof:geomhash":"da175abc4b36fb3a859b6d88d7a67c10",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +40,7 @@
         }
     ],
     "wof:id":554712067,
-    "wof:lastmodified":1480814074,
+    "wof:lastmodified":1611183733,
     "wof:name":"29201",
     "wof:parent_id":101720793,
     "wof:placetype":"postalcode",

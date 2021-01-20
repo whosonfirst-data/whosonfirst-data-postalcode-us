@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021873,
-    "geom:area_square_m":201444734.928748,
+    "geom:area_square_m":201444734.928741,
     "geom:bbox":"-80.921855,41.786872,-80.664769,41.926929",
     "geom:latitude":41.856184,
     "geom:longitude":-80.79161,
@@ -13,21 +13,28 @@
     "lbl:latitude":41.855941,
     "lbl:longitude":-80.791866,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ashtabula",
+    "mz:postal_locality_alt":[
+        "Geneva",
+        "North Kingsville",
+        "Kingsville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404524697,
         85633793,
+        102083657,
+        404524697,
         85982893,
-        102083657
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776564"
     },
     "wof:country":"US",
-    "wof:geomhash":"f063835a864d42e04e01af1d95712a63",
+    "wof:geomhash":"79221339b1140e2b1c442ac959fcdc1b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +47,7 @@
         }
     ],
     "wof:id":554782331,
-    "wof:lastmodified":1480838087,
+    "wof:lastmodified":1611183600,
     "wof:name":"44004",
     "wof:parent_id":85982893,
     "wof:placetype":"postalcode",

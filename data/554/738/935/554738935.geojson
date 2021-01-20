@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020658,
-    "geom:area_square_m":197151187.444145,
+    "geom:area_square_m":197151187.444032,
     "geom:bbox":"-97.05317,39.393747,-96.89482,39.566566",
     "geom:latitude":39.483446,
     "geom:longitude":-96.971156,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.485611,
     "lbl:longitude":-96.972061,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Green",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404502197,
         85633793,
-        102082129
+        102082129,
+        404502197,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787258"
     },
     "wof:country":"US",
-    "wof:geomhash":"588e114c4d5f9683849e2b259fee4461",
+    "wof:geomhash":"3212d83815d81da4d727fb20e44f0b6e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554738935,
-    "wof:lastmodified":1480841756,
+    "wof:lastmodified":1611183111,
     "wof:name":"67447",
     "wof:parent_id":404502197,
     "wof:placetype":"postalcode",

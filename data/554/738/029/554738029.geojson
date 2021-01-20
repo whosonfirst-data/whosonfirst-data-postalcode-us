@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001665,
-    "geom:area_square_m":16024766.330383,
+    "geom:area_square_m":16024766.330375,
     "geom:bbox":"-94.667809,38.883724,-94.607956,38.915505",
     "geom:latitude":38.899098,
     "geom:longitude":-94.638733,
@@ -13,21 +13,27 @@
     "lbl:latitude":38.8996,
     "lbl:longitude":-94.638358,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Shawnee Mission",
+    "mz:postal_locality_alt":[
+        "Leawood",
+        "Overland Park"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404504341,
         85633793,
+        102082673,
+        404504341,
         85945793,
-        102082673
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786797"
     },
     "wof:country":"US",
-    "wof:geomhash":"b48460b32b3a6b0d30dc6d6e9fe4f3ae",
+    "wof:geomhash":"c8a5d38724c46cf188ecc10579c35f8f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +46,7 @@
         }
     ],
     "wof:id":554738029,
-    "wof:lastmodified":1480816990,
+    "wof:lastmodified":1611183116,
     "wof:name":"66209",
     "wof:parent_id":85945793,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01058,
-    "geom:area_square_m":109329024.022657,
+    "geom:area_square_m":109329024.022558,
     "geom:bbox":"-86.837677,33.243319,-86.674204,33.389954",
     "geom:latitude":33.313462,
     "geom:longitude":-86.763138,
@@ -14,20 +14,26 @@
     "lbl:latitude":33.32183,
     "lbl:longitude":-86.742197,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pelham",
+    "mz:postal_locality_alt":[
+        "Indian Springs",
+        "Birmingham"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688675,
         102191575,
         85633793,
+        102085499,
         85914501,
-        102085499
+        85688675
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12772973"
     },
     "wof:country":"US",
-    "wof:geomhash":"c2e4e704f698e6270f2679f4a6322fad",
+    "wof:geomhash":"4e0757e7a0d249e9e2bdef236d0c590b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554715229,
-    "wof:lastmodified":1480811906,
+    "wof:lastmodified":1611183643,
     "wof:name":"35124",
     "wof:parent_id":85914501,
     "wof:placetype":"postalcode",

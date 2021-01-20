@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004801,
-    "geom:area_square_m":44280487.285587,
+    "geom:area_square_m":44280487.285582,
     "geom:bbox":"-72.579949,41.733799,-72.463899,41.79096",
     "geom:latitude":41.761661,
     "geom:longitude":-72.522508,
@@ -13,20 +13,25 @@
     "lbl:latitude":41.761415,
     "lbl:longitude":-72.525608,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Manchester",
+    "mz:postal_locality_alt":[
+        "New Britain"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688629,
         102191575,
-        404495985,
         85633793,
-        102085381
+        102085381,
+        404495985,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760195"
     },
     "wof:country":"US",
-    "wof:geomhash":"07b9545509942ba3317b7bc3ea3d46f0",
+    "wof:geomhash":"c59e1f1cd0be98ad3783e23c7f040f0f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554699307,
-    "wof:lastmodified":1480815743,
+    "wof:lastmodified":1611184599,
     "wof:name":"06040",
     "wof:parent_id":404495985,
     "wof:placetype":"postalcode",

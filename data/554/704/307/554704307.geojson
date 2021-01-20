@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010351,
-    "geom:area_square_m":96786692.199727,
+    "geom:area_square_m":96786692.199866,
     "geom:bbox":"-80.431842,40.783637,-80.184353,40.960666",
     "geom:latitude":40.872867,
     "geom:longitude":-80.255946,
@@ -14,20 +14,26 @@
     "lbl:latitude":40.871834,
     "lbl:longitude":-80.256207,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ellwood City",
+    "mz:postal_locality_alt":[
+        "Koppel",
+        "New Castle"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485681,
         85633793,
-        102080929
+        102080929,
+        404485681,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764162"
     },
     "wof:country":"US",
-    "wof:geomhash":"57512dafbf243b5b3cf3600ec5d1181b",
+    "wof:geomhash":"01c1b2a001d2ca0d7533f56b127ee9ee",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554704307,
-    "wof:lastmodified":1480906173,
+    "wof:lastmodified":1611184485,
     "wof:name":"16117",
     "wof:parent_id":404485681,
     "wof:placetype":"postalcode",

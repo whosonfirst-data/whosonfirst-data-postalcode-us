@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005466,
-    "geom:area_square_m":56940781.968705,
+    "geom:area_square_m":56940781.968682,
     "geom:bbox":"-96.9084,32.56028,-96.822206,32.647613",
     "geom:latitude":32.598851,
     "geom:longitude":-96.863726,
@@ -13,20 +13,27 @@
     "lbl:latitude":32.599427,
     "lbl:longitude":-96.864075,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Desoto",
+    "mz:postal_locality_alt":[
+        "De Soto",
+        "DeSoto",
+        "Lancaster"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102080647,
         101725679,
-        102080647
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12790385"
     },
     "wof:country":"US",
-    "wof:geomhash":"ef264a0d48ff794abe0d1b31d8682fdf",
+    "wof:geomhash":"d18a2937574eed922deb395ae75d247f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +45,7 @@
         }
     ],
     "wof:id":554744287,
-    "wof:lastmodified":1480904887,
+    "wof:lastmodified":1611184714,
     "wof:name":"75115",
     "wof:parent_id":101725679,
     "wof:placetype":"postalcode",

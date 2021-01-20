@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004722,
-    "geom:area_square_m":43853227.192345,
+    "geom:area_square_m":43853227.192322,
     "geom:bbox":"-81.598083,41.272424,-81.489236,41.351168",
     "geom:latitude":41.314696,
     "geom:longitude":-81.547562,
@@ -14,20 +14,26 @@
     "lbl:latitude":41.316283,
     "lbl:longitude":-81.542933,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Northfield",
+    "mz:postal_locality_alt":[
+        "Macedonia",
+        "Sagamore Hills"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404525999,
         85633793,
-        102084807
+        102084807,
+        404525999,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776602"
     },
     "wof:country":"US",
-    "wof:geomhash":"1d943b34f54149cbb3824dd9c638a49f",
+    "wof:geomhash":"bbf67a97da8986e496df058ecb92760c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554720957,
-    "wof:lastmodified":1480800396,
+    "wof:lastmodified":1611185469,
     "wof:name":"44067",
     "wof:parent_id":404525999,
     "wof:placetype":"postalcode",

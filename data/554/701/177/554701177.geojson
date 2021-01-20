@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017438,
-    "geom:area_square_m":157626810.926867,
+    "geom:area_square_m":157626810.926974,
     "geom:bbox":"-74.537703,42.955186,-74.228464,43.12491",
     "geom:latitude":43.027017,
     "geom:longitude":-74.404173,
@@ -14,20 +14,26 @@
     "lbl:latitude":43.024817,
     "lbl:longitude":-74.403815,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Johnstown",
+    "mz:postal_locality_alt":[
+        "Gloversville",
+        "Fort Johnson"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522441,
         85633793,
-        102081813
+        102081813,
+        404522441,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762105"
     },
     "wof:country":"US",
-    "wof:geomhash":"4628f212a89177ec56d8f49d2ae805da",
+    "wof:geomhash":"dcb8f852ed431936541c9836149748da",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554701177,
-    "wof:lastmodified":1480830985,
+    "wof:lastmodified":1611182645,
     "wof:name":"12095",
     "wof:parent_id":404522441,
     "wof:placetype":"postalcode",

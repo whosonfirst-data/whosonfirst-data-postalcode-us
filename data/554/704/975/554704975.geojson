@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002407,
-    "geom:area_square_m":22766480.144603,
+    "geom:area_square_m":22766480.144628,
     "geom:bbox":"-77.2267,40.076667,-77.147901,40.137878",
     "geom:latitude":40.111455,
     "geom:longitude":-77.190188,
@@ -14,21 +14,26 @@
     "lbl:latitude":40.110211,
     "lbl:longitude":-77.189087,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mt Holly Springs",
+    "mz:postal_locality_alt":[
+        "Mount Holly Springs"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404486417,
         85633793,
+        102081359,
+        404486417,
         101716791,
-        102081359
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764608"
     },
     "wof:country":"US",
-    "wof:geomhash":"083e24ae537d3d067c1549e76eb70939",
+    "wof:geomhash":"757731bd15e82eec8002c8629770e758",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554704975,
-    "wof:lastmodified":1480819602,
+    "wof:lastmodified":1611184525,
     "wof:name":"17065",
     "wof:parent_id":101716791,
     "wof:placetype":"postalcode",

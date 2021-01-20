@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000887,
-    "geom:area_square_m":8175116.733427,
+    "geom:area_square_m":8175116.733439,
     "geom:bbox":"-71.458611,41.824514,-71.41229,41.854095",
     "geom:latitude":41.839125,
     "geom:longitude":-71.43687,
@@ -13,21 +13,26 @@
     "lbl:latitude":41.839825,
     "lbl:longitude":-71.436794,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Providence",
+    "mz:postal_locality_alt":[
+        "North Providence"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688509,
         102191575,
-        404488375,
         85633793,
+        102081597,
+        404488375,
         101720567,
-        102081597
+        85688509
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759061"
     },
     "wof:country":"US",
-    "wof:geomhash":"ccdcf2eed1a13b2febf0751638a95ad6",
+    "wof:geomhash":"e8df99f1eb59c1db7920191679b2a298",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554778609,
-    "wof:lastmodified":1480817076,
+    "wof:lastmodified":1611183444,
     "wof:name":"02908",
     "wof:parent_id":101720567,
     "wof:placetype":"postalcode",

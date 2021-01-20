@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013827,
-    "geom:area_square_m":131458719.684484,
+    "geom:area_square_m":131458719.684414,
     "geom:bbox":"-83.871024,39.692174,-83.66346,39.797051",
     "geom:latitude":39.746985,
     "geom:longitude":-83.775711,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.75008,
     "lbl:longitude":-83.77625,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cedarville",
+    "mz:postal_locality_alt":[
+        "South Solon"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404525283,
         85633793,
-        102084765
+        102084765,
+        404525283,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777205"
     },
     "wof:country":"US",
-    "wof:geomhash":"b3e5ac6baf3b6b22ad77db5746677061",
+    "wof:geomhash":"504621c224954d6b56cb27b3250c3ca9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554721837,
-    "wof:lastmodified":1480835538,
+    "wof:lastmodified":1611184975,
     "wof:name":"45314",
     "wof:parent_id":404525283,
     "wof:placetype":"postalcode",

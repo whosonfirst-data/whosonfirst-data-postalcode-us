@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00698,
-    "geom:area_square_m":61898038.73227,
+    "geom:area_square_m":61898038.732264,
     "geom:bbox":"-69.196629,44.114657,-69.051923,44.222669",
     "geom:latitude":44.177181,
     "geom:longitude":-69.117996,
@@ -14,20 +14,25 @@
     "lbl:latitude":44.180604,
     "lbl:longitude":-69.122109,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Rockport",
+    "mz:postal_locality_alt":[
+        "Thomaston"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404475623,
         85633793,
-        102087453
+        102087453,
+        404475623,
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759778"
     },
     "wof:country":"US",
-    "wof:geomhash":"c8884b2c307f3a34e61a138aaec06f50",
+    "wof:geomhash":"ab17f2123529c6fc002ba8896761bffa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554778953,
-    "wof:lastmodified":1480782529,
+    "wof:lastmodified":1611183425,
     "wof:name":"04856",
     "wof:parent_id":404475623,
     "wof:placetype":"postalcode",

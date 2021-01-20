@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024155,
-    "geom:area_square_m":212032029.545746,
+    "geom:area_square_m":212032029.545765,
     "geom:bbox":"-97.491689,44.70245,-97.229018,44.862137",
     "geom:latitude":44.773846,
     "geom:longitude":-97.362889,
@@ -14,20 +14,25 @@
     "lbl:latitude":44.770719,
     "lbl:longitude":-97.365496,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hazel",
+    "mz:postal_locality_alt":[
+        "Hayti"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688693,
         102191575,
-        404490641,
         85633793,
-        102086845
+        102086845,
+        404490641,
+        85688693
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782812"
     },
     "wof:country":"US",
-    "wof:geomhash":"9733992c1af19bc61bc705b131cde1a2",
+    "wof:geomhash":"d0b28be0f246b881da3c645c43a2d34a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554730995,
-    "wof:lastmodified":1480913567,
+    "wof:lastmodified":1611182741,
     "wof:name":"57242",
     "wof:parent_id":404490641,
     "wof:placetype":"postalcode",

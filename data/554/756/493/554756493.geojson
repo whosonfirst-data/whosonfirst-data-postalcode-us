@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009007,
-    "geom:area_square_m":85004352.32103,
+    "geom:area_square_m":85004352.320981,
     "geom:bbox":"-77.103349,40.202841,-76.942848,40.294273",
     "geom:latitude":40.248538,
     "geom:longitude":-77.026304,
@@ -13,20 +13,26 @@
     "lbl:latitude":40.247991,
     "lbl:longitude":-77.02737,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mechanicsburg",
+    "mz:postal_locality_alt":[
+        "Reedsville",
+        "Palmyra"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404486539,
         85633793,
-        102081359
+        102081359,
+        404486539,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"23424570"
     },
     "wof:country":"US",
-    "wof:geomhash":"1dd1d15f901a30a270be7b9bf8ae26e9",
+    "wof:geomhash":"139c3c215137f52891c05e53df6e46b5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554756493,
-    "wof:lastmodified":1480819605,
+    "wof:lastmodified":1611184302,
     "wof:name":"17050",
     "wof:parent_id":404486539,
     "wof:placetype":"postalcode",

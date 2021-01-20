@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006014,
-    "geom:area_square_m":54413828.570199,
+    "geom:area_square_m":54413828.570162,
     "geom:bbox":"-83.797288,42.914728,-83.633983,43.009754",
     "geom:latitude":42.965433,
     "geom:longitude":-83.715486,
@@ -13,20 +13,22 @@
     "lbl:latitude":42.966966,
     "lbl:longitude":-83.717359,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Flint",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404506601,
         85633793,
-        102083111
+        102083111,
+        404506601,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778870"
     },
     "wof:country":"US",
-    "wof:geomhash":"4396de7f5755a9b55f96587cc9f8606c",
+    "wof:geomhash":"279a4c9404681f59204e3cd7d8450370",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +40,7 @@
         }
     ],
     "wof:id":554724353,
-    "wof:lastmodified":1480842854,
+    "wof:lastmodified":1611183742,
     "wof:name":"48507",
     "wof:parent_id":404506601,
     "wof:placetype":"postalcode",

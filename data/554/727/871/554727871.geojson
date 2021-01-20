@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014958,
-    "geom:area_square_m":134869476.300832,
+    "geom:area_square_m":134869476.300783,
     "geom:bbox":"-89.562961,43.118775,-89.351432,43.250271",
     "geom:latitude":43.182569,
     "geom:longitude":-89.456915,
@@ -14,21 +14,26 @@
     "lbl:latitude":43.183434,
     "lbl:longitude":-89.457307,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Waunakee",
+    "mz:postal_locality_alt":[
+        "Westport"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404493369,
         85633793,
+        102081795,
+        404493369,
         101732799,
-        102081795
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781040"
     },
     "wof:country":"US",
-    "wof:geomhash":"ef0f580acadec07d77eeaf69056b7f2c",
+    "wof:geomhash":"2cd674eb2b9635e36dc87f567946b2e9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554727871,
-    "wof:lastmodified":1480820041,
+    "wof:lastmodified":1611185521,
     "wof:name":"53597",
     "wof:parent_id":101732799,
     "wof:placetype":"postalcode",

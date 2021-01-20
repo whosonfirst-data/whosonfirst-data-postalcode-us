@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.118816,
-    "geom:area_square_m":1176533498.509008,
+    "geom:area_square_m":1176533498.509176,
     "geom:bbox":"-85.05506,36.603279,-84.572534,36.982574",
     "geom:latitude":36.792838,
     "geom:longitude":-84.830435,
@@ -14,19 +14,26 @@
     "lbl:latitude":36.802011,
     "lbl:longitude":-84.83044,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Monticello",
+    "mz:postal_locality_alt":[
+        "Whitley City",
+        "Pine Knot",
+        "Stearns"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688641,
-        102084533
+        102084533,
+        85688641
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776024"
     },
     "wof:country":"US",
-    "wof:geomhash":"9fe591a4125167b3baa8f45ec3aab44c",
+    "wof:geomhash":"33c9d8ac1b5b212fa7c13a769608e4f0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +44,7 @@
         }
     ],
     "wof:id":554720105,
-    "wof:lastmodified":1480912142,
+    "wof:lastmodified":1611185449,
     "wof:name":"42633",
     "wof:parent_id":102084533,
     "wof:placetype":"postalcode",

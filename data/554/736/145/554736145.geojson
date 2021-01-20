@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.101163,
-    "geom:area_square_m":991913899.614604,
+    "geom:area_square_m":991913899.614492,
     "geom:bbox":"-90.547582,37.314577,-90.092004,37.757896",
     "geom:latitude":37.536735,
     "geom:longitude":-90.335195,
@@ -14,20 +14,25 @@
     "lbl:latitude":37.536749,
     "lbl:longitude":-90.338785,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fredericktown",
+    "mz:postal_locality_alt":[
+        "Bunker"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404517749,
         85633793,
-        102087483
+        102087483,
+        404517749,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785800"
     },
     "wof:country":"US",
-    "wof:geomhash":"e2e20b367f8f70c6e6ba5b6b86e996e5",
+    "wof:geomhash":"a61caf1db8d6afb62f865c71405c44e7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554736145,
-    "wof:lastmodified":1480913552,
+    "wof:lastmodified":1611183032,
     "wof:name":"63645",
     "wof:parent_id":404517749,
     "wof:placetype":"postalcode",

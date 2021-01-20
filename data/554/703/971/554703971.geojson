@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014824,
-    "geom:area_square_m":139378741.561521,
+    "geom:area_square_m":139378741.561508,
     "geom:bbox":"-79.560998,40.415563,-79.338639,40.602676",
     "geom:latitude":40.50095,
     "geom:longitude":-79.43849,
@@ -14,20 +14,26 @@
     "lbl:latitude":40.500367,
     "lbl:longitude":-79.439951,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Saltsburg",
+    "mz:postal_locality_alt":[
+        "Schenley",
+        "Champion"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404486353,
         85633793,
-        102081387
+        102081387,
+        404486353,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763949"
     },
     "wof:country":"US",
-    "wof:geomhash":"e8c6eae95f6c4337c1d07320fd21e4c4",
+    "wof:geomhash":"d97e3549e9386af1842c7b4d8e827f77",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554703971,
-    "wof:lastmodified":1480823407,
+    "wof:lastmodified":1611184464,
     "wof:name":"15681",
     "wof:parent_id":404486353,
     "wof:placetype":"postalcode",

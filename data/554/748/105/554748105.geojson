@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034244,
-    "geom:area_square_m":326868857.162977,
+    "geom:area_square_m":326868857.162941,
     "geom:bbox":"-106.13854,39.357378,-105.853858,39.580537",
     "geom:latitude":39.470984,
     "geom:longitude":-106.016916,
@@ -14,19 +14,25 @@
     "lbl:latitude":39.473301,
     "lbl:longitude":-106.004254,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Breckenridge",
+    "mz:postal_locality_alt":[
+        "Silverthorne",
+        "Evergreen"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688603,
-        102084025
+        102084025,
+        85688603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12793037"
     },
     "wof:country":"US",
-    "wof:geomhash":"a9279d83e19c77be69bc696d61a7c515",
+    "wof:geomhash":"452d3c93eb729d8372b586f88f3d7387",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554748105,
-    "wof:lastmodified":1480912048,
+    "wof:lastmodified":1611183819,
     "wof:name":"80424",
     "wof:parent_id":102084025,
     "wof:placetype":"postalcode",

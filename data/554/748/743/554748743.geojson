@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02727,
-    "geom:area_square_m":265639396.051099,
+    "geom:area_square_m":265639396.051327,
     "geom:bbox":"-107.738283,37.892007,-107.51088,38.139959",
     "geom:latitude":38.020149,
     "geom:longitude":-107.631671,
@@ -14,19 +14,24 @@
     "lbl:latitude":38.025837,
     "lbl:longitude":-107.609762,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ouray",
+    "mz:postal_locality_alt":[
+        "Austin"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688603,
-        102085219
+        102085219,
+        85688603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12793451"
     },
     "wof:country":"US",
-    "wof:geomhash":"69274e2dabb551802a05a0c530e4b3d2",
+    "wof:geomhash":"21bd9d9e9db327c713115a62e0b14f24",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554748743,
-    "wof:lastmodified":1480913161,
+    "wof:lastmodified":1611183864,
     "wof:name":"81427",
     "wof:parent_id":102085219,
     "wof:placetype":"postalcode",

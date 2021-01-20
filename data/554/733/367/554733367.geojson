@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019054,
-    "geom:area_square_m":176754441.998477,
+    "geom:area_square_m":176754441.9986,
     "geom:bbox":"-88.040446,41.292996,-87.870169,41.48308",
     "geom:latitude":41.39272,
     "geom:longitude":-87.963475,
@@ -14,21 +14,23 @@
     "lbl:latitude":41.392691,
     "lbl:longitude":-87.963472,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Manhattan",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404499147,
         85633793,
+        102080845,
+        404499147,
         85940551,
-        102080845
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784150"
     },
     "wof:country":"US",
-    "wof:geomhash":"02c0069a5692cd709f1fb202ec0c9926",
+    "wof:geomhash":"4d545021fc58722d618862abf931116d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +43,7 @@
         }
     ],
     "wof:id":554733367,
-    "wof:lastmodified":1480903216,
+    "wof:lastmodified":1611184233,
     "wof:name":"60442",
     "wof:parent_id":85940551,
     "wof:placetype":"postalcode",

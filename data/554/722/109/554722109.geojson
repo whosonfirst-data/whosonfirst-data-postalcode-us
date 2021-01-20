@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008989,
-    "geom:area_square_m":87041294.920889,
+    "geom:area_square_m":87041294.920816,
     "geom:bbox":"-82.629834,38.403423,-82.466609,38.52149",
     "geom:latitude":38.454833,
     "geom:longitude":-82.545171,
@@ -14,20 +14,25 @@
     "lbl:latitude":38.467808,
     "lbl:longitude":-82.546829,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"South Point",
+    "mz:postal_locality_alt":[
+        "Ironton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404525629,
         85633793,
-        102083699
+        102083699,
+        404525629,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777378"
     },
     "wof:country":"US",
-    "wof:geomhash":"530f03c10d572bab744146c79cba4c60",
+    "wof:geomhash":"34dcb1a53afd38ab6a35d587e5465f45",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554722109,
-    "wof:lastmodified":1480841822,
+    "wof:lastmodified":1611183231,
     "wof:name":"45680",
     "wof:parent_id":404525629,
     "wof:placetype":"postalcode",

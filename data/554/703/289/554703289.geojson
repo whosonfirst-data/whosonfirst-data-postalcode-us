@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011953,
-    "geom:area_square_m":109743166.859553,
+    "geom:area_square_m":109743166.859583,
     "geom:bbox":"-77.75489,41.998797,-77.63174,42.130669",
     "geom:latitude":42.056655,
     "geom:longitude":-77.685903,
@@ -14,20 +14,22 @@
     "lbl:latitude":42.05779,
     "lbl:longitude":-77.680307,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Rexville",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404521439,
         85633793,
-        102083115
+        102083115,
+        404521439,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763508"
     },
     "wof:country":"US",
-    "wof:geomhash":"f113b35cab0b7c760efd6ce3ebd179c3",
+    "wof:geomhash":"e397f26f58f2ed6954cbfa13596270e6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554703289,
-    "wof:lastmodified":1480835918,
+    "wof:lastmodified":1611184453,
     "wof:name":"14877",
     "wof:parent_id":404521439,
     "wof:placetype":"postalcode",

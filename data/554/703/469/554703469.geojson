@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003068,
-    "geom:area_square_m":28887993.135057,
+    "geom:area_square_m":28887993.135061,
     "geom:bbox":"-80.170145,40.380127,-80.057026,40.433449",
     "geom:latitude":40.41012,
     "geom:longitude":-80.114214,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.410121,
     "lbl:longitude":-80.114209,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Carnegie",
+    "mz:postal_locality_alt":[
+        "Pittsburgh"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404484875,
         85633793,
-        102080887
+        102080887,
+        404484875,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763614"
     },
     "wof:country":"US",
-    "wof:geomhash":"a2e72e409933023c78cf4851853edd1a",
+    "wof:geomhash":"d9da5b3a8de9bc9ae3f54d9a96d67a59",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554703469,
-    "wof:lastmodified":1480905387,
+    "wof:lastmodified":1611184476,
     "wof:name":"15106",
     "wof:parent_id":404484875,
     "wof:placetype":"postalcode",

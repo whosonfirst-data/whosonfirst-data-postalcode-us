@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015462,
-    "geom:area_square_m":142904081.575494,
+    "geom:area_square_m":142904081.575426,
     "geom:bbox":"-72.334226,41.538815,-72.157546,41.714414",
     "geom:latitude":41.631282,
     "geom:longitude":-72.240175,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.632955,
     "lbl:longitude":-72.24009,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lebanon",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688629,
         102191575,
-        404495747,
         85633793,
-        102084295
+        102084295,
+        404495747,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760312"
     },
     "wof:country":"US",
-    "wof:geomhash":"3190e66f2b354d16cb64ba6a2eacdb46",
+    "wof:geomhash":"6bc0f7917d3eedfff9b5da69f0a0c139",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554699447,
-    "wof:lastmodified":1480814285,
+    "wof:lastmodified":1611184603,
     "wof:name":"06249",
     "wof:parent_id":404495747,
     "wof:placetype":"postalcode",

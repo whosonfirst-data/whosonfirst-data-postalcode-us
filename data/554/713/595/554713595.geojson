@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00089,
-    "geom:area_square_m":9268096.529486,
+    "geom:area_square_m":9268096.529501,
     "geom:bbox":"-83.708974,32.616661,-83.660559,32.659319",
     "geom:latitude":32.634851,
     "geom:longitude":-83.681697,
@@ -14,20 +14,25 @@
     "lbl:latitude":32.6312,
     "lbl:longitude":-83.6963,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Centerville",
+    "mz:postal_locality_alt":[
+        "Fort Valley"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688535,
         102191575,
         85633793,
+        102083617,
         85936375,
-        102083617
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12771076"
     },
     "wof:country":"US",
-    "wof:geomhash":"75c190bf98a7ba9a5b6fbc312b639a6f",
+    "wof:geomhash":"e8e741d22193aa04d16e367de6fb9d97",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554713595,
-    "wof:lastmodified":1480839375,
+    "wof:lastmodified":1611183294,
     "wof:name":"31028",
     "wof:parent_id":85936375,
     "wof:placetype":"postalcode",

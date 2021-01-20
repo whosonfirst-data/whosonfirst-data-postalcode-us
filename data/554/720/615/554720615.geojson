@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005216,
-    "geom:area_square_m":48211342.304129,
+    "geom:area_square_m":48211342.30406,
     "geom:bbox":"-83.817932,41.591331,-83.684181,41.672661",
     "geom:latitude":41.628589,
     "geom:longitude":-83.748994,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.628855,
     "lbl:longitude":-83.749575,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Holland",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404525351,
         85633793,
-        102084787
+        102084787,
+        404525351,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776350"
     },
     "wof:country":"US",
-    "wof:geomhash":"ccb3bdbee7cbc92b20fbfba1d9b935dc",
+    "wof:geomhash":"127e985e5e75b5b4ae2e224677aa3e45",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554720615,
-    "wof:lastmodified":1480797478,
+    "wof:lastmodified":1611185477,
     "wof:name":"43528",
     "wof:parent_id":404525351,
     "wof:placetype":"postalcode",

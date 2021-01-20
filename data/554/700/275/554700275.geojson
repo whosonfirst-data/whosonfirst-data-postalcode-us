@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002474,
-    "geom:area_square_m":23178876.702239,
+    "geom:area_square_m":23178876.702236,
     "geom:bbox":"-74.449736,40.687969,-74.363072,40.755403",
     "geom:latitude":40.726082,
     "geom:longitude":-74.41266,
@@ -14,20 +14,26 @@
     "lbl:latitude":40.725986,
     "lbl:longitude":-74.412612,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Chatham",
+    "mz:postal_locality_alt":[
+        "Morristown",
+        "Whippany"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478301,
         85633793,
-        102087413
+        102087413,
+        404478301,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760949"
     },
     "wof:country":"US",
-    "wof:geomhash":"a554d5ef0a90203a264a04e174ffb046",
+    "wof:geomhash":"c6d27f43aec13460a0a12ce66f982355",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554700275,
-    "wof:lastmodified":1480816152,
+    "wof:lastmodified":1611183183,
     "wof:name":"07928",
     "wof:parent_id":404478301,
     "wof:placetype":"postalcode",

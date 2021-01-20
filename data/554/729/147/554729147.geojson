@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004054,
-    "geom:area_square_m":35537797.313738,
+    "geom:area_square_m":35537797.313709,
     "geom:bbox":"-93.59723,44.814943,-93.520632,44.891502",
     "geom:latitude":44.85808,
     "geom:longitude":-93.551878,
@@ -14,21 +14,28 @@
     "lbl:latitude":44.858704,
     "lbl:longitude":-93.550209,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Chanhassen",
+    "mz:postal_locality_alt":[
+        "Chaska",
+        "Shakopee",
+        "Hutchinson"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404511685,
         85633793,
+        102087897,
+        404511685,
         85953005,
-        102087897
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781801"
     },
     "wof:country":"US",
-    "wof:geomhash":"11bd43d799c5e246b43ff8be853ddfe3",
+    "wof:geomhash":"93d14c5b8069d41ae9325faf6cdd91c2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +48,7 @@
         }
     ],
     "wof:id":554729147,
-    "wof:lastmodified":1480789092,
+    "wof:lastmodified":1611185444,
     "wof:name":"55317",
     "wof:parent_id":85953005,
     "wof:placetype":"postalcode",

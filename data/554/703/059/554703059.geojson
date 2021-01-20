@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005572,
-    "geom:area_square_m":50320014.669556,
+    "geom:area_square_m":50320014.669555,
     "geom:bbox":"-77.730444,43.058541,-77.568618,43.132963",
     "geom:latitude":43.088464,
     "geom:longitude":-77.642403,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.087349,
     "lbl:longitude":-77.641862,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Rochester",
+    "mz:postal_locality_alt":[
+        "Henrietta"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522637,
         85633793,
-        102081815
+        102081815,
+        404522637,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763350"
     },
     "wof:country":"US",
-    "wof:geomhash":"ee08900213a48f714fa686534b5f6ac1",
+    "wof:geomhash":"9b8af5df79b0f6f1c9688cfc23b708fb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554703059,
-    "wof:lastmodified":1480829696,
+    "wof:lastmodified":1611184477,
     "wof:name":"14623",
     "wof:parent_id":404522637,
     "wof:placetype":"postalcode",

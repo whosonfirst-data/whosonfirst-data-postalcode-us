@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046627,
-    "geom:area_square_m":483223218.898235,
+    "geom:area_square_m":483223218.898146,
     "geom:bbox":"-80.445818,32.870586,-80.181359,33.253361",
     "geom:latitude":33.057087,
     "geom:longitude":-80.318433,
@@ -14,19 +14,25 @@
     "lbl:latitude":33.045536,
     "lbl:longitude":-80.326698,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ridgeville",
+    "mz:postal_locality_alt":[
+        "Summerville",
+        "Holly Hill"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688683,
-        102085409
+        102085409,
+        85688683
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770208"
     },
     "wof:country":"US",
-    "wof:geomhash":"eb015fac3d477702256a065350b0018c",
+    "wof:geomhash":"777b46643b46476f8badf58bdb39bf60",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554712233,
-    "wof:lastmodified":1480813955,
+    "wof:lastmodified":1611183709,
     "wof:name":"29472",
     "wof:parent_id":102085409,
     "wof:placetype":"postalcode",

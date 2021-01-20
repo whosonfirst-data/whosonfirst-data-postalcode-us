@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001627,
-    "geom:area_square_m":16901746.935448,
+    "geom:area_square_m":16901746.935424,
     "geom:bbox":"-97.109206,32.837011,-97.060554,32.881659",
     "geom:latitude":32.859362,
     "geom:longitude":-97.083865,
@@ -13,20 +13,26 @@
     "lbl:latitude":32.860285,
     "lbl:longitude":-97.086028,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Euless",
+    "mz:postal_locality_alt":[
+        "Hurst",
+        "Bedford"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102083201,
         101723683,
-        102083201
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12790876"
     },
     "wof:country":"US",
-    "wof:geomhash":"d72c48bd3648b16109fc94693d6a75fe",
+    "wof:geomhash":"694c1d6f381829a892e1a1fdf755da4d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554745041,
-    "wof:lastmodified":1480840093,
+    "wof:lastmodified":1611185258,
     "wof:name":"76039",
     "wof:parent_id":101723683,
     "wof:placetype":"postalcode",

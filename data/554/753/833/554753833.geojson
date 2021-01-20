@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003565,
-    "geom:area_square_m":34441341.406661,
+    "geom:area_square_m":34441341.406617,
     "geom:bbox":"-121.356751,38.577193,-121.291433,38.673915",
     "geom:latitude":38.625773,
     "geom:longitude":-121.328297,
@@ -13,20 +13,25 @@
     "lbl:latitude":38.62415,
     "lbl:longitude":-121.324911,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Carmichael",
+    "mz:postal_locality_alt":[
+        "Mcclellan"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102082889,
         85926847,
-        102082889
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12797884"
     },
     "wof:country":"US",
-    "wof:geomhash":"164143fab8a8baa50b99d7953488761f",
+    "wof:geomhash":"6aa0a14eed048f8d75c57d8c559eb219",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554753833,
-    "wof:lastmodified":1480796110,
+    "wof:lastmodified":1611182941,
     "wof:name":"95608",
     "wof:parent_id":85926847,
     "wof:placetype":"postalcode",

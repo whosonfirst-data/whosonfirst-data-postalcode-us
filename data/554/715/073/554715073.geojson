@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018996,
-    "geom:area_square_m":206458806.228392,
+    "geom:area_square_m":206458806.22831,
     "geom:bbox":"-81.717087,28.346889,-81.553275,28.606835",
     "geom:latitude":28.482321,
     "geom:longitude":-81.627776,
@@ -13,20 +13,25 @@
     "lbl:latitude":28.484948,
     "lbl:longitude":-81.6193,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Winter Garden",
+    "mz:postal_locality_alt":[
+        "Oakland"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688651,
         102191575,
         85633793,
+        102085847,
         85935201,
-        102085847
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12772862"
     },
     "wof:country":"US",
-    "wof:geomhash":"8f7c3ce3ce585e4f6c82077ebed49966",
+    "wof:geomhash":"153750fbce987dabb16917cf64c4ffed",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554715073,
-    "wof:lastmodified":1480813116,
+    "wof:lastmodified":1611183671,
     "wof:name":"34787",
     "wof:parent_id":85935201,
     "wof:placetype":"postalcode",

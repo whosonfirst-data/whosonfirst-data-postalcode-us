@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017594,
-    "geom:area_square_m":165725624.577329,
+    "geom:area_square_m":165725624.577771,
     "geom:bbox":"-112.608149,40.291553,-112.400718,40.469818",
     "geom:latitude":40.381363,
     "geom:longitude":-112.497456,
@@ -14,19 +14,24 @@
     "lbl:latitude":40.389907,
     "lbl:longitude":-112.520686,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Roosevelt",
+    "mz:postal_locality_alt":[
+        "Rush Valley"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688567,
-        102086945
+        102086945,
+        85688567
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12794097"
     },
     "wof:country":"US",
-    "wof:geomhash":"472da602c9eb492344a1a4ddf430a097",
+    "wof:geomhash":"15db3f07b579f9a48559fc4d9a346cec",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554749841,
-    "wof:lastmodified":1480916198,
+    "wof:lastmodified":1611183573,
     "wof:name":"84069",
     "wof:parent_id":102086945,
     "wof:placetype":"postalcode",

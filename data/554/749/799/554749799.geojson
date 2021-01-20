@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001722,
-    "geom:area_square_m":16164690.98715,
+    "geom:area_square_m":16164690.987166,
     "geom:bbox":"-111.921409,40.587915,-111.846833,40.631704",
     "geom:latitude":40.615229,
     "geom:longitude":-111.890733,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.615229,
     "lbl:longitude":-111.890734,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Midvale",
+    "mz:postal_locality_alt":[
+        "Sandy"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688567,
         102191575,
         85633793,
+        102082877,
         101728051,
-        102082877
+        85688567
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12794076"
     },
     "wof:country":"US",
-    "wof:geomhash":"afaa058de769c1c73f418c7f27b91a44",
+    "wof:geomhash":"12d4bea9731214e74521e0a3f81d4b65",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554749799,
-    "wof:lastmodified":1480793069,
+    "wof:lastmodified":1611183535,
     "wof:name":"84047",
     "wof:parent_id":101728051,
     "wof:placetype":"postalcode",

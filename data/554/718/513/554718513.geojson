@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03085,
-    "geom:area_square_m":324948922.707311,
+    "geom:area_square_m":324948922.707204,
     "geom:bbox":"-90.124806,31.429016,-89.93646,31.722675",
     "geom:latitude":31.587117,
     "geom:longitude":-90.025402,
@@ -14,19 +14,24 @@
     "lbl:latitude":31.594893,
     "lbl:longitude":-90.038161,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Silver Creek",
+    "mz:postal_locality_alt":[
+        "Meadville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688579,
-        102082421
+        102082421,
+        85688579
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12775031"
     },
     "wof:country":"US",
-    "wof:geomhash":"f214d7ed25bf23ea548eba46ad5db606",
+    "wof:geomhash":"5bb8a7f82621b224f1615abab933748a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554718513,
-    "wof:lastmodified":1480793636,
+    "wof:lastmodified":1611185590,
     "wof:name":"39663",
     "wof:parent_id":102082421,
     "wof:placetype":"postalcode",

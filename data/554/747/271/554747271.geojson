@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040766,
-    "geom:area_square_m":437907339.03424,
+    "geom:area_square_m":437907339.033445,
     "geom:bbox":"-97.058832,29.555126,-96.826239,29.811349",
     "geom:latitude":29.687929,
     "geom:longitude":-96.934156,
@@ -14,19 +14,26 @@
     "lbl:latitude":29.686272,
     "lbl:longitude":-96.933626,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Schulenburg",
+    "mz:postal_locality_alt":[
+        "Weimar",
+        "Cat Spring",
+        "Alleyton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688753,
-        102081941
+        102081941,
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12792419"
     },
     "wof:country":"US",
-    "wof:geomhash":"2920b0103f0b74fcffebf900f839c777",
+    "wof:geomhash":"a2c71de85c9a28f35a89364abdae3b9f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +44,7 @@
         }
     ],
     "wof:id":554747271,
-    "wof:lastmodified":1480836369,
+    "wof:lastmodified":1611183476,
     "wof:name":"78956",
     "wof:parent_id":102081941,
     "wof:placetype":"postalcode",

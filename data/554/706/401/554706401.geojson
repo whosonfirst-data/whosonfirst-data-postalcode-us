@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00907,
-    "geom:area_square_m":85806798.245315,
+    "geom:area_square_m":85806798.245351,
     "geom:bbox":"-75.947873,40.027173,-75.792312,40.134012",
     "geom:latitude":40.08403,
     "geom:longitude":-75.881525,
@@ -14,20 +14,27 @@
     "lbl:latitude":40.083577,
     "lbl:longitude":-75.881364,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Honey Brook",
+    "mz:postal_locality_alt":[
+        "Morgantown",
+        "Chadds Ford",
+        "Elverson"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485213,
         85633793,
-        102081275
+        102081275,
+        404485213,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765584"
     },
     "wof:country":"US",
-    "wof:geomhash":"16432e8794b5b80ed9603300501a082e",
+    "wof:geomhash":"7e30aabf75423a081457fa89310cbcfd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554706401,
-    "wof:lastmodified":1480817414,
+    "wof:lastmodified":1611182691,
     "wof:name":"19344",
     "wof:parent_id":404485213,
     "wof:placetype":"postalcode",

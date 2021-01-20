@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001757,
-    "geom:area_square_m":17521106.201981,
+    "geom:area_square_m":17521106.201984,
     "geom:bbox":"-115.073131,36.203539,-114.95734,36.276125",
     "geom:latitude":36.239592,
     "geom:longitude":-115.025671,
@@ -14,19 +14,25 @@
     "lbl:latitude":36.239591,
     "lbl:longitude":-115.025677,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Las Vegas",
+    "mz:postal_locality_alt":[
+        "Nellis AFB",
+        "Nellis Afb"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688531,
-        102081553
+        102081553,
+        85688531
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795501"
     },
     "wof:country":"US",
-    "wof:geomhash":"de0f3bc09a6d38cdcbb54d3585ef6c8a",
+    "wof:geomhash":"14d3c40ef4e5edaa253a96bfbfaeeef9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554751661,
-    "wof:lastmodified":1480832980,
+    "wof:lastmodified":1611184337,
     "wof:name":"89191",
     "wof:parent_id":102081553,
     "wof:placetype":"postalcode",

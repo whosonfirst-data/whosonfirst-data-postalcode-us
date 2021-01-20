@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025093,
-    "geom:area_square_m":226574748.271095,
+    "geom:area_square_m":226574748.271295,
     "geom:bbox":"-73.597445,42.990557,-73.404399,43.216073",
     "geom:latitude":43.094695,
     "geom:longitude":-73.503,
@@ -14,21 +14,29 @@
     "lbl:latitude":43.094307,
     "lbl:longitude":-73.500583,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Greenwich",
+    "mz:postal_locality_alt":[
+        "Schroon Lake",
+        "Salem",
+        "Hudson Falls",
+        "Hampton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404523311,
         85633793,
+        102083153,
+        404523311,
         85978653,
-        102083153
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762487"
     },
     "wof:country":"US",
-    "wof:geomhash":"076ee8f7ae09d5c2047f7445277fc87e",
+    "wof:geomhash":"77946f68424c0b03e84104f3e1ba75dd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +49,7 @@
         }
     ],
     "wof:id":554701799,
-    "wof:lastmodified":1480835111,
+    "wof:lastmodified":1611182611,
     "wof:name":"12834",
     "wof:parent_id":85978653,
     "wof:placetype":"postalcode",

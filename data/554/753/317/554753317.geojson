@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00275,
-    "geom:area_square_m":27080640.54268,
+    "geom:area_square_m":27080640.542639,
     "geom:bbox":"-122.030569,37.194693,-121.913206,37.257554",
     "geom:latitude":37.222759,
     "geom:longitude":-121.983277,
@@ -13,20 +13,26 @@
     "lbl:latitude":37.222759,
     "lbl:longitude":-121.983272,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Los Gatos",
+    "mz:postal_locality_alt":[
+        "Monte Sereno",
+        "San Jose"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102081673,
         85922375,
-        102081673
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12797519"
     },
     "wof:country":"US",
-    "wof:geomhash":"846ef88d9b21d1f40e353ae733a253c1",
+    "wof:geomhash":"f64689b0d7e8338278023a5d10e6e02d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554753317,
-    "wof:lastmodified":1480829307,
+    "wof:lastmodified":1611182972,
     "wof:name":"95030",
     "wof:parent_id":85922375,
     "wof:placetype":"postalcode",

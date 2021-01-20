@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000932,
-    "geom:area_square_m":8702884.487852,
+    "geom:area_square_m":8702884.487844,
     "geom:bbox":"-74.171588,40.93433,-74.141048,40.983865",
     "geom:latitude":40.95793,
     "geom:longitude":-74.158233,
@@ -13,21 +13,27 @@
     "lbl:latitude":40.956957,
     "lbl:longitude":-74.158561,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hawthorne",
+    "mz:postal_locality_alt":[
+        "Fair Lawn",
+        "Paterson"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477813,
         85633793,
+        102081133,
+        404477813,
         85975487,
-        102081133
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760780"
     },
     "wof:country":"US",
-    "wof:geomhash":"129b5f50fda19334d9df7bad52d739af",
+    "wof:geomhash":"643488769620e21a854a8efce5075f2d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +46,7 @@
         }
     ],
     "wof:id":554700059,
-    "wof:lastmodified":1480908562,
+    "wof:lastmodified":1611183202,
     "wof:name":"07506",
     "wof:parent_id":85975487,
     "wof:placetype":"postalcode",

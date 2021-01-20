@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001694,
-    "geom:area_square_m":16313225.96483,
+    "geom:area_square_m":16313225.964822,
     "geom:bbox":"-94.68653,38.8398,-94.649137,38.891064",
     "geom:latitude":38.862817,
     "geom:longitude":-94.668206,
@@ -13,21 +13,27 @@
     "lbl:latitude":38.863482,
     "lbl:longitude":-94.668479,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Shawnee Mission",
+    "mz:postal_locality_alt":[
+        "Overland Park",
+        "Stanley"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404502689,
         85633793,
+        102082673,
+        404502689,
         85945755,
-        102082673
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786811"
     },
     "wof:country":"US",
-    "wof:geomhash":"0af93cced643099fcead11bff8c942a1",
+    "wof:geomhash":"c5ed4c02c042d3f86897314277a9cbdc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +46,7 @@
         }
     ],
     "wof:id":554738059,
-    "wof:lastmodified":1480792907,
+    "wof:lastmodified":1611183120,
     "wof:name":"66223",
     "wof:parent_id":85945755,
     "wof:placetype":"postalcode",

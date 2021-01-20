@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012156,
-    "geom:area_square_m":114608129.965078,
+    "geom:area_square_m":114608129.964955,
     "geom:bbox":"-79.792439,40.245258,-79.639394,40.394403",
     "geom:latitude":40.319177,
     "geom:longitude":-79.720452,
@@ -14,20 +14,33 @@
     "lbl:latitude":40.318382,
     "lbl:longitude":-79.723736,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Irwin",
+    "mz:postal_locality_alt":[
+        "North Huntingdon",
+        "Harrison City",
+        "Ligonier",
+        "Latrobe",
+        "Hunker",
+        "New Stanton",
+        "Leechburg",
+        "Laughlintown",
+        "Manor"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404487547,
         85633793,
-        102081383
+        102081383,
+        404487547,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763922"
     },
     "wof:country":"US",
-    "wof:geomhash":"0944bf9dba66adc8f4c4376c9769e735",
+    "wof:geomhash":"cbde241981b7fa9bb96aabae83fdb112",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +52,7 @@
         }
     ],
     "wof:id":554703929,
-    "wof:lastmodified":1480905393,
+    "wof:lastmodified":1611184480,
     "wof:name":"15642",
     "wof:parent_id":404487547,
     "wof:placetype":"postalcode",

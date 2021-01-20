@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017714,
-    "geom:area_square_m":165442513.242412,
+    "geom:area_square_m":165442513.242358,
     "geom:bbox":"-86.228965,40.880278,-85.97302,40.998926",
     "geom:latitude":40.945406,
     "geom:longitude":-86.104774,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.947573,
     "lbl:longitude":-86.105392,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Macy",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404500241,
         85633793,
-        102087079
+        102087079,
+        404500241,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777987"
     },
     "wof:country":"US",
-    "wof:geomhash":"87e5e378d88dd598e55f4186a350b7ee",
+    "wof:geomhash":"90bccfd4ad0d53ca17d79241c85c2cb5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554723015,
-    "wof:lastmodified":1480789053,
+    "wof:lastmodified":1611183780,
     "wof:name":"46951",
     "wof:parent_id":404500241,
     "wof:placetype":"postalcode",

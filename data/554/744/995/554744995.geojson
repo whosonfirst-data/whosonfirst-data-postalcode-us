@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024821,
-    "geom:area_square_m":259087803.476296,
+    "geom:area_square_m":259087803.476424,
     "geom:bbox":"-97.297823,32.319384,-97.086628,32.525401",
     "geom:latitude":32.415778,
     "geom:longitude":-97.201696,
@@ -14,20 +14,25 @@
     "lbl:latitude":32.414937,
     "lbl:longitude":-97.200076,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Alvarado",
+    "mz:postal_locality_alt":[
+        "Arlington"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102081065,
         101725019,
-        102081065
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12790856"
     },
     "wof:country":"US",
-    "wof:geomhash":"86eaf38f1fdb5a424ced13dab77b4bf0",
+    "wof:geomhash":"fbc2711ef2e86bcc630d9eccd3b57e39",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554744995,
-    "wof:lastmodified":1480823663,
+    "wof:lastmodified":1611184731,
     "wof:name":"76009",
     "wof:parent_id":101725019,
     "wof:placetype":"postalcode",

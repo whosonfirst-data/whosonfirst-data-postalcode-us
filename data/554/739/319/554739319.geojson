@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.056846,
-    "geom:area_square_m":553429573.554356,
+    "geom:area_square_m":553429573.554084,
     "geom:bbox":"-101.103778,37.829035,-100.928637,38.26504",
     "geom:latitude":38.062671,
     "geom:longitude":-101.026055,
@@ -14,20 +14,22 @@
     "lbl:latitude":38.068425,
     "lbl:longitude":-101.021258,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Holcomb",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404503619,
         85633793,
-        102082153
+        102082153,
+        404503619,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787435"
     },
     "wof:country":"US",
-    "wof:geomhash":"85c7a6110d8ea3a1bd3551dc9dbfdf60",
+    "wof:geomhash":"1969ab279323499bb7e3a4a717c931fc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554739319,
-    "wof:lastmodified":1480840675,
+    "wof:lastmodified":1611182680,
     "wof:name":"67851",
     "wof:parent_id":404503619,
     "wof:placetype":"postalcode",

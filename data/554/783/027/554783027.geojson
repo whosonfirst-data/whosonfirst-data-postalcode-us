@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014018,
-    "geom:area_square_m":123080364.854467,
+    "geom:area_square_m":123080364.854348,
     "geom:bbox":"-87.721692,44.686441,-87.538983,44.820986",
     "geom:latitude":44.758678,
     "geom:longitude":-87.620293,
@@ -14,20 +14,22 @@
     "lbl:latitude":44.755492,
     "lbl:longitude":-87.605295,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Brussels",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404491423,
         85633793,
-        102081831
+        102081831,
+        404491423,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781239"
     },
     "wof:country":"US",
-    "wof:geomhash":"4ed1c9745a922803cb2e6dccb3879420",
+    "wof:geomhash":"88041781a0805a58ead2e04c18d5c929",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554783027,
-    "wof:lastmodified":1480817147,
+    "wof:lastmodified":1611183896,
     "wof:name":"54204",
     "wof:parent_id":404491423,
     "wof:placetype":"postalcode",

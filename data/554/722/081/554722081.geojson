@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026508,
-    "geom:area_square_m":255908999.185137,
+    "geom:area_square_m":255908999.185268,
     "geom:bbox":"-82.765354,38.583279,-82.463811,38.762677",
     "geom:latitude":38.670891,
     "geom:longitude":-82.623511,
@@ -14,20 +14,22 @@
     "lbl:latitude":38.654972,
     "lbl:longitude":-82.64113,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pedro",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404525729,
         85633793,
-        102083699
+        102083699,
+        404525729,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777364"
     },
     "wof:country":"US",
-    "wof:geomhash":"be312a37f24bb5f850b7dadc764b4d9a",
+    "wof:geomhash":"95cf465881ce7587171744b6bd341765",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554722081,
-    "wof:lastmodified":1480839212,
+    "wof:lastmodified":1611183237,
     "wof:name":"45659",
     "wof:parent_id":404525729,
     "wof:placetype":"postalcode",

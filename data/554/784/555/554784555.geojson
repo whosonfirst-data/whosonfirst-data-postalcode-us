@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02536,
-    "geom:area_square_m":258332645.587718,
+    "geom:area_square_m":258332645.587918,
     "geom:bbox":"-120.019617,34.413146,-119.614338,34.650911",
     "geom:latitude":34.532291,
     "geom:longitude":-119.799676,
@@ -13,19 +13,24 @@
     "lbl:latitude":34.533222,
     "lbl:longitude":-119.791731,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Santa Barbara",
+    "mz:postal_locality_alt":[
+        "Goleta"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688637,
-        102080855
+        102080855,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796729"
     },
     "wof:country":"US",
-    "wof:geomhash":"20d925ee70f48772d5d48a8d87b25d4e",
+    "wof:geomhash":"89a4c2ae86c1c142a0636de5b24ea70e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +41,7 @@
         }
     ],
     "wof:id":554784555,
-    "wof:lastmodified":1480905756,
+    "wof:lastmodified":1611183945,
     "wof:name":"93105",
     "wof:parent_id":102080855,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010302,
-    "geom:area_square_m":98562344.180589,
+    "geom:area_square_m":98562344.180511,
     "geom:bbox":"-96.960933,39.236214,-96.731339,39.350082",
     "geom:latitude":39.311995,
     "geom:longitude":-96.829936,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.310997,
     "lbl:longitude":-96.821533,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Riley",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404505073,
         85633793,
-        102084179
+        102084179,
+        404505073,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786884"
     },
     "wof:country":"US",
-    "wof:geomhash":"ac39c90209b9b50a3a8fa17918889e43",
+    "wof:geomhash":"41a2b54acd15eab669f33d5101aa20d5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554738195,
-    "wof:lastmodified":1480802728,
+    "wof:lastmodified":1611183094,
     "wof:name":"66531",
     "wof:parent_id":404505073,
     "wof:placetype":"postalcode",

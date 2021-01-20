@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01557,
-    "geom:area_square_m":156815574.973285,
+    "geom:area_square_m":156815574.973347,
     "geom:bbox":"-97.335636,35.362762,-97.194721,35.551151",
     "geom:latitude":35.458715,
     "geom:longitude":-97.262179,
@@ -14,20 +14,26 @@
     "lbl:latitude":35.45881,
     "lbl:longitude":-97.262802,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Choctaw",
+    "mz:postal_locality_alt":[
+        "Nicoma Park",
+        "Harrah"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688585,
         102191575,
         85633793,
+        102082577,
         101714455,
-        102082577
+        85688585
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12789548"
     },
     "wof:country":"US",
-    "wof:geomhash":"fddb6b5da975d8693aa50a7bdbf18f4f",
+    "wof:geomhash":"fd63f3c17f82f9cbc92eef60d82a9c13",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554742851,
-    "wof:lastmodified":1480836465,
+    "wof:lastmodified":1611185223,
     "wof:name":"73020",
     "wof:parent_id":101714455,
     "wof:placetype":"postalcode",

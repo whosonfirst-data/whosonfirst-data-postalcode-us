@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00103,
-    "geom:area_square_m":9492288.998886,
+    "geom:area_square_m":9492288.998887,
     "geom:bbox":"-70.547505,41.772977,-70.493581,41.811316",
     "geom:latitude":41.787451,
     "geom:longitude":-70.526817,
@@ -14,21 +14,27 @@
     "lbl:latitude":41.787209,
     "lbl:longitude":-70.526717,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Sagamore Beach",
+    "mz:postal_locality_alt":[
+        "Buzzards Bay",
+        "Bourne"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404475895,
         85633793,
+        102084379,
+        404475895,
         85950589,
-        102084379
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758890"
     },
     "wof:country":"US",
-    "wof:geomhash":"f31030c904b56830718fcf58b64f8f20",
+    "wof:geomhash":"600c91239ea259ed7374c1ca4f5785be",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554778443,
-    "wof:lastmodified":1480802729,
+    "wof:lastmodified":1611183440,
     "wof:name":"02562",
     "wof:parent_id":85950589,
     "wof:placetype":"postalcode",

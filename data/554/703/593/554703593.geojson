@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000869,
-    "geom:area_square_m":8191379.448916,
+    "geom:area_square_m":8191379.448932,
     "geom:bbox":"-80.050392,40.349605,-79.993446,40.392991",
     "geom:latitude":40.368141,
     "geom:longitude":-80.017792,
@@ -13,21 +13,26 @@
     "lbl:latitude":40.368141,
     "lbl:longitude":-80.017794,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pittsburgh",
+    "mz:postal_locality_alt":[
+        "Castle Shannon"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404484869,
         85633793,
+        102080887,
+        404484869,
         101718761,
-        102080887
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763675"
     },
     "wof:country":"US",
-    "wof:geomhash":"9164b27cddd2eb6ec15f2d137d2df024",
+    "wof:geomhash":"51ca933e815cd48779b271d727cf2aad",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554703593,
-    "wof:lastmodified":1480905392,
+    "wof:lastmodified":1611184446,
     "wof:name":"15234",
     "wof:parent_id":101718761,
     "wof:placetype":"postalcode",

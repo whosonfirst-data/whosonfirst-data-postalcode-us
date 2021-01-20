@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020235,
-    "geom:area_square_m":171303814.022546,
+    "geom:area_square_m":171303814.02255,
     "geom:bbox":"-91.55144,46.694676,-91.13145,46.890114",
     "geom:latitude":46.792879,
     "geom:longitude":-91.230058,
@@ -14,20 +14,22 @@
     "lbl:latitude":46.804783,
     "lbl:longitude":-91.233188,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Herbster",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404492813,
         85633793,
-        102081781
+        102081781,
+        404492813,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781558"
     },
     "wof:country":"US",
-    "wof:geomhash":"4041bb7bfa2b29e8ceeca4092f11c7f2",
+    "wof:geomhash":"ade48b9515de759f3afeb816d67e81ea",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554783083,
-    "wof:lastmodified":1480825339,
+    "wof:lastmodified":1611183877,
     "wof:name":"54844",
     "wof:parent_id":404492813,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007318,
-    "geom:area_square_m":67140113.987793,
+    "geom:area_square_m":67140113.987775,
     "geom:bbox":"-73.508142,42.049606,-73.404684,42.184492",
     "geom:latitude":42.102641,
     "geom:longitude":-73.461825,
@@ -14,20 +14,22 @@
     "lbl:latitude":42.10928,
     "lbl:longitude":-73.462886,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Sheffield",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476113,
         85633793,
-        102084369
+        102084369,
+        404476113,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758406"
     },
     "wof:country":"US",
-    "wof:geomhash":"5546fd698b580a9ee8ef25cd732ff11d",
+    "wof:geomhash":"af0d57e389d204c4e5019b9a12e6b38b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554696947,
-    "wof:lastmodified":1480805209,
+    "wof:lastmodified":1611184669,
     "wof:name":"01258",
     "wof:parent_id":404476113,
     "wof:placetype":"postalcode",

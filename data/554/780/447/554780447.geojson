@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000992,
-    "geom:area_square_m":9559030.811756,
+    "geom:area_square_m":9559030.811764,
     "geom:bbox":"-76.556405,38.790612,-76.503183,38.820055",
     "geom:latitude":38.804556,
     "geom:longitude":-76.531816,
@@ -14,20 +14,25 @@
     "lbl:latitude":38.805653,
     "lbl:longitude":-76.532229,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Churchton",
+    "mz:postal_locality_alt":[
+        "West River"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688501,
         102191575,
         85633793,
+        102083469,
         85949711,
-        102083469
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766278"
     },
     "wof:country":"US",
-    "wof:geomhash":"71f48f7bda6591e5d6f152b1d161a95f",
+    "wof:geomhash":"e0d5cdbed452c6c70e624b83e6cf0349",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554780447,
-    "wof:lastmodified":1480843200,
+    "wof:lastmodified":1611185163,
     "wof:name":"20733",
     "wof:parent_id":85949711,
     "wof:placetype":"postalcode",

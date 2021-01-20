@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00297,
-    "geom:area_square_m":28015285.196826,
+    "geom:area_square_m":28015285.196837,
     "geom:bbox":"-75.102516,40.255837,-75.005817,40.314392",
     "geom:latitude":40.286208,
     "geom:longitude":-75.056411,
@@ -14,20 +14,26 @@
     "lbl:latitude":40.288811,
     "lbl:longitude":-75.058039,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Furlong",
+    "mz:postal_locality_alt":[
+        "Buckingham",
+        "Forest Grove"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404484803,
         85633793,
-        102080987
+        102080987,
+        404484803,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765360"
     },
     "wof:country":"US",
-    "wof:geomhash":"0bc4b54f125d5a7524de3d600ff7d771",
+    "wof:geomhash":"1aff711ad2b5781e3ab21104dc034c82",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554706075,
-    "wof:lastmodified":1480906422,
+    "wof:lastmodified":1611182708,
     "wof:name":"18925",
     "wof:parent_id":404484803,
     "wof:placetype":"postalcode",

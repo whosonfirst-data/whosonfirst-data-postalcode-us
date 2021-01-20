@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015713,
-    "geom:area_square_m":156813957.057739,
+    "geom:area_square_m":156813957.057683,
     "geom:bbox":"-94.33488,36.126306,-94.13907,36.246794",
     "geom:latitude":36.187764,
     "geom:longitude":-94.229258,
@@ -13,20 +13,25 @@
     "lbl:latitude":36.18165,
     "lbl:longitude":-94.23068,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Springdale",
+    "mz:postal_locality_alt":[
+        "Fayetteville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688549,
         102191575,
         85633793,
+        102082007,
         85919581,
-        102082007
+        85688549
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12789437"
     },
     "wof:country":"US",
-    "wof:geomhash":"7804ea377a50a20a09bfa433652d139e",
+    "wof:geomhash":"616f734ef874bacc6ca7212efa85802a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554742645,
-    "wof:lastmodified":1480843262,
+    "wof:lastmodified":1611185218,
     "wof:name":"72762",
     "wof:parent_id":85919581,
     "wof:placetype":"postalcode",

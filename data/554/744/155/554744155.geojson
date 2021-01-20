@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002039,
-    "geom:area_square_m":21135716.407026,
+    "geom:area_square_m":21135716.407047,
     "geom:bbox":"-96.95158,33.005003,-96.849233,33.063854",
     "geom:latitude":33.034248,
     "geom:longitude":-96.896816,
@@ -13,20 +13,25 @@
     "lbl:latitude":33.050164,
     "lbl:longitude":-96.87454,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Carrollton",
+    "mz:postal_locality_alt":[
+        "Lewisville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102087371,
         101724503,
-        102087371
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12790302"
     },
     "wof:country":"US",
-    "wof:geomhash":"1b7ed6379c159063061522be2b62b5b4",
+    "wof:geomhash":"157744be9e8cebce2fea7a800439e7bc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554744155,
-    "wof:lastmodified":1480783425,
+    "wof:lastmodified":1611184736,
     "wof:name":"75010",
     "wof:parent_id":101724503,
     "wof:placetype":"postalcode",

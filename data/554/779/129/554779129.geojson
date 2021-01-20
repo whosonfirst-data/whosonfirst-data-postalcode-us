@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00138,
-    "geom:area_square_m":12996379.258366,
+    "geom:area_square_m":12996379.258323,
     "geom:bbox":"-74.079467,40.383284,-73.977528,40.422202",
     "geom:latitude":40.40155,
     "geom:longitude":-74.030879,
@@ -14,21 +14,27 @@
     "lbl:latitude":40.401088,
     "lbl:longitude":-74.032978,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Atlantic Hghlnds",
+    "mz:postal_locality_alt":[
+        "Atlantic Highlands",
+        "Marlboro"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478371,
         85633793,
+        102085049,
+        404478371,
         85976051,
-        102085049
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760844"
     },
     "wof:country":"US",
-    "wof:geomhash":"c6869dee9d60baeb210dca80f817845f",
+    "wof:geomhash":"9b533e391dc548c27a8cb715603ba122",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554779129,
-    "wof:lastmodified":1480809856,
+    "wof:lastmodified":1611183974,
     "wof:name":"07716",
     "wof:parent_id":85976051,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032381,
-    "geom:area_square_m":278026091.284665,
+    "geom:area_square_m":278026091.284373,
     "geom:bbox":"-95.76986,45.886051,-95.567552,46.137415",
     "geom:latitude":46.022887,
     "geom:longitude":-95.687279,
@@ -14,20 +14,22 @@
     "lbl:latitude":46.039558,
     "lbl:longitude":-95.670809,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Evansville",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404509589,
         85633793,
-        102087127
+        102087127,
+        404509589,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782415"
     },
     "wof:country":"US",
-    "wof:geomhash":"3dfdf178d711488e207cfb4bc8ed9dc5",
+    "wof:geomhash":"d55bfee79acc1cdfc30c31947d79aa0e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554730231,
-    "wof:lastmodified":1480788522,
+    "wof:lastmodified":1611182750,
     "wof:name":"56326",
     "wof:parent_id":404509589,
     "wof:placetype":"postalcode",

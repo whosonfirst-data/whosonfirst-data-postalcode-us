@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002486,
-    "geom:area_square_m":20585279.316877,
+    "geom:area_square_m":20585279.316891,
     "geom:bbox":"-97.423873,47.933228,-97.325126,47.990949",
     "geom:latitude":47.955004,
     "geom:longitude":-97.386798,
@@ -13,21 +13,26 @@
     "lbl:latitude":47.955002,
     "lbl:longitude":-97.386797,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Grand Forks Afb",
+    "mz:postal_locality_alt":[
+        "Grand Forks"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688525,
         102191575,
-        404480607,
         85633793,
+        102081493,
+        404480607,
         85982705,
-        102081493
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12783186"
     },
     "wof:country":"US",
-    "wof:geomhash":"9463ac52abc6450a0989c3b65a0cd80e",
+    "wof:geomhash":"3697533db46ce95ed1ba585d35f81ff9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554731715,
-    "wof:lastmodified":1480817059,
+    "wof:lastmodified":1611183070,
     "wof:name":"58204",
     "wof:parent_id":85982705,
     "wof:placetype":"postalcode",

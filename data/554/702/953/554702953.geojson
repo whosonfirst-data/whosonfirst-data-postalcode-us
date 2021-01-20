@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013497,
-    "geom:area_square_m":121910647.758515,
+    "geom:area_square_m":121910647.758525,
     "geom:bbox":"-77.167039,42.985906,-77.033222,43.161721",
     "geom:latitude":43.072792,
     "geom:longitude":-77.095322,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.086309,
     "lbl:longitude":-77.092117,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Newark",
+    "mz:postal_locality_alt":[
+        "Victor"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404523331,
         85633793,
-        102082409
+        102082409,
+        404523331,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763274"
     },
     "wof:country":"US",
-    "wof:geomhash":"bdb180142434fded62b55ea61a82cf9b",
+    "wof:geomhash":"1ab8ab476ad5857fedc1ea663c3187c8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554702953,
-    "wof:lastmodified":1480794598,
+    "wof:lastmodified":1611184132,
     "wof:name":"14513",
     "wof:parent_id":404523331,
     "wof:placetype":"postalcode",

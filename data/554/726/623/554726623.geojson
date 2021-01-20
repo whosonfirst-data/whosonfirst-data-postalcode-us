@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007374,
-    "geom:area_square_m":68575673.043346,
+    "geom:area_square_m":68575673.043235,
     "geom:bbox":"-95.928071,41.175858,-95.82711,41.290028",
     "geom:latitude":41.227999,
     "geom:longitude":-95.878909,
@@ -13,20 +13,25 @@
     "lbl:latitude":41.227277,
     "lbl:longitude":-95.878439,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Council Bluffs",
+    "mz:postal_locality_alt":[
+        "Earling"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688713,
         102191575,
         85633793,
+        102086657,
         85944293,
-        102086657
+        85688713
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12780327"
     },
     "wof:country":"US",
-    "wof:geomhash":"d50273cf89352fcd935e057530bb50c4",
+    "wof:geomhash":"7af19a27c9fa3b9011f3325dbbacdc4f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554726623,
-    "wof:lastmodified":1480912387,
+    "wof:lastmodified":1611184889,
     "wof:name":"51501",
     "wof:parent_id":85944293,
     "wof:placetype":"postalcode",

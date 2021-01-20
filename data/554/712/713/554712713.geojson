@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008319,
-    "geom:area_square_m":85277246.625867,
+    "geom:area_square_m":85277246.625933,
     "geom:bbox":"-84.094365,33.958792,-83.925397,34.056714",
     "geom:latitude":34.003022,
     "geom:longitude":-84.007462,
@@ -13,19 +13,26 @@
     "lbl:latitude":33.999276,
     "lbl:longitude":-84.009512,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lawrenceville",
+    "mz:postal_locality_alt":[
+        "Roswell",
+        "Alpharetta",
+        "Cumming"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688535,
-        102082967
+        102082967,
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770528"
     },
     "wof:country":"US",
-    "wof:geomhash":"f35621f350e04092333dc5455c1ad913",
+    "wof:geomhash":"0721ba1f2414f450fcc442ae81aba5ed",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +43,7 @@
         }
     ],
     "wof:id":554712713,
-    "wof:lastmodified":1480792476,
+    "wof:lastmodified":1611183711,
     "wof:name":"30043",
     "wof:parent_id":102082967,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00956,
-    "geom:area_square_m":97563739.726657,
+    "geom:area_square_m":97563739.726443,
     "geom:bbox":"-118.6929,34.319351,-118.539755,34.432835",
     "geom:latitude":34.377484,
     "geom:longitude":-118.613107,
@@ -14,19 +14,27 @@
     "lbl:latitude":34.384696,
     "lbl:longitude":-118.647244,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Stevenson Ranch",
+    "mz:postal_locality_alt":[
+        "Valencia",
+        "Newhall",
+        "Santa Clarita",
+        "Stevenson Rnh"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688637,
-        102086957
+        102086957,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796017"
     },
     "wof:country":"US",
-    "wof:geomhash":"9a7fe2d4d0bfa2d5787dc59e06b96917",
+    "wof:geomhash":"0a4539492538fda49a178cb6c72b8e50",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +45,7 @@
         }
     ],
     "wof:id":554751973,
-    "wof:lastmodified":1480912620,
+    "wof:lastmodified":1611184359,
     "wof:name":"91381",
     "wof:parent_id":102086957,
     "wof:placetype":"postalcode",

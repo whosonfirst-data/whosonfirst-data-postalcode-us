@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027806,
-    "geom:area_square_m":287812045.01364,
+    "geom:area_square_m":287812045.013882,
     "geom:bbox":"-80.658885,33.057251,-80.490186,33.29306",
     "geom:latitude":33.167479,
     "geom:longitude":-80.570627,
@@ -14,19 +14,25 @@
     "lbl:latitude":33.163169,
     "lbl:longitude":-80.56521,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"St George",
+    "mz:postal_locality_alt":[
+        "Saint George",
+        "Georgetown"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688683,
-        102085409
+        102085409,
+        85688683
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770212"
     },
     "wof:country":"US",
-    "wof:geomhash":"695617455f28e74bc9afb86b7456bfb7",
+    "wof:geomhash":"dd97eae31c269e0a796af88059eeff6e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554712241,
-    "wof:lastmodified":1480814058,
+    "wof:lastmodified":1611183723,
     "wof:name":"29477",
     "wof:parent_id":102085409,
     "wof:placetype":"postalcode",

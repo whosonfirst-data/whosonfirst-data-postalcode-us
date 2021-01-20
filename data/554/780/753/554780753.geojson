@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014718,
-    "geom:area_square_m":143723904.095079,
+    "geom:area_square_m":143723904.095125,
     "geom:bbox":"-75.801209,37.762144,-75.50102,37.912191",
     "geom:latitude":37.838498,
     "geom:longitude":-75.656598,
@@ -14,19 +14,24 @@
     "lbl:latitude":37.838625,
     "lbl:longitude":-75.660124,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bloxom",
+    "mz:postal_locality_alt":[
+        "Eastville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688747,
-        102081415
+        102081415,
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12767319"
     },
     "wof:country":"US",
-    "wof:geomhash":"748ad96cf581816dcb04b318af02cbbd",
+    "wof:geomhash":"1edd7346a1e261711c43766986fbd716",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554780753,
-    "wof:lastmodified":1480830813,
+    "wof:lastmodified":1611185161,
     "wof:name":"23308",
     "wof:parent_id":102081415,
     "wof:placetype":"postalcode",

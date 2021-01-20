@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001097,
-    "geom:area_square_m":11405511.142347,
+    "geom:area_square_m":11405511.142349,
     "geom:bbox":"-117.19789,32.75765,-117.100409,32.790433",
     "geom:latitude":32.773957,
     "geom:longitude":-117.14252,
@@ -13,20 +13,25 @@
     "lbl:latitude":32.774046,
     "lbl:longitude":-117.142454,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"San Diego",
+    "mz:postal_locality_alt":[
+        "Mission Valley"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102083569,
         85922227,
-        102083569
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796262"
     },
     "wof:country":"US",
-    "wof:geomhash":"2d8ae9f65f2a1065166a973722372e25",
+    "wof:geomhash":"073460b038b9359a4f414e48b1630b0f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554784323,
-    "wof:lastmodified":1480835303,
+    "wof:lastmodified":1611183941,
     "wof:name":"92108",
     "wof:parent_id":85922227,
     "wof:placetype":"postalcode",

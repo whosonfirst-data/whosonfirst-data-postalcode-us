@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020107,
-    "geom:area_square_m":187145836.768637,
+    "geom:area_square_m":187145836.768609,
     "geom:bbox":"-80.181738,41.069804,-79.97036,41.262274",
     "geom:latitude":41.172869,
     "geom:longitude":-80.072833,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.173009,
     "lbl:longitude":-80.072997,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Grove City",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404488079,
         85633793,
-        102080965
+        102080965,
+        404488079,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764168"
     },
     "wof:country":"US",
-    "wof:geomhash":"db555d698ff28566b44362791e9348f0",
+    "wof:geomhash":"22a98d27c60baf13ec8be63417107c9f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554704321,
-    "wof:lastmodified":1480906661,
+    "wof:lastmodified":1611184523,
     "wof:name":"16127",
     "wof:parent_id":404488079,
     "wof:placetype":"postalcode",

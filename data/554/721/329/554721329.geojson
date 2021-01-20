@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039916,
-    "geom:area_square_m":374945294.939872,
+    "geom:area_square_m":374945294.939967,
     "geom:bbox":"-81.204447,40.452924,-80.926125,40.690832",
     "geom:latitude":40.565103,
     "geom:longitude":-81.074284,
@@ -14,20 +14,27 @@
     "lbl:latitude":40.564539,
     "lbl:longitude":-81.074849,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Carrollton",
+    "mz:postal_locality_alt":[
+        "Berlin",
+        "Walnut Creek",
+        "Mechanicstown"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404524955,
         85633793,
-        102084825
+        102084825,
+        404524955,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776860"
     },
     "wof:country":"US",
-    "wof:geomhash":"21b9588a501da855a372c32013475682",
+    "wof:geomhash":"baefde8f53f1b8c7327db0d6e892d8fb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554721329,
-    "wof:lastmodified":1480801603,
+    "wof:lastmodified":1611184978,
     "wof:name":"44615",
     "wof:parent_id":404524955,
     "wof:placetype":"postalcode",

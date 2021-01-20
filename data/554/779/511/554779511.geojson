@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000162,
-    "geom:area_square_m":1520431.48567,
+    "geom:area_square_m":1520431.485666,
     "geom:bbox":"-73.712761,40.752493,-73.687776,40.768568",
     "geom:latitude":40.758545,
     "geom:longitude":-73.697204,
@@ -13,21 +13,26 @@
     "lbl:latitude":40.758545,
     "lbl:longitude":-73.697204,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"New Hyde Park",
+    "mz:postal_locality_alt":[
+        "Lake Success"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522729,
         85633793,
+        102082371,
+        404522729,
         85977649,
-        102082371
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761702"
     },
     "wof:country":"US",
-    "wof:geomhash":"2e8bb1ab2e422f96d4dc7b3a69a2ea25",
+    "wof:geomhash":"cd3742761a97d5d830402fe0b317a510",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554779511,
-    "wof:lastmodified":1480790621,
+    "wof:lastmodified":1611183975,
     "wof:name":"11042",
     "wof:parent_id":85977649,
     "wof:placetype":"postalcode",

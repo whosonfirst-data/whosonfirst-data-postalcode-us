@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.158426,
-    "geom:area_square_m":1329410520.809626,
+    "geom:area_square_m":1329410520.810982,
     "geom:bbox":"-116.947362,47.036436,-116.145473,47.463479",
     "geom:latitude":47.263255,
     "geom:longitude":-116.551167,
@@ -14,19 +14,26 @@
     "lbl:latitude":47.264602,
     "lbl:longitude":-116.540566,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"St Maries",
+    "mz:postal_locality_alt":[
+        "Saint Maries",
+        "Harrison",
+        "Coeur D Alene"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688657,
-        102086089
+        102086089,
+        85688657
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12794021"
     },
     "wof:country":"US",
-    "wof:geomhash":"a3c6ceee4d9f301ade30ff5dc5d7d9e5",
+    "wof:geomhash":"b6ea8a3632a66efb28e38c073ba9eb84",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +44,7 @@
         }
     ],
     "wof:id":554749701,
-    "wof:lastmodified":1480913173,
+    "wof:lastmodified":1611183536,
     "wof:name":"83861",
     "wof:parent_id":102086089,
     "wof:placetype":"postalcode",

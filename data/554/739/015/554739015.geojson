@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014378,
-    "geom:area_square_m":140095613.184239,
+    "geom:area_square_m":140095613.184165,
     "geom:bbox":"-98.270555,37.926531,-98.14207,38.072062",
     "geom:latitude":37.999631,
     "geom:longitude":-98.206666,
@@ -14,20 +14,22 @@
     "lbl:latitude":38.006359,
     "lbl:longitude":-98.206324,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Abbyville",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404503043,
         85633793,
-        102082171
+        102082171,
+        404503043,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787295"
     },
     "wof:country":"US",
-    "wof:geomhash":"59b7ef48e87284943d253d7a6fb0c9e9",
+    "wof:geomhash":"c93b2cd70dc63da6bb93e45f83cc6529",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554739015,
-    "wof:lastmodified":1480792190,
+    "wof:lastmodified":1611182653,
     "wof:name":"67510",
     "wof:parent_id":404503043,
     "wof:placetype":"postalcode",

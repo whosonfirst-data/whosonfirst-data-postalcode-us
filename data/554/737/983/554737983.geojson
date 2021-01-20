@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013489,
-    "geom:area_square_m":129016323.130734,
+    "geom:area_square_m":129016323.13077,
     "geom:bbox":"-95.329301,39.245161,-95.168901,39.39041",
     "geom:latitude":39.328817,
     "geom:longitude":-95.244414,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.328599,
     "lbl:longitude":-95.246083,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Winchester",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404504185,
         85633793,
-        102082687
+        102082687,
+        404504185,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786772"
     },
     "wof:country":"US",
-    "wof:geomhash":"edec15f35c8030a31dc06e3d49dc56d2",
+    "wof:geomhash":"c231e69c5a48dd84aa26e020239cea43",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554737983,
-    "wof:lastmodified":1480842670,
+    "wof:lastmodified":1611182839,
     "wof:name":"66097",
     "wof:parent_id":404504185,
     "wof:placetype":"postalcode",

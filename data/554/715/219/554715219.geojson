@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006732,
-    "geom:area_square_m":69277107.499818,
+    "geom:area_square_m":69277107.499835,
     "geom:bbox":"-86.969399,33.595117,-86.829869,33.714489",
     "geom:latitude":33.672945,
     "geom:longitude":-86.896782,
@@ -14,20 +14,25 @@
     "lbl:latitude":33.667778,
     "lbl:longitude":-86.892599,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mount Olive",
+    "mz:postal_locality_alt":[
+        "Mt Olive"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688675,
         102191575,
         85633793,
+        102085481,
         85915427,
-        102085481
+        85688675
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12772967"
     },
     "wof:country":"US",
-    "wof:geomhash":"c08deaeea87696ef9c12c70930b28095",
+    "wof:geomhash":"88b09cad60d28f487972dff297a357fa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554715219,
-    "wof:lastmodified":1480808053,
+    "wof:lastmodified":1611183647,
     "wof:name":"35117",
     "wof:parent_id":85915427,
     "wof:placetype":"postalcode",

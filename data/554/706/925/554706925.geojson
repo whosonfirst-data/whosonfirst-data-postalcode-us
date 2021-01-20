@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000358,
-    "geom:area_square_m":3433140.175572,
+    "geom:area_square_m":3433140.175568,
     "geom:bbox":"-76.814929,39.114119,-76.760614,39.140883",
     "geom:latitude":39.126327,
     "geom:longitude":-76.78428,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.125563,
     "lbl:longitude":-76.785436,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Annapolis Jct",
+    "mz:postal_locality_alt":[
+        "Annapolis Junction"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688501,
         102191575,
         85633793,
+        102083469,
         85949695,
-        102083469
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766252"
     },
     "wof:country":"US",
-    "wof:geomhash":"60b6fcd622b72c1485c6c443690a5e13",
+    "wof:geomhash":"86426093553583831abb27c27bb64c35",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554706925,
-    "wof:lastmodified":1480843199,
+    "wof:lastmodified":1611182700,
     "wof:name":"20701",
     "wof:parent_id":85949695,
     "wof:placetype":"postalcode",

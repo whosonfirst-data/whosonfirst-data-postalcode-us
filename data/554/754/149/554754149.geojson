@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01953,
-    "geom:area_square_m":186065979.437835,
+    "geom:area_square_m":186065979.437929,
     "geom:bbox":"-121.909582,39.533582,-121.688824,39.691423",
     "geom:latitude":39.603042,
     "geom:longitude":-121.798687,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.604713,
     "lbl:longitude":-121.795288,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Durham",
+    "mz:postal_locality_alt":[
+        "Oroville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086941,
         85927393,
-        102086941
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12798067"
     },
     "wof:country":"US",
-    "wof:geomhash":"ca1b6d0afa803a4ef6d7834f196d4f93",
+    "wof:geomhash":"aec992fdde3ecafe25c68f00ad8c8049",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554754149,
-    "wof:lastmodified":1480915518,
+    "wof:lastmodified":1611182924,
     "wof:name":"95938",
     "wof:parent_id":85927393,
     "wof:placetype":"postalcode",

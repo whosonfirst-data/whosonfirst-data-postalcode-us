@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000292,
-    "geom:area_square_m":2805459.153334,
+    "geom:area_square_m":2805459.153335,
     "geom:bbox":"-84.52579,39.052658,-84.493183,39.07682",
     "geom:latitude":39.06572,
     "geom:longitude":-84.505451,
@@ -13,20 +13,25 @@
     "lbl:latitude":39.06629,
     "lbl:longitude":-84.505282,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Covington",
+    "mz:postal_locality_alt":[
+        "Fort Thomas"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688641,
         102191575,
         85633793,
+        102084469,
         85947231,
-        102084469
+        85688641
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12775471"
     },
     "wof:country":"US",
-    "wof:geomhash":"e838badab0ec3a0ac986a49243f91f09",
+    "wof:geomhash":"a2ed5382ec9e6cc26d0f6e0f0d264339",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554719163,
-    "wof:lastmodified":1480815766,
+    "wof:lastmodified":1611184924,
     "wof:name":"41014",
     "wof:parent_id":85947231,
     "wof:placetype":"postalcode",

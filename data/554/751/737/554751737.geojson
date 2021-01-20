@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.087465,
-    "geom:area_square_m":10122121638.2619,
+    "geom:area_square_m":10122121638.262667,
     "geom:bbox":"-119.168904,40.238584,-117.33407,41.914559",
     "geom:latitude":41.169026,
     "geom:longitude":-118.274218,
@@ -13,19 +13,25 @@
     "lbl:latitude":41.169339,
     "lbl:longitude":-118.263916,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Winnemucca",
+    "mz:postal_locality_alt":[
+        "Minden",
+        "Fernley"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688531,
-        102081523
+        102081523,
+        85688531
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795552"
     },
     "wof:country":"US",
-    "wof:geomhash":"35385ca820574cfe0c6c19a58b0bf70b",
+    "wof:geomhash":"93621587dabc1944097497b4aca04bf2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +42,7 @@
         }
     ],
     "wof:id":554751737,
-    "wof:lastmodified":1480831342,
+    "wof:lastmodified":1611184324,
     "wof:name":"89445",
     "wof:parent_id":102081523,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001673,
-    "geom:area_square_m":15769074.370683,
+    "geom:area_square_m":15769074.370665,
     "geom:bbox":"-79.885612,40.312112,-79.815834,40.364992",
     "geom:latitude":40.339834,
     "geom:longitude":-79.843136,
@@ -13,21 +13,26 @@
     "lbl:latitude":40.339767,
     "lbl:longitude":-79.842782,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mckeesport",
+    "mz:postal_locality_alt":[
+        "Mc Keesport"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404484971,
         85633793,
+        102080887,
+        404484971,
         101718847,
-        102080887
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763627"
     },
     "wof:country":"US",
-    "wof:geomhash":"45f73a2d61f3213ff9e505865c5f22c0",
+    "wof:geomhash":"075b869e8f2fe8b776f173d28c49dff8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554703493,
-    "wof:lastmodified":1480905389,
+    "wof:lastmodified":1611184475,
     "wof:name":"15132",
     "wof:parent_id":101718847,
     "wof:placetype":"postalcode",

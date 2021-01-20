@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.057497,
-    "geom:area_square_m":537761439.294484,
+    "geom:area_square_m":537761439.294381,
     "geom:bbox":"-105.177715,40.667925,-104.90573,40.998336",
     "geom:latitude":40.853205,
     "geom:longitude":-105.045539,
@@ -14,19 +14,24 @@
     "lbl:latitude":40.857579,
     "lbl:longitude":-105.04415,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wellington",
+    "mz:postal_locality_alt":[
+        "Carr"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688603,
-        102083353
+        102083353,
+        85688603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12793129"
     },
     "wof:country":"US",
-    "wof:geomhash":"81d35a9e30a63952014d281fc5ca048f",
+    "wof:geomhash":"fb1ca17d55e102ad64e7f6a06d157760",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554748223,
-    "wof:lastmodified":1480913967,
+    "wof:lastmodified":1611183854,
     "wof:name":"80549",
     "wof:parent_id":102083353,
     "wof:placetype":"postalcode",

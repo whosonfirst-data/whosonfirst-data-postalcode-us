@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023795,
-    "geom:area_square_m":213699180.47714,
+    "geom:area_square_m":213699180.477112,
     "geom:bbox":"-93.636974,43.313456,-93.394065,43.499662",
     "geom:latitude":43.421769,
     "geom:longitude":-93.523879,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.421179,
     "lbl:longitude":-93.522397,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lake Mills",
+    "mz:postal_locality_alt":[
+        "Forest City"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688713,
         102191575,
         85633793,
+        102086401,
         85943775,
-        102086401
+        85688713
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779964"
     },
     "wof:country":"US",
-    "wof:geomhash":"2fb93778c6269003170df33ac7666e92",
+    "wof:geomhash":"0b229cc7b23b242029713af2b57a0947",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554725893,
-    "wof:lastmodified":1480915501,
+    "wof:lastmodified":1611183265,
     "wof:name":"50450",
     "wof:parent_id":85943775,
     "wof:placetype":"postalcode",

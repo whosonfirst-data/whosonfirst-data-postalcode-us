@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009483,
-    "geom:area_square_m":86955267.683749,
+    "geom:area_square_m":86955267.683733,
     "geom:bbox":"-71.831942,42.081771,-71.679962,42.191484",
     "geom:latitude":42.133954,
     "geom:longitude":-71.750858,
@@ -14,20 +14,28 @@
     "lbl:latitude":42.132051,
     "lbl:longitude":-71.750318,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Sutton",
+    "mz:postal_locality_alt":[
+        "Wilkinsonville",
+        "Linwood",
+        "Manchaug",
+        "North Uxbridge"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476621,
         85633793,
-        102084655
+        102084655,
+        404476621,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758523"
     },
     "wof:country":"US",
-    "wof:geomhash":"0b7623db12bd28c8407e05faf9a3c1e6",
+    "wof:geomhash":"bb559aa9f0aa6c72e14903310d877ca5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +47,7 @@
         }
     ],
     "wof:id":554697159,
-    "wof:lastmodified":1480803786,
+    "wof:lastmodified":1611184636,
     "wof:name":"01590",
     "wof:parent_id":404476621,
     "wof:placetype":"postalcode",

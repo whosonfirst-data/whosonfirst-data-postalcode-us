@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008159,
-    "geom:area_square_m":77139323.979619,
+    "geom:area_square_m":77139323.9796,
     "geom:bbox":"-86.137365,40.087331,-85.939452,40.174879",
     "geom:latitude":40.129768,
     "geom:longitude":-86.038144,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.127928,
     "lbl:longitude":-86.046777,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cicero",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404500003,
         85633793,
-        102087089
+        102087089,
+        404500003,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777548"
     },
     "wof:country":"US",
-    "wof:geomhash":"32b065687d4b70c02575c292e8e23cd4",
+    "wof:geomhash":"e04a6d1325c1841d40f2571bb2a5acc3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554722383,
-    "wof:lastmodified":1480784760,
+    "wof:lastmodified":1611183225,
     "wof:name":"46034",
     "wof:parent_id":404500003,
     "wof:placetype":"postalcode",

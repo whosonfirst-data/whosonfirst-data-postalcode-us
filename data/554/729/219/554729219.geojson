@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026162,
-    "geom:area_square_m":227461117.485833,
+    "geom:area_square_m":227461117.485875,
     "geom:bbox":"-94.385677,45.191717,-94.229671,45.446748",
     "geom:latitude":45.321949,
     "geom:longitude":-94.31536,
@@ -14,20 +14,25 @@
     "lbl:latitude":45.329096,
     "lbl:longitude":-94.324625,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Kimball",
+    "mz:postal_locality_alt":[
+        "Dassel"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404514373,
         85633793,
-        102087719
+        102087719,
+        404514373,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781835"
     },
     "wof:country":"US",
-    "wof:geomhash":"c562e2127ae560690f12e6a12bc1bb1b",
+    "wof:geomhash":"e5662d0453997fd817436431820ab0eb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554729219,
-    "wof:lastmodified":1480788129,
+    "wof:lastmodified":1611185412,
     "wof:name":"55353",
     "wof:parent_id":404514373,
     "wof:placetype":"postalcode",

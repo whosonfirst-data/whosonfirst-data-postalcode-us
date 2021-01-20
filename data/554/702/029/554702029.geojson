@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021921,
-    "geom:area_square_m":198428331.039713,
+    "geom:area_square_m":198428331.039674,
     "geom:bbox":"-75.917895,42.851157,-75.687205,43.031531",
     "geom:latitude":42.940804,
     "geom:longitude":-75.825699,
@@ -14,20 +14,26 @@
     "lbl:latitude":42.940849,
     "lbl:longitude":-75.830103,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cazenovia",
+    "mz:postal_locality_alt":[
+        "East Syracuse",
+        "Manlius"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522009,
         85633793,
-        102080989
+        102080989,
+        404522009,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762618"
     },
     "wof:country":"US",
-    "wof:geomhash":"515cdba0a8fe90ec4e20e8385563f791",
+    "wof:geomhash":"0047e0896d86900a2c405d0fe932867d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554702029,
-    "wof:lastmodified":1480903546,
+    "wof:lastmodified":1611184161,
     "wof:name":"13035",
     "wof:parent_id":404522009,
     "wof:placetype":"postalcode",

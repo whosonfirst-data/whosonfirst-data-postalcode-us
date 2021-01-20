@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023735,
-    "geom:area_square_m":229697948.762751,
+    "geom:area_square_m":229697948.762704,
     "geom:bbox":"-84.729237,38.404873,-84.45148,38.573796",
     "geom:latitude":38.497731,
     "geom:longitude":-84.605227,
@@ -14,20 +14,25 @@
     "lbl:latitude":38.499633,
     "lbl:longitude":-84.608194,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Corinth",
+    "mz:postal_locality_alt":[
+        "Falmouth"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688641,
         102191575,
         85633793,
+        102085645,
         85947179,
-        102085645
+        85688641
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12775468"
     },
     "wof:country":"US",
-    "wof:geomhash":"11caf36a53d44da9310893c8fbffe8e6",
+    "wof:geomhash":"57e2e778fba2883155ce1fb5f1e064ab",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554719159,
-    "wof:lastmodified":1480807915,
+    "wof:lastmodified":1611184903,
     "wof:name":"41010",
     "wof:parent_id":85947179,
     "wof:placetype":"postalcode",

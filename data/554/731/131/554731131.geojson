@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.090925,
-    "geom:area_square_m":803851451.937323,
+    "geom:area_square_m":803851451.937083,
     "geom:bbox":"-98.014083,44.194607,-97.652675,44.544425",
     "geom:latitude":44.358688,
     "geom:longitude":-97.844219,
@@ -14,20 +14,26 @@
     "lbl:latitude":44.358421,
     "lbl:longitude":-97.842036,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Iroquois",
+    "mz:postal_locality_alt":[
+        "Bancroft",
+        "Fort Thompson"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688693,
         102191575,
-        404490403,
         85633793,
-        102086869
+        102086869,
+        404490403,
+        85688693
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782877"
     },
     "wof:country":"US",
-    "wof:geomhash":"d331eec29d12842034fad7df36525c65",
+    "wof:geomhash":"fbc4d4d886d72237da669c5b1a2fad52",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554731131,
-    "wof:lastmodified":1480917062,
+    "wof:lastmodified":1611183074,
     "wof:name":"57353",
     "wof:parent_id":404490403,
     "wof:placetype":"postalcode",

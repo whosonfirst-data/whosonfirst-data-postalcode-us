@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00704,
-    "geom:area_square_m":74110157.642137,
+    "geom:area_square_m":74110157.642228,
     "geom:bbox":"-106.337926,31.564458,-106.193551,31.701351",
     "geom:latitude":31.644569,
     "geom:longitude":-106.273718,
@@ -13,20 +13,25 @@
     "lbl:latitude":31.640206,
     "lbl:longitude":-106.268948,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"El Paso",
+    "mz:postal_locality_alt":[
+        "Socorro"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102085989,
         101724869,
-        102085989
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12792817"
     },
     "wof:country":"US",
-    "wof:geomhash":"8f433c5c57f7a779190d42f9b554cce5",
+    "wof:geomhash":"938fab4e95f6e49cfc89fa5d9fb55947",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554783837,
-    "wof:lastmodified":1480907774,
+    "wof:lastmodified":1611183901,
     "wof:name":"79927",
     "wof:parent_id":101724869,
     "wof:placetype":"postalcode",

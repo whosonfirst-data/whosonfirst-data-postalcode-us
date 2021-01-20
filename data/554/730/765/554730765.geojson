@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033657,
-    "geom:area_square_m":275206950.484298,
+    "geom:area_square_m":275206950.484275,
     "geom:bbox":"-95.87329,48.538533,-95.461877,48.68523",
     "geom:latitude":48.602669,
     "geom:longitude":-95.696289,
@@ -14,20 +14,25 @@
     "lbl:latitude":48.602677,
     "lbl:longitude":-95.696207,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wannaska",
+    "mz:postal_locality_alt":[
+        "East Grand Forks"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404512915,
         85633793,
-        102087665
+        102087665,
+        404512915,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782689"
     },
     "wof:country":"US",
-    "wof:geomhash":"0a163df08e498dba3a31f2b69808bd74",
+    "wof:geomhash":"18c1a3c747eeebab5d8e1142aae86818",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554730765,
-    "wof:lastmodified":1480788296,
+    "wof:lastmodified":1611182722,
     "wof:name":"56761",
     "wof:parent_id":404512915,
     "wof:placetype":"postalcode",

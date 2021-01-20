@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00614,
-    "geom:area_square_m":70607454.962196,
+    "geom:area_square_m":70607454.962209,
     "geom:bbox":"-157.93679,21.50146,-157.83894,21.628319",
     "geom:latitude":21.558342,
     "geom:longitude":-157.895527,
@@ -14,19 +14,27 @@
     "lbl:latitude":21.557794,
     "lbl:longitude":-157.90534,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hauula",
+    "mz:postal_locality_alt":[
+        "Haleiwa",
+        "Laie",
+        "Pearl City",
+        "Wahiawa"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688671,
-        102085417
+        102085417,
+        85688671
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12798266"
     },
     "wof:country":"US",
-    "wof:geomhash":"ca6b3b052af3c2959741103e69c9277f",
+    "wof:geomhash":"bdca625737442a8e176eb1588e4e8c46",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +45,7 @@
         }
     ],
     "wof:id":554785667,
-    "wof:lastmodified":1480805663,
+    "wof:lastmodified":1611183498,
     "wof:name":"96717",
     "wof:parent_id":102085417,
     "wof:placetype":"postalcode",

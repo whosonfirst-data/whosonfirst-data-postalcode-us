@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038366,
-    "geom:area_square_m":348490604.466084,
+    "geom:area_square_m":348490604.466244,
     "geom:bbox":"-96.8065,42.55361,-96.53727,42.866512",
     "geom:latitude":42.727216,
     "geom:longitude":-96.69194,
@@ -14,20 +14,25 @@
     "lbl:latitude":42.728403,
     "lbl:longitude":-96.697716,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Elk Point",
+    "mz:postal_locality_alt":[
+        "North Sioux City"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688693,
         102191575,
-        404491089,
         85633793,
-        102086029
+        102086029,
+        404491089,
+        85688693
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782711"
     },
     "wof:country":"US",
-    "wof:geomhash":"830108169277ad02586959a35abadb4d",
+    "wof:geomhash":"864046a47654d503348502612aac6869",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554730815,
-    "wof:lastmodified":1480915732,
+    "wof:lastmodified":1611182748,
     "wof:name":"57025",
     "wof:parent_id":404491089,
     "wof:placetype":"postalcode",

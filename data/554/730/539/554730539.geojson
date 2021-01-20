@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.060205,
-    "geom:area_square_m":511471700.334675,
+    "geom:area_square_m":511471700.334694,
     "geom:bbox":"-96.281191,46.484794,-95.906197,46.741551",
     "geom:latitude":46.603037,
     "geom:longitude":-96.082075,
@@ -14,20 +14,27 @@
     "lbl:latitude":46.602179,
     "lbl:longitude":-96.073714,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pelican Rapids",
+    "mz:postal_locality_alt":[
+        "Beltrami",
+        "Winger",
+        "Fertile"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404513039,
         85633793,
-        102087803
+        102087803,
+        404513039,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782574"
     },
     "wof:country":"US",
-    "wof:geomhash":"3a18d49e84e44bd4512b068b88dc954e",
+    "wof:geomhash":"dd2aa65b96abbdaaa77f5d4930b9db6f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554730539,
-    "wof:lastmodified":1480788523,
+    "wof:lastmodified":1611182741,
     "wof:name":"56572",
     "wof:parent_id":404513039,
     "wof:placetype":"postalcode",

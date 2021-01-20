@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011225,
-    "geom:area_square_m":120399083.570538,
+    "geom:area_square_m":120399083.570134,
     "geom:bbox":"-89.909237,29.753961,-89.601746,29.933833",
     "geom:latitude":29.836243,
     "geom:longitude":-89.739783,
@@ -14,19 +14,24 @@
     "lbl:latitude":29.836707,
     "lbl:longitude":-89.737441,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"St Bernard",
+    "mz:postal_locality_alt":[
+        "Saint Bernard"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688735,
-        102082447
+        102082447,
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12788152"
     },
     "wof:country":"US",
-    "wof:geomhash":"1433a2d3fec9b06bebcab06869339ed6",
+    "wof:geomhash":"35dcdcaf038d65e4ba2fb3c9d75cd556",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554783555,
-    "wof:lastmodified":1480794411,
+    "wof:lastmodified":1611183890,
     "wof:name":"70085",
     "wof:parent_id":102082447,
     "wof:placetype":"postalcode",

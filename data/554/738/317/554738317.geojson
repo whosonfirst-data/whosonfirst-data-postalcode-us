@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01842,
-    "geom:area_square_m":181613917.700819,
+    "geom:area_square_m":181613917.700874,
     "geom:bbox":"-94.749743,36.998666,-94.617807,37.245278",
     "geom:latitude":37.120234,
     "geom:longitude":-94.66552,
@@ -14,20 +14,25 @@
     "lbl:latitude":37.12578,
     "lbl:longitude":-94.655261,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Galena",
+    "mz:postal_locality_alt":[
+        "Baxter Springs"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404502511,
         85633793,
-        102082169
+        102082169,
+        404502511,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786961"
     },
     "wof:country":"US",
-    "wof:geomhash":"1621e0cbdc1c820c22c2e0d20780c152",
+    "wof:geomhash":"fcacfa33d72b48dcdc356f1fd7b518dd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554738317,
-    "wof:lastmodified":1480841791,
+    "wof:lastmodified":1611183126,
     "wof:name":"66739",
     "wof:parent_id":404502511,
     "wof:placetype":"postalcode",

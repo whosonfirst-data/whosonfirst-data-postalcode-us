@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013576,
-    "geom:area_square_m":136366158.178337,
+    "geom:area_square_m":136366158.178363,
     "geom:bbox":"-84.262866,35.610549,-84.089525,35.740411",
     "geom:latitude":35.675403,
     "geom:longitude":-84.180282,
@@ -14,19 +14,26 @@
     "lbl:latitude":35.675844,
     "lbl:longitude":-84.179246,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Greenback",
+    "mz:postal_locality_alt":[
+        "Jacksboro",
+        "Bean Station",
+        "Lenoir City"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688701,
-        102086315
+        102086315,
+        85688701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12774100"
     },
     "wof:country":"US",
-    "wof:geomhash":"6f04890dfa2f6b9cebb414eba1808528",
+    "wof:geomhash":"d936fb66daffb69ac6a7d739473d34c0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +44,7 @@
         }
     ],
     "wof:id":554717001,
-    "wof:lastmodified":1480912106,
+    "wof:lastmodified":1611185003,
     "wof:name":"37742",
     "wof:parent_id":102086315,
     "wof:placetype":"postalcode",

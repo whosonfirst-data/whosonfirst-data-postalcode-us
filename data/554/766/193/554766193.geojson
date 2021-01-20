@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000036,
-    "geom:area_square_m":330314.59657,
+    "geom:area_square_m":330314.596571,
     "geom:bbox":"-72.978041,41.867886,-72.957498,41.879199",
     "geom:latitude":41.8756,
     "geom:longitude":-72.96684,
@@ -14,21 +14,26 @@
     "lbl:latitude":41.8756,
     "lbl:longitude":-72.96684,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pine Meadow",
+    "mz:postal_locality_alt":[
+        "New Hartford"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688629,
         102191575,
-        404496029,
         85633793,
+        102085375,
+        404496029,
         85931237,
-        102085375
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760208"
     },
     "wof:country":"US",
-    "wof:geomhash":"2ffbd9dc72febdecef8311c9a0674d1c",
+    "wof:geomhash":"f86d84c56c65d51d138c378fbcaaebbd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554766193,
-    "wof:lastmodified":1480805211,
+    "wof:lastmodified":1611184592,
     "wof:name":"06061",
     "wof:parent_id":85931237,
     "wof:placetype":"postalcode",

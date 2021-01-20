@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.057279,
-    "geom:area_square_m":567627445.250377,
+    "geom:area_square_m":567627445.249852,
     "geom:bbox":"-88.816758,36.567986,-88.456331,36.85967",
     "geom:latitude":36.732831,
     "geom:longitude":-88.63943,
@@ -14,20 +14,27 @@
     "lbl:latitude":36.732532,
     "lbl:longitude":-88.639882,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mayfield",
+    "mz:postal_locality_alt":[
+        "Farmington",
+        "Paducah",
+        "Sedalia"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688641,
         102191575,
         85633793,
+        102084645,
         85946745,
-        102084645
+        85688641
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12775828"
     },
     "wof:country":"US",
-    "wof:geomhash":"9fb38bf09c4368202dcdc169cb152353",
+    "wof:geomhash":"403f42e0f88c3926dda4bf7586caa813",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554719767,
-    "wof:lastmodified":1480803203,
+    "wof:lastmodified":1611184923,
     "wof:name":"42066",
     "wof:parent_id":85946745,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036209,
-    "geom:area_square_m":346132363.817231,
+    "geom:area_square_m":346132363.817003,
     "geom:bbox":"-105.460888,39.171308,-105.232558,39.566056",
     "geom:latitude":39.367744,
     "geom:longitude":-105.343591,
@@ -14,19 +14,25 @@
     "lbl:latitude":39.379793,
     "lbl:longitude":-105.324404,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pine",
+    "mz:postal_locality_alt":[
+        "Tabernash",
+        "Fraser"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688603,
-        102084113
+        102084113,
+        85688603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12793074"
     },
     "wof:country":"US",
-    "wof:geomhash":"eb026b94b6aca9041f266305d084bda3",
+    "wof:geomhash":"55d3ea6360217914abb728b49daa0e6a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554748151,
-    "wof:lastmodified":1480912046,
+    "wof:lastmodified":1611183822,
     "wof:name":"80470",
     "wof:parent_id":102084113,
     "wof:placetype":"postalcode",

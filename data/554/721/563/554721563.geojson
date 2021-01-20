@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01436,
-    "geom:area_square_m":134683946.136329,
+    "geom:area_square_m":134683946.13634,
     "geom:bbox":"-82.718526,40.618121,-82.487009,40.726143",
     "geom:latitude":40.665469,
     "geom:longitude":-82.612959,
@@ -13,20 +13,25 @@
     "lbl:latitude":40.663724,
     "lbl:longitude":-82.61444,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mansfield",
+    "mz:postal_locality_alt":[
+        "Lexington"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404525931,
         85633793,
-        102083681
+        102083681,
+        404525931,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777019"
     },
     "wof:country":"US",
-    "wof:geomhash":"c224bbfd5a8fc9aa8b17611bc9d1b469",
+    "wof:geomhash":"23674d8720057f7072c5578dfe4f6bb5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554721563,
-    "wof:lastmodified":1480841926,
+    "wof:lastmodified":1611184965,
     "wof:name":"44904",
     "wof:parent_id":404525931,
     "wof:placetype":"postalcode",

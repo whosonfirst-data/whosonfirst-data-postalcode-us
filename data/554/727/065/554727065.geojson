@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042012,
-    "geom:area_square_m":384707702.274278,
+    "geom:area_square_m":384707702.274254,
     "geom:bbox":"-91.403149,42.120973,-91.014048,42.30317",
     "geom:latitude":42.22069,
     "geom:longitude":-91.197236,
@@ -14,19 +14,24 @@
     "lbl:latitude":42.220371,
     "lbl:longitude":-91.195364,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Monticello",
+    "mz:postal_locality_alt":[
+        "Scotch Grove"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688713,
-        102086639
+        102086639,
+        85688713
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12780546"
     },
     "wof:country":"US",
-    "wof:geomhash":"c1e66857c55e1b8ad54308da7493d502",
+    "wof:geomhash":"5af33e2908b64c905bda7e52460d4ecb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554727065,
-    "wof:lastmodified":1480916935,
+    "wof:lastmodified":1611185502,
     "wof:name":"52310",
     "wof:parent_id":102086639,
     "wof:placetype":"postalcode",

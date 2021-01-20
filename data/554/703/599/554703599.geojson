@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003047,
-    "geom:area_square_m":28714998.292218,
+    "geom:area_square_m":28714998.292215,
     "geom:bbox":"-80.017425,40.313231,-79.934121,40.410346",
     "geom:latitude":40.34741,
     "geom:longitude":-79.975476,
@@ -13,21 +13,26 @@
     "lbl:latitude":40.347404,
     "lbl:longitude":-79.97548,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pittsburgh",
+    "mz:postal_locality_alt":[
+        "Pleasant Hills"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404484247,
         85633793,
+        102080887,
+        404484247,
         101718705,
-        102080887
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763677"
     },
     "wof:country":"US",
-    "wof:geomhash":"a5e19fd1673f467c6729051d24bd46a8",
+    "wof:geomhash":"b96c23b1ba484ee1abc13052c7325beb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554703599,
-    "wof:lastmodified":1480905391,
+    "wof:lastmodified":1611184468,
     "wof:name":"15236",
     "wof:parent_id":101718705,
     "wof:placetype":"postalcode",

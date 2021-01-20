@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013319,
-    "geom:area_square_m":128621955.990918,
+    "geom:area_square_m":128621955.990842,
     "geom:bbox":"-75.97055,38.576156,-75.773149,38.704185",
     "geom:latitude":38.647813,
     "geom:longitude":-75.869978,
@@ -14,19 +14,24 @@
     "lbl:latitude":38.645582,
     "lbl:longitude":-75.869896,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hurlock",
+    "mz:postal_locality_alt":[
+        "Federalsburg"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688501,
-        102082723
+        102082723,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766624"
     },
     "wof:country":"US",
-    "wof:geomhash":"a7e1db99990127b75011224ee8406f49",
+    "wof:geomhash":"8fbf8a1ffc1f9a5349ce5965c6e1dc72",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554707363,
-    "wof:lastmodified":1480832464,
+    "wof:lastmodified":1611183134,
     "wof:name":"21643",
     "wof:parent_id":102082723,
     "wof:placetype":"postalcode",

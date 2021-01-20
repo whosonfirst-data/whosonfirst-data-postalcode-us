@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002163,
-    "geom:area_square_m":20258178.489226,
+    "geom:area_square_m":20258178.489241,
     "geom:bbox":"-72.874014,40.729828,-72.754548,40.78856",
     "geom:latitude":40.763351,
     "geom:longitude":-72.830642,
@@ -14,21 +14,27 @@
     "lbl:latitude":40.763164,
     "lbl:longitude":-72.830344,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mastic Beach",
+    "mz:postal_locality_alt":[
+        "Hampton Bays",
+        "Middle Island"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404521441,
         85633793,
+        102082395,
+        404521441,
         85978437,
-        102082395
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762008"
     },
     "wof:country":"US",
-    "wof:geomhash":"3516063b2b2e017f2b5c3f033ec0c4ed",
+    "wof:geomhash":"0c37edb40973bde06a8e61a3b3747942",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554780027,
-    "wof:lastmodified":1480794861,
+    "wof:lastmodified":1611185183,
     "wof:name":"11951",
     "wof:parent_id":85978437,
     "wof:placetype":"postalcode",

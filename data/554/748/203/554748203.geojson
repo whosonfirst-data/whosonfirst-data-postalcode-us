@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013436,
-    "geom:area_square_m":126649371.346768,
+    "geom:area_square_m":126649371.346831,
     "geom:bbox":"-104.993268,40.258093,-104.866634,40.407374",
     "geom:latitude":40.331979,
     "geom:longitude":-104.935398,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.331863,
     "lbl:longitude":-104.937467,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Johnstown",
+    "mz:postal_locality_alt":[
+        "Loveland"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688603,
         102191575,
         85633793,
+        102086117,
         85929005,
-        102086117
+        85688603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12793115"
     },
     "wof:country":"US",
-    "wof:geomhash":"173b374a6ecb12537c842fd9686fb114",
+    "wof:geomhash":"6fd101823123af49898abad1481b6a7a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554748203,
-    "wof:lastmodified":1480913968,
+    "wof:lastmodified":1611183832,
     "wof:name":"80534",
     "wof:parent_id":85929005,
     "wof:placetype":"postalcode",

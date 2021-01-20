@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011937,
-    "geom:area_square_m":102996174.480039,
+    "geom:area_square_m":102996174.479912,
     "geom:bbox":"-93.824297,45.66705,-93.666892,45.822321",
     "geom:latitude":45.749731,
     "geom:longitude":-93.749228,
@@ -14,20 +14,25 @@
     "lbl:latitude":45.753241,
     "lbl:longitude":-93.756384,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Foreston",
+    "mz:postal_locality_alt":[
+        "Milaca"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404512559,
         85633793,
-        102087761
+        102087761,
+        404512559,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782419"
     },
     "wof:country":"US",
-    "wof:geomhash":"f7b9f35facd54110a2aaa20d40ac640a",
+    "wof:geomhash":"602ea527c4910ac6246301576c3dfcf1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554730241,
-    "wof:lastmodified":1480788584,
+    "wof:lastmodified":1611182746,
     "wof:name":"56330",
     "wof:parent_id":404512559,
     "wof:placetype":"postalcode",

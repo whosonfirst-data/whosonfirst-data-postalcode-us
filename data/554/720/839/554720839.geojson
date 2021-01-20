@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005181,
-    "geom:area_square_m":49015261.273451,
+    "geom:area_square_m":49015261.273496,
     "geom:bbox":"-80.84517,40.052706,-80.733028,40.1414",
     "geom:latitude":40.088039,
     "geom:longitude":-80.794593,
@@ -14,20 +14,26 @@
     "lbl:latitude":40.083356,
     "lbl:longitude":-80.797021,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bridgeport",
+    "mz:postal_locality_alt":[
+        "Martins Ferry",
+        "Bellaire"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404524859,
         85633793,
-        102083721
+        102083721,
+        404524859,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776508"
     },
     "wof:country":"US",
-    "wof:geomhash":"0b0e828b080727e3027d0ddd90e9168d",
+    "wof:geomhash":"2eed7be886e3bfe8ed8f8676abffaf98",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554720839,
-    "wof:lastmodified":1480838322,
+    "wof:lastmodified":1611185483,
     "wof:name":"43912",
     "wof:parent_id":404524859,
     "wof:placetype":"postalcode",

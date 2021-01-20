@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014843,
-    "geom:area_square_m":128316130.305083,
+    "geom:area_square_m":128316130.304889,
     "geom:bbox":"-122.478161,45.563585,-122.250359,45.731134",
     "geom:latitude":45.643416,
     "geom:longitude":-122.382065,
@@ -14,20 +14,25 @@
     "lbl:latitude":45.642413,
     "lbl:longitude":-122.379611,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Camas",
+    "mz:postal_locality_alt":[
+        "Vancouver"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688623,
         102191575,
         85633793,
+        102084251,
         101730759,
-        102084251
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12799286"
     },
     "wof:country":"US",
-    "wof:geomhash":"a8e7a241dc4af4cbcecb3ea0d28c0d44",
+    "wof:geomhash":"affc27762a10d0356f85a4db7ac3008c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554755961,
-    "wof:lastmodified":1480817182,
+    "wof:lastmodified":1611182585,
     "wof:name":"98607",
     "wof:parent_id":101730759,
     "wof:placetype":"postalcode",

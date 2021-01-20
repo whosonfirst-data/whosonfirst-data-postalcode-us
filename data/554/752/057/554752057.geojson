@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001264,
-    "geom:area_square_m":12940284.03645,
+    "geom:area_square_m":12940284.036478,
     "geom:bbox":"-117.88329,34.105475,-117.812863,34.130945",
     "geom:latitude":34.118778,
     "geom:longitude":-117.853836,
@@ -13,20 +13,25 @@
     "lbl:latitude":34.119367,
     "lbl:longitude":-117.855054,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Glendora",
+    "mz:postal_locality_alt":[
+        "Covina"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086957,
         85923611,
-        102086957
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796103"
     },
     "wof:country":"US",
-    "wof:geomhash":"3d70ff7a640e339c7ef9e70e914f52e9",
+    "wof:geomhash":"885050dd858c8cb95c170d633c0a0640",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554752057,
-    "wof:lastmodified":1480912623,
+    "wof:lastmodified":1611182549,
     "wof:name":"91740",
     "wof:parent_id":85923611,
     "wof:placetype":"postalcode",

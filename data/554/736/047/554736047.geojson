@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035941,
-    "geom:area_square_m":339697286.743886,
+    "geom:area_square_m":339697286.743592,
     "geom:bbox":"-92.289146,40.037593,-92.048839,40.296144",
     "geom:latitude":40.14854,
     "geom:longitude":-92.160108,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.149926,
     "lbl:longitude":-92.153575,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Edina",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404518381,
         85633793,
-        102087469
+        102087469,
+        404518381,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785756"
     },
     "wof:country":"US",
-    "wof:geomhash":"806956065f618fc20e803a816d6547b1",
+    "wof:geomhash":"5ff9e1b8ce1978512a79acfff98a87b4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554736047,
-    "wof:lastmodified":1480789060,
+    "wof:lastmodified":1611183026,
     "wof:name":"63537",
     "wof:parent_id":404518381,
     "wof:placetype":"postalcode",

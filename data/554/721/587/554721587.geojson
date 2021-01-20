@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001668,
-    "geom:area_square_m":15948972.784587,
+    "geom:area_square_m":15948972.784579,
     "geom:bbox":"-84.592372,39.334763,-84.491149,39.387456",
     "geom:latitude":39.362031,
     "geom:longitude":-84.539607,
@@ -13,21 +13,27 @@
     "lbl:latitude":39.376803,
     "lbl:longitude":-84.566788,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hamilton",
+    "mz:postal_locality_alt":[
+        "Indian Springs",
+        "Fairfield"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404523611,
         85633793,
+        102084743,
+        404523611,
         101712657,
-        102084743
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777033"
     },
     "wof:country":"US",
-    "wof:geomhash":"22119cd7a1905c66f6bb46365e052c27",
+    "wof:geomhash":"d37068551494243e4bcee753d34efefb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +46,7 @@
         }
     ],
     "wof:id":554721587,
-    "wof:lastmodified":1480799315,
+    "wof:lastmodified":1611184962,
     "wof:name":"45015",
     "wof:parent_id":101712657,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011363,
-    "geom:area_square_m":108480857.51953,
+    "geom:area_square_m":108480857.519482,
     "geom:bbox":"-97.369076,39.393985,-97.1453,39.524303",
     "geom:latitude":39.460731,
     "geom:longitude":-97.246653,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.459362,
     "lbl:longitude":-97.25749,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Morganville",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404504041,
         85633793,
-        102082129
+        102082129,
+        404504041,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787274"
     },
     "wof:country":"US",
-    "wof:geomhash":"77a143ee12bbae33a66ff287fceb1a9b",
+    "wof:geomhash":"fec7f5003ab0c67909dcaebdd5ae4f1c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554738971,
-    "wof:lastmodified":1480793848,
+    "wof:lastmodified":1611183108,
     "wof:name":"67468",
     "wof:parent_id":404504041,
     "wof:placetype":"postalcode",

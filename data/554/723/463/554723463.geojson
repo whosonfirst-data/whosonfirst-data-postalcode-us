@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039637,
-    "geom:area_square_m":382708088.712335,
+    "geom:area_square_m":382708088.712209,
     "geom:bbox":"-87.279415,38.515615,-87.07267,38.803546",
     "geom:latitude":38.662441,
     "geom:longitude":-87.172429,
@@ -14,21 +14,23 @@
     "lbl:latitude":38.66206,
     "lbl:longitude":-87.173647,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Washington",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404501197,
         85633793,
+        102087011,
+        404501197,
         85942535,
-        102087011
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778258"
     },
     "wof:country":"US",
-    "wof:geomhash":"4a361326c75d034310df9cfbf2371bc3",
+    "wof:geomhash":"4be6291647c0d4692ccecc59b47afa35",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +43,7 @@
         }
     ],
     "wof:id":554723463,
-    "wof:lastmodified":1480911784,
+    "wof:lastmodified":1611183786,
     "wof:name":"47501",
     "wof:parent_id":85942535,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008853,
-    "geom:area_square_m":73722223.121287,
+    "geom:area_square_m":73722223.121383,
     "geom:bbox":"-122.091534,47.594577,-121.949583,47.726518",
     "geom:latitude":47.665647,
     "geom:longitude":-122.019463,
@@ -13,20 +13,25 @@
     "lbl:latitude":47.669257,
     "lbl:longitude":-122.008456,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Redmond",
+    "mz:postal_locality_alt":[
+        "Bonney Lake"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688623,
         102191575,
         85633793,
+        102086191,
         101731153,
-        102086191
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12798923"
     },
     "wof:country":"US",
-    "wof:geomhash":"09e096fafe83970efef150b6b9cdc805",
+    "wof:geomhash":"658d88cd91b9c88bd7ac493acecd4432",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554755413,
-    "wof:lastmodified":1480915590,
+    "wof:lastmodified":1611182568,
     "wof:name":"98053",
     "wof:parent_id":101731153,
     "wof:placetype":"postalcode",

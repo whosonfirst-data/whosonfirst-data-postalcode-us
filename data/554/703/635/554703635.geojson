@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012634,
-    "geom:area_square_m":119198649.107768,
+    "geom:area_square_m":119198649.107924,
     "geom:bbox":"-80.268486,40.212799,-80.069752,40.328624",
     "geom:latitude":40.270624,
     "geom:longitude":-80.166785,
@@ -13,20 +13,29 @@
     "lbl:latitude":40.276322,
     "lbl:longitude":-80.171662,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Canonsburg",
+    "mz:postal_locality_alt":[
+        "Mc Murray",
+        "McMurray",
+        "Hendersonville",
+        "Jefferson",
+        "Cecil"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404487735,
         85633793,
-        102081343
+        102081343,
+        404487735,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763725"
     },
     "wof:country":"US",
-    "wof:geomhash":"c88c0908998575526878ce7713d06b13",
+    "wof:geomhash":"70d859ac0dfdf4f2b83f0b5fa507d102",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +47,7 @@
         }
     ],
     "wof:id":554703635,
-    "wof:lastmodified":1480905392,
+    "wof:lastmodified":1611184459,
     "wof:name":"15317",
     "wof:parent_id":404487735,
     "wof:placetype":"postalcode",

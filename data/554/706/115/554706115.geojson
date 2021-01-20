@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00453,
-    "geom:area_square_m":42787185.128749,
+    "geom:area_square_m":42787185.128734,
     "geom:bbox":"-75.071198,40.151373,-74.940487,40.224092",
     "geom:latitude":40.187659,
     "geom:longitude":-75.006292,
@@ -14,21 +14,28 @@
     "lbl:latitude":40.188468,
     "lbl:longitude":-75.009898,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Southampton",
+    "mz:postal_locality_alt":[
+        "Holland",
+        "Churchville",
+        "Richboro"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404484755,
         85633793,
+        102080987,
+        404484755,
         101719119,
-        102080987
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765392"
     },
     "wof:country":"US",
-    "wof:geomhash":"41e5a2ba747b02f8ff77394db97b7c82",
+    "wof:geomhash":"7d9ef2701ddc50896f0f94856f11a84b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +48,7 @@
         }
     ],
     "wof:id":554706115,
-    "wof:lastmodified":1480906419,
+    "wof:lastmodified":1611182714,
     "wof:name":"18966",
     "wof:parent_id":101719119,
     "wof:placetype":"postalcode",

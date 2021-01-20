@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01001,
-    "geom:area_square_m":108489568.909046,
+    "geom:area_square_m":108489568.909098,
     "geom:bbox":"-81.803376,28.715931,-81.641196,28.835368",
     "geom:latitude":28.77667,
     "geom:longitude":-81.730006,
@@ -14,20 +14,25 @@
     "lbl:latitude":28.773373,
     "lbl:longitude":-81.730074,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Tavares",
+    "mz:postal_locality_alt":[
+        "Apopka"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688651,
         102191575,
         85633793,
+        102084775,
         85933419,
-        102084775
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12771918"
     },
     "wof:country":"US",
-    "wof:geomhash":"81c9c9952b67f0ef860add31dafa2e8d",
+    "wof:geomhash":"51df7be29d621913191d9f93ad93df45",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554714615,
-    "wof:lastmodified":1480813114,
+    "wof:lastmodified":1611183373,
     "wof:name":"32778",
     "wof:parent_id":85933419,
     "wof:placetype":"postalcode",

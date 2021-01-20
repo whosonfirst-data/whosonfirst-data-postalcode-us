@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001936,
-    "geom:area_square_m":18159851.622137,
+    "geom:area_square_m":18159851.622144,
     "geom:bbox":"-74.217263,40.6548,-74.136703,40.690203",
     "geom:latitude":40.671858,
     "geom:longitude":-74.177375,
@@ -13,21 +13,23 @@
     "lbl:latitude":40.688974,
     "lbl:longitude":-74.165462,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Elizabeth",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478497,
         85633793,
+        102085995,
+        404478497,
         85975847,
-        102085995
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760711"
     },
     "wof:country":"US",
-    "wof:geomhash":"05541797343df90d379bcf95391ec899",
+    "wof:geomhash":"39b24fa3d9b436825cd52c12a7d69ef5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +42,7 @@
         }
     ],
     "wof:id":554699949,
-    "wof:lastmodified":1480906620,
+    "wof:lastmodified":1611184615,
     "wof:name":"07201",
     "wof:parent_id":85975847,
     "wof:placetype":"postalcode",

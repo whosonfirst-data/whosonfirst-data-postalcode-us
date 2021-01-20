@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009318,
-    "geom:area_square_m":87265584.445154,
+    "geom:area_square_m":87265584.445127,
     "geom:bbox":"-75.482322,40.691857,-75.355408,40.834291",
     "geom:latitude":40.765073,
     "geom:longitude":-75.40938,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.764431,
     "lbl:longitude":-75.409221,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bath",
+    "mz:postal_locality_alt":[
+        "Northampton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404483647,
         85633793,
-        102081395
+        102081395,
+        404483647,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765018"
     },
     "wof:country":"US",
-    "wof:geomhash":"aff611ea6feab9bcc6f6696c0dc68b9c",
+    "wof:geomhash":"50e512175b84e064b3f800cdb4d40875",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554705551,
-    "wof:lastmodified":1480906476,
+    "wof:lastmodified":1611184091,
     "wof:name":"18014",
     "wof:parent_id":404483647,
     "wof:placetype":"postalcode",

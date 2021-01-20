@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018437,
-    "geom:area_square_m":166287061.063153,
+    "geom:area_square_m":166287061.063103,
     "geom:bbox":"-89.167684,43.063241,-89.00247,43.268212",
     "geom:latitude":43.16522,
     "geom:longitude":-89.079939,
@@ -14,20 +14,22 @@
     "lbl:latitude":43.165573,
     "lbl:longitude":-89.081901,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Marshall",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404493271,
         85633793,
-        102081795
+        102081795,
+        404493271,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781006"
     },
     "wof:country":"US",
-    "wof:geomhash":"a228235e8fe858faa8e0d3fdb697cce2",
+    "wof:geomhash":"7555d240f5307a6fb96b95b854234078",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554727805,
-    "wof:lastmodified":1480833312,
+    "wof:lastmodified":1611185508,
     "wof:name":"53559",
     "wof:parent_id":404493271,
     "wof:placetype":"postalcode",

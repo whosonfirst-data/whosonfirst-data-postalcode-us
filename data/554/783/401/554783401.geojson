@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001925,
-    "geom:area_square_m":17753798.733287,
+    "geom:area_square_m":17753798.733283,
     "geom:bbox":"-87.746807,41.756738,-87.683444,41.793804",
     "geom:latitude":41.775677,
     "geom:longitude":-87.711571,
@@ -13,21 +13,26 @@
     "lbl:latitude":41.775868,
     "lbl:longitude":-87.711496,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Chicago",
+    "mz:postal_locality_alt":[
+        "Bedford Park"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404496273,
         85633793,
+        102084317,
+        404496273,
         85940195,
-        102084317
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784282"
     },
     "wof:country":"US",
-    "wof:geomhash":"c44be548684be6c95aaa43c9fba555f4",
+    "wof:geomhash":"21db121f52957828f06c3b11b75be95e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554783401,
-    "wof:lastmodified":1480802055,
+    "wof:lastmodified":1611183880,
     "wof:name":"60629",
     "wof:parent_id":85940195,
     "wof:placetype":"postalcode",

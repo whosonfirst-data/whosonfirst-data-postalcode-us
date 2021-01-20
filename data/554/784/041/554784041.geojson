@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001179,
-    "geom:area_square_m":12100931.144676,
+    "geom:area_square_m":12100931.144682,
     "geom:bbox":"-118.430009,33.872804,-118.378599,33.906141",
     "geom:latitude":33.88966,
     "geom:longitude":-118.400636,
@@ -13,20 +13,26 @@
     "lbl:latitude":33.889151,
     "lbl:longitude":-118.402127,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Manhattan Beach",
+    "mz:postal_locality_alt":[
+        "El Segundo",
+        "Redondo Beach"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086957,
         85923507,
-        102086957
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795742"
     },
     "wof:country":"US",
-    "wof:geomhash":"90e1766872afef5f2b60683aa366d602",
+    "wof:geomhash":"4af38defc00df6aa5d4bed396b8652b2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554784041,
-    "wof:lastmodified":1480912620,
+    "wof:lastmodified":1611183932,
     "wof:name":"90266",
     "wof:parent_id":85923507,
     "wof:placetype":"postalcode",

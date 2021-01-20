@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002643,
-    "geom:area_square_m":25025164.37215,
+    "geom:area_square_m":25025164.372162,
     "geom:bbox":"-83.132368,39.991263,-83.029659,40.068158",
     "geom:latitude":40.022643,
     "geom:longitude":-83.077659,
@@ -13,21 +13,26 @@
     "lbl:latitude":40.023111,
     "lbl:longitude":-83.076127,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Columbus",
+    "mz:postal_locality_alt":[
+        "Upper Arlington"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404524651,
         85633793,
+        102080969,
+        404524651,
         101712425,
-        102080969
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776214"
     },
     "wof:country":"US",
-    "wof:geomhash":"3d51123af61bd898a0575a9b5994a866",
+    "wof:geomhash":"a010c05d7719da145734f3270747edfd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554720423,
-    "wof:lastmodified":1480903870,
+    "wof:lastmodified":1611185457,
     "wof:name":"43221",
     "wof:parent_id":101712425,
     "wof:placetype":"postalcode",

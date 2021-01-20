@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003452,
-    "geom:area_square_m":35374799.327817,
+    "geom:area_square_m":35374799.327827,
     "geom:bbox":"-117.706969,33.975316,-117.575134,34.087441",
     "geom:latitude":34.029104,
     "geom:longitude":-117.644849,
@@ -13,20 +13,27 @@
     "lbl:latitude":34.05941,
     "lbl:longitude":-117.67401,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ontario",
+    "mz:postal_locality_alt":[
+        "Chino",
+        "Pomona",
+        "Montclair"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102085395,
         85923933,
-        102085395
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796120"
     },
     "wof:country":"US",
-    "wof:geomhash":"06fa40dfa49334b81867d8ddde3775f6",
+    "wof:geomhash":"f3c41e55fc8e2b24255551af04be279d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +45,7 @@
         }
     ],
     "wof:id":554752083,
-    "wof:lastmodified":1480913414,
+    "wof:lastmodified":1611182519,
     "wof:name":"91762",
     "wof:parent_id":85923933,
     "wof:placetype":"postalcode",

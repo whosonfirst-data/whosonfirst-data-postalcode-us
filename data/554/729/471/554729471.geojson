@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.075184,
-    "geom:area_square_m":631901264.545429,
+    "geom:area_square_m":631901264.545837,
     "geom:bbox":"-92.684023,47.068339,-92.047149,47.285085",
     "geom:latitude":47.179054,
     "geom:longitude":-92.361904,
@@ -14,20 +14,22 @@
     "lbl:latitude":47.166394,
     "lbl:longitude":-92.355122,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cotton",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404510671,
         85633793,
-        102087653
+        102087653,
+        404510671,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782032"
     },
     "wof:country":"US",
-    "wof:geomhash":"777dc484ebea1722a5b2bbaaa5c086ed",
+    "wof:geomhash":"bedc4ae067fa9dc4fd41f39ff29c26d9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554729471,
-    "wof:lastmodified":1480785482,
+    "wof:lastmodified":1611185409,
     "wof:name":"55724",
     "wof:parent_id":404510671,
     "wof:placetype":"postalcode",

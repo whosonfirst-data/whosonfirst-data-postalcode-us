@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030583,
-    "geom:area_square_m":297202433.362299,
+    "geom:area_square_m":297202433.362268,
     "geom:bbox":"-97.684262,38.112462,-97.378783,38.26266",
     "geom:latitude":38.19553,
     "geom:longitude":-97.539744,
@@ -14,20 +14,25 @@
     "lbl:latitude":38.194214,
     "lbl:longitude":-97.547655,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Moundridge",
+    "mz:postal_locality_alt":[
+        "Benton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404504591,
         85633793,
-        102083415
+        102083415,
+        404504591,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787129"
     },
     "wof:country":"US",
-    "wof:geomhash":"b4d3d80eea3eb30939bf97ff018f92a5",
+    "wof:geomhash":"72c3a49c6d0e9382b9d7291b87c99e5f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554738685,
-    "wof:lastmodified":1480840125,
+    "wof:lastmodified":1611183116,
     "wof:name":"67107",
     "wof:parent_id":404504591,
     "wof:placetype":"postalcode",

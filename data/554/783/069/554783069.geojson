@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008454,
-    "geom:area_square_m":72139728.762958,
+    "geom:area_square_m":72139728.762853,
     "geom:bbox":"-90.29948,46.2743,-90.216921,46.443458",
     "geom:latitude":46.362067,
     "geom:longitude":-90.260559,
@@ -14,20 +14,22 @@
     "lbl:latitude":46.361796,
     "lbl:longitude":-90.276638,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Montreal",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404493711,
         85633793,
-        102081263
+        102081263,
+        404493711,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781396"
     },
     "wof:country":"US",
-    "wof:geomhash":"4e0ceac123dd911efbcd2cd3f380a5d7",
+    "wof:geomhash":"258c05c56762f6590cab1da843868781",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554783069,
-    "wof:lastmodified":1480829394,
+    "wof:lastmodified":1611183903,
     "wof:name":"54550",
     "wof:parent_id":404493711,
     "wof:placetype":"postalcode",

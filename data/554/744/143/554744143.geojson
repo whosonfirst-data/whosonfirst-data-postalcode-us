@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009814,
-    "geom:area_square_m":101673140.34676,
+    "geom:area_square_m":101673140.346766,
     "geom:bbox":"-96.685506,33.033443,-96.528223,33.140054",
     "geom:latitude":33.089666,
     "geom:longitude":-96.607571,
@@ -13,20 +13,25 @@
     "lbl:latitude":33.089854,
     "lbl:longitude":-96.6086,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Allen",
+    "mz:postal_locality_alt":[
+        "Wylie"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102086765,
         101726039,
-        102086765
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12790298"
     },
     "wof:country":"US",
-    "wof:geomhash":"906d9ee9199d7e4ca4515ed6e1954870",
+    "wof:geomhash":"3fa0647d765805fcb18269ac415fc5f2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554744143,
-    "wof:lastmodified":1480911654,
+    "wof:lastmodified":1611184728,
     "wof:name":"75002",
     "wof:parent_id":101726039,
     "wof:placetype":"postalcode",

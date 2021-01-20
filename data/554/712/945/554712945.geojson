@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040085,
-    "geom:area_square_m":414316664.064497,
+    "geom:area_square_m":414316664.064657,
     "geom:bbox":"-84.12386,33.160256,-83.81334,33.455328",
     "geom:latitude":33.291949,
     "geom:longitude":-83.969442,
@@ -14,20 +14,26 @@
     "lbl:latitude":33.292157,
     "lbl:longitude":-83.969544,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Jackson",
+    "mz:postal_locality_alt":[
+        "Jenkinsburg",
+        "Peachtree City"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688535,
         102191575,
         85633793,
+        102084467,
         85936089,
-        102084467
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770669"
     },
     "wof:country":"US",
-    "wof:geomhash":"69b40600156005964a01b31f9afddf01",
+    "wof:geomhash":"10835c18653801f8212b1b68317761b2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554712945,
-    "wof:lastmodified":1480798465,
+    "wof:lastmodified":1611183737,
     "wof:name":"30233",
     "wof:parent_id":85936089,
     "wof:placetype":"postalcode",

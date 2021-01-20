@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002784,
-    "geom:area_square_m":29036978.535402,
+    "geom:area_square_m":29036978.535422,
     "geom:bbox":"-86.354531,32.447832,-86.277461,32.532491",
     "geom:latitude":32.488136,
     "geom:longitude":-86.319251,
@@ -14,20 +14,25 @@
     "lbl:latitude":32.479374,
     "lbl:longitude":-86.322997,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Coosada",
+    "mz:postal_locality_alt":[
+        "Millbrook"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688675,
         102191575,
         85633793,
+        102085631,
         85913969,
-        102085631
+        85688675
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12773329"
     },
     "wof:country":"US",
-    "wof:geomhash":"34433b4fe94a729a1bca995a35b93903",
+    "wof:geomhash":"83c7f98caf301b75a21ea66b22f4ba08",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554715791,
-    "wof:lastmodified":1480809538,
+    "wof:lastmodified":1611183641,
     "wof:name":"36020",
     "wof:parent_id":85913969,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.102398,
-    "geom:area_square_m":1045566794.489848,
+    "geom:area_square_m":1045566794.489559,
     "geom:bbox":"-89.722208,34.161202,-89.24588,34.504554",
     "geom:latitude":34.333054,
     "geom:longitude":-89.475735,
@@ -14,19 +14,24 @@
     "lbl:latitude":34.333217,
     "lbl:longitude":-89.473309,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Oxford",
+    "mz:postal_locality_alt":[
+        "Holly Springs"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688579,
-        102083165
+        102083165,
+        85688579
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12774580"
     },
     "wof:country":"US",
-    "wof:geomhash":"d963e6d2298b3b94597a4c2cf9d747ec",
+    "wof:geomhash":"1f635b2e04e1ca31d534314387660a99",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554717805,
-    "wof:lastmodified":1480903988,
+    "wof:lastmodified":1611185004,
     "wof:name":"38655",
     "wof:parent_id":102083165,
     "wof:placetype":"postalcode",

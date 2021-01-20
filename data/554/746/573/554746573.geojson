@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030423,
-    "geom:area_square_m":326804761.805578,
+    "geom:area_square_m":326804761.8056,
     "geom:bbox":"-99.015432,29.551695,-98.778782,29.815405",
     "geom:latitude":29.687864,
     "geom:longitude":-98.914197,
@@ -14,20 +14,26 @@
     "lbl:latitude":29.689692,
     "lbl:longitude":-98.911216,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pipe Creek",
+    "mz:postal_locality_alt":[
+        "Lakehills",
+        "Center Point"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102087305,
         101727077,
-        102087305
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12791907"
     },
     "wof:country":"US",
-    "wof:geomhash":"a4a563537cff398700cde07d289f0789",
+    "wof:geomhash":"fb6ef27bfb8e5e9854f7cf53e028c838",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554746573,
-    "wof:lastmodified":1480904951,
+    "wof:lastmodified":1611184012,
     "wof:name":"78063",
     "wof:parent_id":101727077,
     "wof:placetype":"postalcode",

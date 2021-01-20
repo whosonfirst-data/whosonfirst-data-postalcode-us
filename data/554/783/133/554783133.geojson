@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.110148,
-    "geom:area_square_m":901875753.16903,
+    "geom:area_square_m":901875753.169119,
     "geom:bbox":"-93.725977,48.41831,-92.625151,48.642746",
     "geom:latitude":48.534432,
     "geom:longitude":-93.131711,
@@ -14,20 +14,26 @@
     "lbl:latitude":48.574989,
     "lbl:longitude":-92.917067,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Internatl Falls",
+    "mz:postal_locality_alt":[
+        "International Falls",
+        "Ranier"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404513079,
         85633793,
-        102087653
+        102087653,
+        404513079,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782615"
     },
     "wof:country":"US",
-    "wof:geomhash":"0ebfd954711ca78d3b3bc7677994c3d8",
+    "wof:geomhash":"f40f7d5a7e4d5d452df8e595a973be6c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554783133,
-    "wof:lastmodified":1480785484,
+    "wof:lastmodified":1611183874,
     "wof:name":"56649",
     "wof:parent_id":404513079,
     "wof:placetype":"postalcode",

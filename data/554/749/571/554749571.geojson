@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005771,
-    "geom:area_square_m":51575427.584285,
+    "geom:area_square_m":51575427.584211,
     "geom:bbox":"-116.579698,43.676879,-116.453184,43.779068",
     "geom:latitude":43.717859,
     "geom:longitude":-116.497599,
@@ -14,20 +14,22 @@
     "lbl:latitude":43.724674,
     "lbl:longitude":-116.48867,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Star",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688657,
         102191575,
         85633793,
+        102086087,
         85937911,
-        102086087
+        85688657
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12793926"
     },
     "wof:country":"US",
-    "wof:geomhash":"e1946cb2cc36136e3fce3a84c8065f38",
+    "wof:geomhash":"363a61e47c5e8d16722ef7dcf68db092",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554749571,
-    "wof:lastmodified":1480908823,
+    "wof:lastmodified":1611183587,
     "wof:name":"83669",
     "wof:parent_id":85937911,
     "wof:placetype":"postalcode",

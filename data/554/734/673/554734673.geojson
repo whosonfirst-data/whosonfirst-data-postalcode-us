@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001547,
-    "geom:area_square_m":14940700.37608,
+    "geom:area_square_m":14940700.376076,
     "geom:bbox":"-90.132423,38.617232,-90.047053,38.648082",
     "geom:latitude":38.632711,
     "geom:longitude":-90.090535,
@@ -13,21 +13,27 @@
     "lbl:latitude":38.633745,
     "lbl:longitude":-90.090166,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"East Saint Louis",
+    "mz:postal_locality_alt":[
+        "East St Louis",
+        "Washington Park"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404499729,
         85633793,
+        102084321,
+        404499729,
         85940701,
-        102084321
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784989"
     },
     "wof:country":"US",
-    "wof:geomhash":"f55197a60769af8be6cf33429da4a876",
+    "wof:geomhash":"4d85579153714e2aa0ac2c6501b0afe2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +46,7 @@
         }
     ],
     "wof:id":554734673,
-    "wof:lastmodified":1480796995,
+    "wof:lastmodified":1611184183,
     "wof:name":"62204",
     "wof:parent_id":85940701,
     "wof:placetype":"postalcode",

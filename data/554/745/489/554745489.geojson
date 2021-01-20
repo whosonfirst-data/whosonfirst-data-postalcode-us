@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007502,
-    "geom:area_square_m":79399220.644677,
+    "geom:area_square_m":79399220.64469,
     "geom:bbox":"-97.880165,31.083548,-97.619953,31.380182",
     "geom:latitude":31.14316,
     "geom:longitude":-97.761786,
@@ -13,20 +13,25 @@
     "lbl:latitude":31.143642,
     "lbl:longitude":-97.761047,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Killeen",
+    "mz:postal_locality_alt":[
+        "Fort Hood"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102080703,
         101726923,
-        102080703
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12791134"
     },
     "wof:country":"US",
-    "wof:geomhash":"8fb7a1529cfafee0c0cb4fc92d46c202",
+    "wof:geomhash":"964f6ccb867a68c10b4fdb082a411b7b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554745489,
-    "wof:lastmodified":1480904015,
+    "wof:lastmodified":1611185283,
     "wof:name":"76544",
     "wof:parent_id":101726923,
     "wof:placetype":"postalcode",

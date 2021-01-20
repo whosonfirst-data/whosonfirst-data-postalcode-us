@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.130808,
-    "geom:area_square_m":1360253282.762536,
+    "geom:area_square_m":1360253282.762354,
     "geom:bbox":"-81.834829,32.506386,-81.397154,32.997853",
     "geom:latitude":32.756173,
     "geom:longitude":-81.612597,
@@ -14,19 +14,25 @@
     "lbl:latitude":32.753793,
     "lbl:longitude":-81.603534,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Sylvania",
+    "mz:postal_locality_alt":[
+        "Newington",
+        "Vidalia"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688535,
-        102083593
+        102083593,
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770844"
     },
     "wof:country":"US",
-    "wof:geomhash":"983a7be6933f969c0925e9a403f0f679",
+    "wof:geomhash":"c26ab60393a2e584630fb7fbc660a410",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554713181,
-    "wof:lastmodified":1480838733,
+    "wof:lastmodified":1611183313,
     "wof:name":"30467",
     "wof:parent_id":102083593,
     "wof:placetype":"postalcode",

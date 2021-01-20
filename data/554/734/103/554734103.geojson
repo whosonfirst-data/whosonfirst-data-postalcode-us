@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027736,
-    "geom:area_square_m":258597055.377809,
+    "geom:area_square_m":258597055.377926,
     "geom:bbox":"-89.859572,40.973793,-89.57278,41.155366",
     "geom:latitude":41.060534,
     "geom:longitude":-89.729401,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.054464,
     "lbl:longitude":-89.730733,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wyoming",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404496851,
         85633793,
-        102083523
+        102083523,
+        404496851,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784672"
     },
     "wof:country":"US",
-    "wof:geomhash":"07d05b26b5eebf39295ec7de6c1e191e",
+    "wof:geomhash":"4f9070f3c33adfaf67af8eeffe9cd478",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554734103,
-    "wof:lastmodified":1480841039,
+    "wof:lastmodified":1611184176,
     "wof:name":"61491",
     "wof:parent_id":404496851,
     "wof:placetype":"postalcode",

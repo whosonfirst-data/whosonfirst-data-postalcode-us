@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001259,
-    "geom:area_square_m":12901433.518237,
+    "geom:area_square_m":12901433.518236,
     "geom:bbox":"-118.455804,33.973535,-118.407941,34.026861",
     "geom:latitude":34.001241,
     "geom:longitude":-118.430603,
@@ -13,20 +13,28 @@
     "lbl:latitude":34.002028,
     "lbl:longitude":-118.430656,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Los Angeles",
+    "mz:postal_locality_alt":[
+        "Culver City",
+        "Mar Vista",
+        "Marina del Rey",
+        "Venice"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086957,
         85923517,
-        102086957
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795674"
     },
     "wof:country":"US",
-    "wof:geomhash":"1c11243b9c9d8b084e295a5b030181f1",
+    "wof:geomhash":"9c021f19397eac31d03a5d7106610ef4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +46,7 @@
         }
     ],
     "wof:id":554783969,
-    "wof:lastmodified":1480912625,
+    "wof:lastmodified":1611183893,
     "wof:name":"90066",
     "wof:parent_id":85923517,
     "wof:placetype":"postalcode",

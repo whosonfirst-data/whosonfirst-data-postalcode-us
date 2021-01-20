@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001332,
-    "geom:area_square_m":12605820.963829,
+    "geom:area_square_m":12605820.96383,
     "geom:bbox":"-75.306693,40.021689,-75.255098,40.073013",
     "geom:latitude":40.049178,
     "geom:longitude":-75.281511,
@@ -14,20 +14,27 @@
     "lbl:latitude":40.051349,
     "lbl:longitude":-75.277642,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Gladwyne",
+    "mz:postal_locality_alt":[
+        "Feastervl Trvs",
+        "Feasterville Trevose",
+        "Langhorne"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485475,
         85633793,
-        102081355
+        102081355,
+        404485475,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765436"
     },
     "wof:country":"US",
-    "wof:geomhash":"0f7e99ca33f93045fdf31a92bdf63517",
+    "wof:geomhash":"43724d559f198cbddfa937ed6cdb9add",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554706185,
-    "wof:lastmodified":1480818593,
+    "wof:lastmodified":1611182718,
     "wof:name":"19035",
     "wof:parent_id":404485475,
     "wof:placetype":"postalcode",

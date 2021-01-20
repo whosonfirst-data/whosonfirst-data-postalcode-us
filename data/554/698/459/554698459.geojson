@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013083,
-    "geom:area_square_m":114460775.167199,
+    "geom:area_square_m":114460775.167148,
     "geom:bbox":"-68.649165,44.881697,-68.475998,45.028255",
     "geom:latitude":44.964167,
     "geom:longitude":-68.568684,
@@ -14,20 +14,25 @@
     "lbl:latitude":44.954787,
     "lbl:longitude":-68.582438,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Milford",
+    "mz:postal_locality_alt":[
+        "Old Town"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404475041,
         85633793,
-        102080723
+        102080723,
+        404475041,
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759590"
     },
     "wof:country":"US",
-    "wof:geomhash":"73a776c9f222a5b95cccd14843f09edd",
+    "wof:geomhash":"20ccd55c48bc3148ab1bf1b01a87ee8d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554698459,
-    "wof:lastmodified":1480906067,
+    "wof:lastmodified":1611184702,
     "wof:name":"04461",
     "wof:parent_id":404475041,
     "wof:placetype":"postalcode",

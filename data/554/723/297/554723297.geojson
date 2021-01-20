@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015017,
-    "geom:area_square_m":142599428.102641,
+    "geom:area_square_m":142599428.102605,
     "geom:bbox":"-85.277087,39.786855,-85.072736,39.888417",
     "geom:latitude":39.831251,
     "geom:longitude":-85.173781,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.827428,
     "lbl:longitude":-85.175101,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cambridge City",
+    "mz:postal_locality_alt":[
+        "Dublin"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404502187,
         85633793,
-        102086979
+        102086979,
+        404502187,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778157"
     },
     "wof:country":"US",
-    "wof:geomhash":"12b55c49e91ef17fd7f52df4f1b8119d",
+    "wof:geomhash":"f81fcdcae1ef138fb33819de692737ea",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554723297,
-    "wof:lastmodified":1480915791,
+    "wof:lastmodified":1611183808,
     "wof:name":"47327",
     "wof:parent_id":404502187,
     "wof:placetype":"postalcode",

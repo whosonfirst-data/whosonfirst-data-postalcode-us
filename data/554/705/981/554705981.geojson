@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001537,
-    "geom:area_square_m":14282585.738075,
+    "geom:area_square_m":14282585.738072,
     "geom:bbox":"-75.871704,41.249252,-75.808991,41.29459",
     "geom:latitude":41.271821,
     "geom:longitude":-75.843321,
@@ -13,20 +13,26 @@
     "lbl:latitude":41.271834,
     "lbl:longitude":-75.842735,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wilkes Barre",
+    "mz:postal_locality_alt":[
+        "Plains",
+        "Hudson"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404486985,
         85633793,
-        102081351
+        102081351,
+        404486985,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765289"
     },
     "wof:country":"US",
-    "wof:geomhash":"f7983bccc03a6ca33ca756f952851d70",
+    "wof:geomhash":"c89c564a91225da1987d485b80a9ea70",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554705981,
-    "wof:lastmodified":1480831061,
+    "wof:lastmodified":1611184130,
     "wof:name":"18705",
     "wof:parent_id":404486985,
     "wof:placetype":"postalcode",

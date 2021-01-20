@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000379,
-    "geom:area_square_m":3550870.439035,
+    "geom:area_square_m":3550870.439032,
     "geom:bbox":"-74.218172,40.712415,-74.183861,40.732511",
     "geom:latitude":40.723112,
     "geom:longitude":-74.200206,
@@ -13,21 +13,26 @@
     "lbl:latitude":40.723112,
     "lbl:longitude":-74.200205,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Newark",
+    "mz:postal_locality_alt":[
+        "Nutley"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478049,
         85633793,
+        102085043,
+        404478049,
         85975279,
-        102085043
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760692"
     },
     "wof:country":"US",
-    "wof:geomhash":"619cbb36c710c645e8bdc18bf70f62f4",
+    "wof:geomhash":"99c23022dab6f6a719c5dc5e76900bcc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554699935,
-    "wof:lastmodified":1480816153,
+    "wof:lastmodified":1611184618,
     "wof:name":"07108",
     "wof:parent_id":85975279,
     "wof:placetype":"postalcode",

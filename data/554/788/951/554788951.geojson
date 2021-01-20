@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000262,
-    "geom:area_square_m":2767651.517046,
+    "geom:area_square_m":2767651.517044,
     "geom:bbox":"-109.959217,31.333518,-109.918396,31.344005",
     "geom:latitude":31.337282,
     "geom:longitude":-109.941325,
@@ -14,20 +14,22 @@
     "lbl:latitude":31.337283,
     "lbl:longitude":-109.941325,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Naco",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688719,
         102191575,
         85633793,
+        102087425,
         85917643,
-        102087425
+        85688719
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12794661"
     },
     "wof:country":"US",
-    "wof:geomhash":"bd45778f056dfd7c924f0b8824e4fa19",
+    "wof:geomhash":"5f96c9d32d54e815bbd720db6c94bb8e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554788951,
-    "wof:lastmodified":1480938446,
+    "wof:lastmodified":1611184762,
     "wof:name":"85620",
     "wof:parent_id":85917643,
     "wof:placetype":"postalcode",

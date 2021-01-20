@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004213,
-    "geom:area_square_m":39206438.934941,
+    "geom:area_square_m":39206438.934945,
     "geom:bbox":"-76.065553,41.151707,-75.974893,41.228436",
     "geom:latitude":41.189183,
     "geom:longitude":-76.021535,
@@ -14,20 +14,26 @@
     "lbl:latitude":41.185512,
     "lbl:longitude":-76.022619,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Nanticoke",
+    "mz:postal_locality_alt":[
+        "Wapwallopen",
+        "Harveys Lake"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404486977,
         85633793,
-        102081351
+        102081351,
+        404486977,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765268"
     },
     "wof:country":"US",
-    "wof:geomhash":"eb696e01f0dfcbbca500aafa0991761a",
+    "wof:geomhash":"dbfbb0f8e7f66d396af4ee4f726d76c3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554705943,
-    "wof:lastmodified":1480831062,
+    "wof:lastmodified":1611184130,
     "wof:name":"18634",
     "wof:parent_id":404486977,
     "wof:placetype":"postalcode",

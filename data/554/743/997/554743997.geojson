@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.07906,
-    "geom:area_square_m":802853978.37146,
+    "geom:area_square_m":802853978.371612,
     "geom:bbox":"-96.922685,34.455892,-96.485625,34.946591",
     "geom:latitude":34.789032,
     "geom:longitude":-96.710801,
@@ -13,19 +13,24 @@
     "lbl:latitude":34.788674,
     "lbl:longitude":-96.715184,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ada",
+    "mz:postal_locality_alt":[
+        "Prague"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688585,
-        102083271
+        102083271,
+        85688585
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12790219"
     },
     "wof:country":"US",
-    "wof:geomhash":"a76308f1f0d67fc01e7cb0f55e3bf965",
+    "wof:geomhash":"cbe822c6c2bbc4bdc23408eaed56ca2d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +41,7 @@
         }
     ],
     "wof:id":554743997,
-    "wof:lastmodified":1480838199,
+    "wof:lastmodified":1611184769,
     "wof:name":"74820",
     "wof:parent_id":102083271,
     "wof:placetype":"postalcode",

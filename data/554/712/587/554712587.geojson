@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049987,
-    "geom:area_square_m":512912128.816738,
+    "geom:area_square_m":512912128.816457,
     "geom:bbox":"-82.535727,33.812929,-82.030034,34.008718",
     "geom:latitude":33.918941,
     "geom:longitude":-82.290305,
@@ -13,20 +13,25 @@
     "lbl:latitude":33.919499,
     "lbl:longitude":-82.288971,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mc Cormick",
+    "mz:postal_locality_alt":[
+        "Edgefield"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688683,
         102191575,
         85633793,
+        102085633,
         101720641,
-        102085633
+        85688683
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770432"
     },
     "wof:country":"US",
-    "wof:geomhash":"aa9f97114f874183733cc7c34e4ce711",
+    "wof:geomhash":"767d4850ad5bc89d7dae2aa82e013c58",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554712587,
-    "wof:lastmodified":1480836417,
+    "wof:lastmodified":1611183715,
     "wof:name":"29835",
     "wof:parent_id":101720641,
     "wof:placetype":"postalcode",

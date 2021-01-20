@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012919,
-    "geom:area_square_m":129835920.943,
+    "geom:area_square_m":129835920.942956,
     "geom:bbox":"-79.222179,35.521433,-78.921836,35.715561",
     "geom:latitude":35.631613,
     "geom:longitude":-79.10071,
@@ -14,20 +14,22 @@
     "lbl:latitude":35.628214,
     "lbl:longitude":-79.102818,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Moncure",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688773,
         102191575,
         85633793,
+        102080923,
         85981705,
-        102080923
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12769112"
     },
     "wof:country":"US",
-    "wof:geomhash":"8bd14114f143aa5797fbb2a911ca1b52",
+    "wof:geomhash":"90fb8c78135b9d3e3e490e330763c155",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554710757,
-    "wof:lastmodified":1480906616,
+    "wof:lastmodified":1611185122,
     "wof:name":"27559",
     "wof:parent_id":85981705,
     "wof:placetype":"postalcode",

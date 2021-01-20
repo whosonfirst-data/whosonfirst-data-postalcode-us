@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04422,
-    "geom:area_square_m":417112909.705702,
+    "geom:area_square_m":417112909.705827,
     "geom:bbox":"-84.336463,40.186927,-84.006887,40.380897",
     "geom:latitude":40.284236,
     "geom:longitude":-84.159563,
@@ -13,21 +13,26 @@
     "lbl:latitude":40.28374,
     "lbl:longitude":-84.159773,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Sidney",
+    "mz:postal_locality_alt":[
+        "Xenia"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404525625,
         85633793,
+        102083641,
+        404525625,
         85983161,
-        102083641
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777252"
     },
     "wof:country":"US",
-    "wof:geomhash":"ff8c1bfed0379ddf8c2c97837a37afa2",
+    "wof:geomhash":"828fbce28ebb04de3e5530a98b684be2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554721909,
-    "wof:lastmodified":1480839086,
+    "wof:lastmodified":1611184943,
     "wof:name":"45365",
     "wof:parent_id":85983161,
     "wof:placetype":"postalcode",

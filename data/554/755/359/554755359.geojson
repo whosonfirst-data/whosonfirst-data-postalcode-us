@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00191,
-    "geom:area_square_m":15865379.351537,
+    "geom:area_square_m":15865379.351503,
     "geom:bbox":"-122.400938,47.777716,-122.353218,47.838182",
     "geom:latitude":47.801506,
     "geom:longitude":-122.374537,
@@ -13,20 +13,25 @@
     "lbl:latitude":47.802344,
     "lbl:longitude":-122.374193,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Edmonds",
+    "mz:postal_locality_alt":[
+        "Woodway"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688623,
         102191575,
         85633793,
+        102087537,
         101729915,
-        102087537
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12798894"
     },
     "wof:country":"US",
-    "wof:geomhash":"c491ea60780763c20d70dc74872460b2",
+    "wof:geomhash":"d0edd7540063f01dec049b2240ca9127",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554755359,
-    "wof:lastmodified":1480915586,
+    "wof:lastmodified":1611182585,
     "wof:name":"98020",
     "wof:parent_id":101729915,
     "wof:placetype":"postalcode",

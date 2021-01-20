@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0059,
-    "geom:area_square_m":55886506.667626,
+    "geom:area_square_m":55886506.667648,
     "geom:bbox":"-74.661402,39.96624,-74.506474,40.036723",
     "geom:latitude":40.003447,
     "geom:longitude":-74.589439,
@@ -14,21 +14,26 @@
     "lbl:latitude":40.004416,
     "lbl:longitude":-74.591269,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Trenton",
+    "mz:postal_locality_alt":[
+        "Fort Dix"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477869,
         85633793,
+        102087415,
+        404477869,
         85976179,
-        102087415
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761214"
     },
     "wof:country":"US",
-    "wof:geomhash":"042ec76b6d3fb7bab3ddb25f59c3ed29",
+    "wof:geomhash":"3bb1b547f6d884478c9eebd15e0f2d8a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554700649,
-    "wof:lastmodified":1480817270,
+    "wof:lastmodified":1611183198,
     "wof:name":"08640",
     "wof:parent_id":85976179,
     "wof:placetype":"postalcode",

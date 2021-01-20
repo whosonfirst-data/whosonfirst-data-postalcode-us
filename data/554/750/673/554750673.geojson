@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001123,
-    "geom:area_square_m":11750140.992619,
+    "geom:area_square_m":11750140.992618,
     "geom:bbox":"-110.909304,32.159799,-110.857886,32.196204",
     "geom:latitude":32.179204,
     "geom:longitude":-110.886914,
@@ -13,20 +13,25 @@
     "lbl:latitude":32.179204,
     "lbl:longitude":-110.886913,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Davis Monthan",
+    "mz:postal_locality_alt":[
+        "Tucson"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688719,
         102191575,
         85633793,
+        102081135,
         85917235,
-        102081135
+        85688719
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12794701"
     },
     "wof:country":"US",
-    "wof:geomhash":"a1174da88325bcae4f5511b08dac0d75",
+    "wof:geomhash":"9e2a7c555efecb67443228943a23aba0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554750673,
-    "wof:lastmodified":1480818847,
+    "wof:lastmodified":1611184536,
     "wof:name":"85707",
     "wof:parent_id":85917235,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030093,
-    "geom:area_square_m":265752093.93775,
+    "geom:area_square_m":265752093.937595,
     "geom:bbox":"-95.088045,44.311502,-94.756249,44.533107",
     "geom:latitude":44.423942,
     "geom:longitude":-94.917331,
@@ -14,20 +14,25 @@
     "lbl:latitude":44.421064,
     "lbl:longitude":-94.914551,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Morgan",
+    "mz:postal_locality_alt":[
+        "Morris"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404512183,
         85633793,
-        102087799
+        102087799,
+        404512183,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782367"
     },
     "wof:country":"US",
-    "wof:geomhash":"4354492a389ce5a2e3d3fa6d53c9d334",
+    "wof:geomhash":"a1fafb6e779b296885fc14884bbe6a0a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554730133,
-    "wof:lastmodified":1480789132,
+    "wof:lastmodified":1611182722,
     "wof:name":"56266",
     "wof:parent_id":404512183,
     "wof:placetype":"postalcode",

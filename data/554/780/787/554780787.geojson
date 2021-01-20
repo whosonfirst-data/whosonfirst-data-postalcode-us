@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002119,
-    "geom:area_square_m":18696173.921959,
+    "geom:area_square_m":18696173.921968,
     "geom:bbox":"-88.055603,44.445083,-87.990281,44.521692",
     "geom:latitude":44.482009,
     "geom:longitude":-88.020406,
@@ -13,21 +13,26 @@
     "lbl:latitude":44.480778,
     "lbl:longitude":-88.016063,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Green Bay",
+    "mz:postal_locality_alt":[
+        "Allouez"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404492843,
         85633793,
+        102081867,
+        404492843,
         101732291,
-        102081867
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781267"
     },
     "wof:country":"US",
-    "wof:geomhash":"cb6b329b80d05b00a42bc64341c9c234",
+    "wof:geomhash":"1ff52db2c03215574c4faef1e40b8978",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554780787,
-    "wof:lastmodified":1480830822,
+    "wof:lastmodified":1611185194,
     "wof:name":"54301",
     "wof:parent_id":101732291,
     "wof:placetype":"postalcode",

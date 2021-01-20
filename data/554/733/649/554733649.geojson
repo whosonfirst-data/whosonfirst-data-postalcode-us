@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017731,
-    "geom:area_square_m":161809994.294174,
+    "geom:area_square_m":161809994.29423,
     "geom:bbox":"-89.380933,42.360432,-89.193906,42.500162",
     "geom:latitude":42.436522,
     "geom:longitude":-89.290533,
@@ -14,20 +14,25 @@
     "lbl:latitude":42.436415,
     "lbl:longitude":-89.297114,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Durand",
+    "mz:postal_locality_alt":[
+        "Shirland"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404499337,
         85633793,
-        102080827
+        102080827,
+        404499337,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784418"
     },
     "wof:country":"US",
-    "wof:geomhash":"894780864e9ab4e3258c038bf536cd9c",
+    "wof:geomhash":"cfbb292ab389ced2ceeb15a4411d0857",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554733649,
-    "wof:lastmodified":1480906998,
+    "wof:lastmodified":1611184236,
     "wof:name":"61024",
     "wof:parent_id":404499337,
     "wof:placetype":"postalcode",

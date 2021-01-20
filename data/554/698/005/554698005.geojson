@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007201,
-    "geom:area_square_m":64706144.477135,
+    "geom:area_square_m":64706144.477137,
     "geom:bbox":"-72.134444,43.329807,-72.04672,43.459516",
     "geom:latitude":43.390938,
     "geom:longitude":-72.092829,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.390088,
     "lbl:longitude":-72.093129,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Sunapee",
+    "mz:postal_locality_alt":[
+        "Newport"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688689,
         102191575,
-        404476737,
         85633793,
-        102086583
+        102086583,
+        404476737,
+        85688689
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759274"
     },
     "wof:country":"US",
-    "wof:geomhash":"7f776fe310f4a784e9afcad0a881ebdd",
+    "wof:geomhash":"a77ea22a6e1989b2dfe419bfffc2486b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554698005,
-    "wof:lastmodified":1480913717,
+    "wof:lastmodified":1611184701,
     "wof:name":"03782",
     "wof:parent_id":404476737,
     "wof:placetype":"postalcode",

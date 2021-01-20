@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.047982,
-    "geom:area_square_m":495192093.761956,
+    "geom:area_square_m":495192093.761648,
     "geom:bbox":"-81.841898,33.27003,-81.516319,33.558614",
     "geom:latitude":33.421844,
     "geom:longitude":-81.680072,
@@ -13,19 +13,25 @@
     "lbl:latitude":33.490342,
     "lbl:longitude":-81.762819,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Aiken",
+    "mz:postal_locality_alt":[
+        "New Ellenton",
+        "Fairfax"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688683,
-        102085721
+        102085721,
+        85688683
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770411"
     },
     "wof:country":"US",
-    "wof:geomhash":"02a6040c32d53b52c1aaad5f8bea155c",
+    "wof:geomhash":"a23250916e35b933420e57fbf9137920",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +42,7 @@
         }
     ],
     "wof:id":554712553,
-    "wof:lastmodified":1480814067,
+    "wof:lastmodified":1611183721,
     "wof:name":"29803",
     "wof:parent_id":102085721,
     "wof:placetype":"postalcode",

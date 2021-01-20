@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004233,
-    "geom:area_square_m":36955104.165925,
+    "geom:area_square_m":36955104.165931,
     "geom:bbox":"-93.188706,45.035764,-93.088532,45.133696",
     "geom:latitude":45.084825,
     "geom:longitude":-93.132569,
@@ -13,21 +13,28 @@
     "lbl:latitude":45.08445,
     "lbl:longitude":-93.132817,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Saint Paul",
+    "mz:postal_locality_alt":[
+        "St Paul",
+        "Shoreview",
+        "Arden Hills"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404514467,
         85633793,
+        102087007,
+        404514467,
         85953193,
-        102087007
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781761"
     },
     "wof:country":"US",
-    "wof:geomhash":"24488e0ad63f4ed4a7c6aed2e5c28b1d",
+    "wof:geomhash":"40419e11bf58e08efedce33717f5bfbe",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +47,7 @@
         }
     ],
     "wof:id":554729101,
-    "wof:lastmodified":1480785926,
+    "wof:lastmodified":1611185429,
     "wof:name":"55126",
     "wof:parent_id":85953193,
     "wof:placetype":"postalcode",

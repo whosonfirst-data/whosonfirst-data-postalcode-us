@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013378,
-    "geom:area_square_m":119702729.181493,
+    "geom:area_square_m":119702729.181525,
     "geom:bbox":"-75.568769,43.580683,-75.371188,43.706354",
     "geom:latitude":43.644432,
     "geom:longitude":-75.463808,
@@ -14,20 +14,22 @@
     "lbl:latitude":43.646449,
     "lbl:longitude":-75.443434,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Turin",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404521971,
         85633793,
-        102085867
+        102085867,
+        404521971,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762844"
     },
     "wof:country":"US",
-    "wof:geomhash":"e7ac01553c44b0b93bf6b3f9ad1e463f",
+    "wof:geomhash":"35d614922d002ea0c92c9bcdc5a1f4eb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554702399,
-    "wof:lastmodified":1480811761,
+    "wof:lastmodified":1611184135,
     "wof:name":"13473",
     "wof:parent_id":404521971,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003287,
-    "geom:area_square_m":31376064.914121,
+    "geom:area_square_m":31376064.914131,
     "geom:bbox":"-76.344627,39.443996,-76.21959,39.502839",
     "geom:latitude":39.469928,
     "geom:longitude":-76.292401,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.466882,
     "lbl:longitude":-76.29523,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Abingdon",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688501,
         102191575,
         85633793,
+        102082727,
         85949833,
-        102082727
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766403"
     },
     "wof:country":"US",
-    "wof:geomhash":"3c2e624afef742719ce297a9bd47a483",
+    "wof:geomhash":"1f96189f66a0920525a43a22e3b9e44e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554707119,
-    "wof:lastmodified":1480794506,
+    "wof:lastmodified":1611183150,
     "wof:name":"21009",
     "wof:parent_id":85949833,
     "wof:placetype":"postalcode",

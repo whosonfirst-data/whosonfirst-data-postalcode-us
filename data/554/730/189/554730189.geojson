@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019808,
-    "geom:area_square_m":174281881.274188,
+    "geom:area_square_m":174281881.274265,
     "geom:bbox":"-95.604502,44.541764,-95.452391,44.731492",
     "geom:latitude":44.636796,
     "geom:longitude":-95.543011,
@@ -14,20 +14,25 @@
     "lbl:latitude":44.636634,
     "lbl:longitude":-95.52937,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wood Lake",
+    "mz:postal_locality_alt":[
+        "Boyd"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404514587,
         85633793,
-        102087691
+        102087691,
+        404514587,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782392"
     },
     "wof:country":"US",
-    "wof:geomhash":"e7767540c3a0fd3849c8f35b2bb4bded",
+    "wof:geomhash":"534439a678a85e149e768572247426ae",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554730189,
-    "wof:lastmodified":1480786349,
+    "wof:lastmodified":1611182737,
     "wof:name":"56297",
     "wof:parent_id":404514587,
     "wof:placetype":"postalcode",

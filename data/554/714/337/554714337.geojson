@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.060642,
-    "geom:area_square_m":648190803.585016,
+    "geom:area_square_m":648190803.585014,
     "geom:bbox":"-84.480624,30.037984,-84.10348,30.303501",
     "geom:latitude":30.182587,
     "geom:longitude":-84.303701,
@@ -13,19 +13,24 @@
     "lbl:latitude":30.182261,
     "lbl:longitude":-84.305327,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Crawfordville",
+    "mz:postal_locality_alt":[
+        "Tallahassee"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688651,
-        102085765
+        102085765,
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12771648"
     },
     "wof:country":"US",
-    "wof:geomhash":"b3c092894706419366737d996f777d77",
+    "wof:geomhash":"cfd34a809d2cfcd284139a9126ce750f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +41,7 @@
         }
     ],
     "wof:id":554714337,
-    "wof:lastmodified":1480814029,
+    "wof:lastmodified":1611183344,
     "wof:name":"32327",
     "wof:parent_id":102085765,
     "wof:placetype":"postalcode",

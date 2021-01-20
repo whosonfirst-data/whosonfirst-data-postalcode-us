@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00394,
-    "geom:area_square_m":35672788.191257,
+    "geom:area_square_m":35672788.191253,
     "geom:bbox":"-71.223723,42.897687,-71.146404,42.965188",
     "geom:latitude":42.93403,
     "geom:longitude":-71.182132,
@@ -14,20 +14,25 @@
     "lbl:latitude":42.934018,
     "lbl:longitude":-71.183605,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Sandown",
+    "mz:postal_locality_alt":[
+        "Jackson"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688689,
         102191575,
-        404476719,
         85633793,
-        102086507
+        102086507,
+        404476719,
+        85688689
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759339"
     },
     "wof:country":"US",
-    "wof:geomhash":"38ad945afa82a49e6aa8ca78fd209a8c",
+    "wof:geomhash":"9b308df0861041a0aa917938fe6a2fad",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554698105,
-    "wof:lastmodified":1480916575,
+    "wof:lastmodified":1611184677,
     "wof:name":"03873",
     "wof:parent_id":404476719,
     "wof:placetype":"postalcode",

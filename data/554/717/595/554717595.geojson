@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.051091,
-    "geom:area_square_m":514115988.952545,
+    "geom:area_square_m":514115988.952397,
     "geom:bbox":"-87.717559,35.398188,-87.385963,35.653304",
     "geom:latitude":35.531115,
     "geom:longitude":-87.551612,
@@ -14,19 +14,25 @@
     "lbl:latitude":35.528171,
     "lbl:longitude":-87.562943,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hohenwald",
+    "mz:postal_locality_alt":[
+        "Pulaski",
+        "Hampshire"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688701,
-        102086395
+        102086395,
+        85688701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12774472"
     },
     "wof:country":"US",
-    "wof:geomhash":"69da13fda9ba74747d8cb86a0cb7e808",
+    "wof:geomhash":"1c5fd38220b4fe038a92ac07507a30c9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554717595,
-    "wof:lastmodified":1480916688,
+    "wof:lastmodified":1611184986,
     "wof:name":"38462",
     "wof:parent_id":102086395,
     "wof:placetype":"postalcode",

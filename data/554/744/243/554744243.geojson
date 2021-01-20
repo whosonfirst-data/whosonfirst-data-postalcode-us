@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014795,
-    "geom:area_square_m":152034729.402711,
+    "geom:area_square_m":152034729.402525,
     "geom:bbox":"-96.806776,33.730911,-96.630492,33.900287",
     "geom:latitude":33.794747,
     "geom:longitude":-96.721674,
@@ -14,19 +14,24 @@
     "lbl:latitude":33.800706,
     "lbl:longitude":-96.725999,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pottsboro",
+    "mz:postal_locality_alt":[
+        "Denison"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688753,
-        102081955
+        102081955,
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12790356"
     },
     "wof:country":"US",
-    "wof:geomhash":"2e741420964363b89536188b0b48fcea",
+    "wof:geomhash":"7582637b17145d28b124b38898bc604c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554744243,
-    "wof:lastmodified":1480823024,
+    "wof:lastmodified":1611184717,
     "wof:name":"75076",
     "wof:parent_id":102081955,
     "wof:placetype":"postalcode",

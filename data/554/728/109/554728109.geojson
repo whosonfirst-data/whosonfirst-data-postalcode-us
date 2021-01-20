@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037397,
-    "geom:area_square_m":330358269.421201,
+    "geom:area_square_m":330358269.421215,
     "geom:bbox":"-88.291567,44.317011,-87.90623,44.498578",
     "geom:latitude":44.404636,
     "geom:longitude":-88.091983,
@@ -14,20 +14,25 @@
     "lbl:latitude":44.397967,
     "lbl:longitude":-88.09639,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"De Pere",
+    "mz:postal_locality_alt":[
+        "Oneida"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404492919,
         85633793,
-        102081867
+        102081867,
+        404492919,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781191"
     },
     "wof:country":"US",
-    "wof:geomhash":"98dad52e496101b956f945d58443a537",
+    "wof:geomhash":"2f5a5ac48bea1ea487b0ee6e03af217a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554728109,
-    "wof:lastmodified":1480833324,
+    "wof:lastmodified":1611185074,
     "wof:name":"54115",
     "wof:parent_id":404492919,
     "wof:placetype":"postalcode",

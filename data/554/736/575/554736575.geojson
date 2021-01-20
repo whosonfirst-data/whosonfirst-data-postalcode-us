@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003609,
-    "geom:area_square_m":34696883.720452,
+    "geom:area_square_m":34696883.720455,
     "geom:bbox":"-94.5251,38.941056,-94.416372,38.995402",
     "geom:latitude":38.968783,
     "geom:longitude":-94.47029,
@@ -14,21 +14,26 @@
     "lbl:latitude":38.967119,
     "lbl:longitude":-94.467927,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Kansas City",
+    "mz:postal_locality_alt":[
+        "Raytown"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404517999,
         85633793,
+        102081227,
+        404517999,
         85971471,
-        102081227
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786045"
     },
     "wof:country":"US",
-    "wof:geomhash":"5041f66631f9cd72d913b8d4385104b2",
+    "wof:geomhash":"d5bdc0ad21a747bc70b1fc13812b0a44",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554736575,
-    "wof:lastmodified":1480816991,
+    "wof:lastmodified":1611183033,
     "wof:name":"64138",
     "wof:parent_id":85971471,
     "wof:placetype":"postalcode",

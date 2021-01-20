@@ -14,20 +14,26 @@
     "lbl:latitude":39.142355,
     "lbl:longitude":-97.69582,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Minneapolis",
+    "mz:postal_locality_alt":[
+        "Wells",
+        "Lincoln"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404505413,
         85633793,
-        102084197
+        102084197,
+        404505413,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787273"
     },
     "wof:country":"US",
-    "wof:geomhash":"22852f83315ed55ebe576d2cfffe7a7b",
+    "wof:geomhash":"29c03b8f5510bc2cd0127e1aa1056aa5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554738969,
-    "wof:lastmodified":1480805311,
+    "wof:lastmodified":1611183113,
     "wof:name":"67467",
     "wof:parent_id":404505413,
     "wof:placetype":"postalcode",

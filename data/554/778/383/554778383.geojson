@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002158,
-    "geom:area_square_m":19781590.627855,
+    "geom:area_square_m":19781590.627844,
     "geom:bbox":"-70.981293,42.135502,-70.920936,42.194701",
     "geom:latitude":42.166447,
     "geom:longitude":-70.952724,
@@ -14,21 +14,28 @@
     "lbl:latitude":42.166731,
     "lbl:longitude":-70.952363,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"South Weymouth",
+    "mz:postal_locality_alt":[
+        "Weymouth",
+        "Boston",
+        "Allston"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476603,
         85633793,
+        102084403,
+        404476603,
         85950427,
-        102084403
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758765"
     },
     "wof:country":"US",
-    "wof:geomhash":"3e7f544e861ea7ae0f1ed7dea5d19728",
+    "wof:geomhash":"e9c0dd975032a376db7e0519427c321b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +48,7 @@
         }
     ],
     "wof:id":554778383,
-    "wof:lastmodified":1480801203,
+    "wof:lastmodified":1611183433,
     "wof:name":"02190",
     "wof:parent_id":85950427,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000377,
-    "geom:area_square_m":3563957.193213,
+    "geom:area_square_m":3563957.193211,
     "geom:bbox":"-78.610548,40.120482,-78.572009,40.139635",
     "geom:latitude":40.128409,
     "geom:longitude":-78.59138,
@@ -13,20 +13,22 @@
     "lbl:latitude":40.128409,
     "lbl:longitude":-78.59138,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fishertown",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404482619,
         85633793,
-        102080939
+        102080939,
+        404482619,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763863"
     },
     "wof:country":"US",
-    "wof:geomhash":"360c80dea8da6061675ecd58cb382e91",
+    "wof:geomhash":"e0849fca459729a12df335cc88795511",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +40,7 @@
         }
     ],
     "wof:id":554703843,
-    "wof:lastmodified":1480903173,
+    "wof:lastmodified":1611184455,
     "wof:name":"15539",
     "wof:parent_id":404482619,
     "wof:placetype":"postalcode",

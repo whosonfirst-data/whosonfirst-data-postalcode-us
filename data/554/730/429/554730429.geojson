@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.072978,
-    "geom:area_square_m":611263725.357925,
+    "geom:area_square_m":611263725.357922,
     "geom:bbox":"-96.708626,47.194788,-96.269219,47.499418",
     "geom:latitude":47.360318,
     "geom:longitude":-96.525423,
@@ -14,20 +14,27 @@
     "lbl:latitude":47.35881,
     "lbl:longitude":-96.524868,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ada",
+    "mz:postal_locality_alt":[
+        "Rothsay",
+        "Mahnomen",
+        "Waubun"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404512303,
         85633793,
-        102087699
+        102087699,
+        404512303,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782521"
     },
     "wof:country":"US",
-    "wof:geomhash":"95fb9b234d8b05f8398f8781d403ff39",
+    "wof:geomhash":"4986e5566b32524c4be91f0afc94d14c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554730429,
-    "wof:lastmodified":1480785544,
+    "wof:lastmodified":1611182748,
     "wof:name":"56510",
     "wof:parent_id":404512303,
     "wof:placetype":"postalcode",

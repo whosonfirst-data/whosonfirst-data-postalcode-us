@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040052,
-    "geom:area_square_m":382484149.421722,
+    "geom:area_square_m":382484149.421728,
     "geom:bbox":"-75.462877,39.289217,-75.102822,39.561957",
     "geom:latitude":39.439485,
     "geom:longitude":-75.26097,
@@ -14,20 +14,30 @@
     "lbl:latitude":39.438613,
     "lbl:longitude":-75.260646,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bridgeton",
+    "mz:postal_locality_alt":[
+        "Seabrook",
+        "Rosenhayn",
+        "Fairton",
+        "Hancocks Bridge",
+        "Alloway",
+        "Greenwich"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478087,
         85633793,
-        102080721
+        102080721,
+        404478087,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761114"
     },
     "wof:country":"US",
-    "wof:geomhash":"95fdad5507fba79d37d2ddbc49d8e041",
+    "wof:geomhash":"f63a9378eeed673850fde53d97e962c3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +49,7 @@
         }
     ],
     "wof:id":554700513,
-    "wof:lastmodified":1480905055,
+    "wof:lastmodified":1611183207,
     "wof:name":"08302",
     "wof:parent_id":404478087,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011017,
-    "geom:area_square_m":110204240.385451,
+    "geom:area_square_m":110204240.385359,
     "geom:bbox":"-80.46381,35.928645,-80.276085,36.083427",
     "geom:latitude":36.004148,
     "geom:longitude":-80.375818,
@@ -14,20 +14,22 @@
     "lbl:latitude":36.002457,
     "lbl:longitude":-80.379291,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Clemmons",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688773,
         102191575,
         85633793,
+        102080957,
         85980703,
-        102080957
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12768883"
     },
     "wof:country":"US",
-    "wof:geomhash":"653ad8c4e397e97631f07f25432fd73a",
+    "wof:geomhash":"edc2951f55bcea0a26109811475fbb9f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554710417,
-    "wof:lastmodified":1480905348,
+    "wof:lastmodified":1611185124,
     "wof:name":"27012",
     "wof:parent_id":85980703,
     "wof:placetype":"postalcode",

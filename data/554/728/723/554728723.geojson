@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.079195,
-    "geom:area_square_m":683238015.716449,
+    "geom:area_square_m":683238015.71655,
     "geom:bbox":"-92.889433,45.556696,-92.510112,45.951585",
     "geom:latitude":45.756239,
     "geom:longitude":-92.689055,
@@ -14,20 +14,25 @@
     "lbl:latitude":45.751262,
     "lbl:longitude":-92.692383,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Grantsburg",
+    "mz:postal_locality_alt":[
+        "Trego"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404492979,
         85633793,
-        102081835
+        102081835,
+        404492979,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781554"
     },
     "wof:country":"US",
-    "wof:geomhash":"19a71e54dc444dbcddab4a84fb9b2e8b",
+    "wof:geomhash":"1b99b1ff8764b856ee16af885e039911",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554728723,
-    "wof:lastmodified":1480915794,
+    "wof:lastmodified":1611185070,
     "wof:name":"54840",
     "wof:parent_id":404492979,
     "wof:placetype":"postalcode",

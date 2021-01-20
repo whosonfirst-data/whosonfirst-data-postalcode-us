@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008679,
-    "geom:area_square_m":82177744.105669,
+    "geom:area_square_m":82177744.105667,
     "geom:bbox":"-97.70836,40.002019,-97.538649,40.060224",
     "geom:latitude":40.028291,
     "geom:longitude":-97.618129,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.024106,
     "lbl:longitude":-97.624004,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Chester",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688563,
         102191575,
-        404518981,
         85633793,
-        102082227
+        102082227,
+        404518981,
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787598"
     },
     "wof:country":"US",
-    "wof:geomhash":"487848f9e9014afca6961b01bc3ec64d",
+    "wof:geomhash":"2495e48e51e19ce4ce110091cd947076",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554739623,
-    "wof:lastmodified":1480791204,
+    "wof:lastmodified":1611182671,
     "wof:name":"68327",
     "wof:parent_id":404518981,
     "wof:placetype":"postalcode",

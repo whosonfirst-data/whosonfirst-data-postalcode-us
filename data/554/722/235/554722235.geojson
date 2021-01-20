@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021131,
-    "geom:area_square_m":197776344.611866,
+    "geom:area_square_m":197776344.611941,
     "geom:bbox":"-84.304978,40.729461,-83.95709,40.868315",
     "geom:latitude":40.806316,
     "geom:longitude":-84.170798,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.805996,
     "lbl:longitude":-84.171653,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lima",
+    "mz:postal_locality_alt":[
+        "Elida"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404523545,
         85633793,
-        102083673
+        102083673,
+        404523545,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777453"
     },
     "wof:country":"US",
-    "wof:geomhash":"36c7b663812354d1dcfa9112c8df8aed",
+    "wof:geomhash":"821ce194b784a0f82be12ec4a07b2f58",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554722235,
-    "wof:lastmodified":1480839040,
+    "wof:lastmodified":1611183221,
     "wof:name":"45807",
     "wof:parent_id":404523545,
     "wof:placetype":"postalcode",

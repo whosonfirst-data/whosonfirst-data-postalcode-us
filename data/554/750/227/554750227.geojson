@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000512,
-    "geom:area_square_m":5285849.443284,
+    "geom:area_square_m":5285849.443304,
     "geom:bbox":"-112.075864,33.42129,-112.064894,33.480261",
     "geom:latitude":33.45157,
     "geom:longitude":-112.069886,
@@ -13,20 +13,22 @@
     "lbl:latitude":33.451567,
     "lbl:longitude":-112.069886,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Phoenix",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688719,
         102191575,
         85633793,
+        102087421,
         85917479,
-        102087421
+        85688719
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12794388"
     },
     "wof:country":"US",
-    "wof:geomhash":"80b84ed2fe2f393bd304873262a463fa",
+    "wof:geomhash":"19589f0dfa5c05ff9ec1fc7fae0e62fd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +40,7 @@
         }
     ],
     "wof:id":554750227,
-    "wof:lastmodified":1480786583,
+    "wof:lastmodified":1611184532,
     "wof:name":"85004",
     "wof:parent_id":85917479,
     "wof:placetype":"postalcode",

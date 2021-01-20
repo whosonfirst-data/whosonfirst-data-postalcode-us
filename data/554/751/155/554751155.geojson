@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014429,
-    "geom:area_square_m":144631514.723484,
+    "geom:area_square_m":144631514.723691,
     "geom:bbox":"-106.418855,35.781696,-106.171656,35.913289",
     "geom:latitude":35.84234,
     "geom:longitude":-106.29079,
@@ -13,19 +13,24 @@
     "lbl:latitude":35.840713,
     "lbl:longitude":-106.28809,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Los Alamos",
+    "mz:postal_locality_alt":[
+        "Santa Fe"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688493,
-        102081197
+        102081197,
+        85688493
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795071"
     },
     "wof:country":"US",
-    "wof:geomhash":"c7757c4af0fea37dc83392ca6e6d85fd",
+    "wof:geomhash":"3f8b20f72f1bfd1b7399f6210b097ac0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +41,7 @@
         }
     ],
     "wof:id":554751155,
-    "wof:lastmodified":1480832116,
+    "wof:lastmodified":1611184347,
     "wof:name":"87544",
     "wof:parent_id":102081197,
     "wof:placetype":"postalcode",

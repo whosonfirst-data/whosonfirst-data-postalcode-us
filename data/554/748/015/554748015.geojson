@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001257,
-    "geom:area_square_m":11953132.561223,
+    "geom:area_square_m":11953132.561215,
     "geom:bbox":"-105.092567,39.724561,-105.0521,39.762099",
     "geom:latitude":39.742099,
     "geom:longitude":-105.071172,
@@ -13,20 +13,27 @@
     "lbl:latitude":39.743312,
     "lbl:longitude":-105.069025,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lakewood",
+    "mz:postal_locality_alt":[
+        "Denver",
+        "Edgewater",
+        "Wheat Ridge"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688603,
         102191575,
         85633793,
+        102084113,
         85929751,
-        102084113
+        85688603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12792953"
     },
     "wof:country":"US",
-    "wof:geomhash":"bf25e58801f78f3aec306b095f9c9335",
+    "wof:geomhash":"227fd620d7689063ec4da4b4b130a646",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +45,7 @@
         }
     ],
     "wof:id":554748015,
-    "wof:lastmodified":1480911601,
+    "wof:lastmodified":1611183824,
     "wof:name":"80214",
     "wof:parent_id":85929751,
     "wof:placetype":"postalcode",

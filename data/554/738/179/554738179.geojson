@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049749,
-    "geom:area_square_m":474804126.855264,
+    "geom:area_square_m":474804126.855403,
     "geom:bbox":"-96.351373,39.336971,-96.07256,39.609704",
     "geom:latitude":39.479834,
     "geom:longitude":-96.219507,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.480218,
     "lbl:longitude":-96.218995,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Onaga",
+    "mz:postal_locality_alt":[
+        "Overbrook"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404505563,
         85633793,
-        102082663
+        102082663,
+        404505563,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786877"
     },
     "wof:country":"US",
-    "wof:geomhash":"c5c33cba57582024ddd7340dea94960a",
+    "wof:geomhash":"a523835f7aff2fa810c27345ed5551cb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554738179,
-    "wof:lastmodified":1480841433,
+    "wof:lastmodified":1611183126,
     "wof:name":"66521",
     "wof:parent_id":404505563,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003123,
-    "geom:area_square_m":30044334.183948,
+    "geom:area_square_m":30044334.183958,
     "geom:bbox":"-76.750822,38.897723,-76.672871,38.955845",
     "geom:latitude":38.927249,
     "geom:longitude":-76.715037,
@@ -13,20 +13,25 @@
     "lbl:latitude":38.926428,
     "lbl:longitude":-76.715028,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bowie",
+    "mz:postal_locality_alt":[
+        "Mitchellville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688501,
         102191575,
         85633793,
+        102082191,
         85950017,
-        102082191
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766265"
     },
     "wof:country":"US",
-    "wof:geomhash":"b387478c553b0d745b9814272d62056a",
+    "wof:geomhash":"70a9074e0b0c48032e19bcef873635cd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554706947,
-    "wof:lastmodified":1480843200,
+    "wof:lastmodified":1611182698,
     "wof:name":"20716",
     "wof:parent_id":85950017,
     "wof:placetype":"postalcode",

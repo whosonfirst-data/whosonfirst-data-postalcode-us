@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002084,
-    "geom:area_square_m":22767507.650893,
+    "geom:area_square_m":22767507.650905,
     "geom:bbox":"-82.829225,27.922397,-82.761915,27.975954",
     "geom:latitude":27.944727,
     "geom:longitude":-82.79274,
@@ -13,20 +13,25 @@
     "lbl:latitude":27.945591,
     "lbl:longitude":-82.793988,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Clearwater",
+    "mz:postal_locality_alt":[
+        "Belleair"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688651,
         102191575,
         85633793,
+        102085759,
         85931903,
-        102085759
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12772497"
     },
     "wof:country":"US",
-    "wof:geomhash":"20397b5787318e100546b7a1163317f4",
+    "wof:geomhash":"6500ca0ccea103e9a44235e497514913",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554781913,
-    "wof:lastmodified":1480807074,
+    "wof:lastmodified":1611184823,
     "wof:name":"33756",
     "wof:parent_id":85931903,
     "wof:placetype":"postalcode",

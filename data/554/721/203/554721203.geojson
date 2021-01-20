@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004403,
-    "geom:area_square_m":40983347.91459,
+    "geom:area_square_m":40983347.914601,
     "geom:bbox":"-80.741146,41.133662,-80.616828,41.21732",
     "geom:latitude":41.173276,
     "geom:longitude":-80.680069,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.177714,
     "lbl:longitude":-80.682148,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Girard",
+    "mz:postal_locality_alt":[
+        "Cortland"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404526163,
         85633793,
-        102083719
+        102083719,
+        404526163,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776791"
     },
     "wof:country":"US",
-    "wof:geomhash":"6fe66ac3a501653998a65e8864fa2a5c",
+    "wof:geomhash":"4582cf94e770fe3002d9a2d361cbb50a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554721203,
-    "wof:lastmodified":1480841912,
+    "wof:lastmodified":1611184955,
     "wof:name":"44420",
     "wof:parent_id":404526163,
     "wof:placetype":"postalcode",

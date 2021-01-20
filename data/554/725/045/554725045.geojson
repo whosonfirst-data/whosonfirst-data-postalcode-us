@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024876,
-    "geom:area_square_m":224502997.841171,
+    "geom:area_square_m":224502997.841245,
     "geom:bbox":"-85.637631,43.043411,-85.3631,43.199316",
     "geom:latitude":43.124312,
     "geom:longitude":-85.491937,
@@ -13,20 +13,26 @@
     "lbl:latitude":43.124135,
     "lbl:longitude":-85.490928,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Rockford",
+    "mz:postal_locality_alt":[
+        "Kent City",
+        "Belmont"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404509037,
         85633793,
-        102083023
+        102083023,
+        404509037,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779324"
     },
     "wof:country":"US",
-    "wof:geomhash":"974b856fc9f70ee452ccef3cc992adc8",
+    "wof:geomhash":"87c5f3bd73a56677b0fdc73456c67db5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554725045,
-    "wof:lastmodified":1480838019,
+    "wof:lastmodified":1611183276,
     "wof:name":"49341",
     "wof:parent_id":404509037,
     "wof:placetype":"postalcode",

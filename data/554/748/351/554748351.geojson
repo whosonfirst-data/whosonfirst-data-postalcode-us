@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.107647,
-    "geom:area_square_m":1036744092.429463,
+    "geom:area_square_m":1036744092.429581,
     "geom:bbox":"-102.354037,38.614886,-102.044792,39.047082",
     "geom:latitude":38.842184,
     "geom:longitude":-102.173586,
@@ -14,19 +14,24 @@
     "lbl:latitude":38.836946,
     "lbl:longitude":-102.173384,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Arapahoe",
+    "mz:postal_locality_alt":[
+        "Cheyenne Wells"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688603,
-        102084045
+        102084045,
+        85688603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12793197"
     },
     "wof:country":"US",
-    "wof:geomhash":"1596ddf84901cad4365be29c733fc1d5",
+    "wof:geomhash":"f2f80bac4108f5a88e2b5a95675a176a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554748351,
-    "wof:lastmodified":1480815727,
+    "wof:lastmodified":1611183848,
     "wof:name":"80802",
     "wof:parent_id":102084045,
     "wof:placetype":"postalcode",

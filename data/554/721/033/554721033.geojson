@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002132,
-    "geom:area_square_m":19775086.361947,
+    "geom:area_square_m":19775086.36194,
     "geom:bbox":"-81.885798,41.386401,-81.78094,41.419914",
     "geom:latitude":41.402271,
     "geom:longitude":-81.825178,
@@ -14,21 +14,26 @@
     "lbl:latitude":41.399662,
     "lbl:longitude":-81.834332,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cleveland",
+    "mz:postal_locality_alt":[
+        "Brook Park"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404525057,
         85633793,
+        102084837,
+        404525057,
         101712553,
-        102084837
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776668"
     },
     "wof:country":"US",
-    "wof:geomhash":"e02c4c1792e5b72bd7482ec7dfc05d61",
+    "wof:geomhash":"a19490b190066b502f5760d01a112db1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554721033,
-    "wof:lastmodified":1480799989,
+    "wof:lastmodified":1611184975,
     "wof:name":"44142",
     "wof:parent_id":101712553,
     "wof:placetype":"postalcode",

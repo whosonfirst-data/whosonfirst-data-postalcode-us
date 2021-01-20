@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006015,
-    "geom:area_square_m":57708777.204093,
+    "geom:area_square_m":57708777.204036,
     "geom:bbox":"-77.302861,39.063503,-77.1876,39.161293",
     "geom:latitude":39.112517,
     "geom:longitude":-77.25145,
@@ -13,20 +13,26 @@
     "lbl:latitude":39.112899,
     "lbl:longitude":-77.250526,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Gaithersburg",
+    "mz:postal_locality_alt":[
+        "North Potomac",
+        "Rockville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688501,
         102191575,
         85633793,
+        102082719,
         85950267,
-        102082719
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766369"
     },
     "wof:country":"US",
-    "wof:geomhash":"0c5270a2c89cc19e4086507a46307067",
+    "wof:geomhash":"4e015250f5f731d28447b13c1788eca1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554707087,
-    "wof:lastmodified":1480795128,
+    "wof:lastmodified":1611183158,
     "wof:name":"20878",
     "wof:parent_id":85950267,
     "wof:placetype":"postalcode",

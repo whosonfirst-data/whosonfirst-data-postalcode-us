@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010103,
-    "geom:area_square_m":88946130.77508,
+    "geom:area_square_m":88946130.775068,
     "geom:bbox":"-73.097327,44.550286,-72.933716,44.651157",
     "geom:latitude":44.602399,
     "geom:longitude":-73.005213,
@@ -14,20 +14,22 @@
     "lbl:latitude":44.607422,
     "lbl:longitude":-73.003642,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Westford",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688763,
         102191575,
-        404527249,
         85633793,
-        102087451
+        102087451,
+        404527249,
+        85688763
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760023"
     },
     "wof:country":"US",
-    "wof:geomhash":"700ed4855899c2db0053108a984200d3",
+    "wof:geomhash":"cbe11c48d4ff82afb5637fdf5a1c5c2e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554699015,
-    "wof:lastmodified":1480903697,
+    "wof:lastmodified":1611184604,
     "wof:name":"05494",
     "wof:parent_id":404527249,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03186,
-    "geom:area_square_m":320610854.759669,
+    "geom:area_square_m":320610854.759768,
     "geom:bbox":"-97.870239,35.399203,-97.671218,35.652931",
     "geom:latitude":35.528257,
     "geom:longitude":-97.762347,
@@ -13,20 +13,27 @@
     "lbl:latitude":35.527369,
     "lbl:longitude":-97.78251,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Yukon",
+    "mz:postal_locality_alt":[
+        "Oklahoma City",
+        "Cyril",
+        "Amber"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688585,
         102191575,
         85633793,
+        102083973,
         101714909,
-        102083973
+        85688585
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12789616"
     },
     "wof:country":"US",
-    "wof:geomhash":"88e0562b1b40280bde1a0c16d62e5580",
+    "wof:geomhash":"2086aab2841c27b90173f974037c6218",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +45,7 @@
         }
     ],
     "wof:id":554742977,
-    "wof:lastmodified":1480840013,
+    "wof:lastmodified":1611185226,
     "wof:name":"73099",
     "wof:parent_id":101714909,
     "wof:placetype":"postalcode",

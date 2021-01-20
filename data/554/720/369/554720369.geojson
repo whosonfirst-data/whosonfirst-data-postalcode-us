@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011825,
-    "geom:area_square_m":112993957.737432,
+    "geom:area_square_m":112993957.737546,
     "geom:bbox":"-82.698753,39.328823,-82.523041,39.46063",
     "geom:latitude":39.394446,
     "geom:longitude":-82.614818,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.389719,
     "lbl:longitude":-82.623823,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"S Bloomingville",
+    "mz:postal_locality_alt":[
+        "South Bloomingville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404523863,
         85633793,
-        102083709
+        102083709,
+        404523863,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776183"
     },
     "wof:country":"US",
-    "wof:geomhash":"aad05810bed65332959b039b6aeee1a6",
+    "wof:geomhash":"a2282b645c3f5568850b919dc903ad4d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554720369,
-    "wof:lastmodified":1480843209,
+    "wof:lastmodified":1611185471,
     "wof:name":"43152",
     "wof:parent_id":404523863,
     "wof:placetype":"postalcode",

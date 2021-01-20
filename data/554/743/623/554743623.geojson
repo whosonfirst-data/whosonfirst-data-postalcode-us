@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000706,
-    "geom:area_square_m":7050131.80173,
+    "geom:area_square_m":7050131.801731,
     "geom:bbox":"-95.970417,36.13323,-95.940281,36.160214",
     "geom:latitude":36.146466,
     "geom:longitude":-95.954002,
@@ -13,20 +13,25 @@
     "lbl:latitude":36.146466,
     "lbl:longitude":-95.954002,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Tulsa",
+    "mz:postal_locality_alt":[
+        "Broken Arrow"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688585,
         102191575,
         85633793,
+        102083277,
         101714287,
-        102083277
+        85688585
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12789983"
     },
     "wof:country":"US",
-    "wof:geomhash":"36756255a6be208066246d31d9e21925",
+    "wof:geomhash":"443e14f153315c2e59b588ebf2d35fef",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554743623,
-    "wof:lastmodified":1480838391,
+    "wof:lastmodified":1611184790,
     "wof:name":"74104",
     "wof:parent_id":101714287,
     "wof:placetype":"postalcode",

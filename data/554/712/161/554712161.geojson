@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004966,
-    "geom:area_square_m":50312023.955766,
+    "geom:area_square_m":50312023.955886,
     "geom:bbox":"-82.157092,34.911211,-82.043754,35.036576",
     "geom:latitude":34.973396,
     "geom:longitude":-82.099676,
@@ -14,20 +14,25 @@
     "lbl:latitude":34.972963,
     "lbl:longitude":-82.101416,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wellford",
+    "mz:postal_locality_alt":[
+        "Lyman"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688683,
         102191575,
         85633793,
+        102085437,
         101721207,
-        102085437
+        85688683
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770146"
     },
     "wof:country":"US",
-    "wof:geomhash":"68335dd78181f2b05603f17a1d77bdfc",
+    "wof:geomhash":"242fdc616b9a498152e3eb93b6ab78dc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554712161,
-    "wof:lastmodified":1480814013,
+    "wof:lastmodified":1611183693,
     "wof:name":"29385",
     "wof:parent_id":101721207,
     "wof:placetype":"postalcode",

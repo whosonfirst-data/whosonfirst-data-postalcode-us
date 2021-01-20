@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016039,
-    "geom:area_square_m":162977316.98793,
+    "geom:area_square_m":162977316.988034,
     "geom:bbox":"-82.900282,34.662875,-82.69605,34.809726",
     "geom:latitude":34.740275,
     "geom:longitude":-82.798651,
@@ -14,19 +14,24 @@
     "lbl:latitude":34.738673,
     "lbl:longitude":-82.799161,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Central",
+    "mz:postal_locality_alt":[
+        "Anderson"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688683,
-        102085671
+        102085671,
+        85688683
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770315"
     },
     "wof:country":"US",
-    "wof:geomhash":"a2ea6779d682ef06a0a5e4536261a55d",
+    "wof:geomhash":"70b08189b41015fde5e3fef21b306604",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554712393,
-    "wof:lastmodified":1480808031,
+    "wof:lastmodified":1611183720,
     "wof:name":"29630",
     "wof:parent_id":102085671,
     "wof:placetype":"postalcode",

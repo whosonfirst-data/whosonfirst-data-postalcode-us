@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013074,
-    "geom:area_square_m":119690194.017425,
+    "geom:area_square_m":119690194.017436,
     "geom:bbox":"-79.592267,42.128604,-79.431788,42.335079",
     "geom:latitude":42.236731,
     "geom:longitude":-79.504159,
@@ -14,20 +14,25 @@
     "lbl:latitude":42.237679,
     "lbl:longitude":-79.504709,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mayville",
+    "mz:postal_locality_alt":[
+        "Chautauqua"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404521949,
         85633793,
-        102081811
+        102081811,
+        404521949,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763424"
     },
     "wof:country":"US",
-    "wof:geomhash":"63e436af5cdc15d235751e5abfcce8c1",
+    "wof:geomhash":"277c41a85f6ba2c04f2bfbeeecc55cc1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554703151,
-    "wof:lastmodified":1480823114,
+    "wof:lastmodified":1611184449,
     "wof:name":"14757",
     "wof:parent_id":404521949,
     "wof:placetype":"postalcode",

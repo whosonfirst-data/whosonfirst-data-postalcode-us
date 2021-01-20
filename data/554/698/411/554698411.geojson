@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011877,
-    "geom:area_square_m":103883811.80765,
+    "geom:area_square_m":103883811.807621,
     "geom:bbox":"-69.086231,44.926955,-68.936597,45.033836",
     "geom:latitude":44.980544,
     "geom:longitude":-69.01088,
@@ -14,20 +14,26 @@
     "lbl:latitude":44.980538,
     "lbl:longitude":-69.01088,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Corinth",
+    "mz:postal_locality_alt":[
+        "East Corinth",
+        "Greenbush"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404475161,
         85633793,
-        102080723
+        102080723,
+        404475161,
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759567"
     },
     "wof:country":"US",
-    "wof:geomhash":"46832a30cdd07c8db70d9a2243333c75",
+    "wof:geomhash":"317308cd2caab3577a41d79d538e21b3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554698411,
-    "wof:lastmodified":1480906066,
+    "wof:lastmodified":1611184697,
     "wof:name":"04427",
     "wof:parent_id":404475161,
     "wof:placetype":"postalcode",

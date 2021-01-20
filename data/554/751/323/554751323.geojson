@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.356299,
-    "geom:area_square_m":3709485428.283714,
+    "geom:area_square_m":3709485428.28556,
     "geom:bbox":"-108.689713,32.001567,-107.991768,33.201545",
     "geom:latitude":32.649818,
     "geom:longitude":-108.330155,
@@ -13,19 +13,28 @@
     "lbl:latitude":32.654196,
     "lbl:longitude":-108.333572,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Silver City",
+    "mz:postal_locality_alt":[
+        "Arenas Valley",
+        "Animas",
+        "Santa Clara",
+        "Gila",
+        "Tyrone"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688493,
-        102081167
+        102081167,
+        85688493
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795202"
     },
     "wof:country":"US",
-    "wof:geomhash":"7f4438fbc6420b116f678cdb92183cff",
+    "wof:geomhash":"9d499732bfeefa8152571c99e6b151ef",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +45,7 @@
         }
     ],
     "wof:id":554751323,
-    "wof:lastmodified":1480832843,
+    "wof:lastmodified":1611184340,
     "wof:name":"88061",
     "wof:parent_id":102081167,
     "wof:placetype":"postalcode",

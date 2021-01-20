@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018656,
-    "geom:area_square_m":164339347.324927,
+    "geom:area_square_m":164339347.324908,
     "geom:bbox":"-96.804897,44.499315,-96.581652,44.630655",
     "geom:latitude":44.569756,
     "geom:longitude":-96.690771,
@@ -14,20 +14,25 @@
     "lbl:latitude":44.567964,
     "lbl:longitude":-96.689414,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Toronto",
+    "mz:postal_locality_alt":[
+        "Milbank"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688693,
         102191575,
-        404489813,
         85633793,
-        102086025
+        102086025,
+        404489813,
+        85688693
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782835"
     },
     "wof:country":"US",
-    "wof:geomhash":"a3e8c2d1825005ee630441c5ffbe0703",
+    "wof:geomhash":"f7b47d62471004c96ee0161af3b6ceb5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554731041,
-    "wof:lastmodified":1480913564,
+    "wof:lastmodified":1611183061,
     "wof:name":"57268",
     "wof:parent_id":404489813,
     "wof:placetype":"postalcode",

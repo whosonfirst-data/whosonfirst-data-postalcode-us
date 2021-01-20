@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001323,
-    "geom:area_square_m":13536256.231591,
+    "geom:area_square_m":13536256.231564,
     "geom:bbox":"-118.422502,34.119038,-118.360807,34.156791",
     "geom:latitude":34.138812,
     "geom:longitude":-118.393488,
@@ -13,20 +13,28 @@
     "lbl:latitude":34.140822,
     "lbl:longitude":-118.392864,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Studio City",
+    "mz:postal_locality_alt":[
+        "Los Angeles",
+        "Universal City",
+        "San Fernando Valley",
+        "North Hollywood"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086957,
         85923517,
-        102086957
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796068"
     },
     "wof:country":"US",
-    "wof:geomhash":"4b0d18613b21acfdeec5e19381faa0af",
+    "wof:geomhash":"f3abf1175f5e9fdb828a456536776416",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +46,7 @@
         }
     ],
     "wof:id":554784231,
-    "wof:lastmodified":1480912620,
+    "wof:lastmodified":1611183953,
     "wof:name":"91604",
     "wof:parent_id":85923517,
     "wof:placetype":"postalcode",

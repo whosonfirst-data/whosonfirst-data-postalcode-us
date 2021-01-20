@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011324,
-    "geom:area_square_m":115779172.068467,
+    "geom:area_square_m":115779172.068422,
     "geom:bbox":"-81.859653,34.173101,-81.673662,34.283984",
     "geom:latitude":34.220674,
     "geom:longitude":-81.77412,
@@ -14,19 +14,25 @@
     "lbl:latitude":34.228719,
     "lbl:longitude":-81.766201,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Silverstreet",
+    "mz:postal_locality_alt":[
+        "Turbeville",
+        "Newberry"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688683,
-        102085715
+        102085715,
+        85688683
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770037"
     },
     "wof:country":"US",
-    "wof:geomhash":"0080aa10a02f10ad89da41042f8abef6",
+    "wof:geomhash":"53a4f1965674d27351c73ef818d69dd4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554712023,
-    "wof:lastmodified":1480806178,
+    "wof:lastmodified":1611183697,
     "wof:name":"29145",
     "wof:parent_id":102085715,
     "wof:placetype":"postalcode",

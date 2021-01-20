@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008358,
-    "geom:area_square_m":76842267.485721,
+    "geom:area_square_m":76842267.485708,
     "geom:bbox":"-71.799242,41.925614,-71.66675,42.010724",
     "geom:latitude":41.966718,
     "geom:longitude":-71.745222,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.959073,
     "lbl:longitude":-71.757323,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pascoag",
+    "mz:postal_locality_alt":[
+        "Lincoln"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688509,
         102191575,
-        404488325,
         85633793,
-        102081597
+        102081597,
+        404488325,
+        85688509
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759022"
     },
     "wof:country":"US",
-    "wof:geomhash":"4daffb9c142c16d742b8b2951e36a058",
+    "wof:geomhash":"1db0ab9e26a618bc79cb8ec008c64a8b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554697607,
-    "wof:lastmodified":1480817074,
+    "wof:lastmodified":1611184661,
     "wof:name":"02859",
     "wof:parent_id":404488325,
     "wof:placetype":"postalcode",

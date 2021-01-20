@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005332,
-    "geom:area_square_m":57951565.702224,
+    "geom:area_square_m":57951565.702196,
     "geom:bbox":"-82.548661,28.433683,-82.476702,28.53382",
     "geom:latitude":28.479331,
     "geom:longitude":-82.508191,
@@ -13,20 +13,25 @@
     "lbl:latitude":28.479475,
     "lbl:longitude":-82.507906,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Spring Hill",
+    "mz:postal_locality_alt":[
+        "Brooksville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688651,
         102191575,
         85633793,
+        102085827,
         85935469,
-        102085827
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12772791"
     },
     "wof:country":"US",
-    "wof:geomhash":"f16a0a003bd652815c411768b2aaea7f",
+    "wof:geomhash":"d69a15b498740c49ddc9a01ee4413b62",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554715007,
-    "wof:lastmodified":1480814937,
+    "wof:lastmodified":1611183651,
     "wof:name":"34609",
     "wof:parent_id":85935469,
     "wof:placetype":"postalcode",

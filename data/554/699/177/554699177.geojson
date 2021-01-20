@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012195,
-    "geom:area_square_m":107086348.053227,
+    "geom:area_square_m":107086348.053265,
     "geom:bbox":"-72.254691,44.683714,-72.039421,44.805535",
     "geom:latitude":44.750428,
     "geom:longitude":-72.142764,
@@ -14,20 +14,25 @@
     "lbl:latitude":44.751643,
     "lbl:longitude":-72.140274,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Barton",
+    "mz:postal_locality_alt":[
+        "Orleans"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688763,
         102191575,
-        404527193,
         85633793,
-        102087443
+        102087443,
+        404527193,
+        85688763
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760118"
     },
     "wof:country":"US",
-    "wof:geomhash":"e992d594e45c2f3317eeb1c35038a3c1",
+    "wof:geomhash":"a51ea68a296b731fd2ae8deb29d38724",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554699177,
-    "wof:lastmodified":1480905234,
+    "wof:lastmodified":1611184631,
     "wof:name":"05822",
     "wof:parent_id":404527193,
     "wof:placetype":"postalcode",

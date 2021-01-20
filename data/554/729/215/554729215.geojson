@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049896,
-    "geom:area_square_m":437063669.661744,
+    "geom:area_square_m":437063669.661648,
     "geom:bbox":"-94.584505,44.772189,-94.232619,45.023046",
     "geom:latitude":44.895362,
     "geom:longitude":-94.393895,
@@ -14,21 +14,27 @@
     "lbl:latitude":44.900627,
     "lbl:longitude":-94.391367,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hutchinson",
+    "mz:postal_locality_alt":[
+        "Stewart",
+        "Glencoe"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404512813,
         85633793,
+        102086993,
+        404512813,
         85952561,
-        102086993
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781833"
     },
     "wof:country":"US",
-    "wof:geomhash":"5c0ccb30a22466d343fef014801885a8",
+    "wof:geomhash":"7e587ebc994a85048b04e7ef1aa20dbd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554729215,
-    "wof:lastmodified":1480910377,
+    "wof:lastmodified":1611185431,
     "wof:name":"55350",
     "wof:parent_id":85952561,
     "wof:placetype":"postalcode",

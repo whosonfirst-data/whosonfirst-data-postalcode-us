@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008896,
-    "geom:area_square_m":84149790.926331,
+    "geom:area_square_m":84149790.926285,
     "geom:bbox":"-89.174036,40.034563,-89.052616,40.152493",
     "geom:latitude":40.094956,
     "geom:longitude":-89.110342,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.092849,
     "lbl:longitude":-89.116222,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Kenney",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404496305,
         85633793,
-        102082269
+        102082269,
+        404496305,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784790"
     },
     "wof:country":"US",
-    "wof:geomhash":"e12c2aa32c7480423085b60c2aff0ea6",
+    "wof:geomhash":"dcf4e34282b67c3e568b7a46d5c73505",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554734293,
-    "wof:lastmodified":1480906163,
+    "wof:lastmodified":1611184186,
     "wof:name":"61749",
     "wof:parent_id":404496305,
     "wof:placetype":"postalcode",

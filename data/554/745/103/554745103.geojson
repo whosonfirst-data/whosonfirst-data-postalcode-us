@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012693,
-    "geom:area_square_m":132473233.35602,
+    "geom:area_square_m":132473233.355911,
     "geom:bbox":"-97.155709,32.335852,-97.012479,32.531571",
     "geom:latitude":32.432188,
     "geom:longitude":-97.089457,
@@ -14,19 +14,24 @@
     "lbl:latitude":32.426322,
     "lbl:longitude":-97.090328,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Venus",
+    "mz:postal_locality_alt":[
+        "Granbury"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688753,
-        102081065
+        102081065,
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12790905"
     },
     "wof:country":"US",
-    "wof:geomhash":"ce42df8073732eafd59e6a3efa2705e1",
+    "wof:geomhash":"1bb0823b90b223d91d3c02dbc911db24",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554745103,
-    "wof:lastmodified":1480823663,
+    "wof:lastmodified":1611185253,
     "wof:name":"76084",
     "wof:parent_id":102081065,
     "wof:placetype":"postalcode",

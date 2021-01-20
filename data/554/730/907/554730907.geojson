@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035271,
-    "geom:area_square_m":312276124.103754,
+    "geom:area_square_m":312276124.103823,
     "geom:bbox":"-97.073623,44.138285,-96.828052,44.384216",
     "geom:latitude":44.273549,
     "geom:longitude":-96.960653,
@@ -14,20 +14,25 @@
     "lbl:latitude":44.272806,
     "lbl:longitude":-96.958352,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Volga",
+    "mz:postal_locality_alt":[
+        "Brookings"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688693,
         102191575,
-        404488779,
         85633793,
-        102086013
+        102086013,
+        404488779,
+        85688693
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782756"
     },
     "wof:country":"US",
-    "wof:geomhash":"c00cadd7cef8f6dd3cc26c40f9ba28bf",
+    "wof:geomhash":"0760b763d98033300cd259f92a0938af",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554730907,
-    "wof:lastmodified":1480916967,
+    "wof:lastmodified":1611182719,
     "wof:name":"57071",
     "wof:parent_id":404488779,
     "wof:placetype":"postalcode",

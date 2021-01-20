@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005811,
-    "geom:area_square_m":56194595.001511,
+    "geom:area_square_m":56194595.001551,
     "geom:bbox":"-89.644117,38.487274,-89.497165,38.582755",
     "geom:latitude":38.548778,
     "geom:longitude":-89.56796,
@@ -14,20 +14,25 @@
     "lbl:latitude":38.545339,
     "lbl:longitude":-89.562816,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Germantown",
+    "mz:postal_locality_alt":[
+        "Prairie Du Rchr"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404497475,
         85633793,
-        102087571
+        102087571,
+        404497475,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785021"
     },
     "wof:country":"US",
-    "wof:geomhash":"e2db1712204693e84c5240e7d803e863",
+    "wof:geomhash":"89414c20604024d6ea79c3fd71d149b3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554734735,
-    "wof:lastmodified":1480787635,
+    "wof:lastmodified":1611184194,
     "wof:name":"62245",
     "wof:parent_id":404497475,
     "wof:placetype":"postalcode",

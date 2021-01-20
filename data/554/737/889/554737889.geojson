@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040447,
-    "geom:area_square_m":392206901.873768,
+    "geom:area_square_m":392206901.873801,
     "geom:bbox":"-94.917966,38.262615,-94.612673,38.469348",
     "geom:latitude":38.352701,
     "geom:longitude":-94.743602,
@@ -14,20 +14,26 @@
     "lbl:latitude":38.354477,
     "lbl:longitude":-94.748388,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lacygne",
+    "mz:postal_locality_alt":[
+        "La Cygne",
+        "Centerville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404504547,
         85633793,
-        102083431
+        102083431,
+        404504547,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786727"
     },
     "wof:country":"US",
-    "wof:geomhash":"ccdc244a52eac949f3eb09921a72f873",
+    "wof:geomhash":"e8fbdb9e4b1fdc3fb1b1f463229ae2b3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554737889,
-    "wof:lastmodified":1480836595,
+    "wof:lastmodified":1611182830,
     "wof:name":"66040",
     "wof:parent_id":404504547,
     "wof:placetype":"postalcode",

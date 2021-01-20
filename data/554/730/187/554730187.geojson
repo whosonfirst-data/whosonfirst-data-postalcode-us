@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.076152,
-    "geom:area_square_m":656136894.434688,
+    "geom:area_square_m":656136894.434473,
     "geom:bbox":"-96.67761,45.654335,-96.253918,46.02203",
     "geom:latitude":45.828667,
     "geom:longitude":-96.467488,
@@ -14,20 +14,25 @@
     "lbl:latitude":45.82683,
     "lbl:longitude":-96.462462,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wheaton",
+    "mz:postal_locality_alt":[
+        "Dumont"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404514755,
         85633793,
-        102087679
+        102087679,
+        404514755,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782391"
     },
     "wof:country":"US",
-    "wof:geomhash":"3afd563df7f71631dd1c08d695f655ba",
+    "wof:geomhash":"531bd610ea314d4d7ba866a24512e151",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554730187,
-    "wof:lastmodified":1480917001,
+    "wof:lastmodified":1611182736,
     "wof:name":"56296",
     "wof:parent_id":404514755,
     "wof:placetype":"postalcode",

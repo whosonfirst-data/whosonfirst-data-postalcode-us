@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036694,
-    "geom:area_square_m":379802710.021718,
+    "geom:area_square_m":379802710.021545,
     "geom:bbox":"-98.005927,33.033638,-97.672846,33.280248",
     "geom:latitude":33.166814,
     "geom:longitude":-97.842727,
@@ -14,19 +14,25 @@
     "lbl:latitude":33.166041,
     "lbl:longitude":-97.845101,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bridgeport",
+    "mz:postal_locality_alt":[
+        "Runaway Bay",
+        "Graham"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688753,
-        102085981
+        102085981,
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12791055"
     },
     "wof:country":"US",
-    "wof:geomhash":"7498d8aeb29864074b08ed29feee7e6d",
+    "wof:geomhash":"04c4c2e02fcb54ac95140abb015d6f48",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554745345,
-    "wof:lastmodified":1480823116,
+    "wof:lastmodified":1611185291,
     "wof:name":"76426",
     "wof:parent_id":102085981,
     "wof:placetype":"postalcode",

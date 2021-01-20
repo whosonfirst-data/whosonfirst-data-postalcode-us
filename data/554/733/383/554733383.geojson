@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046319,
-    "geom:area_square_m":429825089.624846,
+    "geom:area_square_m":429825089.62478,
     "geom:bbox":"-88.595378,41.261836,-88.248463,41.480942",
     "geom:latitude":41.369529,
     "geom:longitude":-88.432874,
@@ -14,21 +14,26 @@
     "lbl:latitude":41.366293,
     "lbl:longitude":-88.434561,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Morris",
+    "mz:postal_locality_alt":[
+        "Joliet"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404497247,
         85633793,
+        102086193,
+        404497247,
         85938283,
-        102086193
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784158"
     },
     "wof:country":"US",
-    "wof:geomhash":"14e6dbfef9e86bc5f6b869d5df51623f",
+    "wof:geomhash":"55323e48a30863a46824c60f293a20ca",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554733383,
-    "wof:lastmodified":1480911707,
+    "wof:lastmodified":1611184225,
     "wof:name":"60450",
     "wof:parent_id":85938283,
     "wof:placetype":"postalcode",

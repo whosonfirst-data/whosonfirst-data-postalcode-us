@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022974,
-    "geom:area_square_m":203250338.895692,
+    "geom:area_square_m":203250338.89573,
     "geom:bbox":"-69.170895,44.231475,-68.929614,44.405073",
     "geom:latitude":44.318913,
     "geom:longitude":-69.032751,
@@ -14,20 +14,25 @@
     "lbl:latitude":44.316106,
     "lbl:longitude":-69.025998,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lincolnville",
+    "mz:postal_locality_alt":[
+        "Northport"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404475221,
         85633793,
-        102087445
+        102087445,
+        404475221,
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759771"
     },
     "wof:country":"US",
-    "wof:geomhash":"3978a5db473aa421d700b0076a9856ce",
+    "wof:geomhash":"32415cd54e86bc23a28bd6d86c8e78ac",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554778941,
-    "wof:lastmodified":1480784558,
+    "wof:lastmodified":1611183433,
     "wof:name":"04849",
     "wof:parent_id":404475221,
     "wof:placetype":"postalcode",

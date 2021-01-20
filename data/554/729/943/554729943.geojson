@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028783,
-    "geom:area_square_m":256659241.319337,
+    "geom:area_square_m":256659241.319361,
     "geom:bbox":"-96.547226,43.71827,-96.2392,43.936629",
     "geom:latitude":43.851817,
     "geom:longitude":-96.391764,
@@ -14,21 +14,27 @@
     "lbl:latitude":43.851392,
     "lbl:longitude":-96.392004,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Jasper",
+    "mz:postal_locality_alt":[
+        "Hills",
+        "Steen"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404513525,
         85633793,
+        102087865,
+        404513525,
         85953037,
-        102087865
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782280"
     },
     "wof:country":"US",
-    "wof:geomhash":"323fd0a555f0370cf36b856ea4f3a13d",
+    "wof:geomhash":"a01ed0f41a9085c9fe057e0f775f16e3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554729943,
-    "wof:lastmodified":1480916967,
+    "wof:lastmodified":1611185444,
     "wof:name":"56144",
     "wof:parent_id":85953037,
     "wof:placetype":"postalcode",

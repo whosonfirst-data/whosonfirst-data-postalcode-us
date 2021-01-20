@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001616,
-    "geom:area_square_m":16593234.863781,
+    "geom:area_square_m":16593234.863727,
     "geom:bbox":"-118.03736,33.80983,-117.97833,33.873431",
     "geom:latitude":33.846149,
     "geom:longitude":-118.011707,
@@ -13,20 +13,25 @@
     "lbl:latitude":33.845223,
     "lbl:longitude":-118.015292,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Buena Park",
+    "mz:postal_locality_alt":[
+        "Cypress"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102080847,
         85923163,
-        102080847
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795804"
     },
     "wof:country":"US",
-    "wof:geomhash":"6867d653d37104610ba81a144a424455",
+    "wof:geomhash":"f72de60bb77eae1ed4afc29fd649db8a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554784105,
-    "wof:lastmodified":1480912611,
+    "wof:lastmodified":1611183929,
     "wof:name":"90620",
     "wof:parent_id":85923163,
     "wof:placetype":"postalcode",

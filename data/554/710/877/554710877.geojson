@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049223,
-    "geom:area_square_m":491119719.091836,
+    "geom:area_square_m":491119719.091523,
     "geom:bbox":"-77.944835,36.072788,-77.509049,36.314234",
     "geom:latitude":36.20576,
     "geom:longitude":-77.720038,
@@ -14,19 +14,24 @@
     "lbl:latitude":36.209653,
     "lbl:longitude":-77.713733,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Enfield",
+    "mz:postal_locality_alt":[
+        "Rocky Mount"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688773,
-        102080921
+        102080921,
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12769221"
     },
     "wof:country":"US",
-    "wof:geomhash":"617ea63aaaa1e8d2dab6790f97795c39",
+    "wof:geomhash":"54e27d481b5362761e15bb40e214b41f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554710877,
-    "wof:lastmodified":1480906186,
+    "wof:lastmodified":1611185124,
     "wof:name":"27823",
     "wof:parent_id":102080921,
     "wof:placetype":"postalcode",

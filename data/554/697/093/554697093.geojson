@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00479,
-    "geom:area_square_m":43751120.379856,
+    "geom:area_square_m":43751120.379869,
     "geom:bbox":"-71.928859,42.320879,-71.816887,42.431826",
     "geom:latitude":42.381386,
     "geom:longitude":-71.869118,
@@ -14,20 +14,26 @@
     "lbl:latitude":42.375634,
     "lbl:longitude":-71.867382,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Jefferson",
+    "mz:postal_locality_alt":[
+        "Auburn",
+        "Holden"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476063,
         85633793,
-        102084655
+        102084655,
+        404476063,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758486"
     },
     "wof:country":"US",
-    "wof:geomhash":"25e7404374c7f1878664536f07d4e8f9",
+    "wof:geomhash":"ec069a43af9e6af5e0445176946eea81",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554697093,
-    "wof:lastmodified":1480803783,
+    "wof:lastmodified":1611184661,
     "wof:name":"01522",
     "wof:parent_id":404476063,
     "wof:placetype":"postalcode",

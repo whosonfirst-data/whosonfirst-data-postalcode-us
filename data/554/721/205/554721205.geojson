@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007602,
-    "geom:area_square_m":71209811.709144,
+    "geom:area_square_m":71209811.709108,
     "geom:bbox":"-80.96328,40.676839,-80.828357,40.824954",
     "geom:latitude":40.752696,
     "geom:longitude":-80.900801,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.74852,
     "lbl:longitude":-80.895947,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hanoverton",
+    "mz:postal_locality_alt":[
+        "New Middletown"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404525073,
         85633793,
-        102083745
+        102083745,
+        404525073,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776793"
     },
     "wof:country":"US",
-    "wof:geomhash":"db89d66df5233805d888ad9a8969665d",
+    "wof:geomhash":"901cc16942ed7fa3f55ef37c66a57e27",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554721205,
-    "wof:lastmodified":1480841633,
+    "wof:lastmodified":1611184957,
     "wof:name":"44423",
     "wof:parent_id":404525073,
     "wof:placetype":"postalcode",

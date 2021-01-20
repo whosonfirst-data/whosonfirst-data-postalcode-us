@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004693,
-    "geom:area_square_m":43526754.035876,
+    "geom:area_square_m":43526754.03589,
     "geom:bbox":"-72.538782,41.376179,-72.425102,41.433665",
     "geom:latitude":41.405938,
     "geom:longitude":-72.483194,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.411728,
     "lbl:longitude":-72.487146,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Chester",
+    "mz:postal_locality_alt":[
+        "Fairfield"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688629,
         102191575,
-        404496055,
         85633793,
-        102086211
+        102086211,
+        404496055,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760383"
     },
     "wof:country":"US",
-    "wof:geomhash":"1cbb807861fc679abdcb9229a618a752",
+    "wof:geomhash":"894e726f16fc9f45405661ddf43cc41d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554699549,
-    "wof:lastmodified":1480908719,
+    "wof:lastmodified":1611184630,
     "wof:name":"06412",
     "wof:parent_id":404496055,
     "wof:placetype":"postalcode",

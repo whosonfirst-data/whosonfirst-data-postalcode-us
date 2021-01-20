@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002985,
-    "geom:area_square_m":33285379.05043,
+    "geom:area_square_m":33285379.050419,
     "geom:bbox":"-80.430709,25.565869,-80.376297,25.628612",
     "geom:latitude":25.59678,
     "geom:longitude":-80.404586,
@@ -13,20 +13,22 @@
     "lbl:latitude":25.596129,
     "lbl:longitude":-80.404195,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Miami",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688651,
         102191575,
         85633793,
+        102085771,
         85935931,
-        102085771
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12772186"
     },
     "wof:country":"US",
-    "wof:geomhash":"e4dd6fb851acf5368b7808ee3865e97f",
+    "wof:geomhash":"8d13815aa8dc9971cb981d9d3be85f13",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +40,7 @@
         }
     ],
     "wof:id":554781615,
-    "wof:lastmodified":1480806627,
+    "wof:lastmodified":1611184830,
     "wof:name":"33177",
     "wof:parent_id":85935931,
     "wof:placetype":"postalcode",

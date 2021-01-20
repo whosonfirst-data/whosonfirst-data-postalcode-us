@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002217,
-    "geom:area_square_m":22945603.194933,
+    "geom:area_square_m":22945603.194926,
     "geom:bbox":"-117.288516,33.130865,-117.207111,33.194785",
     "geom:latitude":33.164377,
     "geom:longitude":-117.240274,
@@ -13,20 +13,25 @@
     "lbl:latitude":33.164374,
     "lbl:longitude":-117.24027,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Vista",
+    "mz:postal_locality_alt":[
+        "Oceanside"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102083569,
         85922205,
-        102083569
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"23510140"
     },
     "wof:country":"US",
-    "wof:geomhash":"eef5b99fe46bf128ff3dadfb07fcaa24",
+    "wof:geomhash":"1f25f7bd89cfcd34624cc4eeb2b2b500",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554785433,
-    "wof:lastmodified":1480835296,
+    "wof:lastmodified":1611183512,
     "wof:name":"92081",
     "wof:parent_id":85922205,
     "wof:placetype":"postalcode",

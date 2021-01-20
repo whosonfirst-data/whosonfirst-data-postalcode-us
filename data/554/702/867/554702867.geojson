@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017421,
-    "geom:area_square_m":156997041.010393,
+    "geom:area_square_m":156997041.010368,
     "geom:bbox":"-78.016755,43.132838,-77.834568,43.296613",
     "geom:latitude":43.212048,
     "geom:longitude":-77.934588,
@@ -14,21 +14,30 @@
     "lbl:latitude":43.211739,
     "lbl:longitude":-77.934564,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Brockport",
+    "mz:postal_locality_alt":[
+        "Rochester",
+        "Spencerport",
+        "Geneseo",
+        "Fairport",
+        "Greece"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522655,
         85633793,
+        102081815,
+        404522655,
         85977595,
-        102081815
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763219"
     },
     "wof:country":"US",
-    "wof:geomhash":"0946aadb4eb30871c4bb15b2f8f8f153",
+    "wof:geomhash":"6cc47dc01f4a2e7e37b051f85b1cbe74",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +50,7 @@
         }
     ],
     "wof:id":554702867,
-    "wof:lastmodified":1480834547,
+    "wof:lastmodified":1611184146,
     "wof:name":"14420",
     "wof:parent_id":85977595,
     "wof:placetype":"postalcode",

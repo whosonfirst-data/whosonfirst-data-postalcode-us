@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.065694,
-    "geom:area_square_m":685470101.48096,
+    "geom:area_square_m":685470101.480953,
     "geom:bbox":"-91.117308,32.338776,-90.553821,32.576271",
     "geom:latitude":32.452272,
     "geom:longitude":-90.806612,
@@ -13,19 +13,25 @@
     "lbl:latitude":32.447078,
     "lbl:longitude":-90.80661,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Vicksburg",
+    "mz:postal_locality_alt":[
+        "Madison",
+        "Yazoo City"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688579,
-        102083779
+        102083779,
+        85688579
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12774842"
     },
     "wof:country":"US",
-    "wof:geomhash":"2b2fb4beeea7dafb1ec9b3154cfaa5bd",
+    "wof:geomhash":"dc2928e9d24b51518ce1e9b2b8b04cc2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +42,7 @@
         }
     ],
     "wof:id":554718215,
-    "wof:lastmodified":1480910226,
+    "wof:lastmodified":1611185576,
     "wof:name":"39183",
     "wof:parent_id":102083779,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017864,
-    "geom:area_square_m":177563277.952887,
+    "geom:area_square_m":177563277.952969,
     "geom:bbox":"-79.866455,36.426847,-79.605369,36.542679",
     "geom:latitude":36.499097,
     "geom:longitude":-79.746578,
@@ -13,20 +13,25 @@
     "lbl:latitude":36.497645,
     "lbl:longitude":-79.750015,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Eden",
+    "mz:postal_locality_alt":[
+        "Ruffin"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688773,
         102191575,
         85633793,
+        102087893,
         85981305,
-        102087893
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12768988"
     },
     "wof:country":"US",
-    "wof:geomhash":"3d0dfba387cbe790770b6c33abb670d0",
+    "wof:geomhash":"03615feb72c0c42da2f36f1421dbe650",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554710569,
-    "wof:lastmodified":1480908948,
+    "wof:lastmodified":1611185099,
     "wof:name":"27288",
     "wof:parent_id":85981305,
     "wof:placetype":"postalcode",

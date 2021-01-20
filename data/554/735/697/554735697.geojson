@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024176,
-    "geom:area_square_m":234729001.396318,
+    "geom:area_square_m":234729001.396271,
     "geom:bbox":"-90.694223,38.169458,-90.45447,38.362688",
     "geom:latitude":38.259746,
     "geom:longitude":-90.577819,
@@ -14,20 +14,25 @@
     "lbl:latitude":38.258066,
     "lbl:longitude":-90.57979,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hillsboro",
+    "mz:postal_locality_alt":[
+        "Festus"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404518157,
         85633793,
-        102080787
+        102080787,
+        404518157,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785558"
     },
     "wof:country":"US",
-    "wof:geomhash":"b943211cf91f98a70c93bca779025160",
+    "wof:geomhash":"9d5a7797c4224337244bd49b9016542f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554735697,
-    "wof:lastmodified":1480903432,
+    "wof:lastmodified":1611184437,
     "wof:name":"63050",
     "wof:parent_id":404518157,
     "wof:placetype":"postalcode",

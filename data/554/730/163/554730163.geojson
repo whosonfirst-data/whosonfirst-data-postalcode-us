@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041422,
-    "geom:area_square_m":363529430.252148,
+    "geom:area_square_m":363529430.251999,
     "geom:bbox":"-95.300288,44.61902,-95.116909,44.935164",
     "geom:latitude":44.784672,
     "geom:longitude":-95.202324,
@@ -14,20 +14,25 @@
     "lbl:latitude":44.781891,
     "lbl:longitude":-95.198352,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Renville",
+    "mz:postal_locality_alt":[
+        "Clinton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404512469,
         85633793,
-        102087655
+        102087655,
+        404512469,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782381"
     },
     "wof:country":"US",
-    "wof:geomhash":"2710e8fe9cd9442b8f2d8ecfef0f88d4",
+    "wof:geomhash":"b29a35afe8b363574ea7fe844addb306",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554730163,
-    "wof:lastmodified":1480789132,
+    "wof:lastmodified":1611182743,
     "wof:name":"56284",
     "wof:parent_id":404512469,
     "wof:placetype":"postalcode",

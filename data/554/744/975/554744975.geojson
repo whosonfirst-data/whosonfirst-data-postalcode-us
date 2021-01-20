@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035647,
-    "geom:area_square_m":374217913.652793,
+    "geom:area_square_m":374217913.652153,
     "geom:bbox":"-94.581787,31.751924,-94.28689,32.026993",
     "geom:latitude":31.897362,
     "geom:longitude":-94.413023,
@@ -14,20 +14,22 @@
     "lbl:latitude":31.897137,
     "lbl:longitude":-94.413785,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Timpson",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102081125,
         101725627,
-        102081125
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12790841"
     },
     "wof:country":"US",
-    "wof:geomhash":"172f832d3a900fe065593558f4e00065",
+    "wof:geomhash":"b96ed525929736bed6afe0c4b7794994",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554744975,
-    "wof:lastmodified":1480911199,
+    "wof:lastmodified":1611184755,
     "wof:name":"75975",
     "wof:parent_id":101725627,
     "wof:placetype":"postalcode",

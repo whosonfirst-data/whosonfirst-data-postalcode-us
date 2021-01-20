@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00068,
-    "geom:area_square_m":6400839.972256,
+    "geom:area_square_m":6400839.972248,
     "geom:bbox":"-79.915574,40.410548,-79.86769,40.436872",
     "geom:latitude":40.423711,
     "geom:longitude":-79.889983,
@@ -13,21 +13,26 @@
     "lbl:latitude":40.42361,
     "lbl:longitude":-79.889803,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pittsburgh",
+    "mz:postal_locality_alt":[
+        "Swissvale"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404484323,
         85633793,
+        102080887,
+        404484323,
         101718749,
-        102080887
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763659"
     },
     "wof:country":"US",
-    "wof:geomhash":"c79c74ee6df9a1a0b962543b43b10c8f",
+    "wof:geomhash":"3e3fc53272c6d39351610681b79474e2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554703563,
-    "wof:lastmodified":1480905387,
+    "wof:lastmodified":1611184468,
     "wof:name":"15218",
     "wof:parent_id":101718749,
     "wof:placetype":"postalcode",

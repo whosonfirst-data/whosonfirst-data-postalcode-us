@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013402,
-    "geom:area_square_m":127392239.76261,
+    "geom:area_square_m":127392239.762604,
     "geom:bbox":"-75.450688,39.680258,-75.264077,39.838731",
     "geom:latitude":39.759411,
     "geom:longitude":-75.33209,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.761162,
     "lbl:longitude":-75.324109,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Swedesboro",
+    "mz:postal_locality_alt":[
+        "Bridgeport"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478125,
         85633793,
-        102085999
+        102085999,
+        404478125,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761053"
     },
     "wof:country":"US",
-    "wof:geomhash":"df16868307efcd877286c37ce5297bd9",
+    "wof:geomhash":"74b83f67e3e9ef6022f48406ffd628f6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554700445,
-    "wof:lastmodified":1480906379,
+    "wof:lastmodified":1611183201,
     "wof:name":"08085",
     "wof:parent_id":404478125,
     "wof:placetype":"postalcode",

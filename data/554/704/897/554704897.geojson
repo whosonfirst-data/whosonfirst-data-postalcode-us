@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015125,
-    "geom:area_square_m":142917827.101066,
+    "geom:area_square_m":142917827.101051,
     "geom:bbox":"-76.714152,40.089613,-76.506913,40.245666",
     "geom:latitude":40.16634,
     "geom:longitude":-76.608657,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.167035,
     "lbl:longitude":-76.608893,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Elizabethtown",
+    "mz:postal_locality_alt":[
+        "Hershey"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485331,
         85633793,
-        102081377
+        102081377,
+        404485331,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764566"
     },
     "wof:country":"US",
-    "wof:geomhash":"c470a00c917f90dd2724bc5dd8fe1fd6",
+    "wof:geomhash":"1d845ab6e0f4948c14051bdb62504e34",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554704897,
-    "wof:lastmodified":1480831656,
+    "wof:lastmodified":1611184520,
     "wof:name":"17022",
     "wof:parent_id":404485331,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000248,
-    "geom:area_square_m":2320694.291664,
+    "geom:area_square_m":2320694.291661,
     "geom:bbox":"-73.624059,40.742318,-73.600084,40.758266",
     "geom:latitude":40.749892,
     "geom:longitude":-73.612477,
@@ -14,21 +14,26 @@
     "lbl:latitude":40.749892,
     "lbl:longitude":-73.612477,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Carle Place",
+    "mz:postal_locality_alt":[
+        "Westbury"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522729,
         85633793,
+        102082371,
+        404522729,
         85979163,
-        102082371
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761836"
     },
     "wof:country":"US",
-    "wof:geomhash":"8f750d37d0df2d2d33a78ff60ea890f9",
+    "wof:geomhash":"1f36c4a57b2dc5e4c8fa365fa6e370a6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554779733,
-    "wof:lastmodified":1480790618,
+    "wof:lastmodified":1611183977,
     "wof:name":"11514",
     "wof:parent_id":85979163,
     "wof:placetype":"postalcode",

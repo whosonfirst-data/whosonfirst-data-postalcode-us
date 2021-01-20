@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003603,
-    "geom:area_square_m":34552008.318335,
+    "geom:area_square_m":34552008.318359,
     "geom:bbox":"-77.177765,39.101573,-77.099876,39.18584",
     "geom:latitude":39.13708,
     "geom:longitude":-77.132382,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.133184,
     "lbl:longitude":-77.134383,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Derwood",
+    "mz:postal_locality_alt":[
+        "Rockville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688501,
         102191575,
         85633793,
+        102082719,
         85950273,
-        102082719
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766355"
     },
     "wof:country":"US",
-    "wof:geomhash":"477ba91e693ee54c7aa5b55c72ce98bc",
+    "wof:geomhash":"40a1b5d0781ec06f4a55d82fcf97c7c2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554707063,
-    "wof:lastmodified":1480795132,
+    "wof:lastmodified":1611183143,
     "wof:name":"20855",
     "wof:parent_id":85950273,
     "wof:placetype":"postalcode",

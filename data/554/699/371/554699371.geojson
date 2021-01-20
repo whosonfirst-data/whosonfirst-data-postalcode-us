@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003809,
-    "geom:area_square_m":35034054.078169,
+    "geom:area_square_m":35034054.078136,
     "geom:bbox":"-72.905945,41.918879,-72.820071,41.990218",
     "geom:latitude":41.946486,
     "geom:longitude":-72.863186,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.946484,
     "lbl:longitude":-72.863185,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"West Granby",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688629,
         102191575,
-        404495827,
         85633793,
-        102085381
+        102085381,
+        404495827,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760236"
     },
     "wof:country":"US",
-    "wof:geomhash":"8daa67f27bb0bfd74fe8737490f1f85f",
+    "wof:geomhash":"976e40873c378f449b8dcabc5e3dca38",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554699371,
-    "wof:lastmodified":1480815747,
+    "wof:lastmodified":1611184615,
     "wof:name":"06090",
     "wof:parent_id":404495827,
     "wof:placetype":"postalcode",

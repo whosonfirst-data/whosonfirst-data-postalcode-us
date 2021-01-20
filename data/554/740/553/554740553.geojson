@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.090549,
-    "geom:area_square_m":841013755.454337,
+    "geom:area_square_m":841013755.454177,
     "geom:bbox":"-103.572232,41.003405,-103.144581,41.583854",
     "geom:latitude":41.311033,
     "geom:longitude":-103.332097,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.310781,
     "lbl:longitude":-103.331902,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Potter",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688563,
         102191575,
-        404519713,
         85633793,
-        102082753
+        102082753,
+        404519713,
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12788039"
     },
     "wof:country":"US",
-    "wof:geomhash":"a40c2610addee65a08a3081f4431b6b3",
+    "wof:geomhash":"bb0c88b74e45ff5b99173561984c9e67",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554740553,
-    "wof:lastmodified":1480839402,
+    "wof:lastmodified":1611183407,
     "wof:name":"69156",
     "wof:parent_id":404519713,
     "wof:placetype":"postalcode",

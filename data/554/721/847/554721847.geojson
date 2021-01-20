@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00358,
-    "geom:area_square_m":33972992.501168,
+    "geom:area_square_m":33972992.501152,
     "geom:bbox":"-84.704811,39.828281,-84.651786,39.916688",
     "geom:latitude":39.873518,
     "geom:longitude":-84.678226,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.878597,
     "lbl:longitude":-84.686054,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Eldorado",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404523961,
         85633793,
-        102083757
+        102083757,
+        404523961,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777212"
     },
     "wof:country":"US",
-    "wof:geomhash":"63b3d32571e7d46807cb5aee0cc850d0",
+    "wof:geomhash":"fc1443dfe1b87369c0648e21631e1419",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554721847,
-    "wof:lastmodified":1480841097,
+    "wof:lastmodified":1611184970,
     "wof:name":"45321",
     "wof:parent_id":404523961,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001006,
-    "geom:area_square_m":10979977.373973,
+    "geom:area_square_m":10979977.373986,
     "geom:bbox":"-82.486719,27.969928,-82.442933,28.003408",
     "geom:latitude":27.985431,
     "geom:longitude":-82.464626,
@@ -13,20 +13,22 @@
     "lbl:latitude":27.985618,
     "lbl:longitude":-82.464439,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Tampa",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688651,
         102191575,
         85633793,
+        102085773,
         85931789,
-        102085773
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12772406"
     },
     "wof:country":"US",
-    "wof:geomhash":"d4ef7dc3c1757317319ff42cbed819a0",
+    "wof:geomhash":"fa8b2562da673e1cd834f7f4aa7f0889",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +40,7 @@
         }
     ],
     "wof:id":554781831,
-    "wof:lastmodified":1480803874,
+    "wof:lastmodified":1611184832,
     "wof:name":"33603",
     "wof:parent_id":85931789,
     "wof:placetype":"postalcode",

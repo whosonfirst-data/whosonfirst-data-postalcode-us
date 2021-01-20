@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025519,
-    "geom:area_square_m":254720620.583363,
+    "geom:area_square_m":254720620.583277,
     "geom:bbox":"-97.238175,36.115802,-96.890504,36.261054",
     "geom:latitude":36.171914,
     "geom:longitude":-97.079052,
@@ -13,20 +13,25 @@
     "lbl:latitude":36.169169,
     "lbl:longitude":-97.083226,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Stillwater",
+    "mz:postal_locality_alt":[
+        "Bartlesville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688585,
         102191575,
         85633793,
+        102082537,
         101714359,
-        102082537
+        85688585
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12789969"
     },
     "wof:country":"US",
-    "wof:geomhash":"2f51419adc4bef7793cf6e7a214248a8",
+    "wof:geomhash":"33b43fe4fce6a98387154e6a6837288e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554743601,
-    "wof:lastmodified":1480843041,
+    "wof:lastmodified":1611184795,
     "wof:name":"74075",
     "wof:parent_id":101714359,
     "wof:placetype":"postalcode",

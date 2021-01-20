@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025882,
-    "geom:area_square_m":260226696.080437,
+    "geom:area_square_m":260226696.080729,
     "geom:bbox":"-82.384372,35.458224,-82.1683,35.749465",
     "geom:latitude":35.598552,
     "geom:longitude":-82.290159,
@@ -14,19 +14,26 @@
     "lbl:latitude":35.605271,
     "lbl:longitude":-82.291854,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Black Mountain",
+    "mz:postal_locality_alt":[
+        "Candler",
+        "Cashiers",
+        "Montreat"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688773,
-        102087845
+        102087845,
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12769859"
     },
     "wof:country":"US",
-    "wof:geomhash":"be6e61fd427b8fb8bf34492023f4fb71",
+    "wof:geomhash":"cd5c27c291649a9f981c5ec8946fe771",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +44,7 @@
         }
     ],
     "wof:id":554711707,
-    "wof:lastmodified":1480903310,
+    "wof:lastmodified":1611185301,
     "wof:name":"28711",
     "wof:parent_id":102087845,
     "wof:placetype":"postalcode",

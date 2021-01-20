@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002122,
-    "geom:area_square_m":23603379.607998,
+    "geom:area_square_m":23603379.608008,
     "geom:bbox":"-80.292645,25.881637,-80.218443,25.926913",
     "geom:latitude":25.906916,
     "geom:longitude":-80.258279,
@@ -13,20 +13,28 @@
     "lbl:latitude":25.908596,
     "lbl:longitude":-80.26504,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Opa Locka",
+    "mz:postal_locality_alt":[
+        "Miami Gardens",
+        "Miami",
+        "Opa-locka",
+        "Hialeah"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688651,
         102191575,
         85633793,
+        102085771,
         85933573,
-        102085771
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12772094"
     },
     "wof:country":"US",
-    "wof:geomhash":"9a1f4ebbf1d978bfa2ae9c9961113805",
+    "wof:geomhash":"d19382aef088299fabfcbd4061d25d3a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +46,7 @@
         }
     ],
     "wof:id":554781475,
-    "wof:lastmodified":1480806626,
+    "wof:lastmodified":1611184829,
     "wof:name":"33054",
     "wof:parent_id":85933573,
     "wof:placetype":"postalcode",

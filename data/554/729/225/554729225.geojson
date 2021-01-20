@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004163,
-    "geom:area_square_m":36406980.070543,
+    "geom:area_square_m":36406980.070583,
     "geom:bbox":"-93.643748,44.954071,-93.541985,45.032547",
     "geom:latitude":44.993051,
     "geom:longitude":-93.588074,
@@ -14,21 +14,26 @@
     "lbl:latitude":44.994245,
     "lbl:longitude":-93.58962,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Long Lake",
+    "mz:postal_locality_alt":[
+        "Wayzata"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404511895,
         85633793,
+        102087709,
+        404511895,
         85969145,
-        102087709
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781838"
     },
     "wof:country":"US",
-    "wof:geomhash":"9f2b61231f46815675567e6432b0f353",
+    "wof:geomhash":"427fe252bea9c38e640de741e7dec22f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554729225,
-    "wof:lastmodified":1480789095,
+    "wof:lastmodified":1611185433,
     "wof:name":"55356",
     "wof:parent_id":85969145,
     "wof:placetype":"postalcode",

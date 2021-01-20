@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045594,
-    "geom:area_square_m":447619402.290458,
+    "geom:area_square_m":447619402.290835,
     "geom:bbox":"-89.817165,37.297173,-89.454405,37.581898",
     "geom:latitude":37.44249,
     "geom:longitude":-89.639634,
@@ -14,20 +14,26 @@
     "lbl:latitude":37.439458,
     "lbl:longitude":-89.6408,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Jackson",
+    "mz:postal_locality_alt":[
+        "Cape Girardeau",
+        "Pocahontas"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404516535,
         85633793,
-        102086155
+        102086155,
+        404516535,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785842"
     },
     "wof:country":"US",
-    "wof:geomhash":"37fc503d285e14011edfacaa7fe1a09f",
+    "wof:geomhash":"259ef6a2b0398652c14c8fc8c3ceb7b8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554736207,
-    "wof:lastmodified":1480915743,
+    "wof:lastmodified":1611183046,
     "wof:name":"63755",
     "wof:parent_id":404516535,
     "wof:placetype":"postalcode",

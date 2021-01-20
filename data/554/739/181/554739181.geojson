@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046937,
-    "geom:area_square_m":450543993.800475,
+    "geom:area_square_m":450543993.800702,
     "geom:bbox":"-98.705552,38.922142,-98.466085,39.263816",
     "geom:latitude":39.07899,
     "geom:longitude":-98.568372,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.087245,
     "lbl:longitude":-98.58037,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lucas",
+    "mz:postal_locality_alt":[
+        "Long Island"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404502913,
         85633793,
-        102084163
+        102084163,
+        404502913,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787369"
     },
     "wof:country":"US",
-    "wof:geomhash":"c7f8993e14abae7c9b45f8643f6d6d96",
+    "wof:geomhash":"94d5659468126c5a7efc91dcb1553f2d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554739181,
-    "wof:lastmodified":1480799308,
+    "wof:lastmodified":1611182663,
     "wof:name":"67648",
     "wof:parent_id":404502913,
     "wof:placetype":"postalcode",

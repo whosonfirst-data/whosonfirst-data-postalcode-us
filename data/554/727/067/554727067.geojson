@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009269,
-    "geom:area_square_m":84830946.889612,
+    "geom:area_square_m":84830946.889627,
     "geom:bbox":"-92.162285,42.210474,-92.023437,42.297438",
     "geom:latitude":42.259056,
     "geom:longitude":-92.095001,
@@ -14,20 +14,25 @@
     "lbl:latitude":42.257377,
     "lbl:longitude":-92.096977,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mt Auburn",
+    "mz:postal_locality_alt":[
+        "Mount Auburn"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688713,
         102191575,
         85633793,
+        102086267,
         85944941,
-        102086267
+        85688713
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12780548"
     },
     "wof:country":"US",
-    "wof:geomhash":"18e8819a8c0c6aa7cc733b046cc16ecd",
+    "wof:geomhash":"1cf2e061dd7e164b97038a2c7dce36dc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554727067,
-    "wof:lastmodified":1480915504,
+    "wof:lastmodified":1611185528,
     "wof:name":"52313",
     "wof:parent_id":85944941,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011098,
-    "geom:area_square_m":103492097.227684,
+    "geom:area_square_m":103492097.227692,
     "geom:bbox":"-74.698496,40.986662,-74.536002,41.118611",
     "geom:latitude":41.047362,
     "geom:longitude":-74.628047,
@@ -14,20 +14,26 @@
     "lbl:latitude":41.052283,
     "lbl:longitude":-74.627906,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Sparta",
+    "mz:postal_locality_alt":[
+        "Newton",
+        "Lafayette"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478479,
         85633793,
-        102086779
+        102086779,
+        404478479,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760929"
     },
     "wof:country":"US",
-    "wof:geomhash":"aaab1d12a7c8af0008ec416abef886f8",
+    "wof:geomhash":"eff68bea235933ca46a12a4d26d9d78f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554700251,
-    "wof:lastmodified":1480914756,
+    "wof:lastmodified":1611183186,
     "wof:name":"07871",
     "wof:parent_id":404478479,
     "wof:placetype":"postalcode",

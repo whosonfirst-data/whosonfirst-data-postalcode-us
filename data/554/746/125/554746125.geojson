@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002771,
-    "geom:area_square_m":29610554.76431,
+    "geom:area_square_m":29610554.764331,
     "geom:bbox":"-95.592279,30.16474,-95.479345,30.229653",
     "geom:latitude":30.197991,
     "geom:longitude":-95.546165,
@@ -13,20 +13,25 @@
     "lbl:latitude":30.194978,
     "lbl:longitude":-95.54769,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Spring",
+    "mz:postal_locality_alt":[
+        "The Woodlands"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102081435,
         101727415,
-        102081435
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12791559"
     },
     "wof:country":"US",
-    "wof:geomhash":"ecb309029d7d92bfeeeab35f44ac4004",
+    "wof:geomhash":"a6eb560d682d94871d97c527b548c03d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554746125,
-    "wof:lastmodified":1480833212,
+    "wof:lastmodified":1611184033,
     "wof:name":"77382",
     "wof:parent_id":101727415,
     "wof:placetype":"postalcode",

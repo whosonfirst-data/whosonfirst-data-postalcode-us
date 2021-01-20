@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008188,
-    "geom:area_square_m":76082784.116846,
+    "geom:area_square_m":76082784.116855,
     "geom:bbox":"-73.851588,41.226491,-73.702247,41.344904",
     "geom:latitude":41.281869,
     "geom:longitude":-73.793245,
@@ -14,20 +14,27 @@
     "lbl:latitude":41.288224,
     "lbl:longitude":-73.792203,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Yorktown Heights",
+    "mz:postal_locality_alt":[
+        "Shenorock",
+        "Jefferson Valley",
+        "Granite Springs"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404521689,
         85633793,
-        102082373
+        102082373,
+        404521689,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761593"
     },
     "wof:country":"US",
-    "wof:geomhash":"ac1e540e8673716d4eeedba8862fce12",
+    "wof:geomhash":"69c3b421e7b2c294b6e5f1c4a40ace75",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554700909,
-    "wof:lastmodified":1480835024,
+    "wof:lastmodified":1611183173,
     "wof:name":"10598",
     "wof:parent_id":404521689,
     "wof:placetype":"postalcode",

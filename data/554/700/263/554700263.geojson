@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006464,
-    "geom:area_square_m":60613084.160699,
+    "geom:area_square_m":60613084.160788,
     "geom:bbox":"-74.633147,40.610738,-74.509844,40.741754",
     "geom:latitude":40.678784,
     "geom:longitude":-74.562795,
@@ -14,20 +14,26 @@
     "lbl:latitude":40.678994,
     "lbl:longitude":-74.564115,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Basking Ridge",
+    "mz:postal_locality_alt":[
+        "Liberty Corner",
+        "Bernardsville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477911,
         85633793,
-        102085045
+        102085045,
+        404477911,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760943"
     },
     "wof:country":"US",
-    "wof:geomhash":"b9b3518a4ee9d71c2b7f8ab99693296b",
+    "wof:geomhash":"d1512b2c2da62acb83dbd0709ad399d2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554700263,
-    "wof:lastmodified":1480806956,
+    "wof:lastmodified":1611183205,
     "wof:name":"07920",
     "wof:parent_id":404477911,
     "wof:placetype":"postalcode",

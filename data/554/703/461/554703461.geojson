@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005827,
-    "geom:area_square_m":54685854.744972,
+    "geom:area_square_m":54685854.744965,
     "geom:bbox":"-80.142933,40.583711,-80.013248,40.66898",
     "geom:latitude":40.625685,
     "geom:longitude":-80.068818,
@@ -14,20 +14,26 @@
     "lbl:latitude":40.625015,
     "lbl:longitude":-80.067058,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wexford",
+    "mz:postal_locality_alt":[
+        "Warrendale",
+        "Ingomar"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404484159,
         85633793,
-        102080887
+        102080887,
+        404484159,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763607"
     },
     "wof:country":"US",
-    "wof:geomhash":"867a78a2d9ac4ab9515a5dc87de9d35f",
+    "wof:geomhash":"1c1c216ae8c000999581b7dbf5a82066",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554703461,
-    "wof:lastmodified":1480905384,
+    "wof:lastmodified":1611184478,
     "wof:name":"15090",
     "wof:parent_id":404484159,
     "wof:placetype":"postalcode",

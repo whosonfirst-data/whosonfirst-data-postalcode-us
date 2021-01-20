@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002712,
-    "geom:area_square_m":27915854.943412,
+    "geom:area_square_m":27915854.943386,
     "geom:bbox":"-84.445768,33.631019,-84.349414,33.68826",
     "geom:latitude":33.660625,
     "geom:longitude":-84.387031,
@@ -13,20 +13,25 @@
     "lbl:latitude":33.661498,
     "lbl:longitude":-84.386895,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Atlanta",
+    "mz:postal_locality_alt":[
+        "Hapeville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688535,
         102191575,
         85633793,
+        102083603,
         85936429,
-        102083603
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770767"
     },
     "wof:country":"US",
-    "wof:geomhash":"dc70d578affdb083aa3de3d51e0fc6c0",
+    "wof:geomhash":"898733a53ee56297ee728f4919080713",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554713107,
-    "wof:lastmodified":1480841937,
+    "wof:lastmodified":1611183318,
     "wof:name":"30354",
     "wof:parent_id":85936429,
     "wof:placetype":"postalcode",

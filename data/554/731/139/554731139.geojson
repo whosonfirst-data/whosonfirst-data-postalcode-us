@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.047697,
-    "geom:area_square_m":430225328.356712,
+    "geom:area_square_m":430225328.356833,
     "geom:bbox":"-98.678121,43.05295,-98.367379,43.278729",
     "geom:latitude":43.158858,
     "geom:longitude":-98.527286,
@@ -14,21 +14,27 @@
     "lbl:latitude":43.15817,
     "lbl:longitude":-98.529608,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lake Andes",
+    "mz:postal_locality_alt":[
+        "Ravinia",
+        "Marty"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688693,
         102191575,
-        404489561,
         85633793,
+        102086799,
+        404489561,
         101722111,
-        102086799
+        85688693
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782880"
     },
     "wof:country":"US",
-    "wof:geomhash":"1eb6e263db874350c8b60c2182dd92d1",
+    "wof:geomhash":"67ec1eae067b6b6a107cff24e23b2544",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554731139,
-    "wof:lastmodified":1480912883,
+    "wof:lastmodified":1611183076,
     "wof:name":"57356",
     "wof:parent_id":101722111,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005918,
-    "geom:area_square_m":57557926.728034,
+    "geom:area_square_m":57557926.7281,
     "geom:bbox":"-85.633001,38.073841,-85.527347,38.181503",
     "geom:latitude":38.129088,
     "geom:longitude":-85.57807,
@@ -14,20 +14,25 @@
     "lbl:latitude":38.130795,
     "lbl:longitude":-85.583674,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Louisville",
+    "mz:postal_locality_alt":[
+        "Fern Creek"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688641,
         102191575,
         85633793,
+        102084449,
         85947523,
-        102084449
+        85688641
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12775220"
     },
     "wof:country":"US",
-    "wof:geomhash":"ba131c9729eaf3b743a2ddbbeca4d267",
+    "wof:geomhash":"e103657ba4b5bc12184e2ec8df41ed9b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554718821,
-    "wof:lastmodified":1480802910,
+    "wof:lastmodified":1611185548,
     "wof:name":"40291",
     "wof:parent_id":85947523,
     "wof:placetype":"postalcode",

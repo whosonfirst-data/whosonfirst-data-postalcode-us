@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003298,
-    "geom:area_square_m":28892320.932649,
+    "geom:area_square_m":28892320.932645,
     "geom:bbox":"-93.157981,44.859567,-93.065166,44.923287",
     "geom:latitude":44.896528,
     "geom:longitude":-93.103444,
@@ -13,21 +13,29 @@
     "lbl:latitude":44.894315,
     "lbl:longitude":-93.100947,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Saint Paul",
+    "mz:postal_locality_alt":[
+        "St Paul",
+        "West St Paul",
+        "Mendota Heights",
+        "Sunfish Lake"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404512003,
         85633793,
+        102087895,
+        404512003,
         85968433,
-        102087895
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781753"
     },
     "wof:country":"US",
-    "wof:geomhash":"6b2c40b668830477bb43b149033adc5b",
+    "wof:geomhash":"e97033d3008cf09732067e7b4914a207",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +48,7 @@
         }
     ],
     "wof:id":554729083,
-    "wof:lastmodified":1480782566,
+    "wof:lastmodified":1611185411,
     "wof:name":"55118",
     "wof:parent_id":85968433,
     "wof:placetype":"postalcode",

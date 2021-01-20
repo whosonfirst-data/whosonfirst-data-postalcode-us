@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005387,
-    "geom:area_square_m":53160756.293667,
+    "geom:area_square_m":53160756.293669,
     "geom:bbox":"-76.45117,37.012618,-76.355974,37.1084",
     "geom:latitude":37.059108,
     "geom:longitude":-76.407307,
@@ -13,20 +13,25 @@
     "lbl:latitude":37.058141,
     "lbl:longitude":-76.406646,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hampton",
+    "mz:postal_locality_alt":[
+        "Newport News"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688747,
         102191575,
         85633793,
+        102084913,
         101728661,
-        102084913
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12767458"
     },
     "wof:country":"US",
-    "wof:geomhash":"4dec273290e5026df167ae62cded7d69",
+    "wof:geomhash":"a4216c455331485687cb06071e8a0414",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554780895,
-    "wof:lastmodified":1480910512,
+    "wof:lastmodified":1611185168,
     "wof:name":"23666",
     "wof:parent_id":101728661,
     "wof:placetype":"postalcode",

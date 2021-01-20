@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001099,
-    "geom:area_square_m":11147876.019951,
+    "geom:area_square_m":11147876.01996,
     "geom:bbox":"-82.426224,34.826148,-82.376121,34.870843",
     "geom:latitude":34.847763,
     "geom:longitude":-82.402755,
@@ -13,20 +13,22 @@
     "lbl:latitude":34.847112,
     "lbl:longitude":-82.402264,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Greenville",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688683,
         102191575,
         85633793,
+        102085747,
         101721075,
-        102085747
+        85688683
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770289"
     },
     "wof:country":"US",
-    "wof:geomhash":"a555f4e325851fa5cc849f165de38556",
+    "wof:geomhash":"a40c7baef7da6921c2ab6a037faca3ec",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +40,7 @@
         }
     ],
     "wof:id":554712359,
-    "wof:lastmodified":1480805763,
+    "wof:lastmodified":1611183716,
     "wof:name":"29601",
     "wof:parent_id":101721075,
     "wof:placetype":"postalcode",

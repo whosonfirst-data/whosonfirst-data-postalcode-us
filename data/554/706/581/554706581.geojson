@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007441,
-    "geom:area_square_m":70913520.179137,
+    "geom:area_square_m":70913520.179173,
     "geom:bbox":"-75.764488,39.540343,-75.632443,39.661237",
     "geom:latitude":39.584344,
     "geom:longitude":-75.699381,
@@ -14,19 +14,25 @@
     "lbl:latitude":39.583171,
     "lbl:longitude":-75.700899,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bear",
+    "mz:postal_locality_alt":[
+        "Newark",
+        "Delaware City"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688611,
-        102083891
+        102083891,
+        85688611
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765741"
     },
     "wof:country":"US",
-    "wof:geomhash":"eb6e2b0125a3e991fdc414fadf100340",
+    "wof:geomhash":"4a21b69b70675267437f958ad579c7c0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554706581,
-    "wof:lastmodified":1480835444,
+    "wof:lastmodified":1611182697,
     "wof:name":"19701",
     "wof:parent_id":102083891,
     "wof:placetype":"postalcode",

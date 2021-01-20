@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004581,
-    "geom:area_square_m":42504481.333185,
+    "geom:area_square_m":42504481.333176,
     "geom:bbox":"-79.735639,41.346104,-79.60354,41.420432",
     "geom:latitude":41.3785,
     "geom:longitude":-79.671972,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.378502,
     "lbl:longitude":-79.67197,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Seneca",
+    "mz:postal_locality_alt":[
+        "Cranberry"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404487533,
         85633793,
-        102081279
+        102081279,
+        404487533,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764266"
     },
     "wof:country":"US",
-    "wof:geomhash":"986595c024b844f7f5a23dca70d5fb16",
+    "wof:geomhash":"4f8dfd96b21e083d8be37b3d0748ce1d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554704475,
-    "wof:lastmodified":1480829852,
+    "wof:lastmodified":1611184511,
     "wof:name":"16346",
     "wof:parent_id":404487533,
     "wof:placetype":"postalcode",

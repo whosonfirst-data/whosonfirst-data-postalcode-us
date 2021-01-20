@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014578,
-    "geom:area_square_m":141453955.142402,
+    "geom:area_square_m":141453955.142255,
     "geom:bbox":"-82.855387,38.234685,-82.664825,38.38023",
     "geom:latitude":38.30734,
     "geom:longitude":-82.762235,
@@ -14,19 +14,24 @@
     "lbl:latitude":38.30699,
     "lbl:longitude":-82.751009,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Rush",
+    "mz:postal_locality_alt":[
+        "Catlettsburg"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688641,
-        102084495
+        102084495,
+        85688641
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12775551"
     },
     "wof:country":"US",
-    "wof:geomhash":"6cfa709d586229223b11c7789568f7f8",
+    "wof:geomhash":"2a9c2ab05009c28f0bf012ad8d64c3c3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554719299,
-    "wof:lastmodified":1480803400,
+    "wof:lastmodified":1611184937,
     "wof:name":"41168",
     "wof:parent_id":102084495,
     "wof:placetype":"postalcode",

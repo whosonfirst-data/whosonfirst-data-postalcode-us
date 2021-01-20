@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01931,
-    "geom:area_square_m":199720168.54143,
+    "geom:area_square_m":199720168.541369,
     "geom:bbox":"-94.225003,33.130435,-94.0459,33.312057",
     "geom:latitude":33.231534,
     "geom:longitude":-94.132159,
@@ -14,19 +14,24 @@
     "lbl:latitude":33.225893,
     "lbl:longitude":-94.127695,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Queen City",
+    "mz:postal_locality_alt":[
+        "Atlanta"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688753,
-        102087337
+        102087337,
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12790661"
     },
     "wof:country":"US",
-    "wof:geomhash":"1e8cd434e6189f20bafd0814d643fe48",
+    "wof:geomhash":"bdbcd7981dc61bab602fff5c887313cc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554744681,
-    "wof:lastmodified":1480829820,
+    "wof:lastmodified":1611184713,
     "wof:name":"75572",
     "wof:parent_id":102087337,
     "wof:placetype":"postalcode",

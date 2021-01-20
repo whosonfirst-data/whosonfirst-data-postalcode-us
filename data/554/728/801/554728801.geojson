@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004675,
-    "geom:area_square_m":41415418.864707,
+    "geom:area_square_m":41415418.864732,
     "geom:bbox":"-88.444156,44.221257,-88.283249,44.277586",
     "geom:latitude":44.242461,
     "geom:longitude":-88.356447,
@@ -13,21 +13,26 @@
     "lbl:latitude":44.243351,
     "lbl:longitude":-88.355904,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Appleton",
+    "mz:postal_locality_alt":[
+        "Kimberly"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404494867,
         85633793,
+        102081851,
+        404494867,
         101732417,
-        102081851
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781604"
     },
     "wof:country":"US",
-    "wof:geomhash":"051bf73343cec0fecaf868a83e5d2e3d",
+    "wof:geomhash":"63912be722166363bd482d730d6a4fc3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554728801,
-    "wof:lastmodified":1480833822,
+    "wof:lastmodified":1611185090,
     "wof:name":"54915",
     "wof:parent_id":101732417,
     "wof:placetype":"postalcode",

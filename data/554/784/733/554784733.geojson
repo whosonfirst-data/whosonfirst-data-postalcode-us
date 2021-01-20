@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001364,
-    "geom:area_square_m":13394172.931072,
+    "geom:area_square_m":13394172.931069,
     "geom:bbox":"-122.194331,37.392201,-122.14924,37.44363",
     "geom:latitude":37.417182,
     "geom:longitude":-122.170973,
@@ -14,20 +14,25 @@
     "lbl:latitude":37.418256,
     "lbl:longitude":-122.170871,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Stanford",
+    "mz:postal_locality_alt":[
+        "Palo Alto"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102081673,
         85925383,
-        102081673
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12797283"
     },
     "wof:country":"US",
-    "wof:geomhash":"651c69928e57660e2d62e007d62a7103",
+    "wof:geomhash":"005529c9cb9f2a0bbfa98db9ca90560f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554784733,
-    "wof:lastmodified":1480829308,
+    "wof:lastmodified":1611183945,
     "wof:name":"94305",
     "wof:parent_id":85925383,
     "wof:placetype":"postalcode",

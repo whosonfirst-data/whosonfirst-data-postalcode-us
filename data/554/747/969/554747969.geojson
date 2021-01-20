@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002912,
-    "geom:area_square_m":27770049.419842,
+    "geom:area_square_m":27770049.419794,
     "geom:bbox":"-104.996627,39.503338,-104.904402,39.566155",
     "geom:latitude":39.540748,
     "geom:longitude":-104.960851,
@@ -13,20 +13,25 @@
     "lbl:latitude":39.540572,
     "lbl:longitude":-104.958557,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Littleton",
+    "mz:postal_locality_alt":[
+        "Highlands Ranch"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688603,
         102191575,
         85633793,
+        102085225,
         85930163,
-        102085225
+        85688603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12792921"
     },
     "wof:country":"US",
-    "wof:geomhash":"2e3f8fbfe737e4e6054ca4fca8d71361",
+    "wof:geomhash":"9b17827f6c6cbf38e858e7855dff4d79",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554747969,
-    "wof:lastmodified":1480913401,
+    "wof:lastmodified":1611183471,
     "wof:name":"80126",
     "wof:parent_id":85930163,
     "wof:placetype":"postalcode",

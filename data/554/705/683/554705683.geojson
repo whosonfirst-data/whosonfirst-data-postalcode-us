@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017425,
-    "geom:area_square_m":162786303.24316,
+    "geom:area_square_m":162786303.243194,
     "geom:bbox":"-75.812004,40.837483,-75.556438,41.005783",
     "geom:latitude":40.930561,
     "geom:longitude":-75.676761,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.931094,
     "lbl:longitude":-75.673779,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Jim Thorpe",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485633,
         85633793,
-        102081331
+        102081331,
+        404485633,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765104"
     },
     "wof:country":"US",
-    "wof:geomhash":"fab7866054846c955c3f75ae4ee736d2",
+    "wof:geomhash":"973ad706168a4dd0fc798f354497ecd1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554705683,
-    "wof:lastmodified":1480906475,
+    "wof:lastmodified":1611184120,
     "wof:name":"18229",
     "wof:parent_id":404485633,
     "wof:placetype":"postalcode",

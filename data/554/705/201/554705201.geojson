@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005577,
-    "geom:area_square_m":52786156.680309,
+    "geom:area_square_m":52786156.680287,
     "geom:bbox":"-77.013118,40.001706,-76.849688,40.099171",
     "geom:latitude":40.055549,
     "geom:longitude":-76.937868,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.060733,
     "lbl:longitude":-76.93386,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wellsville",
+    "mz:postal_locality_alt":[
+        "Rossville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404487949,
         85633793,
-        102080953
+        102080953,
+        404487949,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764768"
     },
     "wof:country":"US",
-    "wof:geomhash":"578d1cdd38d14d71664e47aeb083dc6d",
+    "wof:geomhash":"fb3c73f9da835e27376d736c244aeb11",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554705201,
-    "wof:lastmodified":1480903981,
+    "wof:lastmodified":1611184123,
     "wof:name":"17365",
     "wof:parent_id":404487949,
     "wof:placetype":"postalcode",

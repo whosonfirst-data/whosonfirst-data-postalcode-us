@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000499,
-    "geom:area_square_m":5143062.121135,
+    "geom:area_square_m":5143062.121147,
     "geom:bbox":"-81.894491,33.496114,-81.828045,33.529018",
     "geom:latitude":33.511882,
     "geom:longitude":-81.858368,
@@ -14,20 +14,25 @@
     "lbl:latitude":33.51293,
     "lbl:longitude":-81.856747,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Langley",
+    "mz:postal_locality_alt":[
+        "Warrenville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688683,
         102191575,
         85633793,
+        102085721,
         101721157,
-        102085721
+        85688683
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770431"
     },
     "wof:country":"US",
-    "wof:geomhash":"64dd715e267bbbb4eac79fd7678466b1",
+    "wof:geomhash":"1f3ce4e5ad9a00e22931d1b08b9e980a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554769147,
-    "wof:lastmodified":1480809640,
+    "wof:lastmodified":1611184320,
     "wof:name":"29834",
     "wof:parent_id":101721157,
     "wof:placetype":"postalcode",

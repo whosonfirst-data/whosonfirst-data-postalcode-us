@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022892,
-    "geom:area_square_m":237207800.732696,
+    "geom:area_square_m":237207800.732783,
     "geom:bbox":"-96.210022,32.977604,-95.989003,33.139425",
     "geom:latitude":33.068749,
     "geom:longitude":-96.085367,
@@ -13,20 +13,25 @@
     "lbl:latitude":33.068291,
     "lbl:longitude":-96.084372,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Greenville",
+    "mz:postal_locality_alt":[
+        "Sulphur Springs"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102080661,
         101725935,
-        102080661
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12790554"
     },
     "wof:country":"US",
-    "wof:geomhash":"d3f77d2e749c8ce0e06c894da5b6e34a",
+    "wof:geomhash":"4feaabfe44b8d6c5c032ffa427c03bb9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554744487,
-    "wof:lastmodified":1480903334,
+    "wof:lastmodified":1611184741,
     "wof:name":"75402",
     "wof:parent_id":101725935,
     "wof:placetype":"postalcode",

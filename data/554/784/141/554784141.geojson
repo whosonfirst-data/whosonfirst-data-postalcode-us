@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000499,
-    "geom:area_square_m":5130191.400378,
+    "geom:area_square_m":5130191.400366,
     "geom:bbox":"-118.32868,33.774979,-118.307394,33.809045",
     "geom:latitude":33.79381,
     "geom:longitude":-118.31717,
@@ -14,20 +14,26 @@
     "lbl:latitude":33.793809,
     "lbl:longitude":-118.31717,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lomita",
+    "mz:postal_locality_alt":[
+        "Harbor City",
+        "Torrance"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086957,
         85923529,
-        102086957
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795840"
     },
     "wof:country":"US",
-    "wof:geomhash":"f8829696189f95b2b0333613ab3c4917",
+    "wof:geomhash":"6d8150de6c4d755910115f8bca59773c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554784141,
-    "wof:lastmodified":1480912620,
+    "wof:lastmodified":1611183959,
     "wof:name":"90717",
     "wof:parent_id":85923529,
     "wof:placetype":"postalcode",

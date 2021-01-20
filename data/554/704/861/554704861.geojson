@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032267,
-    "geom:area_square_m":296965279.172398,
+    "geom:area_square_m":296965279.172348,
     "geom:bbox":"-77.718766,41.771706,-77.364424,42.00007",
     "geom:latitude":41.900992,
     "geom:longitude":-77.533347,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.9,
     "lbl:longitude":-77.531963,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Westfield",
+    "mz:postal_locality_alt":[
+        "Genesee"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404487473,
         85633793,
-        102080937
+        102080937,
+        404487473,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764545"
     },
     "wof:country":"US",
-    "wof:geomhash":"5d5271f72f25eeabbac75e208453de17",
+    "wof:geomhash":"666e1e5c079bc4cec355ac7c23d729b8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554704861,
-    "wof:lastmodified":1480904320,
+    "wof:lastmodified":1611184495,
     "wof:name":"16950",
     "wof:parent_id":404487473,
     "wof:placetype":"postalcode",

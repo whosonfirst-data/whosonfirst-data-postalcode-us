@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001342,
-    "geom:area_square_m":12884098.843159,
+    "geom:area_square_m":12884098.843161,
     "geom:bbox":"-94.650615,39.043783,-94.607167,39.090064",
     "geom:latitude":39.061228,
     "geom:longitude":-94.626327,
@@ -14,21 +14,26 @@
     "lbl:latitude":39.060328,
     "lbl:longitude":-94.626783,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Kansas City",
+    "mz:postal_locality_alt":[
+        "Shawnee Mission"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404504875,
         85633793,
+        102082163,
+        404504875,
         85945801,
-        102082163
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786775"
     },
     "wof:country":"US",
-    "wof:geomhash":"2d9fee213d3b200b6d764aa9c3740c52",
+    "wof:geomhash":"e5fd1b547d54ce73df46c282a333eb0b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554737989,
-    "wof:lastmodified":1480816989,
+    "wof:lastmodified":1611182863,
     "wof:name":"66103",
     "wof:parent_id":85945801,
     "wof:placetype":"postalcode",

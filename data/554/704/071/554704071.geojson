@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001049,
-    "geom:area_square_m":9841674.736259,
+    "geom:area_square_m":9841674.73627,
     "geom:bbox":"-78.759822,40.606951,-78.68964,40.637216",
     "geom:latitude":40.626766,
     "geom:longitude":-78.735442,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.626766,
     "lbl:longitude":-78.735444,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"St Benedict",
+    "mz:postal_locality_alt":[
+        "Saint Benedict"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485491,
         85633793,
-        102080879
+        102080879,
+        404485491,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764020"
     },
     "wof:country":"US",
-    "wof:geomhash":"02243c787b677cd5fe57bd7c8914aed8",
+    "wof:geomhash":"e95e5c2706df5d00c3dd770efa40bcc5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554704071,
-    "wof:lastmodified":1480903613,
+    "wof:lastmodified":1611184494,
     "wof:name":"15773",
     "wof:parent_id":404485491,
     "wof:placetype":"postalcode",

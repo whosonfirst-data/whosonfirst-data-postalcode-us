@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004275,
-    "geom:area_square_m":45670657.708726,
+    "geom:area_square_m":45670657.708716,
     "geom:bbox":"-95.544979,30.18656,-95.453784,30.274863",
     "geom:latitude":30.234926,
     "geom:longitude":-95.495262,
@@ -13,20 +13,26 @@
     "lbl:latitude":30.233846,
     "lbl:longitude":-95.49577,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Conroe",
+    "mz:postal_locality_alt":[
+        "Magnolia",
+        "Shenandoah"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102081435,
         101725633,
-        102081435
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12791561"
     },
     "wof:country":"US",
-    "wof:geomhash":"c973cf9111522913a279b2b66ee3cc02",
+    "wof:geomhash":"17b2282d3801c4a57c8127269e6c217c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554746127,
-    "wof:lastmodified":1480816359,
+    "wof:lastmodified":1611184009,
     "wof:name":"77384",
     "wof:parent_id":101725633,
     "wof:placetype":"postalcode",

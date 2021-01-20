@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001439,
-    "geom:area_square_m":13160722.375158,
+    "geom:area_square_m":13160722.375142,
     "geom:bbox":"-71.218332,42.283059,-71.169726,42.344827",
     "geom:latitude":42.315016,
     "geom:longitude":-71.191708,
@@ -14,21 +14,28 @@
     "lbl:latitude":42.314779,
     "lbl:longitude":-71.192017,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Newton",
+    "mz:postal_locality_alt":[
+        "Newton Center",
+        "Brookline",
+        "Chestnut Hill"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476411,
         85633793,
+        102084643,
+        404476411,
         85950341,
-        102084643
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758848"
     },
     "wof:country":"US",
-    "wof:geomhash":"c5b6912f7778153cb1399d587c6b1769",
+    "wof:geomhash":"f8c03af8ad0bcf9269ed2929393b9b29",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +48,7 @@
         }
     ],
     "wof:id":554697473,
-    "wof:lastmodified":1480799919,
+    "wof:lastmodified":1611184657,
     "wof:name":"02459",
     "wof:parent_id":85950341,
     "wof:placetype":"postalcode",

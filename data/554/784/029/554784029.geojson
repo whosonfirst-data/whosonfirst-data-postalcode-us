@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00094,
-    "geom:area_square_m":9642133.743123,
+    "geom:area_square_m":9642133.743059,
     "geom:bbox":"-118.237907,33.959029,-118.188865,33.996357",
     "geom:latitude":33.976997,
     "geom:longitude":-118.217245,
@@ -14,20 +14,26 @@
     "lbl:latitude":33.979247,
     "lbl:longitude":-118.217438,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Huntington Park",
+    "mz:postal_locality_alt":[
+        "Los Angeles",
+        "Florence-Graham"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086957,
         85923587,
-        102086957
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795735"
     },
     "wof:country":"US",
-    "wof:geomhash":"bb0ced10cf4040b4443fa7bc2a450592",
+    "wof:geomhash":"509fb931d046244895c8ba6f83aac4f3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554784029,
-    "wof:lastmodified":1480912607,
+    "wof:lastmodified":1611183951,
     "wof:name":"90255",
     "wof:parent_id":85923587,
     "wof:placetype":"postalcode",

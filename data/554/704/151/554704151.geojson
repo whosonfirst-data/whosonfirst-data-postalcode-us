@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009906,
-    "geom:area_square_m":93440309.362634,
+    "geom:area_square_m":93440309.362545,
     "geom:bbox":"-79.073793,40.241238,-78.894599,40.341589",
     "geom:latitude":40.287136,
     "geom:longitude":-78.978382,
@@ -13,20 +13,25 @@
     "lbl:latitude":40.290655,
     "lbl:longitude":-78.969943,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Johnstown",
+    "mz:postal_locality_alt":[
+        "Tire Hill"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485487,
         85633793,
-        102080879
+        102080879,
+        404485487,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764065"
     },
     "wof:country":"US",
-    "wof:geomhash":"2b5fc0ae4ae5fef3b5320f6f3de66b68",
+    "wof:geomhash":"6c80f2799ae5bacf377a0cd79c50bcad",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554704151,
-    "wof:lastmodified":1480903614,
+    "wof:lastmodified":1611184490,
     "wof:name":"15905",
     "wof:parent_id":404485487,
     "wof:placetype":"postalcode",

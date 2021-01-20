@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.051555,
-    "geom:area_square_m":505320641.243529,
+    "geom:area_square_m":505320641.243352,
     "geom:bbox":"-99.559656,37.381022,-99.393959,37.734925",
     "geom:latitude":37.563672,
     "geom:longitude":-99.482551,
@@ -14,20 +14,22 @@
     "lbl:latitude":37.561275,
     "lbl:longitude":-99.485817,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mullinville",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404504367,
         85633793,
-        102082703
+        102082703,
+        404504367,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787131"
     },
     "wof:country":"US",
-    "wof:geomhash":"b9f22f2f7322b6f6d1cf3ade0f039954",
+    "wof:geomhash":"f7dbb1eb77ee06591f7ec00fe8686849",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554738689,
-    "wof:lastmodified":1480839138,
+    "wof:lastmodified":1611183099,
     "wof:name":"67109",
     "wof:parent_id":404504367,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004897,
-    "geom:area_square_m":50260070.286791,
+    "geom:area_square_m":50260070.286795,
     "geom:bbox":"-78.558817,33.852175,-78.47804,33.950024",
     "geom:latitude":33.902376,
     "geom:longitude":-78.521181,
@@ -14,20 +14,26 @@
     "lbl:latitude":33.89965,
     "lbl:longitude":-78.519208,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Sunset Beach",
+    "mz:postal_locality_alt":[
+        "Calabash",
+        "Bolivia"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688773,
         102191575,
         85633793,
+        102087703,
         85980935,
-        102087703
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12769682"
     },
     "wof:country":"US",
-    "wof:geomhash":"ce63c317cb87ab147391fced9c8c68c7",
+    "wof:geomhash":"500fe81eebfd52303989dcb3278a458c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554781013,
-    "wof:lastmodified":1480809547,
+    "wof:lastmodified":1611184813,
     "wof:name":"28468",
     "wof:parent_id":85980935,
     "wof:placetype":"postalcode",

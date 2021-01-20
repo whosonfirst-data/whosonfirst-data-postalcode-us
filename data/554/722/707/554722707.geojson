@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010299,
-    "geom:area_square_m":95194043.758024,
+    "geom:area_square_m":95194043.758028,
     "geom:bbox":"-86.061144,41.561542,-85.906188,41.674198",
     "geom:latitude":41.624758,
     "geom:longitude":-85.996991,
@@ -13,20 +13,25 @@
     "lbl:latitude":41.62729,
     "lbl:longitude":-85.997855,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Elkhart",
+    "mz:postal_locality_alt":[
+        "Goshen"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404500585,
         85633793,
-        102086257
+        102086257,
+        404500585,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777782"
     },
     "wof:country":"US",
-    "wof:geomhash":"e3cacd90b0be5fd53474c74017934d26",
+    "wof:geomhash":"9446a2ba00e4473a19eb1c25a7b77927",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554722707,
-    "wof:lastmodified":1480914509,
+    "wof:lastmodified":1611183214,
     "wof:name":"46517",
     "wof:parent_id":404500585,
     "wof:placetype":"postalcode",

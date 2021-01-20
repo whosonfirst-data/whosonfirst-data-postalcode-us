@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015524,
-    "geom:area_square_m":143021187.347418,
+    "geom:area_square_m":143021187.347329,
     "geom:bbox":"-84.523711,41.753069,-84.380436,41.947526",
     "geom:latitude":41.83697,
     "geom:longitude":-84.455505,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.831987,
     "lbl:longitude":-84.453091,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pittsford",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404507537,
         85633793,
-        102083705
+        102083705,
+        404507537,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779271"
     },
     "wof:country":"US",
-    "wof:geomhash":"11941d47b00e3fcd0058ba03f8a0d698",
+    "wof:geomhash":"891d0f416801f0c9458e65b84b53fb09",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554724951,
-    "wof:lastmodified":1480834725,
+    "wof:lastmodified":1611183761,
     "wof:name":"49271",
     "wof:parent_id":404507537,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004959,
-    "geom:area_square_m":51539729.438194,
+    "geom:area_square_m":51539729.438123,
     "geom:bbox":"-96.604503,32.754534,-96.518869,32.834702",
     "geom:latitude":32.800139,
     "geom:longitude":-96.55404,
@@ -14,20 +14,25 @@
     "lbl:latitude":32.800525,
     "lbl:longitude":-96.547577,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mesquite",
+    "mz:postal_locality_alt":[
+        "Sunnyvale"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102080647,
         101725701,
-        102080647
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12790433"
     },
     "wof:country":"US",
-    "wof:geomhash":"a72fc323a88dde5382209f43aa3d297c",
+    "wof:geomhash":"d486cba5f5d802f852a1acf94a17581f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554744373,
-    "wof:lastmodified":1480904886,
+    "wof:lastmodified":1611184752,
     "wof:name":"75182",
     "wof:parent_id":101725701,
     "wof:placetype":"postalcode",

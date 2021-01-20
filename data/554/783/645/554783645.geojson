@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007557,
-    "geom:area_square_m":80590581.627233,
+    "geom:area_square_m":80590581.62726,
     "geom:bbox":"-90.162483,30.361286,-89.967564,30.458366",
     "geom:latitude":30.407175,
     "geom:longitude":-90.062308,
@@ -13,19 +13,25 @@
     "lbl:latitude":30.407038,
     "lbl:longitude":-90.063421,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mandeville",
+    "mz:postal_locality_alt":[
+        "Madisonville",
+        "Covington"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688735,
-        102082453
+        102082453,
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12788307"
     },
     "wof:country":"US",
-    "wof:geomhash":"a79718b8c3d5424030c154f82917c517",
+    "wof:geomhash":"2585e7dbb186fec30cfa28070f96bb01",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +42,7 @@
         }
     ],
     "wof:id":554783645,
-    "wof:lastmodified":1480789842,
+    "wof:lastmodified":1611183878,
     "wof:name":"70471",
     "wof:parent_id":102082453,
     "wof:placetype":"postalcode",

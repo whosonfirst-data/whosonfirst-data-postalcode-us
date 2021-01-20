@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027985,
-    "geom:area_square_m":229724979.987013,
+    "geom:area_square_m":229724979.987081,
     "geom:bbox":"-122.515134,48.297535,-122.191436,48.501219",
     "geom:latitude":48.404309,
     "geom:longitude":-122.370227,
@@ -13,19 +13,26 @@
     "lbl:latitude":48.402754,
     "lbl:longitude":-122.376148,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mount Vernon",
+    "mz:postal_locality_alt":[
+        "Mt Vernon",
+        "Clearlake",
+        "Mt. Vernon"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688623,
-        102084225
+        102084225,
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12799057"
     },
     "wof:country":"US",
-    "wof:geomhash":"c0010642e768da1396260e4812afe94d",
+    "wof:geomhash":"60ed2a374981eb10cbca0f8fc624be4a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +43,7 @@
         }
     ],
     "wof:id":554755595,
-    "wof:lastmodified":1480796381,
+    "wof:lastmodified":1611182563,
     "wof:name":"98273",
     "wof:parent_id":102084225,
     "wof:placetype":"postalcode",

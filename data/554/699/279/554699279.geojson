@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001607,
-    "geom:area_square_m":14762189.881503,
+    "geom:area_square_m":14762189.881529,
     "geom:bbox":"-73.133833,41.990152,-73.074054,42.042054",
     "geom:latitude":42.021886,
     "geom:longitude":-73.104322,
@@ -14,20 +14,22 @@
     "lbl:latitude":42.017229,
     "lbl:longitude":-73.104821,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Colebrook",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688629,
         102191575,
-        404495837,
         85633793,
-        102085375
+        102085375,
+        404495837,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760178"
     },
     "wof:country":"US",
-    "wof:geomhash":"5852bf104e5f41f829f984b628929ad3",
+    "wof:geomhash":"2855cdd1463f7c14acd822e05acc9dc2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554699279,
-    "wof:lastmodified":1480805210,
+    "wof:lastmodified":1611184622,
     "wof:name":"06021",
     "wof:parent_id":404495837,
     "wof:placetype":"postalcode",

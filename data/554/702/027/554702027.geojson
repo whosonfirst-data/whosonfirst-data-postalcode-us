@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006965,
-    "geom:area_square_m":63080400.259651,
+    "geom:area_square_m":63080400.259591,
     "geom:bbox":"-76.739361,42.835847,-76.623055,43.004568",
     "geom:latitude":42.91194,
     "geom:longitude":-76.693798,
@@ -14,20 +14,22 @@
     "lbl:latitude":42.95678,
     "lbl:longitude":-76.707909,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cayuga",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404521235,
         85633793,
-        102083071
+        102083071,
+        404521235,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762617"
     },
     "wof:country":"US",
-    "wof:geomhash":"98a4a02b4a0ae00fdd6d3f8fc3df8092",
+    "wof:geomhash":"12910222cc4186e172bb77ec878583d7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554702027,
-    "wof:lastmodified":1480840599,
+    "wof:lastmodified":1611184160,
     "wof:name":"13034",
     "wof:parent_id":404521235,
     "wof:placetype":"postalcode",

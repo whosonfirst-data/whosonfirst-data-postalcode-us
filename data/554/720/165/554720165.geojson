@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.054331,
-    "geom:area_square_m":534913590.800943,
+    "geom:area_square_m":534913590.801021,
     "geom:bbox":"-85.68207,37.109444,-85.352771,37.392351",
     "geom:latitude":37.228925,
     "geom:longitude":-85.530822,
@@ -14,19 +14,25 @@
     "lbl:latitude":37.228397,
     "lbl:longitude":-85.532314,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Greensburg",
+    "mz:postal_locality_alt":[
+        "Columbia",
+        "Elizabethtown"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688641,
-        102084515
+        102084515,
+        85688641
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776056"
     },
     "wof:country":"US",
-    "wof:geomhash":"1070c6394d15a75c13e19635553ecd1c",
+    "wof:geomhash":"e34a38a4434558363c872fbe8a019858",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554720165,
-    "wof:lastmodified":1480806850,
+    "wof:lastmodified":1611185469,
     "wof:name":"42743",
     "wof:parent_id":102084515,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003559,
-    "geom:area_square_m":34068854.230701,
+    "geom:area_square_m":34068854.230669,
     "geom:bbox":"-76.540876,39.222702,-76.443482,39.292305",
     "geom:latitude":39.265478,
     "geom:longitude":-76.493453,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.26484,
     "lbl:longitude":-76.492565,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Dundalk",
+    "mz:postal_locality_alt":[
+        "Baltimore"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688501,
         102191575,
         85633793,
+        102082193,
         85950181,
-        102082193
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766515"
     },
     "wof:country":"US",
-    "wof:geomhash":"fd6d8669c1e1da45421bf741cac17727",
+    "wof:geomhash":"a91d47333da83d2157908d88308ac6c9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554780515,
-    "wof:lastmodified":1480831125,
+    "wof:lastmodified":1611185195,
     "wof:name":"21222",
     "wof:parent_id":85950181,
     "wof:placetype":"postalcode",

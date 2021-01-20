@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004983,
-    "geom:area_square_m":46940548.391546,
+    "geom:area_square_m":46940548.391496,
     "geom:bbox":"-74.209053,40.324526,-74.133206,40.426786",
     "geom:latitude":40.376638,
     "geom:longitude":-74.172572,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.374964,
     "lbl:longitude":-74.173849,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Holmdel",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478347,
         85633793,
-        102085049
+        102085049,
+        404478347,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760859"
     },
     "wof:country":"US",
-    "wof:geomhash":"1b78f8b933fef21ec584e58d6ef7da97",
+    "wof:geomhash":"f8f1399483202cad12ee0a4862fcb848",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554700173,
-    "wof:lastmodified":1480809854,
+    "wof:lastmodified":1611183188,
     "wof:name":"07733",
     "wof:parent_id":404478347,
     "wof:placetype":"postalcode",

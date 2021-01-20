@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036453,
-    "geom:area_square_m":360274448.553928,
+    "geom:area_square_m":360274448.554248,
     "geom:bbox":"-121.869941,36.81439,-121.581154,37.070745",
     "geom:latitude":36.938703,
     "geom:longitude":-121.749496,
@@ -13,20 +13,27 @@
     "lbl:latitude":36.946256,
     "lbl:longitude":-121.756479,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Watsonville",
+    "mz:postal_locality_alt":[
+        "La Selva Beach",
+        "Freedom",
+        "Corralitos"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102087581,
         85924285,
-        102087581
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12797553"
     },
     "wof:country":"US",
-    "wof:geomhash":"b9ddb3a2c9bb1ad520396b0d41140337",
+    "wof:geomhash":"ae35e6ca60b75b9734f5311fb6dac7d6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +45,7 @@
         }
     ],
     "wof:id":554753347,
-    "wof:lastmodified":1480907183,
+    "wof:lastmodified":1611182948,
     "wof:name":"95076",
     "wof:parent_id":85924285,
     "wof:placetype":"postalcode",

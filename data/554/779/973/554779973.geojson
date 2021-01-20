@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003487,
-    "geom:area_square_m":32560630.315052,
+    "geom:area_square_m":32560630.31507,
     "geom:bbox":"-72.869718,40.910914,-72.77524,40.978684",
     "geom:latitude":40.953348,
     "geom:longitude":-72.828097,
@@ -14,21 +14,27 @@
     "lbl:latitude":40.954997,
     "lbl:longitude":-72.825588,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wading River",
+    "mz:postal_locality_alt":[
+        "Jericho",
+        "Oyster Bay"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522663,
         85633793,
+        102082395,
+        404522663,
         85979901,
-        102082395
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761975"
     },
     "wof:country":"US",
-    "wof:geomhash":"c0127ca8e0691a7776a35e5f0d36c876",
+    "wof:geomhash":"bf1f21061a7b0ffa471a819b6dd66fb9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554779973,
-    "wof:lastmodified":1480794860,
+    "wof:lastmodified":1611183989,
     "wof:name":"11792",
     "wof:parent_id":85979901,
     "wof:placetype":"postalcode",

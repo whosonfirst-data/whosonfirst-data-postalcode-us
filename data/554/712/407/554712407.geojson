@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022413,
-    "geom:area_square_m":227332438.09467,
+    "geom:area_square_m":227332438.094694,
     "geom:bbox":"-82.676258,34.786747,-82.480298,34.994428",
     "geom:latitude":34.888323,
     "geom:longitude":-82.577726,
@@ -13,19 +13,25 @@
     "lbl:latitude":34.87771,
     "lbl:longitude":-82.575421,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Easley",
+    "mz:postal_locality_alt":[
+        "Liberty",
+        "Pickens"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688683,
-        102085671
+        102085671,
+        85688683
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770324"
     },
     "wof:country":"US",
-    "wof:geomhash":"e717415fe7796a31fc17e8367cf9cfdf",
+    "wof:geomhash":"0de297b8c1532785376927781f6c6cd6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +42,7 @@
         }
     ],
     "wof:id":554712407,
-    "wof:lastmodified":1480805759,
+    "wof:lastmodified":1611183707,
     "wof:name":"29640",
     "wof:parent_id":102085671,
     "wof:placetype":"postalcode",

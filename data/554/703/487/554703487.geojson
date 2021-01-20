@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002209,
-    "geom:area_square_m":20837578.877221,
+    "geom:area_square_m":20837578.877223,
     "geom:bbox":"-80.038165,40.268662,-79.956147,40.32112",
     "geom:latitude":40.293249,
     "geom:longitude":-79.996038,
@@ -14,21 +14,26 @@
     "lbl:latitude":40.293248,
     "lbl:longitude":-79.996037,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Library",
+    "mz:postal_locality_alt":[
+        "South Park"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404484315,
         85633793,
+        102080887,
+        404484315,
         101720491,
-        102080887
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763624"
     },
     "wof:country":"US",
-    "wof:geomhash":"9a77d9865b4986cecbeda9b362ea1cd7",
+    "wof:geomhash":"c687bb99f43764e212b10c3f22729ac7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554703487,
-    "wof:lastmodified":1480905385,
+    "wof:lastmodified":1611184474,
     "wof:name":"15129",
     "wof:parent_id":101720491,
     "wof:placetype":"postalcode",

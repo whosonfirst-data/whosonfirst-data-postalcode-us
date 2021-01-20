@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000767,
-    "geom:area_square_m":7474933.134196,
+    "geom:area_square_m":7474933.13418,
     "geom:bbox":"-97.967818,38.012932,-97.921981,38.043845",
     "geom:latitude":38.028142,
     "geom:longitude":-97.943093,
@@ -14,21 +14,26 @@
     "lbl:latitude":38.031355,
     "lbl:longitude":-97.9458,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"South Hutchinson",
+    "mz:postal_locality_alt":[
+        "Hutchinson"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404504733,
         85633793,
+        102082171,
+        404504733,
         85945343,
-        102082171
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787294"
     },
     "wof:country":"US",
-    "wof:geomhash":"8597e76865cea54a03f9a2ceaea7af4b",
+    "wof:geomhash":"13bda1f7d02fd6bdbf8b637d8a6bdfee",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554739013,
-    "wof:lastmodified":1480792191,
+    "wof:lastmodified":1611182655,
     "wof:name":"67505",
     "wof:parent_id":85945343,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005209,
-    "geom:area_square_m":47859651.692465,
+    "geom:area_square_m":47859651.692431,
     "geom:bbox":"-86.57422,41.968314,-86.443208,42.050734",
     "geom:latitude":42.007324,
     "geom:longitude":-86.516329,
@@ -14,21 +14,26 @@
     "lbl:latitude":42.010826,
     "lbl:longitude":-86.515299,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Stevensville",
+    "mz:postal_locality_alt":[
+        "Bridgman"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404506997,
         85633793,
+        102083151,
+        404506997,
         85951653,
-        102083151
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779220"
     },
     "wof:country":"US",
-    "wof:geomhash":"f928c44d75676a0ed33d4af4932bb864",
+    "wof:geomhash":"ee41cac62e736980db9fd4f01c0a3c6b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554782675,
-    "wof:lastmodified":1480835933,
+    "wof:lastmodified":1611183604,
     "wof:name":"49127",
     "wof:parent_id":85951653,
     "wof:placetype":"postalcode",

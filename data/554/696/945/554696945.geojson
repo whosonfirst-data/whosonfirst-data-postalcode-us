@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010455,
-    "geom:area_square_m":95928559.791651,
+    "geom:area_square_m":95928559.791683,
     "geom:bbox":"-73.436744,42.047972,-73.297178,42.159913",
     "geom:latitude":42.097027,
     "geom:longitude":-73.368866,
@@ -14,20 +14,25 @@
     "lbl:latitude":42.085244,
     "lbl:longitude":-73.367483,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Sheffield",
+    "mz:postal_locality_alt":[
+        "Ashley Falls"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404475925,
         85633793,
-        102084369
+        102084369,
+        404475925,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758405"
     },
     "wof:country":"US",
-    "wof:geomhash":"d450b94f770681d0a5e9123c8967d0a1",
+    "wof:geomhash":"7cbc438c9e8a9acfb807e4918a8af7cb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554696945,
-    "wof:lastmodified":1480805211,
+    "wof:lastmodified":1611184674,
     "wof:name":"01257",
     "wof:parent_id":404475925,
     "wof:placetype":"postalcode",

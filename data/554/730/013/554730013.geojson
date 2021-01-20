@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019058,
-    "geom:area_square_m":170431753.249827,
+    "geom:area_square_m":170431753.249922,
     "geom:bbox":"-94.694688,43.587151,-94.5223,43.761793",
     "geom:latitude":43.679857,
     "geom:longitude":-94.617319,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.677795,
     "lbl:longitude":-94.626603,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Welcome",
+    "mz:postal_locality_alt":[
+        "Fairmont"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404514011,
         85633793,
-        102087019
+        102087019,
+        404514011,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782313"
     },
     "wof:country":"US",
-    "wof:geomhash":"9fc8c8219a16d41e4a1f0a94598e2046",
+    "wof:geomhash":"73dad2e878ca0963df650473615a25f2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554730013,
-    "wof:lastmodified":1480783419,
+    "wof:lastmodified":1611182727,
     "wof:name":"56181",
     "wof:parent_id":404514011,
     "wof:placetype":"postalcode",

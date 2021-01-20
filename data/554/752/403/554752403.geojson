@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009487,
-    "geom:area_square_m":96698180.327556,
+    "geom:area_square_m":96698180.327592,
     "geom:bbox":"-117.486668,34.435022,-117.322754,34.521273",
     "geom:latitude":34.480244,
     "geom:longitude":-117.408181,
@@ -13,20 +13,25 @@
     "lbl:latitude":34.480247,
     "lbl:longitude":-117.408184,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Victorville",
+    "mz:postal_locality_alt":[
+        "Spring Vly Lake"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102085395,
         85923967,
-        102085395
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796463"
     },
     "wof:country":"US",
-    "wof:geomhash":"c498adc96a877a77f6b4f2f8a5e150b8",
+    "wof:geomhash":"f5e539c8edde1b7510ed3ee983e19158",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554752403,
-    "wof:lastmodified":1480814341,
+    "wof:lastmodified":1611182552,
     "wof:name":"92392",
     "wof:parent_id":85923967,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002369,
-    "geom:area_square_m":21775871.279119,
+    "geom:area_square_m":21775871.279161,
     "geom:bbox":"-88.16983,41.934073,-88.118541,42.01811",
     "geom:latitude":41.977677,
     "geom:longitude":-88.143017,
@@ -14,21 +14,27 @@
     "lbl:latitude":41.977842,
     "lbl:longitude":-88.143199,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bartlett",
+    "mz:postal_locality_alt":[
+        "Hanover Park",
+        "Roselle"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404497763,
         85633793,
+        102081257,
+        404497763,
         85940189,
-        102081257
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"23424633"
     },
     "wof:country":"US",
-    "wof:geomhash":"8862efdfa4d04f1fcd83c64e66ecddb8",
+    "wof:geomhash":"75e23350f48c0fb30d79cd1187fcf686",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554756561,
-    "wof:lastmodified":1480830868,
+    "wof:lastmodified":1611184271,
     "wof:name":"60133",
     "wof:parent_id":85940189,
     "wof:placetype":"postalcode",

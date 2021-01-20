@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.052019,
-    "geom:area_square_m":448089096.208431,
+    "geom:area_square_m":448089096.208571,
     "geom:bbox":"-97.501905,45.725784,-97.144949,45.936139",
     "geom:latitude":45.843206,
     "geom:longitude":-97.340594,
@@ -14,20 +14,25 @@
     "lbl:latitude":45.841192,
     "lbl:longitude":-97.338627,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Veblen",
+    "mz:postal_locality_alt":[
+        "New Effington"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688693,
         102191575,
-        404490485,
         85633793,
-        102086785
+        102086785,
+        404490485,
+        85688693
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782837"
     },
     "wof:country":"US",
-    "wof:geomhash":"daf1270c3721a25e631190d6ed2fef46",
+    "wof:geomhash":"77710b771cbc9f08fb2e711faf09f1f4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554731045,
-    "wof:lastmodified":1480917000,
+    "wof:lastmodified":1611183077,
     "wof:name":"57270",
     "wof:parent_id":404490485,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002765,
-    "geom:area_square_m":25384953.186395,
+    "geom:area_square_m":25384953.186413,
     "geom:bbox":"-72.608261,42.024695,-72.531575,42.073716",
     "geom:latitude":42.047936,
     "geom:longitude":-72.571748,
@@ -13,21 +13,26 @@
     "lbl:latitude":42.047565,
     "lbl:longitude":-72.57113,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Longmeadow",
+    "mz:postal_locality_alt":[
+        "Springfield"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404475977,
         85633793,
+        102084627,
+        404475977,
         85950771,
-        102084627
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758360"
     },
     "wof:country":"US",
-    "wof:geomhash":"fb7b0c60e0cc64a295ba465d344824a5",
+    "wof:geomhash":"753b8fcef487cafbf38d2760a68d9091",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554696881,
-    "wof:lastmodified":1480815744,
+    "wof:lastmodified":1611184668,
     "wof:name":"01106",
     "wof:parent_id":85950771,
     "wof:placetype":"postalcode",

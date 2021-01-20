@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.118518,
-    "geom:area_square_m":1161833875.351371,
+    "geom:area_square_m":1161833875.351198,
     "geom:bbox":"-101.925285,37.330088,-101.489935,37.738116",
     "geom:latitude":37.552932,
     "geom:longitude":-101.688436,
@@ -14,20 +14,22 @@
     "lbl:latitude":37.551783,
     "lbl:longitude":-101.685232,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Johnson",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404505145,
         85633793,
-        102082155
+        102082155,
+        404505145,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787438"
     },
     "wof:country":"US",
-    "wof:geomhash":"ba84a1d6986fecc24c2d51ff542f9229",
+    "wof:geomhash":"6b726ef0b9871c4372e650570d344645",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554739325,
-    "wof:lastmodified":1480834575,
+    "wof:lastmodified":1611182665,
     "wof:name":"67855",
     "wof:parent_id":404505145,
     "wof:placetype":"postalcode",

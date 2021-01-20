@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024359,
-    "geom:area_square_m":216639220.989794,
+    "geom:area_square_m":216639220.989744,
     "geom:bbox":"-91.344678,43.923321,-91.10978,44.090584",
     "geom:latitude":44.007556,
     "geom:longitude":-91.226571,
@@ -14,20 +14,25 @@
     "lbl:latitude":44.002965,
     "lbl:longitude":-91.224012,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Holmen",
+    "mz:postal_locality_alt":[
+        "Viroqua"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404493459,
         85633793,
-        102081301
+        102081301,
+        404493459,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781439"
     },
     "wof:country":"US",
-    "wof:geomhash":"48af77176386e71af3d99b986f898f80",
+    "wof:geomhash":"1c6f8ea766ef5b428f45a98db10b8b7a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554728511,
-    "wof:lastmodified":1480833244,
+    "wof:lastmodified":1611185070,
     "wof:name":"54636",
     "wof:parent_id":404493459,
     "wof:placetype":"postalcode",

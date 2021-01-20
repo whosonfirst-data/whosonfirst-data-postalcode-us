@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.065422,
-    "geom:area_square_m":662625889.644365,
+    "geom:area_square_m":662625889.644837,
     "geom:bbox":"-78.477926,34.804295,-78.207595,35.179196",
     "geom:latitude":35.003454,
     "geom:longitude":-78.338269,
@@ -13,20 +13,30 @@
     "lbl:latitude":35.003503,
     "lbl:longitude":-78.337924,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Clinton",
+    "mz:postal_locality_alt":[
+        "Southern Pines",
+        "Newton Grove",
+        "Faison",
+        "Rowland",
+        "Fayetteville",
+        "Red Springs"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688773,
         102191575,
         85633793,
+        102080881,
         85980643,
-        102080881
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12769560"
     },
     "wof:country":"US",
-    "wof:geomhash":"788aa7944b3b5d1b4c454c4b0e1cfb1c",
+    "wof:geomhash":"c38620c137b0a7ddb7ed3d4f5d1a61b1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +48,7 @@
         }
     ],
     "wof:id":554711303,
-    "wof:lastmodified":1480905321,
+    "wof:lastmodified":1611185324,
     "wof:name":"28328",
     "wof:parent_id":85980643,
     "wof:placetype":"postalcode",

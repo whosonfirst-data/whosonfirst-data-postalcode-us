@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004516,
-    "geom:area_square_m":41900614.890035,
+    "geom:area_square_m":41900614.890088,
     "geom:bbox":"-81.685754,41.350966,-81.596776,41.432469",
     "geom:latitude":41.382854,
     "geom:longitude":-81.65236,
@@ -14,21 +14,26 @@
     "lbl:latitude":41.382841,
     "lbl:longitude":-81.650195,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cleveland",
+    "mz:postal_locality_alt":[
+        "Independence"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404524415,
         85633793,
+        102084837,
+        404524415,
         101712595,
-        102084837
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776657"
     },
     "wof:country":"US",
-    "wof:geomhash":"16220ecc865be61c36d3591a4d86bcb6",
+    "wof:geomhash":"bf5af90e80fd8dd86993dd931b34e4e3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554721015,
-    "wof:lastmodified":1480799989,
+    "wof:lastmodified":1611184948,
     "wof:name":"44131",
     "wof:parent_id":101712595,
     "wof:placetype":"postalcode",

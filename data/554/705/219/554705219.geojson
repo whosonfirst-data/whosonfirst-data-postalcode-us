@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005787,
-    "geom:area_square_m":54818072.391605,
+    "geom:area_square_m":54818072.3916,
     "geom:bbox":"-76.817314,39.92966,-76.72447,40.077903",
     "geom:latitude":40.002308,
     "geom:longitude":-76.771267,
@@ -13,20 +13,26 @@
     "lbl:latitude":40.002612,
     "lbl:longitude":-76.773548,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"York",
+    "mz:postal_locality_alt":[
+        "York New Salem",
+        "Dover"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404487823,
         85633793,
-        102080953
+        102080953,
+        404487823,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764777"
     },
     "wof:country":"US",
-    "wof:geomhash":"322859e76346eefe6adb20557a86ab4f",
+    "wof:geomhash":"6c344bcfad9432e697d3a1a99ba8c920",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554705219,
-    "wof:lastmodified":1480903979,
+    "wof:lastmodified":1611184098,
     "wof:name":"17404",
     "wof:parent_id":404487823,
     "wof:placetype":"postalcode",

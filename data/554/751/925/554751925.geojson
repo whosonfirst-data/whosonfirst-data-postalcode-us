@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001055,
-    "geom:area_square_m":10784640.486146,
+    "geom:area_square_m":10784640.48615,
     "geom:bbox":"-118.589063,34.185695,-118.562228,34.231844",
     "geom:latitude":34.209268,
     "geom:longitude":-118.575393,
@@ -13,20 +13,27 @@
     "lbl:latitude":34.209532,
     "lbl:longitude":-118.577563,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Winnetka",
+    "mz:postal_locality_alt":[
+        "Canoga Park",
+        "San Fernando Valley",
+        "Los Angeles"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086957,
         85923517,
-        102086957
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795963"
     },
     "wof:country":"US",
-    "wof:geomhash":"4ec5c4e00cdd1f2e3fd602ab792a8dc9",
+    "wof:geomhash":"a418aca6ae606ee62c5a2118abb05b73",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +45,7 @@
         }
     ],
     "wof:id":554751925,
-    "wof:lastmodified":1480912613,
+    "wof:lastmodified":1611184343,
     "wof:name":"91306",
     "wof:parent_id":85923517,
     "wof:placetype":"postalcode",

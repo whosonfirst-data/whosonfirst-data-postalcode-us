@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016923,
-    "geom:area_square_m":162609495.117477,
+    "geom:area_square_m":162609495.117651,
     "geom:bbox":"-78.46274,38.915862,-78.211581,39.102828",
     "geom:latitude":39.005313,
     "geom:longitude":-78.372286,
@@ -13,19 +13,25 @@
     "lbl:latitude":39.002622,
     "lbl:longitude":-78.376111,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Strasburg",
+    "mz:postal_locality_alt":[
+        "Fishers Hill",
+        "Winchester"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688747,
-        102081061
+        102081061,
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12767016"
     },
     "wof:country":"US",
-    "wof:geomhash":"e5652e8429735c7df521051f2fac874f",
+    "wof:geomhash":"f9d5d9c435cbb60c810ff55ac9b5e742",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +42,7 @@
         }
     ],
     "wof:id":554707799,
-    "wof:lastmodified":1480816321,
+    "wof:lastmodified":1611183130,
     "wof:name":"22657",
     "wof:parent_id":102081061,
     "wof:placetype":"postalcode",

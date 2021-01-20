@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012706,
-    "geom:area_square_m":119564616.769398,
+    "geom:area_square_m":119564616.769356,
     "geom:bbox":"-75.926195,40.382477,-75.711516,40.503922",
     "geom:latitude":40.447302,
     "geom:longitude":-75.818496,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.447368,
     "lbl:longitude":-75.820496,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fleetwood",
+    "mz:postal_locality_alt":[
+        "Bethel"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404484547,
         85633793,
-        102080991
+        102080991,
+        404484547,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765696"
     },
     "wof:country":"US",
-    "wof:geomhash":"d211db6d90ccba98ac2ba1874a39dfba",
+    "wof:geomhash":"b2e4cf0f33f4ee8b5b8a71071571c9d7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554706517,
-    "wof:lastmodified":1480903399,
+    "wof:lastmodified":1611182696,
     "wof:name":"19522",
     "wof:parent_id":404484547,
     "wof:placetype":"postalcode",

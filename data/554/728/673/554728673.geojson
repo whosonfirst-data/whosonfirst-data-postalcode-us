@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017882,
-    "geom:area_square_m":156079584.98204,
+    "geom:area_square_m":156079584.981962,
     "geom:bbox":"-91.973345,45.003627,-91.773579,45.194292",
     "geom:latitude":45.099732,
     "geom:longitude":-91.873843,
@@ -14,20 +14,22 @@
     "lbl:latitude":45.100596,
     "lbl:longitude":-91.881707,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wheeler",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404492743,
         85633793,
-        102081747
+        102081747,
+        404492743,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781524"
     },
     "wof:country":"US",
-    "wof:geomhash":"3ae19dea0976aa9469658573d412283e",
+    "wof:geomhash":"4d2b513d16d98887c5ae4ad963eed71e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554728673,
-    "wof:lastmodified":1480817505,
+    "wof:lastmodified":1611185057,
     "wof:name":"54772",
     "wof:parent_id":404492743,
     "wof:placetype":"postalcode",

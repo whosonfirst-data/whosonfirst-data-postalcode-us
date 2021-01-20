@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00674,
-    "geom:area_square_m":62360604.542329,
+    "geom:area_square_m":62360604.542338,
     "geom:bbox":"-74.268633,41.523813,-74.095569,41.601846",
     "geom:latitude":41.565034,
     "geom:longitude":-74.173325,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.562765,
     "lbl:longitude":-74.170102,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Walden",
+    "mz:postal_locality_alt":[
+        "Montgomery"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522909,
         85633793,
-        102083061
+        102083061,
+        404522909,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762392"
     },
     "wof:country":"US",
-    "wof:geomhash":"50260ba93fd56a9271153c60fc109065",
+    "wof:geomhash":"438c39bc8f577f27e59e48dc410a1753",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554701619,
-    "wof:lastmodified":1480834096,
+    "wof:lastmodified":1611182618,
     "wof:name":"12586",
     "wof:parent_id":404522909,
     "wof:placetype":"postalcode",

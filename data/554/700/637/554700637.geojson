@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002763,
-    "geom:area_square_m":26083275.885784,
+    "geom:area_square_m":26083275.885788,
     "geom:bbox":"-74.734695,40.205354,-74.661295,40.270903",
     "geom:latitude":40.241198,
     "geom:longitude":-74.696077,
@@ -13,21 +13,27 @@
     "lbl:latitude":40.2423,
     "lbl:longitude":-74.696408,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Trenton",
+    "mz:postal_locality_alt":[
+        "Mercerville",
+        "Hamilton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478251,
         85633793,
+        102081129,
+        404478251,
         85976399,
-        102081129
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761208"
     },
     "wof:country":"US",
-    "wof:geomhash":"b2c047e58e230285a4ebc4991dbb0fe0",
+    "wof:geomhash":"0b6c3f9405d7d6f2ea37bb7194e6e409",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +46,7 @@
         }
     ],
     "wof:id":554700637,
-    "wof:lastmodified":1480831098,
+    "wof:lastmodified":1611183202,
     "wof:name":"08619",
     "wof:parent_id":85976399,
     "wof:placetype":"postalcode",

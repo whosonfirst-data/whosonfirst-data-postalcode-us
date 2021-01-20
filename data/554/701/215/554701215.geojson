@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006956,
-    "geom:area_square_m":63050203.210613,
+    "geom:area_square_m":63050203.210559,
     "geom:bbox":"-74.207546,42.814654,-74.028625,42.90685",
     "geom:latitude":42.856107,
     "geom:longitude":-74.127688,
@@ -13,20 +13,25 @@
     "lbl:latitude":42.860334,
     "lbl:longitude":-74.133072,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pattersonville",
+    "mz:postal_locality_alt":[
+        "Amsterdam"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522381,
         85633793,
-        102081765
+        102081765,
+        404522381,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762127"
     },
     "wof:country":"US",
-    "wof:geomhash":"2ffd2ff5964d0d704d8640091facf4db",
+    "wof:geomhash":"86bbf8613223f2b4c66bcb59f74229a8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554701215,
-    "wof:lastmodified":1480818877,
+    "wof:lastmodified":1611182635,
     "wof:name":"12137",
     "wof:parent_id":404522381,
     "wof:placetype":"postalcode",

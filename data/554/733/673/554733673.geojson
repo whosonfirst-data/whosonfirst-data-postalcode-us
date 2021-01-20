@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003557,
-    "geom:area_square_m":32521342.259457,
+    "geom:area_square_m":32521342.259409,
     "geom:bbox":"-89.979396,42.283698,-89.857796,42.35678",
     "geom:latitude":42.31879,
     "geom:longitude":-89.91509,
@@ -14,20 +14,22 @@
     "lbl:latitude":42.318788,
     "lbl:longitude":-89.915091,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Kent",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404498897,
         85633793,
-        102083509
+        102083509,
+        404498897,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784432"
     },
     "wof:country":"US",
-    "wof:geomhash":"4d1db69824b288925b99febd039ccb95",
+    "wof:geomhash":"a65f8f3c5332f59d8cf987c4845bb821",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554733673,
-    "wof:lastmodified":1480904879,
+    "wof:lastmodified":1611184218,
     "wof:name":"61044",
     "wof:parent_id":404498897,
     "wof:placetype":"postalcode",

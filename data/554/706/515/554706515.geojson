@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010353,
-    "geom:area_square_m":97829379.084884,
+    "geom:area_square_m":97829379.084954,
     "geom:bbox":"-75.872465,40.103892,-75.727037,40.216721",
     "geom:latitude":40.162534,
     "geom:longitude":-75.797118,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.16351,
     "lbl:longitude":-75.793465,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Elverson",
+    "mz:postal_locality_alt":[
+        "Morgantown"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485165,
         85633793,
-        102081275
+        102081275,
+        404485165,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765695"
     },
     "wof:country":"US",
-    "wof:geomhash":"c37639acf55142fae7301d77639c5eae",
+    "wof:geomhash":"6de693b1ee511ef11ed0854b3294c4d4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554706515,
-    "wof:lastmodified":1480903400,
+    "wof:lastmodified":1611182718,
     "wof:name":"19520",
     "wof:parent_id":404485165,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017859,
-    "geom:area_square_m":165137999.601382,
+    "geom:area_square_m":165137999.601504,
     "geom:bbox":"-71.138464,41.480332,-70.979327,41.734708",
     "geom:latitude":41.598795,
     "geom:longitude":-71.08292,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.599176,
     "lbl:longitude":-71.082371,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Westport",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476149,
         85633793,
-        102084407
+        102084407,
+        404476149,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758983"
     },
     "wof:country":"US",
-    "wof:geomhash":"5da6c6a35c5ccbbd4dc0bcf856b012dd",
+    "wof:geomhash":"aec39dbe75ca1d72bbd377ec0b34051d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554697559,
-    "wof:lastmodified":1480830990,
+    "wof:lastmodified":1611184636,
     "wof:name":"02790",
     "wof:parent_id":404476149,
     "wof:placetype":"postalcode",

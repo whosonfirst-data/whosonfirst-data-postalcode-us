@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.057762,
-    "geom:area_square_m":608195589.91992,
+    "geom:area_square_m":608195589.920093,
     "geom:bbox":"-94.900639,31.44097,-94.614689,31.843943",
     "geom:latitude":31.621673,
     "geom:longitude":-94.744939,
@@ -13,19 +13,25 @@
     "lbl:latitude":31.631742,
     "lbl:longitude":-94.740721,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Nacogdoches",
+    "mz:postal_locality_alt":[
+        "Alto",
+        "Joaquin"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688753,
-        102080711
+        102080711,
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12790834"
     },
     "wof:country":"US",
-    "wof:geomhash":"2b94bc41a225154b561c2df18cc2092c",
+    "wof:geomhash":"883500c1e07ef2f674d6d0db9b0faae7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +42,7 @@
         }
     ],
     "wof:id":554744959,
-    "wof:lastmodified":1480906868,
+    "wof:lastmodified":1611184732,
     "wof:name":"75964",
     "wof:parent_id":102080711,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001031,
-    "geom:area_square_m":9944657.857597,
+    "geom:area_square_m":9944657.857625,
     "geom:bbox":"-90.408563,38.709285,-90.369437,38.74369",
     "geom:latitude":38.726499,
     "geom:longitude":-90.388703,
@@ -14,21 +14,26 @@
     "lbl:latitude":38.726499,
     "lbl:longitude":-90.388703,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Saint Ann",
+    "mz:postal_locality_alt":[
+        "St Ann"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404517201,
         85633793,
+        102086173,
+        404517201,
         85972211,
-        102086173
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785575"
     },
     "wof:country":"US",
-    "wof:geomhash":"f407f8453523e60504d34a417ac1bacd",
+    "wof:geomhash":"23d7ad4289412ea0c17a1e499e691927",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554735723,
-    "wof:lastmodified":1480914495,
+    "wof:lastmodified":1611184426,
     "wof:name":"63074",
     "wof:parent_id":85972211,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001709,
-    "geom:area_square_m":16158128.161544,
+    "geom:area_square_m":16158128.161552,
     "geom:bbox":"-75.248672,40.112276,-75.164551,40.161963",
     "geom:latitude":40.134266,
     "geom:longitude":-75.204843,
@@ -13,21 +13,26 @@
     "lbl:latitude":40.134266,
     "lbl:longitude":-75.204847,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fort Washington",
+    "mz:postal_locality_alt":[
+        "Ambler"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485703,
         85633793,
+        102081355,
+        404485703,
         101719577,
-        102081355
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765435"
     },
     "wof:country":"US",
-    "wof:geomhash":"b2826f16044c5ca13b4aa1ef732487e2",
+    "wof:geomhash":"c5c8c274e89e3188f9c94f864491f4bc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554706183,
-    "wof:lastmodified":1480818599,
+    "wof:lastmodified":1611182715,
     "wof:name":"19034",
     "wof:parent_id":101719577,
     "wof:placetype":"postalcode",

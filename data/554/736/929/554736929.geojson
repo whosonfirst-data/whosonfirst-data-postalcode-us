@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.07651,
-    "geom:area_square_m":742883502.952804,
+    "geom:area_square_m":742883502.952467,
     "geom:bbox":"-94.543791,38.121647,-94.084053,38.39082",
     "geom:latitude":38.257566,
     "geom:longitude":-94.296476,
@@ -14,20 +14,22 @@
     "lbl:latitude":38.259262,
     "lbl:longitude":-94.300276,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Butler",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404515387,
         85633793,
-        102085289
+        102085289,
+        404515387,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786232"
     },
     "wof:country":"US",
-    "wof:geomhash":"d637695752a0cfd6167238efb3769a58",
+    "wof:geomhash":"60435f2ae9ef7549237866077f071f30",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554736929,
-    "wof:lastmodified":1480816187,
+    "wof:lastmodified":1611183051,
     "wof:name":"64730",
     "wof:parent_id":404515387,
     "wof:placetype":"postalcode",

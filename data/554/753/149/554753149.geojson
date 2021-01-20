@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01369,
-    "geom:area_square_m":133404803.707218,
+    "geom:area_square_m":133404803.707166,
     "geom:bbox":"-122.252417,37.925778,-122.029182,38.062137",
     "geom:latitude":37.995382,
     "geom:longitude":-122.135049,
@@ -14,20 +14,28 @@
     "lbl:latitude":37.993892,
     "lbl:longitude":-122.136441,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Martinez",
+    "mz:postal_locality_alt":[
+        "Pacheco",
+        "Orinda",
+        "Briones",
+        "Vallejo"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086225,
         85922165,
-        102086225
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12797346"
     },
     "wof:country":"US",
-    "wof:geomhash":"f1ab82e79bd9ddb4eb2731fa85cf8402",
+    "wof:geomhash":"f4c62116dcdf5ab0ffe74cb9a19d49f0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +47,7 @@
         }
     ],
     "wof:id":554753149,
-    "wof:lastmodified":1480908619,
+    "wof:lastmodified":1611182974,
     "wof:name":"94553",
     "wof:parent_id":85922165,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003665,
-    "geom:area_square_m":37528125.997931,
+    "geom:area_square_m":37528125.997965,
     "geom:bbox":"-117.628887,34.07718,-117.523813,34.121601",
     "geom:latitude":34.099526,
     "geom:longitude":-117.578499,
@@ -13,20 +13,25 @@
     "lbl:latitude":34.10097,
     "lbl:longitude":-117.57882,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Rancho Cucamonga",
+    "mz:postal_locality_alt":[
+        "Etiwanda"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102085395,
         85923937,
-        102085395
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796095"
     },
     "wof:country":"US",
-    "wof:geomhash":"9c9859fdec7677a6f2443690f6aea37c",
+    "wof:geomhash":"cc5018aa0e1d4f9a10ab9bedb3f3e4af",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554752043,
-    "wof:lastmodified":1480814341,
+    "wof:lastmodified":1611182544,
     "wof:name":"91730",
     "wof:parent_id":85923937,
     "wof:placetype":"postalcode",

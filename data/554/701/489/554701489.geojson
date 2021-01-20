@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002613,
-    "geom:area_square_m":24019695.669809,
+    "geom:area_square_m":24019695.669801,
     "geom:bbox":"-74.18081,41.929913,-74.086069,42.021028",
     "geom:latitude":41.967478,
     "geom:longitude":-74.136946,
@@ -13,20 +13,22 @@
     "lbl:latitude":41.965192,
     "lbl:longitude":-74.141459,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"West Hurley",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404523247,
         85633793,
-        102081775
+        102081775,
+        404523247,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762317"
     },
     "wof:country":"US",
-    "wof:geomhash":"55b2e2416ed4869d584d650445453cdd",
+    "wof:geomhash":"380a645c7b08d3ad087f66ae44e26c36",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +40,7 @@
         }
     ],
     "wof:id":554701489,
-    "wof:lastmodified":1480819675,
+    "wof:lastmodified":1611182638,
     "wof:name":"12491",
     "wof:parent_id":404523247,
     "wof:placetype":"postalcode",

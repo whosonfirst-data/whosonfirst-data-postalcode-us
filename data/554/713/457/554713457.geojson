@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006372,
-    "geom:area_square_m":64579687.436054,
+    "geom:area_square_m":64579687.436106,
     "geom:bbox":"-85.345887,34.892746,-85.195347,34.985876",
     "geom:latitude":34.952315,
     "geom:longitude":-85.282453,
@@ -14,20 +14,26 @@
     "lbl:latitude":34.952685,
     "lbl:longitude":-85.281297,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Rossville",
+    "mz:postal_locality_alt":[
+        "Ringgold",
+        "Fort Oglethorpe"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688535,
         102191575,
         85633793,
+        102082321,
         85937187,
-        102082321
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12771000"
     },
     "wof:country":"US",
-    "wof:geomhash":"eb62ccb2a36e36c3138af9005fbf005f",
+    "wof:geomhash":"2eadcafa6a2d60c009e10b5f0e771fd4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554713457,
-    "wof:lastmodified":1480798359,
+    "wof:lastmodified":1611183332,
     "wof:name":"30741",
     "wof:parent_id":85937187,
     "wof:placetype":"postalcode",

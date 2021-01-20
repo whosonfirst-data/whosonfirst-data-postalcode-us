@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012517,
-    "geom:area_square_m":120229416.096706,
+    "geom:area_square_m":120229416.096652,
     "geom:bbox":"-121.610257,38.918348,-121.487911,39.134512",
     "geom:latitude":39.033423,
     "geom:longitude":-121.557596,
@@ -14,19 +14,24 @@
     "lbl:latitude":39.040304,
     "lbl:longitude":-121.560484,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Olivehurst",
+    "mz:postal_locality_alt":[
+        "Marysville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688637,
-        102082893
+        102082893,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12798089"
     },
     "wof:country":"US",
-    "wof:geomhash":"c7cb569066bcbc8a8c1256600f4a08c4",
+    "wof:geomhash":"513d12b76c36231dd469d404c18d0f1f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554754191,
-    "wof:lastmodified":1480912925,
+    "wof:lastmodified":1611182899,
     "wof:name":"95961",
     "wof:parent_id":102082893,
     "wof:placetype":"postalcode",

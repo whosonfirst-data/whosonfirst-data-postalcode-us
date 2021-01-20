@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01311,
-    "geom:area_square_m":116545185.105269,
+    "geom:area_square_m":116545185.105245,
     "geom:bbox":"-86.246126,43.945946,-86.039905,44.105967",
     "geom:latitude":44.031898,
     "geom:longitude":-86.129843,
@@ -14,20 +14,22 @@
     "lbl:latitude":44.032042,
     "lbl:longitude":-86.12615,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fountain",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404508691,
         85633793,
-        102083743
+        102083743,
+        404508691,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779345"
     },
     "wof:country":"US",
-    "wof:geomhash":"ec7efc317a9ec8de86a3de43d9ac666c",
+    "wof:geomhash":"9f8d2a7ff80edb3939f7931f7be3b2ef",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554725077,
-    "wof:lastmodified":1480841093,
+    "wof:lastmodified":1611183258,
     "wof:name":"49410",
     "wof:parent_id":404508691,
     "wof:placetype":"postalcode",

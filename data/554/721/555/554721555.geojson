@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024587,
-    "geom:area_square_m":229166519.528136,
+    "geom:area_square_m":229166519.528083,
     "geom:bbox":"-82.835458,40.99429,-82.559851,41.176869",
     "geom:latitude":41.081143,
     "geom:longitude":-82.715632,
@@ -13,20 +13,26 @@
     "lbl:latitude":41.085172,
     "lbl:longitude":-82.710562,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Willard",
+    "mz:postal_locality_alt":[
+        "Milan",
+        "New Haven"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404526575,
         85633793,
-        102083735
+        102083735,
+        404526575,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777015"
     },
     "wof:country":"US",
-    "wof:geomhash":"0526d62d2fb9d1e2214b680eb301e0f4",
+    "wof:geomhash":"23d088873d677b6e0a9fd16b4e32fb66",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554721555,
-    "wof:lastmodified":1480841927,
+    "wof:lastmodified":1611184964,
     "wof:name":"44890",
     "wof:parent_id":404526575,
     "wof:placetype":"postalcode",

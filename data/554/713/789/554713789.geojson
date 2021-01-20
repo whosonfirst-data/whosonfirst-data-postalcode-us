@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007241,
-    "geom:area_square_m":75781037.606078,
+    "geom:area_square_m":75781037.606063,
     "geom:bbox":"-81.277532,32.123756,-81.136785,32.237591",
     "geom:latitude":32.185708,
     "geom:longitude":-81.192487,
@@ -13,20 +13,25 @@
     "lbl:latitude":32.186052,
     "lbl:longitude":-81.192088,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Savannah",
+    "mz:postal_locality_alt":[
+        "Port Wentworth"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688535,
         102191575,
         85633793,
+        102082337,
         85936943,
-        102082337
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12771215"
     },
     "wof:country":"US",
-    "wof:geomhash":"c2985127544307b320908d967ddd6b3f",
+    "wof:geomhash":"618c375a91ebb45eca22855f30d1abd8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554713789,
-    "wof:lastmodified":1480836165,
+    "wof:lastmodified":1611183339,
     "wof:name":"31407",
     "wof:parent_id":85936943,
     "wof:placetype":"postalcode",

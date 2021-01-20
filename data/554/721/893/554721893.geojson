@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011485,
-    "geom:area_square_m":108823937.929843,
+    "geom:area_square_m":108823937.92985,
     "geom:bbox":"-84.798475,39.916513,-84.624397,40.05135",
     "geom:latitude":39.980764,
     "geom:longitude":-84.711316,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.982115,
     "lbl:longitude":-84.709956,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"New Madison",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404524481,
         85633793,
-        102084823
+        102084823,
+        404524481,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777236"
     },
     "wof:country":"US",
-    "wof:geomhash":"3eac44a723a76489d8821a2943a5e765",
+    "wof:geomhash":"30b17028f88e1855a9a8fcaf5582cd2e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554721893,
-    "wof:lastmodified":1480841097,
+    "wof:lastmodified":1611184957,
     "wof:name":"45346",
     "wof:parent_id":404524481,
     "wof:placetype":"postalcode",

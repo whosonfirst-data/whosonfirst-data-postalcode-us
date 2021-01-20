@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002172,
-    "geom:area_square_m":22968610.233264,
+    "geom:area_square_m":22968610.233296,
     "geom:bbox":"-81.366447,31.145672,-81.268617,31.233213",
     "geom:latitude":31.199701,
     "geom:longitude":-81.325837,
@@ -14,19 +14,24 @@
     "lbl:latitude":31.209066,
     "lbl:longitude":-81.309933,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Brunswick",
+    "mz:postal_locality_alt":[
+        "Sea Island"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688535,
-        102081695
+        102081695,
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12771270"
     },
     "wof:country":"US",
-    "wof:geomhash":"45d060b46b5cdd337d6a09bdbb2311b7",
+    "wof:geomhash":"07b482013a78e13c8894d18daffa2c8a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554781171,
-    "wof:lastmodified":1480832862,
+    "wof:lastmodified":1611184840,
     "wof:name":"31561",
     "wof:parent_id":102081695,
     "wof:placetype":"postalcode",

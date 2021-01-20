@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007684,
-    "geom:area_square_m":73160052.439234,
+    "geom:area_square_m":73160052.439233,
     "geom:bbox":"-93.150545,39.608361,-92.971844,39.690694",
     "geom:latitude":39.644997,
     "geom:longitude":-93.054215,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.638456,
     "lbl:longitude":-93.058469,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Rothville",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404516651,
         85633793,
-        102087475
+        102087475,
+        404516651,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786214"
     },
     "wof:country":"US",
-    "wof:geomhash":"bb5adc1eaa6ae5e983b7c4933eeff0d4",
+    "wof:geomhash":"6aca4bc4f4f89ecc987d765251f239f9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554736893,
-    "wof:lastmodified":1480785869,
+    "wof:lastmodified":1611183030,
     "wof:name":"64676",
     "wof:parent_id":404516651,
     "wof:placetype":"postalcode",

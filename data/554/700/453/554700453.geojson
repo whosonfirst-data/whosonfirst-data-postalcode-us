@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038128,
-    "geom:area_square_m":361957397.058188,
+    "geom:area_square_m":361957397.058124,
     "geom:bbox":"-74.812471,39.731204,-74.529336,39.982245",
     "geom:latitude":39.849228,
     "geom:longitude":-74.692594,
@@ -14,20 +14,29 @@
     "lbl:latitude":39.851467,
     "lbl:longitude":-74.693412,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Vincentown",
+    "mz:postal_locality_alt":[
+        "Southampton",
+        "Tabernacle",
+        "Shamong",
+        "Burlington",
+        "Lumberton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477385,
         85633793,
-        102087415
+        102087415,
+        404477385,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761056"
     },
     "wof:country":"US",
-    "wof:geomhash":"a0d994af11345ad1e2dea5fcd200e130",
+    "wof:geomhash":"e17ec218d1bbb9a82ba397a78a6e1b1f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +48,7 @@
         }
     ],
     "wof:id":554700453,
-    "wof:lastmodified":1480823438,
+    "wof:lastmodified":1611183187,
     "wof:name":"08088",
     "wof:parent_id":404477385,
     "wof:placetype":"postalcode",

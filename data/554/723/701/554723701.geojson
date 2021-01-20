@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012229,
-    "geom:area_square_m":117408876.211719,
+    "geom:area_square_m":117408876.211591,
     "geom:bbox":"-87.658745,38.975587,-87.484752,39.172116",
     "geom:latitude":39.064821,
     "geom:longitude":-87.566304,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.073459,
     "lbl:longitude":-87.570355,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Merom",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404501525,
         85633793,
-        102086463
+        102086463,
+        404501525,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778419"
     },
     "wof:country":"US",
-    "wof:geomhash":"a5ec496bf15c01eb9f27ed6f761da629",
+    "wof:geomhash":"b5649eff3a3d2830fa7aa3a41ea54d77",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554723701,
-    "wof:lastmodified":1480913804,
+    "wof:lastmodified":1611183776,
     "wof:name":"47861",
     "wof:parent_id":404501525,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009886,
-    "geom:area_square_m":101236348.648952,
+    "geom:area_square_m":101236348.64894,
     "geom:bbox":"-83.889206,34.045127,-83.670335,34.150061",
     "geom:latitude":34.090577,
     "geom:longitude":-83.766655,
@@ -14,20 +14,25 @@
     "lbl:latitude":34.09047,
     "lbl:longitude":-83.767003,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hoschton",
+    "mz:postal_locality_alt":[
+        "Braselton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688535,
         102191575,
         85633793,
+        102084689,
         85936753,
-        102084689
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770892"
     },
     "wof:country":"US",
-    "wof:geomhash":"74c98168c503622cef824cbed1def885",
+    "wof:geomhash":"09098959f3580cdf784d1fe198f12809",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554713273,
-    "wof:lastmodified":1480836741,
+    "wof:lastmodified":1611183299,
     "wof:name":"30548",
     "wof:parent_id":85936753,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001069,
-    "geom:area_square_m":10282210.540866,
+    "geom:area_square_m":10282210.540879,
     "geom:bbox":"-94.633004,38.932753,-94.607981,38.984216",
     "geom:latitude":38.958023,
     "geom:longitude":-94.619344,
@@ -13,21 +13,27 @@
     "lbl:latitude":38.960717,
     "lbl:longitude":-94.620277,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Shawnee Mission",
+    "mz:postal_locality_alt":[
+        "Leawood",
+        "Prairie Village"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404504341,
         85633793,
+        102082673,
+        404504341,
         85945793,
-        102082673
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786794"
     },
     "wof:country":"US",
-    "wof:geomhash":"ef9ea9f6a1957e07c77faea7668e52b2",
+    "wof:geomhash":"75fbb09807dcd5a58441a401bad926bf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +46,7 @@
         }
     ],
     "wof:id":554738023,
-    "wof:lastmodified":1480816990,
+    "wof:lastmodified":1611183097,
     "wof:name":"66206",
     "wof:parent_id":85945793,
     "wof:placetype":"postalcode",

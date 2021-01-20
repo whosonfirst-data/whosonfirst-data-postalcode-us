@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.047189,
-    "geom:area_square_m":423757325.557066,
+    "geom:area_square_m":423757325.556965,
     "geom:bbox":"-96.332701,43.315443,-95.960464,43.500365",
     "geom:latitude":43.428251,
     "geom:longitude":-96.167138,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.427963,
     "lbl:longitude":-96.168032,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Rock Rapids",
+    "mz:postal_locality_alt":[
+        "Lester"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688713,
         102191575,
         85633793,
+        102086405,
         85944697,
-        102086405
+        85688713
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12780264"
     },
     "wof:country":"US",
-    "wof:geomhash":"039e6caca28ccbf537af789806179ebd",
+    "wof:geomhash":"5b854c1c0de7773ef0d4891602d1684a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554726495,
-    "wof:lastmodified":1480910990,
+    "wof:lastmodified":1611184894,
     "wof:name":"51246",
     "wof:parent_id":85944697,
     "wof:placetype":"postalcode",

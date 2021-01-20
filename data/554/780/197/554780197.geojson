@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007954,
-    "geom:area_square_m":71645604.119233,
+    "geom:area_square_m":71645604.119241,
     "geom:bbox":"-79.075855,43.192742,-78.938576,43.291847",
     "geom:latitude":43.245287,
     "geom:longitude":-79.003431,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.249139,
     "lbl:longitude":-78.998325,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Youngstown",
+    "mz:postal_locality_alt":[
+        "Stella Niagara"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522749,
         85633793,
-        102081767
+        102081767,
+        404522749,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763162"
     },
     "wof:country":"US",
-    "wof:geomhash":"5be64e0fdb88a08be3f93df93dd83719",
+    "wof:geomhash":"49c7f17fde5b378a85dd2200d3b9c194",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554780197,
-    "wof:lastmodified":1480819687,
+    "wof:lastmodified":1611185180,
     "wof:name":"14174",
     "wof:parent_id":404522749,
     "wof:placetype":"postalcode",

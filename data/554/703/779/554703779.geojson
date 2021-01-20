@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000386,
-    "geom:area_square_m":3653651.328727,
+    "geom:area_square_m":3653651.328728,
     "geom:bbox":"-79.421281,40.04109,-79.36451,40.07203",
     "geom:latitude":40.056895,
     "geom:longitude":-79.390152,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.064295,
     "lbl:longitude":-79.378703,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Melcroft",
+    "mz:postal_locality_alt":[
+        "Stahlstown"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404487157,
         85633793,
-        102080959
+        102080959,
+        404487157,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763821"
     },
     "wof:country":"US",
-    "wof:geomhash":"2d1a23bf424b86012d738ea2db3ac370",
+    "wof:geomhash":"96293992b9b8a1b4a05f99155bf25fba",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554703779,
-    "wof:lastmodified":1480906230,
+    "wof:lastmodified":1611184465,
     "wof:name":"15462",
     "wof:parent_id":404487157,
     "wof:placetype":"postalcode",

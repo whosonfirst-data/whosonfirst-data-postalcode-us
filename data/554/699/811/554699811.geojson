@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000398,
-    "geom:area_square_m":3730713.539432,
+    "geom:area_square_m":3730713.539433,
     "geom:bbox":"-74.166087,40.733501,-74.137492,40.754718",
     "geom:latitude":40.743727,
     "geom:longitude":-74.153995,
@@ -14,21 +14,27 @@
     "lbl:latitude":40.74362,
     "lbl:longitude":-74.154901,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Harrison",
+    "mz:postal_locality_alt":[
+        "East Newark",
+        "Cranford"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478133,
         85633793,
+        102080719,
+        404478133,
         85975301,
-        102080719
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760626"
     },
     "wof:country":"US",
-    "wof:geomhash":"079af73cba90109e84c353331c885977",
+    "wof:geomhash":"2d10ddfffbcbeb8c5d283a3ca7f49667",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554699811,
-    "wof:lastmodified":1480906621,
+    "wof:lastmodified":1611184604,
     "wof:name":"07029",
     "wof:parent_id":85975301,
     "wof:placetype":"postalcode",

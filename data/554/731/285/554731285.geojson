@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.081672,
-    "geom:area_square_m":708499114.28086,
+    "geom:area_square_m":708499114.280852,
     "geom:bbox":"-100.230403,45.260949,-99.894036,45.594449",
     "geom:latitude":45.447699,
     "geom:longitude":-100.072881,
@@ -14,20 +14,22 @@
     "lbl:latitude":45.435718,
     "lbl:longitude":-100.068105,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Selby",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688693,
         102191575,
-        404491313,
         85633793,
-        102086011
+        102086011,
+        404491313,
+        85688693
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782951"
     },
     "wof:country":"US",
-    "wof:geomhash":"335812159ff42ca0b028923de969bd03",
+    "wof:geomhash":"ac4eff3f11d88948238422fc9baa87f2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554731285,
-    "wof:lastmodified":1480913553,
+    "wof:lastmodified":1611183080,
     "wof:name":"57472",
     "wof:parent_id":404491313,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03313,
-    "geom:area_square_m":328561160.434873,
+    "geom:area_square_m":328561160.434731,
     "geom:bbox":"-79.180857,36.595977,-78.774383,36.760585",
     "geom:latitude":36.675589,
     "geom:longitude":-78.963579,
@@ -14,19 +14,24 @@
     "lbl:latitude":36.675795,
     "lbl:longitude":-78.965555,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"South Boston",
+    "mz:postal_locality_alt":[
+        "Appomattox"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688747,
-        102084931
+        102084931,
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12767908"
     },
     "wof:country":"US",
-    "wof:geomhash":"7450cc0ffac8f8a6452087f8118ac77c",
+    "wof:geomhash":"c8d2f1a5513fd8b117b44ceaa2b960ae",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554709073,
-    "wof:lastmodified":1480840540,
+    "wof:lastmodified":1611183006,
     "wof:name":"24592",
     "wof:parent_id":102084931,
     "wof:placetype":"postalcode",

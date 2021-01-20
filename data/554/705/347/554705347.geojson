@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035554,
-    "geom:area_square_m":331100744.521131,
+    "geom:area_square_m":331100744.520878,
     "geom:bbox":"-77.71936,40.98382,-77.338106,41.307946",
     "geom:latitude":41.136751,
     "geom:longitude":-77.538227,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.153528,
     "lbl:longitude":-77.54479,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mill Hall",
+    "mz:postal_locality_alt":[
+        "Lock Haven"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404487141,
         85633793,
-        102080917
+        102080917,
+        404487141,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764877"
     },
     "wof:country":"US",
-    "wof:geomhash":"97dd5bbbdb24094d1b274658afb3e637",
+    "wof:geomhash":"338ffc7325055054e77ca1dc1fca4bf8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554705347,
-    "wof:lastmodified":1480903555,
+    "wof:lastmodified":1611184108,
     "wof:name":"17751",
     "wof:parent_id":404487141,
     "wof:placetype":"postalcode",

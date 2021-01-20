@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026583,
-    "geom:area_square_m":226144159.371007,
+    "geom:area_square_m":226144159.370971,
     "geom:bbox":"-95.962913,46.430157,-95.686931,46.629026",
     "geom:latitude":46.5287,
     "geom:longitude":-95.811639,
@@ -14,20 +14,25 @@
     "lbl:latitude":46.521354,
     "lbl:longitude":-95.823814,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Dent",
+    "mz:postal_locality_alt":[
+        "Fosston"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404510365,
         85633793,
-        102087803
+        102087803,
+        404510365,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782537"
     },
     "wof:country":"US",
-    "wof:geomhash":"1be9d7cb1070da52b62ac37038651d18",
+    "wof:geomhash":"db873b07d573305eebd4410dff313eac",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554730463,
-    "wof:lastmodified":1480788520,
+    "wof:lastmodified":1611182731,
     "wof:name":"56528",
     "wof:parent_id":404510365,
     "wof:placetype":"postalcode",

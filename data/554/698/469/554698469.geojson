@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036171,
-    "geom:area_square_m":316131509.385918,
+    "geom:area_square_m":316131509.385865,
     "geom:bbox":"-68.842312,44.901264,-68.62504,45.182194",
     "geom:latitude":45.023145,
     "geom:longitude":-68.727499,
@@ -14,20 +14,28 @@
     "lbl:latitude":45.024673,
     "lbl:longitude":-68.734534,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Old Town",
+    "mz:postal_locality_alt":[
+        "Indian Island",
+        "Alton",
+        "Mattawamkeag",
+        "Vanceboro"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404475143,
         85633793,
-        102080723
+        102080723,
+        404475143,
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759595"
     },
     "wof:country":"US",
-    "wof:geomhash":"bca3b14267812b4cb2ada8f880ea0b25",
+    "wof:geomhash":"b9c27e2cf929ee8b1be2bb4425913217",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +47,7 @@
         }
     ],
     "wof:id":554698469,
-    "wof:lastmodified":1480906069,
+    "wof:lastmodified":1611184699,
     "wof:name":"04468",
     "wof:parent_id":404475143,
     "wof:placetype":"postalcode",

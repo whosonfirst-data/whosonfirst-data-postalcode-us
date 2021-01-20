@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006784,
-    "geom:area_square_m":64012424.893348,
+    "geom:area_square_m":64012424.893344,
     "geom:bbox":"-75.566754,40.219985,-75.396195,40.297145",
     "geom:latitude":40.258978,
     "geom:longitude":-75.474826,
@@ -14,20 +14,29 @@
     "lbl:latitude":40.256195,
     "lbl:longitude":-75.48238,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Schwenksville",
+    "mz:postal_locality_alt":[
+        "Skippack",
+        "Zieglerville",
+        "Perkiomenville",
+        "Spring Mount",
+        "Lederach"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404483605,
         85633793,
-        102081355
+        102081355,
+        404483605,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765662"
     },
     "wof:country":"US",
-    "wof:geomhash":"1e0a3e1dfe50cde72f26c4316f095fed",
+    "wof:geomhash":"bad849b4e11260906bd32a3be9e3865b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +48,7 @@
         }
     ],
     "wof:id":554706483,
-    "wof:lastmodified":1480818594,
+    "wof:lastmodified":1611182689,
     "wof:name":"19473",
     "wof:parent_id":404483605,
     "wof:placetype":"postalcode",

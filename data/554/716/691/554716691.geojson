@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038365,
-    "geom:area_square_m":386493816.075143,
+    "geom:area_square_m":386493816.075469,
     "geom:bbox":"-84.858345,35.293911,-84.460374,35.58299",
     "geom:latitude":35.440694,
     "geom:longitude":-84.6432,
@@ -13,20 +13,26 @@
     "lbl:latitude":35.442462,
     "lbl:longitude":-84.640077,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Athens",
+    "mz:postal_locality_alt":[
+        "Signal Mountain",
+        "Decatur"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688701,
         102191575,
         85633793,
+        102086293,
         101722747,
-        102086293
+        85688701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12773923"
     },
     "wof:country":"US",
-    "wof:geomhash":"72f4ee5029b2873d15a0e696a41b3c81",
+    "wof:geomhash":"8cdeef91bf28eb433061eb91efc8f8ef",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554716691,
-    "wof:lastmodified":1480917020,
+    "wof:lastmodified":1611185393,
     "wof:name":"37303",
     "wof:parent_id":101722747,
     "wof:placetype":"postalcode",

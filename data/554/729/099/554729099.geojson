@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004649,
-    "geom:area_square_m":40707624.411855,
+    "geom:area_square_m":40707624.411868,
     "geom:bbox":"-92.984643,44.890807,-92.903399,44.948995",
     "geom:latitude":44.919879,
     "geom:longitude":-92.943956,
@@ -13,21 +13,27 @@
     "lbl:latitude":44.918031,
     "lbl:longitude":-92.938277,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Saint Paul",
+    "mz:postal_locality_alt":[
+        "St Paul",
+        "Woodbury"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404514931,
         85633793,
+        102087659,
+        404514931,
         85953535,
-        102087659
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781760"
     },
     "wof:country":"US",
-    "wof:geomhash":"b705e42a19bf5966716c75de18145be6",
+    "wof:geomhash":"bfef6fbd7bb639d58252447590b9e8ce",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +46,7 @@
         }
     ],
     "wof:id":554729099,
-    "wof:lastmodified":1480783432,
+    "wof:lastmodified":1611185417,
     "wof:name":"55125",
     "wof:parent_id":85953535,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004208,
-    "geom:area_square_m":39449959.430806,
+    "geom:area_square_m":39449959.430817,
     "geom:bbox":"-75.154945,40.652066,-75.062269,40.738297",
     "geom:latitude":40.693381,
     "geom:longitude":-75.105177,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.687502,
     "lbl:longitude":-75.101127,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Stewartsville",
+    "mz:postal_locality_alt":[
+        "Edison"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478419,
         85633793,
-        102083873
+        102083873,
+        404478419,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761316"
     },
     "wof:country":"US",
-    "wof:geomhash":"e26323000884fb8602d81b5efaad96a0",
+    "wof:geomhash":"2f8d7793ae1d194e1d2253d5771108b4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554700787,
-    "wof:lastmodified":1480837399,
+    "wof:lastmodified":1611183208,
     "wof:name":"08886",
     "wof:parent_id":404478419,
     "wof:placetype":"postalcode",

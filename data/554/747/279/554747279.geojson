@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010172,
-    "geom:area_square_m":109010542.571879,
+    "geom:area_square_m":109010542.57189,
     "geom:bbox":"-97.103313,29.842943,-96.95489,29.986087",
     "geom:latitude":29.926139,
     "geom:longitude":-97.027949,
@@ -14,19 +14,24 @@
     "lbl:latitude":29.91692,
     "lbl:longitude":-97.028763,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"West Point",
+    "mz:postal_locality_alt":[
+        "Columbus"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688753,
-        102081941
+        102081941,
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12792425"
     },
     "wof:country":"US",
-    "wof:geomhash":"c52d16fa2a8898a3547d20fab4d841fc",
+    "wof:geomhash":"20bd4b54f61767c25a139ff70dc94507",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554747279,
-    "wof:lastmodified":1480831332,
+    "wof:lastmodified":1611183474,
     "wof:name":"78963",
     "wof:parent_id":102081941,
     "wof:placetype":"postalcode",

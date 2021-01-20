@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008282,
-    "geom:area_square_m":85547541.731685,
+    "geom:area_square_m":85547541.731569,
     "geom:bbox":"-105.735015,33.304834,-105.591933,33.399945",
     "geom:latitude":33.347954,
     "geom:longitude":-105.679898,
@@ -13,20 +13,28 @@
     "lbl:latitude":33.347759,
     "lbl:longitude":-105.680834,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ruidoso",
+    "mz:postal_locality_alt":[
+        "Mescalero",
+        "Alto",
+        "Ruidoso Downs",
+        "Capitan"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688493,
         102191575,
         85633793,
+        102081577,
         85976601,
-        102081577
+        85688493
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795279"
     },
     "wof:country":"US",
-    "wof:geomhash":"5bd42eb3c6bc65e8d0d5283355035f10",
+    "wof:geomhash":"6ede5836be929ceaf5e8ac5084fc0d03",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +46,7 @@
         }
     ],
     "wof:id":554751449,
-    "wof:lastmodified":1480819220,
+    "wof:lastmodified":1611184329,
     "wof:name":"88345",
     "wof:parent_id":85976601,
     "wof:placetype":"postalcode",

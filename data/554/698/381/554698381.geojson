@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031403,
-    "geom:area_square_m":275297317.101713,
+    "geom:area_square_m":275297317.101652,
     "geom:bbox":"-68.983105,44.761225,-68.696067,44.960527",
     "geom:latitude":44.849228,
     "geom:longitude":-68.844733,
@@ -13,21 +13,33 @@
     "lbl:latitude":44.848517,
     "lbl:longitude":-68.850405,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bangor",
+    "mz:postal_locality_alt":[
+        "Glenburn",
+        "Hermon",
+        "Veazie",
+        "Greenville",
+        "Mattawamkeag",
+        "Dover Foxcroft",
+        "Danforth",
+        "Rockwood"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404474705,
         85633793,
+        102080723,
+        404474705,
         85948899,
-        102080723
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759547"
     },
     "wof:country":"US",
-    "wof:geomhash":"26e825583200472a21db19ad5480940f",
+    "wof:geomhash":"a65bfad8098a719ba9c21509e8a99e9b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +52,7 @@
         }
     ],
     "wof:id":554698381,
-    "wof:lastmodified":1480906070,
+    "wof:lastmodified":1611184705,
     "wof:name":"04401",
     "wof:parent_id":85948899,
     "wof:placetype":"postalcode",

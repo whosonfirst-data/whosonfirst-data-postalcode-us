@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001314,
-    "geom:area_square_m":12353781.823568,
+    "geom:area_square_m":12353781.823538,
     "geom:bbox":"-78.922248,40.481614,-78.854306,40.516376",
     "geom:latitude":40.498437,
     "geom:longitude":-78.889053,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.497161,
     "lbl:longitude":-78.884165,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Twin Rocks",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485033,
         85633793,
-        102080879
+        102080879,
+        404485033,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764103"
     },
     "wof:country":"US",
-    "wof:geomhash":"d1d9ccebcf9241efe20e8001e92fbd60",
+    "wof:geomhash":"9180051b79a698b34438b796ad2d402f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554704215,
-    "wof:lastmodified":1480903615,
+    "wof:lastmodified":1611184511,
     "wof:name":"15960",
     "wof:parent_id":404485033,
     "wof:placetype":"postalcode",

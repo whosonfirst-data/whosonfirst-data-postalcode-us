@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005684,
-    "geom:area_square_m":49212322.406468,
+    "geom:area_square_m":49212322.406453,
     "geom:bbox":"-122.586726,45.521549,-122.441062,45.60474",
     "geom:latitude":45.558196,
     "geom:longitude":-122.507468,
@@ -13,20 +13,25 @@
     "lbl:latitude":45.557757,
     "lbl:longitude":-122.505268,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Portland",
+    "mz:postal_locality_alt":[
+        "Gresham"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688513,
         102191575,
         85633793,
+        102081631,
         101715829,
-        102081631
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12798530"
     },
     "wof:country":"US",
-    "wof:geomhash":"9dcd35f3133a6de5a403ed490ec55ae0",
+    "wof:geomhash":"d95d6b77d12d9e5bfc588293eddcd3c6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554754733,
-    "wof:lastmodified":1480817183,
+    "wof:lastmodified":1611182899,
     "wof:name":"97230",
     "wof:parent_id":101715829,
     "wof:placetype":"postalcode",

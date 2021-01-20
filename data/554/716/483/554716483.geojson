@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031369,
-    "geom:area_square_m":312210737.888232,
+    "geom:area_square_m":312210737.888084,
     "geom:bbox":"-86.585074,36.277983,-86.332139,36.490879",
     "geom:latitude":36.398704,
     "geom:longitude":-86.45525,
@@ -14,20 +14,26 @@
     "lbl:latitude":36.398757,
     "lbl:longitude":-86.45554,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Gallatin",
+    "mz:postal_locality_alt":[
+        "Hendersonville",
+        "Cottontown"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688701,
         102191575,
         85633793,
+        102086357,
         101723167,
-        102086357
+        85688701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12773790"
     },
     "wof:country":"US",
-    "wof:geomhash":"195d546efc40379e559fefdd60979668",
+    "wof:geomhash":"f9c162ba02fc0092f3439e5caf908453",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554716483,
-    "wof:lastmodified":1480917083,
+    "wof:lastmodified":1611185361,
     "wof:name":"37066",
     "wof:parent_id":101723167,
     "wof:placetype":"postalcode",

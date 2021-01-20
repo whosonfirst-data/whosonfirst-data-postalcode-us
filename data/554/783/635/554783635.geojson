@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006002,
-    "geom:area_square_m":64040431.42992,
+    "geom:area_square_m":64040431.429923,
     "geom:bbox":"-90.120857,30.316542,-89.979522,30.399835",
     "geom:latitude":30.362788,
     "geom:longitude":-90.039437,
@@ -13,19 +13,24 @@
     "lbl:latitude":30.36218,
     "lbl:longitude":-90.039451,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mandeville",
+    "mz:postal_locality_alt":[
+        "Slidell"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688735,
-        102082453
+        102082453,
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12788285"
     },
     "wof:country":"US",
-    "wof:geomhash":"f5ff6188c9193c03a0cfaf0dc261d179",
+    "wof:geomhash":"481ca941f7dcff51d7e4e9adca7aa1c2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +41,7 @@
         }
     ],
     "wof:id":554783635,
-    "wof:lastmodified":1480789841,
+    "wof:lastmodified":1611183883,
     "wof:name":"70448",
     "wof:parent_id":102082453,
     "wof:placetype":"postalcode",

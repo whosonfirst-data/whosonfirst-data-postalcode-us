@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011253,
-    "geom:area_square_m":107914835.233844,
+    "geom:area_square_m":107914835.233865,
     "geom:bbox":"-95.9097,39.083524,-95.780841,39.216958",
     "geom:latitude":39.14552,
     "geom:longitude":-95.848245,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.141967,
     "lbl:longitude":-95.84039,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Silver Lake",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404503159,
         85633793,
-        102084175
+        102084175,
+        404503159,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786892"
     },
     "wof:country":"US",
-    "wof:geomhash":"07f18d1ed3a10614b471d94cdc3b225c",
+    "wof:geomhash":"12e7795a5daf93cc8f4b95491bf117c2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554738213,
-    "wof:lastmodified":1480800695,
+    "wof:lastmodified":1611183118,
     "wof:name":"66539",
     "wof:parent_id":404503159,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004792,
-    "geom:area_square_m":44243318.67547,
+    "geom:area_square_m":44243318.675489,
     "geom:bbox":"-71.518913,41.669592,-71.393201,41.742159",
     "geom:latitude":41.703534,
     "geom:longitude":-71.455197,
@@ -13,21 +13,27 @@
     "lbl:latitude":41.703849,
     "lbl:longitude":-71.455568,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Warwick",
+    "mz:postal_locality_alt":[
+        "North Kingstown",
+        "Pawtucket"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688509,
         102191575,
-        404488313,
         85633793,
+        102081209,
+        404488313,
         101720577,
-        102081209
+        85688509
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759043"
     },
     "wof:country":"US",
-    "wof:geomhash":"183fa73d7682535f92e23d577ed50176",
+    "wof:geomhash":"1021c9cf91cb24dc777b59dbef88a534",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +46,7 @@
         }
     ],
     "wof:id":554778591,
-    "wof:lastmodified":1480823255,
+    "wof:lastmodified":1611183438,
     "wof:name":"02886",
     "wof:parent_id":101720577,
     "wof:placetype":"postalcode",

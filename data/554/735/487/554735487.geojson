@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009934,
-    "geom:area_square_m":97068166.405564,
+    "geom:area_square_m":97068166.405646,
     "geom:bbox":"-89.151677,37.716207,-89.003573,37.862193",
     "geom:latitude":37.789977,
     "geom:longitude":-89.087654,
@@ -14,21 +14,26 @@
     "lbl:latitude":37.789858,
     "lbl:longitude":-89.088444,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Carterville",
+    "mz:postal_locality_alt":[
+        "Cambria"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404499233,
         85633793,
+        102084325,
+        404499233,
         85939557,
-        102084325
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785449"
     },
     "wof:country":"US",
-    "wof:geomhash":"7799f421546f6c9189f94bb75a2b1f71",
+    "wof:geomhash":"17034a62def108b622f023c2ba0c6ac8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554735487,
-    "wof:lastmodified":1480800278,
+    "wof:lastmodified":1611184435,
     "wof:name":"62918",
     "wof:parent_id":85939557,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000986,
-    "geom:area_square_m":8919398.178153,
+    "geom:area_square_m":8919398.178137,
     "geom:bbox":"-76.158618,42.978355,-76.124451,43.036384",
     "geom:latitude":43.00528,
     "geom:longitude":-76.142031,
@@ -13,21 +13,23 @@
     "lbl:latitude":43.005277,
     "lbl:longitude":-76.14203,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Syracuse",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522851,
         85633793,
+        102082351,
+        404522851,
         85977785,
-        102082351
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762719"
     },
     "wof:country":"US",
-    "wof:geomhash":"af5027c174c593cfb705e412dbb0415f",
+    "wof:geomhash":"0c3ede49b5b1311870748313809965aa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +42,7 @@
         }
     ],
     "wof:id":554702183,
-    "wof:lastmodified":1480793800,
+    "wof:lastmodified":1611184171,
     "wof:name":"13205",
     "wof:parent_id":85977785,
     "wof:placetype":"postalcode",

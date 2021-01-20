@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002051,
-    "geom:area_square_m":17944709.977619,
+    "geom:area_square_m":17944709.977604,
     "geom:bbox":"-93.41066,44.920464,-93.357576,44.984756",
     "geom:latitude":44.955314,
     "geom:longitude":-93.380907,
@@ -13,21 +13,27 @@
     "lbl:latitude":44.958311,
     "lbl:longitude":-93.374112,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Minneapolis",
+    "mz:postal_locality_alt":[
+        "St Louis Park",
+        "Golden Valley"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404511909,
         85633793,
+        102087709,
+        404511909,
         85969121,
-        102087709
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781907"
     },
     "wof:country":"US",
-    "wof:geomhash":"5aee151ba11b6e29d1e0962986b48f61",
+    "wof:geomhash":"56d90b4bb3f2b7122b18ff71d15c378b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +46,7 @@
         }
     ],
     "wof:id":554729361,
-    "wof:lastmodified":1480789092,
+    "wof:lastmodified":1611185425,
     "wof:name":"55426",
     "wof:parent_id":85969121,
     "wof:placetype":"postalcode",

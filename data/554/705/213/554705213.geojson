@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005256,
-    "geom:area_square_m":49819063.771416,
+    "geom:area_square_m":49819063.771378,
     "geom:bbox":"-76.737149,39.893697,-76.603546,40.004941",
     "geom:latitude":39.958971,
     "geom:longitude":-76.659206,
@@ -13,20 +13,25 @@
     "lbl:latitude":39.958485,
     "lbl:longitude":-76.65866,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"York",
+    "mz:postal_locality_alt":[
+        "Emigsville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404487959,
         85633793,
-        102080953
+        102080953,
+        404487959,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764775"
     },
     "wof:country":"US",
-    "wof:geomhash":"062196803c6ca19e23cf3170460ef568",
+    "wof:geomhash":"ba547500c2cc7b5a3072f5322d0dcb7d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554705213,
-    "wof:lastmodified":1480903982,
+    "wof:lastmodified":1611184120,
     "wof:name":"17402",
     "wof:parent_id":404487959,
     "wof:placetype":"postalcode",

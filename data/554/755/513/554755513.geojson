@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002678,
-    "geom:area_square_m":22419565.039026,
+    "geom:area_square_m":22419565.03897,
     "geom:bbox":"-122.343594,47.340397,-122.280813,47.423776",
     "geom:latitude":47.392967,
     "geom:longitude":-122.312933,
@@ -13,20 +13,28 @@
     "lbl:latitude":47.391319,
     "lbl:longitude":-122.314971,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Seattle",
+    "mz:postal_locality_alt":[
+        "Des Moines",
+        "Seatac",
+        "Normandy Park",
+        "Kent"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688623,
         102191575,
         85633793,
+        102086191,
         101730443,
-        102086191
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12799002"
     },
     "wof:country":"US",
-    "wof:geomhash":"edb29e2b9efb12af04077be31461175c",
+    "wof:geomhash":"49749a5938d4a5f53b11d5030eb2ef5b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +46,7 @@
         }
     ],
     "wof:id":554755513,
-    "wof:lastmodified":1480915586,
+    "wof:lastmodified":1611182606,
     "wof:name":"98198",
     "wof:parent_id":101730443,
     "wof:placetype":"postalcode",

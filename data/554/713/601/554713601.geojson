@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043642,
-    "geom:area_square_m":454768851.24225,
+    "geom:area_square_m":454768851.242475,
     "geom:bbox":"-84.071252,32.439123,-83.713217,32.703613",
     "geom:latitude":32.570303,
     "geom:longitude":-83.890314,
@@ -14,20 +14,26 @@
     "lbl:latitude":32.570683,
     "lbl:longitude":-83.890124,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fort Valley",
+    "mz:postal_locality_alt":[
+        "Warner Robins",
+        "Byron"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688535,
         102191575,
         85633793,
+        102082339,
         85936251,
-        102082339
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12771078"
     },
     "wof:country":"US",
-    "wof:geomhash":"25c79dcb01ce1c18f6b8d7ae12a775f4",
+    "wof:geomhash":"7177329091668a1673c6801c0743278d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554713601,
-    "wof:lastmodified":1480839375,
+    "wof:lastmodified":1611183332,
     "wof:name":"31030",
     "wof:parent_id":85936251,
     "wof:placetype":"postalcode",

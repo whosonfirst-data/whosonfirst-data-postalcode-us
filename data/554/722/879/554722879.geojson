@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003671,
-    "geom:area_square_m":34133694.726244,
+    "geom:area_square_m":34133694.726254,
     "geom:bbox":"-85.097781,41.199803,-84.985557,41.265601",
     "geom:latitude":41.233578,
     "geom:longitude":-85.043643,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.232447,
     "lbl:longitude":-85.048745,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Leo",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404500119,
         85633793,
-        102087177
+        102087177,
+        404500119,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777876"
     },
     "wof:country":"US",
-    "wof:geomhash":"cebc16dd1b0dfd7dd2a1b95edbeb5efd",
+    "wof:geomhash":"d74dc38c4f3ae145cf5cf9efad8f973f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554722879,
-    "wof:lastmodified":1480913300,
+    "wof:lastmodified":1611183235,
     "wof:name":"46765",
     "wof:parent_id":404500119,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002328,
-    "geom:area_square_m":21844268.354164,
+    "geom:area_square_m":21844268.354163,
     "geom:bbox":"-75.465323,40.5975,-75.409343,40.683063",
     "geom:latitude":40.636551,
     "geom:longitude":-75.440502,
@@ -13,20 +13,25 @@
     "lbl:latitude":40.636938,
     "lbl:longitude":-75.439893,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Allentown",
+    "mz:postal_locality_alt":[
+        "Bethlehem"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485953,
         85633793,
-        102081327
+        102081327,
+        404485953,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765087"
     },
     "wof:country":"US",
-    "wof:geomhash":"deedfe68fe935d53dcbb1034d86ee747",
+    "wof:geomhash":"55d3d22e0dd7448a8097cdd68f0dadbb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554705659,
-    "wof:lastmodified":1480832458,
+    "wof:lastmodified":1611184104,
     "wof:name":"18109",
     "wof:parent_id":404485953,
     "wof:placetype":"postalcode",

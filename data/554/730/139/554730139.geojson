@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044936,
-    "geom:area_square_m":391217765.822562,
+    "geom:area_square_m":391217765.822592,
     "geom:bbox":"-95.533257,45.079533,-95.270431,45.40533",
     "geom:latitude":45.24471,
     "geom:longitude":-95.41174,
@@ -14,20 +14,26 @@
     "lbl:latitude":45.244754,
     "lbl:longitude":-95.404995,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Murdock",
+    "mz:postal_locality_alt":[
+        "De Graff",
+        "Beardsley"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404510847,
         85633793,
-        102087023
+        102087023,
+        404510847,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782370"
     },
     "wof:country":"US",
-    "wof:geomhash":"8326513182d91104b2b30cbff6a389ea",
+    "wof:geomhash":"604484cad77789a755a311f37054e111",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554730139,
-    "wof:lastmodified":1480785468,
+    "wof:lastmodified":1611182744,
     "wof:name":"56271",
     "wof:parent_id":404510847,
     "wof:placetype":"postalcode",

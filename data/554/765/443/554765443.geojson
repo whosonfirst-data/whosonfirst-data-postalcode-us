@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000636,
-    "geom:area_square_m":5972085.450674,
+    "geom:area_square_m":5972085.450679,
     "geom:bbox":"-80.251491,40.544238,-80.207659,40.573072",
     "geom:latitude":40.556266,
     "geom:longitude":-80.228563,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.555653,
     "lbl:longitude":-80.228561,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Glenwillard",
+    "mz:postal_locality_alt":[
+        "Crescent"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404488045,
         85633793,
-        102080887
+        102080887,
+        404488045,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763569"
     },
     "wof:country":"US",
-    "wof:geomhash":"daacfa15f76e429aefb11c768461374b",
+    "wof:geomhash":"af66d01b90c346eb6397d62a31e848d5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554765443,
-    "wof:lastmodified":1480905383,
+    "wof:lastmodified":1611182981,
     "wof:name":"15046",
     "wof:parent_id":404488045,
     "wof:placetype":"postalcode",

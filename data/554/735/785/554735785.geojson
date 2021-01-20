@@ -13,21 +13,29 @@
     "lbl:latitude":38.588449,
     "lbl:longitude":-90.35134,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Saint Louis",
+    "mz:postal_locality_alt":[
+        "St Louis",
+        "Webster Groves",
+        "St. Louis",
+        "Shrewsbury"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404517313,
         85633793,
+        102086173,
+        404517313,
         85972261,
-        102086173
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785604"
     },
     "wof:country":"US",
-    "wof:geomhash":"130f11487491337cfd7f7f3154c990a1",
+    "wof:geomhash":"d3f171508508a33c8696e714120683c9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +48,7 @@
         }
     ],
     "wof:id":554735785,
-    "wof:lastmodified":1480914491,
+    "wof:lastmodified":1611184425,
     "wof:name":"63119",
     "wof:parent_id":85972261,
     "wof:placetype":"postalcode",

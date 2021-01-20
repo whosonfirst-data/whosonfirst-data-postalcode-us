@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025362,
-    "geom:area_square_m":223526308.602984,
+    "geom:area_square_m":223526308.602973,
     "geom:bbox":"-86.080576,44.447764,-85.770879,44.61972",
     "geom:latitude":44.539355,
     "geom:longitude":-85.930565,
@@ -14,20 +14,22 @@
     "lbl:latitude":44.540521,
     "lbl:longitude":-85.926894,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Thompsonville",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404505771,
         85633793,
-        102082999
+        102082999,
+        404505771,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779482"
     },
     "wof:country":"US",
-    "wof:geomhash":"5d9d0be7cfff6f2780a8c8ee5c3a7542",
+    "wof:geomhash":"f89e23527a2ffaa18042fa034696c427",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554725229,
-    "wof:lastmodified":1480843003,
+    "wof:lastmodified":1611183257,
     "wof:name":"49683",
     "wof:parent_id":404505771,
     "wof:placetype":"postalcode",

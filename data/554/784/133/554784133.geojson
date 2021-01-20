@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001088,
-    "geom:area_square_m":11168253.750958,
+    "geom:area_square_m":11168253.750937,
     "geom:bbox":"-118.167704,33.820047,-118.125047,33.869035",
     "geom:latitude":33.84894,
     "geom:longitude":-118.146747,
@@ -13,20 +13,25 @@
     "lbl:latitude":33.849034,
     "lbl:longitude":-118.147902,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lakewood",
+    "mz:postal_locality_alt":[
+        "Long Beach"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086957,
         85923557,
-        102086957
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795835"
     },
     "wof:country":"US",
-    "wof:geomhash":"a604b22caf6dd413974d8b23040dc650",
+    "wof:geomhash":"b4eb44f73d4fa1dd23cc837505556fea",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554784133,
-    "wof:lastmodified":1480912613,
+    "wof:lastmodified":1611183929,
     "wof:name":"90712",
     "wof:parent_id":85923557,
     "wof:placetype":"postalcode",

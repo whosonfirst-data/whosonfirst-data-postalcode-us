@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010526,
-    "geom:area_square_m":108003102.592244,
+    "geom:area_square_m":108003102.592168,
     "geom:bbox":"-83.590652,33.840674,-83.440135,34.007044",
     "geom:latitude":33.922055,
     "geom:longitude":-83.519785,
@@ -14,19 +14,25 @@
     "lbl:latitude":33.924456,
     "lbl:longitude":-83.517926,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bogart",
+    "mz:postal_locality_alt":[
+        "Athens",
+        "Monroe"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688535,
-        102082913
+        102082913,
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770936"
     },
     "wof:country":"US",
-    "wof:geomhash":"7e0c4bdb0e90792de68fa16ccd216e8f",
+    "wof:geomhash":"a02de9523a910827a7e8a21304665b5b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554713345,
-    "wof:lastmodified":1480817100,
+    "wof:lastmodified":1611183337,
     "wof:name":"30622",
     "wof:parent_id":102082913,
     "wof:placetype":"postalcode",

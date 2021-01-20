@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000345,
-    "geom:area_square_m":3584001.769005,
+    "geom:area_square_m":3584001.769013,
     "geom:bbox":"-106.090779,32.824374,-106.067189,32.850349",
     "geom:latitude":32.836586,
     "geom:longitude":-106.077393,
@@ -14,20 +14,25 @@
     "lbl:latitude":32.836586,
     "lbl:longitude":-106.077393,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Holloman Air Force Base",
+    "mz:postal_locality_alt":[
+        "Holloman Afb"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688493,
         102191575,
         85633793,
+        102081169,
         85976761,
-        102081169
+        85688493
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795269"
     },
     "wof:country":"US",
-    "wof:geomhash":"611ab9f0f1ad968b5af86b8112550ff3",
+    "wof:geomhash":"68f4a5931ea313a667a88fa5e5d26db9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554751427,
-    "wof:lastmodified":1480817338,
+    "wof:lastmodified":1611184352,
     "wof:name":"88330",
     "wof:parent_id":85976761,
     "wof:placetype":"postalcode",

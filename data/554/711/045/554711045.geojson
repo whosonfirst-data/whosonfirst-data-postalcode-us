@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034592,
-    "geom:area_square_m":348938238.411023,
+    "geom:area_square_m":348938238.411055,
     "geom:bbox":"-80.367958,35.236183,-80.051225,35.435755",
     "geom:latitude":35.336239,
     "geom:longitude":-80.204784,
@@ -13,20 +13,26 @@
     "lbl:latitude":35.338552,
     "lbl:longitude":-80.208179,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Albemarle",
+    "mz:postal_locality_alt":[
+        "Cornelius",
+        "East Spencer"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688773,
         102191575,
         85633793,
+        102087667,
         85980849,
-        102087667
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12769356"
     },
     "wof:country":"US",
-    "wof:geomhash":"2730c436b5e21bd13b4154658e8f755e",
+    "wof:geomhash":"dd5ae2b13cb65e2c9f2269fe16004733",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554711045,
-    "wof:lastmodified":1480903690,
+    "wof:lastmodified":1611185330,
     "wof:name":"28001",
     "wof:parent_id":85980849,
     "wof:placetype":"postalcode",

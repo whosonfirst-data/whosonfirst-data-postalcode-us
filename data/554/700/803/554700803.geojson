@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00039,
-    "geom:area_square_m":3623622.81033,
+    "geom:area_square_m":3623622.810327,
     "geom:bbox":"-73.770235,41.276775,-73.745255,41.309064",
     "geom:latitude":41.294487,
     "geom:longitude":-73.760726,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.295608,
     "lbl:longitude":-73.75849,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Amawalk",
+    "mz:postal_locality_alt":[
+        "Mahopac"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404523393,
         85633793,
-        102082373
+        102082373,
+        404523393,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761522"
     },
     "wof:country":"US",
-    "wof:geomhash":"ccde097fc976b4837d12ac9ece8c4c6b",
+    "wof:geomhash":"ceda85e1bf58f461c67304104ecffae5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554700803,
-    "wof:lastmodified":1480796134,
+    "wof:lastmodified":1611183185,
     "wof:name":"10501",
     "wof:parent_id":404523393,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033,
-    "geom:area_square_m":340352713.026503,
+    "geom:area_square_m":340352713.026658,
     "geom:bbox":"-81.05771,33.39563,-80.679947,33.581322",
     "geom:latitude":33.477696,
     "geom:longitude":-80.848795,
@@ -13,20 +13,25 @@
     "lbl:latitude":33.477386,
     "lbl:longitude":-80.849144,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Orangeburg",
+    "mz:postal_locality_alt":[
+        "Swansea"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688683,
         102191575,
         85633793,
+        102085413,
         101720859,
-        102085413
+        85688683
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770017"
     },
     "wof:country":"US",
-    "wof:geomhash":"093fecb1f61d3f806b2d2e60e1348254",
+    "wof:geomhash":"2485136f22acc8375218dfdc5152e3cb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554711987,
-    "wof:lastmodified":1480816183,
+    "wof:lastmodified":1611185344,
     "wof:name":"29115",
     "wof:parent_id":101720859,
     "wof:placetype":"postalcode",

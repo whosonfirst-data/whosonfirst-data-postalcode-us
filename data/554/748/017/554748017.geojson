@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001542,
-    "geom:area_square_m":14656317.790735,
+    "geom:area_square_m":14656317.790737,
     "geom:bbox":"-105.146767,39.72403,-105.090747,39.762029",
     "geom:latitude":39.744055,
     "geom:longitude":-105.115952,
@@ -13,20 +13,26 @@
     "lbl:latitude":39.744773,
     "lbl:longitude":-105.115977,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Denver",
+    "mz:postal_locality_alt":[
+        "Lakewood",
+        "Wheat Ridge"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688603,
         102191575,
         85633793,
+        102084113,
         85929751,
-        102084113
+        85688603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12792954"
     },
     "wof:country":"US",
-    "wof:geomhash":"55ffb52f428944b1be4e258f568a5dac",
+    "wof:geomhash":"d8e810f3f8d198d8faa9e15d14bde352",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554748017,
-    "wof:lastmodified":1480801044,
+    "wof:lastmodified":1611183856,
     "wof:name":"80215",
     "wof:parent_id":85929751,
     "wof:placetype":"postalcode",

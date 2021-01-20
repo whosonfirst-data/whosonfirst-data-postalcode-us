@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018297,
-    "geom:area_square_m":163122799.90857,
+    "geom:area_square_m":163122799.908562,
     "geom:bbox":"-88.162274,43.811421,-87.846493,43.907961",
     "geom:latitude":43.863402,
     "geom:longitude":-88.0105,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.861777,
     "lbl:longitude":-88.011415,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Elkhart Lake",
+    "mz:postal_locality_alt":[
+        "Plymouth"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404494559,
         85633793,
-        102081869
+        102081869,
+        404494559,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12780768"
     },
     "wof:country":"US",
-    "wof:geomhash":"11ac2bd7acfb95d026e2168029fb2929",
+    "wof:geomhash":"1297f525b8c00567647667053f35da71",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554727477,
-    "wof:lastmodified":1480833823,
+    "wof:lastmodified":1611185500,
     "wof:name":"53020",
     "wof:parent_id":404494559,
     "wof:placetype":"postalcode",

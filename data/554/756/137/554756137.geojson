@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.087935,
-    "geom:area_square_m":747934191.873203,
+    "geom:area_square_m":747934191.873071,
     "geom:bbox":"-121.455794,46.444887,-120.470174,46.616724",
     "geom:latitude":46.538857,
     "geom:longitude":-121.026631,
@@ -13,19 +13,24 @@
     "lbl:latitude":46.543655,
     "lbl:longitude":-121.023317,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Yakima",
+    "mz:postal_locality_alt":[
+        "Union Gap"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688623,
-        102081233
+        102081233,
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12799390"
     },
     "wof:country":"US",
-    "wof:geomhash":"12104d79ad2cde9fd3909f949d82f199",
+    "wof:geomhash":"cfe2792be98f0b511cc59bf8cc4b8c49",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +41,7 @@
         }
     ],
     "wof:id":554756137,
-    "wof:lastmodified":1480817348,
+    "wof:lastmodified":1611184295,
     "wof:name":"98903",
     "wof:parent_id":102081233,
     "wof:placetype":"postalcode",

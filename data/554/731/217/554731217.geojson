@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030855,
-    "geom:area_square_m":266553163.906363,
+    "geom:area_square_m":266553163.906005,
     "geom:bbox":"-98.186876,45.58848,-97.896496,45.791792",
     "geom:latitude":45.68238,
     "geom:longitude":-98.033702,
@@ -14,20 +14,22 @@
     "lbl:latitude":45.682867,
     "lbl:longitude":-98.031046,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Claremont",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688693,
         102191575,
-        404489445,
         85633793,
-        102086843
+        102086843,
+        404489445,
+        85688693
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782919"
     },
     "wof:country":"US",
-    "wof:geomhash":"45dd8a2af78fe0d4705dd596849ac28b",
+    "wof:geomhash":"22b1207fbab49985c54c9d7f112cefa1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554731217,
-    "wof:lastmodified":1480915738,
+    "wof:lastmodified":1611183063,
     "wof:name":"57432",
     "wof:parent_id":404489445,
     "wof:placetype":"postalcode",

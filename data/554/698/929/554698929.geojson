@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004858,
-    "geom:area_square_m":42887499.669898,
+    "geom:area_square_m":42887499.669922,
     "geom:bbox":"-73.233424,44.405378,-73.134698,44.50097",
     "geom:latitude":44.446952,
     "geom:longitude":-73.172336,
@@ -13,21 +13,26 @@
     "lbl:latitude":44.444867,
     "lbl:longitude":-73.173468,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"South Burlington",
+    "mz:postal_locality_alt":[
+        "Burlington"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688763,
         102191575,
-        404527499,
         85633793,
+        102087451,
+        404527499,
         101728313,
-        102087451
+        85688763
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759968"
     },
     "wof:country":"US",
-    "wof:geomhash":"7f756ea2b7b35126e766eec8b5cc581f",
+    "wof:geomhash":"f8c45daa22628cc85830deb0e352da08",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554698929,
-    "wof:lastmodified":1480782817,
+    "wof:lastmodified":1611184702,
     "wof:name":"05403",
     "wof:parent_id":101728313,
     "wof:placetype":"postalcode",

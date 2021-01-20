@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002233,
-    "geom:area_square_m":20515372.912492,
+    "geom:area_square_m":20515372.912486,
     "geom:bbox":"-71.539854,41.979085,-71.458104,42.017798",
     "geom:latitude":42.000997,
     "geom:longitude":-71.499306,
@@ -14,21 +14,26 @@
     "lbl:latitude":42.001706,
     "lbl:longitude":-71.499949,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Woonsocket",
+    "mz:postal_locality_alt":[
+        "Block Island"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688509,
         102191575,
-        404488331,
         85633793,
+        102081597,
+        404488331,
         101720563,
-        102081597
+        85688509
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759051"
     },
     "wof:country":"US",
-    "wof:geomhash":"af901ce48189e5752213e1a2386570b1",
+    "wof:geomhash":"b5afdaf0a5ea7e4bca97bd6fe2a8acf0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554697633,
-    "wof:lastmodified":1480817073,
+    "wof:lastmodified":1611184642,
     "wof:name":"02895",
     "wof:parent_id":101720563,
     "wof:placetype":"postalcode",

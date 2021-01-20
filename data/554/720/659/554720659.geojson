@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031705,
-    "geom:area_square_m":293278240.861913,
+    "geom:area_square_m":293278240.861969,
     "geom:bbox":"-84.249334,41.474179,-84.03771,41.696057",
     "geom:latitude":41.575689,
     "geom:longitude":-84.154074,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.580345,
     "lbl:longitude":-84.161065,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wauseon",
+    "mz:postal_locality_alt":[
+        "Bryan"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404523511,
         85633793,
-        102083693
+        102083693,
+        404523511,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776380"
     },
     "wof:country":"US",
-    "wof:geomhash":"212c93472409b60d6820977727fc19f7",
+    "wof:geomhash":"ec8954c06dd22dd83024bebe62e23626",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554720659,
-    "wof:lastmodified":1480835535,
+    "wof:lastmodified":1611185461,
     "wof:name":"43567",
     "wof:parent_id":404523511,
     "wof:placetype":"postalcode",

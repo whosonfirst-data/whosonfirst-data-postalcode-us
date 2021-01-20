@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004875,
-    "geom:area_square_m":44520076.561925,
+    "geom:area_square_m":44520076.561805,
     "geom:bbox":"-73.790929,42.308618,-73.720299,42.465322",
     "geom:latitude":42.38739,
     "geom:longitude":-73.760282,
@@ -14,20 +14,22 @@
     "lbl:latitude":42.380013,
     "lbl:longitude":-73.75966,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Stuyvesant",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522241,
         85633793,
-        102082369
+        102082369,
+        404522241,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762157"
     },
     "wof:country":"US",
-    "wof:geomhash":"161a972f2b74bbd7299247567b9ec49a",
+    "wof:geomhash":"db07e9771425e6fa65b38616f00e9fb3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554701273,
-    "wof:lastmodified":1480816334,
+    "wof:lastmodified":1611182617,
     "wof:name":"12173",
     "wof:parent_id":404522241,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009565,
-    "geom:area_square_m":99642422.876678,
+    "geom:area_square_m":99642422.876754,
     "geom:bbox":"-93.575957,32.534554,-93.422023,32.645126",
     "geom:latitude":32.596796,
     "geom:longitude":-93.493457,
@@ -14,19 +14,24 @@
     "lbl:latitude":32.600224,
     "lbl:longitude":-93.50464,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Princeton",
+    "mz:postal_locality_alt":[
+        "Haughton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688735,
-        102084883
+        102084883,
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12788586"
     },
     "wof:country":"US",
-    "wof:geomhash":"9db035a37518ae4e7e6685ed98ee5cd5",
+    "wof:geomhash":"e28c68e6171073290be485e3ff3aecd4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554741179,
-    "wof:lastmodified":1480814612,
+    "wof:lastmodified":1611184087,
     "wof:name":"71067",
     "wof:parent_id":102084883,
     "wof:placetype":"postalcode",

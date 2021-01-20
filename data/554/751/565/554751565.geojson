@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019912,
-    "geom:area_square_m":198771637.489939,
+    "geom:area_square_m":198771637.489844,
     "geom:bbox":"-116.11896,36.05396,-115.895552,36.246106",
     "geom:latitude":36.16609,
     "geom:longitude":-116.003811,
@@ -13,20 +13,25 @@
     "lbl:latitude":36.165343,
     "lbl:longitude":-116.003323,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pahrump",
+    "mz:postal_locality_alt":[
+        "Henderson"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688531,
         102191575,
         85633793,
+        102082609,
         85974977,
-        102082609
+        85688531
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795434"
     },
     "wof:country":"US",
-    "wof:geomhash":"b7b318957557bb5686b0d96173a4a6c6",
+    "wof:geomhash":"483a6f4e65ba0163d764ef8f7339b5ad",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554751565,
-    "wof:lastmodified":1480832978,
+    "wof:lastmodified":1611184347,
     "wof:name":"89048",
     "wof:parent_id":85974977,
     "wof:placetype":"postalcode",

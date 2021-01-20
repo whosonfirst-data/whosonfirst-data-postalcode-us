@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026535,
-    "geom:area_square_m":240322429.960466,
+    "geom:area_square_m":240322429.960541,
     "geom:bbox":"-106.285303,42.838849,-106.045906,43.00046",
     "geom:latitude":42.909272,
     "geom:longitude":-106.168967,
@@ -14,19 +14,24 @@
     "lbl:latitude":42.913338,
     "lbl:longitude":-106.158433,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Evansville",
+    "mz:postal_locality_alt":[
+        "Casper"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688475,
-        102080753
+        102080753,
+        85688475
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12793618"
     },
     "wof:country":"US",
-    "wof:geomhash":"b8a313813fa2135b3271a08898b6d0fb",
+    "wof:geomhash":"394aa2c8fa63ac5e173ad09f289f6fbe",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554749027,
-    "wof:lastmodified":1480904385,
+    "wof:lastmodified":1611183575,
     "wof:name":"82636",
     "wof:parent_id":102080753,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001672,
-    "geom:area_square_m":16141113.693418,
+    "geom:area_square_m":16141113.693398,
     "geom:bbox":"-121.406793,38.637239,-121.354819,38.704508",
     "geom:latitude":38.678549,
     "geom:longitude":-121.379969,
@@ -14,20 +14,25 @@
     "lbl:latitude":38.678545,
     "lbl:longitude":-121.379969,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"North Highlands",
+    "mz:postal_locality_alt":[
+        "Sacramento"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102082889,
         85926873,
-        102082889
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12797930"
     },
     "wof:country":"US",
-    "wof:geomhash":"8652ef2bf94c7c501c5d65b811b7c535",
+    "wof:geomhash":"a887071bf75aa0ed9db313bd7e27b406",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554753917,
-    "wof:lastmodified":1480796111,
+    "wof:lastmodified":1611182973,
     "wof:name":"95660",
     "wof:parent_id":85926873,
     "wof:placetype":"postalcode",

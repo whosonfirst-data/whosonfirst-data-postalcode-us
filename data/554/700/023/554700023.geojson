@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007819,
-    "geom:area_square_m":72849512.60465,
+    "geom:area_square_m":72849512.604688,
     "geom:bbox":"-74.346195,41.051097,-74.213291,41.162994",
     "geom:latitude":41.106326,
     "geom:longitude":-74.275368,
@@ -14,21 +14,26 @@
     "lbl:latitude":41.102332,
     "lbl:longitude":-74.27317,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ringwood",
+    "mz:postal_locality_alt":[
+        "Little Falls"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477873,
         85633793,
+        102081133,
+        404477873,
         85975473,
-        102081133
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760760"
     },
     "wof:country":"US",
-    "wof:geomhash":"27c94878a2d5ab8091a6a144e90ff9c5",
+    "wof:geomhash":"7c2db3bff5d15a3ae1781f8dbcfe6ea4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554700023,
-    "wof:lastmodified":1480908563,
+    "wof:lastmodified":1611183179,
     "wof:name":"07456",
     "wof:parent_id":85975473,
     "wof:placetype":"postalcode",

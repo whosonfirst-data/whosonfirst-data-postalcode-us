@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005226,
-    "geom:area_square_m":48142117.266682,
+    "geom:area_square_m":48142117.266639,
     "geom:bbox":"-71.347197,41.77488,-71.292456,41.903661",
     "geom:latitude":41.837817,
     "geom:longitude":-71.317416,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.842106,
     "lbl:longitude":-71.322309,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Seekonk",
+    "mz:postal_locality_alt":[
+        "Westport"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476141,
         85633793,
-        102084407
+        102084407,
+        404476141,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758978"
     },
     "wof:country":"US",
-    "wof:geomhash":"baee2d1704037bf72d926fbe3847cb97",
+    "wof:geomhash":"253d01d77a6f07c13f6ed04ddd3670e5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554789951,
-    "wof:lastmodified":1480829723,
+    "wof:lastmodified":1611185206,
     "wof:name":"02771",
     "wof:parent_id":404476141,
     "wof:placetype":"postalcode",

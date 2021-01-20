@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016001,
-    "geom:area_square_m":147924496.227789,
+    "geom:area_square_m":147924496.227816,
     "geom:bbox":"-87.146568,41.549865,-86.951463,41.690053",
     "geom:latitude":41.614319,
     "geom:longitude":-87.047007,
@@ -14,21 +14,27 @@
     "lbl:latitude":41.613633,
     "lbl:longitude":-87.046205,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Chesterton",
+    "mz:postal_locality_alt":[
+        "Porter",
+        "Burns Harbor"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404501725,
         85633793,
+        102087191,
+        404501725,
         85942375,
-        102087191
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777709"
     },
     "wof:country":"US",
-    "wof:geomhash":"5ce527b44c3b2c810f66de66cd4e4945",
+    "wof:geomhash":"fe4488e5457120f391628eea72149920",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554782415,
-    "wof:lastmodified":1480787149,
+    "wof:lastmodified":1611183607,
     "wof:name":"46304",
     "wof:parent_id":85942375,
     "wof:placetype":"postalcode",

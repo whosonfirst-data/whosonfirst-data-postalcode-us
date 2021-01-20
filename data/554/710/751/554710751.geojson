@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022725,
-    "geom:area_square_m":226085265.009447,
+    "geom:area_square_m":226085265.009035,
     "geom:bbox":"-78.131841,36.288611,-77.966076,36.544156",
     "geom:latitude":36.431934,
     "geom:longitude":-78.051645,
@@ -14,19 +14,24 @@
     "lbl:latitude":36.432843,
     "lbl:longitude":-78.05017,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Macon",
+    "mz:postal_locality_alt":[
+        "Garner"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688773,
-        102087611
+        102087611,
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12769106"
     },
     "wof:country":"US",
-    "wof:geomhash":"0f4f1f31348f33cbf87aa5108c8560ff",
+    "wof:geomhash":"70ae887053822948ef006a5fcd9b7efc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554710751,
-    "wof:lastmodified":1480803918,
+    "wof:lastmodified":1611185120,
     "wof:name":"27551",
     "wof:parent_id":102087611,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001462,
-    "geom:area_square_m":15198422.907662,
+    "geom:area_square_m":15198422.907691,
     "geom:bbox":"-117.053762,32.754132,-116.98436,32.796543",
     "geom:latitude":32.777491,
     "geom:longitude":-117.021689,
@@ -13,20 +13,25 @@
     "lbl:latitude":32.777999,
     "lbl:longitude":-117.021511,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"La Mesa",
+    "mz:postal_locality_alt":[
+        "El Cajon"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102083569,
         85922251,
-        102083569
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796176"
     },
     "wof:country":"US",
-    "wof:geomhash":"a8ccf6dfdb3551942cb2666ad2002ca1",
+    "wof:geomhash":"bf40856bafe76acd941173dd313ffbb5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554784257,
-    "wof:lastmodified":1480835303,
+    "wof:lastmodified":1611183935,
     "wof:name":"91942",
     "wof:parent_id":85922251,
     "wof:placetype":"postalcode",

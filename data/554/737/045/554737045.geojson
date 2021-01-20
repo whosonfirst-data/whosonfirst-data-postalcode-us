@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011457,
-    "geom:area_square_m":112694747.031592,
+    "geom:area_square_m":112694747.031617,
     "geom:bbox":"-94.545422,37.181934,-94.418089,37.389532",
     "geom:latitude":37.296,
     "geom:longitude":-94.485823,
@@ -14,20 +14,25 @@
     "lbl:latitude":37.295478,
     "lbl:longitude":-94.48532,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Oronogo",
+    "mz:postal_locality_alt":[
+        "Webb City"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404515663,
         85633793,
-        102087525
+        102087525,
+        404515663,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786295"
     },
     "wof:country":"US",
-    "wof:geomhash":"e8594474acb885f33c09cb3d2fbb6e51",
+    "wof:geomhash":"6dfc41413a238a5322720f9201607abd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554737045,
-    "wof:lastmodified":1480915239,
+    "wof:lastmodified":1611182851,
     "wof:name":"64855",
     "wof:parent_id":404515663,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.063515,
-    "geom:area_square_m":607243638.600649,
+    "geom:area_square_m":607243638.600781,
     "geom:bbox":"-93.701811,39.214892,-93.252726,39.539355",
     "geom:latitude":39.358313,
     "geom:longitude":-93.483722,
@@ -14,21 +14,26 @@
     "lbl:latitude":39.356863,
     "lbl:longitude":-93.484492,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Carrollton",
+    "mz:postal_locality_alt":[
+        "Marceline"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404516551,
         85633793,
+        102085313,
+        404516551,
         85971593,
-        102085313
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786178"
     },
     "wof:country":"US",
-    "wof:geomhash":"5bff6b3eb7a2a3d2ae8c1d00eb88ed36",
+    "wof:geomhash":"1b0daf325165172733fec9d0ae75aaea",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554736813,
-    "wof:lastmodified":1480917018,
+    "wof:lastmodified":1611183045,
     "wof:name":"64633",
     "wof:parent_id":85971593,
     "wof:placetype":"postalcode",

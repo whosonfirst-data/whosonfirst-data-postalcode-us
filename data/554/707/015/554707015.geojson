@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001146,
-    "geom:area_square_m":11020409.730201,
+    "geom:area_square_m":11020409.730185,
     "geom:bbox":"-76.931048,38.927514,-76.864155,38.978248",
     "geom:latitude":38.951033,
     "geom:longitude":-76.890427,
@@ -13,20 +13,28 @@
     "lbl:latitude":38.950549,
     "lbl:longitude":-76.89172,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hyattsville",
+    "mz:postal_locality_alt":[
+        "New Carrollton",
+        "Landover Hills",
+        "New Carrolltn",
+        "Cheverly"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688501,
         102191575,
         85633793,
+        102082191,
         85949987,
-        102082191
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766321"
     },
     "wof:country":"US",
-    "wof:geomhash":"2ff4f4653249b133276cb5b3f32592c9",
+    "wof:geomhash":"6f3c2d525e9e0ef9f0aad4cbe3a30052",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +46,7 @@
         }
     ],
     "wof:id":554707015,
-    "wof:lastmodified":1480794376,
+    "wof:lastmodified":1611183135,
     "wof:name":"20784",
     "wof:parent_id":85949987,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.062484,
-    "geom:area_square_m":597388425.03332,
+    "geom:area_square_m":597388425.033556,
     "geom:bbox":"-99.975716,39.17558,-99.676401,39.550604",
     "geom:latitude":39.358155,
     "geom:longitude":-99.844367,
@@ -14,21 +14,26 @@
     "lbl:latitude":39.359078,
     "lbl:longitude":-99.844495,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hill City",
+    "mz:postal_locality_alt":[
+        "Logan"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404503721,
         85633793,
+        102084143,
+        404503721,
         85945129,
-        102084143
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787363"
     },
     "wof:country":"US",
-    "wof:geomhash":"d7e41eed8c0302e9d14eabdc8232997c",
+    "wof:geomhash":"c9f29b95a858fa3c879b1e002a0f22f2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554739169,
-    "wof:lastmodified":1480800139,
+    "wof:lastmodified":1611182652,
     "wof:name":"67642",
     "wof:parent_id":85945129,
     "wof:placetype":"postalcode",

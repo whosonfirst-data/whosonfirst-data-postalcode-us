@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029513,
-    "geom:area_square_m":311799082.99152,
+    "geom:area_square_m":311799082.991785,
     "geom:bbox":"-86.019945,31.196373,-85.741292,31.418625",
     "geom:latitude":31.306173,
     "geom:longitude":-85.863179,
@@ -13,20 +13,22 @@
     "lbl:latitude":31.305931,
     "lbl:longitude":-85.864054,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Enterprise",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688675,
         102191575,
         85633793,
+        102085699,
         85899527,
-        102085699
+        85688675
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12773474"
     },
     "wof:country":"US",
-    "wof:geomhash":"f16529c8b2725c1aec69ccce20558e36",
+    "wof:geomhash":"0ab601e1878aab3b4f7b9f5e7879e304",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +40,7 @@
         }
     ],
     "wof:id":554716025,
-    "wof:lastmodified":1480810543,
+    "wof:lastmodified":1611185362,
     "wof:name":"36330",
     "wof:parent_id":85899527,
     "wof:placetype":"postalcode",

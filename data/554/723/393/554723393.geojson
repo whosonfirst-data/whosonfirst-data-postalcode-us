@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013856,
-    "geom:area_square_m":132734187.378252,
+    "geom:area_square_m":132734187.378264,
     "geom:bbox":"-86.692595,39.160718,-86.509339,39.339151",
     "geom:latitude":39.219636,
     "geom:longitude":-86.589668,
@@ -13,20 +13,25 @@
     "lbl:latitude":39.219531,
     "lbl:longitude":-86.591196,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bloomington",
+    "mz:postal_locality_alt":[
+        "Ellettsville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404501315,
         85633793,
-        102086351
+        102086351,
+        404501315,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778211"
     },
     "wof:country":"US",
-    "wof:geomhash":"744ebe9d0f3337f6b64d9c1ed98a0025",
+    "wof:geomhash":"530e3164f165a7470b6a721f6e57ad6d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554723393,
-    "wof:lastmodified":1480915073,
+    "wof:lastmodified":1611183798,
     "wof:name":"47404",
     "wof:parent_id":404501315,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001388,
-    "geom:area_square_m":14195074.940977,
+    "geom:area_square_m":14195074.941001,
     "geom:bbox":"-118.427189,34.192119,-118.361041,34.227239",
     "geom:latitude":34.207159,
     "geom:longitude":-118.400349,
@@ -13,20 +13,28 @@
     "lbl:latitude":34.207341,
     "lbl:longitude":-118.400973,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"North Hollywood",
+    "mz:postal_locality_alt":[
+        "Sun Valley",
+        "Los Angeles",
+        "San Fernando Valley",
+        "Burbank"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086957,
         85923517,
-        102086957
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796069"
     },
     "wof:country":"US",
-    "wof:geomhash":"5809d45cac6dbdbe3da53fc588e0610f",
+    "wof:geomhash":"b695cd447b056e71278ac0c758242967",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +46,7 @@
         }
     ],
     "wof:id":554752011,
-    "wof:lastmodified":1480912627,
+    "wof:lastmodified":1611182543,
     "wof:name":"91605",
     "wof:parent_id":85923517,
     "wof:placetype":"postalcode",

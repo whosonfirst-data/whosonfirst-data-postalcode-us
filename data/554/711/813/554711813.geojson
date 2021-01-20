@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02756,
-    "geom:area_square_m":277935348.426125,
+    "geom:area_square_m":277935348.426096,
     "geom:bbox":"-83.340738,35.228066,-83.07476,35.465586",
     "geom:latitude":35.355201,
     "geom:longitude":-83.211387,
@@ -14,19 +14,28 @@
     "lbl:latitude":35.357003,
     "lbl:longitude":-83.215933,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Sylva",
+    "mz:postal_locality_alt":[
+        "Dillsboro",
+        "Burnsville",
+        "Webster",
+        "Whittier",
+        "Cherokee"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688773,
-        102087875
+        102087875,
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12769923"
     },
     "wof:country":"US",
-    "wof:geomhash":"f897448d89f3b4df383c791e6ca51f23",
+    "wof:geomhash":"274eda1bc7342402e2b570db68595ff5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +46,7 @@
         }
     ],
     "wof:id":554711813,
-    "wof:lastmodified":1480784328,
+    "wof:lastmodified":1611185334,
     "wof:name":"28779",
     "wof:parent_id":102087875,
     "wof:placetype":"postalcode",

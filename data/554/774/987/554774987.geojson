@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000606,
-    "geom:area_square_m":6244222.433282,
+    "geom:area_square_m":6244222.433255,
     "geom:bbox":"-89.92959,33.513328,-89.882427,33.553664",
     "geom:latitude":33.532408,
     "geom:longitude":-89.900076,
@@ -14,19 +14,24 @@
     "lbl:latitude":33.533842,
     "lbl:longitude":-89.898549,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"North Carrollton",
+    "mz:postal_locality_alt":[
+        "Carrollton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688579,
-        102086663
+        102086663,
+        85688579
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12774727"
     },
     "wof:country":"US",
-    "wof:geomhash":"610ac76985097bf2e4843768b1bc5848",
+    "wof:geomhash":"663d48d36f409d86ea953986a6302663",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554774987,
-    "wof:lastmodified":1480912745,
+    "wof:lastmodified":1611185200,
     "wof:name":"38947",
     "wof:parent_id":102086663,
     "wof:placetype":"postalcode",

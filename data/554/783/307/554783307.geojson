@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001176,
-    "geom:area_square_m":10853806.325884,
+    "geom:area_square_m":10853806.325905,
     "geom:bbox":"-87.799744,41.733559,-87.740928,41.757303",
     "geom:latitude":41.744431,
     "geom:longitude":-87.768576,
@@ -14,21 +14,27 @@
     "lbl:latitude":41.744431,
     "lbl:longitude":-87.768576,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Burbank",
+    "mz:postal_locality_alt":[
+        "Bedford Park",
+        "Oak Lawn"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404497589,
         85633793,
+        102084317,
+        404497589,
         85940891,
-        102084317
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784167"
     },
     "wof:country":"US",
-    "wof:geomhash":"96463dd22d97268842af01c2bdf5f58a",
+    "wof:geomhash":"3e93c6bd225e693bb17f8c2244805311",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554783307,
-    "wof:lastmodified":1480802057,
+    "wof:lastmodified":1611183871,
     "wof:name":"60459",
     "wof:parent_id":85940891,
     "wof:placetype":"postalcode",

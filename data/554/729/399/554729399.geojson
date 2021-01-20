@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001377,
-    "geom:area_square_m":12017192.861022,
+    "geom:area_square_m":12017192.86101,
     "geom:bbox":"-93.323901,45.071665,-93.278327,45.144822",
     "geom:latitude":45.105913,
     "geom:longitude":-93.30216,
@@ -13,21 +13,27 @@
     "lbl:latitude":45.104048,
     "lbl:longitude":-93.301813,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Minneapolis",
+    "mz:postal_locality_alt":[
+        "Brooklyn Park",
+        "Brooklyn Center"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404511829,
         85633793,
+        102087709,
+        404511829,
         85969229,
-        102087709
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781925"
     },
     "wof:country":"US",
-    "wof:geomhash":"9516dd215807af4cfc409517e20d29a4",
+    "wof:geomhash":"a81c8fce0d52ee6ae785038ad34a43eb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +46,7 @@
         }
     ],
     "wof:id":554729399,
-    "wof:lastmodified":1480789092,
+    "wof:lastmodified":1611185408,
     "wof:name":"55444",
     "wof:parent_id":85969229,
     "wof:placetype":"postalcode",

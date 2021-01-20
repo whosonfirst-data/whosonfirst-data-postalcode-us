@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002541,
-    "geom:area_square_m":21903412.613646,
+    "geom:area_square_m":21903412.613643,
     "geom:bbox":"-88.136212,45.779937,-88.005855,45.827851",
     "geom:latitude":45.800572,
     "geom:longitude":-88.077274,
@@ -14,21 +14,27 @@
     "lbl:latitude":45.80106,
     "lbl:longitude":-88.077894,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Kingsford",
+    "mz:postal_locality_alt":[
+        "Iron Mountain",
+        "Gwinn"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404507319,
         85633793,
+        102083107,
+        404507319,
         85950929,
-        102083107
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779567"
     },
     "wof:country":"US",
-    "wof:geomhash":"3cb23835396aa9c254b0d7b539238203",
+    "wof:geomhash":"9a8e524205b48ef8a46318b0de55f676",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554725325,
-    "wof:lastmodified":1480837922,
+    "wof:lastmodified":1611183270,
     "wof:name":"49802",
     "wof:parent_id":85950929,
     "wof:placetype":"postalcode",

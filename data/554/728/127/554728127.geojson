@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021173,
-    "geom:area_square_m":187905460.493452,
+    "geom:area_square_m":187905460.492937,
     "geom:bbox":"-88.328209,44.072993,-88.04979,44.227019",
     "geom:latitude":44.131962,
     "geom:longitude":-88.200431,
@@ -14,20 +14,25 @@
     "lbl:latitude":44.13158,
     "lbl:longitude":-88.194198,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hilbert",
+    "mz:postal_locality_alt":[
+        "Sherwood"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404493067,
         85633793,
-        102081289
+        102081289,
+        404493067,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781201"
     },
     "wof:country":"US",
-    "wof:geomhash":"b99d266d4c39a2db0ec041002aca6e76",
+    "wof:geomhash":"74b24ffea8b5251f0b72ef5e1d1cddf1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554728127,
-    "wof:lastmodified":1480833823,
+    "wof:lastmodified":1611185068,
     "wof:name":"54129",
     "wof:parent_id":404493067,
     "wof:placetype":"postalcode",

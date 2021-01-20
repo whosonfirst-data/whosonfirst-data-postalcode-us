@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005066,
-    "geom:area_square_m":45923907.961207,
+    "geom:area_square_m":45923907.961197,
     "geom:bbox":"-70.914538,42.812291,-70.807341,42.88679",
     "geom:latitude":42.846513,
     "geom:longitude":-70.859805,
@@ -14,21 +14,26 @@
     "lbl:latitude":42.844793,
     "lbl:longitude":-70.841476,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Salisbury",
+    "mz:postal_locality_alt":[
+        "Salisbury Beach"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476261,
         85633793,
+        102084463,
+        404476261,
         85950807,
-        102084463
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758649"
     },
     "wof:country":"US",
-    "wof:geomhash":"03aca018236359e77ef51f79889f135e",
+    "wof:geomhash":"0d502f02f03e4d0c19b0dd6a06fcc026",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554778285,
-    "wof:lastmodified":1480916574,
+    "wof:lastmodified":1611183440,
     "wof:name":"01952",
     "wof:parent_id":85950807,
     "wof:placetype":"postalcode",

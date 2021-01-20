@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053459,
-    "geom:area_square_m":538251903.1983,
+    "geom:area_square_m":538251903.19793,
     "geom:bbox":"-86.914864,35.320612,-86.589111,35.667873",
     "geom:latitude":35.486183,
     "geom:longitude":-86.762779,
@@ -14,19 +14,25 @@
     "lbl:latitude":35.489239,
     "lbl:longitude":-86.767472,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lewisburg",
+    "mz:postal_locality_alt":[
+        "Belfast",
+        "Columbia"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688701,
-        102087115
+        102087115,
+        85688701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12773813"
     },
     "wof:country":"US",
-    "wof:geomhash":"b80773e620fceb594672bdb047e782fa",
+    "wof:geomhash":"dce2b43ef981525f68ab753bc3ee61ca",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554716523,
-    "wof:lastmodified":1480916897,
+    "wof:lastmodified":1611185403,
     "wof:name":"37091",
     "wof:parent_id":102087115,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018338,
-    "geom:area_square_m":162062543.727455,
+    "geom:area_square_m":162062543.727436,
     "geom:bbox":"-71.764745,44.304786,-71.524428,44.44529",
     "geom:latitude":44.379681,
     "geom:longitude":-71.631933,
@@ -14,20 +14,25 @@
     "lbl:latitude":44.378898,
     "lbl:longitude":-71.628699,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Whitefield",
+    "mz:postal_locality_alt":[
+        "Dalton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688689,
         102191575,
-        404476987,
         85633793,
-        102085529
+        102085529,
+        404476987,
+        85688689
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759239"
     },
     "wof:country":"US",
-    "wof:geomhash":"f1a4d6954dab1fd5a86eeec13e9987b6",
+    "wof:geomhash":"402b704aa380a77d2f2806a822cadafc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554697943,
-    "wof:lastmodified":1480916380,
+    "wof:lastmodified":1611184665,
     "wof:name":"03598",
     "wof:parent_id":404476987,
     "wof:placetype":"postalcode",

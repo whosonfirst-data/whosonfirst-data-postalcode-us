@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026323,
-    "geom:area_square_m":237580449.157411,
+    "geom:area_square_m":237580449.157376,
     "geom:bbox":"-73.270041,43.025761,-73.080579,43.217605",
     "geom:latitude":43.120223,
     "geom:longitude":-73.193151,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.103713,
     "lbl:longitude":-73.173146,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Arlington",
+    "mz:postal_locality_alt":[
+        "East Arlington"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688763,
         102191575,
-        404527215,
         85633793,
-        102087439
+        102087439,
+        404527215,
+        85688763
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759931"
     },
     "wof:country":"US",
-    "wof:geomhash":"a3f9fcf45132da6a6c22c83ba62f4dc1",
+    "wof:geomhash":"5324e54fb337c825b246d3783e28f016",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554698861,
-    "wof:lastmodified":1480835113,
+    "wof:lastmodified":1611184683,
     "wof:name":"05250",
     "wof:parent_id":404527215,
     "wof:placetype":"postalcode",

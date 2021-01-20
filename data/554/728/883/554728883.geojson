@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040251,
-    "geom:area_square_m":356044966.462991,
+    "geom:area_square_m":356044966.463103,
     "geom:bbox":"-89.259853,44.21002,-88.981443,44.424308",
     "geom:latitude":44.326678,
     "geom:longitude":-89.124408,
@@ -14,20 +14,26 @@
     "lbl:latitude":44.322663,
     "lbl:longitude":-89.131504,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Waupaca",
+    "mz:postal_locality_alt":[
+        "King",
+        "Coloma"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404492523,
         85633793,
-        102081823
+        102081823,
+        404492523,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781655"
     },
     "wof:country":"US",
-    "wof:geomhash":"7403fbd08882003c2efe4322322706d5",
+    "wof:geomhash":"80f7131b27ad89f0f1bad2fc28dcdfc9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554728883,
-    "wof:lastmodified":1480829342,
+    "wof:lastmodified":1611185080,
     "wof:name":"54981",
     "wof:parent_id":404492523,
     "wof:placetype":"postalcode",

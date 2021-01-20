@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024544,
-    "geom:area_square_m":232860256.472007,
+    "geom:area_square_m":232860256.472052,
     "geom:bbox":"-90.192855,39.792602,-89.993843,40.010663",
     "geom:latitude":39.889496,
     "geom:longitude":-90.067052,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.896048,
     "lbl:longitude":-90.063158,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ashland",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404496205,
         85633793,
-        102086201
+        102086201,
+        404496205,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785242"
     },
     "wof:country":"US",
-    "wof:geomhash":"b31cfc68ac1757e5ce2c431911b93a99",
+    "wof:geomhash":"5b4b095d034f4979c394953e96edc867",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554735161,
-    "wof:lastmodified":1480914238,
+    "wof:lastmodified":1611184410,
     "wof:name":"62612",
     "wof:parent_id":404496205,
     "wof:placetype":"postalcode",

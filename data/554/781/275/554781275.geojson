@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019677,
-    "geom:area_square_m":210049940.860768,
+    "geom:area_square_m":210049940.860659,
     "geom:bbox":"-86.079918,30.188709,-85.762987,30.440623",
     "geom:latitude":30.310499,
     "geom:longitude":-85.91061,
@@ -13,19 +13,25 @@
     "lbl:latitude":30.3103,
     "lbl:longitude":-85.905314,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Panama City Bch",
+    "mz:postal_locality_alt":[
+        "Panama City",
+        "Panama City Beach"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688651,
-        102085835
+        102085835,
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12771693"
     },
     "wof:country":"US",
-    "wof:geomhash":"a9cc1d7a3ec3cc4a6768a0f52abe9b92",
+    "wof:geomhash":"58b95fc07ff2cbeb2609fb05a995dd54",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +42,7 @@
         }
     ],
     "wof:id":554781275,
-    "wof:lastmodified":1480812052,
+    "wof:lastmodified":1611184815,
     "wof:name":"32413",
     "wof:parent_id":102085835,
     "wof:placetype":"postalcode",

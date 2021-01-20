@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000895,
-    "geom:area_square_m":8490805.710845,
+    "geom:area_square_m":8490805.710857,
     "geom:bbox":"-75.419172,39.85007,-75.372765,39.888085",
     "geom:latitude":39.869243,
     "geom:longitude":-75.392851,
@@ -14,21 +14,26 @@
     "lbl:latitude":39.868633,
     "lbl:longitude":-75.392945,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Brookhaven",
+    "mz:postal_locality_alt":[
+        "Chester"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404486327,
         85633793,
+        102080913,
+        404486327,
         101718029,
-        102080913
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765417"
     },
     "wof:country":"US",
-    "wof:geomhash":"f1c7da64e79a7b5546f09d5c711acda2",
+    "wof:geomhash":"12e584515baf6dd105b9fbe2bb20a4e2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554706151,
-    "wof:lastmodified":1480906381,
+    "wof:lastmodified":1611182686,
     "wof:name":"19015",
     "wof:parent_id":101718029,
     "wof:placetype":"postalcode",

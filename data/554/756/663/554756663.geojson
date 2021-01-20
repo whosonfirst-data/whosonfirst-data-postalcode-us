@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014039,
-    "geom:area_square_m":134001883.419194,
+    "geom:area_square_m":134001883.419389,
     "geom:bbox":"-74.577645,39.397167,-74.377535,39.557597",
     "geom:latitude":39.47449,
     "geom:longitude":-74.457507,
@@ -13,20 +13,27 @@
     "lbl:latitude":39.482,
     "lbl:longitude":-74.452637,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Absecon",
+    "mz:postal_locality_alt":[
+        "Galloway",
+        "Pomona",
+        "Smithville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477617,
         85633793,
-        102083869
+        102083869,
+        404477617,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"23509637"
     },
     "wof:country":"US",
-    "wof:geomhash":"09d9185f40692f49a1c417e685f35fbb",
+    "wof:geomhash":"742946c8fa6be30f145f7bf20ad8d210",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +45,7 @@
         }
     ],
     "wof:id":554756663,
-    "wof:lastmodified":1480834719,
+    "wof:lastmodified":1611184303,
     "wof:name":"08205",
     "wof:parent_id":404477617,
     "wof:placetype":"postalcode",

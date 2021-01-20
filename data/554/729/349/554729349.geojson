@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001956,
-    "geom:area_square_m":17088148.428995,
+    "geom:area_square_m":17088148.428963,
     "geom:bbox":"-93.285226,45.032427,-93.208024,45.069493",
     "geom:latitude":45.050901,
     "geom:longitude":-93.253133,
@@ -13,21 +13,28 @@
     "lbl:latitude":45.050884,
     "lbl:longitude":-93.253812,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Minneapolis",
+    "mz:postal_locality_alt":[
+        "Columbia Heights",
+        "Fridley",
+        "Hilltop"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404511279,
         85633793,
+        102087861,
+        404511279,
         85953403,
-        102087861
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781902"
     },
     "wof:country":"US",
-    "wof:geomhash":"5d9e8217f0294a94d68dddddb6905ee2",
+    "wof:geomhash":"37c9f300b814612292b614e83a810f5f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +47,7 @@
         }
     ],
     "wof:id":554729349,
-    "wof:lastmodified":1480789095,
+    "wof:lastmodified":1611185423,
     "wof:name":"55421",
     "wof:parent_id":85953403,
     "wof:placetype":"postalcode",

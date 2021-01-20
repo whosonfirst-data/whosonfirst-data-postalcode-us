@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027499,
-    "geom:area_square_m":285902052.977579,
+    "geom:area_square_m":285902052.9776,
     "geom:bbox":"-115.774541,32.694665,-115.397511,32.840256",
     "geom:latitude":32.772522,
     "geom:longitude":-115.599308,
@@ -13,19 +13,24 @@
     "lbl:latitude":32.770197,
     "lbl:longitude":-115.598591,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"El Centro",
+    "mz:postal_locality_alt":[
+        "Calexico"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688637,
-        102080869
+        102080869,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796361"
     },
     "wof:country":"US",
-    "wof:geomhash":"6167991c6858a1b13aa1ff99bc55b67d",
+    "wof:geomhash":"1d84772488fe998db5b757dafa7c9d37",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +41,7 @@
         }
     ],
     "wof:id":554752235,
-    "wof:lastmodified":1480903320,
+    "wof:lastmodified":1611182524,
     "wof:name":"92243",
     "wof:parent_id":102080869,
     "wof:placetype":"postalcode",

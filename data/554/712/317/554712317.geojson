@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040786,
-    "geom:area_square_m":418923697.690434,
+    "geom:area_square_m":418923697.690424,
     "geom:bbox":"-79.981332,33.72387,-79.541213,33.932742",
     "geom:latitude":33.834299,
     "geom:longitude":-79.747711,
@@ -14,19 +14,25 @@
     "lbl:latitude":33.827895,
     "lbl:longitude":-79.742142,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lake City",
+    "mz:postal_locality_alt":[
+        "Scranton",
+        "Johnsonville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688683,
-        102085431
+        102085431,
+        85688683
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770255"
     },
     "wof:country":"US",
-    "wof:geomhash":"44c5f307d83862220cc8c5fb8c5c1ba2",
+    "wof:geomhash":"ccbfc5e7783d7f9bfffd3e3f872f7c58",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554712317,
-    "wof:lastmodified":1480811574,
+    "wof:lastmodified":1611183737,
     "wof:name":"29560",
     "wof:parent_id":102085431,
     "wof:placetype":"postalcode",

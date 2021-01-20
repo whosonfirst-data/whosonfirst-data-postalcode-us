@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000586,
-    "geom:area_square_m":5510876.128507,
+    "geom:area_square_m":5510876.128489,
     "geom:bbox":"-79.975045,40.427393,-79.934033,40.460843",
     "geom:latitude":40.444042,
     "geom:longitude":-79.955249,
@@ -13,21 +13,26 @@
     "lbl:latitude":40.444042,
     "lbl:longitude":-79.955249,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pittsburgh",
+    "mz:postal_locality_alt":[
+        "Oakland"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404482523,
         85633793,
+        102080887,
+        404482523,
         101718805,
-        102080887
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763654"
     },
     "wof:country":"US",
-    "wof:geomhash":"4d405370b1893dbc03144b4a2e86fdaf",
+    "wof:geomhash":"b877d98976b7c67e8471b61536128e58",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554703551,
-    "wof:lastmodified":1480905388,
+    "wof:lastmodified":1611184445,
     "wof:name":"15213",
     "wof:parent_id":101718805,
     "wof:placetype":"postalcode",

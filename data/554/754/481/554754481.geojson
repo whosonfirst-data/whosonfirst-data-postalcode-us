@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012861,
-    "geom:area_square_m":111983453.831362,
+    "geom:area_square_m":111983453.831353,
     "geom:bbox":"-122.900719,45.176175,-122.716103,45.30317",
     "geom:latitude":45.237089,
     "geom:longitude":-122.798997,
@@ -14,19 +14,25 @@
     "lbl:latitude":45.240483,
     "lbl:longitude":-122.793841,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Aurora",
+    "mz:postal_locality_alt":[
+        "Tualatin",
+        "Donald"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688513,
-        102082219
+        102082219,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12798396"
     },
     "wof:country":"US",
-    "wof:geomhash":"47ec3c887fed4a388cb4be1c4a358e2a",
+    "wof:geomhash":"178f0da641b585364db0126bc62d73c9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554754481,
-    "wof:lastmodified":1480818652,
+    "wof:lastmodified":1611182907,
     "wof:name":"97002",
     "wof:parent_id":102082219,
     "wof:placetype":"postalcode",

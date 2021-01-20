@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01592,
-    "geom:area_square_m":143172545.084528,
+    "geom:area_square_m":143172545.084339,
     "geom:bbox":"-73.832086,43.222123,-73.59496,43.481528",
     "geom:latitude":43.33896,
     "geom:longitude":-73.684075,
@@ -14,21 +14,26 @@
     "lbl:latitude":43.340954,
     "lbl:longitude":-73.685911,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Queensbury",
+    "mz:postal_locality_alt":[
+        "Glens Falls"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404523293,
         85633793,
+        102081791,
+        404523293,
         85980107,
-        102081791
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762466"
     },
     "wof:country":"US",
-    "wof:geomhash":"2d2276d726b68d4b4b0f9f4cb680bfc1",
+    "wof:geomhash":"319e3dc3c670ec9ed01bdedab5b3cb7d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554701755,
-    "wof:lastmodified":1480835111,
+    "wof:lastmodified":1611182611,
     "wof:name":"12804",
     "wof:parent_id":85980107,
     "wof:placetype":"postalcode",

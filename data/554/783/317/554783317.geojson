@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002385,
-    "geom:area_square_m":22049623.845361,
+    "geom:area_square_m":22049623.845382,
     "geom:bbox":"-87.636506,41.574215,-87.559006,41.623154",
     "geom:latitude":41.5974,
     "geom:longitude":-87.599814,
@@ -14,21 +14,26 @@
     "lbl:latitude":41.597379,
     "lbl:longitude":-87.59915,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"South Holland",
+    "mz:postal_locality_alt":[
+        "Lansing"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404497591,
         85633793,
+        102084317,
+        404497591,
         85940935,
-        102084317
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784181"
     },
     "wof:country":"US",
-    "wof:geomhash":"cf2e8766d4c0f142fb97a7b595e8684b",
+    "wof:geomhash":"4ebfb76108d4cf6a9650c672944e855b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554783317,
-    "wof:lastmodified":1480802053,
+    "wof:lastmodified":1611183906,
     "wof:name":"60473",
     "wof:parent_id":85940935,
     "wof:placetype":"postalcode",

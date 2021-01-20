@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001005,
-    "geom:area_square_m":9533003.977944,
+    "geom:area_square_m":9533003.977952,
     "geom:bbox":"-75.289743,39.919992,-75.234742,39.953991",
     "geom:latitude":39.937537,
     "geom:longitude":-75.263666,
@@ -14,20 +14,26 @@
     "lbl:latitude":39.937537,
     "lbl:longitude":-75.263665,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lansdowne",
+    "mz:postal_locality_alt":[
+        "Yeadon",
+        "Upper Darby"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404486697,
         85633793,
-        102080913
+        102080913,
+        404486697,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765449"
     },
     "wof:country":"US",
-    "wof:geomhash":"c960c1540cd1af99a5dcda884f24835a",
+    "wof:geomhash":"e72e57ebac88a0558fd825747d24fc44",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554706205,
-    "wof:lastmodified":1480906378,
+    "wof:lastmodified":1611182695,
     "wof:name":"19050",
     "wof:parent_id":404486697,
     "wof:placetype":"postalcode",

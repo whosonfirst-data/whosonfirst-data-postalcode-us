@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013272,
-    "geom:area_square_m":116768017.904984,
+    "geom:area_square_m":116768017.904961,
     "geom:bbox":"-70.080935,44.574688,-69.927661,44.708855",
     "geom:latitude":44.639239,
     "geom:longitude":-70.006979,
@@ -14,20 +14,25 @@
     "lbl:latitude":44.647207,
     "lbl:longitude":-69.993337,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"New Sharon",
+    "mz:postal_locality_alt":[
+        "Farmington Falls"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404475461,
         85633793,
-        102087433
+        102087433,
+        404475461,
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759827"
     },
     "wof:country":"US",
-    "wof:geomhash":"5a91aa345f5e5f7edaf780efe1abd72b",
+    "wof:geomhash":"78992b86ee7388ba39b053ca9045d722",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554698673,
-    "wof:lastmodified":1480786869,
+    "wof:lastmodified":1611184681,
     "wof:name":"04955",
     "wof:parent_id":404475461,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003258,
-    "geom:area_square_m":29846373.946338,
+    "geom:area_square_m":29846373.94635,
     "geom:bbox":"-88.422683,42.167541,-88.286479,42.212663",
     "geom:latitude":42.191463,
     "geom:longitude":-88.34583,
@@ -14,21 +14,30 @@
     "lbl:latitude":42.203613,
     "lbl:longitude":-88.320701,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lake In The Hls",
+    "mz:postal_locality_alt":[
+        "Lake In The Hills",
+        "Lake In the Hills",
+        "Lake in the Hills",
+        "Algonquin",
+        "Elgin"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404499077,
         85633793,
+        102081661,
+        404499077,
         85938997,
-        102081661
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"23424634"
     },
     "wof:country":"US",
-    "wof:geomhash":"9df7184162d48f4d077273e4862da6db",
+    "wof:geomhash":"9bfb84116995a303da159d21f017bae3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +50,7 @@
         }
     ],
     "wof:id":554756563,
-    "wof:lastmodified":1480817161,
+    "wof:lastmodified":1611184293,
     "wof:name":"60156",
     "wof:parent_id":85938997,
     "wof:placetype":"postalcode",

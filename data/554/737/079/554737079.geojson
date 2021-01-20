@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021836,
-    "geom:area_square_m":211625886.248276,
+    "geom:area_square_m":211625886.248202,
     "geom:bbox":"-92.806314,38.270195,-92.614737,38.509014",
     "geom:latitude":38.391763,
     "geom:longitude":-92.711969,
@@ -14,20 +14,22 @@
     "lbl:latitude":38.388782,
     "lbl:longitude":-92.711775,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Barnett",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404516999,
         85633793,
-        102081217
+        102081217,
+        404516999,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786316"
     },
     "wof:country":"US",
-    "wof:geomhash":"d60992c9fd011670ac18790a296e2ddb",
+    "wof:geomhash":"e05dbf372c322da3f0e538ed979f8cf7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554737079,
-    "wof:lastmodified":1480832274,
+    "wof:lastmodified":1611182830,
     "wof:name":"65011",
     "wof:parent_id":404516999,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019259,
-    "geom:area_square_m":186130727.615195,
+    "geom:area_square_m":186130727.615215,
     "geom:bbox":"-93.776937,38.480981,-93.591058,38.665299",
     "geom:latitude":38.592009,
     "geom:longitude":-93.688642,
@@ -14,20 +14,22 @@
     "lbl:latitude":38.608025,
     "lbl:longitude":-93.675642,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Leeton",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404515679,
         85633793,
-        102085307
+        102085307,
+        404515679,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786253"
     },
     "wof:country":"US",
-    "wof:geomhash":"5e39af1fd048883cd974bc4e24804056",
+    "wof:geomhash":"88a893f329692c64930f5b379fa66c2e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554736973,
-    "wof:lastmodified":1480903813,
+    "wof:lastmodified":1611183051,
     "wof:name":"64761",
     "wof:parent_id":404515679,
     "wof:placetype":"postalcode",

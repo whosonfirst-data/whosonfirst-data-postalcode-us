@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029352,
-    "geom:area_square_m":307326380.817641,
+    "geom:area_square_m":307326380.817446,
     "geom:bbox":"-106.944601,31.970284,-106.641961,32.22828",
     "geom:latitude":32.138277,
     "geom:longitude":-106.799853,
@@ -14,19 +14,24 @@
     "lbl:latitude":32.147978,
     "lbl:longitude":-106.80585,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"La Mesa",
+    "mz:postal_locality_alt":[
+        "San Miguel"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688493,
-        102081557
+        102081557,
+        85688493
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795189"
     },
     "wof:country":"US",
-    "wof:geomhash":"81e0b9803ea1e513e5626bd0a4bc5312",
+    "wof:geomhash":"b9d2989ad7ca065febb6ec5e1093dbe1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554751317,
-    "wof:lastmodified":1480831483,
+    "wof:lastmodified":1611184361,
     "wof:name":"88044",
     "wof:parent_id":102081557,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024057,
-    "geom:area_square_m":212959045.431472,
+    "geom:area_square_m":212959045.431173,
     "geom:bbox":"-72.716576,44.159587,-72.503627,44.398224",
     "geom:latitude":44.283625,
     "geom:longitude":-72.604988,
@@ -13,20 +13,28 @@
     "lbl:latitude":44.274988,
     "lbl:longitude":-72.609514,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Montpelier",
+    "mz:postal_locality_alt":[
+        "Berlin",
+        "Moretown",
+        "Eden Mills",
+        "Waterbury"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688763,
         102191575,
-        404527429,
         85633793,
-        102080779
+        102080779,
+        404527429,
+        85688763
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760028"
     },
     "wof:country":"US",
-    "wof:geomhash":"997f873d3d457d769550a52659993305",
+    "wof:geomhash":"a00db2cf350911c03a5537aff496b8b3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +46,7 @@
         }
     ],
     "wof:id":554699019,
-    "wof:lastmodified":1480906388,
+    "wof:lastmodified":1611184625,
     "wof:name":"05602",
     "wof:parent_id":404527429,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002224,
-    "geom:area_square_m":23382417.946989,
+    "geom:area_square_m":23382417.946959,
     "geom:bbox":"-106.40412,31.709571,-106.342274,31.781171",
     "geom:latitude":31.745843,
     "geom:longitude":-106.372356,
@@ -13,20 +13,22 @@
     "lbl:latitude":31.746041,
     "lbl:longitude":-106.371426,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"El Paso",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102085989,
         101724863,
-        102085989
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12792807"
     },
     "wof:country":"US",
-    "wof:geomhash":"2e1741f244d1b927907d222bb740351a",
+    "wof:geomhash":"a7024d2b6b7422aca22724c8fc142e4e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +40,7 @@
         }
     ],
     "wof:id":554783833,
-    "wof:lastmodified":1480907774,
+    "wof:lastmodified":1611183884,
     "wof:name":"79915",
     "wof:parent_id":101724863,
     "wof:placetype":"postalcode",

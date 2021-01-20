@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013697,
-    "geom:area_square_m":117515994.034034,
+    "geom:area_square_m":117515994.034003,
     "geom:bbox":"-95.43771,46.016197,-95.146173,46.107577",
     "geom:latitude":46.062975,
     "geom:longitude":-95.264798,
@@ -14,20 +14,22 @@
     "lbl:latitude":46.057207,
     "lbl:longitude":-95.248616,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Miltona",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404509595,
         85633793,
-        102087127
+        102087127,
+        404509595,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782439"
     },
     "wof:country":"US",
-    "wof:geomhash":"a5a81988ffd6cd2bfb4daeef15069683",
+    "wof:geomhash":"ec09be1a22f9d14db6854a6aa4f5956a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554730281,
-    "wof:lastmodified":1480788519,
+    "wof:lastmodified":1611182730,
     "wof:name":"56354",
     "wof:parent_id":404509595,
     "wof:placetype":"postalcode",

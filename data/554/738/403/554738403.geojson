@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042258,
-    "geom:area_square_m":410551707.018025,
+    "geom:area_square_m":410551707.017761,
     "geom:bbox":"-95.922026,38.112142,-95.581666,38.332607",
     "geom:latitude":38.214206,
     "geom:longitude":-95.750815,
@@ -14,20 +14,25 @@
     "lbl:latitude":38.217399,
     "lbl:longitude":-95.748127,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Burlington",
+    "mz:postal_locality_alt":[
+        "New Strawn"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404503333,
         85633793,
-        102084185
+        102084185,
+        404503333,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787002"
     },
     "wof:country":"US",
-    "wof:geomhash":"acbc71267674500f85f30c521f2aa461",
+    "wof:geomhash":"4e8ebbb171819dd02fffeb8dbfef370c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554738403,
-    "wof:lastmodified":1480799800,
+    "wof:lastmodified":1611183123,
     "wof:name":"66839",
     "wof:parent_id":404503333,
     "wof:placetype":"postalcode",

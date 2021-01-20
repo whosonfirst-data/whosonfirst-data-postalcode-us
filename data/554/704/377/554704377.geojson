@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007919,
-    "geom:area_square_m":73987651.486555,
+    "geom:area_square_m":73987651.486583,
     "geom:bbox":"-79.652812,40.860187,-79.532242,40.985799",
     "geom:latitude":40.926812,
     "geom:longitude":-79.592007,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.933435,
     "lbl:longitude":-79.590649,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cowansville",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404482573,
         85633793,
-        102081371
+        102081371,
+        404482573,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764203"
     },
     "wof:country":"US",
-    "wof:geomhash":"fcb1015844f433f0ba910a1891a65e58",
+    "wof:geomhash":"6cfe35e98edb2acbcf5c931857926d93",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554704377,
-    "wof:lastmodified":1480830879,
+    "wof:lastmodified":1611184500,
     "wof:name":"16218",
     "wof:parent_id":404482573,
     "wof:placetype":"postalcode",

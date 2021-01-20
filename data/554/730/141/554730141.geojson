@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032575,
-    "geom:area_square_m":283218313.295698,
+    "geom:area_square_m":283218313.295559,
     "geom:bbox":"-95.152342,45.235226,-94.782914,45.399385",
     "geom:latitude":45.321299,
     "geom:longitude":-94.965262,
@@ -14,20 +14,25 @@
     "lbl:latitude":45.317879,
     "lbl:longitude":-94.979933,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"New London",
+    "mz:postal_locality_alt":[
+        "Hawick"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404513945,
         85633793,
-        102087635
+        102087635,
+        404513945,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782371"
     },
     "wof:country":"US",
-    "wof:geomhash":"ca711a755f4b093a1b9d96c523c0837b",
+    "wof:geomhash":"38f560415c0d2481f7cf46e652e9ddf7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554730141,
-    "wof:lastmodified":1480784633,
+    "wof:lastmodified":1611182757,
     "wof:name":"56273",
     "wof:parent_id":404513945,
     "wof:placetype":"postalcode",

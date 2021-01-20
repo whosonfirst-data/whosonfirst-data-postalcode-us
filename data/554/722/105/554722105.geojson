@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010975,
-    "geom:area_square_m":106052918.960189,
+    "geom:area_square_m":106052918.960152,
     "geom:bbox":"-82.43246,38.520028,-82.31099,38.679568",
     "geom:latitude":38.601161,
     "geom:longitude":-82.377338,
@@ -14,20 +14,22 @@
     "lbl:latitude":38.610443,
     "lbl:longitude":-82.379581,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Scottown",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404523703,
         85633793,
-        102083699
+        102083699,
+        404523703,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777376"
     },
     "wof:country":"US",
-    "wof:geomhash":"94e52806340bd0c20c7e9f196d579860",
+    "wof:geomhash":"ab9ab33a99fbfe8a518f473ca5e2c98e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554722105,
-    "wof:lastmodified":1480839211,
+    "wof:lastmodified":1611183212,
     "wof:name":"45678",
     "wof:parent_id":404523703,
     "wof:placetype":"postalcode",

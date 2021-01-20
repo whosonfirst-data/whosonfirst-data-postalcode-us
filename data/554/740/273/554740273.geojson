@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04993,
-    "geom:area_square_m":464212526.178363,
+    "geom:area_square_m":464212526.178516,
     "geom:bbox":"-98.612246,41.105139,-98.296697,41.394204",
     "geom:latitude":41.24502,
     "geom:longitude":-98.450458,
@@ -14,20 +14,27 @@
     "lbl:latitude":41.240105,
     "lbl:longitude":-98.453771,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"St Paul",
+    "mz:postal_locality_alt":[
+        "Saint Paul",
+        "Grand Island",
+        "Central City"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688563,
         102191575,
-        404520397,
         85633793,
-        102082811
+        102082811,
+        404520397,
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787911"
     },
     "wof:country":"US",
-    "wof:geomhash":"247ea2c91f6389c780cc9f9b4dd2ad26",
+    "wof:geomhash":"0847ad3e8e244212ad29b6a02e044560",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554740273,
-    "wof:lastmodified":1480794665,
+    "wof:lastmodified":1611183391,
     "wof:name":"68873",
     "wof:parent_id":404520397,
     "wof:placetype":"postalcode",

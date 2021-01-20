@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006357,
-    "geom:area_square_m":68142972.854744,
+    "geom:area_square_m":68142972.854667,
     "geom:bbox":"-98.603297,29.824643,-98.485901,29.985727",
     "geom:latitude":29.900672,
     "geom:longitude":-98.555791,
@@ -14,19 +14,24 @@
     "lbl:latitude":29.903262,
     "lbl:longitude":-98.556446,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bergheim",
+    "mz:postal_locality_alt":[
+        "Boerne"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688753,
-        102080707
+        102080707,
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12791862"
     },
     "wof:country":"US",
-    "wof:geomhash":"1cf7431de63a66c500c6d1b0c9111f14",
+    "wof:geomhash":"c8dd1965b9771189a8414a2a3a6287b3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554746503,
-    "wof:lastmodified":1480904953,
+    "wof:lastmodified":1611183996,
     "wof:name":"78004",
     "wof:parent_id":102080707,
     "wof:placetype":"postalcode",

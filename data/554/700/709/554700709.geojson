@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017619,
-    "geom:area_square_m":165607321.664456,
+    "geom:area_square_m":165607321.664425,
     "geom:bbox":"-74.99312,40.452484,-74.749947,40.582768",
     "geom:latitude":40.521088,
     "geom:longitude":-74.863612,
@@ -14,20 +14,28 @@
     "lbl:latitude":40.524802,
     "lbl:longitude":-74.865205,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Flemington",
+    "mz:postal_locality_alt":[
+        "Whitehouse",
+        "Three Bridges",
+        "Phillipsburg",
+        "Neshanic Station"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478235,
         85633793,
-        102085997
+        102085997,
+        404478235,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761269"
     },
     "wof:country":"US",
-    "wof:geomhash":"862916e88386dc941970c3d88911ead8",
+    "wof:geomhash":"473245c64e086bd0292cc315305ab682",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +47,7 @@
         }
     ],
     "wof:id":554700709,
-    "wof:lastmodified":1480812023,
+    "wof:lastmodified":1611183177,
     "wof:name":"08822",
     "wof:parent_id":404478235,
     "wof:placetype":"postalcode",

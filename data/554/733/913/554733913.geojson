@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01848,
-    "geom:area_square_m":171007149.902462,
+    "geom:area_square_m":171007149.902483,
     "geom:bbox":"-89.516381,41.465724,-89.344293,41.639197",
     "geom:latitude":41.550431,
     "geom:longitude":-89.445025,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.544823,
     "lbl:longitude":-89.442299,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ohio",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404496183,
         85633793,
-        102082267
+        102082267,
+        404496183,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784575"
     },
     "wof:country":"US",
-    "wof:geomhash":"93f9230886de1e174f2a390cfd4e5e07",
+    "wof:geomhash":"aea5cb9c35e9dc8064cdfbad51f3f93e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554733913,
-    "wof:lastmodified":1480792636,
+    "wof:lastmodified":1611184229,
     "wof:name":"61349",
     "wof:parent_id":404496183,
     "wof:placetype":"postalcode",

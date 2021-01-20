@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008329,
-    "geom:area_square_m":81054499.824233,
+    "geom:area_square_m":81054499.824276,
     "geom:bbox":"-122.198236,38.033399,-122.064482,38.171531",
     "geom:latitude":38.094038,
     "geom:longitude":-122.132191,
@@ -14,20 +14,25 @@
     "lbl:latitude":38.098071,
     "lbl:longitude":-122.13594,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Benicia",
+    "mz:postal_locality_alt":[
+        "Concord"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102087589,
         85922673,
-        102087589
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12797305"
     },
     "wof:country":"US",
-    "wof:geomhash":"eaa7f6801718b9ad292da831c8d89f3c",
+    "wof:geomhash":"34b209b67d8c4784254559ce0e2829f0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554753083,
-    "wof:lastmodified":1480908618,
+    "wof:lastmodified":1611182933,
     "wof:name":"94510",
     "wof:parent_id":85922673,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013258,
-    "geom:area_square_m":123613414.374827,
+    "geom:area_square_m":123613414.37485,
     "geom:bbox":"-81.82185,40.988205,-81.675743,41.155634",
     "geom:latitude":41.058566,
     "geom:longitude":-81.73834,
@@ -13,21 +13,26 @@
     "lbl:latitude":41.059815,
     "lbl:longitude":-81.741072,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wadsworth",
+    "mz:postal_locality_alt":[
+        "Sharon Center"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404526353,
         85633793,
+        102081391,
+        404526353,
         85983031,
-        102081391
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776738"
     },
     "wof:country":"US",
-    "wof:geomhash":"fe102075661d65f8b09c49a04d8caf69",
+    "wof:geomhash":"ece97f5a3f00b8b67b470d0bce087da8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554721123,
-    "wof:lastmodified":1480831406,
+    "wof:lastmodified":1611184978,
     "wof:name":"44281",
     "wof:parent_id":85983031,
     "wof:placetype":"postalcode",

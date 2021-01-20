@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006222,
-    "geom:area_square_m":58926422.190883,
+    "geom:area_square_m":58926422.190876,
     "geom:bbox":"-105.162632,39.957758,-105.052774,40.072974",
     "geom:latitude":40.013158,
     "geom:longitude":-105.098033,
@@ -14,19 +14,24 @@
     "lbl:latitude":40.012251,
     "lbl:longitude":-105.099757,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lafayette",
+    "mz:postal_locality_alt":[
+        "Louisville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688603,
-        102085251
+        102085251,
+        85688603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12792884"
     },
     "wof:country":"US",
-    "wof:geomhash":"4038b5572b3d8bc9f2ca595b48016a24",
+    "wof:geomhash":"6db08311d11b389f35860de20dcf2bb3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554747915,
-    "wof:lastmodified":1480913967,
+    "wof:lastmodified":1611183464,
     "wof:name":"80026",
     "wof:parent_id":102085251,
     "wof:placetype":"postalcode",

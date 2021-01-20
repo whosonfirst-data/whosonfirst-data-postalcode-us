@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001286,
-    "geom:area_square_m":13202375.123308,
+    "geom:area_square_m":13202375.123329,
     "geom:bbox":"-117.773858,33.82995,-117.711109,33.871455",
     "geom:latitude":33.856473,
     "geom:longitude":-117.740177,
@@ -13,20 +13,25 @@
     "lbl:latitude":33.856473,
     "lbl:longitude":-117.740177,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Anaheim",
+    "mz:postal_locality_alt":[
+        "Anaheim Hills"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102080847,
         85923167,
-        102080847
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796631"
     },
     "wof:country":"US",
-    "wof:geomhash":"1889bac7b3b061f66a284edba3bdf5d6",
+    "wof:geomhash":"e3f900a03a5b4f7ca9cb466f45392219",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554752541,
-    "wof:lastmodified":1480906250,
+    "wof:lastmodified":1611182556,
     "wof:name":"92808",
     "wof:parent_id":85923167,
     "wof:placetype":"postalcode",

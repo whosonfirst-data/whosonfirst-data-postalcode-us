@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000416,
-    "geom:area_square_m":3798250.250304,
+    "geom:area_square_m":3798250.250305,
     "geom:bbox":"-71.056246,42.337988,-71.012357,42.359733",
     "geom:latitude":42.347595,
     "geom:longitude":-71.038928,
@@ -13,21 +13,26 @@
     "lbl:latitude":42.347471,
     "lbl:longitude":-71.039271,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Boston",
+    "mz:postal_locality_alt":[
+        "South Boston"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476573,
         85633793,
+        102084423,
+        404476573,
         85950361,
-        102084423
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758778"
     },
     "wof:country":"US",
-    "wof:geomhash":"f14a86bc932863b64adb2133daf2809b",
+    "wof:geomhash":"2527939468fb6abed4b7a9795f8dfe7c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554778391,
-    "wof:lastmodified":1480798204,
+    "wof:lastmodified":1611183424,
     "wof:name":"02210",
     "wof:parent_id":85950361,
     "wof:placetype":"postalcode",

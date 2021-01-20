@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053444,
-    "geom:area_square_m":527833518.024614,
+    "geom:area_square_m":527833518.024362,
     "geom:bbox":"-85.755426,36.842461,-85.441755,37.14287",
     "geom:latitude":36.991163,
     "geom:longitude":-85.58875,
@@ -14,19 +14,24 @@
     "lbl:latitude":36.989145,
     "lbl:longitude":-85.585467,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Edmonton",
+    "mz:postal_locality_alt":[
+        "Sulphur Well"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688641,
-        102084535
+        102084535,
+        85688641
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12775853"
     },
     "wof:country":"US",
-    "wof:geomhash":"1ba69322bb9bbf6c9a93036e44fffbba",
+    "wof:geomhash":"5003a2a6dddfdbf94179d9371a7fa668",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554719813,
-    "wof:lastmodified":1480815558,
+    "wof:lastmodified":1611184931,
     "wof:name":"42129",
     "wof:parent_id":102084535,
     "wof:placetype":"postalcode",

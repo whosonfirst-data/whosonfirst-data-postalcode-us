@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01415,
-    "geom:area_square_m":135165190.689366,
+    "geom:area_square_m":135165190.689346,
     "geom:bbox":"-76.042877,39.360797,-75.845923,39.482412",
     "geom:latitude":39.418901,
     "geom:longitude":-75.935487,
@@ -14,19 +14,24 @@
     "lbl:latitude":39.418555,
     "lbl:longitude":-75.933718,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Earleville",
+    "mz:postal_locality_alt":[
+        "Cecilton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688501,
-        102082183
+        102082183,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766788"
     },
     "wof:country":"US",
-    "wof:geomhash":"bc4efe53b5707b8bb98d91222787eb92",
+    "wof:geomhash":"2e195b73fa577a4326278390070f4309",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554707543,
-    "wof:lastmodified":1480830596,
+    "wof:lastmodified":1611183147,
     "wof:name":"21919",
     "wof:parent_id":102082183,
     "wof:placetype":"postalcode",

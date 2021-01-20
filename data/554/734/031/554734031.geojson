@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006403,
-    "geom:area_square_m":59799801.255106,
+    "geom:area_square_m":59799801.255098,
     "geom:bbox":"-89.985653,40.902155,-89.88642,40.98949",
     "geom:latitude":40.945767,
     "geom:longitude":-89.938793,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.938697,
     "lbl:longitude":-89.939478,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Laura",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404496627,
         85633793,
-        102081247
+        102081247,
+        404496627,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784639"
     },
     "wof:country":"US",
-    "wof:geomhash":"a773100368c7afef539e8e29db213cba",
+    "wof:geomhash":"748c8c37d9aaaef74afc5f4d2c7943aa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554734031,
-    "wof:lastmodified":1480841039,
+    "wof:lastmodified":1611184185,
     "wof:name":"61451",
     "wof:parent_id":404496627,
     "wof:placetype":"postalcode",

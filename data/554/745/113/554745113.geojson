@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006397,
-    "geom:area_square_m":66372524.655757,
+    "geom:area_square_m":66372524.655699,
     "geom:bbox":"-97.203215,32.913671,-97.08723,33.017829",
     "geom:latitude":32.959963,
     "geom:longitude":-97.148563,
@@ -14,20 +14,26 @@
     "lbl:latitude":32.959873,
     "lbl:longitude":-97.148433,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Southlake",
+    "mz:postal_locality_alt":[
+        "Grapevine",
+        "Roanoke"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102083201,
         101724501,
-        102083201
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12790909"
     },
     "wof:country":"US",
-    "wof:geomhash":"eefe008bdd57a32f3147265948bc994c",
+    "wof:geomhash":"cbd37529518d6197d2297d3de9078cba",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554745113,
-    "wof:lastmodified":1480840097,
+    "wof:lastmodified":1611185293,
     "wof:name":"76092",
     "wof:parent_id":101724501,
     "wof:placetype":"postalcode",

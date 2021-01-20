@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001234,
-    "geom:area_square_m":11392193.243308,
+    "geom:area_square_m":11392193.243305,
     "geom:bbox":"-87.73973,41.677048,-87.681155,41.713668",
     "geom:latitude":41.694776,
     "geom:longitude":-87.703776,
@@ -13,21 +13,26 @@
     "lbl:latitude":41.694776,
     "lbl:longitude":-87.703776,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Chicago",
+    "mz:postal_locality_alt":[
+        "Merrionette Park"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404496273,
         85633793,
+        102084317,
+        404496273,
         85940195,
-        102084317
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784304"
     },
     "wof:country":"US",
-    "wof:geomhash":"2295092352ae9436cf13ce9e027012f2",
+    "wof:geomhash":"db1aca7231b1eaf6006657e853448972",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554783453,
-    "wof:lastmodified":1480802056,
+    "wof:lastmodified":1611183884,
     "wof:name":"60655",
     "wof:parent_id":85940195,
     "wof:placetype":"postalcode",

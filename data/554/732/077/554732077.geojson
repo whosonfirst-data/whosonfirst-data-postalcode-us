@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034049,
-    "geom:area_square_m":288625003.015626,
+    "geom:area_square_m":288625003.015597,
     "geom:bbox":"-100.839414,46.63445,-100.501281,46.818818",
     "geom:latitude":46.723102,
     "geom:longitude":-100.677964,
@@ -13,20 +13,25 @@
     "lbl:latitude":46.737571,
     "lbl:longitude":-100.678406,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bismarck",
+    "mz:postal_locality_alt":[
+        "Lincoln"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688525,
         102191575,
-        404480371,
         85633793,
-        102082107
+        102082107,
+        404480371,
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12783364"
     },
     "wof:country":"US",
-    "wof:geomhash":"606a30d2747156c00f99eb755b2fe640",
+    "wof:geomhash":"b845e7c0ddf7d3ff10c411d9c12f84e2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554732077,
-    "wof:lastmodified":1480831100,
+    "wof:lastmodified":1611184370,
     "wof:name":"58504",
     "wof:parent_id":404480371,
     "wof:placetype":"postalcode",

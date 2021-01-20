@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003167,
-    "geom:area_square_m":31890490.439378,
+    "geom:area_square_m":31890490.439403,
     "geom:bbox":"-97.711353,35.460203,-97.601085,35.50145",
     "geom:latitude":35.477554,
     "geom:longitude":-97.653919,
@@ -13,20 +13,26 @@
     "lbl:latitude":35.477422,
     "lbl:longitude":-97.653194,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Oklahoma City",
+    "mz:postal_locality_alt":[
+        "Bethany",
+        "Yukon"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688585,
         102191575,
         85633793,
+        102082577,
         101714461,
-        102082577
+        85688585
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12789643"
     },
     "wof:country":"US",
-    "wof:geomhash":"c30537c1ae9911d19f892e7c6b08acea",
+    "wof:geomhash":"76baabf501d6e5490c7f44c15e7890c7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554743025,
-    "wof:lastmodified":1480840013,
+    "wof:lastmodified":1611184773,
     "wof:name":"73127",
     "wof:parent_id":101714461,
     "wof:placetype":"postalcode",

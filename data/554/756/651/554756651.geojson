@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017774,
-    "geom:area_square_m":146542731.982926,
+    "geom:area_square_m":146542731.982865,
     "geom:bbox":"-122.54694,48.050777,-122.353545,48.275296",
     "geom:latitude":48.180253,
     "geom:longitude":-122.466733,
@@ -14,20 +14,25 @@
     "lbl:latitude":48.213258,
     "lbl:longitude":-122.500085,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Stanwood",
+    "mz:postal_locality_alt":[
+        "Camano Island"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688623,
         102191575,
         85633793,
+        102087543,
         101730885,
-        102087543
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"23424688"
     },
     "wof:country":"US",
-    "wof:geomhash":"1e69655fc81be3cc3d1ef0a00e0b25ab",
+    "wof:geomhash":"9ebfcd35500d9d9aa8a940b3bfce01d9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554756651,
-    "wof:lastmodified":1480788592,
+    "wof:lastmodified":1611184280,
     "wof:name":"98282",
     "wof:parent_id":101730885,
     "wof:placetype":"postalcode",

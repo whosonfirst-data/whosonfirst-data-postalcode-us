@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00357,
-    "geom:area_square_m":33028622.366412,
+    "geom:area_square_m":33028622.366415,
     "geom:bbox":"-87.823448,41.528039,-87.727766,41.606615",
     "geom:latitude":41.572541,
     "geom:longitude":-87.788698,
@@ -13,21 +13,26 @@
     "lbl:latitude":41.572143,
     "lbl:longitude":-87.78925,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Tinley Park",
+    "mz:postal_locality_alt":[
+        "Orland Park"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404497643,
         85633793,
+        102084317,
+        404497643,
         85940515,
-        102084317
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784185"
     },
     "wof:country":"US",
-    "wof:geomhash":"908044934390887e6779f8c963192843",
+    "wof:geomhash":"8b00a1435573ccd0fae08da6407e8f21",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554733411,
-    "wof:lastmodified":1480903215,
+    "wof:lastmodified":1611184238,
     "wof:name":"60477",
     "wof:parent_id":85940515,
     "wof:placetype":"postalcode",

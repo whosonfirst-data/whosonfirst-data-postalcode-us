@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007847,
-    "geom:area_square_m":70942141.312366,
+    "geom:area_square_m":70942141.312363,
     "geom:bbox":"-72.87956,42.98724,-72.734146,43.053549",
     "geom:latitude":43.020549,
     "geom:longitude":-72.806426,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.019478,
     "lbl:longitude":-72.812148,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wardsboro",
+    "mz:postal_locality_alt":[
+        "Wilmington"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688763,
         102191575,
-        404527099,
         85633793,
-        102080773
+        102080773,
+        404527099,
+        85688763
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759957"
     },
     "wof:country":"US",
-    "wof:geomhash":"23f481a79cbf9117b28122d1ef043497",
+    "wof:geomhash":"caf2241e657a90a9ae6ef1d6ae033bb0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554698909,
-    "wof:lastmodified":1480903160,
+    "wof:lastmodified":1611184675,
     "wof:name":"05355",
     "wof:parent_id":404527099,
     "wof:placetype":"postalcode",

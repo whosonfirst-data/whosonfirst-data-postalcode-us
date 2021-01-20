@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048966,
-    "geom:area_square_m":426397973.48295,
+    "geom:area_square_m":426397973.482838,
     "geom:bbox":"-91.810379,45.120823,-91.295939,45.353372",
     "geom:latitude":45.2317,
     "geom:longitude":-91.524349,
@@ -14,20 +14,25 @@
     "lbl:latitude":45.237197,
     "lbl:longitude":-91.522349,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"New Auburn",
+    "mz:postal_locality_alt":[
+        "Sand Creek"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404493107,
         85633793,
-        102081787
+        102081787,
+        404493107,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781509"
     },
     "wof:country":"US",
-    "wof:geomhash":"c31c2b5dadd1e8a740aeaf7a7f647e7d",
+    "wof:geomhash":"3068b1a3e87de6a3148a7c0eb35849e9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554728643,
-    "wof:lastmodified":1480831137,
+    "wof:lastmodified":1611185052,
     "wof:name":"54757",
     "wof:parent_id":404493107,
     "wof:placetype":"postalcode",

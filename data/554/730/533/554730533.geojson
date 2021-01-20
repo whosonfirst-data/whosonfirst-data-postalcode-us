@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041406,
-    "geom:area_square_m":348652664.025075,
+    "geom:area_square_m":348652664.025036,
     "geom:bbox":"-96.109711,46.985493,-95.604918,47.151813",
     "geom:latitude":47.080571,
     "geom:longitude":-95.857738,
@@ -14,20 +14,22 @@
     "lbl:latitude":47.073766,
     "lbl:longitude":-95.859666,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ogema",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404511359,
         85633793,
-        102087001
+        102087001,
+        404511359,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782571"
     },
     "wof:country":"US",
-    "wof:geomhash":"39bf3be9faed2d783d704dd6126c0c09",
+    "wof:geomhash":"9e072a30f9a2bd3062b64615276c33ab",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554730533,
-    "wof:lastmodified":1480788803,
+    "wof:lastmodified":1611182720,
     "wof:name":"56569",
     "wof:parent_id":404511359,
     "wof:placetype":"postalcode",

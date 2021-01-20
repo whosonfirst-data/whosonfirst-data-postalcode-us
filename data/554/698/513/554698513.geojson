@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.097711,
-    "geom:area_square_m":859323863.991646,
+    "geom:area_square_m":859323863.991601,
     "geom:bbox":"-68.639764,44.384219,-68.247553,44.997373",
     "geom:latitude":44.664593,
     "geom:longitude":-68.41513,
@@ -14,20 +14,32 @@
     "lbl:latitude":44.672809,
     "lbl:longitude":-68.391841,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ellsworth",
+    "mz:postal_locality_alt":[
+        "Lamoine",
+        "Blue Hill",
+        "Addison",
+        "Milbridge",
+        "Stonington",
+        "Hancock",
+        "Trenton",
+        "Columbia"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404475619,
         85633793,
-        102081201
+        102081201,
+        404475619,
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759651"
     },
     "wof:country":"US",
-    "wof:geomhash":"aca86cd2ecb55f35ad1562309a36e432",
+    "wof:geomhash":"e274eb80125e6d12f4284c903ce17d9c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +51,7 @@
         }
     ],
     "wof:id":554698513,
-    "wof:lastmodified":1480906065,
+    "wof:lastmodified":1611184704,
     "wof:name":"04605",
     "wof:parent_id":404475619,
     "wof:placetype":"postalcode",

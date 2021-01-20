@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012189,
-    "geom:area_square_m":114046579.331754,
+    "geom:area_square_m":114046579.331748,
     "geom:bbox":"-88.128072,40.794088,-87.87278,40.871433",
     "geom:latitude":40.829896,
     "geom:longitude":-88.002574,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.829913,
     "lbl:longitude":-88.002574,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Danforth",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404498183,
         85633793,
-        102086209
+        102086209,
+        404498183,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784365"
     },
     "wof:country":"US",
-    "wof:geomhash":"c3e8377b5820417e88809136603881de",
+    "wof:geomhash":"681927ef4a8139c093ffd966f1b6d287",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554733553,
-    "wof:lastmodified":1480912395,
+    "wof:lastmodified":1611184234,
     "wof:name":"60930",
     "wof:parent_id":404498183,
     "wof:placetype":"postalcode",

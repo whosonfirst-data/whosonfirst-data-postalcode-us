@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005833,
-    "geom:area_square_m":56042379.756221,
+    "geom:area_square_m":56042379.756279,
     "geom:bbox":"-84.494814,38.965027,-84.377945,39.072842",
     "geom:latitude":39.017782,
     "geom:longitude":-84.435938,
@@ -13,20 +13,29 @@
     "lbl:latitude":39.013255,
     "lbl:longitude":-84.453836,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cold Spring",
+    "mz:postal_locality_alt":[
+        "Newport",
+        "Highland Heights",
+        "Wilder",
+        "Butler",
+        "Williamstown"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688641,
         102191575,
         85633793,
+        102085439,
         85946849,
-        102085439
+        85688641
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12775511"
     },
     "wof:country":"US",
-    "wof:geomhash":"834af85352d6475dd47fcd998d5b2872",
+    "wof:geomhash":"9855cf26f9ac71c1291abe578cfbec0c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +47,7 @@
         }
     ],
     "wof:id":554719233,
-    "wof:lastmodified":1480838317,
+    "wof:lastmodified":1611184916,
     "wof:name":"41076",
     "wof:parent_id":85946849,
     "wof:placetype":"postalcode",

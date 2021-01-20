@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015519,
-    "geom:area_square_m":154101569.920476,
+    "geom:area_square_m":154101569.920606,
     "geom:bbox":"-89.828755,36.494113,-89.574232,36.671964",
     "geom:latitude":36.578591,
     "geom:longitude":-89.683243,
@@ -14,20 +14,25 @@
     "lbl:latitude":36.614001,
     "lbl:longitude":-89.641714,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lilbourn",
+    "mz:postal_locality_alt":[
+        "Risco"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404517013,
         85633793,
-        102087509
+        102087509,
+        404517013,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785895"
     },
     "wof:country":"US",
-    "wof:geomhash":"1b4a0643606fe53bf6c183130874aa3e",
+    "wof:geomhash":"33a6c337f9c6a342a545ca878a31eb98",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554736287,
-    "wof:lastmodified":1480788504,
+    "wof:lastmodified":1611183024,
     "wof:name":"63862",
     "wof:parent_id":404517013,
     "wof:placetype":"postalcode",

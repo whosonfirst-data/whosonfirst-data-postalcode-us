@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012536,
-    "geom:area_square_m":118240700.679944,
+    "geom:area_square_m":118240700.679846,
     "geom:bbox":"-83.249626,40.20453,-83.126183,40.376507",
     "geom:latitude":40.286598,
     "geom:longitude":-83.203246,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.289506,
     "lbl:longitude":-83.203052,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ostrander",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404524533,
         85633793,
-        102084739
+        102084739,
+        404524533,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776122"
     },
     "wof:country":"US",
-    "wof:geomhash":"7d564aaa0f1779adf281eca1d6050a5c",
+    "wof:geomhash":"a605af742c3f44f44f2a731babd345c4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554720271,
-    "wof:lastmodified":1480838360,
+    "wof:lastmodified":1611185477,
     "wof:name":"43061",
     "wof:parent_id":404524533,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036299,
-    "geom:area_square_m":380159994.740543,
+    "geom:area_square_m":380159994.740413,
     "geom:bbox":"-98.712138,32.006578,-98.421608,32.241779",
     "geom:latitude":32.114602,
     "geom:longitude":-98.565649,
@@ -14,19 +14,28 @@
     "lbl:latitude":32.12348,
     "lbl:longitude":-98.577273,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"De Leon",
+    "mz:postal_locality_alt":[
+        "Desdemona",
+        "Stephenville",
+        "Ranger",
+        "Comanche",
+        "Dublin"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688753,
-        102085033
+        102085033,
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12791068"
     },
     "wof:country":"US",
-    "wof:geomhash":"db75fc210671c12f79cb52a69a0db0e6",
+    "wof:geomhash":"6190a13b5d381c505846147bc163ed7a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +46,7 @@
         }
     ],
     "wof:id":554745371,
-    "wof:lastmodified":1480841080,
+    "wof:lastmodified":1611185271,
     "wof:name":"76444",
     "wof:parent_id":102085033,
     "wof:placetype":"postalcode",

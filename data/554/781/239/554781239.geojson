@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002678,
-    "geom:area_square_m":28601603.514893,
+    "geom:area_square_m":28601603.514927,
     "geom:bbox":"-81.453815,30.252243,-81.376317,30.307704",
     "geom:latitude":30.278296,
     "geom:longitude":-81.407268,
@@ -13,20 +13,27 @@
     "lbl:latitude":30.280559,
     "lbl:longitude":-81.412074,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Jacksonville Bch",
+    "mz:postal_locality_alt":[
+        "Jacksonville Beach",
+        "Jacksonville",
+        "Neptune Beach"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688651,
         102191575,
         85633793,
+        102084753,
         85932543,
-        102084753
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12771613"
     },
     "wof:country":"US",
-    "wof:geomhash":"841d5f9732ca1341a950e85dbcf157b5",
+    "wof:geomhash":"6dcda16bde09f1e18989fce50a75c89c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +45,7 @@
         }
     ],
     "wof:id":554781239,
-    "wof:lastmodified":1480805319,
+    "wof:lastmodified":1611184834,
     "wof:name":"32250",
     "wof:parent_id":85932543,
     "wof:placetype":"postalcode",

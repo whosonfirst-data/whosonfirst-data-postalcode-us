@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001611,
-    "geom:area_square_m":15071437.321109,
+    "geom:area_square_m":15071437.321097,
     "geom:bbox":"-72.708103,40.800754,-72.650983,40.859399",
     "geom:latitude":40.82758,
     "geom:longitude":-72.679148,
@@ -14,21 +14,27 @@
     "lbl:latitude":40.828388,
     "lbl:longitude":-72.679194,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Westhampton",
+    "mz:postal_locality_alt":[
+        "Speonk",
+        "Westhampton Bch"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522671,
         85633793,
+        102082395,
+        404522671,
         85979877,
-        102082395
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762032"
     },
     "wof:country":"US",
-    "wof:geomhash":"0445aee13c880bc1033601bfc53c5bde",
+    "wof:geomhash":"6f900ff6ab109dd60e9a924ef2087bc4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554780057,
-    "wof:lastmodified":1480794862,
+    "wof:lastmodified":1611185188,
     "wof:name":"11977",
     "wof:parent_id":85979877,
     "wof:placetype":"postalcode",

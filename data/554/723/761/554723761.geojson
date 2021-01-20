@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.064199,
-    "geom:area_square_m":607766196.408828,
+    "geom:area_square_m":607766196.408911,
     "geom:bbox":"-87.091051,39.894888,-86.67649,40.186138",
     "geom:latitude":40.038666,
     "geom:longitude":-86.896681,
@@ -13,21 +13,27 @@
     "lbl:latitude":40.038913,
     "lbl:longitude":-86.896849,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Crawfordsville",
+    "mz:postal_locality_alt":[
+        "Darlington",
+        "Wingate"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404501377,
         85633793,
+        102087037,
+        404501377,
         85942427,
-        102087037
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778462"
     },
     "wof:country":"US",
-    "wof:geomhash":"fb771b26fd6ae3248b9a33779f84a649",
+    "wof:geomhash":"6fa3511c382e6dfca9bd2462f1409fa7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +46,7 @@
         }
     ],
     "wof:id":554723761,
-    "wof:lastmodified":1480916630,
+    "wof:lastmodified":1611183799,
     "wof:name":"47933",
     "wof:parent_id":85942427,
     "wof:placetype":"postalcode",

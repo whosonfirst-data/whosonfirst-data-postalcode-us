@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011992,
-    "geom:area_square_m":106712501.554744,
+    "geom:area_square_m":106712501.554728,
     "geom:bbox":"-72.117012,43.89503,-71.959209,44.029592",
     "geom:latitude":43.972396,
     "geom:longitude":-72.028816,
@@ -14,20 +14,26 @@
     "lbl:latitude":43.96185,
     "lbl:longitude":-72.001291,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Piermont",
+    "mz:postal_locality_alt":[
+        "Claremont",
+        "Lyme"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688689,
         102191575,
-        404477117,
         85633793,
-        102086567
+        102086567,
+        404477117,
+        85688689
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759271"
     },
     "wof:country":"US",
-    "wof:geomhash":"4339871f5b7e97cb6e367076f8e21bf8",
+    "wof:geomhash":"3d459f1f65f74ad1dd241c104be907ad",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554697997,
-    "wof:lastmodified":1480916382,
+    "wof:lastmodified":1611184637,
     "wof:name":"03779",
     "wof:parent_id":404477117,
     "wof:placetype":"postalcode",

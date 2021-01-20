@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001964,
-    "geom:area_square_m":18630262.59669,
+    "geom:area_square_m":18630262.596707,
     "geom:bbox":"-105.027595,39.882868,-104.98765,39.946232",
     "geom:latitude":39.912283,
     "geom:longitude":-105.005516,
@@ -13,20 +13,26 @@
     "lbl:latitude":39.909992,
     "lbl:longitude":-105.002643,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Denver",
+    "mz:postal_locality_alt":[
+        "Northglenn",
+        "Westminster"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688603,
         102191575,
         85633793,
+        102084053,
         85929351,
-        102084053
+        85688603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12792973"
     },
     "wof:country":"US",
-    "wof:geomhash":"fc2ddca83ec5c30024a21a455b6a5600",
+    "wof:geomhash":"5d5552396b164643c9edd257b328ef5c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554748059,
-    "wof:lastmodified":1480910651,
+    "wof:lastmodified":1611183860,
     "wof:name":"80234",
     "wof:parent_id":85929351,
     "wof:placetype":"postalcode",

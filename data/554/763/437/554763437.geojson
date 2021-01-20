@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002523,
-    "geom:area_square_m":22559318.348654,
+    "geom:area_square_m":22559318.348648,
     "geom:bbox":"-114.361371,43.640401,-114.306395,43.723832",
     "geom:latitude":43.685719,
     "geom:longitude":-114.332178,
@@ -13,20 +13,27 @@
     "lbl:latitude":43.692423,
     "lbl:longitude":-114.325136,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Sun Valley",
+    "mz:postal_locality_alt":[
+        "Ketchum",
+        "Bellevue",
+        "Hailey"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688657,
         102191575,
         85633793,
+        102086031,
         85937941,
-        102086031
+        85688657
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12793799"
     },
     "wof:country":"US",
-    "wof:geomhash":"24d31baee4c35e5f21943957d03208a2",
+    "wof:geomhash":"bf35264a24f16efa9b65bc3b497d4191",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +45,7 @@
         }
     ],
     "wof:id":554763437,
-    "wof:lastmodified":1480913283,
+    "wof:lastmodified":1611182503,
     "wof:name":"83353",
     "wof:parent_id":85937941,
     "wof:placetype":"postalcode",

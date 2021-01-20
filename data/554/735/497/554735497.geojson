@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008006,
-    "geom:area_square_m":78698512.972184,
+    "geom:area_square_m":78698512.972124,
     "geom:bbox":"-89.08127,37.29098,-88.928754,37.398286",
     "geom:latitude":37.344377,
     "geom:longitude":-89.014709,
@@ -14,20 +14,22 @@
     "lbl:latitude":37.346432,
     "lbl:longitude":-89.016004,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cypress",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404498325,
         85633793,
-        102083521
+        102083521,
+        404498325,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785454"
     },
     "wof:country":"US",
-    "wof:geomhash":"8b1f1e15dedc39e2126654a406e61bec",
+    "wof:geomhash":"64022ee336f2d96b51504d60c10a420c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554735497,
-    "wof:lastmodified":1480905240,
+    "wof:lastmodified":1611184419,
     "wof:name":"62923",
     "wof:parent_id":404498325,
     "wof:placetype":"postalcode",

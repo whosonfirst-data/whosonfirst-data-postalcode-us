@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001049,
-    "geom:area_square_m":9471759.38392,
+    "geom:area_square_m":9471759.383912,
     "geom:bbox":"-89.552462,43.057094,-89.492359,43.090214",
     "geom:latitude":43.073827,
     "geom:longitude":-89.519622,
@@ -13,21 +13,26 @@
     "lbl:latitude":43.067686,
     "lbl:longitude":-89.521056,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Madison",
+    "mz:postal_locality_alt":[
+        "Middleton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404491669,
         85633793,
+        102081795,
+        404491669,
         101732721,
-        102081795
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781058"
     },
     "wof:country":"US",
-    "wof:geomhash":"1976c729ad5c5ed3b3d4956f5bcf6074",
+    "wof:geomhash":"4d3230a0b5610264a99309bdc5604124",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554727895,
-    "wof:lastmodified":1480820038,
+    "wof:lastmodified":1611185503,
     "wof:name":"53717",
     "wof:parent_id":101732721,
     "wof:placetype":"postalcode",

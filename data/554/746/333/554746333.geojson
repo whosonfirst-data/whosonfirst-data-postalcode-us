@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007756,
-    "geom:area_square_m":83430417.0536,
+    "geom:area_square_m":83430417.053533,
     "geom:bbox":"-95.444936,29.4985,-95.261697,29.588377",
     "geom:latitude":29.545982,
     "geom:longitude":-95.350798,
@@ -13,20 +13,25 @@
     "lbl:latitude":29.545041,
     "lbl:longitude":-95.350692,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pearland",
+    "mz:postal_locality_alt":[
+        "Manvel"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102080677,
         101725125,
-        102080677
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12791712"
     },
     "wof:country":"US",
-    "wof:geomhash":"be07c36296efd07ddd463aa24127cf7f",
+    "wof:geomhash":"e35d3ace5e54eb6b2348457f8bc35241",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554746333,
-    "wof:lastmodified":1480906881,
+    "wof:lastmodified":1611184016,
     "wof:name":"77584",
     "wof:parent_id":101725125,
     "wof:placetype":"postalcode",

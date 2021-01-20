@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018399,
-    "geom:area_square_m":204086907.011024,
+    "geom:area_square_m":204086907.011152,
     "geom:bbox":"-98.513885,26.10213,-98.255445,26.395163",
     "geom:latitude":26.228062,
     "geom:longitude":-98.376651,
@@ -13,20 +13,26 @@
     "lbl:latitude":26.229223,
     "lbl:longitude":-98.37545,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mission",
+    "mz:postal_locality_alt":[
+        "Palmview",
+        "Penitas"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102083831,
         101723529,
-        102083831
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12792183"
     },
     "wof:country":"US",
-    "wof:geomhash":"b3cd41af9c44dfdd303dc8b202ea1fe9",
+    "wof:geomhash":"04b498a55ede2ff821c5ba1eb0ad2631",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554746909,
-    "wof:lastmodified":1480908375,
+    "wof:lastmodified":1611183991,
     "wof:name":"78572",
     "wof:parent_id":101723529,
     "wof:placetype":"postalcode",

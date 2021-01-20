@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015359,
-    "geom:area_square_m":142572174.43754,
+    "geom:area_square_m":142572174.437465,
     "geom:bbox":"-76.120914,41.262392,-75.846479,41.42167",
     "geom:latitude":41.349395,
     "geom:longitude":-75.983351,
@@ -13,20 +13,25 @@
     "lbl:latitude":41.346088,
     "lbl:longitude":-75.98638,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Dallas",
+    "mz:postal_locality_alt":[
+        "Tunkhannock"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404486211,
         85633793,
-        102081351
+        102081351,
+        404486211,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765249"
     },
     "wof:country":"US",
-    "wof:geomhash":"13ec4dd5462f6c7fd9ddb08dcd9b2dff",
+    "wof:geomhash":"0440c8d74ada2cab6ed9870b8e73571c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554705907,
-    "wof:lastmodified":1480906201,
+    "wof:lastmodified":1611184091,
     "wof:name":"18612",
     "wof:parent_id":404486211,
     "wof:placetype":"postalcode",

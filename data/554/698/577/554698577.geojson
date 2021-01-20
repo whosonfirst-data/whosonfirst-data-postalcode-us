@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023634,
-    "geom:area_square_m":200475182.840211,
+    "geom:area_square_m":200475182.840245,
     "geom:bbox":"-68.056528,46.594379,-67.920527,46.778765",
     "geom:latitude":46.68672,
     "geom:longitude":-67.98735,
@@ -14,21 +14,28 @@
     "lbl:latitude":46.688952,
     "lbl:longitude":-67.991914,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Presque Isle",
+    "mz:postal_locality_alt":[
+        "Monticello",
+        "Mars Hill",
+        "Island Falls"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404475483,
         85633793,
+        102081161,
+        404475483,
         85948901,
-        102081161
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759749"
     },
     "wof:country":"US",
-    "wof:geomhash":"8817a1a5957d182ec6fc9fd77fb38f63",
+    "wof:geomhash":"d6d7f40757a97e1f8bf5e80203fe288e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +48,7 @@
         }
     ],
     "wof:id":554698577,
-    "wof:lastmodified":1480823529,
+    "wof:lastmodified":1611184705,
     "wof:name":"04769",
     "wof:parent_id":85948901,
     "wof:placetype":"postalcode",

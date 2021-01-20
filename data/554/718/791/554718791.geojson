@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000642,
-    "geom:area_square_m":6237783.18404,
+    "geom:area_square_m":6237783.184044,
     "geom:bbox":"-85.753545,38.203243,-85.713067,38.231185",
     "geom:latitude":38.216996,
     "geom:longitude":-85.737223,
@@ -14,20 +14,22 @@
     "lbl:latitude":38.216712,
     "lbl:longitude":-85.737515,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Louisville",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688641,
         102191575,
         85633793,
+        102084449,
         85947523,
-        102084449
+        85688641
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12775179"
     },
     "wof:country":"US",
-    "wof:geomhash":"223cca2b97fdc95a1fb246dbf3dd2bf6",
+    "wof:geomhash":"00e3e64d2651768b29019b4bd507b7ea",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554718791,
-    "wof:lastmodified":1480802912,
+    "wof:lastmodified":1611185538,
     "wof:name":"40217",
     "wof:parent_id":85947523,
     "wof:placetype":"postalcode",

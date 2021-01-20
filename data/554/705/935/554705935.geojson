@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018656,
-    "geom:area_square_m":172321745.356672,
+    "geom:area_square_m":172321745.356618,
     "geom:bbox":"-76.122157,41.571642,-75.9386,41.77254",
     "geom:latitude":41.667409,
     "geom:longitude":-76.029456,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.662143,
     "lbl:longitude":-76.023636,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Meshoppen",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404487251,
         85633793,
-        102081381
+        102081381,
+        404487251,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765265"
     },
     "wof:country":"US",
-    "wof:geomhash":"d5378bcfed7aa129e540e60e8b26b396",
+    "wof:geomhash":"805be3bdb6f9455637fadb738889e8b8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554705935,
-    "wof:lastmodified":1480906200,
+    "wof:lastmodified":1611184112,
     "wof:name":"18630",
     "wof:parent_id":404487251,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008835,
-    "geom:area_square_m":84064160.370436,
+    "geom:area_square_m":84064160.370339,
     "geom:bbox":"-86.473086,39.630677,-86.328905,39.734259",
     "geom:latitude":39.689283,
     "geom:longitude":-86.391868,
@@ -14,21 +14,26 @@
     "lbl:latitude":39.685167,
     "lbl:longitude":-86.392926,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Plainfield",
+    "mz:postal_locality_alt":[
+        "Waldron"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404500783,
         85633793,
+        102086423,
+        404500783,
         85941489,
-        102086423
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777633"
     },
     "wof:country":"US",
-    "wof:geomhash":"4a382dc8c3d7b8b585f2f48889550ff4",
+    "wof:geomhash":"24a37937d51aeb86e83bf7a2bc087051",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554722541,
-    "wof:lastmodified":1480911099,
+    "wof:lastmodified":1611183248,
     "wof:name":"46168",
     "wof:parent_id":85941489,
     "wof:placetype":"postalcode",

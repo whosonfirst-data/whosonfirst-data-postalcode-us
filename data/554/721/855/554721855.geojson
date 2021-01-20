@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008791,
-    "geom:area_square_m":83482618.316074,
+    "geom:area_square_m":83482618.316106,
     "geom:bbox":"-84.079732,39.767235,-83.936429,39.892324",
     "geom:latitude":39.822787,
     "geom:longitude":-83.994043,
@@ -14,21 +14,26 @@
     "lbl:latitude":39.818854,
     "lbl:longitude":-83.990896,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fairborn",
+    "mz:postal_locality_alt":[
+        "Enon"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404525273,
         85633793,
+        102084765,
+        404525273,
         101712677,
-        102084765
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777215"
     },
     "wof:country":"US",
-    "wof:geomhash":"2c64e38c4a603ee04614139f9734027d",
+    "wof:geomhash":"fc18a432abd5dfa9772cdfbb0b3304ce",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554721855,
-    "wof:lastmodified":1480835537,
+    "wof:lastmodified":1611184976,
     "wof:name":"45324",
     "wof:parent_id":101712677,
     "wof:placetype":"postalcode",

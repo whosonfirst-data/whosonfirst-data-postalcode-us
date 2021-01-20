@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01838,
-    "geom:area_square_m":157080987.903327,
+    "geom:area_square_m":157080987.903368,
     "geom:bbox":"-96.987753,46.196378,-96.799174,46.354814",
     "geom:latitude":46.279067,
     "geom:longitude":-96.897567,
@@ -14,20 +14,25 @@
     "lbl:latitude":46.278946,
     "lbl:longitude":-96.902058,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mooreton",
+    "mz:postal_locality_alt":[
+        "Grandin"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688525,
         102191575,
-        404481635,
         85633793,
-        102082103
+        102082103,
+        404481635,
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12783152"
     },
     "wof:country":"US",
-    "wof:geomhash":"45c5de3749aeb6bfe74b2204e08e8b84",
+    "wof:geomhash":"965e16a671b46eb69527081d829baf10",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554731669,
-    "wof:lastmodified":1480792935,
+    "wof:lastmodified":1611183066,
     "wof:name":"58061",
     "wof:parent_id":404481635,
     "wof:placetype":"postalcode",

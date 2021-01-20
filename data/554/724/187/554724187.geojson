@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003994,
-    "geom:area_square_m":36325443.367292,
+    "geom:area_square_m":36325443.367277,
     "geom:bbox":"-83.760073,42.609799,-83.678018,42.679158",
     "geom:latitude":42.647635,
     "geom:longitude":-83.716778,
@@ -14,20 +14,25 @@
     "lbl:latitude":42.64687,
     "lbl:longitude":-83.715943,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hartland",
+    "mz:postal_locality_alt":[
+        "Holly"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404507297,
         85633793,
-        102083145
+        102083145,
+        404507297,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778778"
     },
     "wof:country":"US",
-    "wof:geomhash":"d05924c389c7eef15a41378026b71d14",
+    "wof:geomhash":"82acd078af1cca25025de362a8f93f25",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554724187,
-    "wof:lastmodified":1480843133,
+    "wof:lastmodified":1611183753,
     "wof:name":"48353",
     "wof:parent_id":404507297,
     "wof:placetype":"postalcode",

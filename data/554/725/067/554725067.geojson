@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036059,
-    "geom:area_square_m":321096110.697758,
+    "geom:area_square_m":321096110.697828,
     "geom:bbox":"-86.15886,43.794162,-85.919617,44.076274",
     "geom:latitude":43.933256,
     "geom:longitude":-86.034473,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.933192,
     "lbl:longitude":-86.02927,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Branch",
+    "mz:postal_locality_alt":[
+        "Walhalla"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404507973,
         85633793,
-        102083055
+        102083055,
+        404507973,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779338"
     },
     "wof:country":"US",
-    "wof:geomhash":"8bce414841141f793023e92b600db562",
+    "wof:geomhash":"65e042967aa7353a8db53ca2cc542500",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554725067,
-    "wof:lastmodified":1480841094,
+    "wof:lastmodified":1611183285,
     "wof:name":"49402",
     "wof:parent_id":404507973,
     "wof:placetype":"postalcode",

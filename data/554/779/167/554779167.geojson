@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005196,
-    "geom:area_square_m":49061892.65208,
+    "geom:area_square_m":49061892.652159,
     "geom:bbox":"-74.126088,40.178166,-74.013947,40.259189",
     "geom:latitude":40.214937,
     "geom:longitude":-74.078546,
@@ -14,20 +14,32 @@
     "lbl:latitude":40.214893,
     "lbl:longitude":-74.078907,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Neptune",
+    "mz:postal_locality_alt":[
+        "Neptune City",
+        "Tinton Falls",
+        "Wall Township",
+        "Eatontown",
+        "Freehold",
+        "Wall",
+        "Colts Neck",
+        "Farmingdale"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478375,
         85633793,
-        102085049
+        102085049,
+        404478375,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760872"
     },
     "wof:country":"US",
-    "wof:geomhash":"99ea59aa24a9664259268d2d4d910b79",
+    "wof:geomhash":"e4933ed54be7f17e3a3172015765a3be",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +51,7 @@
         }
     ],
     "wof:id":554779167,
-    "wof:lastmodified":1480809855,
+    "wof:lastmodified":1611183964,
     "wof:name":"07753",
     "wof:parent_id":404478375,
     "wof:placetype":"postalcode",

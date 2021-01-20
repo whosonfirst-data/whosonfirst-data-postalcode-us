@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004783,
-    "geom:area_square_m":44742544.604348,
+    "geom:area_square_m":44742544.604283,
     "geom:bbox":"-77.517715,40.793856,-77.405375,40.893487",
     "geom:latitude":40.841612,
     "geom:longitude":-77.469154,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.843945,
     "lbl:longitude":-77.48159,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Coburn",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485765,
         85633793,
-        102081369
+        102081369,
+        404485765,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764468"
     },
     "wof:country":"US",
-    "wof:geomhash":"628f9e845759839479e1f1835419e805",
+    "wof:geomhash":"7088ad859c4ae9e41c973b4c5d9192fb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554704727,
-    "wof:lastmodified":1480833142,
+    "wof:lastmodified":1611184525,
     "wof:name":"16832",
     "wof:parent_id":404485765,
     "wof:placetype":"postalcode",

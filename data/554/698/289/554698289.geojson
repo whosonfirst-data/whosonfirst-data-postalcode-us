@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013885,
-    "geom:area_square_m":123577658.816332,
+    "geom:area_square_m":123577658.816326,
     "geom:bbox":"-70.405125,43.893392,-70.200284,44.037807",
     "geom:latitude":43.964067,
     "geom:longitude":-70.29587,
@@ -14,20 +14,22 @@
     "lbl:latitude":43.957508,
     "lbl:longitude":-70.296011,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"New Gloucester",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404474911,
         85633793,
-        102087463
+        102087463,
+        404474911,
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759493"
     },
     "wof:country":"US",
-    "wof:geomhash":"30552c7a12e8144562b3f6ccde7166ed",
+    "wof:geomhash":"ceb4bd14a19b4166896fe19a15e070cd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554698289,
-    "wof:lastmodified":1480785908,
+    "wof:lastmodified":1611184680,
     "wof:name":"04260",
     "wof:parent_id":404474911,
     "wof:placetype":"postalcode",

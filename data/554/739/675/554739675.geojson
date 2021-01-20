@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025459,
-    "geom:area_square_m":238818437.127385,
+    "geom:area_square_m":238818437.127267,
     "geom:bbox":"-97.52135,40.538962,-97.368311,40.771172",
     "geom:latitude":40.657089,
     "geom:longitude":-97.428625,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.661354,
     "lbl:longitude":-97.434625,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Exeter",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688563,
         102191575,
-        404519889,
         85633793,
-        102084289
+        102084289,
+        404519889,
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787621"
     },
     "wof:country":"US",
-    "wof:geomhash":"778602c3154e6b8c11cee911e005db36",
+    "wof:geomhash":"fe1d569b8f4abbf5a4ae4d71277c13e0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554739675,
-    "wof:lastmodified":1480834635,
+    "wof:lastmodified":1611182653,
     "wof:name":"68351",
     "wof:parent_id":404519889,
     "wof:placetype":"postalcode",
