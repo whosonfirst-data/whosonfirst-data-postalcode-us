@@ -15,6 +15,11 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:postal_locality":"Portland",
+    "mz:postal_locality_funky":[
+        "Maywood Park",
+        "Maywood Pk",
+        "Parkrose"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554754715,
-    "wof:lastmodified":1611182894,
+    "wof:lastmodified":1611187393,
     "wof:name":"97220",
     "wof:parent_id":101716275,
     "wof:placetype":"postalcode",
