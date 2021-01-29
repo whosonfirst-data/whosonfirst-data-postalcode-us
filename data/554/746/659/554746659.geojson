@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007981,
-    "geom:area_square_m":85857963.706772,
+    "geom:area_square_m":85857963.706688,
     "geom:bbox":"-98.344726,29.465832,-98.186312,29.632849",
     "geom:latitude":29.546237,
     "geom:longitude":-98.266305,
@@ -14,20 +14,27 @@
     "lbl:latitude":29.547159,
     "lbl:longitude":-98.262598,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Schertz",
+    "mz:postal_locality_alt":[
+        "Selma",
+        "Universal City",
+        "Randolph Afb"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102086771,
         101724655,
-        102086771
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12791957"
     },
     "wof:country":"US",
-    "wof:geomhash":"bcdfeb8c23782af3bc17d0723514abc8",
+    "wof:geomhash":"dd835e03778467c547150bc6d2ddb31d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554746659,
-    "wof:lastmodified":1480911559,
+    "wof:lastmodified":1611184005,
     "wof:name":"78154",
     "wof:parent_id":101724655,
     "wof:placetype":"postalcode",

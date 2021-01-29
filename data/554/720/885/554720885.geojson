@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013325,
-    "geom:area_square_m":125312810.807777,
+    "geom:area_square_m":125312810.80779,
     "geom:bbox":"-80.747788,40.412157,-80.594664,40.582496",
     "geom:latitude":40.486146,
     "geom:longitude":-80.670615,
@@ -14,20 +14,26 @@
     "lbl:latitude":40.480902,
     "lbl:longitude":-80.662475,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Toronto",
+    "mz:postal_locality_alt":[
+        "Wintersville",
+        "Steubenville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404526759,
         85633793,
-        102084713
+        102084713,
+        404526759,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776544"
     },
     "wof:country":"US",
-    "wof:geomhash":"7bd33bcaf833aa1af405a0d24d320228",
+    "wof:geomhash":"e01cf877fa5b87edd12caf9d3e132a76",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554720885,
-    "wof:lastmodified":1480841634,
+    "wof:lastmodified":1611185477,
     "wof:name":"43964",
     "wof:parent_id":404526759,
     "wof:placetype":"postalcode",

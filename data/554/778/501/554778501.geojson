@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002308,
-    "geom:area_square_m":21303366.180386,
+    "geom:area_square_m":21303366.18037,
     "geom:bbox":"-70.184773,41.666755,-70.128703,41.754555",
     "geom:latitude":41.705437,
     "geom:longitude":-70.154351,
@@ -14,21 +14,28 @@
     "lbl:latitude":41.707699,
     "lbl:longitude":-70.15856,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"South Dennis",
+    "mz:postal_locality_alt":[
+        "Dennis",
+        "East Dennis",
+        "Mashpee"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404475899,
         85633793,
+        102084379,
+        404475899,
         85950509,
-        102084379
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758927"
     },
     "wof:country":"US",
-    "wof:geomhash":"6743e4e768db3e7cf4d9a9e89ca11ccb",
+    "wof:geomhash":"1cc1b6e6a372f025145f95be0326f2bd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +48,7 @@
         }
     ],
     "wof:id":554778501,
-    "wof:lastmodified":1480802730,
+    "wof:lastmodified":1611183436,
     "wof:name":"02660",
     "wof:parent_id":85950509,
     "wof:placetype":"postalcode",

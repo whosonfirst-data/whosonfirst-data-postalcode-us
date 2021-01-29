@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053902,
-    "geom:area_square_m":572932727.122552,
+    "geom:area_square_m":572932727.122037,
     "geom:bbox":"-96.03778,30.583581,-95.74772,30.868291",
     "geom:latitude":30.728462,
     "geom:longitude":-95.904783,
@@ -14,19 +14,24 @@
     "lbl:latitude":30.726709,
     "lbl:longitude":-95.90388,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bedias",
+    "mz:postal_locality_alt":[
+        "Anderson"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688753,
-        102081945
+        102081945,
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12791780"
     },
     "wof:country":"US",
-    "wof:geomhash":"c7ad648d65da78028a3c5810373634b0",
+    "wof:geomhash":"fe2ae262b45f6444f824fe71bd0a6f2d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554746417,
-    "wof:lastmodified":1480832854,
+    "wof:lastmodified":1611184019,
     "wof:name":"77831",
     "wof:parent_id":102081945,
     "wof:placetype":"postalcode",

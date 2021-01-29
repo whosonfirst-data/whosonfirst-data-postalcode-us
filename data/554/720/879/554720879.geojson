@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007186,
-    "geom:area_square_m":67671997.783792,
+    "geom:area_square_m":67671997.783796,
     "geom:bbox":"-80.741356,40.338919,-80.607587,40.445076",
     "geom:latitude":40.398026,
     "geom:longitude":-80.661596,
@@ -13,20 +13,25 @@
     "lbl:latitude":40.409046,
     "lbl:longitude":-80.665259,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Steubenville",
+    "mz:postal_locality_alt":[
+        "Wintersville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404526757,
         85633793,
-        102084713
+        102084713,
+        404526757,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776539"
     },
     "wof:country":"US",
-    "wof:geomhash":"89d94ab22bae66d1fdf9f5ccb13de7e5",
+    "wof:geomhash":"703bf00d132687353d3fdc20a2d191ec",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554720879,
-    "wof:lastmodified":1480796737,
+    "wof:lastmodified":1611185474,
     "wof:name":"43952",
     "wof:parent_id":404526757,
     "wof:placetype":"postalcode",

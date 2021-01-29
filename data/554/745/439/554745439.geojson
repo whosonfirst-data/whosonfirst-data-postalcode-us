@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006658,
-    "geom:area_square_m":70461392.916208,
+    "geom:area_square_m":70461392.916108,
     "geom:bbox":"-97.428088,31.055179,-97.326425,31.212881",
     "geom:latitude":31.138069,
     "geom:longitude":-97.372574,
@@ -13,20 +13,22 @@
     "lbl:latitude":31.137886,
     "lbl:longitude":-97.373653,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Temple",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102087307,
         101725429,
-        102087307
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12791108"
     },
     "wof:country":"US",
-    "wof:geomhash":"aef00965215a88d9e7335cf54e9d145e",
+    "wof:geomhash":"0a7a876dfd6000010361396336dd5a12",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +40,7 @@
         }
     ],
     "wof:id":554745439,
-    "wof:lastmodified":1480782197,
+    "wof:lastmodified":1611185263,
     "wof:name":"76504",
     "wof:parent_id":101725429,
     "wof:placetype":"postalcode",

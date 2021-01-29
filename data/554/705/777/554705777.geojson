@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006649,
-    "geom:area_square_m":61572129.491097,
+    "geom:area_square_m":61572129.491099,
     "geom:bbox":"-75.613305,41.449115,-75.467679,41.544599",
     "geom:latitude":41.500392,
     "geom:longitude":-75.529671,
@@ -14,21 +14,27 @@
     "lbl:latitude":41.509701,
     "lbl:longitude":-75.535045,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Archbald",
+    "mz:postal_locality_alt":[
+        "Eynon",
+        "Jermyn"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404486861,
         85633793,
+        102081345,
+        404486861,
         101718209,
-        102081345
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765169"
     },
     "wof:country":"US",
-    "wof:geomhash":"e002d0600642f7c6c42f1281f537267b",
+    "wof:geomhash":"09fbbef555452112fec85227c639b06f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554705777,
-    "wof:lastmodified":1480832112,
+    "wof:lastmodified":1611184109,
     "wof:name":"18403",
     "wof:parent_id":101718209,
     "wof:placetype":"postalcode",

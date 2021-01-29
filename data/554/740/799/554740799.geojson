@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026525,
-    "geom:area_square_m":282862350.111335,
+    "geom:area_square_m":282862350.11135,
     "geom:bbox":"-92.347194,30.287733,-92.105422,30.538786",
     "geom:latitude":30.412279,
     "geom:longitude":-92.221199,
@@ -14,20 +14,27 @@
     "lbl:latitude":30.411533,
     "lbl:longitude":-92.218808,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Church Point",
+    "mz:postal_locality_alt":[
+        "Lafayette",
+        "Ocean",
+        "Carencro"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688735,
         102191575,
         85633793,
+        102081037,
         85948127,
-        102081037
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12788332"
     },
     "wof:country":"US",
-    "wof:geomhash":"4f510e8232f601978830cd83270895d8",
+    "wof:geomhash":"0959ebed9781db43aec0b5d3e128e728",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554740799,
-    "wof:lastmodified":1480911058,
+    "wof:lastmodified":1611183386,
     "wof:name":"70525",
     "wof:parent_id":85948127,
     "wof:placetype":"postalcode",

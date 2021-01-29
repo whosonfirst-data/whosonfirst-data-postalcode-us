@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002913,
-    "geom:area_square_m":27557563.524977,
+    "geom:area_square_m":27557563.524989,
     "geom:bbox":"-77.865672,40.059548,-77.736215,40.127857",
     "geom:latitude":40.097752,
     "geom:longitude":-77.803086,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.097754,
     "lbl:longitude":-77.803092,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Willow Hill",
+    "mz:postal_locality_alt":[
+        "Spring Run"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485411,
         85633793,
-        102081365
+        102081365,
+        404485411,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764714"
     },
     "wof:country":"US",
-    "wof:geomhash":"6e46e5c93afce13aa5ded08123cfba0d",
+    "wof:geomhash":"889383b9a13c209b3a496d1cb68a63bb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554705123,
-    "wof:lastmodified":1480904866,
+    "wof:lastmodified":1611184126,
     "wof:name":"17271",
     "wof:parent_id":404485411,
     "wof:placetype":"postalcode",

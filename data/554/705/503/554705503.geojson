@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007138,
-    "geom:area_square_m":66770844.372866,
+    "geom:area_square_m":66770844.372836,
     "geom:bbox":"-76.202404,40.78068,-76.017924,40.901762",
     "geom:latitude":40.840742,
     "geom:longitude":-76.113873,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.845385,
     "lbl:longitude":-76.117468,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mahanoy City",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404487227,
         85633793,
-        102081271
+        102081271,
+        404487227,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764984"
     },
     "wof:country":"US",
-    "wof:geomhash":"5ec9f5286be42a711167e08b3344bcf3",
+    "wof:geomhash":"dba5716f792e793f19d02de47695eed7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554705503,
-    "wof:lastmodified":1480823247,
+    "wof:lastmodified":1611184094,
     "wof:name":"17948",
     "wof:parent_id":404487227,
     "wof:placetype":"postalcode",

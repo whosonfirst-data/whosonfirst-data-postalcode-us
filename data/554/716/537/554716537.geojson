@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005692,
-    "geom:area_square_m":56755647.76117,
+    "geom:area_square_m":56755647.761115,
     "geom:bbox":"-86.757934,36.192761,-86.63892,36.3182",
     "geom:latitude":36.254477,
     "geom:longitude":-86.696057,
@@ -13,20 +13,25 @@
     "lbl:latitude":36.253847,
     "lbl:longitude":-86.69553,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Madison",
+    "mz:postal_locality_alt":[
+        "White Bluff"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688701,
         102191575,
         85633793,
+        102087061,
         101723183,
-        102087061
+        85688701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12773821"
     },
     "wof:country":"US",
-    "wof:geomhash":"e5ae4799c2c1181ba4a6af48688acfd6",
+    "wof:geomhash":"80e93d40314d44cf803cd49f4817b42f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554716537,
-    "wof:lastmodified":1480917084,
+    "wof:lastmodified":1611185376,
     "wof:name":"37115",
     "wof:parent_id":101723183,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038199,
-    "geom:area_square_m":382251579.263497,
+    "geom:area_square_m":382251579.263338,
     "geom:bbox":"-95.283146,35.861379,-95.011124,36.104209",
     "geom:latitude":35.975576,
     "geom:longitude":-95.150733,
@@ -14,20 +14,22 @@
     "lbl:latitude":35.976851,
     "lbl:longitude":-95.145009,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hulbert",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688585,
         102191575,
         85633793,
+        102083953,
         101715673,
-        102083953
+        85688585
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12790088"
     },
     "wof:country":"US",
-    "wof:geomhash":"a1c551699adf323fd080db7480f099a3",
+    "wof:geomhash":"1a8a3a044bc65c345a00807543edc8bd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554743783,
-    "wof:lastmodified":1480837938,
+    "wof:lastmodified":1611184782,
     "wof:name":"74441",
     "wof:parent_id":101715673,
     "wof:placetype":"postalcode",

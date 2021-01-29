@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023313,
-    "geom:area_square_m":207246294.193182,
+    "geom:area_square_m":207246294.193194,
     "geom:bbox":"-92.96529,43.935698,-92.758874,44.138896",
     "geom:latitude":44.034297,
     "geom:longitude":-92.871038,
@@ -14,21 +14,29 @@
     "lbl:latitude":44.036469,
     "lbl:longitude":-92.870923,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Dodge Center",
+    "mz:postal_locality_alt":[
+        "Altura",
+        "Plainview",
+        "Utica",
+        "Saint Charles"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404513731,
         85633793,
+        102087097,
+        404513731,
         85952839,
-        102087097
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782120"
     },
     "wof:country":"US",
-    "wof:geomhash":"498f33d8b06f0cb832f30963ca032077",
+    "wof:geomhash":"b12155a6b247c6b70f5e2d3f0c5906d2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +49,7 @@
         }
     ],
     "wof:id":554729609,
-    "wof:lastmodified":1480788374,
+    "wof:lastmodified":1611185440,
     "wof:name":"55927",
     "wof:parent_id":85952839,
     "wof:placetype":"postalcode",

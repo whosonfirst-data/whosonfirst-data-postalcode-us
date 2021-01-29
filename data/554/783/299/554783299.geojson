@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000134,
-    "geom:area_square_m":1238612.047673,
+    "geom:area_square_m":1238612.047675,
     "geom:bbox":"-87.741208,41.727419,-87.721435,41.734862",
     "geom:latitude":41.731248,
     "geom:longitude":-87.731134,
@@ -14,21 +14,26 @@
     "lbl:latitude":41.731248,
     "lbl:longitude":-87.731134,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hometown",
+    "mz:postal_locality_alt":[
+        "Oak Lawn"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404497667,
         85633793,
+        102084317,
+        404497667,
         85940819,
-        102084317
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784164"
     },
     "wof:country":"US",
-    "wof:geomhash":"6060591e940b76ef9e83ab8b0d33103f",
+    "wof:geomhash":"2aeb819b15f6537da24eea1773526027",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554783299,
-    "wof:lastmodified":1480802052,
+    "wof:lastmodified":1611183903,
     "wof:name":"60456",
     "wof:parent_id":85940819,
     "wof:placetype":"postalcode",

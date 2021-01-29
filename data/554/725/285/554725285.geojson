@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.051955,
-    "geom:area_square_m":454115812.742399,
+    "geom:area_square_m":454115812.742524,
     "geom:bbox":"-83.889406,44.856319,-83.633553,45.203515",
     "geom:latitude":45.018877,
     "geom:longitude":-83.77217,
@@ -14,20 +14,22 @@
     "lbl:latitude":45.017318,
     "lbl:longitude":-83.777038,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lachine",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404506821,
         85633793,
-        102083109
+        102083109,
+        404506821,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779532"
     },
     "wof:country":"US",
-    "wof:geomhash":"589652c5fd9bf51e8fa4363223161721",
+    "wof:geomhash":"d0f6d173623f030ea9a7ebe19840ae0c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554725285,
-    "wof:lastmodified":1480842661,
+    "wof:lastmodified":1611183279,
     "wof:name":"49753",
     "wof:parent_id":404506821,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002782,
-    "geom:area_square_m":25316010.428801,
+    "geom:area_square_m":25316010.428811,
     "geom:bbox":"-72.13912,42.580922,-72.036873,42.626607",
     "geom:latitude":42.605479,
     "geom:longitude":-72.088551,
@@ -14,21 +14,27 @@
     "lbl:latitude":42.602059,
     "lbl:longitude":-72.087015,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Baldwinville",
+    "mz:postal_locality_alt":[
+        "Westminster",
+        "Templeton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476625,
         85633793,
+        102084655,
+        404476625,
         85950713,
-        102084655
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758449"
     },
     "wof:country":"US",
-    "wof:geomhash":"9109c515fc6d62b8da3417c3faeff956",
+    "wof:geomhash":"81aec4da14ed351d08878e0a5e1b0baa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554697031,
-    "wof:lastmodified":1480803785,
+    "wof:lastmodified":1611184644,
     "wof:name":"01436",
     "wof:parent_id":85950713,
     "wof:placetype":"postalcode",

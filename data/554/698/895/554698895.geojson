@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01973,
-    "geom:area_square_m":178349880.604965,
+    "geom:area_square_m":178349880.604841,
     "geom:bbox":"-72.608453,42.91235,-72.443281,43.128216",
     "geom:latitude":43.025052,
     "geom:longitude":-72.531701,
@@ -14,20 +14,26 @@
     "lbl:latitude":43.037689,
     "lbl:longitude":-72.536522,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Putney",
+    "mz:postal_locality_alt":[
+        "East Dummerston",
+        "Brattleboro"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688763,
         102191575,
-        404527345,
         85633793,
-        102080773
+        102080773,
+        404527345,
+        85688763
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759951"
     },
     "wof:country":"US",
-    "wof:geomhash":"381ecf4a4409ee6724920beefadaec1a",
+    "wof:geomhash":"6f67f48cfdaffeff3f5e4c7eb6a17dbc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554698895,
-    "wof:lastmodified":1480903159,
+    "wof:lastmodified":1611184682,
     "wof:name":"05346",
     "wof:parent_id":404527345,
     "wof:placetype":"postalcode",

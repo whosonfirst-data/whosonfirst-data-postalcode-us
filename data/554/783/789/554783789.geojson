@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002817,
-    "geom:area_square_m":31282596.952537,
+    "geom:area_square_m":31282596.952454,
     "geom:bbox":"-98.288535,26.066418,-98.204959,26.144226",
     "geom:latitude":26.106901,
     "geom:longitude":-98.243398,
@@ -14,20 +14,25 @@
     "lbl:latitude":26.113415,
     "lbl:longitude":-98.241154,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hidalgo",
+    "mz:postal_locality_alt":[
+        "Pharr"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102083831,
         101723559,
-        102083831
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12792169"
     },
     "wof:country":"US",
-    "wof:geomhash":"ed922fc2e2cea2ba37b6ccc7e73902ae",
+    "wof:geomhash":"abd47bb728eefe506b90b0446afceee5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554783789,
-    "wof:lastmodified":1480908375,
+    "wof:lastmodified":1611183907,
     "wof:name":"78557",
     "wof:parent_id":101723559,
     "wof:placetype":"postalcode",

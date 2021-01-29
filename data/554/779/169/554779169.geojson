@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000782,
-    "geom:area_square_m":7376632.608533,
+    "geom:area_square_m":7376632.608535,
     "geom:bbox":"-74.043385,40.25183,-73.999711,40.275389",
     "geom:latitude":40.263681,
     "geom:longitude":-74.022837,
@@ -14,21 +14,26 @@
     "lbl:latitude":40.263635,
     "lbl:longitude":-74.022877,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Oakhurst",
+    "mz:postal_locality_alt":[
+        "Spring Lake"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478379,
         85633793,
+        102085049,
+        404478379,
         85976047,
-        102085049
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760874"
     },
     "wof:country":"US",
-    "wof:geomhash":"f7bd5082785794f8dbfe4f79faf4ce9e",
+    "wof:geomhash":"e8107605a9ef672c83fe30178536b215",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554779169,
-    "wof:lastmodified":1480809854,
+    "wof:lastmodified":1611183965,
     "wof:name":"07755",
     "wof:parent_id":85976047,
     "wof:placetype":"postalcode",

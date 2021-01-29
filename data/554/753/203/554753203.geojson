@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00158,
-    "geom:area_square_m":15422895.701829,
+    "geom:area_square_m":15422895.70181,
     "geom:bbox":"-122.070896,37.865707,-122.005636,37.917261",
     "geom:latitude":37.889098,
     "geom:longitude":-122.037555,
@@ -13,20 +13,25 @@
     "lbl:latitude":37.889098,
     "lbl:longitude":-122.037553,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Walnut Creek",
+    "mz:postal_locality_alt":[
+        "Pleasant Hill"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086225,
         85922117,
-        102086225
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12797384"
     },
     "wof:country":"US",
-    "wof:geomhash":"57a3ee29afef933d50f769cff2a671fc",
+    "wof:geomhash":"947be0e19c635440d6b5e6c22ccfef70",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554753203,
-    "wof:lastmodified":1480908618,
+    "wof:lastmodified":1611182939,
     "wof:name":"94596",
     "wof:parent_id":85922117,
     "wof:placetype":"postalcode",

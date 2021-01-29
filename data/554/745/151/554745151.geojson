@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001931,
-    "geom:area_square_m":20066211.576696,
+    "geom:area_square_m":20066211.576743,
     "geom:bbox":"-97.248953,32.777368,-97.140166,32.823822",
     "geom:latitude":32.799621,
     "geom:longitude":-97.207812,
@@ -13,20 +13,26 @@
     "lbl:latitude":32.800434,
     "lbl:longitude":-97.192762,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fort Worth",
+    "mz:postal_locality_alt":[
+        "Richland Hills",
+        "N Richland Hills"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102083201,
         101724443,
-        102083201
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12790934"
     },
     "wof:country":"US",
-    "wof:geomhash":"be4506e27ed85ff51039f6abf0cee25e",
+    "wof:geomhash":"027d69093a31c2826bb7a3af2e1dd657",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554745151,
-    "wof:lastmodified":1480840099,
+    "wof:lastmodified":1611185256,
     "wof:name":"76118",
     "wof:parent_id":101724443,
     "wof:placetype":"postalcode",

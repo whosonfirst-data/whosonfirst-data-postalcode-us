@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00018,
-    "geom:area_square_m":1706259.12163,
+    "geom:area_square_m":1706259.121627,
     "geom:bbox":"-75.249181,40.012997,-75.206973,40.043666",
     "geom:latitude":40.028143,
     "geom:longitude":-75.227011,
@@ -13,21 +13,26 @@
     "lbl:latitude":40.028146,
     "lbl:longitude":-75.227549,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Philadelphia",
+    "mz:postal_locality_alt":[
+        "Manayunk"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404483701,
         85633793,
+        102081353,
+        404483701,
         101718083,
-        102081353
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765513"
     },
     "wof:country":"US",
-    "wof:geomhash":"f214f4292971af792796edda0c4a7c52",
+    "wof:geomhash":"ed3d1ebe7dd40a2c091d8c801b64429f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554706313,
-    "wof:lastmodified":1480818594,
+    "wof:lastmodified":1611182699,
     "wof:name":"19127",
     "wof:parent_id":101718083,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013663,
-    "geom:area_square_m":127139900.497701,
+    "geom:area_square_m":127139900.497685,
     "geom:bbox":"-87.991248,41.147731,-87.720449,41.239526",
     "geom:latitude":41.186721,
     "geom:longitude":-87.861965,
@@ -14,20 +14,26 @@
     "lbl:latitude":41.187368,
     "lbl:longitude":-87.861802,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bourbonnais",
+    "mz:postal_locality_alt":[
+        "Bradley",
+        "Kankakee"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404498243,
         85633793,
-        102081259
+        102081259,
+        404498243,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784352"
     },
     "wof:country":"US",
-    "wof:geomhash":"a9ec6add7f8dc48d309290f513960971",
+    "wof:geomhash":"d6a45b56890d111c3549a7ed8606e7fd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554733527,
-    "wof:lastmodified":1480818869,
+    "wof:lastmodified":1611184227,
     "wof:name":"60914",
     "wof:parent_id":404498243,
     "wof:placetype":"postalcode",

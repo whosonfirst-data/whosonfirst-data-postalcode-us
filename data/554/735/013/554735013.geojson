@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012505,
-    "geom:area_square_m":120834358.715221,
+    "geom:area_square_m":120834358.715256,
     "geom:bbox":"-87.815218,38.561519,-87.610877,38.687809",
     "geom:latitude":38.608402,
     "geom:longitude":-87.698354,
@@ -14,20 +14,22 @@
     "lbl:latitude":38.601727,
     "lbl:longitude":-87.717505,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"St Francisville",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404497787,
         85633793,
-        102087563
+        102087563,
+        404497787,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785163"
     },
     "wof:country":"US",
-    "wof:geomhash":"da0f68504f43773f241c6e6a0ac9624d",
+    "wof:geomhash":"26b77fbe757ab0818c8b15cd27b2144b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554735013,
-    "wof:lastmodified":1480911782,
+    "wof:lastmodified":1611184416,
     "wof:name":"62460",
     "wof:parent_id":404497787,
     "wof:placetype":"postalcode",

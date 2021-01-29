@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01294,
-    "geom:area_square_m":121864701.528921,
+    "geom:area_square_m":121864701.52888,
     "geom:bbox":"-75.312667,40.318949,-75.151568,40.475253",
     "geom:latitude":40.39136,
     "geom:longitude":-75.234647,
@@ -14,20 +14,31 @@
     "lbl:latitude":40.389293,
     "lbl:longitude":-75.234442,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Perkasie",
+    "mz:postal_locality_alt":[
+        "Hilltown",
+        "Silverdale",
+        "Montgomeryville",
+        "Dublin",
+        "Blooming Glen",
+        "Doylestown",
+        "Ottsville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404484731,
         85633793,
-        102080987
+        102080987,
+        404484731,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765376"
     },
     "wof:country":"US",
-    "wof:geomhash":"9beaf7cef92a9cd9ff5b50c42f19e3cd",
+    "wof:geomhash":"7f9dd9a95cd1d6964fbad03609a53360",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +50,7 @@
         }
     ],
     "wof:id":554706101,
-    "wof:lastmodified":1480906420,
+    "wof:lastmodified":1611182704,
     "wof:name":"18944",
     "wof:parent_id":404484731,
     "wof:placetype":"postalcode",

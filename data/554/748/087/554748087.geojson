@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006266,
-    "geom:area_square_m":59373891.116741,
+    "geom:area_square_m":59373891.116618,
     "geom:bbox":"-105.280093,39.913986,-105.13107,40.018526",
     "geom:latitude":39.974107,
     "geom:longitude":-105.212751,
@@ -13,19 +13,24 @@
     "lbl:latitude":39.973222,
     "lbl:longitude":-105.209276,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Boulder",
+    "mz:postal_locality_alt":[
+        "Idaho Springs"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688603,
-        102085251
+        102085251,
+        85688603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12793016"
     },
     "wof:country":"US",
-    "wof:geomhash":"ae82b6a6115d881862b70a30060e2477",
+    "wof:geomhash":"1cc3ce206627129fa4594190c52ff674",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +41,7 @@
         }
     ],
     "wof:id":554748087,
-    "wof:lastmodified":1480804302,
+    "wof:lastmodified":1611183852,
     "wof:name":"80303",
     "wof:parent_id":102085251,
     "wof:placetype":"postalcode",

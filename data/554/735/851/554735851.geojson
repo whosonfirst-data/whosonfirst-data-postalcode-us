@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012051,
-    "geom:area_square_m":116286734.867876,
+    "geom:area_square_m":116286734.867942,
     "geom:bbox":"-90.77768,38.634563,-90.567835,38.763188",
     "geom:latitude":38.706179,
     "geom:longitude":-90.6651,
@@ -13,21 +13,29 @@
     "lbl:latitude":38.703508,
     "lbl:longitude":-90.667522,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Saint Charles",
+    "mz:postal_locality_alt":[
+        "St Charles",
+        "St Peters",
+        "O Fallon",
+        "Saint Peters"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404518125,
         85633793,
+        102086159,
+        404518125,
         85972047,
-        102086159
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785660"
     },
     "wof:country":"US",
-    "wof:geomhash":"2009d779a48ad1c40b8388848c289c36",
+    "wof:geomhash":"947cef09f88d0d25a886312bf806ac1f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +48,7 @@
         }
     ],
     "wof:id":554735851,
-    "wof:lastmodified":1480914491,
+    "wof:lastmodified":1611184420,
     "wof:name":"63304",
     "wof:parent_id":85972047,
     "wof:placetype":"postalcode",

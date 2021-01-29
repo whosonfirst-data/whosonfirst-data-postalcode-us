@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000219,
-    "geom:area_square_m":1961882.498325,
+    "geom:area_square_m":1961882.498324,
     "geom:bbox":"-89.146786,43.683042,-89.116566,43.70169",
     "geom:latitude":43.691403,
     "geom:longitude":-89.130766,
@@ -14,21 +14,26 @@
     "lbl:latitude":43.690429,
     "lbl:longitude":-89.130646,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Kingston",
+    "mz:postal_locality_alt":[
+        "Dalton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404491859,
         85633793,
+        102081283,
+        404491859,
         101732863,
-        102081283
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781127"
     },
     "wof:country":"US",
-    "wof:geomhash":"e9223c0e7cc81fa6ce2d8831cae23b34",
+    "wof:geomhash":"9bb547d73db03ae3a353fc17bf0b1581",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554727985,
-    "wof:lastmodified":1480820011,
+    "wof:lastmodified":1611185511,
     "wof:name":"53939",
     "wof:parent_id":101732863,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002146,
-    "geom:area_square_m":23283027.694049,
+    "geom:area_square_m":23283027.694046,
     "geom:bbox":"-81.443527,28.640058,-81.387981,28.690577",
     "geom:latitude":28.662442,
     "geom:longitude":-81.411682,
@@ -13,19 +13,26 @@
     "lbl:latitude":28.662554,
     "lbl:longitude":-81.411702,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Altamonte Springs",
+    "mz:postal_locality_alt":[
+        "Altamonte Spgs",
+        "Longwood",
+        "Forest City"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688651,
-        102085775
+        102085775,
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12771874"
     },
     "wof:country":"US",
-    "wof:geomhash":"c08e53aadec2c0817d1a425bb98d7bdd",
+    "wof:geomhash":"346338abc0eb424cc80596ba235705dc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +43,7 @@
         }
     ],
     "wof:id":554714565,
-    "wof:lastmodified":1480813115,
+    "wof:lastmodified":1611183368,
     "wof:name":"32714",
     "wof:parent_id":102085775,
     "wof:placetype":"postalcode",

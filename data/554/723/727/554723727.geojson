@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033143,
-    "geom:area_square_m":311999734.401337,
+    "geom:area_square_m":311999734.401202,
     "geom:bbox":"-86.920923,40.272687,-86.694597,40.561881",
     "geom:latitude":40.42041,
     "geom:longitude":-86.765961,
@@ -13,20 +13,25 @@
     "lbl:latitude":40.420015,
     "lbl:longitude":-86.766044,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lafayette",
+    "mz:postal_locality_alt":[
+        "Buck Creek"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404500611,
         85633793,
-        102087121
+        102087121,
+        404500611,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778444"
     },
     "wof:country":"US",
-    "wof:geomhash":"0ee56b0dafb65a6a9b64a240e593799a",
+    "wof:geomhash":"9f2c8f003c90feef1bedc5538db157c7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554723727,
-    "wof:lastmodified":1480786757,
+    "wof:lastmodified":1611183813,
     "wof:name":"47905",
     "wof:parent_id":404500611,
     "wof:placetype":"postalcode",

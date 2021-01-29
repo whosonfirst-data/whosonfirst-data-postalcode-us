@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020977,
-    "geom:area_square_m":196129358.575979,
+    "geom:area_square_m":196129358.575902,
     "geom:bbox":"-87.520287,40.822018,-87.203353,40.94064",
     "geom:latitude":40.876538,
     "geom:longitude":-87.352855,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.876948,
     "lbl:longitude":-87.348911,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Brook",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404502121,
         85633793,
-        102086363
+        102086363,
+        404502121,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778453"
     },
     "wof:country":"US",
-    "wof:geomhash":"6cefa1720d839279a4b83b3c6a4042e9",
+    "wof:geomhash":"ea7ce64c0f640c5ff6d815bd47ef3f2f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554723745,
-    "wof:lastmodified":1480911845,
+    "wof:lastmodified":1611183813,
     "wof:name":"47922",
     "wof:parent_id":404502121,
     "wof:placetype":"postalcode",

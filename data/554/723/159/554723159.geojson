@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009218,
-    "geom:area_square_m":89409007.946768,
+    "geom:area_square_m":89409007.946769,
     "geom:bbox":"-85.758789,38.26717,-85.633658,38.401493",
     "geom:latitude":38.335206,
     "geom:longitude":-85.697136,
@@ -13,21 +13,26 @@
     "lbl:latitude":38.332622,
     "lbl:longitude":-85.696419,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Jeffersonville",
+    "mz:postal_locality_alt":[
+        "Clarksville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404501109,
         85633793,
+        102086421,
+        404501109,
         85942175,
-        102086421
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778073"
     },
     "wof:country":"US",
-    "wof:geomhash":"07c3d63ae3d30b6f658be88782cfa131",
+    "wof:geomhash":"455858bc5c618e5dbf945decc1e885fe",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554723159,
-    "wof:lastmodified":1480914448,
+    "wof:lastmodified":1611183777,
     "wof:name":"47130",
     "wof:parent_id":85942175,
     "wof:placetype":"postalcode",

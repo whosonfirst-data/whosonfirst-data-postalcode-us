@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.078809,
-    "geom:area_square_m":834002018.838217,
+    "geom:area_square_m":834002018.838233,
     "geom:bbox":"-90.9914,30.999083,-90.602007,31.349503",
     "geom:latitude":31.147466,
     "geom:longitude":-90.79781,
@@ -14,19 +14,24 @@
     "lbl:latitude":31.148785,
     "lbl:longitude":-90.798891,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Liberty",
+    "mz:postal_locality_alt":[
+        "Monticello"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688579,
-        102082445
+        102082445,
+        85688579
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12775020"
     },
     "wof:country":"US",
-    "wof:geomhash":"112c91af9b52762f3b9827b54ffb5892",
+    "wof:geomhash":"cccc9d4f0b83cad7b64d71802bc40e89",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554718491,
-    "wof:lastmodified":1480914441,
+    "wof:lastmodified":1611185558,
     "wof:name":"39645",
     "wof:parent_id":102082445,
     "wof:placetype":"postalcode",

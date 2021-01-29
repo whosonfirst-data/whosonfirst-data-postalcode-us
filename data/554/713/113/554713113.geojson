@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.063662,
-    "geom:area_square_m":663172868.440877,
+    "geom:area_square_m":663172868.440717,
     "geom:bbox":"-82.50429,32.408305,-82.216749,32.813378",
     "geom:latitude":32.600483,
     "geom:longitude":-82.352037,
@@ -14,20 +14,25 @@
     "lbl:latitude":32.599617,
     "lbl:longitude":-82.352576,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Swainsboro",
+    "mz:postal_locality_alt":[
+        "Sylvania"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688535,
         102191575,
         85633793,
+        102082323,
         85936215,
-        102082323
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770803"
     },
     "wof:country":"US",
-    "wof:geomhash":"681d4cbc352857183bac700b0bb004cc",
+    "wof:geomhash":"98e69653522a9cda2d826cdf9d657b10",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554713113,
-    "wof:lastmodified":1480817713,
+    "wof:lastmodified":1611183339,
     "wof:name":"30401",
     "wof:parent_id":85936215,
     "wof:placetype":"postalcode",

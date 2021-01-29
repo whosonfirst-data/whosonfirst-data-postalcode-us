@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001445,
-    "geom:area_square_m":13561204.105617,
+    "geom:area_square_m":13561204.105611,
     "geom:bbox":"-73.661943,40.609503,-73.613673,40.657434",
     "geom:latitude":40.632345,
     "geom:longitude":-73.636827,
@@ -14,21 +14,28 @@
     "lbl:latitude":40.631772,
     "lbl:longitude":-73.636624,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Oceanside",
+    "mz:postal_locality_alt":[
+        "Valley Stream",
+        "Woodmere",
+        "Rockville Centre"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404521473,
         85633793,
+        102082371,
+        404521473,
         85979131,
-        102082371
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761869"
     },
     "wof:country":"US",
-    "wof:geomhash":"6a3efdc3b7d8129e33af1334ce98e2e9",
+    "wof:geomhash":"ab8fac47a011ee28e31fa457a6c5f1a3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +48,7 @@
         }
     ],
     "wof:id":554779785,
-    "wof:lastmodified":1480790617,
+    "wof:lastmodified":1611183974,
     "wof:name":"11572",
     "wof:parent_id":85979131,
     "wof:placetype":"postalcode",

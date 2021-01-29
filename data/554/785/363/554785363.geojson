@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.759229,
-    "geom:area_square_m":5114247053.35991,
+    "geom:area_square_m":5114247053.364056,
     "geom:bbox":"-135.713663,56.161536,-134.616319,57.617481",
     "geom:latitude":56.990821,
     "geom:longitude":-135.076951,
@@ -14,20 +14,25 @@
     "lbl:latitude":57.000402,
     "lbl:longitude":-135.076713,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Sitka",
+    "mz:postal_locality_alt":[
+        "Petersburg"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688573,
         102191575,
         85633793,
+        102081405,
         85916107,
-        102081405
+        85688573
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12799844"
     },
     "wof:country":"US",
-    "wof:geomhash":"d468d1e351e9ce3fcca2081b3ed1f181",
+    "wof:geomhash":"27f596cc49d248b60196f48bda26ab47",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554785363,
-    "wof:lastmodified":1480817575,
+    "wof:lastmodified":1611183491,
     "wof:name":"99835",
     "wof:parent_id":85916107,
     "wof:placetype":"postalcode",

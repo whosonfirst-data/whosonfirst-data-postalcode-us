@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032752,
-    "geom:area_square_m":327457295.171569,
+    "geom:area_square_m":327457295.171417,
     "geom:bbox":"-82.28426,35.928633,-82.03884,36.159112",
     "geom:latitude":36.043602,
     "geom:longitude":-82.158757,
@@ -14,19 +14,25 @@
     "lbl:latitude":36.032692,
     "lbl:longitude":-82.156238,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bakersville",
+    "mz:postal_locality_alt":[
+        "Burnsville",
+        "Canton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688773,
-        102080935
+        102080935,
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12769854"
     },
     "wof:country":"US",
-    "wof:geomhash":"e80ac43ec133c3a5f24893d7627f5f67",
+    "wof:geomhash":"c2df9c0d4e8ba0edd886fb8dfe028e43",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554711701,
-    "wof:lastmodified":1480912080,
+    "wof:lastmodified":1611185297,
     "wof:name":"28705",
     "wof:parent_id":102080935,
     "wof:placetype":"postalcode",

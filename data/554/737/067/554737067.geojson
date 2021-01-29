@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008953,
-    "geom:area_square_m":88197830.591086,
+    "geom:area_square_m":88197830.591097,
     "geom:bbox":"-94.544301,37.109959,-94.400173,37.259363",
     "geom:latitude":37.185226,
     "geom:longitude":-94.48112,
@@ -14,21 +14,28 @@
     "lbl:latitude":37.182918,
     "lbl:longitude":-94.477775,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Webb City",
+    "mz:postal_locality_alt":[
+        "Pineville",
+        "Rocky Comfort",
+        "Lanagan"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404518141,
         85633793,
+        102087525,
+        404518141,
         85970857,
-        102087525
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786309"
     },
     "wof:country":"US",
-    "wof:geomhash":"df9307bc6f7069d55ddaa9cd8a908e6c",
+    "wof:geomhash":"368a60d08f8de45415b83d45b6fea291",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +48,7 @@
         }
     ],
     "wof:id":554737067,
-    "wof:lastmodified":1480783844,
+    "wof:lastmodified":1611182861,
     "wof:name":"64870",
     "wof:parent_id":85970857,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00291,
-    "geom:area_square_m":27046843.119,
+    "geom:area_square_m":27046843.119018,
     "geom:bbox":"-75.936981,41.245569,-75.849087,41.31478",
     "geom:latitude":41.27659,
     "geom:longitude":-75.894622,
@@ -14,21 +14,29 @@
     "lbl:latitude":41.262553,
     "lbl:longitude":-75.914636,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Kingston",
+    "mz:postal_locality_alt":[
+        "Edwardsville",
+        "Forty Fort",
+        "Swoyersville",
+        "Wilkes Barre"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404486889,
         85633793,
+        102081351,
+        404486889,
         101717011,
-        102081351
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765288"
     },
     "wof:country":"US",
-    "wof:geomhash":"e9f2ef642d7d046c42cc91930c60d583",
+    "wof:geomhash":"5dce0598a778990c7c3f09833d17be84",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +49,7 @@
         }
     ],
     "wof:id":554705979,
-    "wof:lastmodified":1480831058,
+    "wof:lastmodified":1611184106,
     "wof:name":"18704",
     "wof:parent_id":101717011,
     "wof:placetype":"postalcode",

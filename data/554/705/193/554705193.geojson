@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013374,
-    "geom:area_square_m":126953545.460592,
+    "geom:area_square_m":126953545.460556,
     "geom:bbox":"-76.948531,39.777203,-76.789264,39.922016",
     "geom:latitude":39.85197,
     "geom:longitude":-76.868562,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.847679,
     "lbl:longitude":-76.868704,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Spring Grove",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404487857,
         85633793,
-        102080953
+        102080953,
+        404487857,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764765"
     },
     "wof:country":"US",
-    "wof:geomhash":"38e3c75cd869605048a29768b06a0f58",
+    "wof:geomhash":"fcb3e42bdc14561d2b319a12b7a8cdcf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554705193,
-    "wof:lastmodified":1480903985,
+    "wof:lastmodified":1611184094,
     "wof:name":"17362",
     "wof:parent_id":404487857,
     "wof:placetype":"postalcode",

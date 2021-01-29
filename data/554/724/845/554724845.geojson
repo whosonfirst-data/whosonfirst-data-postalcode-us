@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004533,
-    "geom:area_square_m":41687002.203505,
+    "geom:area_square_m":41687002.203496,
     "geom:bbox":"-86.326796,41.922008,-86.214127,41.984826",
     "geom:latitude":41.952305,
     "geom:longitude":-86.261103,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.949226,
     "lbl:longitude":-86.252076,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Berrien Center",
+    "mz:postal_locality_alt":[
+        "Eau Claire"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404506979,
         85633793,
-        102083151
+        102083151,
+        404506979,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779204"
     },
     "wof:country":"US",
-    "wof:geomhash":"ce804ab560e42cbb8fd75905d17d7198",
+    "wof:geomhash":"804abb2248ed555bf3aabf75f90fa455",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554724845,
-    "wof:lastmodified":1480841957,
+    "wof:lastmodified":1611183746,
     "wof:name":"49102",
     "wof:parent_id":404506979,
     "wof:placetype":"postalcode",

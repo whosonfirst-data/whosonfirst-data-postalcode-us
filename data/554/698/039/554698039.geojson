@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0071,
-    "geom:area_square_m":64086378.733479,
+    "geom:area_square_m":64086378.733486,
     "geom:bbox":"-70.981056,43.080457,-70.847129,43.162884",
     "geom:latitude":43.117434,
     "geom:longitude":-70.919678,
@@ -14,20 +14,26 @@
     "lbl:latitude":43.117187,
     "lbl:longitude":-70.918788,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Durham",
+    "mz:postal_locality_alt":[
+        "Lee",
+        "Newington"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688689,
         102191575,
-        404477259,
         85633793,
-        102085609
+        102085609,
+        404477259,
+        85688689
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759296"
     },
     "wof:country":"US",
-    "wof:geomhash":"60535ed123acebc39f57e9ac1768cc02",
+    "wof:geomhash":"f8909d3345ef05dd953de65f5e90ccba",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554698039,
-    "wof:lastmodified":1480916574,
+    "wof:lastmodified":1611184686,
     "wof:name":"03824",
     "wof:parent_id":404477259,
     "wof:placetype":"postalcode",

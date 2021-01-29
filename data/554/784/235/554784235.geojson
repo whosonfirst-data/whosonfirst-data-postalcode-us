@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003053,
-    "geom:area_square_m":31792787.28938,
+    "geom:area_square_m":31792787.289371,
     "geom:bbox":"-117.117895,32.613765,-116.990459,32.658975",
     "geom:latitude":32.638264,
     "geom:longitude":-117.057108,
@@ -13,20 +13,25 @@
     "lbl:latitude":32.637868,
     "lbl:longitude":-117.058031,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Chula Vista",
+    "mz:postal_locality_alt":[
+        "National City"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102083569,
         85922285,
-        102083569
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796161"
     },
     "wof:country":"US",
-    "wof:geomhash":"acc5b721f0ca433cad0b5272581c76b8",
+    "wof:geomhash":"090bf3f46bb9733ec990df5f494ddb45",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554784235,
-    "wof:lastmodified":1480835292,
+    "wof:lastmodified":1611183937,
     "wof:name":"91910",
     "wof:parent_id":85922285,
     "wof:placetype":"postalcode",

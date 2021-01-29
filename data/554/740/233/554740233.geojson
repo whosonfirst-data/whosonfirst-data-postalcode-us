@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030413,
-    "geom:area_square_m":283104959.540353,
+    "geom:area_square_m":283104959.540171,
     "geom:bbox":"-99.207577,41.04688,-98.97706,41.296497",
     "geom:latitude":41.16457,
     "geom:longitude":-99.126291,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.161301,
     "lbl:longitude":-99.124626,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Litchfield",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688563,
         102191575,
-        404521069,
         85633793,
-        102082747
+        102082747,
+        404521069,
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787893"
     },
     "wof:country":"US",
-    "wof:geomhash":"0e7beba3f34dda110a2fca5dfe3913d7",
+    "wof:geomhash":"972071e1243b90404dc604b72c56553c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554740233,
-    "wof:lastmodified":1480803218,
+    "wof:lastmodified":1611183398,
     "wof:name":"68852",
     "wof:parent_id":404521069,
     "wof:placetype":"postalcode",

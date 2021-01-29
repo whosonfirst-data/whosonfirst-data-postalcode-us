@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019517,
-    "geom:area_square_m":188496867.823238,
+    "geom:area_square_m":188496867.823086,
     "geom:bbox":"-82.369028,38.521151,-82.171966,38.736043",
     "geom:latitude":38.641381,
     "geom:longitude":-82.267903,
@@ -14,20 +14,22 @@
     "lbl:latitude":38.641686,
     "lbl:longitude":-82.269786,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Crown City",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404524685,
         85633793,
-        102083675
+        102083675,
+        404524685,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777338"
     },
     "wof:country":"US",
-    "wof:geomhash":"4efd319127fe93813ed1c46521d2cb37",
+    "wof:geomhash":"0752e0d10842eff00fe4dc274f3553fd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554722037,
-    "wof:lastmodified":1480841822,
+    "wof:lastmodified":1611183224,
     "wof:name":"45623",
     "wof:parent_id":404524685,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010559,
-    "geom:area_square_m":99719854.54672,
+    "geom:area_square_m":99719854.546748,
     "geom:bbox":"-82.967336,40.142311,-82.778205,40.268597",
     "geom:latitude":40.200911,
     "geom:longitude":-82.8842,
@@ -14,20 +14,27 @@
     "lbl:latitude":40.197671,
     "lbl:longitude":-82.873674,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Galena",
+    "mz:postal_locality_alt":[
+        "Westerville",
+        "Sunbury",
+        "Pataskala"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404524519,
         85633793,
-        102084739
+        102084739,
+        404524519,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776094"
     },
     "wof:country":"US",
-    "wof:geomhash":"df03b51fbc9bb4d6e68f71bbe9be1d52",
+    "wof:geomhash":"219a0682d2915c6f138571436ae523ab",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554720227,
-    "wof:lastmodified":1480799297,
+    "wof:lastmodified":1611185452,
     "wof:name":"43021",
     "wof:parent_id":404524519,
     "wof:placetype":"postalcode",

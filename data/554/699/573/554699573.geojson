@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013773,
-    "geom:area_square_m":127882176.56938,
+    "geom:area_square_m":127882176.569413,
     "geom:bbox":"-72.749297,41.241202,-72.631712,41.433797",
     "geom:latitude":41.332058,
     "geom:longitude":-72.700331,
@@ -14,20 +14,26 @@
     "lbl:latitude":41.331777,
     "lbl:longitude":-72.696816,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Guilford",
+    "mz:postal_locality_alt":[
+        "Fairfield",
+        "Middletown"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688629,
         102191575,
-        404495773,
         85633793,
-        102086923
+        102086923,
+        404495773,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760400"
     },
     "wof:country":"US",
-    "wof:geomhash":"a55f43231d41a611dd995919345cb220",
+    "wof:geomhash":"bf0295498140f5d1cb7f6b9f2a32d5bf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554699573,
-    "wof:lastmodified":1480916209,
+    "wof:lastmodified":1611184616,
     "wof:name":"06437",
     "wof:parent_id":404495773,
     "wof:placetype":"postalcode",

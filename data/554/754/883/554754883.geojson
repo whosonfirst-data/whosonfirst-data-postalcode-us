@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014925,
-    "geom:area_square_m":132432715.74021,
+    "geom:area_square_m":132432715.740238,
     "geom:bbox":"-123.165394,44.074224,-122.978062,44.200178",
     "geom:latitude":44.144501,
     "geom:longitude":-123.054496,
@@ -13,20 +13,25 @@
     "lbl:latitude":44.142995,
     "lbl:longitude":-123.058241,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Eugene",
+    "mz:postal_locality_alt":[
+        "Coburg"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688513,
         102191575,
         85633793,
+        102081603,
         101716243,
-        102081603
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12798643"
     },
     "wof:country":"US",
-    "wof:geomhash":"77ef56a444d1b0922e89b8fd84cb7675",
+    "wof:geomhash":"4b4d0833e3ade7559328e23a609073c1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554754883,
-    "wof:lastmodified":1480832702,
+    "wof:lastmodified":1611182906,
     "wof:name":"97408",
     "wof:parent_id":101716243,
     "wof:placetype":"postalcode",

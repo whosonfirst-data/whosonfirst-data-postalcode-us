@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039127,
-    "geom:area_square_m":373070720.319087,
+    "geom:area_square_m":373070720.318859,
     "geom:bbox":"-111.069035,39.469247,-110.534167,39.648058",
     "geom:latitude":39.546962,
     "geom:longitude":-110.760409,
@@ -14,19 +14,27 @@
     "lbl:latitude":39.546427,
     "lbl:longitude":-110.757596,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Price",
+    "mz:postal_locality_alt":[
+        "East Carbon",
+        "Moab",
+        "Bluff",
+        "Castle Dale"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688567,
-        102082305
+        102082305,
+        85688567
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12794237"
     },
     "wof:country":"US",
-    "wof:geomhash":"80d8c313b8d113b4800615c67a4c2dfe",
+    "wof:geomhash":"27f4d03974a73f9f8f19b1aff1d1ed6d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +45,7 @@
         }
     ],
     "wof:id":554750029,
-    "wof:lastmodified":1480803734,
+    "wof:lastmodified":1611184558,
     "wof:name":"84501",
     "wof:parent_id":102082305,
     "wof:placetype":"postalcode",

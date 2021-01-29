@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010774,
-    "geom:area_square_m":100973861.562653,
+    "geom:area_square_m":100973861.562641,
     "geom:bbox":"-79.835438,40.669233,-79.65873,40.774687",
     "geom:latitude":40.715712,
     "geom:longitude":-79.747953,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.716859,
     "lbl:longitude":-79.749717,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Sarver",
+    "mz:postal_locality_alt":[
+        "Saxonburg"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485055,
         85633793,
-        102083677
+        102083677,
+        404485055,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764141"
     },
     "wof:country":"US",
-    "wof:geomhash":"fee434fa78c5cfc40c04741a7dac02cc",
+    "wof:geomhash":"4c16289b6350b93889deba13d16186d7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554704271,
-    "wof:lastmodified":1480905384,
+    "wof:lastmodified":1611184513,
     "wof:name":"16055",
     "wof:parent_id":404485055,
     "wof:placetype":"postalcode",

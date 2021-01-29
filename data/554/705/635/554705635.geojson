@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004378,
-    "geom:area_square_m":41056690.458159,
+    "geom:area_square_m":41056690.458206,
     "geom:bbox":"-75.684028,40.636219,-75.557372,40.708488",
     "geom:latitude":40.673202,
     "geom:longitude":-75.618969,
@@ -14,21 +14,26 @@
     "lbl:latitude":40.673304,
     "lbl:longitude":-75.620717,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Schnecksville",
+    "mz:postal_locality_alt":[
+        "Neffs"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485967,
         85633793,
+        102081327,
+        404485967,
         101719965,
-        102081327
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765067"
     },
     "wof:country":"US",
-    "wof:geomhash":"2f422cf2c660d7c6c46bbbf4ea9d8181",
+    "wof:geomhash":"22a9b3708101de0b64f43a636f0481cd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554705635,
-    "wof:lastmodified":1480830861,
+    "wof:lastmodified":1611184103,
     "wof:name":"18078",
     "wof:parent_id":101719965,
     "wof:placetype":"postalcode",

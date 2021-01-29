@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000975,
-    "geom:area_square_m":9158298.425499,
+    "geom:area_square_m":9158298.425508,
     "geom:bbox":"-74.527025,40.555324,-74.469446,40.593371",
     "geom:latitude":40.574414,
     "geom:longitude":-74.501069,
@@ -14,21 +14,26 @@
     "lbl:latitude":40.574627,
     "lbl:longitude":-74.498259,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Middlesex",
+    "mz:postal_locality_alt":[
+        "Edison"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478283,
         85633793,
+        102087417,
+        404478283,
         85975743,
-        102087417
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761286"
     },
     "wof:country":"US",
-    "wof:geomhash":"0b11ab601c86c01da97bcdf737a6e7c6",
+    "wof:geomhash":"7b6938c83ff717456f7b18377c8b9f50",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554700745,
-    "wof:lastmodified":1480806954,
+    "wof:lastmodified":1611183209,
     "wof:name":"08846",
     "wof:parent_id":85975743,
     "wof:placetype":"postalcode",

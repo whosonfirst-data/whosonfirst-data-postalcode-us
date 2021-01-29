@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.111454,
-    "geom:area_square_m":1183848425.858644,
+    "geom:area_square_m":1183848425.858124,
     "geom:bbox":"-93.517226,30.605496,-92.977324,30.981493",
     "geom:latitude":30.793902,
     "geom:longitude":-93.239701,
@@ -14,19 +14,26 @@
     "lbl:latitude":30.793357,
     "lbl:longitude":-93.240067,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Deridder",
+    "mz:postal_locality_alt":[
+        "Rosepine",
+        "Dry Creek",
+        "Merryville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688735,
-        102085919
+        102085919,
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12788398"
     },
     "wof:country":"US",
-    "wof:geomhash":"1f5cbbe8ba55b12d7b0630cf6657426d",
+    "wof:geomhash":"099af59d8cdc8b7536ceeaf79fec0c37",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +44,7 @@
         }
     ],
     "wof:id":554740881,
-    "wof:lastmodified":1480914136,
+    "wof:lastmodified":1611183394,
     "wof:name":"70634",
     "wof:parent_id":102085919,
     "wof:placetype":"postalcode",

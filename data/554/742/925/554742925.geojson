@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01341,
-    "geom:area_square_m":135409368.179848,
+    "geom:area_square_m":135409368.179853,
     "geom:bbox":"-97.671641,35.159751,-97.534513,35.337508",
     "geom:latitude":35.25213,
     "geom:longitude":-97.612092,
@@ -14,20 +14,25 @@
     "lbl:latitude":35.255216,
     "lbl:longitude":-97.610156,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Newcastle",
+    "mz:postal_locality_alt":[
+        "Norman"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688585,
         102191575,
         85633793,
+        102083325,
         101715137,
-        102083325
+        85688585
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12789587"
     },
     "wof:country":"US",
-    "wof:geomhash":"7fa101de17424543b8fdfd71f49ec64d",
+    "wof:geomhash":"68aac70c1bd0a282edc84f2d5aaa6bb1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554742925,
-    "wof:lastmodified":1480840012,
+    "wof:lastmodified":1611185231,
     "wof:name":"73065",
     "wof:parent_id":101715137,
     "wof:placetype":"postalcode",

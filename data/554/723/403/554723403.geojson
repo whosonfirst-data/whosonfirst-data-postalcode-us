@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049497,
-    "geom:area_square_m":476566120.783354,
+    "geom:area_square_m":476566120.783504,
     "geom:bbox":"-86.67201,38.729601,-86.275281,38.992147",
     "geom:latitude":38.862681,
     "geom:longitude":-86.451111,
@@ -14,21 +14,27 @@
     "lbl:latitude":38.863495,
     "lbl:longitude":-86.45223,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bedford",
+    "mz:postal_locality_alt":[
+        "Spencer",
+        "Linton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404502005,
         85633793,
+        102087141,
+        404502005,
         85941593,
-        102087141
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778217"
     },
     "wof:country":"US",
-    "wof:geomhash":"884a7bacc3dbc05275a46140c98e9cb7",
+    "wof:geomhash":"74cdccc349e92aa25a630c51a85095db",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554723403,
-    "wof:lastmodified":1480917013,
+    "wof:lastmodified":1611183808,
     "wof:name":"47421",
     "wof:parent_id":85941593,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000801,
-    "geom:area_square_m":7424433.646744,
+    "geom:area_square_m":7424433.64673,
     "geom:bbox":"-75.662495,41.411489,-75.622291,41.449725",
     "geom:latitude":41.430837,
     "geom:longitude":-75.642906,
@@ -13,21 +13,26 @@
     "lbl:latitude":41.430836,
     "lbl:longitude":-75.642907,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Scranton",
+    "mz:postal_locality_alt":[
+        "Dunmore"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404486845,
         85633793,
+        102081345,
+        404486845,
         101718305,
-        102081345
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765233"
     },
     "wof:country":"US",
-    "wof:geomhash":"439bac054147f3908540106dab948cc7",
+    "wof:geomhash":"8849533641a851038cea63d87d15d0a2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554705889,
-    "wof:lastmodified":1480832113,
+    "wof:lastmodified":1611184096,
     "wof:name":"18509",
     "wof:parent_id":101718305,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039785,
-    "geom:area_square_m":415779741.608335,
+    "geom:area_square_m":415779741.608675,
     "geom:bbox":"-81.542716,32.159275,-81.24925,32.510621",
     "geom:latitude":32.310276,
     "geom:longitude":-81.398722,
@@ -14,19 +14,25 @@
     "lbl:latitude":32.307479,
     "lbl:longitude":-81.403826,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Guyton",
+    "mz:postal_locality_alt":[
+        "Rincon",
+        "Springfield"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688535,
-        102083627
+        102083627,
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12771190"
     },
     "wof:country":"US",
-    "wof:geomhash":"b4f68f116286ad2d14e75f8c3bf2aeb8",
+    "wof:geomhash":"56743351f5ba0ff6719f8a7046a927af",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554713751,
-    "wof:lastmodified":1480836164,
+    "wof:lastmodified":1611183318,
     "wof:name":"31312",
     "wof:parent_id":102083627,
     "wof:placetype":"postalcode",

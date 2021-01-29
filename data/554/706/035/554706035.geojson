@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012891,
-    "geom:area_square_m":118506167.888221,
+    "geom:area_square_m":118506167.888247,
     "geom:bbox":"-76.69222,41.917562,-76.380115,42.000738",
     "geom:latitude":41.971813,
     "geom:longitude":-76.535826,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.971552,
     "lbl:longitude":-76.534965,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Sayre",
+    "mz:postal_locality_alt":[
+        "South Waverly"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404484637,
         85633793,
-        102081319
+        102081319,
+        404484637,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765333"
     },
     "wof:country":"US",
-    "wof:geomhash":"2b47706515fa140ec1f9a93e79a570a7",
+    "wof:geomhash":"f279813bc11084aea94b61de4792ff62",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554706035,
-    "wof:lastmodified":1480817423,
+    "wof:lastmodified":1611182711,
     "wof:name":"18840",
     "wof:parent_id":404484637,
     "wof:placetype":"postalcode",

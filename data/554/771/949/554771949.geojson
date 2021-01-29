@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000021,
-    "geom:area_square_m":198060.960034,
+    "geom:area_square_m":198060.960033,
     "geom:bbox":"-104.851185,40.520901,-104.848382,40.530254",
     "geom:latitude":40.525242,
     "geom:longitude":-104.849696,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.525242,
     "lbl:longitude":-104.849696,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Severance",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688603,
         102191575,
         85633793,
+        102086117,
         85929141,
-        102086117
+        85688603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12793127"
     },
     "wof:country":"US",
-    "wof:geomhash":"9d5fb13954dcb2bb8c0494907c182ec0",
+    "wof:geomhash":"387d892f21d1ed197d78d08ba214cedb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554771949,
-    "wof:lastmodified":1480913969,
+    "wof:lastmodified":1611183527,
     "wof:name":"80546",
     "wof:parent_id":85929141,
     "wof:placetype":"postalcode",

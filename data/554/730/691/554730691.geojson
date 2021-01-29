@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.065791,
-    "geom:area_square_m":536005887.126073,
+    "geom:area_square_m":536005887.126171,
     "geom:bbox":"-96.185194,48.61325,-95.84384,48.95525",
     "geom:latitude":48.785546,
     "geom:longitude":-96.00593,
@@ -14,20 +14,25 @@
     "lbl:latitude":48.783858,
     "lbl:longitude":-96.00464,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Badger",
+    "mz:postal_locality_alt":[
+        "Lake Bronson"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404512959,
         85633793,
-        102087665
+        102087665,
+        404512959,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782654"
     },
     "wof:country":"US",
-    "wof:geomhash":"2fb88307025fbf2cb1f9ed0ad6783706",
+    "wof:geomhash":"220ac87a0985171e47ab2cf884a09039",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554730691,
-    "wof:lastmodified":1480786560,
+    "wof:lastmodified":1611182753,
     "wof:name":"56714",
     "wof:parent_id":404512959,
     "wof:placetype":"postalcode",

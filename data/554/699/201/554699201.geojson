@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00892,
-    "geom:area_square_m":78525148.422217,
+    "geom:area_square_m":78525148.422181,
     "geom:bbox":"-72.374786,44.550055,-72.202901,44.65781",
     "geom:latitude":44.606861,
     "geom:longitude":-72.294535,
@@ -14,20 +14,22 @@
     "lbl:latitude":44.60767,
     "lbl:longitude":-72.288602,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Greensboro",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688763,
         102191575,
-        404527043,
         85633793,
-        102087443
+        102087443,
+        404527043,
+        85688763
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760134"
     },
     "wof:country":"US",
-    "wof:geomhash":"69de6813cc1b85e38699b9b2ce61f43a",
+    "wof:geomhash":"e76816f42af0b480e77be4b8e73dffb9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554699201,
-    "wof:lastmodified":1480906387,
+    "wof:lastmodified":1611184628,
     "wof:name":"05841",
     "wof:parent_id":404527043,
     "wof:placetype":"postalcode",

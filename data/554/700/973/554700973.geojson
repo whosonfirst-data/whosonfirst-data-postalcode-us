@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008998,
-    "geom:area_square_m":83346065.591372,
+    "geom:area_square_m":83346065.59142,
     "geom:bbox":"-74.420877,41.431963,-74.276983,41.544999",
     "geom:latitude":41.488609,
     "geom:longitude":-74.344988,
@@ -14,20 +14,26 @@
     "lbl:latitude":41.487318,
     "lbl:longitude":-74.344437,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Middletown",
+    "mz:postal_locality_alt":[
+        "Scotchtown",
+        "Florida"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522921,
         85633793,
-        102083061
+        102083061,
+        404522921,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761646"
     },
     "wof:country":"US",
-    "wof:geomhash":"1ddb55a06b32b03a95824ce7543cc821",
+    "wof:geomhash":"c76aba9daa8b07b19ad2abdc06e5fb87",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554700973,
-    "wof:lastmodified":1480834092,
+    "wof:lastmodified":1611183207,
     "wof:name":"10941",
     "wof:parent_id":404522921,
     "wof:placetype":"postalcode",

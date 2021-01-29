@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002791,
-    "geom:area_square_m":25596344.87079,
+    "geom:area_square_m":25596344.870775,
     "geom:bbox":"-74.286479,42.107975,-74.209702,42.171039",
     "geom:latitude":42.133249,
     "geom:longitude":-74.244278,
@@ -14,20 +14,25 @@
     "lbl:latitude":42.133247,
     "lbl:longitude":-74.244279,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hunter",
+    "mz:postal_locality_alt":[
+        "Lanesville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522491,
         85633793,
-        102082393
+        102082393,
+        404522491,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762282"
     },
     "wof:country":"US",
-    "wof:geomhash":"3491917ba55289f29648f4620578548f",
+    "wof:geomhash":"82eb63aadd675b61205d181cb17f87c8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554701429,
-    "wof:lastmodified":1480819676,
+    "wof:lastmodified":1611182637,
     "wof:name":"12450",
     "wof:parent_id":404522491,
     "wof:placetype":"postalcode",

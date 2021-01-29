@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028974,
-    "geom:area_square_m":284512327.816832,
+    "geom:area_square_m":284512327.816705,
     "geom:bbox":"-89.020861,37.335343,-88.751579,37.517539",
     "geom:latitude":37.425998,
     "geom:longitude":-88.875251,
@@ -14,20 +14,22 @@
     "lbl:latitude":37.438053,
     "lbl:longitude":-88.87768,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Vienna",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404498323,
         85633793,
-        102083521
+        102083521,
+        404498323,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785515"
     },
     "wof:country":"US",
-    "wof:geomhash":"60cb618082816490852fc232c49c80d8",
+    "wof:geomhash":"e13e52cf329d2c24d578721544ef15d8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554735613,
-    "wof:lastmodified":1480836705,
+    "wof:lastmodified":1611184432,
     "wof:name":"62995",
     "wof:parent_id":404498323,
     "wof:placetype":"postalcode",

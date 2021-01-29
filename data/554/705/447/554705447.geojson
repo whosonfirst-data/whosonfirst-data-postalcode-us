@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008055,
-    "geom:area_square_m":75255728.533722,
+    "geom:area_square_m":75255728.533703,
     "geom:bbox":"-76.864025,40.878052,-76.652451,40.967996",
     "geom:latitude":40.92796,
     "geom:longitude":-76.767318,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.932136,
     "lbl:longitude":-76.772972,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Northumberland",
+    "mz:postal_locality_alt":[
+        "Benton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404486503,
         85633793,
-        102081349
+        102081349,
+        404486503,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764936"
     },
     "wof:country":"US",
-    "wof:geomhash":"5b248c3f05411e8ce405869930ac6584",
+    "wof:geomhash":"dfecadea9aacc3b957145fda91747f8a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554705447,
-    "wof:lastmodified":1480903972,
+    "wof:lastmodified":1611184095,
     "wof:name":"17857",
     "wof:parent_id":404486503,
     "wof:placetype":"postalcode",

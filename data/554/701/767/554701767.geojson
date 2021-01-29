@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013235,
-    "geom:area_square_m":118488388.512534,
+    "geom:area_square_m":118488388.512571,
     "geom:bbox":"-73.742334,43.518594,-73.532908,43.678377",
     "geom:latitude":43.610411,
     "geom:longitude":-73.647077,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.631894,
     "lbl:longitude":-73.632551,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bolton Landing",
+    "mz:postal_locality_alt":[
+        "Lake George"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404523277,
         85633793,
-        102081791
+        102081791,
+        404523277,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762472"
     },
     "wof:country":"US",
-    "wof:geomhash":"a4b840306bf932525cf4488af6090b0f",
+    "wof:geomhash":"1a4d83a8d3978f875f21d2277bbdd276",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554701767,
-    "wof:lastmodified":1480829757,
+    "wof:lastmodified":1611182630,
     "wof:name":"12814",
     "wof:parent_id":404523277,
     "wof:placetype":"postalcode",

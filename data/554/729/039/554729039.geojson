@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010269,
-    "geom:area_square_m":90518293.682388,
+    "geom:area_square_m":90518293.68243,
     "geom:bbox":"-93.481466,44.46448,-93.281521,44.604871",
     "geom:latitude":44.530881,
     "geom:longitude":-93.38697,
@@ -14,20 +14,26 @@
     "lbl:latitude":44.523587,
     "lbl:longitude":-93.383455,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Webster",
+    "mz:postal_locality_alt":[
+        "Northfield",
+        "Lonsdale"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404510605,
         85633793,
-        102087623
+        102087623,
+        404510605,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781732"
     },
     "wof:country":"US",
-    "wof:geomhash":"cd8089ba232b6b61d3dd95bac6a38a0d",
+    "wof:geomhash":"42aaf7c479773fafab77fb50a8316e88",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554729039,
-    "wof:lastmodified":1480789030,
+    "wof:lastmodified":1611185420,
     "wof:name":"55088",
     "wof:parent_id":404510605,
     "wof:placetype":"postalcode",

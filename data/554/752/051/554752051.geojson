@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002121,
-    "geom:area_square_m":21703709.137663,
+    "geom:area_square_m":21703709.137692,
     "geom:bbox":"-117.612551,34.132423,-117.541752,34.179413",
     "geom:latitude":34.152584,
     "geom:longitude":-117.577708,
@@ -13,20 +13,25 @@
     "lbl:latitude":34.152583,
     "lbl:longitude":-117.577707,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Alta Loma",
+    "mz:postal_locality_alt":[
+        "Rancho Cucamonga"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102085395,
         85923937,
-        102085395
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796101"
     },
     "wof:country":"US",
-    "wof:geomhash":"3b3ff3fd7b85eb8142f242c157ff5616",
+    "wof:geomhash":"1f50cc1ad7d5eecfc5e5fcc45af29ead",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554752051,
-    "wof:lastmodified":1480814338,
+    "wof:lastmodified":1611182552,
     "wof:name":"91737",
     "wof:parent_id":85923937,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006664,
-    "geom:area_square_m":63793808.714923,
+    "geom:area_square_m":63793808.714818,
     "geom:bbox":"-86.665723,39.209731,-86.573885,39.32622",
     "geom:latitude":39.27331,
     "geom:longitude":-86.615935,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.273303,
     "lbl:longitude":-86.615938,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ellettsville",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404501305,
         85633793,
-        102086351
+        102086351,
+        404501305,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778221"
     },
     "wof:country":"US",
-    "wof:geomhash":"07f177a62b6084f39b320d00375e0574",
+    "wof:geomhash":"24ffd743316d9ebc97f6efc5d0ed004c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554723409,
-    "wof:lastmodified":1480915072,
+    "wof:lastmodified":1611183787,
     "wof:name":"47429",
     "wof:parent_id":404501305,
     "wof:placetype":"postalcode",

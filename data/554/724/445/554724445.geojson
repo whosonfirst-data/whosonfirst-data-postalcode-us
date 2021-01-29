@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.079413,
-    "geom:area_square_m":700527118.789435,
+    "geom:area_square_m":700527118.789432,
     "geom:bbox":"-84.855795,44.334323,-84.370419,44.628424",
     "geom:latitude":44.487832,
     "geom:longitude":-84.600476,
@@ -14,21 +14,26 @@
     "lbl:latitude":44.490944,
     "lbl:longitude":-84.599452,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Roscommon",
+    "mz:postal_locality_alt":[
+        "Grayling"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404508563,
         85633793,
+        102083077,
+        404508563,
         85951105,
-        102083077
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778929"
     },
     "wof:country":"US",
-    "wof:geomhash":"bb3c30b0a91d6cded48fe3776b9c0307",
+    "wof:geomhash":"6380de82b85c964dde2b4d9b6c022f88",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554724445,
-    "wof:lastmodified":1480843117,
+    "wof:lastmodified":1611183766,
     "wof:name":"48653",
     "wof:parent_id":85951105,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001537,
-    "geom:area_square_m":14822234.569092,
+    "geom:area_square_m":14822234.569095,
     "geom:bbox":"-93.579126,38.704553,-93.530831,38.751996",
     "geom:latitude":38.729425,
     "geom:longitude":-93.554484,
@@ -14,21 +14,26 @@
     "lbl:latitude":38.733116,
     "lbl:longitude":-93.553158,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Knob Noster",
+    "mz:postal_locality_alt":[
+        "Whiteman Afb"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404518313,
         85633793,
+        102085307,
+        404518313,
         85972589,
-        102085307
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786438"
     },
     "wof:country":"US",
-    "wof:geomhash":"878d46b0c8bb98b455d503912fce4a2a",
+    "wof:geomhash":"8ae685ce3a6c944fd7fdd35143ff5fd9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554737307,
-    "wof:lastmodified":1480804356,
+    "wof:lastmodified":1611182824,
     "wof:name":"65305",
     "wof:parent_id":85972589,
     "wof:placetype":"postalcode",

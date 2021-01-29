@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014253,
-    "geom:area_square_m":135902643.811016,
+    "geom:area_square_m":135902643.810996,
     "geom:bbox":"-87.42122,39.48441,-87.226168,39.608259",
     "geom:latitude":39.547058,
     "geom:longitude":-87.326644,
@@ -13,20 +13,25 @@
     "lbl:latitude":39.546275,
     "lbl:longitude":-87.326483,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Terre Haute",
+    "mz:postal_locality_alt":[
+        "N Terre Haute"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404502045,
         85633793,
-        102087183
+        102087183,
+        404502045,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778386"
     },
     "wof:country":"US",
-    "wof:geomhash":"36cf1045891f5a14a069f5b460893283",
+    "wof:geomhash":"056217882d8217a415c4bc843f9916be",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554723657,
-    "wof:lastmodified":1480916630,
+    "wof:lastmodified":1611183789,
     "wof:name":"47805",
     "wof:parent_id":404502045,
     "wof:placetype":"postalcode",

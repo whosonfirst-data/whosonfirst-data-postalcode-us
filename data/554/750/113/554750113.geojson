@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0382,
-    "geom:area_square_m":361498765.204823,
+    "geom:area_square_m":361498765.204812,
     "geom:bbox":"-111.85481,39.930225,-111.206028,40.185298",
     "geom:latitude":40.064445,
     "geom:longitude":-111.568597,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.121268,
     "lbl:longitude":-111.695542,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Spanish Fork",
+    "mz:postal_locality_alt":[
+        "Salina"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688567,
         102191575,
         85633793,
+        102083567,
         101728175,
-        102083567
+        85688567
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12794307"
     },
     "wof:country":"US",
-    "wof:geomhash":"35f0f98d579db01012ec7cb4ea74605e",
+    "wof:geomhash":"04c292f1ab727782fb5b508a85f91ff7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554750113,
-    "wof:lastmodified":1480842610,
+    "wof:lastmodified":1611184573,
     "wof:name":"84660",
     "wof:parent_id":101728175,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009604,
-    "geom:area_square_m":86377398.480565,
+    "geom:area_square_m":86377398.480505,
     "geom:bbox":"-78.624751,43.28549,-78.465475,43.377285",
     "geom:latitude":43.335674,
     "geom:longitude":-78.526065,
@@ -14,20 +14,22 @@
     "lbl:latitude":43.332173,
     "lbl:longitude":-78.532622,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Barker",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522753,
         85633793,
-        102081767
+        102081767,
+        404522753,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763065"
     },
     "wof:country":"US",
-    "wof:geomhash":"33ec8713b2a4b6287abbdb89d2fe4b9e",
+    "wof:geomhash":"d6c551f1a298c83284588591c9268254",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554780143,
-    "wof:lastmodified":1480819685,
+    "wof:lastmodified":1611185175,
     "wof:name":"14012",
     "wof:parent_id":404522753,
     "wof:placetype":"postalcode",

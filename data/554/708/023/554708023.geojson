@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019908,
-    "geom:area_square_m":193727156.944343,
+    "geom:area_square_m":193727156.944364,
     "geom:bbox":"-79.017974,38.026647,-78.774084,38.184065",
     "geom:latitude":38.09564,
     "geom:longitude":-78.885178,
@@ -14,19 +14,26 @@
     "lbl:latitude":38.099857,
     "lbl:longitude":-78.880549,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Waynesboro",
+    "mz:postal_locality_alt":[
+        "Fishersville",
+        "Charlottesville",
+        "Stuarts Draft"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688747,
-        102086699
+        102086699,
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12767137"
     },
     "wof:country":"US",
-    "wof:geomhash":"28cfcd579ea32a16ec62583b7919211f",
+    "wof:geomhash":"95401b7a0dc1c57977d7a6a9e7f8d574",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +44,7 @@
         }
     ],
     "wof:id":554708023,
-    "wof:lastmodified":1480913502,
+    "wof:lastmodified":1611182766,
     "wof:name":"22980",
     "wof:parent_id":102086699,
     "wof:placetype":"postalcode",

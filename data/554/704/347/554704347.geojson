@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007081,
-    "geom:area_square_m":65796676.693757,
+    "geom:area_square_m":65796676.693809,
     "geom:bbox":"-80.519182,41.242537,-80.316869,41.347846",
     "geom:latitude":41.285515,
     "geom:longitude":-80.443887,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.285145,
     "lbl:longitude":-80.45325,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Sharpsville",
+    "mz:postal_locality_alt":[
+        "Clark"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404488095,
         85633793,
-        102080965
+        102080965,
+        404488095,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764183"
     },
     "wof:country":"US",
-    "wof:geomhash":"46027ed185c2a6098fb678e480beb025",
+    "wof:geomhash":"272f16cff84a96d790fc513efe3f4b67",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554704347,
-    "wof:lastmodified":1480906660,
+    "wof:lastmodified":1611184503,
     "wof:name":"16150",
     "wof:parent_id":404488095,
     "wof:placetype":"postalcode",

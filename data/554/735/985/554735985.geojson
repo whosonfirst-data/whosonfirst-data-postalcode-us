@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015758,
-    "geom:area_square_m":149465297.373693,
+    "geom:area_square_m":149465297.373634,
     "geom:bbox":"-92.290432,39.829981,-92.093174,39.954494",
     "geom:latitude":39.906144,
     "geom:longitude":-92.20452,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.903783,
     "lbl:longitude":-92.205892,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Leonard",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404515767,
         85633793,
-        102086147
+        102086147,
+        404515767,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785726"
     },
     "wof:country":"US",
-    "wof:geomhash":"145c08da314583c7eb5b589d18403e41",
+    "wof:geomhash":"ca9aff1239b0f10393c9173bfe5fcdaa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554735985,
-    "wof:lastmodified":1480915091,
+    "wof:lastmodified":1611184426,
     "wof:name":"63451",
     "wof:parent_id":404515767,
     "wof:placetype":"postalcode",

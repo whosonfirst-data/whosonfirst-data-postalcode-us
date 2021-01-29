@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023137,
-    "geom:area_square_m":206403801.398891,
+    "geom:area_square_m":206403801.398879,
     "geom:bbox":"-91.481115,43.711609,-91.243955,43.90488",
     "geom:latitude":43.824728,
     "geom:longitude":-91.35785,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.82289,
     "lbl:longitude":-91.36636,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"La Crescent",
+    "mz:postal_locality_alt":[
+        "Hokah"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404511941,
         85633793,
-        102087605
+        102087605,
+        404511941,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782136"
     },
     "wof:country":"US",
-    "wof:geomhash":"8404e5e8b76b209635bf1be66380b3dd",
+    "wof:geomhash":"a71565621ea846980e0d12a42a402de8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554729639,
-    "wof:lastmodified":1480833245,
+    "wof:lastmodified":1611185437,
     "wof:name":"55947",
     "wof:parent_id":404511941,
     "wof:placetype":"postalcode",

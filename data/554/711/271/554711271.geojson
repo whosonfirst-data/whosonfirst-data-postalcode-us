@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004275,
-    "geom:area_square_m":43288724.813357,
+    "geom:area_square_m":43288724.813365,
     "geom:bbox":"-79.092153,34.998837,-78.897178,35.048791",
     "geom:latitude":35.025993,
     "geom:longitude":-78.989753,
@@ -13,20 +13,22 @@
     "lbl:latitude":35.025528,
     "lbl:longitude":-78.989604,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fayetteville",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688773,
         102191575,
         85633793,
+        102080897,
         85981411,
-        102080897
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12769543"
     },
     "wof:country":"US",
-    "wof:geomhash":"5a82924106aa3536620524a304cce766",
+    "wof:geomhash":"bf0f88d1c6a04a62926afb704fc3efd8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +40,7 @@
         }
     ],
     "wof:id":554711271,
-    "wof:lastmodified":1480904855,
+    "wof:lastmodified":1611185333,
     "wof:name":"28304",
     "wof:parent_id":85981411,
     "wof:placetype":"postalcode",

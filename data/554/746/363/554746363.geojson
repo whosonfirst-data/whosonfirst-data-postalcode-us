@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017521,
-    "geom:area_square_m":187852869.179679,
+    "geom:area_square_m":187852869.179674,
     "geom:bbox":"-94.057312,29.761432,-93.838775,29.968725",
     "geom:latitude":29.881117,
     "geom:longitude":-93.941038,
@@ -13,20 +13,26 @@
     "lbl:latitude":29.881613,
     "lbl:longitude":-93.940858,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Port Arthur",
+    "mz:postal_locality_alt":[
+        "Sour Lake",
+        "Port Acres"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102087325,
         101725143,
-        102087325
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12791741"
     },
     "wof:country":"US",
-    "wof:geomhash":"ba7dba1581bbc83557394b4c430f5859",
+    "wof:geomhash":"24dff56ae88fae0c1bfb5c7f0f0f7f42",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554746363,
-    "wof:lastmodified":1480817146,
+    "wof:lastmodified":1611183996,
     "wof:name":"77640",
     "wof:parent_id":101725143,
     "wof:placetype":"postalcode",

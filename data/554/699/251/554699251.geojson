@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005128,
-    "geom:area_square_m":45063784.905937,
+    "geom:area_square_m":45063784.905931,
     "geom:bbox":"-72.315313,44.651403,-72.193649,44.770379",
     "geom:latitude":44.710785,
     "geom:longitude":-72.256647,
@@ -14,20 +14,25 @@
     "lbl:latitude":44.709848,
     "lbl:longitude":-72.246956,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"West Glover",
+    "mz:postal_locality_alt":[
+        "Barton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688763,
         102191575,
-        404527265,
         85633793,
-        102087443
+        102087443,
+        404527265,
+        85688763
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760160"
     },
     "wof:country":"US",
-    "wof:geomhash":"a3310c88e81f15d9a6328069ce7f8869",
+    "wof:geomhash":"b9e75c66f95c8cf2ea7a64e4aa3fa7ac",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554699251,
-    "wof:lastmodified":1480784778,
+    "wof:lastmodified":1611184610,
     "wof:name":"05875",
     "wof:parent_id":404527265,
     "wof:placetype":"postalcode",

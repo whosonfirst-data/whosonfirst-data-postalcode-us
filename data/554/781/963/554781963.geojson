@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003928,
-    "geom:area_square_m":43437384.525171,
+    "geom:area_square_m":43437384.525207,
     "geom:bbox":"-81.975241,26.531754,-81.903677,26.607955",
     "geom:latitude":26.575947,
     "geom:longitude":-81.945365,
@@ -13,20 +13,25 @@
     "lbl:latitude":26.576012,
     "lbl:longitude":-81.944394,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cape Coral",
+    "mz:postal_locality_alt":[
+        "Fort Myers"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688651,
         102191575,
         85633793,
+        102084769,
         85932617,
-        102084769
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12772592"
     },
     "wof:country":"US",
-    "wof:geomhash":"a07b4961fbe1549405f0ae92bad1b695",
+    "wof:geomhash":"589353902baedad749f546aa9592127f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554781963,
-    "wof:lastmodified":1480798218,
+    "wof:lastmodified":1611184809,
     "wof:name":"33904",
     "wof:parent_id":85932617,
     "wof:placetype":"postalcode",

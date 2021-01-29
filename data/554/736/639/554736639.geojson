@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026728,
-    "geom:area_square_m":251551675.842196,
+    "geom:area_square_m":251551675.842189,
     "geom:bbox":"-95.235763,40.363229,-94.911722,40.510836",
     "geom:latitude":40.436856,
     "geom:longitude":-95.094723,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.43661,
     "lbl:longitude":-95.093894,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Burlington Junction",
+    "mz:postal_locality_alt":[
+        "Burlington Jct"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404517063,
         85633793,
-        102087507
+        102087507,
+        404517063,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786098"
     },
     "wof:country":"US",
-    "wof:geomhash":"cefae9cde031be6819ed5e790901bfa9",
+    "wof:geomhash":"da24ca97ecaea7eeab6979a444eabe22",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554736639,
-    "wof:lastmodified":1480788190,
+    "wof:lastmodified":1611183048,
     "wof:name":"64428",
     "wof:parent_id":404517063,
     "wof:placetype":"postalcode",

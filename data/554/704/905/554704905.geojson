@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006185,
-    "geom:area_square_m":58186108.711142,
+    "geom:area_square_m":58186108.711151,
     "geom:bbox":"-76.502579,40.42505,-76.35344,40.506094",
     "geom:latitude":40.462037,
     "geom:longitude":-76.428479,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.458441,
     "lbl:longitude":-76.431397,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fredericksburg",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485685,
         85633793,
-        102081341
+        102081341,
+        404485685,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764570"
     },
     "wof:country":"US",
-    "wof:geomhash":"e7c08cc1ffce19d2131a4b374a581313",
+    "wof:geomhash":"5c476d2e036c7d6c83c332a4315c97d4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554704905,
-    "wof:lastmodified":1480903404,
+    "wof:lastmodified":1611184508,
     "wof:name":"17026",
     "wof:parent_id":404485685,
     "wof:placetype":"postalcode",

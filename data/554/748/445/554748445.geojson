@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003361,
-    "geom:area_square_m":32410393.563864,
+    "geom:area_square_m":32410393.563859,
     "geom:bbox":"-104.770955,38.717514,-104.681831,38.781741",
     "geom:latitude":38.753271,
     "geom:longitude":-104.722041,
@@ -13,20 +13,25 @@
     "lbl:latitude":38.752916,
     "lbl:longitude":-104.723477,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Colorado Springs",
+    "mz:postal_locality_alt":[
+        "Fountain"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688603,
         102191575,
         85633793,
+        102086875,
         85930307,
-        102086875
+        85688603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12793246"
     },
     "wof:country":"US",
-    "wof:geomhash":"63287118c856339d0690ff51133fa1dd",
+    "wof:geomhash":"dc7d91eadf0a37de33a35ea6d1ea9aea",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554748445,
-    "wof:lastmodified":1480911912,
+    "wof:lastmodified":1611183857,
     "wof:name":"80911",
     "wof:parent_id":85930307,
     "wof:placetype":"postalcode",

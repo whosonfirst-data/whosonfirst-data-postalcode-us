@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0038,
-    "geom:area_square_m":35210636.291033,
+    "geom:area_square_m":35210636.291067,
     "geom:bbox":"-87.526169,41.399327,-87.475415,41.52315",
     "geom:latitude":41.465283,
     "geom:longitude":-87.508988,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.465265,
     "lbl:longitude":-87.508989,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Dyer",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404501873,
         85633793,
-        102087149
+        102087149,
+        404501873,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777713"
     },
     "wof:country":"US",
-    "wof:geomhash":"1204212bd79a7c1e13bb10cdf845ecf4",
+    "wof:geomhash":"c7fb4d7a49b2fda003aa857be983b96b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554782417,
-    "wof:lastmodified":1480903214,
+    "wof:lastmodified":1611183623,
     "wof:name":"46311",
     "wof:parent_id":404501873,
     "wof:placetype":"postalcode",

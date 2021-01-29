@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003453,
-    "geom:area_square_m":36890960.908937,
+    "geom:area_square_m":36890960.908936,
     "geom:bbox":"-85.714824,30.204019,-85.598052,30.264133",
     "geom:latitude":30.239353,
     "geom:longitude":-85.652099,
@@ -14,20 +14,25 @@
     "lbl:latitude":30.239945,
     "lbl:longitude":-85.6516,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lynn Haven",
+    "mz:postal_locality_alt":[
+        "Panama City"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688651,
         102191575,
         85633793,
+        102085835,
         85932503,
-        102085835
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12771716"
     },
     "wof:country":"US",
-    "wof:geomhash":"e180755a768c39d2cd6a1ddccf4f1094",
+    "wof:geomhash":"4cdd9f84a8d330ce62d2485018f2f3ba",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554781279,
-    "wof:lastmodified":1480805891,
+    "wof:lastmodified":1611184828,
     "wof:name":"32444",
     "wof:parent_id":85932503,
     "wof:placetype":"postalcode",

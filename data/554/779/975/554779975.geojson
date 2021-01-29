@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002694,
-    "geom:area_square_m":25274039.456615,
+    "geom:area_square_m":25274039.456636,
     "geom:bbox":"-73.573507,40.578006,-73.484827,40.715219",
     "geom:latitude":40.6508,
     "geom:longitude":-73.514164,
@@ -14,21 +14,26 @@
     "lbl:latitude":40.651288,
     "lbl:longitude":-73.514726,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wantagh",
+    "mz:postal_locality_alt":[
+        "Lake Grove"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404521473,
         85633793,
+        102082371,
+        404521473,
         85979065,
-        102082371
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761976"
     },
     "wof:country":"US",
-    "wof:geomhash":"aa596066450b49d28a35e5a77840f3db",
+    "wof:geomhash":"7488a872075325fc556dd56fbef58f64",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554779975,
-    "wof:lastmodified":1480790619,
+    "wof:lastmodified":1611183991,
     "wof:name":"11793",
     "wof:parent_id":85979065,
     "wof:placetype":"postalcode",

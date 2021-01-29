@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00391,
-    "geom:area_square_m":40580446.589095,
+    "geom:area_square_m":40580446.589101,
     "geom:bbox":"-96.662525,32.893943,-96.575249,32.969025",
     "geom:latitude":32.92769,
     "geom:longitude":-96.620104,
@@ -13,20 +13,25 @@
     "lbl:latitude":32.928902,
     "lbl:longitude":-96.619782,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Garland",
+    "mz:postal_locality_alt":[
+        "Richardson"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102080647,
         101724045,
-        102080647
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12790327"
     },
     "wof:country":"US",
-    "wof:geomhash":"461b9b8d05229f8e1a79abb6f820da2c",
+    "wof:geomhash":"d1e63fdacaaf50795ebf481af5e121c0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554744189,
-    "wof:lastmodified":1480904889,
+    "wof:lastmodified":1611184726,
     "wof:name":"75040",
     "wof:parent_id":101724045,
     "wof:placetype":"postalcode",

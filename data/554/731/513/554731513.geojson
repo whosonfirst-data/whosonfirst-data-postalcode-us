@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.068803,
-    "geom:area_square_m":609267846.381954,
+    "geom:area_square_m":609267846.382008,
     "geom:bbox":"-104.055408,44.140904,-103.711281,44.430854",
     "geom:latitude":44.263031,
     "geom:longitude":-103.871207,
@@ -14,20 +14,25 @@
     "lbl:latitude":44.255434,
     "lbl:longitude":-103.887569,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lead",
+    "mz:postal_locality_alt":[
+        "Central City"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688693,
         102191575,
-        404490327,
         85633793,
-        102086813
+        102086813,
+        404490327,
+        85688693
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12783072"
     },
     "wof:country":"US",
-    "wof:geomhash":"e279e42baa9cae4eba6cae0ef472c345",
+    "wof:geomhash":"32c209765de4ffed65b76d82a5d34038",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554731513,
-    "wof:lastmodified":1480914760,
+    "wof:lastmodified":1611183089,
     "wof:name":"57754",
     "wof:parent_id":404490327,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004398,
-    "geom:area_square_m":40022135.985482,
+    "geom:area_square_m":40022135.985432,
     "geom:bbox":"-73.956963,42.574488,-73.783968,42.644693",
     "geom:latitude":42.608741,
     "geom:longitude":-73.865813,
@@ -14,20 +14,25 @@
     "lbl:latitude":42.608547,
     "lbl:longitude":-73.864416,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Delmar",
+    "mz:postal_locality_alt":[
+        "Cohoes"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404521707,
         85633793,
-        102082353
+        102082353,
+        404521707,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762069"
     },
     "wof:country":"US",
-    "wof:geomhash":"4c474984e5df2c4987d4e2ef0c096809",
+    "wof:geomhash":"e7e790c21d599b51680b50e78b14b605",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554701111,
-    "wof:lastmodified":1480790024,
+    "wof:lastmodified":1611182626,
     "wof:name":"12054",
     "wof:parent_id":404521707,
     "wof:placetype":"postalcode",

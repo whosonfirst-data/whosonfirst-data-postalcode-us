@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043012,
-    "geom:area_square_m":405195672.892342,
+    "geom:area_square_m":405195672.892751,
     "geom:bbox":"-82.677832,40.264703,-82.320847,40.512281",
     "geom:latitude":40.372297,
     "geom:longitude":-82.495559,
@@ -14,21 +14,27 @@
     "lbl:latitude":40.373976,
     "lbl:longitude":-82.492721,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mount Vernon",
+    "mz:postal_locality_alt":[
+        "Mt Vernon",
+        "Danville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404526893,
         85633793,
+        102084811,
+        404526893,
         101713265,
-        102084811
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776116"
     },
     "wof:country":"US",
-    "wof:geomhash":"f5c4579590a3424e1fc695158f97ff31",
+    "wof:geomhash":"9055ebc81b0cc8d5a695c98161dd6668",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554720259,
-    "wof:lastmodified":1480834154,
+    "wof:lastmodified":1611185458,
     "wof:name":"43050",
     "wof:parent_id":101713265,
     "wof:placetype":"postalcode",

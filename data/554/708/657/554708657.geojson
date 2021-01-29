@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01761,
-    "geom:area_square_m":173691025.519036,
+    "geom:area_square_m":173691025.519175,
     "geom:bbox":"-80.668178,36.918029,-80.495884,37.194518",
     "geom:latitude":37.094895,
     "geom:longitude":-80.568293,
@@ -13,20 +13,25 @@
     "lbl:latitude":37.096142,
     "lbl:longitude":-80.568655,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Radford",
+    "mz:postal_locality_alt":[
+        "Fairlawn"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688747,
         102191575,
         85633793,
+        102081063,
         101728831,
-        102081063
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12767681"
     },
     "wof:country":"US",
-    "wof:geomhash":"482d16e047c19fcf04b1db02147d9df8",
+    "wof:geomhash":"1d1cc17255cde82347136133ffc7df5c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554708657,
-    "wof:lastmodified":1480911008,
+    "wof:lastmodified":1611182778,
     "wof:name":"24141",
     "wof:parent_id":101728831,
     "wof:placetype":"postalcode",

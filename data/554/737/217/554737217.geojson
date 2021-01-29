@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033613,
-    "geom:area_square_m":322932239.799557,
+    "geom:area_square_m":322932239.799653,
     "geom:bbox":"-92.120544,38.946857,-91.69801,39.064302",
     "geom:latitude":39.016252,
     "geom:longitude":-91.897876,
@@ -14,21 +14,26 @@
     "lbl:latitude":39.01654,
     "lbl:longitude":-91.897785,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Auxvasse",
+    "mz:postal_locality_alt":[
+        "Moberly"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404516437,
         85633793,
+        102087511,
+        404516437,
         85971401,
-        102087511
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786395"
     },
     "wof:country":"US",
-    "wof:geomhash":"ce7004ea9f15b768c4a9875334522444",
+    "wof:geomhash":"9b23816ad53746e59a6c3bbe9371d60a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554737217,
-    "wof:lastmodified":1480809654,
+    "wof:lastmodified":1611182832,
     "wof:name":"65231",
     "wof:parent_id":85971401,
     "wof:placetype":"postalcode",

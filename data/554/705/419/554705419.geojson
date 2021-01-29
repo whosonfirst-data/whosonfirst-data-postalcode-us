@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017351,
-    "geom:area_square_m":161964465.123076,
+    "geom:area_square_m":161964465.123162,
     "geom:bbox":"-77.062007,40.900408,-76.858886,41.0603",
     "geom:latitude":40.981099,
     "geom:longitude":-76.94855,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.974977,
     "lbl:longitude":-76.94515,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lewisburg",
+    "mz:postal_locality_alt":[
+        "Mifflinburg"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404487475,
         85633793,
-        102081335
+        102081335,
+        404487475,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764921"
     },
     "wof:country":"US",
-    "wof:geomhash":"93d2d372d202dfe4cb8bdab2f527b8f0",
+    "wof:geomhash":"7127af7f0f3c7612b4bab75c5cc2e730",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554705419,
-    "wof:lastmodified":1480831210,
+    "wof:lastmodified":1611184116,
     "wof:name":"17837",
     "wof:parent_id":404487475,
     "wof:placetype":"postalcode",

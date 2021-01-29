@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.051812,
-    "geom:area_square_m":525476279.635599,
+    "geom:area_square_m":525476279.635509,
     "geom:bbox":"-77.111531,34.802755,-76.65292,34.981971",
     "geom:latitude":34.894536,
     "geom:longitude":-76.89724,
@@ -14,20 +14,22 @@
     "lbl:latitude":34.896013,
     "lbl:longitude":-76.890788,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Havelock",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688773,
         102191575,
         85633793,
+        102087763,
         85980335,
-        102087763
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12769716"
     },
     "wof:country":"US",
-    "wof:geomhash":"e21a33be4378b70d5e1024438ed26837",
+    "wof:geomhash":"561abd9e7bfbea0bc5e91569cd09b0d0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554781045,
-    "wof:lastmodified":1480904314,
+    "wof:lastmodified":1611184828,
     "wof:name":"28532",
     "wof:parent_id":85980335,
     "wof:placetype":"postalcode",

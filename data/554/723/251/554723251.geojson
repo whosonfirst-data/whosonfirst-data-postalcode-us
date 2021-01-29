@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015946,
-    "geom:area_square_m":152585496.838599,
+    "geom:area_square_m":152585496.838562,
     "geom:bbox":"-85.865314,39.229074,-85.684515,39.350258",
     "geom:latitude":39.298621,
     "geom:longitude":-85.767323,
@@ -14,21 +14,26 @@
     "lbl:latitude":39.299251,
     "lbl:longitude":-85.767005,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hope",
+    "mz:postal_locality_alt":[
+        "Clarksburg"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404500135,
         85633793,
+        102087181,
+        404500135,
         85941381,
-        102087181
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778128"
     },
     "wof:country":"US",
-    "wof:geomhash":"185f7eb686933695971c2f8051f5093a",
+    "wof:geomhash":"b57fba8ea7031dfcbde9a5549024dddb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554723251,
-    "wof:lastmodified":1480908582,
+    "wof:lastmodified":1611183788,
     "wof:name":"47246",
     "wof:parent_id":85941381,
     "wof:placetype":"postalcode",

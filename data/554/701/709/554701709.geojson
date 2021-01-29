@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017133,
-    "geom:area_square_m":158437295.355788,
+    "geom:area_square_m":158437295.355836,
     "geom:bbox":"-75.074756,41.505371,-74.880522,41.684629",
     "geom:latitude":41.595268,
     "geom:longitude":-74.984583,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.591553,
     "lbl:longitude":-74.995556,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Narrowsburg",
+    "mz:postal_locality_alt":[
+        "Liberty"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404523205,
         85633793,
-        102082407
+        102082407,
+        404523205,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762438"
     },
     "wof:country":"US",
-    "wof:geomhash":"d52f231e888396bf90098926e142a1dd",
+    "wof:geomhash":"459295a77779a785531f28f0f9e3d585",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554701709,
-    "wof:lastmodified":1480832377,
+    "wof:lastmodified":1611182614,
     "wof:name":"12764",
     "wof:parent_id":404523205,
     "wof:placetype":"postalcode",

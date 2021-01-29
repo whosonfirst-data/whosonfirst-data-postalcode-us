@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027744,
-    "geom:area_square_m":266857521.704019,
+    "geom:area_square_m":266857521.703709,
     "geom:bbox":"-83.758846,38.80621,-83.537161,39.088504",
     "geom:latitude":38.933901,
     "geom:longitude":-83.665207,
@@ -14,20 +14,25 @@
     "lbl:latitude":38.931585,
     "lbl:longitude":-83.673683,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Winchester",
+    "mz:postal_locality_alt":[
+        "Seaman"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404523537,
         85633793,
-        102084821
+        102084821,
+        404523537,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777393"
     },
     "wof:country":"US",
-    "wof:geomhash":"7501b136529ff869ddd8beae26bed407",
+    "wof:geomhash":"f397361449caf1cf0be4cccc7c5862cb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554722139,
-    "wof:lastmodified":1480840118,
+    "wof:lastmodified":1611183233,
     "wof:name":"45697",
     "wof:parent_id":404523537,
     "wof:placetype":"postalcode",

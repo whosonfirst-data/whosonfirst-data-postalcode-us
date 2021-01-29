@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036876,
-    "geom:area_square_m":324340698.094086,
+    "geom:area_square_m":324340698.094186,
     "geom:bbox":"-70.229363,44.485235,-70.000831,44.82214",
     "geom:latitude":44.658917,
     "geom:longitude":-70.103297,
@@ -14,20 +14,26 @@
     "lbl:latitude":44.661856,
     "lbl:longitude":-70.103104,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Farmington",
+    "mz:postal_locality_alt":[
+        "Chesterville",
+        "North Anson"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404475455,
         85633793,
-        102087433
+        102087433,
+        404475455,
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759812"
     },
     "wof:country":"US",
-    "wof:geomhash":"517501a43f698f8f355154362a4899e9",
+    "wof:geomhash":"f4d2cff5d31e8a01660118955a845dbf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554698645,
-    "wof:lastmodified":1480786869,
+    "wof:lastmodified":1611184680,
     "wof:name":"04938",
     "wof:parent_id":404475455,
     "wof:placetype":"postalcode",

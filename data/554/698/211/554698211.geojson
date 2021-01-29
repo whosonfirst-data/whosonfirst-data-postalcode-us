@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014129,
-    "geom:area_square_m":126165600.048853,
+    "geom:area_square_m":126165600.048925,
     "geom:bbox":"-70.659622,43.687099,-70.44652,43.846069",
     "geom:latitude":43.76606,
     "geom:longitude":-70.565981,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.76214,
     "lbl:longitude":-70.566688,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Standish",
+    "mz:postal_locality_alt":[
+        "Steep Falls"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404475441,
         85633793,
-        102087463
+        102087463,
+        404475441,
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759430"
     },
     "wof:country":"US",
-    "wof:geomhash":"00cbc1d5dfa69d6c878d213fa9f0b6fb",
+    "wof:geomhash":"3f1275afdce38ddb362b43e7b21e1b0a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554698211,
-    "wof:lastmodified":1480788172,
+    "wof:lastmodified":1611184678,
     "wof:name":"04084",
     "wof:parent_id":404475441,
     "wof:placetype":"postalcode",

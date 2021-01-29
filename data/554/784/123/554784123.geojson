@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002248,
-    "geom:area_square_m":23080129.832294,
+    "geom:area_square_m":23080129.832269,
     "geom:bbox":"-118.108564,33.845875,-118.028581,33.887996",
     "geom:latitude":33.867889,
     "geom:longitude":-118.068723,
@@ -14,20 +14,25 @@
     "lbl:latitude":33.867743,
     "lbl:longitude":-118.069472,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cerritos",
+    "mz:postal_locality_alt":[
+        "Artesia"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086957,
         85923679,
-        102086957
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795829"
     },
     "wof:country":"US",
-    "wof:geomhash":"750f0014ece44621c6ff2b477f15b1e0",
+    "wof:geomhash":"fc8a38bf8d8c30365b91d53f05270938",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554784123,
-    "wof:lastmodified":1480912628,
+    "wof:lastmodified":1611183958,
     "wof:name":"90703",
     "wof:parent_id":85923679,
     "wof:placetype":"postalcode",

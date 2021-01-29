@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000984,
-    "geom:area_square_m":10110698.660952,
+    "geom:area_square_m":10110698.660968,
     "geom:bbox":"-117.95505,33.732483,-117.894101,33.775158",
     "geom:latitude":33.763961,
     "geom:longitude":-117.931365,
@@ -13,20 +13,26 @@
     "lbl:latitude":33.763961,
     "lbl:longitude":-117.931366,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Garden Grove",
+    "mz:postal_locality_alt":[
+        "Westminster",
+        "Santa Ana"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102080847,
         85923141,
-        102080847
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796653"
     },
     "wof:country":"US",
-    "wof:geomhash":"74a15b7c0ba5544825ac684cc9d36f60",
+    "wof:geomhash":"784b91d01dab39fa1de7fa2f8fa5e124",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554784505,
-    "wof:lastmodified":1480906254,
+    "wof:lastmodified":1611183928,
     "wof:name":"92843",
     "wof:parent_id":85923141,
     "wof:placetype":"postalcode",

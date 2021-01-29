@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005572,
-    "geom:area_square_m":53986691.978201,
+    "geom:area_square_m":53986691.978197,
     "geom:bbox":"-81.842215,38.372045,-81.695211,38.455751",
     "geom:latitude":38.416803,
     "geom:longitude":-81.756475,
@@ -13,19 +13,24 @@
     "lbl:latitude":38.419303,
     "lbl:longitude":-81.766456,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Charleston",
+    "mz:postal_locality_alt":[
+        "Cross Lanes"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688589,
-        102083335
+        102083335,
+        85688589
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12768251"
     },
     "wof:country":"US",
-    "wof:geomhash":"4ad5b3f9887297b7eddaff0495f43c62",
+    "wof:geomhash":"ba6d0f0909417bff0c53516139c8e5e2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +41,7 @@
         }
     ],
     "wof:id":554709531,
-    "wof:lastmodified":1480843099,
+    "wof:lastmodified":1611183005,
     "wof:name":"25313",
     "wof:parent_id":102083335,
     "wof:placetype":"postalcode",

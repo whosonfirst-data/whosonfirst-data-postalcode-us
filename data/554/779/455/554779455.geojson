@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00046,
-    "geom:area_square_m":4298450.211127,
+    "geom:area_square_m":4298450.21112,
     "geom:bbox":"-73.84414,40.91108,-73.805023,40.933951",
     "geom:latitude":40.923857,
     "geom:longitude":-73.825072,
@@ -13,21 +13,26 @@
     "lbl:latitude":40.92446,
     "lbl:longitude":-73.826115,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mount Vernon",
+    "mz:postal_locality_alt":[
+        "Mt Vernon"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404523371,
         85633793,
+        102082373,
+        404523371,
         85978721,
-        102082373
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761564"
     },
     "wof:country":"US",
-    "wof:geomhash":"8afff335b268021091b90840be51e316",
+    "wof:geomhash":"b3c5ede3c6b05ca1d6b6d291cf13df74",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554779455,
-    "wof:lastmodified":1480796132,
+    "wof:lastmodified":1611183971,
     "wof:name":"10552",
     "wof:parent_id":85978721,
     "wof:placetype":"postalcode",

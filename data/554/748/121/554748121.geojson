@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.083641,
-    "geom:area_square_m":790246807.889486,
+    "geom:area_square_m":790246807.889009,
     "geom:bbox":"-106.154674,39.943393,-105.634947,40.373295",
     "geom:latitude":40.174226,
     "geom:longitude":-105.952536,
@@ -14,19 +14,24 @@
     "lbl:latitude":40.176381,
     "lbl:longitude":-105.949079,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Granby",
+    "mz:postal_locality_alt":[
+        "Grand Lake"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688603,
-        102085239
+        102085239,
+        85688603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12793055"
     },
     "wof:country":"US",
-    "wof:geomhash":"7e8ae2ffc78fbac05ef0d8caf9060e0e",
+    "wof:geomhash":"30cafedff19f53978973826e77ee1f66",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554748121,
-    "wof:lastmodified":1480806856,
+    "wof:lastmodified":1611183843,
     "wof:name":"80446",
     "wof:parent_id":102085239,
     "wof:placetype":"postalcode",

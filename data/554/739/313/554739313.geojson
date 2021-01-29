@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.211706,
-    "geom:area_square_m":2061852243.652523,
+    "geom:area_square_m":2061852243.653061,
     "geom:bbox":"-101.089886,37.736337,-100.445145,38.366253",
     "geom:latitude":38.034877,
     "geom:longitude":-100.767015,
@@ -14,20 +14,27 @@
     "lbl:latitude":38.034156,
     "lbl:longitude":-100.768068,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Garden City",
+    "mz:postal_locality_alt":[
+        "Holcomb",
+        "Jetmore",
+        "Cimarron"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404503617,
         85633793,
-        102082153
+        102082153,
+        404503617,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787432"
     },
     "wof:country":"US",
-    "wof:geomhash":"36478b649bf6800584e1dc55eaa18098",
+    "wof:geomhash":"5493bc8cad23a3f4dba14c0fc3c81abc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554739313,
-    "wof:lastmodified":1480841099,
+    "wof:lastmodified":1611182664,
     "wof:name":"67846",
     "wof:parent_id":404503617,
     "wof:placetype":"postalcode",

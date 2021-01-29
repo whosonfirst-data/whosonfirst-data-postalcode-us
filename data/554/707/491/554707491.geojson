@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011774,
-    "geom:area_square_m":112611778.364534,
+    "geom:area_square_m":112611778.36453,
     "geom:bbox":"-77.140349,39.250016,-76.992153,39.440177",
     "geom:latitude":39.333607,
     "geom:longitude":-77.06992,
@@ -14,19 +14,25 @@
     "lbl:latitude":39.328183,
     "lbl:longitude":-77.071411,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Woodbine",
+    "mz:postal_locality_alt":[
+        "Frederick",
+        "Lisbon"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688501,
-        102084263
+        102084263,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766731"
     },
     "wof:country":"US",
-    "wof:geomhash":"bced82dbb561f7289c6bef2a5e2ef23f",
+    "wof:geomhash":"cbbb09eb0b227e63a9cd20df102a6e2f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554707491,
-    "wof:lastmodified":1480800772,
+    "wof:lastmodified":1611183145,
     "wof:name":"21797",
     "wof:parent_id":102084263,
     "wof:placetype":"postalcode",

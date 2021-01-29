@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010162,
-    "geom:area_square_m":96668424.425886,
+    "geom:area_square_m":96668424.425865,
     "geom:bbox":"-74.343048,39.646828,-74.148647,39.759311",
     "geom:latitude":39.705901,
     "geom:longitude":-74.247384,
@@ -14,20 +14,27 @@
     "lbl:latitude":39.71275,
     "lbl:longitude":-74.231,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Manahawkin",
+    "mz:postal_locality_alt":[
+        "Barnegat",
+        "Marlton",
+        "Swedesboro"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477801,
         85633793,
-        102081485
+        102081485,
+        404477801,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761020"
     },
     "wof:country":"US",
-    "wof:geomhash":"d0f34a9dd05200f67adb5d4c602ae795",
+    "wof:geomhash":"2754d52cfc1ee554a7e672baf1bb9a29",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554779187,
-    "wof:lastmodified":1480817270,
+    "wof:lastmodified":1611183973,
     "wof:name":"08050",
     "wof:parent_id":404477801,
     "wof:placetype":"postalcode",

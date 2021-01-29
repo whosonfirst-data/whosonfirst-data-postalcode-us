@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001879,
-    "geom:area_square_m":17295803.271626,
+    "geom:area_square_m":17295803.27162,
     "geom:bbox":"-88.004717,41.844768,-87.947901,41.920236",
     "geom:latitude":41.878168,
     "geom:longitude":-87.97634,
@@ -14,21 +14,28 @@
     "lbl:latitude":41.876897,
     "lbl:longitude":-87.976328,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Villa Park",
+    "mz:postal_locality_alt":[
+        "Oakbrook Terrace",
+        "Elgin",
+        "Warrenville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404497661,
         85633793,
+        102081257,
+        404497661,
         85940149,
-        102081257
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784087"
     },
     "wof:country":"US",
-    "wof:geomhash":"00ce22b7f2e9e0d179bf7fceac8f9ab7",
+    "wof:geomhash":"5acf1cf59b13595e52004b9ec1fb3330",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +48,7 @@
         }
     ],
     "wof:id":554733301,
-    "wof:lastmodified":1480830867,
+    "wof:lastmodified":1611184213,
     "wof:name":"60181",
     "wof:parent_id":85940149,
     "wof:placetype":"postalcode",

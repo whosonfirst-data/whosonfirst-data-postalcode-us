@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005712,
-    "geom:area_square_m":52089124.070277,
+    "geom:area_square_m":52089124.070266,
     "geom:bbox":"-71.498546,42.436937,-71.384899,42.533992",
     "geom:latitude":42.48416,
     "geom:longitude":-71.438032,
@@ -14,20 +14,26 @@
     "lbl:latitude":42.483953,
     "lbl:longitude":-71.438495,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Acton",
+    "mz:postal_locality_alt":[
+        "Holliston",
+        "Bolton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476315,
         85633793,
-        102084643
+        102084643,
+        404476315,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758549"
     },
     "wof:country":"US",
-    "wof:geomhash":"ecd087269f3dc91896c538f47b6d4d0c",
+    "wof:geomhash":"5bf8592aefd5cf9b88e471349ec1ee2d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554697195,
-    "wof:lastmodified":1480799918,
+    "wof:lastmodified":1611184636,
     "wof:name":"01720",
     "wof:parent_id":404476315,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034498,
-    "geom:area_square_m":328553570.630806,
+    "geom:area_square_m":328553570.630704,
     "geom:bbox":"-85.035986,39.51735,-84.814344,39.726772",
     "geom:latitude":39.627732,
     "geom:longitude":-84.919449,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.623111,
     "lbl:longitude":-84.925152,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Liberty",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404501955,
         85633793,
-        102087111
+        102087111,
+        404501955,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778175"
     },
     "wof:country":"US",
-    "wof:geomhash":"44545d30f6e71f46ad97afb4488a90bf",
+    "wof:geomhash":"07b2f0e04db3df44a8a295d6abd3322b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554723329,
-    "wof:lastmodified":1480915792,
+    "wof:lastmodified":1611183810,
     "wof:name":"47353",
     "wof:parent_id":404501955,
     "wof:placetype":"postalcode",

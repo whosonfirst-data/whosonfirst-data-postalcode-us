@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024036,
-    "geom:area_square_m":250794539.982474,
+    "geom:area_square_m":250794539.982182,
     "geom:bbox":"-86.829873,32.353375,-86.588261,32.559226",
     "geom:latitude":32.453242,
     "geom:longitude":-86.723903,
@@ -14,19 +14,24 @@
     "lbl:latitude":32.451904,
     "lbl:longitude":-86.723821,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Autaugaville",
+    "mz:postal_locality_alt":[
+        "Winslow"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688675,
-        102085509
+        102085509,
+        85688675
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12773319"
     },
     "wof:country":"US",
-    "wof:geomhash":"6a92daa7fc005485ad76885d953a0afe",
+    "wof:geomhash":"2651515b526eeee852e79f5ab70e8d5f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554715773,
-    "wof:lastmodified":1480815391,
+    "wof:lastmodified":1611183687,
     "wof:name":"36003",
     "wof:parent_id":102085509,
     "wof:placetype":"postalcode",

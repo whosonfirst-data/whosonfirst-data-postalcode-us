@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00036,
-    "geom:area_square_m":3359520.114644,
+    "geom:area_square_m":3359520.114654,
     "geom:bbox":"-73.833517,40.944078,-73.813077,40.980712",
     "geom:latitude":40.960535,
     "geom:longitude":-73.822732,
@@ -13,21 +13,28 @@
     "lbl:latitude":40.960533,
     "lbl:longitude":-73.822732,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Tuckahoe",
+    "mz:postal_locality_alt":[
+        "Eastchester",
+        "Yonkers",
+        "Scarsdale"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404523397,
         85633793,
+        102082373,
+        404523397,
         85978759,
-        102082373
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761612"
     },
     "wof:country":"US",
-    "wof:geomhash":"9877e85ca2419bdc53e502e9a65bc30c",
+    "wof:geomhash":"b1cb77d2d03c6e42e56f5a309eea0b11",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +47,7 @@
         }
     ],
     "wof:id":554779471,
-    "wof:lastmodified":1480796131,
+    "wof:lastmodified":1611183966,
     "wof:name":"10707",
     "wof:parent_id":85978759,
     "wof:placetype":"postalcode",

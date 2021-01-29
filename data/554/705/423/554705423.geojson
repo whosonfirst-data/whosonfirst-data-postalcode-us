@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023071,
-    "geom:area_square_m":215941136.535233,
+    "geom:area_square_m":215941136.535234,
     "geom:bbox":"-77.163736,40.727897,-76.900147,40.869387",
     "geom:latitude":40.804023,
     "geom:longitude":-77.041712,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.80295,
     "lbl:longitude":-77.040151,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Middleburg",
+    "mz:postal_locality_alt":[
+        "Millville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404483995,
         85633793,
-        102083759
+        102083759,
+        404483995,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764925"
     },
     "wof:country":"US",
-    "wof:geomhash":"f3a6e0499ba6915624ed0ef07a9a154c",
+    "wof:geomhash":"a7b661b0198a03c21da951901b5a7354",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554705423,
-    "wof:lastmodified":1480836806,
+    "wof:lastmodified":1611184099,
     "wof:name":"17842",
     "wof:parent_id":404483995,
     "wof:placetype":"postalcode",

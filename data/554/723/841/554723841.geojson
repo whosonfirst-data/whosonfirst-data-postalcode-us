@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009449,
-    "geom:area_square_m":85542717.541491,
+    "geom:area_square_m":85542717.541469,
     "geom:bbox":"-83.1043,42.888647,-82.983647,42.983409",
     "geom:latitude":42.932594,
     "geom:longitude":-83.040659,
@@ -14,20 +14,22 @@
     "lbl:latitude":42.93024,
     "lbl:longitude":-83.039995,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Almont",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404508047,
         85633793,
-        102083637
+        102083637,
+        404508047,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778519"
     },
     "wof:country":"US",
-    "wof:geomhash":"6d87c1f605468cb9c0943fceeaaec77a",
+    "wof:geomhash":"faeb09eefb1ab2f9d08e2479bab1acc7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554723841,
-    "wof:lastmodified":1480842996,
+    "wof:lastmodified":1611183799,
     "wof:name":"48003",
     "wof:parent_id":404508047,
     "wof:placetype":"postalcode",

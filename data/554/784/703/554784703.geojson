@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000294,
-    "geom:area_square_m":2868328.909179,
+    "geom:area_square_m":2868328.909185,
     "geom:bbox":"-122.452858,37.791703,-122.423705,37.809728",
     "geom:latitude":37.800789,
     "geom:longitude":-122.43863,
@@ -13,13 +13,18 @@
     "lbl:latitude":37.800934,
     "lbl:longitude":-122.438366,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"San Francisco",
+    "mz:postal_locality_alt":[
+        "San Francisco "
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102087579,
         85922583,
-        102087579
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554784703,
-    "wof:lastmodified":1496430371,
+    "wof:lastmodified":1611183947,
     "wof:name":"94123",
     "wof:parent_id":85922583,
     "wof:placetype":"postalcode",

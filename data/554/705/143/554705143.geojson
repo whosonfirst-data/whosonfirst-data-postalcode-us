@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011574,
-    "geom:area_square_m":109682421.915959,
+    "geom:area_square_m":109682421.916077,
     "geom:bbox":"-77.096854,39.905569,-76.916761,40.035459",
     "geom:latitude":39.966895,
     "geom:longitude":-77.004256,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.965466,
     "lbl:longitude":-77.007959,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"East Berlin",
+    "mz:postal_locality_alt":[
+        "Red Lion"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404484917,
         85633793,
-        102080899
+        102080899,
+        404484917,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764730"
     },
     "wof:country":"US",
-    "wof:geomhash":"1661d5b560050fbc812ecd94a6887fe8",
+    "wof:geomhash":"60e49324193d5c8ddef1c9f630748235",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554705143,
-    "wof:lastmodified":1480903985,
+    "wof:lastmodified":1611184108,
     "wof:name":"17316",
     "wof:parent_id":404484917,
     "wof:placetype":"postalcode",

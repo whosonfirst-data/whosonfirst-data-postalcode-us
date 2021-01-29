@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001109,
-    "geom:area_square_m":11363243.070554,
+    "geom:area_square_m":11363243.070555,
     "geom:bbox":"-118.176027,34.00721,-118.126646,34.051585",
     "geom:latitude":34.024516,
     "geom:longitude":-118.156059,
@@ -13,20 +13,26 @@
     "lbl:latitude":34.023728,
     "lbl:longitude":-118.156274,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Los Angeles",
+    "mz:postal_locality_alt":[
+        "Commerce",
+        "East Los Angeles"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086957,
         85928323,
-        102086957
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795630"
     },
     "wof:country":"US",
-    "wof:geomhash":"81cb587a5813e7da3e3c4899c1a5a3c2",
+    "wof:geomhash":"eecf369f90736a634086a2b80398da7f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554751803,
-    "wof:lastmodified":1480912616,
+    "wof:lastmodified":1611184335,
     "wof:name":"90022",
     "wof:parent_id":85928323,
     "wof:placetype":"postalcode",

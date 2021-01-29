@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034659,
-    "geom:area_square_m":320413537.378887,
+    "geom:area_square_m":320413537.378782,
     "geom:bbox":"-79.859512,41.514718,-79.533492,41.736645",
     "geom:latitude":41.613735,
     "geom:longitude":-79.706415,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.613725,
     "lbl:longitude":-79.706464,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Titusville",
+    "mz:postal_locality_alt":[
+        "Franklin"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404487525,
         85633793,
-        102081279
+        102081279,
+        404487525,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764272"
     },
     "wof:country":"US",
-    "wof:geomhash":"c71b87dcff8e07155991c387e83e84f4",
+    "wof:geomhash":"093d936ae06738e1a14c6c2770897f2e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554704489,
-    "wof:lastmodified":1480906217,
+    "wof:lastmodified":1611184514,
     "wof:name":"16354",
     "wof:parent_id":404487525,
     "wof:placetype":"postalcode",

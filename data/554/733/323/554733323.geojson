@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000556,
-    "geom:area_square_m":5104467.137131,
+    "geom:area_square_m":5104467.137123,
     "geom:bbox":"-88.111441,42.046029,-88.077898,42.084606",
     "geom:latitude":42.06709,
     "geom:longitude":-88.091267,
@@ -13,20 +13,25 @@
     "lbl:latitude":42.074962,
     "lbl:longitude":-88.086283,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Schaumburg",
+    "mz:postal_locality_alt":[
+        "Hoffman Estates"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404497645,
         85633793,
-        102084317
+        102084317,
+        404497645,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784101"
     },
     "wof:country":"US",
-    "wof:geomhash":"8d78fb4b42990f0baf55e9765f06f0f8",
+    "wof:geomhash":"7ec41129655a304b7ab5aabe6cad1a17",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554733323,
-    "wof:lastmodified":1480802059,
+    "wof:lastmodified":1611184226,
     "wof:name":"60195",
     "wof:parent_id":404497645,
     "wof:placetype":"postalcode",

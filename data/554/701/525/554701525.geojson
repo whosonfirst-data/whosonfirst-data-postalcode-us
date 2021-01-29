@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002789,
-    "geom:area_square_m":25863199.466005,
+    "geom:area_square_m":25863199.466011,
     "geom:bbox":"-74.074245,41.378416,-73.991819,41.455296",
     "geom:latitude":41.416236,
     "geom:longitude":-74.03945,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.416157,
     "lbl:longitude":-74.043064,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cornwall",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522801,
         85633793,
-        102083061
+        102083061,
+        404522801,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762339"
     },
     "wof:country":"US",
-    "wof:geomhash":"64dfde901428e4d71fe3597df4000782",
+    "wof:geomhash":"d87e8ebe94f2495020c89a603b4fab1e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554701525,
-    "wof:lastmodified":1480834093,
+    "wof:lastmodified":1611182645,
     "wof:name":"12518",
     "wof:parent_id":404522801,
     "wof:placetype":"postalcode",

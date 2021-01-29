@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006664,
-    "geom:area_square_m":58330382.249218,
+    "geom:area_square_m":58330382.249281,
     "geom:bbox":"-93.747307,44.890964,-93.599021,44.978645",
     "geom:latitude":44.937242,
     "geom:longitude":-93.672499,
@@ -14,21 +14,26 @@
     "lbl:latitude":44.936992,
     "lbl:longitude":-93.677795,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mound",
+    "mz:postal_locality_alt":[
+        "Howard Lake"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404511891,
         85633793,
+        102087709,
+        404511891,
         85969151,
-        102087709
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781846"
     },
     "wof:country":"US",
-    "wof:geomhash":"db35203ae8e785bfc7ce9a13d4546fc9",
+    "wof:geomhash":"248ec17327d7ec7d976e671b9bcaf35f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554729241,
-    "wof:lastmodified":1480789094,
+    "wof:lastmodified":1611185430,
     "wof:name":"55364",
     "wof:parent_id":85969151,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000116,
-    "geom:area_square_m":1095881.383087,
+    "geom:area_square_m":1095881.383088,
     "geom:bbox":"-85.528749,39.898723,-85.513851,39.9116",
     "geom:latitude":39.905401,
     "geom:longitude":-85.522188,
@@ -14,21 +14,26 @@
     "lbl:latitude":39.906726,
     "lbl:longitude":-85.524555,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Kennard",
+    "mz:postal_locality_alt":[
+        "Shirley"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404500799,
         85633793,
+        102087085,
+        404500799,
         85942319,
-        102087085
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778173"
     },
     "wof:country":"US",
-    "wof:geomhash":"8d14c2d30a9ca522c95ba8d7b8291cf8",
+    "wof:geomhash":"c09a1ff7369b32e19fc02dc060a19b59",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554770903,
-    "wof:lastmodified":1480783410,
+    "wof:lastmodified":1611183921,
     "wof:name":"47351",
     "wof:parent_id":85942319,
     "wof:placetype":"postalcode",

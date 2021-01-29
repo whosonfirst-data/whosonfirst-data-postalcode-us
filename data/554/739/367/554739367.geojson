@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.168403,
-    "geom:area_square_m":1650138590.618237,
+    "geom:area_square_m":1650138590.617167,
     "geom:bbox":"-101.527175,37.387719,-101.089363,37.904691",
     "geom:latitude":37.585048,
     "geom:longitude":-101.314728,
@@ -14,20 +14,25 @@
     "lbl:latitude":37.58227,
     "lbl:longitude":-101.323591,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ulysses",
+    "mz:postal_locality_alt":[
+        "Lakin"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404502389,
         85633793,
-        102083419
+        102083419,
+        404502389,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787456"
     },
     "wof:country":"US",
-    "wof:geomhash":"763660f5ab79b812ff52f2ba01c4e10e",
+    "wof:geomhash":"2beb8017e7699e7c30d1d6016646ad6c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554739367,
-    "wof:lastmodified":1480834575,
+    "wof:lastmodified":1611182668,
     "wof:name":"67880",
     "wof:parent_id":404502389,
     "wof:placetype":"postalcode",

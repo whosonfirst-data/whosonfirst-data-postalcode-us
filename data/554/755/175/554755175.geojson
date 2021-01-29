@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033022,
-    "geom:area_square_m":292341146.323523,
+    "geom:area_square_m":292341146.323577,
     "geom:bbox":"-121.362962,44.15881,-121.011606,44.367084",
     "geom:latitude":44.278512,
     "geom:longitude":-121.213822,
@@ -14,19 +14,24 @@
     "lbl:latitude":44.283326,
     "lbl:longitude":-121.216724,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Redmond",
+    "mz:postal_locality_alt":[
+        "Bend"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688513,
-        102082251
+        102082251,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12798800"
     },
     "wof:country":"US",
-    "wof:geomhash":"c8c1dd040e733d1076fc85b2bf9a18be",
+    "wof:geomhash":"e5bf70b52ef8dd0ec4627ffda5b1862d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554755175,
-    "wof:lastmodified":1480816576,
+    "wof:lastmodified":1611182583,
     "wof:name":"97756",
     "wof:parent_id":102082251,
     "wof:placetype":"postalcode",

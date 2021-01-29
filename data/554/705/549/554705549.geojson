@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017098,
-    "geom:area_square_m":159915494.479755,
+    "geom:area_square_m":159915494.479778,
     "geom:bbox":"-75.24113,40.769938,-75.083635,40.948395",
     "geom:latitude":40.853038,
     "geom:longitude":-75.171754,
@@ -14,20 +14,26 @@
     "lbl:latitude":40.848762,
     "lbl:longitude":-75.177293,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bangor",
+    "mz:postal_locality_alt":[
+        "Roseto",
+        "Easton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404486387,
         85633793,
-        102081395
+        102081395,
+        404486387,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765017"
     },
     "wof:country":"US",
-    "wof:geomhash":"2ca668caa2ab9c322e958102e96d9eb5",
+    "wof:geomhash":"fc84352c5d80a400994f85c05956abae",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554705549,
-    "wof:lastmodified":1480906476,
+    "wof:lastmodified":1611184125,
     "wof:name":"18013",
     "wof:parent_id":404486387,
     "wof:placetype":"postalcode",

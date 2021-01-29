@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016892,
-    "geom:area_square_m":151201440.140216,
+    "geom:area_square_m":151201440.140224,
     "geom:bbox":"-73.011453,43.572058,-72.772829,43.706773",
     "geom:latitude":43.624747,
     "geom:longitude":-72.910044,
@@ -13,20 +13,25 @@
     "lbl:latitude":43.624578,
     "lbl:longitude":-72.910204,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Rutland",
+    "mz:postal_locality_alt":[
+        "Killington"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688763,
         102191575,
-        404527299,
         85633793,
-        102080771
+        102080771,
+        404527299,
+        85688763
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760070"
     },
     "wof:country":"US",
-    "wof:geomhash":"94a42fd6d7a84d18cb367194e01df553",
+    "wof:geomhash":"f85ce4899d1f6adf52ee6dce953aa64f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554699085,
-    "wof:lastmodified":1480905331,
+    "wof:lastmodified":1611184606,
     "wof:name":"05701",
     "wof:parent_id":404527299,
     "wof:placetype":"postalcode",

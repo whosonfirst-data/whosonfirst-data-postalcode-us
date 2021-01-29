@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.05579,
-    "geom:area_square_m":533155141.537495,
+    "geom:area_square_m":533155141.537749,
     "geom:bbox":"-79.487651,39.202107,-79.231907,39.557125",
     "geom:latitude":39.389031,
     "geom:longitude":-79.3909,
@@ -14,20 +14,28 @@
     "lbl:latitude":39.389381,
     "lbl:longitude":-79.390745,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Oakland",
+    "mz:postal_locality_alt":[
+        "Mountain Lake Pk",
+        "Deer Park",
+        "Mc Henry",
+        "Crellin"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688501,
         102191575,
         85633793,
+        102082181,
         85949215,
-        102082181
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766590"
     },
     "wof:country":"US",
-    "wof:geomhash":"01998ff012e6b05b323eb943f4063ba9",
+    "wof:geomhash":"0e80c54e4ac5f1a9edbd02e46b34b2fa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +47,7 @@
         }
     ],
     "wof:id":554707331,
-    "wof:lastmodified":1480841111,
+    "wof:lastmodified":1611183130,
     "wof:name":"21550",
     "wof:parent_id":85949215,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000254,
-    "geom:area_square_m":2395178.726239,
+    "geom:area_square_m":2395178.726226,
     "geom:bbox":"-79.651637,40.323208,-79.625336,40.34579",
     "geom:latitude":40.335305,
     "geom:longitude":-79.637074,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.335305,
     "lbl:longitude":-79.637074,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Penn",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404487553,
         85633793,
-        102081383
+        102081383,
+        404487553,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763943"
     },
     "wof:country":"US",
-    "wof:geomhash":"dd0c9c46d1208bc08aea9c88f4393ddd",
+    "wof:geomhash":"aa61d7f45f9ce5b2d081b204b9546571",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554703963,
-    "wof:lastmodified":1480823408,
+    "wof:lastmodified":1611184449,
     "wof:name":"15675",
     "wof:parent_id":404487553,
     "wof:placetype":"postalcode",

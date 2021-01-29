@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00239,
-    "geom:area_square_m":24563547.803837,
+    "geom:area_square_m":24563547.80385,
     "geom:bbox":"-118.29749,33.749144,-118.220749,33.804774",
     "geom:latitude":33.778649,
     "geom:longitude":-118.261678,
@@ -13,20 +13,25 @@
     "lbl:latitude":33.779285,
     "lbl:longitude":-118.261724,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wilmington",
+    "mz:postal_locality_alt":[
+        "Los Angeles"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086957,
         85923517,
-        102086957
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795851"
     },
     "wof:country":"US",
-    "wof:geomhash":"e97852869d9d9b9b7f4fb32731948523",
+    "wof:geomhash":"24c84f1e244c9e0957bba6873e5915ce",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554784159,
-    "wof:lastmodified":1480912623,
+    "wof:lastmodified":1611183928,
     "wof:name":"90744",
     "wof:parent_id":85923517,
     "wof:placetype":"postalcode",

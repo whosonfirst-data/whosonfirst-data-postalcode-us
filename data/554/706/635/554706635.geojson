@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011821,
-    "geom:area_square_m":113458133.88641,
+    "geom:area_square_m":113458133.88632,
     "geom:bbox":"-75.740772,39.031171,-75.486519,39.13687",
     "geom:latitude":39.083337,
     "geom:longitude":-75.629073,
@@ -14,19 +14,26 @@
     "lbl:latitude":39.084727,
     "lbl:longitude":-75.627355,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Camden Wyoming",
+    "mz:postal_locality_alt":[
+        "Camden",
+        "Wyoming",
+        "Dover"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688611,
-        102083871
+        102083871,
+        85688611
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765802"
     },
     "wof:country":"US",
-    "wof:geomhash":"f4f8b4b06ce7edf5a474f488818b3b61",
+    "wof:geomhash":"7ae1f62c4d63107b47716f9c433d7188",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +44,7 @@
         }
     ],
     "wof:id":554706635,
-    "wof:lastmodified":1480837457,
+    "wof:lastmodified":1611182694,
     "wof:name":"19934",
     "wof:parent_id":102083871,
     "wof:placetype":"postalcode",

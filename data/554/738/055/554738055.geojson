@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001831,
-    "geom:area_square_m":17605252.910564,
+    "geom:area_square_m":17605252.910542,
     "geom:bbox":"-94.853353,38.94135,-94.795936,38.985312",
     "geom:latitude":38.96109,
     "geom:longitude":-94.821481,
@@ -13,21 +13,26 @@
     "lbl:latitude":38.959691,
     "lbl:longitude":-94.819014,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Shawnee Mission",
+    "mz:postal_locality_alt":[
+        "Lenexa"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404504345,
         85633793,
+        102082673,
+        404504345,
         85945795,
-        102082673
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786808"
     },
     "wof:country":"US",
-    "wof:geomhash":"7c1dcd8bb24ecd6b47d728ddeb7fdc5a",
+    "wof:geomhash":"ba1fcaccc7a8c1f922ce8b8008fd756c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554738055,
-    "wof:lastmodified":1480792905,
+    "wof:lastmodified":1611183103,
     "wof:name":"66220",
     "wof:parent_id":85945795,
     "wof:placetype":"postalcode",

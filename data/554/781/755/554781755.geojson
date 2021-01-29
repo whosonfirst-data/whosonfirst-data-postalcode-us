@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001833,
-    "geom:area_square_m":20278591.666177,
+    "geom:area_square_m":20278591.666187,
     "geom:bbox":"-80.085293,26.483132,-80.037645,26.566799",
     "geom:latitude":26.52538,
     "geom:longitude":-80.060997,
@@ -13,20 +13,28 @@
     "lbl:latitude":26.525785,
     "lbl:longitude":-80.061367,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Boynton Beach",
+    "mz:postal_locality_alt":[
+        "Ocean Ridge",
+        "Lantana",
+        "Palm Beach Gardens",
+        "Riviera Beach"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688651,
         102191575,
         85633793,
+        102085845,
         85932077,
-        102085845
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12772307"
     },
     "wof:country":"US",
-    "wof:geomhash":"b3caef59b11ae3ba78588c3080a91c12",
+    "wof:geomhash":"87de9b9a46ba39bd8284830bc8a30348",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +46,7 @@
         }
     ],
     "wof:id":554781755,
-    "wof:lastmodified":1480803999,
+    "wof:lastmodified":1611184807,
     "wof:name":"33435",
     "wof:parent_id":85932077,
     "wof:placetype":"postalcode",

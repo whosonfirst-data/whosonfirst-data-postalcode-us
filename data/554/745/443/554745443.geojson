@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028913,
-    "geom:area_square_m":306284848.913799,
+    "geom:area_square_m":306284848.913987,
     "geom:bbox":"-97.63726,30.922557,-97.38244,31.20267",
     "geom:latitude":31.051368,
     "geom:longitude":-97.499658,
@@ -14,20 +14,26 @@
     "lbl:latitude":31.051688,
     "lbl:longitude":-97.499909,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Belton",
+    "mz:postal_locality_alt":[
+        "Temple",
+        "Salado"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102087307,
         101725393,
-        102087307
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12791112"
     },
     "wof:country":"US",
-    "wof:geomhash":"b74c4bcce44617576dfd81a5d0dadee8",
+    "wof:geomhash":"bcfc46f4d0c5c8338d60fe4ac2d391c3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554745443,
-    "wof:lastmodified":1480782196,
+    "wof:lastmodified":1611185280,
     "wof:name":"76513",
     "wof:parent_id":101725393,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.07829,
-    "geom:area_square_m":756015369.19936,
+    "geom:area_square_m":756015369.199657,
     "geom:bbox":"-96.664853,38.515799,-96.260853,38.812341",
     "geom:latitude":38.652616,
     "geom:longitude":-96.473453,
@@ -14,20 +14,25 @@
     "lbl:latitude":38.64747,
     "lbl:longitude":-96.470435,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Council Grove",
+    "mz:postal_locality_alt":[
+        "Alta Vista"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404504671,
         85633793,
-        102083433
+        102083433,
+        404504671,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787007"
     },
     "wof:country":"US",
-    "wof:geomhash":"ba8fc67a59ac028f12df7d5d8edad93d",
+    "wof:geomhash":"03e784b0be8877a92e4d72702bacbf46",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554738415,
-    "wof:lastmodified":1480834984,
+    "wof:lastmodified":1611183100,
     "wof:name":"66846",
     "wof:parent_id":404504671,
     "wof:placetype":"postalcode",

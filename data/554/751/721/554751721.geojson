@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002626,
-    "geom:area_square_m":25039523.672703,
+    "geom:area_square_m":25039523.67264,
     "geom:bbox":"-119.781235,39.512169,-119.691285,39.576642",
     "geom:latitude":39.540444,
     "geom:longitude":-119.749465,
@@ -13,20 +13,25 @@
     "lbl:latitude":39.540398,
     "lbl:longitude":-119.749111,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Sparks",
+    "mz:postal_locality_alt":[
+        "Gardnerville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688531,
         102191575,
         85633793,
+        102081533,
         85974781,
-        102081533
+        85688531
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795541"
     },
     "wof:country":"US",
-    "wof:geomhash":"398d9d338098b44e0d1774bf8e2331a0",
+    "wof:geomhash":"ec3e4db86caf7b78faf248888e64168e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554751721,
-    "wof:lastmodified":1480823107,
+    "wof:lastmodified":1611184360,
     "wof:name":"89431",
     "wof:parent_id":85974781,
     "wof:placetype":"postalcode",

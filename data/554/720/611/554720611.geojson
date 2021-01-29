@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02163,
-    "geom:area_square_m":200885316.755129,
+    "geom:area_square_m":200885316.755074,
     "geom:bbox":"-84.804035,41.222547,-84.630522,41.397727",
     "geom:latitude":41.314475,
     "geom:longitude":-84.728059,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.312806,
     "lbl:longitude":-84.725309,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hicksville",
+    "mz:postal_locality_alt":[
+        "Edgerton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404524355,
         85633793,
-        102083701
+        102083701,
+        404524355,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776348"
     },
     "wof:country":"US",
-    "wof:geomhash":"7f5b2c8cc7c3fc2cb3cb40ace4b7a4f8",
+    "wof:geomhash":"166b71a366b346fa63302b9b83d399b0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554720611,
-    "wof:lastmodified":1480913300,
+    "wof:lastmodified":1611185456,
     "wof:name":"43526",
     "wof:parent_id":404524355,
     "wof:placetype":"postalcode",

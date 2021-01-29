@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012197,
-    "geom:area_square_m":114913740.389652,
+    "geom:area_square_m":114913740.389573,
     "geom:bbox":"-86.017836,40.290953,-85.861947,40.420911",
     "geom:latitude":40.36265,
     "geom:longitude":-85.934102,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.356035,
     "lbl:longitude":-85.928005,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Windfall",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404500623,
         85633793,
-        102087143
+        102087143,
+        404500623,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777580"
     },
     "wof:country":"US",
-    "wof:geomhash":"05adcec2a6c970b0b476654587b48bda",
+    "wof:geomhash":"c4bf57f0405fbe0b6015fc33e59ed90d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554722445,
-    "wof:lastmodified":1480912894,
+    "wof:lastmodified":1611183240,
     "wof:name":"46076",
     "wof:parent_id":404500623,
     "wof:placetype":"postalcode",

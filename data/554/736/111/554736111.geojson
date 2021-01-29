@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011923,
-    "geom:area_square_m":116512804.385371,
+    "geom:area_square_m":116512804.385466,
     "geom:bbox":"-90.986641,37.734196,-90.79879,37.844883",
     "geom:latitude":37.788709,
     "geom:longitude":-90.896595,
@@ -14,20 +14,22 @@
     "lbl:latitude":37.790992,
     "lbl:longitude":-90.907431,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Belgrade",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404517785,
         85633793,
-        102087487
+        102087487,
+        404517785,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785784"
     },
     "wof:country":"US",
-    "wof:geomhash":"b8cde272ff3f18a705e35bd7f262d7e2",
+    "wof:geomhash":"94dc7e6d5b13278b5466869ccb42c70e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554736111,
-    "wof:lastmodified":1480905337,
+    "wof:lastmodified":1611183033,
     "wof:name":"63622",
     "wof:parent_id":404517785,
     "wof:placetype":"postalcode",

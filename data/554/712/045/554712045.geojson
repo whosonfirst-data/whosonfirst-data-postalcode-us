@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007563,
-    "geom:area_square_m":78053924.38608,
+    "geom:area_square_m":78053924.386162,
     "geom:bbox":"-80.525004,33.383841,-80.373822,33.475037",
     "geom:latitude":33.423912,
     "geom:longitude":-80.439481,
@@ -14,19 +14,24 @@
     "lbl:latitude":33.429587,
     "lbl:longitude":-80.439904,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Vance",
+    "mz:postal_locality_alt":[
+        "Santee"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688683,
-        102085413
+        102085413,
+        85688683
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770049"
     },
     "wof:country":"US",
-    "wof:geomhash":"78961b5f76048bd3c2cfabdd27ea0357",
+    "wof:geomhash":"d1fac5e46104534c0cc979bac442b0d7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554712045,
-    "wof:lastmodified":1480814057,
+    "wof:lastmodified":1611183722,
     "wof:name":"29163",
     "wof:parent_id":102085413,
     "wof:placetype":"postalcode",

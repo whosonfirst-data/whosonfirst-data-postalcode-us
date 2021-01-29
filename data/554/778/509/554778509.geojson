@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004911,
-    "geom:area_square_m":45330614.853483,
+    "geom:area_square_m":45330614.853465,
     "geom:bbox":"-70.412539,41.676566,-70.271161,41.740865",
     "geom:latitude":41.712288,
     "geom:longitude":-70.355889,
@@ -14,21 +14,26 @@
     "lbl:latitude":41.716216,
     "lbl:longitude":-70.36307,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"West Barnstable",
+    "mz:postal_locality_alt":[
+        "Dennis"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404475893,
         85633793,
+        102084379,
+        404475893,
         85950321,
-        102084379
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758934"
     },
     "wof:country":"US",
-    "wof:geomhash":"b4de03950475c27709e05cc58481e15e",
+    "wof:geomhash":"abe99553ad8d94604791e5b04313b124",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554778509,
-    "wof:lastmodified":1480802730,
+    "wof:lastmodified":1611183438,
     "wof:name":"02668",
     "wof:parent_id":85950321,
     "wof:placetype":"postalcode",

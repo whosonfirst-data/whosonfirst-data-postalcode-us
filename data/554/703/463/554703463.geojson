@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005599,
-    "geom:area_square_m":52579959.05742,
+    "geom:area_square_m":52579959.057387,
     "geom:bbox":"-80.029845,40.53206,-79.871433,40.613848",
     "geom:latitude":40.580484,
     "geom:longitude":-79.954393,
@@ -14,21 +14,26 @@
     "lbl:latitude":40.580328,
     "lbl:longitude":-79.955241,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Allison Park",
+    "mz:postal_locality_alt":[
+        "Glenshaw"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404484943,
         85633793,
+        102080887,
+        404484943,
         101720509,
-        102080887
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763611"
     },
     "wof:country":"US",
-    "wof:geomhash":"3ba0918b159de6966f67e310732c7f4f",
+    "wof:geomhash":"91ce0bb37e7f333b6167c04f181ee7f2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554703463,
-    "wof:lastmodified":1480905390,
+    "wof:lastmodified":1611184457,
     "wof:name":"15101",
     "wof:parent_id":101720509,
     "wof:placetype":"postalcode",

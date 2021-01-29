@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014497,
-    "geom:area_square_m":136505309.658828,
+    "geom:area_square_m":136505309.658554,
     "geom:bbox":"-81.221492,40.322417,-81.00866,40.500093",
     "geom:latitude":40.402845,
     "geom:longitude":-81.102667,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.401128,
     "lbl:longitude":-81.120838,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Scio",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404525579,
         85633793,
-        102083669
+        102083669,
+        404525579,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776560"
     },
     "wof:country":"US",
-    "wof:geomhash":"d4906bb9d58fa3df1c3a2247e5477a56",
+    "wof:geomhash":"1121fbbc37bf6635976251af74faeeea",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554720903,
-    "wof:lastmodified":1480838455,
+    "wof:lastmodified":1611185470,
     "wof:name":"43988",
     "wof:parent_id":404525579,
     "wof:placetype":"postalcode",

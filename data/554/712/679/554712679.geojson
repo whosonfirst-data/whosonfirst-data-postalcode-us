@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011764,
-    "geom:area_square_m":120629610.652159,
+    "geom:area_square_m":120629610.652211,
     "geom:bbox":"-83.951075,33.881848,-83.807366,34.076301",
     "geom:latitude":33.976433,
     "geom:longitude":-83.882296,
@@ -14,19 +14,25 @@
     "lbl:latitude":33.97561,
     "lbl:longitude":-83.883747,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Dacula",
+    "mz:postal_locality_alt":[
+        "Lawrenceville",
+        "Buford"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688535,
-        102082967
+        102082967,
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770506"
     },
     "wof:country":"US",
-    "wof:geomhash":"cc785ff1adb75408ef9119e325f0b437",
+    "wof:geomhash":"224919a319638423f1aa541bffb61b1d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554712679,
-    "wof:lastmodified":1480800870,
+    "wof:lastmodified":1611183726,
     "wof:name":"30019",
     "wof:parent_id":102082967,
     "wof:placetype":"postalcode",

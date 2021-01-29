@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002968,
-    "geom:area_square_m":32394366.26386,
+    "geom:area_square_m":32394366.26389,
     "geom:bbox":"-80.656486,28.012442,-80.55279,28.063832",
     "geom:latitude":28.031311,
     "geom:longitude":-80.599459,
@@ -13,20 +13,25 @@
     "lbl:latitude":28.031366,
     "lbl:longitude":-80.600414,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Palm Bay",
+    "mz:postal_locality_alt":[
+        "Melbourne"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688651,
         102191575,
         85633793,
+        102084721,
         85932925,
-        102084721
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12772001"
     },
     "wof:country":"US",
-    "wof:geomhash":"4d10550ca961c0231165484a1a113357",
+    "wof:geomhash":"22eb9543319ae374d3e1ab22f67c33aa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554781347,
-    "wof:lastmodified":1480800109,
+    "wof:lastmodified":1611184822,
     "wof:name":"32905",
     "wof:parent_id":85932925,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020494,
-    "geom:area_square_m":211505388.975331,
+    "geom:area_square_m":211505388.975192,
     "geom:bbox":"-96.0918,33.326203,-95.85772,33.521736",
     "geom:latitude":33.42067,
     "geom:longitude":-95.946027,
@@ -14,20 +14,25 @@
     "lbl:latitude":33.420872,
     "lbl:longitude":-95.945707,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ladonia",
+    "mz:postal_locality_alt":[
+        "Paris"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102087329,
         101723401,
-        102087329
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12790594"
     },
     "wof:country":"US",
-    "wof:geomhash":"036ae291bb70afebfb451bd9a382cf24",
+    "wof:geomhash":"f39e67444d08d69a5fe035066c742794",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554744557,
-    "wof:lastmodified":1480912062,
+    "wof:lastmodified":1611184711,
     "wof:name":"75449",
     "wof:parent_id":101723401,
     "wof:placetype":"postalcode",

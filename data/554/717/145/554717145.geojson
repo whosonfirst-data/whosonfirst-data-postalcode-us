@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026209,
-    "geom:area_square_m":263517861.120435,
+    "geom:area_square_m":263517861.120477,
     "geom:bbox":"-84.587318,35.499671,-84.290239,35.66886",
     "geom:latitude":35.598105,
     "geom:longitude":-84.457669,
@@ -14,20 +14,29 @@
     "lbl:latitude":35.59833,
     "lbl:longitude":-84.456484,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Sweetwater",
+    "mz:postal_locality_alt":[
+        "Oak Ridge",
+        "Sneedville",
+        "Maynardville",
+        "Norris",
+        "Sevierville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688701,
         102191575,
         85633793,
+        102087197,
         101722751,
-        102087197
+        85688701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12774179"
     },
     "wof:country":"US",
-    "wof:geomhash":"d7837172effa1c4c60844e83a919409e",
+    "wof:geomhash":"f67d48c49d68e0286477939169d2bbb7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +48,7 @@
         }
     ],
     "wof:id":554717145,
-    "wof:lastmodified":1480913374,
+    "wof:lastmodified":1611185006,
     "wof:name":"37874",
     "wof:parent_id":101722751,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006117,
-    "geom:area_square_m":64062847.410861,
+    "geom:area_square_m":64062847.410949,
     "geom:bbox":"-81.24748,32.067972,-81.116855,32.166388",
     "geom:latitude":32.115482,
     "geom:longitude":-81.184177,
@@ -13,20 +13,25 @@
     "lbl:latitude":32.117554,
     "lbl:longitude":-81.184333,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Savannah",
+    "mz:postal_locality_alt":[
+        "Garden City"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688535,
         102191575,
         85633793,
+        102082337,
         85936947,
-        102082337
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12771216"
     },
     "wof:country":"US",
-    "wof:geomhash":"42e1d2f1891be6422cf11ef62a80575d",
+    "wof:geomhash":"428d2d607ab764e25e6657ee6f35da97",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554713791,
-    "wof:lastmodified":1480794501,
+    "wof:lastmodified":1611183294,
     "wof:name":"31408",
     "wof:parent_id":85936947,
     "wof:placetype":"postalcode",

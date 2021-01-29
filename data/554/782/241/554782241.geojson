@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000218,
-    "geom:area_square_m":2330072.23275,
+    "geom:area_square_m":2330072.232748,
     "geom:bbox":"-87.784712,30.390413,-87.756851,30.406578",
     "geom:latitude":30.39984,
     "geom:longitude":-87.772635,
@@ -14,20 +14,25 @@
     "lbl:latitude":30.396615,
     "lbl:longitude":-87.783492,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Summerdale",
+    "mz:postal_locality_alt":[
+        "Magnolia Springs"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688675,
         102191575,
         85633793,
+        102085469,
         85914751,
-        102085469
+        85688675
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12773574"
     },
     "wof:country":"US",
-    "wof:geomhash":"c5640abd0f2dc11d6eb50ed40e4b4232",
+    "wof:geomhash":"ce91f81b13b245633612289378949610",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554782241,
-    "wof:lastmodified":1480816139,
+    "wof:lastmodified":1611183622,
     "wof:name":"36555",
     "wof:parent_id":85914751,
     "wof:placetype":"postalcode",

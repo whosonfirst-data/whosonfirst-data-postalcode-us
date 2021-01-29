@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005726,
-    "geom:area_square_m":57950068.706717,
+    "geom:area_square_m":57950068.7067,
     "geom:bbox":"-92.85927,35.03247,-92.709585,35.125977",
     "geom:latitude":35.067868,
     "geom:longitude":-92.786751,
@@ -14,19 +14,24 @@
     "lbl:latitude":35.066192,
     "lbl:longitude":-92.790669,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Perry",
+    "mz:postal_locality_alt":[
+        "Oppelo"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688549,
-        102082017
+        102082017,
+        85688549
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12789082"
     },
     "wof:country":"US",
-    "wof:geomhash":"c9715858bb3107c920ebfb3cca40649d",
+    "wof:geomhash":"23953a5d5a3aca5a3445d9676bb380de",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554742011,
-    "wof:lastmodified":1480841648,
+    "wof:lastmodified":1611185238,
     "wof:name":"72125",
     "wof:parent_id":102082017,
     "wof:placetype":"postalcode",

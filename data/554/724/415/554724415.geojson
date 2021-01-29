@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009803,
-    "geom:area_square_m":87508616.011668,
+    "geom:area_square_m":87508616.01167,
     "geom:bbox":"-84.388205,43.712406,-84.287679,43.853144",
     "geom:latitude":43.783522,
     "geom:longitude":-84.328828,
@@ -14,20 +14,22 @@
     "lbl:latitude":43.784121,
     "lbl:longitude":-84.328366,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hope",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404506245,
         85633793,
-        102082997
+        102082997,
+        404506245,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778911"
     },
     "wof:country":"US",
-    "wof:geomhash":"935b32d31a27fe57cfff85c0bacf974c",
+    "wof:geomhash":"71792eec25056b202b0a3a6688557e46",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554724415,
-    "wof:lastmodified":1480839231,
+    "wof:lastmodified":1611183748,
     "wof:name":"48628",
     "wof:parent_id":404506245,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042985,
-    "geom:area_square_m":387934825.880099,
+    "geom:area_square_m":387934825.880125,
     "geom:bbox":"-97.93059,43.010359,-97.613709,43.241777",
     "geom:latitude":43.125596,
     "geom:longitude":-97.758029,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.119205,
     "lbl:longitude":-97.764306,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Scotland",
+    "mz:postal_locality_alt":[
+        "Olivet"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688693,
         102191575,
-        404490085,
         85633793,
-        102086835
+        102086835,
+        404490085,
+        85688693
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782745"
     },
     "wof:country":"US",
-    "wof:geomhash":"4cfdafe701c4bba7a92e346f3a012adb",
+    "wof:geomhash":"deb8d55c7372ec19513fb379c570aa27",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554730883,
-    "wof:lastmodified":1480917166,
+    "wof:lastmodified":1611182746,
     "wof:name":"57059",
     "wof:parent_id":404490085,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033572,
-    "geom:area_square_m":277662753.353289,
+    "geom:area_square_m":277662753.353483,
     "geom:bbox":"-101.274402,47.891963,-100.991022,48.109795",
     "geom:latitude":48.02107,
     "geom:longitude":-101.126941,
@@ -14,20 +14,22 @@
     "lbl:latitude":48.015721,
     "lbl:longitude":-101.132707,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Sawyer",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688525,
         102191575,
-        404482507,
         85633793,
-        102082117
+        102082117,
+        404482507,
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12783494"
     },
     "wof:country":"US",
-    "wof:geomhash":"c4b372ad30595ce4a675333c33dd3ec5",
+    "wof:geomhash":"b46f979a531a37ff2c81d1951185474f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554732351,
-    "wof:lastmodified":1480794177,
+    "wof:lastmodified":1611184389,
     "wof:name":"58781",
     "wof:parent_id":404482507,
     "wof:placetype":"postalcode",

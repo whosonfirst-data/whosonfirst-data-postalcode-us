@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010595,
-    "geom:area_square_m":98283578.055127,
+    "geom:area_square_m":98283578.055104,
     "geom:bbox":"-73.378952,41.318095,-73.249563,41.472677",
     "geom:latitude":41.394124,
     "geom:longitude":-73.319468,
@@ -14,20 +14,26 @@
     "lbl:latitude":41.395083,
     "lbl:longitude":-73.317663,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Newtown",
+    "mz:postal_locality_alt":[
+        "Fairfield",
+        "Plantsville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688629,
         102191575,
-        404495957,
         85633793,
-        102084283
+        102084283,
+        404495957,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760420"
     },
     "wof:country":"US",
-    "wof:geomhash":"8b31010c317d00272b351b82a2ca79af",
+    "wof:geomhash":"e79ebb0562953bfabd48f28490729c07",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554699603,
-    "wof:lastmodified":1480916211,
+    "wof:lastmodified":1611184610,
     "wof:name":"06470",
     "wof:parent_id":404495957,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005566,
-    "geom:area_square_m":50072678.654422,
+    "geom:area_square_m":50072678.654408,
     "geom:bbox":"-85.437134,43.286005,-85.266161,43.359539",
     "geom:latitude":43.314719,
     "geom:longitude":-85.348541,
@@ -14,20 +14,22 @@
     "lbl:latitude":43.316687,
     "lbl:longitude":-85.347044,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Trufant",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404506291,
         85633793,
-        102083741
+        102083741,
+        404506291,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779330"
     },
     "wof:country":"US",
-    "wof:geomhash":"cb3cddaa95be0c561b472577a98391fb",
+    "wof:geomhash":"8f06835c21e147e8eeaa169c2fbc6f0a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554725059,
-    "wof:lastmodified":1480841835,
+    "wof:lastmodified":1611183282,
     "wof:name":"49347",
     "wof:parent_id":404506291,
     "wof:placetype":"postalcode",

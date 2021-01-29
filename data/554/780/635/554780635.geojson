@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008463,
-    "geom:area_square_m":82183766.004855,
+    "geom:area_square_m":82183766.004838,
     "geom:bbox":"-75.365493,38.204455,-75.222737,38.299654",
     "geom:latitude":38.247325,
     "geom:longitude":-75.29536,
@@ -14,20 +14,22 @@
     "lbl:latitude":38.246944,
     "lbl:longitude":-75.295806,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Newark",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688501,
         102191575,
         85633793,
+        102081599,
         85949787,
-        102081599
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766753"
     },
     "wof:country":"US",
-    "wof:geomhash":"7e66dfb06473235daaaf86e75fff505d",
+    "wof:geomhash":"ebf73d44fd1cf25b114ebf98b11e8779",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554780635,
-    "wof:lastmodified":1480817463,
+    "wof:lastmodified":1611185170,
     "wof:name":"21841",
     "wof:parent_id":85949787,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022843,
-    "geom:area_square_m":206391582.091206,
+    "geom:area_square_m":206391582.091245,
     "geom:bbox":"-90.483862,42.981608,-90.228886,43.1193",
     "geom:latitude":43.054352,
     "geom:longitude":-90.360763,
@@ -14,20 +14,22 @@
     "lbl:latitude":43.057568,
     "lbl:longitude":-90.34546,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Highland",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404495387,
         85633793,
-        102081277
+        102081277,
+        404495387,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12780992"
     },
     "wof:country":"US",
-    "wof:geomhash":"3772b4c825292135e72cee0b1a4b0ae5",
+    "wof:geomhash":"c04b082a58fee8c1b10198da1e676fcf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554727777,
-    "wof:lastmodified":1480829259,
+    "wof:lastmodified":1611185512,
     "wof:name":"53543",
     "wof:parent_id":404495387,
     "wof:placetype":"postalcode",

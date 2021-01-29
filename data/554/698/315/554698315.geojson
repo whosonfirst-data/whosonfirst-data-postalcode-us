@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011903,
-    "geom:area_square_m":105438719.593993,
+    "geom:area_square_m":105438719.594045,
     "geom:bbox":"-70.566212,44.17541,-70.414966,44.312399",
     "geom:latitude":44.244402,
     "geom:longitude":-70.488289,
@@ -14,20 +14,26 @@
     "lbl:latitude":44.248001,
     "lbl:longitude":-70.490816,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"South Paris",
+    "mz:postal_locality_alt":[
+        "New Gloucester",
+        "Paris"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404475019,
         85633793,
-        102087437
+        102087437,
+        404475019,
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759508"
     },
     "wof:country":"US",
-    "wof:geomhash":"a889c9832b05d59b2e9a35278e6cf822",
+    "wof:geomhash":"dbf64cbf678164e374edb57893ab3830",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554698315,
-    "wof:lastmodified":1480787528,
+    "wof:lastmodified":1611184688,
     "wof:name":"04281",
     "wof:parent_id":404475019,
     "wof:placetype":"postalcode",

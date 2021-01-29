@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005786,
-    "geom:area_square_m":54463299.597775,
+    "geom:area_square_m":54463299.597777,
     "geom:bbox":"-74.47793,40.384513,-74.355854,40.487319",
     "geom:latitude":40.428633,
     "geom:longitude":-74.416135,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.429119,
     "lbl:longitude":-74.416287,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"East Brunswick",
+    "mz:postal_locality_alt":[
+        "Milltown"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478271,
         85633793,
-        102087417
+        102087417,
+        404478271,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761264"
     },
     "wof:country":"US",
-    "wof:geomhash":"d625d37bc8fa7e5681700ba4afb05c5e",
+    "wof:geomhash":"2583c3c19af897bb04a3b1b956b30e28",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554700703,
-    "wof:lastmodified":1480783318,
+    "wof:lastmodified":1611183195,
     "wof:name":"08816",
     "wof:parent_id":404478271,
     "wof:placetype":"postalcode",

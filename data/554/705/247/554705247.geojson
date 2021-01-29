@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012092,
-    "geom:area_square_m":114246157.217259,
+    "geom:area_square_m":114246157.217263,
     "geom:bbox":"-76.258758,40.105274,-76.072881,40.24199",
     "geom:latitude":40.17222,
     "geom:longitude":-76.170749,
@@ -14,21 +14,27 @@
     "lbl:latitude":40.173688,
     "lbl:longitude":-76.170494,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ephrata",
+    "mz:postal_locality_alt":[
+        "Brownstown",
+        "Akron"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404487079,
         85633793,
+        102081377,
+        404487079,
         101718645,
-        102081377
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764798"
     },
     "wof:country":"US",
-    "wof:geomhash":"5bb32bbcedb91df1cabafe7b0e3dfa6d",
+    "wof:geomhash":"c3598a75e9663bb2984c9e640296c5bc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554705247,
-    "wof:lastmodified":1480817410,
+    "wof:lastmodified":1611184118,
     "wof:name":"17522",
     "wof:parent_id":101718645,
     "wof:placetype":"postalcode",

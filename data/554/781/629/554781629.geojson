@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000603,
-    "geom:area_square_m":6718143.911338,
+    "geom:area_square_m":6718143.911332,
     "geom:bbox":"-80.432863,25.749753,-80.385154,25.769828",
     "geom:latitude":25.759502,
     "geom:longitude":-80.40656,
@@ -13,20 +13,25 @@
     "lbl:latitude":25.759711,
     "lbl:longitude":-80.406473,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Miami",
+    "mz:postal_locality_alt":[
+        "North Miami Bch"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688651,
         102191575,
         85633793,
+        102085771,
         85935937,
-        102085771
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12772193"
     },
     "wof:country":"US",
-    "wof:geomhash":"cabdb86679e4f9a92fcde55d01134593",
+    "wof:geomhash":"baec8f4c3c3e4f495eab49ccfb2d552d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554781629,
-    "wof:lastmodified":1480806628,
+    "wof:lastmodified":1611184815,
     "wof:name":"33184",
     "wof:parent_id":85935937,
     "wof:placetype":"postalcode",

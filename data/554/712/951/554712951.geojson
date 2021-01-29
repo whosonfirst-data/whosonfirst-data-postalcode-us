@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004282,
-    "geom:area_square_m":44159416.926858,
+    "geom:area_square_m":44159416.926825,
     "geom:bbox":"-84.430141,33.452652,-84.330943,33.541708",
     "geom:latitude":33.494304,
     "geom:longitude":-84.381661,
@@ -13,19 +13,25 @@
     "lbl:latitude":33.493294,
     "lbl:longitude":-84.37916,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Jonesboro",
+    "mz:postal_locality_alt":[
+        "Hampton",
+        "Riverdale"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688535,
-        102082333
+        102082333,
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770673"
     },
     "wof:country":"US",
-    "wof:geomhash":"ac435afe091390994c5dc1ab2a907e89",
+    "wof:geomhash":"b031c2892d9d8df853f10ac9d6c78fbd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +42,7 @@
         }
     ],
     "wof:id":554712951,
-    "wof:lastmodified":1480823659,
+    "wof:lastmodified":1611183720,
     "wof:name":"30238",
     "wof:parent_id":102082333,
     "wof:placetype":"postalcode",

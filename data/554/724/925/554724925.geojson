@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011311,
-    "geom:area_square_m":104306851.090131,
+    "geom:area_square_m":104306851.090163,
     "geom:bbox":"-84.971002,41.696118,-84.747946,41.832806",
     "geom:latitude":41.772748,
     "geom:longitude":-84.850523,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.771201,
     "lbl:longitude":-84.84455,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Montgomery",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404505793,
         85633793,
-        102083037
+        102083037,
+        404505793,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779256"
     },
     "wof:country":"US",
-    "wof:geomhash":"61ed3aecc1328866ae71aa7248088851",
+    "wof:geomhash":"4228742f8b2b61cae90c60fdc8410fb7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554724925,
-    "wof:lastmodified":1480910268,
+    "wof:lastmodified":1611183757,
     "wof:name":"49255",
     "wof:parent_id":404505793,
     "wof:placetype":"postalcode",

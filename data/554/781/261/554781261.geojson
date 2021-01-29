@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018022,
-    "geom:area_square_m":192892066.750772,
+    "geom:area_square_m":192892066.750736,
     "geom:bbox":"-85.692382,29.95196,-85.447192,30.151285",
     "geom:latitude":30.050206,
     "geom:longitude":-85.55611,
@@ -14,19 +14,24 @@
     "lbl:latitude":30.048562,
     "lbl:longitude":-85.553231,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Panama City",
+    "mz:postal_locality_alt":[
+        "Tyndall Afb"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688651,
-        102085835
+        102085835,
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12771683"
     },
     "wof:country":"US",
-    "wof:geomhash":"1fd254c0285c1d92dd511de52dd15427",
+    "wof:geomhash":"f965b6063b6d92051cfe55cee75fb42b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554781261,
-    "wof:lastmodified":1480805890,
+    "wof:lastmodified":1611184816,
     "wof:name":"32403",
     "wof:parent_id":102085835,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01893,
-    "geom:area_square_m":169056272.923003,
+    "geom:area_square_m":169056272.923148,
     "geom:bbox":"-72.993779,43.665449,-72.825611,43.858131",
     "geom:latitude":43.759034,
     "geom:longitude":-72.912003,
@@ -14,20 +14,22 @@
     "lbl:latitude":43.773181,
     "lbl:longitude":-72.905861,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Chittenden",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688763,
         102191575,
-        404527289,
         85633793,
-        102080771
+        102080771,
+        404527289,
+        85688763
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760079"
     },
     "wof:country":"US",
-    "wof:geomhash":"72592d67b5fb7591120bb43b533da65b",
+    "wof:geomhash":"a4bdd5125945b56b4de999370e1f053c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554699101,
-    "wof:lastmodified":1480905330,
+    "wof:lastmodified":1611184620,
     "wof:name":"05737",
     "wof:parent_id":404527289,
     "wof:placetype":"postalcode",

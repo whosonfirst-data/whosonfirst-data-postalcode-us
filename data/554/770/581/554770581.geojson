@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000044,
-    "geom:area_square_m":413810.314103,
+    "geom:area_square_m":413810.314105,
     "geom:bbox":"-84.098116,40.327213,-84.086264,40.336158",
     "geom:latitude":40.330589,
     "geom:longitude":-84.091712,
@@ -14,21 +14,23 @@
     "lbl:latitude":40.330576,
     "lbl:longitude":-84.09102,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Port Jefferson",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404525715,
         85633793,
+        102083641,
+        404525715,
         85983157,
-        102083641
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777248"
     },
     "wof:country":"US",
-    "wof:geomhash":"90580976dbec0910cd48e7df377c07fc",
+    "wof:geomhash":"c743d3ed2a50d4cc627f4c023af5111a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +43,7 @@
         }
     ],
     "wof:id":554770581,
-    "wof:lastmodified":1480839086,
+    "wof:lastmodified":1611183920,
     "wof:name":"45360",
     "wof:parent_id":85983157,
     "wof:placetype":"postalcode",

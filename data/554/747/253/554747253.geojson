@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.061731,
-    "geom:area_square_m":661612855.169565,
+    "geom:area_square_m":661612855.169244,
     "geom:bbox":"-97.090849,29.762444,-96.72798,30.073142",
     "geom:latitude":29.915693,
     "geom:longitude":-96.889521,
@@ -14,19 +14,27 @@
     "lbl:latitude":29.912267,
     "lbl:longitude":-96.889573,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"La Grange",
+    "mz:postal_locality_alt":[
+        "Plum",
+        "Weimar",
+        "Giddings",
+        "Warrenton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688753,
-        102081941
+        102081941,
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12792409"
     },
     "wof:country":"US",
-    "wof:geomhash":"02af94788ac82f85df79d7bbd85db4c0",
+    "wof:geomhash":"223d917028c419bf70d0cef797d1dcde",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +45,7 @@
         }
     ],
     "wof:id":554747253,
-    "wof:lastmodified":1480831332,
+    "wof:lastmodified":1611183479,
     "wof:name":"78945",
     "wof:parent_id":102081941,
     "wof:placetype":"postalcode",

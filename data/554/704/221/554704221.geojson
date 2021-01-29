@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020651,
-    "geom:area_square_m":192978380.654235,
+    "geom:area_square_m":192978380.654274,
     "geom:bbox":"-80.037518,40.816301,-79.813133,41.007205",
     "geom:latitude":40.909504,
     "geom:longitude":-79.943786,
@@ -13,20 +13,27 @@
     "lbl:latitude":40.910025,
     "lbl:longitude":-79.945191,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Butler",
+    "mz:postal_locality_alt":[
+        "Meridian",
+        "Zelienople",
+        "Cranberry Township"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485061,
         85633793,
-        102083677
+        102083677,
+        404485061,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764107"
     },
     "wof:country":"US",
-    "wof:geomhash":"8e089d4ee3b56227293504a1e3ba430c",
+    "wof:geomhash":"3accb4fd8de5717230196029cb2ab7cd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +45,7 @@
         }
     ],
     "wof:id":554704221,
-    "wof:lastmodified":1480841997,
+    "wof:lastmodified":1611184493,
     "wof:name":"16001",
     "wof:parent_id":404485061,
     "wof:placetype":"postalcode",

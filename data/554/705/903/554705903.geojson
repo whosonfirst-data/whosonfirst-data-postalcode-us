@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014753,
-    "geom:area_square_m":137501617.937547,
+    "geom:area_square_m":137501617.937561,
     "geom:bbox":"-76.378863,41.037715,-76.127929,41.144903",
     "geom:latitude":41.082913,
     "geom:longitude":-76.24891,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.082035,
     "lbl:longitude":-76.258139,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Berwick",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485377,
         85633793,
-        102080973
+        102080973,
+        404485377,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765246"
     },
     "wof:country":"US",
-    "wof:geomhash":"2c8530f5db17f80c67531a1b561ea2f1",
+    "wof:geomhash":"4b5e288c14885b248f141344c17fe71a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554705903,
-    "wof:lastmodified":1480905759,
+    "wof:lastmodified":1611184112,
     "wof:name":"18603",
     "wof:parent_id":404485377,
     "wof:placetype":"postalcode",

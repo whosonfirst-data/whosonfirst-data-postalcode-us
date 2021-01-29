@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014356,
-    "geom:area_square_m":133251592.707054,
+    "geom:area_square_m":133251592.707011,
     "geom:bbox":"-96.47072,41.291682,-96.253408,41.400782",
     "geom:latitude":41.351067,
     "geom:longitude":-96.349936,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.355752,
     "lbl:longitude":-96.357708,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Valley",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688563,
         102191575,
-        404519991,
         85633793,
-        102082789
+        102082789,
+        404519991,
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787514"
     },
     "wof:country":"US",
-    "wof:geomhash":"8ce9d447e1e2a0797b54de2bdba0248d",
+    "wof:geomhash":"e1c619a19e565d82f6990d782e2ef376",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554739475,
-    "wof:lastmodified":1480796032,
+    "wof:lastmodified":1611182671,
     "wof:name":"68064",
     "wof:parent_id":404519991,
     "wof:placetype":"postalcode",

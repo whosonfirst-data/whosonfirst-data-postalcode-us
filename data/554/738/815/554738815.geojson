@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001451,
-    "geom:area_square_m":14211813.358482,
+    "geom:area_square_m":14211813.358488,
     "geom:bbox":"-97.517203,37.606288,-97.480249,37.649887",
     "geom:latitude":37.628188,
     "geom:longitude":-97.499679,
@@ -13,20 +13,22 @@
     "lbl:latitude":37.628186,
     "lbl:longitude":-97.499679,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wichita",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404504903,
         85633793,
-        102084203
+        102084203,
+        404504903,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787189"
     },
     "wof:country":"US",
-    "wof:geomhash":"50b06418c89c9844cc63e051f58df968",
+    "wof:geomhash":"c366a28db8f6ba20e2baf2e3a90cac5f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +40,7 @@
         }
     ],
     "wof:id":554738815,
-    "wof:lastmodified":1480798326,
+    "wof:lastmodified":1611183116,
     "wof:name":"67227",
     "wof:parent_id":404504903,
     "wof:placetype":"postalcode",

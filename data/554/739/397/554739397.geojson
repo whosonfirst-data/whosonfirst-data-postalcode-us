@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037497,
-    "geom:area_square_m":347004481.212574,
+    "geom:area_square_m":347004481.212545,
     "geom:bbox":"-96.309729,41.406535,-95.992777,41.683059",
     "geom:latitude":41.547779,
     "geom:longitude":-96.163663,
@@ -13,21 +13,26 @@
     "lbl:latitude":41.546834,
     "lbl:longitude":-96.162598,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Blair",
+    "mz:postal_locality_alt":[
+        "Fort Calhoun"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688563,
         102191575,
-        404520619,
         85633793,
+        102082783,
+        404520619,
         85974433,
-        102082783
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787471"
     },
     "wof:country":"US",
-    "wof:geomhash":"a57214116529142e01cfaceee90c41ff",
+    "wof:geomhash":"7cbaae91c9f482bc8323a9a130d49db1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554739397,
-    "wof:lastmodified":1480912390,
+    "wof:lastmodified":1611182652,
     "wof:name":"68008",
     "wof:parent_id":85974433,
     "wof:placetype":"postalcode",

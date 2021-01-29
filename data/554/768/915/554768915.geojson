@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000144,
-    "geom:area_square_m":1451102.248983,
+    "geom:area_square_m":1451102.248982,
     "geom:bbox":"-81.438634,35.351396,-81.419728,35.365317",
     "geom:latitude":35.35847,
     "geom:longitude":-81.429395,
@@ -14,20 +14,22 @@
     "lbl:latitude":35.35847,
     "lbl:longitude":-81.429395,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Waco",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688773,
         102191575,
         85633793,
+        102087851,
         85980971,
-        102087851
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12769461"
     },
     "wof:country":"US",
-    "wof:geomhash":"39f7fa2323e2ccad5bdea46b7cebdf11",
+    "wof:geomhash":"c082f2ac6f8aa0e8f282aeebc55684d5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554768915,
-    "wof:lastmodified":1480788801,
+    "wof:lastmodified":1611184586,
     "wof:name":"28169",
     "wof:parent_id":85980971,
     "wof:placetype":"postalcode",

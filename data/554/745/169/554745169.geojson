@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003787,
-    "geom:area_square_m":39326160.441469,
+    "geom:area_square_m":39326160.441443,
     "geom:bbox":"-97.391991,32.839444,-97.312501,32.924531",
     "geom:latitude":32.883353,
     "geom:longitude":-97.346882,
@@ -13,20 +13,26 @@
     "lbl:latitude":32.881807,
     "lbl:longitude":-97.345956,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fort Worth",
+    "mz:postal_locality_alt":[
+        "Saginaw",
+        "Blue Mound"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102083201,
         101723705,
-        102083201
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12790945"
     },
     "wof:country":"US",
-    "wof:geomhash":"043835c7bcef6c0be795e32cb52a7102",
+    "wof:geomhash":"83db7db9c94f6f5930f4ee85dd07eff9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554745169,
-    "wof:lastmodified":1480840094,
+    "wof:lastmodified":1611185257,
     "wof:name":"76131",
     "wof:parent_id":101723705,
     "wof:placetype":"postalcode",

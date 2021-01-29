@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015742,
-    "geom:area_square_m":152542302.626257,
+    "geom:area_square_m":152542302.626321,
     "geom:bbox":"-95.378628,38.341065,-95.155538,38.463014",
     "geom:latitude":38.404471,
     "geom:longitude":-95.259517,
@@ -14,20 +14,22 @@
     "lbl:latitude":38.408099,
     "lbl:longitude":-95.259688,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Richmond",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404503575,
         85633793,
-        102082121
+        102082121,
+        404503575,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786760"
     },
     "wof:country":"US",
-    "wof:geomhash":"86ce1e389558d9238f341c456b2a0de7",
+    "wof:geomhash":"674c799b8b13701811bce49cb683906b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554737955,
-    "wof:lastmodified":1480843106,
+    "wof:lastmodified":1611182828,
     "wof:name":"66080",
     "wof:parent_id":404503575,
     "wof:placetype":"postalcode",

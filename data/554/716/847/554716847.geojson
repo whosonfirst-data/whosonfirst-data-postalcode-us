@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029928,
-    "geom:area_square_m":302453041.904417,
+    "geom:area_square_m":302453041.90426,
     "geom:bbox":"-86.365923,35.08326,-85.943841,35.298828",
     "geom:latitude":35.183761,
     "geom:longitude":-86.139843,
@@ -14,19 +14,26 @@
     "lbl:latitude":35.181209,
     "lbl:longitude":-86.138387,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Winchester",
+    "mz:postal_locality_alt":[
+        "Tracy City",
+        "Decatur",
+        "Decherd"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688701,
-        102086227
+        102086227,
+        85688701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12774009"
     },
     "wof:country":"US",
-    "wof:geomhash":"82651e8bf577016a82521c5d0a7393ec",
+    "wof:geomhash":"c68871793c3031acd419879d22ba5b92",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +44,7 @@
         }
     ],
     "wof:id":554716847,
-    "wof:lastmodified":1480915719,
+    "wof:lastmodified":1611185387,
     "wof:name":"37398",
     "wof:parent_id":102086227,
     "wof:placetype":"postalcode",

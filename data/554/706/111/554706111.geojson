@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00532,
-    "geom:area_square_m":50127194.165882,
+    "geom:area_square_m":50127194.16585,
     "geom:bbox":"-75.39012,40.311125,-75.250019,40.409464",
     "geom:latitude":40.364037,
     "geom:longitude":-75.325038,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.366237,
     "lbl:longitude":-75.325845,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Sellersville",
+    "mz:postal_locality_alt":[
+        "Telford"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485045,
         85633793,
-        102080987
+        102080987,
+        404485045,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765388"
     },
     "wof:country":"US",
-    "wof:geomhash":"82efd15f8a1500560d129412b153e64e",
+    "wof:geomhash":"bb49c91209dd3ac52211a179632ebd2b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554706111,
-    "wof:lastmodified":1480906421,
+    "wof:lastmodified":1611182697,
     "wof:name":"18960",
     "wof:parent_id":404485045,
     "wof:placetype":"postalcode",

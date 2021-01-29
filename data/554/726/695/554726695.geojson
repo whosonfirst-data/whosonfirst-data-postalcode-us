@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044267,
-    "geom:area_square_m":409582843.560041,
+    "geom:area_square_m":409582843.560045,
     "geom:bbox":"-96.11466,41.42302,-95.746035,41.710903",
     "geom:latitude":41.558438,
     "geom:longitude":-95.919265,
@@ -14,19 +14,24 @@
     "lbl:latitude":41.560102,
     "lbl:longitude":-95.923061,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Missouri Valley",
+    "mz:postal_locality_alt":[
+        "Logan"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688713,
-        102086597
+        102086597,
+        85688713
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12780361"
     },
     "wof:country":"US",
-    "wof:geomhash":"13b40eba322234a3259ae62468cd6367",
+    "wof:geomhash":"c10a5245284b1038eb1c0aa1c9278eed",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554726695,
-    "wof:lastmodified":1480912389,
+    "wof:lastmodified":1611184877,
     "wof:name":"51555",
     "wof:parent_id":102086597,
     "wof:placetype":"postalcode",

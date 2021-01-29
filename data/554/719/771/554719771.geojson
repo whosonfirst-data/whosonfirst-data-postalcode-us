@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.058343,
-    "geom:area_square_m":579019065.635102,
+    "geom:area_square_m":579019065.635107,
     "geom:bbox":"-88.490828,36.514916,-88.055674,36.74866",
     "geom:latitude":36.620337,
     "geom:longitude":-88.283891,
@@ -14,19 +14,25 @@
     "lbl:latitude":36.624585,
     "lbl:longitude":-88.284907,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Murray",
+    "mz:postal_locality_alt":[
+        "Hazel",
+        "Eddyville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688641,
-        102084395
+        102084395,
+        85688641
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12775831"
     },
     "wof:country":"US",
-    "wof:geomhash":"dc05be0d827c4c493af0864439ff6ad6",
+    "wof:geomhash":"d67c410d7faf4abc236a06e015198b0a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554719771,
-    "wof:lastmodified":1480913792,
+    "wof:lastmodified":1611184918,
     "wof:name":"42071",
     "wof:parent_id":102084395,
     "wof:placetype":"postalcode",

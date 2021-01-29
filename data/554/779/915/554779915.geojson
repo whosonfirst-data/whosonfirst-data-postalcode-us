@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000863,
-    "geom:area_square_m":8095216.700941,
+    "geom:area_square_m":8095216.700931,
     "geom:bbox":"-73.464345,40.650822,-73.431724,40.705561",
     "geom:latitude":40.68198,
     "geom:longitude":-73.446722,
@@ -14,21 +14,26 @@
     "lbl:latitude":40.682744,
     "lbl:longitude":-73.446664,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Massapequa Park",
+    "mz:postal_locality_alt":[
+        "Massapequa"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404521475,
         85633793,
+        102082371,
+        404521475,
         85977715,
-        102082371
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761947"
     },
     "wof:country":"US",
-    "wof:geomhash":"96a08fdd59a457427ef81fc76d6a1aa9",
+    "wof:geomhash":"eee6c607864afd29a5047f9f38a30364",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554779915,
-    "wof:lastmodified":1480790619,
+    "wof:lastmodified":1611183974,
     "wof:name":"11762",
     "wof:parent_id":85977715,
     "wof:placetype":"postalcode",

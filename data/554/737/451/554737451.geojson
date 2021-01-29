@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042009,
-    "geom:area_square_m":414773807.333597,
+    "geom:area_square_m":414773807.333536,
     "geom:bbox":"-91.883573,36.882488,-91.525124,37.137024",
     "geom:latitude":37.014444,
     "geom:longitude":-91.714939,
@@ -14,20 +14,22 @@
     "lbl:latitude":37.012976,
     "lbl:longitude":-91.712643,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mountain View",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404517097,
         85633793,
-        102086179
+        102086179,
+        404517097,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786509"
     },
     "wof:country":"US",
-    "wof:geomhash":"792653477e9ba737a25f29b32cc7948a",
+    "wof:geomhash":"66ec6bd398c8f4695126d9596be64983",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554737451,
-    "wof:lastmodified":1480915959,
+    "wof:lastmodified":1611182857,
     "wof:name":"65548",
     "wof:parent_id":404517097,
     "wof:placetype":"postalcode",

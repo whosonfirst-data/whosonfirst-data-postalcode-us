@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010366,
-    "geom:area_square_m":97776370.504986,
+    "geom:area_square_m":97776370.505041,
     "geom:bbox":"-74.225295,40.225411,-74.101582,40.345742",
     "geom:latitude":40.284826,
     "geom:longitude":-74.169482,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.280968,
     "lbl:longitude":-74.168903,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Colts Neck",
+    "mz:postal_locality_alt":[
+        "Holmdel"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478335,
         85633793,
-        102085049
+        102085049,
+        404478335,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760850"
     },
     "wof:country":"US",
-    "wof:geomhash":"90683de416ea28802c80776a835bc26c",
+    "wof:geomhash":"e974bc0af5a89ad436ef3ff301ca1b6a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554700161,
-    "wof:lastmodified":1480809855,
+    "wof:lastmodified":1611183175,
     "wof:name":"07722",
     "wof:parent_id":404478335,
     "wof:placetype":"postalcode",

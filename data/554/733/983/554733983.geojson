@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010902,
-    "geom:area_square_m":102428178.35531,
+    "geom:area_square_m":102428178.355394,
     "geom:bbox":"-90.63732,40.504393,-90.446578,40.587143",
     "geom:latitude":40.550874,
     "geom:longitude":-90.534767,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.551362,
     "lbl:longitude":-90.532761,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bushnell",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404496419,
         85633793,
-        102080815
+        102080815,
+        404496419,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784614"
     },
     "wof:country":"US",
-    "wof:geomhash":"806e1ba4673943ef43f78d1a0a702630",
+    "wof:geomhash":"33aff5d19901c54f1e1e3628d0575f1c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554733983,
-    "wof:lastmodified":1480913862,
+    "wof:lastmodified":1611184225,
     "wof:name":"61422",
     "wof:parent_id":404496419,
     "wof:placetype":"postalcode",

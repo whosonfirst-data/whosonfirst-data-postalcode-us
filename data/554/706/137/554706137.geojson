@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000757,
-    "geom:area_square_m":7168946.685706,
+    "geom:area_square_m":7168946.685704,
     "geom:bbox":"-75.247646,39.99707,-75.206286,40.031197",
     "geom:latitude":40.013742,
     "geom:longitude":-75.230027,
@@ -14,20 +14,29 @@
     "lbl:latitude":40.009753,
     "lbl:longitude":-75.231508,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bala Cynwyd",
+    "mz:postal_locality_alt":[
+        "Jenkintown",
+        "Philadelphia",
+        "Narberth",
+        "Ardmore",
+        "Lower Merion"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485475,
         85633793,
-        102081355
+        102081355,
+        404485475,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765408"
     },
     "wof:country":"US",
-    "wof:geomhash":"b8cfc23f2f2d45ba483f38a44cd62a28",
+    "wof:geomhash":"40a49962c2dde46e9f014c395ef2799b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +48,7 @@
         }
     ],
     "wof:id":554706137,
-    "wof:lastmodified":1480818597,
+    "wof:lastmodified":1611182704,
     "wof:name":"19004",
     "wof:parent_id":404485475,
     "wof:placetype":"postalcode",

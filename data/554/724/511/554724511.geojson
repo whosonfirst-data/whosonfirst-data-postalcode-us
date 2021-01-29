@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015879,
-    "geom:area_square_m":142501110.07951,
+    "geom:area_square_m":142501110.079524,
     "geom:bbox":"-83.778067,43.396088,-83.576645,43.565823",
     "geom:latitude":43.4694,
     "geom:longitude":-83.679442,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.469859,
     "lbl:longitude":-83.676311,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Reese",
+    "mz:postal_locality_alt":[
+        "Richville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404508039,
         85633793,
-        102082989
+        102082989,
+        404508039,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778984"
     },
     "wof:country":"US",
-    "wof:geomhash":"4a761825ae1ebab8bfe70036a6c81655",
+    "wof:geomhash":"2e268f92eac1f1beffc0898ef9e6238d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554724511,
-    "wof:lastmodified":1480838570,
+    "wof:lastmodified":1611183756,
     "wof:name":"48757",
     "wof:parent_id":404508039,
     "wof:placetype":"postalcode",

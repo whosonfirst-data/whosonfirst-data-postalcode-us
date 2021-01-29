@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008603,
-    "geom:area_square_m":80002402.101477,
+    "geom:area_square_m":80002402.101438,
     "geom:bbox":"-93.309231,41.170586,-93.167586,41.298773",
     "geom:latitude":41.234561,
     "geom:longitude":-93.243904,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.235597,
     "lbl:longitude":-93.245092,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Dallas",
+    "mz:postal_locality_alt":[
+        "Melcher"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688713,
         102191575,
         85633793,
+        102086411,
         85943107,
-        102086411
+        85688713
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779733"
     },
     "wof:country":"US",
-    "wof:geomhash":"949fb48b8f018dfa2ebedeb7b2c23a7d",
+    "wof:geomhash":"8f8cbf8e91642abd93942f9ac47cbddb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554725505,
-    "wof:lastmodified":1480915994,
+    "wof:lastmodified":1611183254,
     "wof:name":"50062",
     "wof:parent_id":85943107,
     "wof:placetype":"postalcode",

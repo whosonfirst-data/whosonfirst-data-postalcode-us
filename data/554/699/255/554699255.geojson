@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.056365,
-    "geom:area_square_m":495461053.515921,
+    "geom:area_square_m":495461053.515893,
     "geom:bbox":"-71.858382,44.484524,-71.494691,44.912098",
     "geom:latitude":44.693529,
     "geom:longitude":-71.669147,
@@ -14,20 +14,22 @@
     "lbl:latitude":44.702095,
     "lbl:longitude":-71.679481,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Guildhall",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688763,
         102191575,
-        404527531,
         85633793,
-        102080725
+        102080725,
+        404527531,
+        85688763
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760165"
     },
     "wof:country":"US",
-    "wof:geomhash":"21355b3130ca0049face686951390e2c",
+    "wof:geomhash":"cd2d6265d373121e1db3971506d60cde",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554699255,
-    "wof:lastmodified":1480905232,
+    "wof:lastmodified":1611184630,
     "wof:name":"05905",
     "wof:parent_id":404527531,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001435,
-    "geom:area_square_m":15917132.882577,
+    "geom:area_square_m":15917132.882536,
     "geom:bbox":"-80.10957,26.204531,-80.072167,26.30539",
     "geom:latitude":26.245874,
     "geom:longitude":-80.08992,
@@ -13,20 +13,26 @@
     "lbl:latitude":26.241077,
     "lbl:longitude":-80.091233,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pompano Beach",
+    "mz:postal_locality_alt":[
+        "Hillsboro Beach",
+        "Hialeah"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688651,
         102191575,
         85633793,
+        102084727,
         85932289,
-        102084727
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12772099"
     },
     "wof:country":"US",
-    "wof:geomhash":"539428e883d62d41fe659d2d435839e9",
+    "wof:geomhash":"41bff31637b323bbe923dc00d57e7da0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554781485,
-    "wof:lastmodified":1480802318,
+    "wof:lastmodified":1611184811,
     "wof:name":"33062",
     "wof:parent_id":85932289,
     "wof:placetype":"postalcode",

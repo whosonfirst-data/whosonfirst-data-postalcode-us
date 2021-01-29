@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006791,
-    "geom:area_square_m":68433282.113164,
+    "geom:area_square_m":68433282.113178,
     "geom:bbox":"-89.849046,35.376568,-89.704145,35.472375",
     "geom:latitude":35.418825,
     "geom:longitude":-89.76756,
@@ -14,20 +14,25 @@
     "lbl:latitude":35.411411,
     "lbl:longitude":-89.759757,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Atoka",
+    "mz:postal_locality_alt":[
+        "Munford"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688701,
         102191575,
         85633793,
+        102086277,
         101723151,
-        102086277
+        85688701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12774229"
     },
     "wof:country":"US",
-    "wof:geomhash":"ea31ea85401d3d763ba25c8ca34ec9c7",
+    "wof:geomhash":"ea5341a54506a918ad29475f4512a4eb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554717221,
-    "wof:lastmodified":1480912688,
+    "wof:lastmodified":1611184993,
     "wof:name":"38004",
     "wof:parent_id":101723151,
     "wof:placetype":"postalcode",

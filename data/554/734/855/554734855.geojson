@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013699,
-    "geom:area_square_m":128946330.020655,
+    "geom:area_square_m":128946330.020651,
     "geom:bbox":"-91.381769,40.352459,-91.215978,40.491695",
     "geom:latitude":40.42577,
     "geom:longitude":-91.302793,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.426611,
     "lbl:longitude":-91.295738,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hamilton",
+    "mz:postal_locality_alt":[
+        "Nauvoo"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404497947,
         85633793,
-        102082845
+        102082845,
+        404497947,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785090"
     },
     "wof:country":"US",
-    "wof:geomhash":"cff500b84e11f19f4c31a3635689da8e",
+    "wof:geomhash":"b8603b359c95add7f60f911e5b1d227c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554734855,
-    "wof:lastmodified":1480911022,
+    "wof:lastmodified":1611184204,
     "wof:name":"62341",
     "wof:parent_id":404497947,
     "wof:placetype":"postalcode",

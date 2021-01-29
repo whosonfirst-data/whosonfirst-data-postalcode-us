@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.082671,
-    "geom:area_square_m":813828409.097351,
+    "geom:area_square_m":813828409.097554,
     "geom:bbox":"-100.742933,37.000022,-100.430476,37.445685",
     "geom:latitude":37.238765,
     "geom:longitude":-100.572671,
@@ -14,20 +14,25 @@
     "lbl:latitude":37.236184,
     "lbl:longitude":-100.566487,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Plains",
+    "mz:postal_locality_alt":[
+        "Satanta"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404504297,
         85633793,
-        102084211
+        102084211,
+        404504297,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787449"
     },
     "wof:country":"US",
-    "wof:geomhash":"2e522095bcc245e0c7aebd8e59451f95",
+    "wof:geomhash":"51b1ae9de75afed59bb4c785952c7554",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554739351,
-    "wof:lastmodified":1480836420,
+    "wof:lastmodified":1611182667,
     "wof:name":"67869",
     "wof:parent_id":404504297,
     "wof:placetype":"postalcode",

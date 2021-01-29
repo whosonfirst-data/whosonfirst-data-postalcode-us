@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018139,
-    "geom:area_square_m":182812500.772116,
+    "geom:area_square_m":182812500.772084,
     "geom:bbox":"-80.763691,35.331115,-80.587641,35.503794",
     "geom:latitude":35.408487,
     "geom:longitude":-80.675209,
@@ -13,20 +13,27 @@
     "lbl:latitude":35.406991,
     "lbl:longitude":-80.685957,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Concord",
+    "mz:postal_locality_alt":[
+        "Harrisburg",
+        "Forest City",
+        "Kannapolis"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688773,
         102191575,
         85633793,
+        102087733,
         85981159,
-        102087733
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12769373"
     },
     "wof:country":"US",
-    "wof:geomhash":"95822393e6b0ee5a0c4465fd4d6e52c4",
+    "wof:geomhash":"43a3dc0029160ffb1496adee618b8314",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +45,7 @@
         }
     ],
     "wof:id":554711065,
-    "wof:lastmodified":1480906990,
+    "wof:lastmodified":1611185309,
     "wof:name":"28027",
     "wof:parent_id":85981159,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019881,
-    "geom:area_square_m":178919352.516907,
+    "geom:area_square_m":178919352.516948,
     "geom:bbox":"-71.786386,43.216063,-71.56452,43.384494",
     "geom:latitude":43.29812,
     "geom:longitude":-71.671824,
@@ -13,20 +13,27 @@
     "lbl:latitude":43.311685,
     "lbl:longitude":-71.665421,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Concord",
+    "mz:postal_locality_alt":[
+        "Boscawen",
+        "Penacook",
+        "Webster"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688689,
         102191575,
-        404477151,
         85633793,
-        102086515
+        102086515,
+        404477151,
+        85688689
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759188"
     },
     "wof:country":"US",
-    "wof:geomhash":"99b8ada32b57eb408d51c8e786d48cc9",
+    "wof:geomhash":"0eb374aabeb881cbdcf702afb24fd319",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +45,7 @@
         }
     ],
     "wof:id":554697849,
-    "wof:lastmodified":1480913718,
+    "wof:lastmodified":1611184656,
     "wof:name":"03303",
     "wof:parent_id":404477151,
     "wof:placetype":"postalcode",

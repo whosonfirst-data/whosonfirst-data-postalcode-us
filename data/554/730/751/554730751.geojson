@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015349,
-    "geom:area_square_m":124586378.915055,
+    "geom:area_square_m":124586378.915014,
     "geom:bbox":"-97.239196,48.919174,-96.930856,49.000683",
     "geom:latitude":48.971095,
     "geom:longitude":-97.104786,
@@ -14,20 +14,25 @@
     "lbl:latitude":48.970326,
     "lbl:longitude":-97.097235,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Saint Vincent",
+    "mz:postal_locality_alt":[
+        "St Vincent"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404514149,
         85633793,
-        102087613
+        102087613,
+        404514149,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782683"
     },
     "wof:country":"US",
-    "wof:geomhash":"468e3ad7eb9ce26c391f8789a6b8dbfb",
+    "wof:geomhash":"00092bad5fc36015e0e27c355a66ebd0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554730751,
-    "wof:lastmodified":1480833230,
+    "wof:lastmodified":1611182743,
     "wof:name":"56755",
     "wof:parent_id":404514149,
     "wof:placetype":"postalcode",

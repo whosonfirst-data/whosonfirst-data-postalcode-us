@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012076,
-    "geom:area_square_m":111546161.952548,
+    "geom:area_square_m":111546161.952481,
     "geom:bbox":"-88.413769,41.60404,-88.252184,41.726186",
     "geom:latitude":41.665288,
     "geom:longitude":-88.323225,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.664136,
     "lbl:longitude":-88.317818,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Oswego",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404498411,
         85633793,
-        102083533
+        102083533,
+        404498411,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784226"
     },
     "wof:country":"US",
-    "wof:geomhash":"ab6ae27b5f799cb48ada7fc686e4e96b",
+    "wof:geomhash":"c9ebe87c3cce49af8dc66278dd2651f5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554733473,
-    "wof:lastmodified":1480916336,
+    "wof:lastmodified":1611184239,
     "wof:name":"60543",
     "wof:parent_id":404498411,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010789,
-    "geom:area_square_m":99063710.059711,
+    "geom:area_square_m":99063710.059726,
     "geom:bbox":"-71.830044,42.008065,-71.679242,42.100706",
     "geom:latitude":42.052809,
     "geom:longitude":-71.750846,
@@ -14,20 +14,25 @@
     "lbl:latitude":42.053072,
     "lbl:longitude":-71.752241,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Douglas",
+    "mz:postal_locality_alt":[
+        "East Douglas"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476545,
         85633793,
-        102084655
+        102084655,
+        404476545,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758480"
     },
     "wof:country":"US",
-    "wof:geomhash":"3f900dcdcc188cf57ea1f9eef2f1471f",
+    "wof:geomhash":"7c15af562cad2123d06aacaf6b4c984c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554697083,
-    "wof:lastmodified":1480817074,
+    "wof:lastmodified":1611184640,
     "wof:name":"01516",
     "wof:parent_id":404476545,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012953,
-    "geom:area_square_m":116756603.417196,
+    "geom:area_square_m":116756603.41717,
     "geom:bbox":"-71.787672,43.139372,-71.603042,43.260014",
     "geom:latitude":43.197808,
     "geom:longitude":-71.696839,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.202187,
     "lbl:longitude":-71.696803,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Contoocook",
+    "mz:postal_locality_alt":[
+        "Hopkinton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688689,
         102191575,
-        404476935,
         85633793,
-        102086515
+        102086515,
+        404476935,
+        85688689
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759135"
     },
     "wof:country":"US",
-    "wof:geomhash":"2a25f0eca6da2ff5fddc64dd2a0bc08c",
+    "wof:geomhash":"398bc3be4e87980c5ab1e26453f1b810",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554697763,
-    "wof:lastmodified":1480913719,
+    "wof:lastmodified":1611184634,
     "wof:name":"03229",
     "wof:parent_id":404476935,
     "wof:placetype":"postalcode",

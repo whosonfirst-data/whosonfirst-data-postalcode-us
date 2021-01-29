@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028531,
-    "geom:area_square_m":266167232.391481,
+    "geom:area_square_m":266167232.391455,
     "geom:bbox":"-84.217116,40.948173,-83.88056,41.108257",
     "geom:latitude":41.022055,
     "geom:longitude":-84.061715,
@@ -14,21 +14,28 @@
     "lbl:latitude":41.022008,
     "lbl:longitude":-84.061201,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ottawa",
+    "mz:postal_locality_alt":[
+        "Gilboa",
+        "Glandorf",
+        "Kalida"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404525841,
         85633793,
+        102084773,
+        404525841,
         101712355,
-        102084773
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777510"
     },
     "wof:country":"US",
-    "wof:geomhash":"057f448bf5926066249ce611ce2593c9",
+    "wof:geomhash":"eda998d7965ec247e892036a345f46bb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +48,7 @@
         }
     ],
     "wof:id":554722323,
-    "wof:lastmodified":1480797781,
+    "wof:lastmodified":1611183226,
     "wof:name":"45875",
     "wof:parent_id":101712355,
     "wof:placetype":"postalcode",

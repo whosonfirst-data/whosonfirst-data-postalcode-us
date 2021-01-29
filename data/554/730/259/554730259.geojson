@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014786,
-    "geom:area_square_m":127568014.693927,
+    "geom:area_square_m":127568014.693942,
     "geom:bbox":"-94.586584,45.69545,-94.315098,45.817189",
     "geom:latitude":45.756012,
     "geom:longitude":-94.446176,
@@ -14,20 +14,25 @@
     "lbl:latitude":45.759467,
     "lbl:longitude":-94.429019,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Holdingford",
+    "mz:postal_locality_alt":[
+        "Upsala"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404514241,
         85633793,
-        102087719
+        102087719,
+        404514241,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782428"
     },
     "wof:country":"US",
-    "wof:geomhash":"456770fe46cfe12700590a6e20287c11",
+    "wof:geomhash":"9e90265e803ca75a3a2e0012132e947e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554730259,
-    "wof:lastmodified":1480788131,
+    "wof:lastmodified":1611182731,
     "wof:name":"56340",
     "wof:parent_id":404514241,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028278,
-    "geom:area_square_m":277237141.789434,
+    "geom:area_square_m":277237141.789312,
     "geom:bbox":"-92.5223,37.428705,-92.250987,37.663855",
     "geom:latitude":37.544259,
     "geom:longitude":-92.400184,
@@ -14,20 +14,22 @@
     "lbl:latitude":37.547434,
     "lbl:longitude":-92.401801,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Falcon",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404518397,
         85633793,
-        102085341
+        102085341,
+        404518397,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786492"
     },
     "wof:country":"US",
-    "wof:geomhash":"b4d90a6a3341ae62c08196c816469754",
+    "wof:geomhash":"f0cd6ba219bed496062c15c66fd103e7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554737421,
-    "wof:lastmodified":1480905766,
+    "wof:lastmodified":1611182850,
     "wof:name":"65470",
     "wof:parent_id":404518397,
     "wof:placetype":"postalcode",

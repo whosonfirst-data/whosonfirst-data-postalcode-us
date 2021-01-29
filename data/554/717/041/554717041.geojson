@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012874,
-    "geom:area_square_m":129045086.100665,
+    "geom:area_square_m":129045086.100636,
     "geom:bbox":"-84.396123,35.755973,-84.236546,35.902984",
     "geom:latitude":35.839297,
     "geom:longitude":-84.316551,
@@ -13,19 +13,26 @@
     "lbl:latitude":35.840726,
     "lbl:longitude":-84.321728,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lenoir City",
+    "mz:postal_locality_alt":[
+        "Bean Station",
+        "Gatlinburg",
+        "Loudon"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688701,
-        102086315
+        102086315,
+        85688701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12774119"
     },
     "wof:country":"US",
-    "wof:geomhash":"4f28ebf377f2ddf7b906902436359756",
+    "wof:geomhash":"008f1df7ce50b3a957b781995732965c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +43,7 @@
         }
     ],
     "wof:id":554717041,
-    "wof:lastmodified":1480912107,
+    "wof:lastmodified":1611184991,
     "wof:name":"37771",
     "wof:parent_id":102086315,
     "wof:placetype":"postalcode",

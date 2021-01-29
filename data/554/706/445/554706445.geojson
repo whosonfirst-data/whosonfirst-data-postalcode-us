@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003475,
-    "geom:area_square_m":32843494.701488,
+    "geom:area_square_m":32843494.701494,
     "geom:bbox":"-75.326934,40.122201,-75.22534,40.193337",
     "geom:latitude":40.157354,
     "geom:longitude":-75.277234,
@@ -13,21 +13,28 @@
     "lbl:latitude":40.15681,
     "lbl:longitude":-75.279393,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Blue Bell",
+    "mz:postal_locality_alt":[
+        "Penllyn",
+        "Norristown",
+        "Center Square"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485725,
         85633793,
+        102081355,
+        404485725,
         101719565,
-        102081355
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765629"
     },
     "wof:country":"US",
-    "wof:geomhash":"e95e02bf83eac1e8306eb4d234ce712d",
+    "wof:geomhash":"75c21b01e08b82318f5eb224dc110209",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +47,7 @@
         }
     ],
     "wof:id":554706445,
-    "wof:lastmodified":1480818599,
+    "wof:lastmodified":1611182709,
     "wof:name":"19422",
     "wof:parent_id":101719565,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022398,
-    "geom:area_square_m":239864348.054859,
+    "geom:area_square_m":239864348.054808,
     "geom:bbox":"-98.010419,29.916,-97.694605,30.062277",
     "geom:latitude":29.994959,
     "geom:longitude":-97.828138,
@@ -14,19 +14,26 @@
     "lbl:latitude":29.99911,
     "lbl:longitude":-97.828217,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Kyle",
+    "mz:postal_locality_alt":[
+        "San Marcos",
+        "Paige",
+        "Niederwald"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688753,
-        102080715
+        102080715,
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12792243"
     },
     "wof:country":"US",
-    "wof:geomhash":"cc2f3d7fb288d1d0623cdfe0e3c57dd0",
+    "wof:geomhash":"fd7474f6299b0a5f255b070a9563847e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +44,7 @@
         }
     ],
     "wof:id":554747005,
-    "wof:lastmodified":1480903603,
+    "wof:lastmodified":1611183481,
     "wof:name":"78640",
     "wof:parent_id":102080715,
     "wof:placetype":"postalcode",

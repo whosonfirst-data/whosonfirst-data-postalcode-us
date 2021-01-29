@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02274,
-    "geom:area_square_m":200085573.585133,
+    "geom:area_square_m":200085573.585122,
     "geom:bbox":"-123.371391,44.557177,-123.169674,44.720225",
     "geom:latitude":44.636401,
     "geom:longitude":-123.27661,
@@ -14,19 +14,24 @@
     "lbl:latitude":44.647997,
     "lbl:longitude":-123.259576,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Corvallis",
+    "mz:postal_locality_alt":[
+        "Adair Village"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688513,
-        102081237
+        102081237,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12798583"
     },
     "wof:country":"US",
-    "wof:geomhash":"d6ad52bbdb367c4c06330e807daae418",
+    "wof:geomhash":"2ef16de34bbfa61bead1056faf2e0a1a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554754779,
-    "wof:lastmodified":1480833652,
+    "wof:lastmodified":1611182897,
     "wof:name":"97330",
     "wof:parent_id":102081237,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024999,
-    "geom:area_square_m":215748305.212626,
+    "geom:area_square_m":215748305.212534,
     "geom:bbox":"-98.304411,45.646697,-98.082504,45.835401",
     "geom:latitude":45.738214,
     "geom:longitude":-98.182895,
@@ -14,20 +14,22 @@
     "lbl:latitude":45.737409,
     "lbl:longitude":-98.176157,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Houghton",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688693,
         102191575,
-        404489443,
         85633793,
-        102086843
+        102086843,
+        404489443,
+        85688693
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782933"
     },
     "wof:country":"US",
-    "wof:geomhash":"a6f23c43a3f3c7cf493fce7d42618536",
+    "wof:geomhash":"2cda89f7e7cde65ff552c26c4dab21e7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554731247,
-    "wof:lastmodified":1480908954,
+    "wof:lastmodified":1611183080,
     "wof:name":"57449",
     "wof:parent_id":404489443,
     "wof:placetype":"postalcode",

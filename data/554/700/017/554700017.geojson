@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001551,
-    "geom:area_square_m":14460940.965063,
+    "geom:area_square_m":14460940.965056,
     "geom:bbox":"-74.176283,41.040506,-74.114444,41.077908",
     "geom:latitude":41.059443,
     "geom:longitude":-74.145621,
@@ -14,21 +14,27 @@
     "lbl:latitude":41.059136,
     "lbl:longitude":-74.145931,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ramsey",
+    "mz:postal_locality_alt":[
+        "Upper Saddle Rvr",
+        "Butler"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477713,
         85633793,
+        102086773,
+        404477713,
         85975945,
-        102086773
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760756"
     },
     "wof:country":"US",
-    "wof:geomhash":"083037fd5ec5b2921358519562b6b9f6",
+    "wof:geomhash":"c8c8097d0d38ad9431747cf526f3188c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554700017,
-    "wof:lastmodified":1480908561,
+    "wof:lastmodified":1611183200,
     "wof:name":"07446",
     "wof:parent_id":85975945,
     "wof:placetype":"postalcode",

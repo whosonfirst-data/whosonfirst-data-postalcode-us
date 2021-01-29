@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017791,
-    "geom:area_square_m":187638151.167408,
+    "geom:area_square_m":187638151.167529,
     "geom:bbox":"-97.19421,31.381604,-96.990139,31.559257",
     "geom:latitude":31.466507,
     "geom:longitude":-97.091253,
@@ -13,19 +13,24 @@
     "lbl:latitude":31.475671,
     "lbl:longitude":-97.083854,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Waco",
+    "mz:postal_locality_alt":[
+        "Robinson"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688753,
-        102085007
+        102085007,
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12791228"
     },
     "wof:country":"US",
-    "wof:geomhash":"84377b80ec376eff48a590c4444a5b97",
+    "wof:geomhash":"cab733fb08a0074b9bd5ff0aa79e3613",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +41,7 @@
         }
     ],
     "wof:id":554745651,
-    "wof:lastmodified":1480819223,
+    "wof:lastmodified":1611185264,
     "wof:name":"76706",
     "wof:parent_id":102085007,
     "wof:placetype":"postalcode",

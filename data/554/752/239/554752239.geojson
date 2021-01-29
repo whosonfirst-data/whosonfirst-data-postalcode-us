@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0498,
-    "geom:area_square_m":517192673.886543,
+    "geom:area_square_m":517192673.886444,
     "geom:bbox":"-115.914222,32.77438,-115.432381,32.973579",
     "geom:latitude":32.872299,
     "geom:longitude":-115.69004,
@@ -14,19 +14,24 @@
     "lbl:latitude":32.881449,
     "lbl:longitude":-115.675459,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Imperial",
+    "mz:postal_locality_alt":[
+        "Calexico"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688637,
-        102080869
+        102080869,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796365"
     },
     "wof:country":"US",
-    "wof:geomhash":"2f68435ea0ed9d6ba884f6601f64df91",
+    "wof:geomhash":"ab7bed6c3663899f3b026afe93a8a76f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554752239,
-    "wof:lastmodified":1480903321,
+    "wof:lastmodified":1611182549,
     "wof:name":"92251",
     "wof:parent_id":102080869,
     "wof:placetype":"postalcode",

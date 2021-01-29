@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002172,
-    "geom:area_square_m":19543632.999032,
+    "geom:area_square_m":19543632.999037,
     "geom:bbox":"-70.990975,43.279626,-70.896317,43.379205",
     "geom:latitude":43.320014,
     "geom:longitude":-70.941318,
@@ -13,21 +13,27 @@
     "lbl:latitude":43.323179,
     "lbl:longitude":-70.93365,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Rochester",
+    "mz:postal_locality_alt":[
+        "Portsmouth",
+        "Milton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688689,
         102191575,
-        404476807,
         85633793,
+        102085609,
+        404476807,
         85975055,
-        102085609
+        85688689
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759334"
     },
     "wof:country":"US",
-    "wof:geomhash":"94adc3fc50a6c4bdec023b97d5424af7",
+    "wof:geomhash":"8397ac923f1d383c8f09dd4c9cdfe99c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +46,7 @@
         }
     ],
     "wof:id":554698099,
-    "wof:lastmodified":1480806746,
+    "wof:lastmodified":1611184684,
     "wof:name":"03868",
     "wof:parent_id":85975055,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.115738,
-    "geom:area_square_m":1109799387.921412,
+    "geom:area_square_m":1109799387.921077,
     "geom:bbox":"-107.023891,38.97772,-106.489103,39.33323",
     "geom:latitude":39.15157,
     "geom:longitude":-106.771382,
@@ -13,19 +13,27 @@
     "lbl:latitude":39.158172,
     "lbl:longitude":-106.66856,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Aspen",
+    "mz:postal_locality_alt":[
+        "Snowmass Village",
+        "Woody Creek",
+        "Carbondale",
+        "Wolcott"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688603,
-        102084035
+        102084035,
+        85688603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12793477"
     },
     "wof:country":"US",
-    "wof:geomhash":"7648244d3681c0d70f33ca3ecc40707b",
+    "wof:geomhash":"9227331802e441f8a6d55b0e527961a7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +44,7 @@
         }
     ],
     "wof:id":554748793,
-    "wof:lastmodified":1480835506,
+    "wof:lastmodified":1611183846,
     "wof:name":"81611",
     "wof:parent_id":102084035,
     "wof:placetype":"postalcode",

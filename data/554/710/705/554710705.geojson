@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002526,
-    "geom:area_square_m":25354619.680873,
+    "geom:area_square_m":25354619.680863,
     "geom:bbox":"-78.81389,35.688297,-78.728944,35.766504",
     "geom:latitude":35.729858,
     "geom:longitude":-78.77349,
@@ -13,20 +13,25 @@
     "lbl:latitude":35.731139,
     "lbl:longitude":-78.773206,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cary",
+    "mz:postal_locality_alt":[
+        "Apex"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688773,
         102191575,
         85633793,
+        102087821,
         85980827,
-        102087821
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12769083"
     },
     "wof:country":"US",
-    "wof:geomhash":"27e92887d46fe9d5fe081b4d304ace5f",
+    "wof:geomhash":"ec9766db0aba6e4c2f466fc7b3df8eae",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554710705,
-    "wof:lastmodified":1480787148,
+    "wof:lastmodified":1611185118,
     "wof:name":"27518",
     "wof:parent_id":85980827,
     "wof:placetype":"postalcode",

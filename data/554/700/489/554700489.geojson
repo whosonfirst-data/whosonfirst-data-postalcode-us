@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001365,
-    "geom:area_square_m":12936087.654066,
+    "geom:area_square_m":12936087.654022,
     "geom:bbox":"-75.108314,39.924201,-75.013114,39.976315",
     "geom:latitude":39.950313,
     "geom:longitude":-75.050586,
@@ -14,21 +14,26 @@
     "lbl:latitude":39.951291,
     "lbl:longitude":-75.050129,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Merchantville",
+    "mz:postal_locality_alt":[
+        "Pennsauken"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478019,
         85633793,
+        102081131,
+        404478019,
         85975645,
-        102081131
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761076"
     },
     "wof:country":"US",
-    "wof:geomhash":"e0e90ea137921d1d26429a27a792c984",
+    "wof:geomhash":"377b45206ee85f932029c947ff7fcc8e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554700489,
-    "wof:lastmodified":1480823438,
+    "wof:lastmodified":1611183201,
     "wof:name":"08109",
     "wof:parent_id":85975645,
     "wof:placetype":"postalcode",

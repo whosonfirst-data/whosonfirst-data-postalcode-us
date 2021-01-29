@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000752,
-    "geom:area_square_m":8333906.763199,
+    "geom:area_square_m":8333906.763224,
     "geom:bbox":"-80.187438,26.230666,-80.166272,26.27423",
     "geom:latitude":26.253488,
     "geom:longitude":-80.177454,
@@ -13,20 +13,25 @@
     "lbl:latitude":26.252926,
     "lbl:longitude":-80.170374,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pompano Beach",
+    "mz:postal_locality_alt":[
+        "Coconut Creek"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688651,
         102191575,
         85633793,
+        102084727,
         85932425,
-        102084727
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12772103"
     },
     "wof:country":"US",
-    "wof:geomhash":"610136b32e22ff6a600b41f6f964bf92",
+    "wof:geomhash":"5e5730ebd5045ffe283a3406985a21ad",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554781493,
-    "wof:lastmodified":1480802317,
+    "wof:lastmodified":1611184831,
     "wof:name":"33066",
     "wof:parent_id":85932425,
     "wof:placetype":"postalcode",

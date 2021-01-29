@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028544,
-    "geom:area_square_m":243057802.996525,
+    "geom:area_square_m":243057802.996558,
     "geom:bbox":"-91.859389,46.374071,-91.585111,46.560648",
     "geom:latitude":46.476498,
     "geom:longitude":-91.724726,
@@ -14,20 +14,25 @@
     "lbl:latitude":46.481185,
     "lbl:longitude":-91.725682,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lake Nebagamon",
+    "mz:postal_locality_alt":[
+        "Poplar"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404492575,
         85633793,
-        102081291
+        102081291,
+        404492575,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781563"
     },
     "wof:country":"US",
-    "wof:geomhash":"690c26f37e78ca202b8b441c5fa521b9",
+    "wof:geomhash":"858280e6cc5e80c89527fc1148eb72ae",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554728735,
-    "wof:lastmodified":1480825339,
+    "wof:lastmodified":1611185076,
     "wof:name":"54849",
     "wof:parent_id":404492575,
     "wof:placetype":"postalcode",

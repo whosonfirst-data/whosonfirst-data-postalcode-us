@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019022,
-    "geom:area_square_m":178961131.722007,
+    "geom:area_square_m":178961131.721941,
     "geom:bbox":"-76.238358,40.369477,-76.002125,40.558544",
     "geom:latitude":40.459575,
     "geom:longitude":-76.125735,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.454218,
     "lbl:longitude":-76.12869,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bernville",
+    "mz:postal_locality_alt":[
+        "Mohrsville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404484595,
         85633793,
-        102080991
+        102080991,
+        404484595,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765685"
     },
     "wof:country":"US",
-    "wof:geomhash":"b883aff71b47c61e82d3556278a01f7f",
+    "wof:geomhash":"c3b66fd75b5dac5e81343961f681c537",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554706501,
-    "wof:lastmodified":1480903403,
+    "wof:lastmodified":1611182701,
     "wof:name":"19506",
     "wof:parent_id":404484595,
     "wof:placetype":"postalcode",

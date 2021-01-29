@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008293,
-    "geom:area_square_m":77130519.159112,
+    "geom:area_square_m":77130519.15911,
     "geom:bbox":"-112.128281,41.176139,-111.839816,41.25638",
     "geom:latitude":41.218689,
     "geom:longitude":-112.038162,
@@ -13,20 +13,26 @@
     "lbl:latitude":41.212012,
     "lbl:longitude":-112.034564,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ogden",
+    "mz:postal_locality_alt":[
+        "West Haven",
+        "Roy"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688567,
         102191575,
         85633793,
+        102083539,
         101728013,
-        102083539
+        85688567
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12794226"
     },
     "wof:country":"US",
-    "wof:geomhash":"140002ba0becad137341655f3807e138",
+    "wof:geomhash":"faf94fff0f68a6f2cc359674a30def09",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554750015,
-    "wof:lastmodified":1480840066,
+    "wof:lastmodified":1611184532,
     "wof:name":"84401",
     "wof:parent_id":101728013,
     "wof:placetype":"postalcode",

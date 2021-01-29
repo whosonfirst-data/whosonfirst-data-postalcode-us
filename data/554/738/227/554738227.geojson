@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036885,
-    "geom:area_square_m":353295532.41501,
+    "geom:area_square_m":353295532.414909,
     "geom:bbox":"-96.41741,39.086674,-96.202445,39.362507",
     "geom:latitude":39.229288,
     "geom:longitude":-96.304316,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.231558,
     "lbl:longitude":-96.295611,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wamego",
+    "mz:postal_locality_alt":[
+        "Louisville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404505559,
         85633793,
-        102082663
+        102082663,
+        404505559,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786899"
     },
     "wof:country":"US",
-    "wof:geomhash":"0e72c44aca3b2d9893f7bbe01a1f3f32",
+    "wof:geomhash":"b47684077b639dc42e6c09a34295af97",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554738227,
-    "wof:lastmodified":1480802729,
+    "wof:lastmodified":1611183097,
     "wof:name":"66547",
     "wof:parent_id":404505559,
     "wof:placetype":"postalcode",

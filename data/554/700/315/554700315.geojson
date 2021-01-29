@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003025,
-    "geom:area_square_m":28700815.130201,
+    "geom:area_square_m":28700815.130188,
     "geom:bbox":"-75.021247,39.85935,-74.926927,39.920728",
     "geom:latitude":39.88329,
     "geom:longitude":-74.972252,
@@ -14,21 +14,23 @@
     "lbl:latitude":39.882703,
     "lbl:longitude":-74.972036,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cherry Hill",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477993,
         85633793,
+        102081131,
+        404477993,
         85976229,
-        102081131
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760979"
     },
     "wof:country":"US",
-    "wof:geomhash":"0087d1a8098bf6df969dec211588161d",
+    "wof:geomhash":"b5313f6e71c253bd4ba259297d1fc92d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +43,7 @@
         }
     ],
     "wof:id":554700315,
-    "wof:lastmodified":1480823436,
+    "wof:lastmodified":1611183190,
     "wof:name":"08003",
     "wof:parent_id":85976229,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032515,
-    "geom:area_square_m":304458962.542341,
+    "geom:area_square_m":304458962.542416,
     "geom:bbox":"-82.722135,40.650854,-82.356039,40.885713",
     "geom:latitude":40.776034,
     "geom:longitude":-82.527375,
@@ -13,21 +13,29 @@
     "lbl:latitude":40.776344,
     "lbl:longitude":-82.527634,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mansfield",
+    "mz:postal_locality_alt":[
+        "Ontario",
+        "Shelby",
+        "Crestline",
+        "Lexington"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404523977,
         85633793,
+        102083681,
+        404523977,
         101712287,
-        102083681
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777018"
     },
     "wof:country":"US",
-    "wof:geomhash":"514abc1b2835dd67632f5c6c4e0138fd",
+    "wof:geomhash":"39d7f61f31d9919cf5d41df83a08548c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +48,7 @@
         }
     ],
     "wof:id":554721559,
-    "wof:lastmodified":1480841926,
+    "wof:lastmodified":1611184945,
     "wof:name":"44903",
     "wof:parent_id":101712287,
     "wof:placetype":"postalcode",

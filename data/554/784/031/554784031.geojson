@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000681,
-    "geom:area_square_m":6992977.974583,
+    "geom:area_square_m":6992977.974576,
     "geom:bbox":"-118.378741,33.872854,-118.331254,33.901936",
     "geom:latitude":33.888297,
     "geom:longitude":-118.351299,
@@ -13,20 +13,25 @@
     "lbl:latitude":33.88856,
     "lbl:longitude":-118.351813,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lawndale",
+    "mz:postal_locality_alt":[
+        "Hawthorne"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086957,
         85923535,
-        102086957
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795736"
     },
     "wof:country":"US",
-    "wof:geomhash":"19e413ff31901383d413bd1bc5500193",
+    "wof:geomhash":"43fae48ad9d4bc2cd53bc45a7c51d0a2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554784031,
-    "wof:lastmodified":1480912614,
+    "wof:lastmodified":1611183937,
     "wof:name":"90260",
     "wof:parent_id":85923535,
     "wof:placetype":"postalcode",

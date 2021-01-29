@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024309,
-    "geom:area_square_m":214098809.935099,
+    "geom:area_square_m":214098809.935108,
     "geom:bbox":"-97.33065,44.484859,-97.062687,44.659043",
     "geom:latitude":44.579825,
     "geom:longitude":-97.189393,
@@ -14,20 +14,26 @@
     "lbl:latitude":44.583539,
     "lbl:longitude":-97.187953,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lake Norden",
+    "mz:postal_locality_alt":[
+        "Milbank",
+        "Clark"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688693,
         102191575,
-        404490691,
         85633793,
-        102086845
+        102086845,
+        404490691,
+        85688693
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782818"
     },
     "wof:country":"US",
-    "wof:geomhash":"6dfd7929224ebeeb213cef7db28e5334",
+    "wof:geomhash":"b9884077d3d901a7227e698f8f50e2c4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554731005,
-    "wof:lastmodified":1480912399,
+    "wof:lastmodified":1611183086,
     "wof:name":"57248",
     "wof:parent_id":404490691,
     "wof:placetype":"postalcode",

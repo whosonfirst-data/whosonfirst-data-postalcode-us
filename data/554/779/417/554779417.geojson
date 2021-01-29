@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00041,
-    "geom:area_square_m":3831855.955809,
+    "geom:area_square_m":3831855.955804,
     "geom:bbox":"-73.871819,40.828447,-73.839908,40.857983",
     "geom:latitude":40.842803,
     "geom:longitude":-73.858635,
@@ -14,21 +14,26 @@
     "lbl:latitude":40.843267,
     "lbl:longitude":-73.860417,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bronx",
+    "mz:postal_locality_alt":[
+        "New York"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404521211,
         85633793,
+        102082361,
+        404521211,
         85977539,
-        102082361
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761507"
     },
     "wof:country":"US",
-    "wof:geomhash":"93f10cda7210de7f1f47cc0c3e35d684",
+    "wof:geomhash":"7ebdaee031f95c0e5c9eead9200abb98",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554779417,
-    "wof:lastmodified":1480843146,
+    "wof:lastmodified":1611183981,
     "wof:name":"10462",
     "wof:parent_id":85977539,
     "wof:placetype":"postalcode",

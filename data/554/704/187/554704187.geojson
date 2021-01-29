@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01822,
-    "geom:area_square_m":171665771.873273,
+    "geom:area_square_m":171665771.873248,
     "geom:bbox":"-79.163006,40.26789,-78.995216,40.464925",
     "geom:latitude":40.363571,
     "geom:longitude":-79.079692,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.363889,
     "lbl:longitude":-79.079158,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"New Florence",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404487583,
         85633793,
-        102081383
+        102081383,
+        404487583,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764089"
     },
     "wof:country":"US",
-    "wof:geomhash":"a9384541b13703163a9f343b50f7cc13",
+    "wof:geomhash":"ea7ea6cc9ce9baea9580d34acb5d9745",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554704187,
-    "wof:lastmodified":1480903614,
+    "wof:lastmodified":1611184499,
     "wof:name":"15944",
     "wof:parent_id":404487583,
     "wof:placetype":"postalcode",

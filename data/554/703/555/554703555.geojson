@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001774,
-    "geom:area_square_m":16682442.100163,
+    "geom:area_square_m":16682442.100153,
     "geom:bbox":"-79.945599,40.485855,-79.881526,40.526405",
     "geom:latitude":40.504842,
     "geom:longitude":-79.913819,
@@ -13,20 +13,27 @@
     "lbl:latitude":40.501295,
     "lbl:longitude":-79.912677,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pittsburgh",
+    "mz:postal_locality_alt":[
+        "Aspinwall",
+        "Sharpsburg",
+        "Blawnox"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404484155,
         85633793,
-        102080887
+        102080887,
+        404484155,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763656"
     },
     "wof:country":"US",
-    "wof:geomhash":"3b322a242f2e7d6616a2ac05757c6051",
+    "wof:geomhash":"86b2b8d0e4b7a2200cdbb5d96a8a8c05",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +45,7 @@
         }
     ],
     "wof:id":554703555,
-    "wof:lastmodified":1480905388,
+    "wof:lastmodified":1611184467,
     "wof:name":"15215",
     "wof:parent_id":404484155,
     "wof:placetype":"postalcode",

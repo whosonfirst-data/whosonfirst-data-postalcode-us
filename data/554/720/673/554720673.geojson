@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001827,
-    "geom:area_square_m":16874103.458232,
+    "geom:area_square_m":16874103.458238,
     "geom:bbox":"-83.64604,41.653289,-83.560792,41.691284",
     "geom:latitude":41.671723,
     "geom:longitude":-83.61085,
@@ -13,21 +13,26 @@
     "lbl:latitude":41.673136,
     "lbl:longitude":-83.611414,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Toledo",
+    "mz:postal_locality_alt":[
+        "Ottawa Hills"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404525355,
         85633793,
+        102084787,
+        404525355,
         101712039,
-        102084787
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776389"
     },
     "wof:country":"US",
-    "wof:geomhash":"c4f1a65e80ee70639bca0fc35102e076",
+    "wof:geomhash":"393f874cc1ca9a6d98efbed62a4fc4ea",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554720673,
-    "wof:lastmodified":1480797479,
+    "wof:lastmodified":1611185456,
     "wof:name":"43606",
     "wof:parent_id":101712039,
     "wof:placetype":"postalcode",

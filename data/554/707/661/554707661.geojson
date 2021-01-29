@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001929,
-    "geom:area_square_m":18593682.768056,
+    "geom:area_square_m":18593682.768037,
     "geom:bbox":"-77.165161,38.762629,-77.081443,38.803149",
     "geom:latitude":38.784662,
     "geom:longitude":-77.121498,
@@ -13,20 +13,25 @@
     "lbl:latitude":38.784071,
     "lbl:longitude":-77.122823,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Alexandria",
+    "mz:postal_locality_alt":[
+        "Franconia"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688747,
         102191575,
         85633793,
+        102084863,
         101729787,
-        102084863
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766893"
     },
     "wof:country":"US",
-    "wof:geomhash":"9b86d6bf7445729670e9829c74d4943a",
+    "wof:geomhash":"c95b16731f53a3ba04846fc70162092d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554707661,
-    "wof:lastmodified":1480905245,
+    "wof:lastmodified":1611183144,
     "wof:name":"22310",
     "wof:parent_id":101729787,
     "wof:placetype":"postalcode",

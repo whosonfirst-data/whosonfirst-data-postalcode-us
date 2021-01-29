@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004396,
-    "geom:area_square_m":42043170.974667,
+    "geom:area_square_m":42043170.974673,
     "geom:bbox":"-84.300156,39.294894,-84.185335,39.368465",
     "geom:latitude":39.327855,
     "geom:longitude":-84.239362,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.328643,
     "lbl:longitude":-84.245766,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Maineville",
+    "mz:postal_locality_alt":[
+        "Mason"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404526203,
         85633793,
-        102082423
+        102082423,
+        404526203,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777044"
     },
     "wof:country":"US",
-    "wof:geomhash":"72907ba77b405662fe8c73dcad6a8d71",
+    "wof:geomhash":"8e2aabdfb6e5d7d7b45c110675382aa6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554721595,
-    "wof:lastmodified":1480790803,
+    "wof:lastmodified":1611184945,
     "wof:name":"45039",
     "wof:parent_id":404526203,
     "wof:placetype":"postalcode",

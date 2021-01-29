@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010772,
-    "geom:area_square_m":97596561.161688,
+    "geom:area_square_m":97596561.161573,
     "geom:bbox":"-88.199079,42.822004,-88.069486,42.937202",
     "geom:latitude":42.884283,
     "geom:longitude":-88.12764,
@@ -14,21 +14,26 @@
     "lbl:latitude":42.871356,
     "lbl:longitude":-88.13432,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Muskego",
+    "mz:postal_locality_alt":[
+        "Franklin"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404495657,
         85633793,
+        102081741,
+        404495657,
         101733509,
-        102081741
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12780867"
     },
     "wof:country":"US",
-    "wof:geomhash":"d85cc1d462a62e60baa4ef80c003e685",
+    "wof:geomhash":"4dbd3b98ade1912d50a7596c347b2029",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554727637,
-    "wof:lastmodified":1480832495,
+    "wof:lastmodified":1611185525,
     "wof:name":"53150",
     "wof:parent_id":101733509,
     "wof:placetype":"postalcode",

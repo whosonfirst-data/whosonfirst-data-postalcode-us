@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044034,
-    "geom:area_square_m":426478646.516594,
+    "geom:area_square_m":426478646.516621,
     "geom:bbox":"-78.183366,38.298172,-77.839444,38.574972",
     "geom:latitude":38.439121,
     "geom:longitude":-77.997569,
@@ -14,19 +14,25 @@
     "lbl:latitude":38.438777,
     "lbl:longitude":-77.996261,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Culpeper",
+    "mz:postal_locality_alt":[
+        "Pratts",
+        "Castleton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688747,
-        102085941
+        102085941,
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12767020"
     },
     "wof:country":"US",
-    "wof:geomhash":"01fd6162c570556396d429b553f80f91",
+    "wof:geomhash":"f6c38510c9fc6a2c9a03bc0480b5fd6c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554707807,
-    "wof:lastmodified":1480813237,
+    "wof:lastmodified":1611183163,
     "wof:name":"22701",
     "wof:parent_id":102085941,
     "wof:placetype":"postalcode",

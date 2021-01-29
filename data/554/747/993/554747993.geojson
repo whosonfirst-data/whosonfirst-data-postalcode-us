@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000292,
-    "geom:area_square_m":2776613.929084,
+    "geom:area_square_m":2776613.929088,
     "geom:bbox":"-104.989178,39.716515,-104.97753,39.747596",
     "geom:latitude":39.731687,
     "geom:longitude":-104.98265,
@@ -13,20 +13,22 @@
     "lbl:latitude":39.731686,
     "lbl:longitude":-104.98265,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Denver",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688603,
         102191575,
         85633793,
+        102086135,
         85928879,
-        102086135
+        85688603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12792943"
     },
     "wof:country":"US",
-    "wof:geomhash":"a806ce110ac921185780efb3fe17b6c8",
+    "wof:geomhash":"bcb9297850ef902531f5c92b546de89a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +40,7 @@
         }
     ],
     "wof:id":554747993,
-    "wof:lastmodified":1480911598,
+    "wof:lastmodified":1611183470,
     "wof:name":"80203",
     "wof:parent_id":85928879,
     "wof:placetype":"postalcode",

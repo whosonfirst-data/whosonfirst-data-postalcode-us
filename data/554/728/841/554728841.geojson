@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018827,
-    "geom:area_square_m":166089719.815283,
+    "geom:area_square_m":166089719.815348,
     "geom:bbox":"-88.995977,44.406615,-88.77737,44.576039",
     "geom:latitude":44.483595,
     "geom:longitude":-88.912592,
@@ -14,20 +14,26 @@
     "lbl:latitude":44.483988,
     "lbl:longitude":-88.915485,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Manawa",
+    "mz:postal_locality_alt":[
+        "Larsen",
+        "Oshkosh"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404495447,
         85633793,
-        102081823
+        102081823,
+        404495447,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781630"
     },
     "wof:country":"US",
-    "wof:geomhash":"0c0dbc6f92028364ff2e7d7b202c0ce3",
+    "wof:geomhash":"e1b6cf077ae96d4c2bd4371ce7d51c8c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554728841,
-    "wof:lastmodified":1480829343,
+    "wof:lastmodified":1611185078,
     "wof:name":"54949",
     "wof:parent_id":404495447,
     "wof:placetype":"postalcode",

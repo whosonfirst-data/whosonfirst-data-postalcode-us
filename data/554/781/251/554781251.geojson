@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025717,
-    "geom:area_square_m":274929041.980252,
+    "geom:area_square_m":274929041.980528,
     "geom:bbox":"-83.753208,30.068296,-83.48774,30.29115",
     "geom:latitude":30.166845,
     "geom:longitude":-83.616,
@@ -13,19 +13,25 @@
     "lbl:latitude":30.174157,
     "lbl:longitude":-83.611588,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Perry",
+    "mz:postal_locality_alt":[
+        "Tallahassee",
+        "Madison"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688651,
-        102085799
+        102085799,
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12771665"
     },
     "wof:country":"US",
-    "wof:geomhash":"cc69028c2000fa910a06cd8ba6c3842f",
+    "wof:geomhash":"eb9b1d2d6e0ab86c1ae85fc22f6a1133",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +42,7 @@
         }
     ],
     "wof:id":554781251,
-    "wof:lastmodified":1480805186,
+    "wof:lastmodified":1611184818,
     "wof:name":"32347",
     "wof:parent_id":102085799,
     "wof:placetype":"postalcode",

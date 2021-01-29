@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01912,
-    "geom:area_square_m":176233635.819636,
+    "geom:area_square_m":176233635.819621,
     "geom:bbox":"-74.417444,41.684801,-74.244974,41.91307",
     "geom:latitude":41.805981,
     "geom:longitude":-74.325576,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.809559,
     "lbl:longitude":-74.326443,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Kerhonkson",
+    "mz:postal_locality_alt":[
+        "Accord"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404523265,
         85633793,
-        102081775
+        102081775,
+        404523265,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762279"
     },
     "wof:country":"US",
-    "wof:geomhash":"ca62f02047ba5b5c9388f1533b2f9c68",
+    "wof:geomhash":"c2d8e9f4dc9141f59b85651da58d87ba",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554701423,
-    "wof:lastmodified":1480819677,
+    "wof:lastmodified":1611182620,
     "wof:name":"12446",
     "wof:parent_id":404523265,
     "wof:placetype":"postalcode",

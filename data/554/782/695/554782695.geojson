@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035861,
-    "geom:area_square_m":319069994.065663,
+    "geom:area_square_m":319069994.065482,
     "geom:bbox":"-86.522591,43.819406,-86.30026,44.152928",
     "geom:latitude":43.982406,
     "geom:longitude":-86.405652,
@@ -14,20 +14,26 @@
     "lbl:latitude":43.985802,
     "lbl:longitude":-86.406481,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ludington",
+    "mz:postal_locality_alt":[
+        "Ferrysburg",
+        "Scottville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404508679,
         85633793,
-        102083743
+        102083743,
+        404508679,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779365"
     },
     "wof:country":"US",
-    "wof:geomhash":"11a8c667df3c8da7c77e00a1ecb14f5e",
+    "wof:geomhash":"9dad0127b7ed39c43e0ae007b0d0cf78",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554782695,
-    "wof:lastmodified":1480840677,
+    "wof:lastmodified":1611183612,
     "wof:name":"49431",
     "wof:parent_id":404508679,
     "wof:placetype":"postalcode",

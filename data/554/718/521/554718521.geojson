@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038505,
-    "geom:area_square_m":406860897.306485,
+    "geom:area_square_m":406860897.306553,
     "geom:bbox":"-90.635371,31.151705,-90.275478,31.39441",
     "geom:latitude":31.290974,
     "geom:longitude":-90.481889,
@@ -14,19 +14,25 @@
     "lbl:latitude":31.294966,
     "lbl:longitude":-90.482726,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Summit",
+    "mz:postal_locality_alt":[
+        "Mccomb",
+        "Jayess"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688579,
-        102084861
+        102084861,
+        85688579
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12775034"
     },
     "wof:country":"US",
-    "wof:geomhash":"bce607307c15d96e7185f6ae29e09681",
+    "wof:geomhash":"3f5ce40b9b4b223d17b34393addbde54",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554718521,
-    "wof:lastmodified":1480801197,
+    "wof:lastmodified":1611185561,
     "wof:name":"39666",
     "wof:parent_id":102084861,
     "wof:placetype":"postalcode",

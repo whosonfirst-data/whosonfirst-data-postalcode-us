@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00122,
-    "geom:area_square_m":10668385.589181,
+    "geom:area_square_m":10668385.589196,
     "geom:bbox":"-93.326809,44.984009,-93.273645,45.014935",
     "geom:latitude":44.99928,
     "geom:longitude":-93.298382,
@@ -13,21 +13,26 @@
     "lbl:latitude":44.999009,
     "lbl:longitude":-93.298363,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Minneapolis",
+    "mz:postal_locality_alt":[
+        "Bloomington"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404511883,
         85633793,
+        102087709,
+        404511883,
         85969169,
-        102087709
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781892"
     },
     "wof:country":"US",
-    "wof:geomhash":"1414d3319bde998a2fe7fde9b76242fc",
+    "wof:geomhash":"9642aed4453fc0370138fd97a623623e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554729327,
-    "wof:lastmodified":1480789093,
+    "wof:lastmodified":1611185440,
     "wof:name":"55411",
     "wof:parent_id":85969169,
     "wof:placetype":"postalcode",

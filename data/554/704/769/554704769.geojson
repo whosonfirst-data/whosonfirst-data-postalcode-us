@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009727,
-    "geom:area_square_m":91176072.071611,
+    "geom:area_square_m":91176072.07162,
     "geom:bbox":"-78.108091,40.658655,-77.879191,40.760439",
     "geom:latitude":40.710192,
     "geom:longitude":-77.995986,
@@ -14,21 +14,26 @@
     "lbl:latitude":40.712063,
     "lbl:longitude":-77.996064,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pennsylvania Furnace",
+    "mz:postal_locality_alt":[
+        "Penn Furnace"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485741,
         85633793,
+        102081369,
+        404485741,
         101720137,
-        102081369
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764497"
     },
     "wof:country":"US",
-    "wof:geomhash":"016745f8bbb5f722ef4453697db247e1",
+    "wof:geomhash":"f62e763519270b0bca10fadfc8f7ec7e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554704769,
-    "wof:lastmodified":1480904863,
+    "wof:lastmodified":1611184506,
     "wof:name":"16865",
     "wof:parent_id":101720137,
     "wof:placetype":"postalcode",

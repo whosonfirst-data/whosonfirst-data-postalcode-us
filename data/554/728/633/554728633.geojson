@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.068495,
-    "geom:area_square_m":600446253.886999,
+    "geom:area_square_m":600446253.886915,
     "geom:bbox":"-92.136348,44.692967,-91.726706,44.996156",
     "geom:latitude":44.850693,
     "geom:longitude":-91.93045,
@@ -14,20 +14,26 @@
     "lbl:latitude":44.85067,
     "lbl:longitude":-91.931558,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Menomonie",
+    "mz:postal_locality_alt":[
+        "Spring Valley",
+        "Downsville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404492739,
         85633793,
-        102081747
+        102081747,
+        404492739,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781505"
     },
     "wof:country":"US",
-    "wof:geomhash":"945b111d853b1e724574ded0c29b1048",
+    "wof:geomhash":"3cc0a951c1e5f6ee1aef2080c829c2d6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554728633,
-    "wof:lastmodified":1480830589,
+    "wof:lastmodified":1611185059,
     "wof:name":"54751",
     "wof:parent_id":404492739,
     "wof:placetype":"postalcode",

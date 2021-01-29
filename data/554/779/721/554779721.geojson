@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000422,
-    "geom:area_square_m":3955329.258996,
+    "geom:area_square_m":3955329.259002,
     "geom:bbox":"-73.825921,40.682897,-73.793908,40.719062",
     "geom:latitude":40.70123,
     "geom:longitude":-73.809641,
@@ -14,21 +14,28 @@
     "lbl:latitude":40.701229,
     "lbl:longitude":-73.80964,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Jamaica",
+    "mz:postal_locality_alt":[
+        "Queens",
+        "Briarwood",
+        "New York"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404521211,
         85633793,
+        102082361,
+        404521211,
         85977539,
-        102082361
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761826"
     },
     "wof:country":"US",
-    "wof:geomhash":"9ad3e8642cc358892e331c607b3a5b9b",
+    "wof:geomhash":"dfcfbaab77f53ff5ace6a91aebd30dfe",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +48,7 @@
         }
     ],
     "wof:id":554779721,
-    "wof:lastmodified":1480790270,
+    "wof:lastmodified":1611183989,
     "wof:name":"11435",
     "wof:parent_id":85977539,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003271,
-    "geom:area_square_m":29151386.283252,
+    "geom:area_square_m":29151386.283347,
     "geom:bbox":"-69.58479,43.81558,-69.5326,43.930747",
     "geom:latitude":43.877384,
     "geom:longitude":-69.559194,
@@ -14,20 +14,26 @@
     "lbl:latitude":43.871824,
     "lbl:longitude":-69.558279,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"South Bristol",
+    "mz:postal_locality_alt":[
+        "Newcastle",
+        "Damariscotta"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404475715,
         85633793,
-        102087447
+        102087447,
+        404475715,
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759641"
     },
     "wof:country":"US",
-    "wof:geomhash":"1f5c0862a2a0a8cd621ca8341975d142",
+    "wof:geomhash":"12d72327b8f2794ddbbaf3e659c149b9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554778791,
-    "wof:lastmodified":1480787195,
+    "wof:lastmodified":1611183426,
     "wof:name":"04568",
     "wof:parent_id":404475715,
     "wof:placetype":"postalcode",

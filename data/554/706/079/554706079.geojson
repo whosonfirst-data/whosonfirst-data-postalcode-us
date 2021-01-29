@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002253,
-    "geom:area_square_m":21263964.798071,
+    "geom:area_square_m":21263964.798056,
     "geom:bbox":"-75.118508,40.234485,-75.033577,40.277061",
     "geom:latitude":40.255219,
     "geom:longitude":-75.079799,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.255513,
     "lbl:longitude":-75.080152,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Jamison",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404482843,
         85633793,
-        102080987
+        102080987,
+        404482843,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765364"
     },
     "wof:country":"US",
-    "wof:geomhash":"65f41dcc936693d15a30b44262c2fdd9",
+    "wof:geomhash":"78d12c90c3cb8eb405e5cfb688cc46a8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554706079,
-    "wof:lastmodified":1480906417,
+    "wof:lastmodified":1611182687,
     "wof:name":"18929",
     "wof:parent_id":404482843,
     "wof:placetype":"postalcode",

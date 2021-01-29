@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007989,
-    "geom:area_square_m":73186952.103224,
+    "geom:area_square_m":73186952.103228,
     "geom:bbox":"-72.52429,42.153153,-72.395288,42.231847",
     "geom:latitude":42.192155,
     "geom:longitude":-72.458045,
@@ -14,20 +14,25 @@
     "lbl:latitude":42.183577,
     "lbl:longitude":-72.457812,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ludlow",
+    "mz:postal_locality_alt":[
+        "Hadley"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476359,
         85633793,
-        102084627
+        102084627,
+        404476359,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758320"
     },
     "wof:country":"US",
-    "wof:geomhash":"5988d2d7773650b4867362f87335a635",
+    "wof:geomhash":"16b1fb8b02e594c9d14edea87794d9d4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554696821,
-    "wof:lastmodified":1480803256,
+    "wof:lastmodified":1611184667,
     "wof:name":"01056",
     "wof:parent_id":404476359,
     "wof:placetype":"postalcode",

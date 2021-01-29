@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010939,
-    "geom:area_square_m":112060417.361218,
+    "geom:area_square_m":112060417.361245,
     "geom:bbox":"-84.177206,33.998882,-84.010095,34.131744",
     "geom:latitude":34.062376,
     "geom:longitude":-84.090645,
@@ -14,20 +14,31 @@
     "lbl:latitude":34.062971,
     "lbl:longitude":-84.09077,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Suwanee",
+    "mz:postal_locality_alt":[
+        "Lawrenceville",
+        "Conyers",
+        "Duluth",
+        "Alpharetta",
+        "Buford",
+        "Atlanta",
+        "Sugar Hill"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688535,
         102191575,
         85633793,
+        102082967,
         85936307,
-        102082967
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770510"
     },
     "wof:country":"US",
-    "wof:geomhash":"a1585111ad59a63b9b659fc222e3825e",
+    "wof:geomhash":"e21e23388640a0ccf7652fd26a8db6d7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +50,7 @@
         }
     ],
     "wof:id":554712685,
-    "wof:lastmodified":1480841937,
+    "wof:lastmodified":1611183723,
     "wof:name":"30024",
     "wof:parent_id":85936307,
     "wof:placetype":"postalcode",

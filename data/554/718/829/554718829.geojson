@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.047159,
-    "geom:area_square_m":457472813.087149,
+    "geom:area_square_m":457472813.08712,
     "geom:bbox":"-84.164099,38.1613,-83.870557,38.460624",
     "geom:latitude":38.323741,
     "geom:longitude":-84.024494,
@@ -14,19 +14,26 @@
     "lbl:latitude":38.332047,
     "lbl:longitude":-83.997108,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Carlisle",
+    "mz:postal_locality_alt":[
+        "Nicholasville",
+        "Millersburg",
+        "Midway"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688641,
-        102084553
+        102084553,
+        85688641
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12775230"
     },
     "wof:country":"US",
-    "wof:geomhash":"a417693d5066f882543a6606ce120148",
+    "wof:geomhash":"ace4bf690b31238ea881d88ba239ea59",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +44,7 @@
         }
     ],
     "wof:id":554718829,
-    "wof:lastmodified":1480808117,
+    "wof:lastmodified":1611185543,
     "wof:name":"40311",
     "wof:parent_id":102084553,
     "wof:placetype":"postalcode",

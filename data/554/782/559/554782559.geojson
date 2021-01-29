@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001624,
-    "geom:area_square_m":14829843.470579,
+    "geom:area_square_m":14829843.470559,
     "geom:bbox":"-82.965003,42.3873,-82.913897,42.436119",
     "geom:latitude":42.410695,
     "geom:longitude":-82.941265,
@@ -13,21 +13,23 @@
     "lbl:latitude":42.410694,
     "lbl:longitude":-82.941265,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Detroit",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404506393,
         85633793,
+        102083147,
+        404506393,
         85951091,
-        102083147
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778696"
     },
     "wof:country":"US",
-    "wof:geomhash":"982e4314a675659aaa4cf98ecfea9856",
+    "wof:geomhash":"240faed18c0210a144d9331eb7aaebec",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +42,7 @@
         }
     ],
     "wof:id":554782559,
-    "wof:lastmodified":1480840668,
+    "wof:lastmodified":1611183601,
     "wof:name":"48224",
     "wof:parent_id":85951091,
     "wof:placetype":"postalcode",

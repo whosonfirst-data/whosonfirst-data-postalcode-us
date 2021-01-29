@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01234,
-    "geom:area_square_m":109928817.351443,
+    "geom:area_square_m":109928817.351491,
     "geom:bbox":"-87.912015,43.848139,-87.688832,43.979686",
     "geom:latitude":43.908022,
     "geom:longitude":-87.786582,
@@ -14,20 +14,22 @@
     "lbl:latitude":43.907689,
     "lbl:longitude":-87.785999,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cleveland",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404495053,
         85633793,
-        102081871
+        102081871,
+        404495053,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12780763"
     },
     "wof:country":"US",
-    "wof:geomhash":"ded08336d96930ce7b8a87f9158bdf60",
+    "wof:geomhash":"19f760b088c569c34d07b03f769e7c43",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554727469,
-    "wof:lastmodified":1480820244,
+    "wof:lastmodified":1611185524,
     "wof:name":"53015",
     "wof:parent_id":404495053,
     "wof:placetype":"postalcode",

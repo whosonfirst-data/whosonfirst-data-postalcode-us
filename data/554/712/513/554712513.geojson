@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030198,
-    "geom:area_square_m":305471392.791181,
+    "geom:area_square_m":305471392.791085,
     "geom:bbox":"-81.38776,34.983451,-81.03247,35.164891",
     "geom:latitude":35.10646,
     "geom:longitude":-81.220358,
@@ -14,20 +14,28 @@
     "lbl:latitude":35.106284,
     "lbl:longitude":-81.221471,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Clover",
+    "mz:postal_locality_alt":[
+        "Lake Wylie",
+        "Fort Mill",
+        "York",
+        "Pageland"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688683,
         102191575,
         85633793,
+        102085661,
         101721095,
-        102085661
+        85688683
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770384"
     },
     "wof:country":"US",
-    "wof:geomhash":"a081df5ae6feee0287eae8caaaca3b3e",
+    "wof:geomhash":"860832af71d683e6f620ceb61a419daa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +47,7 @@
         }
     ],
     "wof:id":554712513,
-    "wof:lastmodified":1480906987,
+    "wof:lastmodified":1611183736,
     "wof:name":"29710",
     "wof:parent_id":101721095,
     "wof:placetype":"postalcode",

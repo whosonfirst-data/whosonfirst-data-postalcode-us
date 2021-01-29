@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025981,
-    "geom:area_square_m":249505224.901027,
+    "geom:area_square_m":249505224.900763,
     "geom:bbox":"-96.150202,38.898993,-95.946706,39.190099",
     "geom:latitude":39.044748,
     "geom:longitude":-96.039671,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.045216,
     "lbl:longitude":-96.068138,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Maple Hill",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404505391,
         85633793,
-        102082173
+        102082173,
+        404505391,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786866"
     },
     "wof:country":"US",
-    "wof:geomhash":"5f78c4d9d64fbf45b95430085e3e2d9c",
+    "wof:geomhash":"e373f0ed71c622e84bd6991073d53550",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554738153,
-    "wof:lastmodified":1480800694,
+    "wof:lastmodified":1611183109,
     "wof:name":"66507",
     "wof:parent_id":404505391,
     "wof:placetype":"postalcode",

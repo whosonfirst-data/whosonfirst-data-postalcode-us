@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.103268,
-    "geom:area_square_m":999955423.165679,
+    "geom:area_square_m":999955423.165391,
     "geom:bbox":"-122.497592,38.201909,-122.061379,38.846252",
     "geom:latitude":38.454939,
     "geom:longitude":-122.256392,
@@ -13,19 +13,27 @@
     "lbl:latitude":38.441977,
     "lbl:longitude":-122.238331,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Napa",
+    "mz:postal_locality_alt":[
+        "Oakville",
+        "San Leandro",
+        "Yountville",
+        "Rutherford"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688637,
-        102085383
+        102085383,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12797350"
     },
     "wof:country":"US",
-    "wof:geomhash":"1919989ec6a61945971355ac85fb695b",
+    "wof:geomhash":"f137c8d02df58498f869e3b6e917cd96",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +44,7 @@
         }
     ],
     "wof:id":554753155,
-    "wof:lastmodified":1480816520,
+    "wof:lastmodified":1611182955,
     "wof:name":"94558",
     "wof:parent_id":102085383,
     "wof:placetype":"postalcode",

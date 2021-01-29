@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014692,
-    "geom:area_square_m":138796828.740232,
+    "geom:area_square_m":138796828.740249,
     "geom:bbox":"-85.205008,40.09164,-85.07259,40.291144",
     "geom:latitude":40.181091,
     "geom:longitude":-85.132287,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.180757,
     "lbl:longitude":-85.133663,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Farmland",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404501705,
         85633793,
-        102086449
+        102086449,
+        404501705,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778166"
     },
     "wof:country":"US",
-    "wof:geomhash":"b5c2ae4154ae0b10396bb3afe352ae97",
+    "wof:geomhash":"c22fba23d343647a300816a89a1ac34d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554723313,
-    "wof:lastmodified":1480916347,
+    "wof:lastmodified":1611183793,
     "wof:name":"47340",
     "wof:parent_id":404501705,
     "wof:placetype":"postalcode",

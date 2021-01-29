@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007522,
-    "geom:area_square_m":71271706.940716,
+    "geom:area_square_m":71271706.940758,
     "geom:bbox":"-74.21286,39.933002,-74.091558,40.032166",
     "geom:latitude":39.979227,
     "geom:longitude":-74.155473,
@@ -13,21 +13,27 @@
     "lbl:latitude":39.979031,
     "lbl:longitude":-74.160429,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Toms River",
+    "mz:postal_locality_alt":[
+        "Brick",
+        "Lakewood"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477803,
         85633793,
+        102081485,
+        404477803,
         85976323,
-        102081485
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761247"
     },
     "wof:country":"US",
-    "wof:geomhash":"0795789d823c49437169ecfbe6916967",
+    "wof:geomhash":"937ffb7d33dd1571b1b4252ce6bc0201",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +46,7 @@
         }
     ],
     "wof:id":554700673,
-    "wof:lastmodified":1480817270,
+    "wof:lastmodified":1611183182,
     "wof:name":"08753",
     "wof:parent_id":85976323,
     "wof:placetype":"postalcode",

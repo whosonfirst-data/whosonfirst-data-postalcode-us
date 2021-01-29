@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000799,
-    "geom:area_square_m":7519904.120147,
+    "geom:area_square_m":7519904.120142,
     "geom:bbox":"-74.403543,40.428946,-74.353585,40.463878",
     "geom:latitude":40.445336,
     "geom:longitude":-74.378221,
@@ -14,21 +14,26 @@
     "lbl:latitude":40.445652,
     "lbl:longitude":-74.378458,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"South River",
+    "mz:postal_locality_alt":[
+        "Somerset"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478215,
         85633793,
+        102087417,
+        404478215,
         85975727,
-        102087417
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761313"
     },
     "wof:country":"US",
-    "wof:geomhash":"f60ccec5fd6cf5c27820206af910d7c9",
+    "wof:geomhash":"3b3433de8abc193aff38c031b72ca263",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554700783,
-    "wof:lastmodified":1480783320,
+    "wof:lastmodified":1611183191,
     "wof:name":"08882",
     "wof:parent_id":85975727,
     "wof:placetype":"postalcode",

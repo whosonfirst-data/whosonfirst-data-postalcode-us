@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031729,
-    "geom:area_square_m":308013920.597872,
+    "geom:area_square_m":308013920.597989,
     "geom:bbox":"-94.133179,38.191665,-93.84885,38.359738",
     "geom:latitude":38.272235,
     "geom:longitude":-93.985371,
@@ -14,20 +14,25 @@
     "lbl:latitude":38.281451,
     "lbl:longitude":-93.989507,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Montrose",
+    "mz:postal_locality_alt":[
+        "Clinton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404517145,
         85633793,
-        102080805
+        102080805,
+        404517145,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786260"
     },
     "wof:country":"US",
-    "wof:geomhash":"029d83fe360207fbd134e7352027603d",
+    "wof:geomhash":"1f860d6eec7fc7c63523e27d53039cce",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554736983,
-    "wof:lastmodified":1480904674,
+    "wof:lastmodified":1611183032,
     "wof:name":"64770",
     "wof:parent_id":404517145,
     "wof:placetype":"postalcode",

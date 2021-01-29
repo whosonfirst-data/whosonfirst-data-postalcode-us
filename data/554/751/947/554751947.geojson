@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001671,
-    "geom:area_square_m":17088416.419657,
+    "geom:area_square_m":17088416.41966,
     "geom:bbox":"-118.562289,34.180205,-118.518481,34.220985",
     "geom:latitude":34.201053,
     "geom:longitude":-118.54068,
@@ -13,20 +13,25 @@
     "lbl:latitude":34.200175,
     "lbl:longitude":-118.540958,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Reseda",
+    "mz:postal_locality_alt":[
+        "Tarzana"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086957,
         85923517,
-        102086957
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795986"
     },
     "wof:country":"US",
-    "wof:geomhash":"9135c1225d71fa0908ce00690a663eb6",
+    "wof:geomhash":"2f59af1057ee77fbb85deafbdcda7184",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554751947,
-    "wof:lastmodified":1480912619,
+    "wof:lastmodified":1611184341,
     "wof:name":"91335",
     "wof:parent_id":85923517,
     "wof:placetype":"postalcode",

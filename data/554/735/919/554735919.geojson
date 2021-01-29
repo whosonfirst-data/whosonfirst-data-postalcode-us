@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036885,
-    "geom:area_square_m":354458835.2279,
+    "geom:area_square_m":354458835.22788,
     "geom:bbox":"-91.110804,38.879033,-90.85691,39.115746",
     "geom:latitude":38.998175,
     "geom:longitude":-90.988804,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.001027,
     "lbl:longitude":-90.995571,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Troy",
+    "mz:postal_locality_alt":[
+        "O Fallon"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404517333,
         85633793,
-        102087479
+        102087479,
+        404517333,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785695"
     },
     "wof:country":"US",
-    "wof:geomhash":"a9de616afa7af14d3180e1bdeb093e11",
+    "wof:geomhash":"19b0b51f90887b939606d63a52534239",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554735919,
-    "wof:lastmodified":1480910510,
+    "wof:lastmodified":1611184443,
     "wof:name":"63379",
     "wof:parent_id":404517333,
     "wof:placetype":"postalcode",

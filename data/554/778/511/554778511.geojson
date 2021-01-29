@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000766,
-    "geom:area_square_m":7078458.64043,
+    "geom:area_square_m":7078458.640428,
     "geom:bbox":"-70.19736,41.647495,-70.146494,41.674036",
     "geom:latitude":41.65901,
     "geom:longitude":-70.171809,
@@ -14,21 +14,26 @@
     "lbl:latitude":41.660113,
     "lbl:longitude":-70.170678,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"West Dennis",
+    "mz:postal_locality_alt":[
+        "Eastham"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404475899,
         85633793,
+        102084379,
+        404475899,
         85950519,
-        102084379
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758936"
     },
     "wof:country":"US",
-    "wof:geomhash":"2e537a01887aa59c5d53ce9cac75dff3",
+    "wof:geomhash":"4b311fe36cb7518887d26f51cc1ac267",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554778511,
-    "wof:lastmodified":1480802732,
+    "wof:lastmodified":1611183435,
     "wof:name":"02670",
     "wof:parent_id":85950519,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003671,
-    "geom:area_square_m":33886958.867443,
+    "geom:area_square_m":33886958.867447,
     "geom:bbox":"-72.70804,41.668799,-72.615735,41.729908",
     "geom:latitude":41.701316,
     "geom:longitude":-72.670333,
@@ -13,21 +13,26 @@
     "lbl:latitude":41.702484,
     "lbl:longitude":-72.669301,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wethersfield",
+    "mz:postal_locality_alt":[
+        "Hartford"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688629,
         102191575,
-        404496005,
         85633793,
+        102085381,
+        404496005,
         85931011,
-        102085381
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760252"
     },
     "wof:country":"US",
-    "wof:geomhash":"e9dad06cc84cd4e6145e92d169d6ade7",
+    "wof:geomhash":"c757455383e2d0e5908d39e5c0a9223e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554699397,
-    "wof:lastmodified":1480815745,
+    "wof:lastmodified":1611184602,
     "wof:name":"06109",
     "wof:parent_id":85931011,
     "wof:placetype":"postalcode",

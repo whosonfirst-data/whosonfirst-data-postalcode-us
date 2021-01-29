@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009929,
-    "geom:area_square_m":103097761.919044,
+    "geom:area_square_m":103097761.919287,
     "geom:bbox":"-116.698089,32.822628,-116.543905,32.979124",
     "geom:latitude":32.887998,
     "geom:longitude":-116.621354,
@@ -14,20 +14,25 @@
     "lbl:latitude":32.887989,
     "lbl:longitude":-116.621354,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Descanso",
+    "mz:postal_locality_alt":[
+        "Guatay"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102083569,
         85925193,
-        102083569
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796167"
     },
     "wof:country":"US",
-    "wof:geomhash":"893d54451588dfbc51e99e97ec2592dc",
+    "wof:geomhash":"a2c766c58b39b9edcf3ebfbb32d62ee0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554752137,
-    "wof:lastmodified":1480835294,
+    "wof:lastmodified":1611182539,
     "wof:name":"91916",
     "wof:parent_id":85925193,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004869,
-    "geom:area_square_m":45272291.666979,
+    "geom:area_square_m":45272291.666969,
     "geom:bbox":"-80.807599,41.190431,-80.704229,41.272575",
     "geom:latitude":41.235151,
     "geom:longitude":-80.749053,
@@ -13,21 +13,26 @@
     "lbl:latitude":41.234548,
     "lbl:longitude":-80.747854,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Warren",
+    "mz:postal_locality_alt":[
+        "Niles"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404526155,
         85633793,
+        102083719,
+        404526155,
         101714017,
-        102083719
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776827"
     },
     "wof:country":"US",
-    "wof:geomhash":"51ac002f85851c4cda83e00896f596bc",
+    "wof:geomhash":"1be9ed3ea3b2d9a218ef0e6d530e69a0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554721271,
-    "wof:lastmodified":1480841913,
+    "wof:lastmodified":1611184971,
     "wof:name":"44484",
     "wof:parent_id":101714017,
     "wof:placetype":"postalcode",

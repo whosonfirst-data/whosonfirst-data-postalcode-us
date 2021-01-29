@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037133,
-    "geom:area_square_m":352345877.291801,
+    "geom:area_square_m":352345877.291888,
     "geom:bbox":"-100.926147,39.712212,-100.702303,40.002302",
     "geom:latitude":39.881013,
     "geom:longitude":-100.813592,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.878452,
     "lbl:longitude":-100.812808,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Herndon",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404505605,
         85633793,
-        102084169
+        102084169,
+        404505605,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787402"
     },
     "wof:country":"US",
-    "wof:geomhash":"4010cad16675a2e9a39be6eb476c4520",
+    "wof:geomhash":"9a3fd78bf2ed91124950028a9a6d828b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554739249,
-    "wof:lastmodified":1480843272,
+    "wof:lastmodified":1611182672,
     "wof:name":"67739",
     "wof:parent_id":404505605,
     "wof:placetype":"postalcode",

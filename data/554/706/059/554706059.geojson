@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005752,
-    "geom:area_square_m":54243036.999749,
+    "geom:area_square_m":54243036.999729,
     "geom:bbox":"-75.207523,40.261223,-75.087333,40.386369",
     "geom:latitude":40.305407,
     "geom:longitude":-75.148889,
@@ -13,20 +13,29 @@
     "lbl:latitude":40.306267,
     "lbl:longitude":-75.147144,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Doylestown",
+    "mz:postal_locality_alt":[
+        "New Britain",
+        "Plumsteadville",
+        "Fountainville",
+        "Warminster",
+        "Montgomeryville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404484807,
         85633793,
-        102080987
+        102080987,
+        404484807,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765345"
     },
     "wof:country":"US",
-    "wof:geomhash":"562c0187042208db41c2254ca3696da1",
+    "wof:geomhash":"2b1924e1bff979e94955f416d274bc87",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +47,7 @@
         }
     ],
     "wof:id":554706059,
-    "wof:lastmodified":1480906422,
+    "wof:lastmodified":1611182711,
     "wof:name":"18901",
     "wof:parent_id":404484807,
     "wof:placetype":"postalcode",

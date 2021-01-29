@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013089,
-    "geom:area_square_m":126388709.358726,
+    "geom:area_square_m":126388709.358731,
     "geom:bbox":"-78.776727,38.551961,-78.546907,38.739742",
     "geom:latitude":38.655749,
     "geom:longitude":-78.660213,
@@ -14,20 +14,25 @@
     "lbl:latitude":38.655841,
     "lbl:longitude":-78.661856,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"New Market",
+    "mz:postal_locality_alt":[
+        "Broadway"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688747,
         102191575,
         85633793,
+        102081061,
         101728879,
-        102081061
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12767079"
     },
     "wof:country":"US",
-    "wof:geomhash":"413206186e9076303c71e5d0bdebcce8",
+    "wof:geomhash":"a9656722ad2382012cb26bce446c43a1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554707927,
-    "wof:lastmodified":1480816322,
+    "wof:lastmodified":1611183169,
     "wof:name":"22844",
     "wof:parent_id":101728879,
     "wof:placetype":"postalcode",

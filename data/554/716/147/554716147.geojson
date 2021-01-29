@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004325,
-    "geom:area_square_m":45896553.617691,
+    "geom:area_square_m":45896553.617717,
     "geom:bbox":"-88.080862,30.858977,-87.957377,30.918724",
     "geom:latitude":30.890014,
     "geom:longitude":-88.018074,
@@ -14,20 +14,26 @@
     "lbl:latitude":30.890103,
     "lbl:longitude":-88.018704,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Creola",
+    "mz:postal_locality_alt":[
+        "Chunchula",
+        "Saraland"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688675,
         102191575,
         85633793,
+        102085585,
         85913761,
-        102085585
+        85688675
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12773550"
     },
     "wof:country":"US",
-    "wof:geomhash":"2c7bb3135a867f33ffc7f04aa587cf08",
+    "wof:geomhash":"394444625ebecd40911fae3abc64bc76",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554716147,
-    "wof:lastmodified":1480816142,
+    "wof:lastmodified":1611185402,
     "wof:name":"36525",
     "wof:parent_id":85913761,
     "wof:placetype":"postalcode",

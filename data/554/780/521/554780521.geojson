@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001813,
-    "geom:area_square_m":17368258.358805,
+    "geom:area_square_m":17368258.358794,
     "geom:bbox":"-76.645229,39.202699,-76.586755,39.258598",
     "geom:latitude":39.225889,
     "geom:longitude":-76.615258,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.226117,
     "lbl:longitude":-76.615735,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Brooklyn",
+    "mz:postal_locality_alt":[
+        "Baltimore"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688501,
         102191575,
         85633793,
+        102083469,
         85949701,
-        102083469
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766518"
     },
     "wof:country":"US",
-    "wof:geomhash":"e98056e09485e145d30b689445373fd1",
+    "wof:geomhash":"bf129e1624011582a472c4b9010df9f6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554780521,
-    "wof:lastmodified":1480843198,
+    "wof:lastmodified":1611185172,
     "wof:name":"21225",
     "wof:parent_id":85949701,
     "wof:placetype":"postalcode",

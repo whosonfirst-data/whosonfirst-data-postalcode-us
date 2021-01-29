@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002638,
-    "geom:area_square_m":24047939.695694,
+    "geom:area_square_m":24047939.695724,
     "geom:bbox":"-83.437586,42.468324,-83.377479,42.528077",
     "geom:latitude":42.504018,
     "geom:longitude":-83.408542,
@@ -13,21 +13,27 @@
     "lbl:latitude":42.502486,
     "lbl:longitude":-83.408936,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Farmington Hills",
+    "mz:postal_locality_alt":[
+        "Farmington",
+        "Farmingtn Hls"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404508187,
         85633793,
+        102083713,
+        404508187,
         85951999,
-        102083713
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778764"
     },
     "wof:country":"US",
-    "wof:geomhash":"827f5f09b93ef1e61b854328f72611a2",
+    "wof:geomhash":"d1a15cdf9a6e5061f11f586c6a962178",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +46,7 @@
         }
     ],
     "wof:id":554724165,
-    "wof:lastmodified":1480834714,
+    "wof:lastmodified":1611183758,
     "wof:name":"48331",
     "wof:parent_id":85951999,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021148,
-    "geom:area_square_m":199476807.839238,
+    "geom:area_square_m":199476807.839202,
     "geom:bbox":"-77.670212,40.185362,-77.432675,40.385115",
     "geom:latitude":40.285606,
     "geom:longitude":-77.543738,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.286783,
     "lbl:longitude":-77.546042,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Blain",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404486245,
         85633793,
-        102080963
+        102080963,
+        404486245,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764551"
     },
     "wof:country":"US",
-    "wof:geomhash":"52082e8b9bea0e080c7b47cd772654ef",
+    "wof:geomhash":"52e3b39addec499a123a77e3bf5e33ff",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554704871,
-    "wof:lastmodified":1480904075,
+    "wof:lastmodified":1611184512,
     "wof:name":"17006",
     "wof:parent_id":404486245,
     "wof:placetype":"postalcode",

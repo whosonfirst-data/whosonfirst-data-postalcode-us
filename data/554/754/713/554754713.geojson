@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003582,
-    "geom:area_square_m":31074355.374912,
+    "geom:area_square_m":31074355.374924,
     "geom:bbox":"-122.74411,45.424089,-122.645205,45.477869",
     "geom:latitude":45.453972,
     "geom:longitude":-122.699866,
@@ -13,20 +13,25 @@
     "lbl:latitude":45.454231,
     "lbl:longitude":-122.698526,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Portland",
+    "mz:postal_locality_alt":[
+        "Lake Oswego"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688513,
         102191575,
         85633793,
+        102081631,
         101715829,
-        102081631
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12798520"
     },
     "wof:country":"US",
-    "wof:geomhash":"978edf61388a31cf3e2a0af82d29c0ec",
+    "wof:geomhash":"3754a1fde0831d5be34fd64878bcbf6c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554754713,
-    "wof:lastmodified":1480817179,
+    "wof:lastmodified":1611182892,
     "wof:name":"97219",
     "wof:parent_id":101715829,
     "wof:placetype":"postalcode",

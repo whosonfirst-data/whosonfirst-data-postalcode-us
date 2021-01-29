@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003917,
-    "geom:area_square_m":40572972.557284,
+    "geom:area_square_m":40572972.55725,
     "geom:bbox":"-97.074852,33.079048,-96.964239,33.1445",
     "geom:latitude":33.110906,
     "geom:longitude":-97.011888,
@@ -14,20 +14,26 @@
     "lbl:latitude":33.110351,
     "lbl:longitude":-97.00547,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lake Dallas",
+    "mz:postal_locality_alt":[
+        "Denton",
+        "Corinth"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102087371,
         101724451,
-        102087371
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12790349"
     },
     "wof:country":"US",
-    "wof:geomhash":"1b0c7a46afebb519f613f088d7b12e20",
+    "wof:geomhash":"4af928c17f8565ba05418d2513d55aff",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554744227,
-    "wof:lastmodified":1480783425,
+    "wof:lastmodified":1611184713,
     "wof:name":"75065",
     "wof:parent_id":101724451,
     "wof:placetype":"postalcode",

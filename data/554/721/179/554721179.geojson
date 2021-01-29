@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00491,
-    "geom:area_square_m":45593391.068121,
+    "geom:area_square_m":45593391.068095,
     "geom:bbox":"-80.598185,41.272305,-80.519042,41.378981",
     "geom:latitude":41.326627,
     "geom:longitude":-80.549939,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.324106,
     "lbl:longitude":-80.556627,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Burghill",
+    "mz:postal_locality_alt":[
+        "Hartford"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404526153,
         85633793,
-        102083719
+        102083719,
+        404526153,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776779"
     },
     "wof:country":"US",
-    "wof:geomhash":"749dfccdf5916121a320ffa57c982428",
+    "wof:geomhash":"39d8fcfcb1ad8eb24e27512ab35bc094",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554721179,
-    "wof:lastmodified":1480906660,
+    "wof:lastmodified":1611184979,
     "wof:name":"44404",
     "wof:parent_id":404526153,
     "wof:placetype":"postalcode",

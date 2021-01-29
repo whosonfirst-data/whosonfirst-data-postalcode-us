@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001277,
-    "geom:area_square_m":13295305.530912,
+    "geom:area_square_m":13295305.530911,
     "geom:bbox":"-96.943248,32.644855,-96.891392,32.67667",
     "geom:latitude":32.660154,
     "geom:longitude":-96.913953,
@@ -13,20 +13,25 @@
     "lbl:latitude":32.66066,
     "lbl:longitude":-96.911882,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Duncanville",
+    "mz:postal_locality_alt":[
+        "Seagoville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102080647,
         101725687,
-        102080647
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12790386"
     },
     "wof:country":"US",
-    "wof:geomhash":"7571fb183e20cdd789aea65b0e3ac235",
+    "wof:geomhash":"d912856f9ab81bbb32c5b629c8caeaa9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554744289,
-    "wof:lastmodified":1480904892,
+    "wof:lastmodified":1611184715,
     "wof:name":"75116",
     "wof:parent_id":101725687,
     "wof:placetype":"postalcode",

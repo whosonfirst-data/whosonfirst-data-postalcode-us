@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007737,
-    "geom:area_square_m":73397106.562697,
+    "geom:area_square_m":73397106.562723,
     "geom:bbox":"-85.711014,39.844477,-85.5786,39.945755",
     "geom:latitude":39.893815,
     "geom:longitude":-85.644628,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.894213,
     "lbl:longitude":-85.644782,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wilkinson",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404500877,
         85633793,
-        102086473
+        102086473,
+        404500877,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777645"
     },
     "wof:country":"US",
-    "wof:geomhash":"6f282a83fefb98e3c23d5b0829c0e9ed",
+    "wof:geomhash":"a602a7a6d5da0a87768e5d9312edb3ea",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554722563,
-    "wof:lastmodified":1480912894,
+    "wof:lastmodified":1611183232,
     "wof:name":"46186",
     "wof:parent_id":404500877,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038777,
-    "geom:area_square_m":376176745.055766,
+    "geom:area_square_m":376176745.055381,
     "geom:bbox":"-92.69382,38.210743,-92.41929,38.430958",
     "geom:latitude":38.320883,
     "geom:longitude":-92.571157,
@@ -14,20 +14,28 @@
     "lbl:latitude":38.324361,
     "lbl:longitude":-92.564791,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Eldon",
+    "mz:postal_locality_alt":[
+        "Lake Ozark",
+        "Camdenton",
+        "Sunrise Beach",
+        "Meta"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404516917,
         85633793,
-        102087481
+        102087481,
+        404516917,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786326"
     },
     "wof:country":"US",
-    "wof:geomhash":"7b76645ac2982fbc133f382d71f19763",
+    "wof:geomhash":"e856029638d8fe77d20a6552599d0a5b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +47,7 @@
         }
     ],
     "wof:id":554737101,
-    "wof:lastmodified":1480832274,
+    "wof:lastmodified":1611182849,
     "wof:name":"65026",
     "wof:parent_id":404516917,
     "wof:placetype":"postalcode",

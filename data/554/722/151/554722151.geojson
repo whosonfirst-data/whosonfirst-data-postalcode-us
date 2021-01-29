@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018055,
-    "geom:area_square_m":172952883.58711,
+    "geom:area_square_m":172952883.586992,
     "geom:bbox":"-81.992426,39.157974,-81.722161,39.325373",
     "geom:latitude":39.222939,
     "geom:longitude":-81.827228,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.226272,
     "lbl:longitude":-81.823487,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Coolville",
+    "mz:postal_locality_alt":[
+        "Marietta"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404524835,
         85633793,
-        102084755
+        102084755,
+        404524835,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777407"
     },
     "wof:country":"US",
-    "wof:geomhash":"5ef745f0b53e315c628db82f77cb3031",
+    "wof:geomhash":"0fcea8b4b0c124f4830a2ed5b291185b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554722151,
-    "wof:lastmodified":1480843276,
+    "wof:lastmodified":1611183214,
     "wof:name":"45723",
     "wof:parent_id":404524835,
     "wof:placetype":"postalcode",

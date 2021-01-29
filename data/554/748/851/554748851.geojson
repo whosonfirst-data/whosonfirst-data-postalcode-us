@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016341,
-    "geom:area_square_m":152287870.313897,
+    "geom:area_square_m":152287870.313834,
     "geom:bbox":"-105.107216,41.018761,-104.713225,41.169551",
     "geom:latitude":41.091432,
     "geom:longitude":-104.934431,
@@ -13,19 +13,24 @@
     "lbl:latitude":41.092356,
     "lbl:longitude":-104.936269,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cheyenne",
+    "mz:postal_locality_alt":[
+        "Pine Bluffs"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688475,
-        102080769
+        102080769,
+        85688475
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12793513"
     },
     "wof:country":"US",
-    "wof:geomhash":"9687ddab0632a6ccde38c1e77a5bc78e",
+    "wof:geomhash":"d76818c26f37e57c7721f75d5b06ba3f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +41,7 @@
         }
     ],
     "wof:id":554748851,
-    "wof:lastmodified":1480903857,
+    "wof:lastmodified":1611183833,
     "wof:name":"82001",
     "wof:parent_id":102080769,
     "wof:placetype":"postalcode",

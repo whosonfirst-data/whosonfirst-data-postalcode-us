@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019581,
-    "geom:area_square_m":196106180.250385,
+    "geom:area_square_m":196106180.25039,
     "geom:bbox":"-84.000987,35.841138,-83.694578,35.968002",
     "geom:latitude":35.910714,
     "geom:longitude":-83.859277,
@@ -13,19 +13,24 @@
     "lbl:latitude":35.908752,
     "lbl:longitude":-83.869153,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Knoxville",
+    "mz:postal_locality_alt":[
+        "Rockford"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688701,
-        102086455
+        102086455,
+        85688701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12774205"
     },
     "wof:country":"US",
-    "wof:geomhash":"264a61640b848425440ae4b3b39c72fd",
+    "wof:geomhash":"b6e8582498f192448c29e817931a344f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +41,7 @@
         }
     ],
     "wof:id":554717199,
-    "wof:lastmodified":1480912175,
+    "wof:lastmodified":1611185018,
     "wof:name":"37920",
     "wof:parent_id":102086455,
     "wof:placetype":"postalcode",

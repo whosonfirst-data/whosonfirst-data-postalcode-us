@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010685,
-    "geom:area_square_m":96503078.349168,
+    "geom:area_square_m":96503078.349201,
     "geom:bbox":"-78.128269,43.013747,-77.905934,43.136562",
     "geom:latitude":43.079038,
     "geom:longitude":-77.981762,
@@ -14,20 +14,22 @@
     "lbl:latitude":43.082693,
     "lbl:longitude":-77.980115,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bergen",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404521379,
         85633793,
-        102083105
+        102083105,
+        404521379,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763217"
     },
     "wof:country":"US",
-    "wof:geomhash":"08fe9e2add555c848f0de2f22aa915a4",
+    "wof:geomhash":"ec8637488be174c10e26efe55253272d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554702863,
-    "wof:lastmodified":1480834546,
+    "wof:lastmodified":1611184169,
     "wof:name":"14416",
     "wof:parent_id":404521379,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002978,
-    "geom:area_square_m":27592489.270279,
+    "geom:area_square_m":27592489.270283,
     "geom:bbox":"-71.36798,41.446124,-71.284829,41.524761",
     "geom:latitude":41.476312,
     "geom:longitude":-71.323255,
@@ -13,20 +13,25 @@
     "lbl:latitude":41.478216,
     "lbl:longitude":-71.322375,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Newport",
+    "mz:postal_locality_alt":[
+        "North Kingstown"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688509,
         102191575,
         85633793,
+        102081595,
         101720579,
-        102081595
+        85688509
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759016"
     },
     "wof:country":"US",
-    "wof:geomhash":"661422c962508583b01c1fea159a4a1a",
+    "wof:geomhash":"e437631c948f3796e47ac910c7b017e7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554778565,
-    "wof:lastmodified":1480830991,
+    "wof:lastmodified":1611183438,
     "wof:name":"02840",
     "wof:parent_id":101720579,
     "wof:placetype":"postalcode",

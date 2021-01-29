@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003828,
-    "geom:area_square_m":36172810.666378,
+    "geom:area_square_m":36172810.666373,
     "geom:bbox":"-74.141448,40.133107,-74.006481,40.198607",
     "geom:latitude":40.168835,
     "geom:longitude":-74.072032,
@@ -13,20 +13,26 @@
     "lbl:latitude":40.168908,
     "lbl:longitude":-74.073226,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Belmar",
+    "mz:postal_locality_alt":[
+        "Wall Township",
+        "Wall"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478291,
         85633793,
-        102085049
+        102085049,
+        404478291,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760847"
     },
     "wof:country":"US",
-    "wof:geomhash":"de0d9e041e59227514317d9651dab8f5",
+    "wof:geomhash":"e0b1b63df0c42d96a639f7fd71c556fe",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554779135,
-    "wof:lastmodified":1480809855,
+    "wof:lastmodified":1611183962,
     "wof:name":"07719",
     "wof:parent_id":404478291,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034608,
-    "geom:area_square_m":319792295.649232,
+    "geom:area_square_m":319792295.649212,
     "geom:bbox":"-96.674413,41.524454,-96.386416,41.742069",
     "geom:latitude":41.642792,
     "geom:longitude":-96.53047,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.640586,
     "lbl:longitude":-96.525171,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hooper",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688563,
         102191575,
-        404518699,
         85633793,
-        102082773
+        102082773,
+        404518699,
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787488"
     },
     "wof:country":"US",
-    "wof:geomhash":"26459ef23715c6a2e2a971891d6b9137",
+    "wof:geomhash":"367eaf0ffcdc117384d38a0bfe62acda",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554739429,
-    "wof:lastmodified":1480794640,
+    "wof:lastmodified":1611182672,
     "wof:name":"68031",
     "wof:parent_id":404518699,
     "wof:placetype":"postalcode",

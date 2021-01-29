@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.052868,
-    "geom:area_square_m":563139125.232517,
+    "geom:area_square_m":563139125.232853,
     "geom:bbox":"-84.932519,30.387797,-84.51014,30.633669",
     "geom:latitude":30.522255,
     "geom:longitude":-84.681808,
@@ -13,19 +13,24 @@
     "lbl:latitude":30.520125,
     "lbl:longitude":-84.675081,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Quincy",
+    "mz:postal_locality_alt":[
+        "Tallahassee"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688651,
-        102085807
+        102085807,
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12771668"
     },
     "wof:country":"US",
-    "wof:geomhash":"e0800c074f5cc21d1e9d4649bdd83025",
+    "wof:geomhash":"d6277ea4dbffe6d20d237eefaf661849",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +41,7 @@
         }
     ],
     "wof:id":554714363,
-    "wof:lastmodified":1480814028,
+    "wof:lastmodified":1611183346,
     "wof:name":"32351",
     "wof:parent_id":102085807,
     "wof:placetype":"postalcode",

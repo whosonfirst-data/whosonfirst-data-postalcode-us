@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00381,
-    "geom:area_square_m":36828295.11111,
+    "geom:area_square_m":36828295.111085,
     "geom:bbox":"-90.479659,38.543431,-90.372257,38.611153",
     "geom:latitude":38.579208,
     "geom:longitude":-90.420162,
@@ -13,21 +13,27 @@
     "lbl:latitude":38.58119,
     "lbl:longitude":-90.417981,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Saint Louis",
+    "mz:postal_locality_alt":[
+        "Kirkwood",
+        "St Louis"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404517203,
         85633793,
+        102086173,
+        404517203,
         85972289,
-        102086173
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785607"
     },
     "wof:country":"US",
-    "wof:geomhash":"9826ff658da92145084104b3a1f88dc4",
+    "wof:geomhash":"5f1e5dcc832f03a14416cb9b2e489c5b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +46,7 @@
         }
     ],
     "wof:id":554735791,
-    "wof:lastmodified":1480914494,
+    "wof:lastmodified":1611184412,
     "wof:name":"63122",
     "wof:parent_id":85972289,
     "wof:placetype":"postalcode",

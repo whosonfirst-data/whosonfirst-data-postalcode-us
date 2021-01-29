@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007517,
-    "geom:area_square_m":75063915.157345,
+    "geom:area_square_m":75063915.157365,
     "geom:bbox":"-80.390282,36.09341,-80.258097,36.202514",
     "geom:latitude":36.142904,
     "geom:longitude":-80.322604,
@@ -13,20 +13,22 @@
     "lbl:latitude":36.14391,
     "lbl:longitude":-80.323157,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Winston Salem",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688773,
         102191575,
         85633793,
+        102080957,
         85980715,
-        102080957
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12768923"
     },
     "wof:country":"US",
-    "wof:geomhash":"c2534e09e9f48d4d8bc813278f1273be",
+    "wof:geomhash":"10e2b8585041fe665a0e17de5d556baf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +40,7 @@
         }
     ],
     "wof:id":554710493,
-    "wof:lastmodified":1480905025,
+    "wof:lastmodified":1611185129,
     "wof:name":"27106",
     "wof:parent_id":85980715,
     "wof:placetype":"postalcode",

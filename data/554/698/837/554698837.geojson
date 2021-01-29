@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012825,
-    "geom:area_square_m":115256412.001015,
+    "geom:area_square_m":115256412.001168,
     "geom:bbox":"-72.763433,43.283301,-72.661104,43.468717",
     "geom:latitude":43.380135,
     "geom:longitude":-72.711592,
@@ -14,20 +14,22 @@
     "lbl:latitude":43.380553,
     "lbl:longitude":-72.712124,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ludlow",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688763,
         102191575,
-        404527109,
         85633793,
-        102080777
+        102080777,
+        404527109,
+        85688763
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759919"
     },
     "wof:country":"US",
-    "wof:geomhash":"827b72dc6942cbf89f77b3611ee92557",
+    "wof:geomhash":"c734c2932a0c14dd864422210d47bf07",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554698837,
-    "wof:lastmodified":1480905330,
+    "wof:lastmodified":1611184701,
     "wof:name":"05149",
     "wof:parent_id":404527109,
     "wof:placetype":"postalcode",

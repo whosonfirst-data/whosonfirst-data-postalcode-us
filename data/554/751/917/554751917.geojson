@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001762,
-    "geom:area_square_m":18021321.010813,
+    "geom:area_square_m":18021321.010815,
     "geom:bbox":"-118.275413,34.160628,-118.207784,34.22061",
     "geom:latitude":34.192493,
     "geom:longitude":-118.236517,
@@ -13,20 +13,25 @@
     "lbl:latitude":34.185665,
     "lbl:longitude":-118.239497,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Glendale",
+    "mz:postal_locality_alt":[
+        "Montrose"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086957,
         85923615,
-        102086957
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795949"
     },
     "wof:country":"US",
-    "wof:geomhash":"b8cb6ae765581618a585d7e250261b0a",
+    "wof:geomhash":"020ebad21a1979a5f63e9082a96f5e78",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554751917,
-    "wof:lastmodified":1480912627,
+    "wof:lastmodified":1611184362,
     "wof:name":"91208",
     "wof:parent_id":85923615,
     "wof:placetype":"postalcode",

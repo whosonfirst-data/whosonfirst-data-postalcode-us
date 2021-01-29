@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008819,
-    "geom:area_square_m":82264855.705382,
+    "geom:area_square_m":82264855.705301,
     "geom:bbox":"-78.38916,40.970085,-78.247424,41.077427",
     "geom:latitude":41.026206,
     "geom:longitude":-78.313982,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.02678,
     "lbl:longitude":-78.320437,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Woodland",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404486787,
         85633793,
-        102080967
+        102080967,
+        404486787,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764510"
     },
     "wof:country":"US",
-    "wof:geomhash":"335335158dea920acf7fd334b12359a1",
+    "wof:geomhash":"76a18aaed9c8ddac341839ce6f25baa9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554704791,
-    "wof:lastmodified":1480904931,
+    "wof:lastmodified":1611184488,
     "wof:name":"16881",
     "wof:parent_id":404486787,
     "wof:placetype":"postalcode",

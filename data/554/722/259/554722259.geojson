@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026307,
-    "geom:area_square_m":245848330.028476,
+    "geom:area_square_m":245848330.028339,
     "geom:bbox":"-84.225984,40.817783,-83.97156,41.006463",
     "geom:latitude":40.905608,
     "geom:longitude":-84.092386,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.90846,
     "lbl:longitude":-84.095933,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Columbus Grove",
+    "mz:postal_locality_alt":[
+        "Vaughnsville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404525845,
         85633793,
-        102084773
+        102084773,
+        404525845,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777470"
     },
     "wof:country":"US",
-    "wof:geomhash":"cdc82cb8aad010da8c77cf2ece90b103",
+    "wof:geomhash":"f376336fa96a50f3b7183020a4a9742c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554722259,
-    "wof:lastmodified":1480839040,
+    "wof:lastmodified":1611183220,
     "wof:name":"45830",
     "wof:parent_id":404525845,
     "wof:placetype":"postalcode",

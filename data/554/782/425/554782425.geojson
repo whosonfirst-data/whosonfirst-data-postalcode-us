@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002366,
-    "geom:area_square_m":21866301.867293,
+    "geom:area_square_m":21866301.867267,
     "geom:bbox":"-87.525244,41.591692,-87.461438,41.721851",
     "geom:latitude":41.643264,
     "geom:longitude":-87.504765,
@@ -13,21 +13,27 @@
     "lbl:latitude":41.691764,
     "lbl:longitude":-87.510917,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hammond",
+    "mz:postal_locality_alt":[
+        "Kingsbury",
+        "Laporte"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404501869,
         85633793,
+        102087149,
+        404501869,
         85941817,
-        102087149
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777716"
     },
     "wof:country":"US",
-    "wof:geomhash":"5cf0377cb009e7d741b39f0df854f232",
+    "wof:geomhash":"085b68b303dfa56166b6cff93a8e720b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +46,7 @@
         }
     ],
     "wof:id":554782425,
-    "wof:lastmodified":1480802047,
+    "wof:lastmodified":1611183605,
     "wof:name":"46320",
     "wof:parent_id":85941817,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008682,
-    "geom:area_square_m":78129652.415543,
+    "geom:area_square_m":78129652.415536,
     "geom:bbox":"-71.072708,43.229482,-70.905122,43.373986",
     "geom:latitude":43.303477,
     "geom:longitude":-70.987661,
@@ -13,21 +13,31 @@
     "lbl:latitude":43.303528,
     "lbl:longitude":-70.988238,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Rochester",
+    "mz:postal_locality_alt":[
+        "Strafford",
+        "Exeter",
+        "Wolfeboro",
+        "Center Conway",
+        "Milton",
+        "Somersworth"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688689,
         102191575,
-        404476807,
         85633793,
+        102085609,
+        404476807,
         85975055,
-        102085609
+        85688689
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759333"
     },
     "wof:country":"US",
-    "wof:geomhash":"3a650bd242bd8c492125396812335f8a",
+    "wof:geomhash":"d0124830e0317eeda974d8ab1a2bb741",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +50,7 @@
         }
     ],
     "wof:id":554698097,
-    "wof:lastmodified":1480806746,
+    "wof:lastmodified":1611184685,
     "wof:name":"03867",
     "wof:parent_id":85975055,
     "wof:placetype":"postalcode",

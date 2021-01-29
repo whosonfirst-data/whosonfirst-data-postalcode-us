@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008903,
-    "geom:area_square_m":81668221.077965,
+    "geom:area_square_m":81668221.077922,
     "geom:bbox":"-89.153248,42.054111,-89.032394,42.16879",
     "geom:latitude":42.110192,
     "geom:longitude":-89.098209,
@@ -14,20 +14,22 @@
     "lbl:latitude":42.110183,
     "lbl:longitude":-89.098207,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Davis Junction",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404498757,
         85633793,
-        102083531
+        102083531,
+        404498757,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784416"
     },
     "wof:country":"US",
-    "wof:geomhash":"ad58a79f3cf567ddeb369e5476e9170a",
+    "wof:geomhash":"d3aff28585df8ed7b6a45c3e997b57c1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554733645,
-    "wof:lastmodified":1480906997,
+    "wof:lastmodified":1611184217,
     "wof:name":"61020",
     "wof:parent_id":404498757,
     "wof:placetype":"postalcode",

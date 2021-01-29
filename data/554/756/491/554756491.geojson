@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01527,
-    "geom:area_square_m":143576072.407439,
+    "geom:area_square_m":143576072.407458,
     "geom:bbox":"-74.797841,40.43138,-74.572136,40.564762",
     "geom:latitude":40.498515,
     "geom:longitude":-74.672813,
@@ -14,20 +14,28 @@
     "lbl:latitude":40.497692,
     "lbl:longitude":-74.670505,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hillsborough",
+    "mz:postal_locality_alt":[
+        "Somerville",
+        "Neshanic Station",
+        "Flagtown",
+        "Dayton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477925,
         85633793,
-        102085045
+        102085045,
+        404477925,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"23424568"
     },
     "wof:country":"US",
-    "wof:geomhash":"461f9ee8c0708bab968df323ba58e7f6",
+    "wof:geomhash":"5888b69ce26e138533422bd970588527",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +47,7 @@
         }
     ],
     "wof:id":554756491,
-    "wof:lastmodified":1480812022,
+    "wof:lastmodified":1611184284,
     "wof:name":"08844",
     "wof:parent_id":404477925,
     "wof:placetype":"postalcode",

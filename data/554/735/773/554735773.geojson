@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002369,
-    "geom:area_square_m":22865334.352303,
+    "geom:area_square_m":22865334.35231,
     "geom:bbox":"-90.409039,38.677252,-90.322523,38.724919",
     "geom:latitude":38.702253,
     "geom:longitude":-90.362622,
@@ -13,21 +13,27 @@
     "lbl:latitude":38.702256,
     "lbl:longitude":-90.363674,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Saint Louis",
+    "mz:postal_locality_alt":[
+        "Overland",
+        "St Louis"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404517385,
         85633793,
+        102086173,
+        404517385,
         85972349,
-        102086173
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785599"
     },
     "wof:country":"US",
-    "wof:geomhash":"7114770e2c811ebb05e9556d191c5506",
+    "wof:geomhash":"fdf8fbc4ac1ddd557e788d7367158fe4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +46,7 @@
         }
     ],
     "wof:id":554735773,
-    "wof:lastmodified":1480914493,
+    "wof:lastmodified":1611184443,
     "wof:name":"63114",
     "wof:parent_id":85972349,
     "wof:placetype":"postalcode",

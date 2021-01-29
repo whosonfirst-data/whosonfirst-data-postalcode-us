@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011088,
-    "geom:area_square_m":101371455.083731,
+    "geom:area_square_m":101371455.083739,
     "geom:bbox":"-96.540811,42.276351,-96.356395,42.37941",
     "geom:latitude":42.321699,
     "geom:longitude":-96.450183,
@@ -14,20 +14,22 @@
     "lbl:latitude":42.322396,
     "lbl:longitude":-96.465273,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Homer",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688563,
         102191575,
-        404519795,
         85633793,
-        102082249
+        102082249,
+        404519795,
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787487"
     },
     "wof:country":"US",
-    "wof:geomhash":"a5eb962440027263a84566983b0f5c85",
+    "wof:geomhash":"23e6d1f329e69613ffb6bcb7c2192012",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554739427,
-    "wof:lastmodified":1480912203,
+    "wof:lastmodified":1611182672,
     "wof:name":"68030",
     "wof:parent_id":404519795,
     "wof:placetype":"postalcode",

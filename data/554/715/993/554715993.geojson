@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01541,
-    "geom:area_square_m":162875547.619968,
+    "geom:area_square_m":162875547.619926,
     "geom:bbox":"-85.539525,31.194919,-85.288876,31.333962",
     "geom:latitude":31.266784,
     "geom:longitude":-85.397094,
@@ -13,20 +13,25 @@
     "lbl:latitude":31.266568,
     "lbl:longitude":-85.401317,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Dothan",
+    "mz:postal_locality_alt":[
+        "Kinsey"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688675,
         102191575,
         85633793,
+        102085441,
         85899531,
-        102085441
+        85688675
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12773458"
     },
     "wof:country":"US",
-    "wof:geomhash":"5df9c8cbfb6f0332082a9278c5cb77ff",
+    "wof:geomhash":"97e798355cf3b55507e491883e1917ca",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554715993,
-    "wof:lastmodified":1480816212,
+    "wof:lastmodified":1611183667,
     "wof:name":"36303",
     "wof:parent_id":85899531,
     "wof:placetype":"postalcode",

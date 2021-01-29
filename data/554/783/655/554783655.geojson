@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04056,
-    "geom:area_square_m":435365685.078672,
+    "geom:area_square_m":435365685.078803,
     "geom:bbox":"-91.880726,29.550826,-91.370827,29.890607",
     "geom:latitude":29.765734,
     "geom:longitude":-91.583665,
@@ -14,20 +14,26 @@
     "lbl:latitude":29.805551,
     "lbl:longitude":-91.498353,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Franklin",
+    "mz:postal_locality_alt":[
+        "Washington",
+        "Centerville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688735,
         102191575,
         85633793,
+        102084873,
         85948085,
-        102084873
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12788343"
     },
     "wof:country":"US",
-    "wof:geomhash":"226b337a674d8918fc5ef02a1bcb0f55",
+    "wof:geomhash":"3893953e157ed1bbedaaf48b7ac9387e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554783655,
-    "wof:lastmodified":1480800779,
+    "wof:lastmodified":1611183899,
     "wof:name":"70538",
     "wof:parent_id":85948085,
     "wof:placetype":"postalcode",

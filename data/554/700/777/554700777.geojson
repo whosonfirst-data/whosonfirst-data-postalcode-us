@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008995,
-    "geom:area_square_m":84579302.323914,
+    "geom:area_square_m":84579302.323888,
     "geom:bbox":"-74.591703,40.441383,-74.459042,40.554559",
     "geom:latitude":40.498324,
     "geom:longitude":-74.532891,
@@ -13,21 +13,26 @@
     "lbl:latitude":40.496619,
     "lbl:longitude":-74.532009,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Somerset",
+    "mz:postal_locality_alt":[
+        "White House Station"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477923,
         85633793,
+        102085045,
+        404477923,
         85976117,
-        102085045
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761306"
     },
     "wof:country":"US",
-    "wof:geomhash":"e54f37e7f1518daff5aca76cfa1ebeeb",
+    "wof:geomhash":"aa94b6a6bd0d10d4343b62b11bfdb598",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554700777,
-    "wof:lastmodified":1480806955,
+    "wof:lastmodified":1611183192,
     "wof:name":"08873",
     "wof:parent_id":85976117,
     "wof:placetype":"postalcode",

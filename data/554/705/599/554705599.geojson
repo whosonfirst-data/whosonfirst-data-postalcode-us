@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005965,
-    "geom:area_square_m":56010061.18956,
+    "geom:area_square_m":56010061.189489,
     "geom:bbox":"-75.358821,40.536767,-75.244115,40.644277",
     "geom:latitude":40.589212,
     "geom:longitude":-75.29953,
@@ -14,20 +14,26 @@
     "lbl:latitude":40.591583,
     "lbl:longitude":-75.304353,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hellertown",
+    "mz:postal_locality_alt":[
+        "Bethlehem",
+        "Springtown"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404486367,
         85633793,
-        102081395
+        102081395,
+        404486367,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765047"
     },
     "wof:country":"US",
-    "wof:geomhash":"1f36988027d13ccd74d3dd16f976bc2f",
+    "wof:geomhash":"85103de2f134808608b7b8aca94cbfd3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554705599,
-    "wof:lastmodified":1480906422,
+    "wof:lastmodified":1611184112,
     "wof:name":"18055",
     "wof:parent_id":404486367,
     "wof:placetype":"postalcode",

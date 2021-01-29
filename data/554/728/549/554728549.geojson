@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045079,
-    "geom:area_square_m":401089512.448127,
+    "geom:area_square_m":401089512.448079,
     "geom:bbox":"-90.632561,43.866561,-90.317687,44.103384",
     "geom:latitude":43.982549,
     "geom:longitude":-90.490186,
@@ -14,21 +14,26 @@
     "lbl:latitude":43.982544,
     "lbl:longitude":-90.494405,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Tomah",
+    "mz:postal_locality_alt":[
+        "Oakdale"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404494413,
         85633793,
+        102081777,
+        404494413,
         101732335,
-        102081777
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781462"
     },
     "wof:country":"US",
-    "wof:geomhash":"e444ce0a18da53f9e47a1b284e05c172",
+    "wof:geomhash":"fd1369870e8ea9cbcb7e11a153ef18ac",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554728549,
-    "wof:lastmodified":1480829653,
+    "wof:lastmodified":1611185092,
     "wof:name":"54660",
     "wof:parent_id":101732335,
     "wof:placetype":"postalcode",

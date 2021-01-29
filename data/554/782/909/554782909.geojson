@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040652,
-    "geom:area_square_m":344603366.675831,
+    "geom:area_square_m":344603366.675936,
     "geom:bbox":"-89.165945,46.525563,-88.864,46.894478",
     "geom:latitude":46.721465,
     "geom:longitude":-89.017347,
@@ -14,20 +14,22 @@
     "lbl:latitude":46.711175,
     "lbl:longitude":-89.020015,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mass City",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404506151,
         85633793,
-        102083045
+        102083045,
+        404506151,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779664"
     },
     "wof:country":"US",
-    "wof:geomhash":"a8a4ba0dcbb806644f34dae7559bd668",
+    "wof:geomhash":"cfe5ac4c0df94c88bb4324fa8fe151ef",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554782909,
-    "wof:lastmodified":1480836674,
+    "wof:lastmodified":1611183599,
     "wof:name":"49948",
     "wof:parent_id":404506151,
     "wof:placetype":"postalcode",

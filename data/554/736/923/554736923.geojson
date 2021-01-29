@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015946,
-    "geom:area_square_m":154316277.852341,
+    "geom:area_square_m":154316277.852401,
     "geom:bbox":"-94.490713,38.430615,-94.249665,38.57637",
     "geom:latitude":38.497312,
     "geom:longitude":-94.369768,
@@ -14,20 +14,22 @@
     "lbl:latitude":38.490658,
     "lbl:longitude":-94.372655,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Archie",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404516495,
         85633793,
-        102080797
+        102080797,
+        404516495,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786229"
     },
     "wof:country":"US",
-    "wof:geomhash":"96083928f2b189251df25c56e4ba3482",
+    "wof:geomhash":"f7bef5c1e30a781f4998a1a4910de64c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554736923,
-    "wof:lastmodified":1480905400,
+    "wof:lastmodified":1611183034,
     "wof:name":"64725",
     "wof:parent_id":404516495,
     "wof:placetype":"postalcode",

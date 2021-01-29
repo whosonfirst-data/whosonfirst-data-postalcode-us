@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000949,
-    "geom:area_square_m":10383061.593134,
+    "geom:area_square_m":10383061.593115,
     "geom:bbox":"-82.646743,27.752083,-82.607976,27.792144",
     "geom:latitude":27.770804,
     "geom:longitude":-82.632542,
@@ -13,20 +13,26 @@
     "lbl:latitude":27.770793,
     "lbl:longitude":-82.632806,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"St Petersburg",
+    "mz:postal_locality_alt":[
+        "Saint Petersburg",
+        "St. Petersburg"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688651,
         102191575,
         85633793,
+        102085759,
         85931833,
-        102085759
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12772464"
     },
     "wof:country":"US",
-    "wof:geomhash":"52716c6b2411955c84a22a2504b65035",
+    "wof:geomhash":"561055c025e8755af09a74608a4ca588",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554781875,
-    "wof:lastmodified":1480807076,
+    "wof:lastmodified":1611184815,
     "wof:name":"33701",
     "wof:parent_id":85931833,
     "wof:placetype":"postalcode",

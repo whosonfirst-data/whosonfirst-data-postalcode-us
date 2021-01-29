@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001238,
-    "geom:area_square_m":12359024.318234,
+    "geom:area_square_m":12359024.318211,
     "geom:bbox":"-86.837765,36.158434,-86.780591,36.214246",
     "geom:latitude":36.177782,
     "geom:longitude":-86.807839,
@@ -14,20 +14,22 @@
     "lbl:latitude":36.177714,
     "lbl:longitude":-86.808024,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Nashville",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688701,
         102191575,
         85633793,
+        102087061,
         101723183,
-        102087061
+        85688701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12773883"
     },
     "wof:country":"US",
-    "wof:geomhash":"9c385d4e9ccaa29ea07e47cdd6c47e04",
+    "wof:geomhash":"e7aaf8f16ba42232de86c5f994bf0843",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554716651,
-    "wof:lastmodified":1480781758,
+    "wof:lastmodified":1611185365,
     "wof:name":"37208",
     "wof:parent_id":101723183,
     "wof:placetype":"postalcode",

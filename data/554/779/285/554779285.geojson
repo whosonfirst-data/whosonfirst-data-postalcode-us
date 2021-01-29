@@ -14,21 +14,27 @@
     "lbl:latitude":40.709579,
     "lbl:longitude":-74.012952,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"New York",
+    "mz:postal_locality_alt":[
+        "Manhattan",
+        "Trinity"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404521211,
         85633793,
+        102082361,
+        404521211,
         85977539,
-        102082361
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761338"
     },
     "wof:country":"US",
-    "wof:geomhash":"2371ff88047ef6ed920edf4d312d101a",
+    "wof:geomhash":"1e6219bd76c7512ecbcac8dca62c9fa6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554779285,
-    "wof:lastmodified":1480831338,
+    "wof:lastmodified":1611183982,
     "wof:name":"10006",
     "wof:parent_id":85977539,
     "wof:placetype":"postalcode",

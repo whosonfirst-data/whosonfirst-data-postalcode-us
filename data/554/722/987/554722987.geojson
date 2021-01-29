@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037494,
-    "geom:area_square_m":351981304.64309,
+    "geom:area_square_m":351981304.643136,
     "geom:bbox":"-86.780281,40.454371,-86.505962,40.722373",
     "geom:latitude":40.606359,
     "geom:longitude":-86.645857,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.610524,
     "lbl:longitude":-86.637989,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Delphi",
+    "mz:postal_locality_alt":[
+        "Rockfield"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404501133,
         85633793,
-        102087071
+        102087071,
+        404501133,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777967"
     },
     "wof:country":"US",
-    "wof:geomhash":"6c1b5ea8698dfc27b798774ba36d0b09",
+    "wof:geomhash":"726aea2f4e1323f1c2a28a3e740c92fe",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554722987,
-    "wof:lastmodified":1480789053,
+    "wof:lastmodified":1611183247,
     "wof:name":"46923",
     "wof:parent_id":404501133,
     "wof:placetype":"postalcode",

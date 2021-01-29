@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004278,
-    "geom:area_square_m":38030849.728433,
+    "geom:area_square_m":38030849.728413,
     "geom:bbox":"-69.54519,44.004321,-69.44345,44.066139",
     "geom:latitude":44.03447,
     "geom:longitude":-69.492098,
@@ -14,20 +14,25 @@
     "lbl:latitude":44.022351,
     "lbl:longitude":-69.490756,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Damariscotta",
+    "mz:postal_locality_alt":[
+        "Newcastle"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404474993,
         85633793,
-        102087447
+        102087447,
+        404474993,
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759624"
     },
     "wof:country":"US",
-    "wof:geomhash":"124061e021cb0ff9345b696a34b50d7c",
+    "wof:geomhash":"48cd543073e465620194c41cc4fef878",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554778761,
-    "wof:lastmodified":1480787194,
+    "wof:lastmodified":1611183439,
     "wof:name":"04543",
     "wof:parent_id":404474993,
     "wof:placetype":"postalcode",

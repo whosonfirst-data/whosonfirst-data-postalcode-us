@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019369,
-    "geom:area_square_m":173481292.816943,
+    "geom:area_square_m":173481292.8169,
     "geom:bbox":"-85.604967,43.540487,-85.244438,43.641812",
     "geom:latitude":43.58573,
     "geom:longitude":-85.421916,
@@ -14,20 +14,22 @@
     "lbl:latitude":43.594884,
     "lbl:longitude":-85.421128,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Stanwood",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404508701,
         85633793,
-        102083129
+        102083129,
+        404508701,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779329"
     },
     "wof:country":"US",
-    "wof:geomhash":"9546b8493c70cc68ab8b07a2972d4b89",
+    "wof:geomhash":"b78994416641272db0691775365a80ab",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554725057,
-    "wof:lastmodified":1480840735,
+    "wof:lastmodified":1611183282,
     "wof:name":"49346",
     "wof:parent_id":404508701,
     "wof:placetype":"postalcode",

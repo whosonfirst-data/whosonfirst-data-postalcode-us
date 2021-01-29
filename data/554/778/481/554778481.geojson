@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00093,
-    "geom:area_square_m":8588192.945578,
+    "geom:area_square_m":8588192.945584,
     "geom:bbox":"-70.117657,41.654248,-70.03717,41.680976",
     "geom:latitude":41.670339,
     "geom:longitude":-70.072165,
@@ -14,21 +14,26 @@
     "lbl:latitude":41.670596,
     "lbl:longitude":-70.071449,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Harwich Port",
+    "mz:postal_locality_alt":[
+        "Truro"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476183,
         85633793,
+        102084379,
+        404476183,
         85950559,
-        102084379
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758916"
     },
     "wof:country":"US",
-    "wof:geomhash":"1e4e76222305463db0ef1e101becd044",
+    "wof:geomhash":"0043b00e659cec1ea6b599f3592bace2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554778481,
-    "wof:lastmodified":1480802732,
+    "wof:lastmodified":1611183440,
     "wof:name":"02646",
     "wof:parent_id":85950559,
     "wof:placetype":"postalcode",

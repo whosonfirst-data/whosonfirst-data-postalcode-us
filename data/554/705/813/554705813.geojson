@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007861,
-    "geom:area_square_m":72721086.64141,
+    "geom:area_square_m":72721086.641454,
     "geom:bbox":"-75.665062,41.507777,-75.501526,41.637591",
     "geom:latitude":41.574432,
     "geom:longitude":-75.588139,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.573307,
     "lbl:longitude":-75.58133,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Jermyn",
+    "mz:postal_locality_alt":[
+        "Mayfield"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404486843,
         85633793,
-        102081345
+        102081345,
+        404486843,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765189"
     },
     "wof:country":"US",
-    "wof:geomhash":"3aa4d74bba29ecccc3ec35dd4741e4fe",
+    "wof:geomhash":"18f419b75168677b63f6bfe45f1a7a6c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554705813,
-    "wof:lastmodified":1480832112,
+    "wof:lastmodified":1611184120,
     "wof:name":"18433",
     "wof:parent_id":404486843,
     "wof:placetype":"postalcode",

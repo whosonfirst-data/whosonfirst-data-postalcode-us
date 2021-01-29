@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001005,
-    "geom:area_square_m":8787226.2782,
+    "geom:area_square_m":8787226.278202,
     "geom:bbox":"-73.391408,44.969273,-73.348033,45.010724",
     "geom:latitude":44.991659,
     "geom:longitude":-73.373374,
@@ -14,21 +14,26 @@
     "lbl:latitude":44.991657,
     "lbl:longitude":-73.373374,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Rouses Point",
+    "mz:postal_locality_alt":[
+        "Champlain"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522169,
         85633793,
+        102081797,
+        404522169,
         85977987,
-        102081797
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762591"
     },
     "wof:country":"US",
-    "wof:geomhash":"76240e63a66a0fadb8441420f4606660",
+    "wof:geomhash":"dd2b6784a89a50e904cc03fe5af0cbdf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554780075,
-    "wof:lastmodified":1480829810,
+    "wof:lastmodified":1611185184,
     "wof:name":"12979",
     "wof:parent_id":85977987,
     "wof:placetype":"postalcode",

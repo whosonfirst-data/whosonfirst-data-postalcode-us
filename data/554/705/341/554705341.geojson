@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.060817,
-    "geom:area_square_m":565210497.32471,
+    "geom:area_square_m":565210497.324908,
     "geom:bbox":"-77.631197,41.102897,-77.251573,41.525226",
     "geom:latitude":41.2708,
     "geom:longitude":-77.476374,
@@ -14,20 +14,26 @@
     "lbl:latitude":41.285072,
     "lbl:longitude":-77.471166,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lock Haven",
+    "mz:postal_locality_alt":[
+        "Mc Elhattan",
+        "Castanea"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485259,
         85633793,
-        102080917
+        102080917,
+        404485259,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764872"
     },
     "wof:country":"US",
-    "wof:geomhash":"55e572690c39042987573167da5130f4",
+    "wof:geomhash":"fe6a21629ce893e5e4f3b5c3d46782e3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554705341,
-    "wof:lastmodified":1480903553,
+    "wof:lastmodified":1611184105,
     "wof:name":"17745",
     "wof:parent_id":404485259,
     "wof:placetype":"postalcode",

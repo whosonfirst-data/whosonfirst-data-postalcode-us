@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008279,
-    "geom:area_square_m":86012808.392465,
+    "geom:area_square_m":86012808.392451,
     "geom:bbox":"-97.539339,32.784698,-97.39022,32.885198",
     "geom:latitude":32.834335,
     "geom:longitude":-97.464872,
@@ -13,20 +13,25 @@
     "lbl:latitude":32.836325,
     "lbl:longitude":-97.469908,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fort Worth",
+    "mz:postal_locality_alt":[
+        "Lakeside"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102083201,
         101724443,
-        102083201
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12790949"
     },
     "wof:country":"US",
-    "wof:geomhash":"1454e4993f418186d48e126fc785d871",
+    "wof:geomhash":"713295e62ae49eaafd65d8d7009e8876",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554745179,
-    "wof:lastmodified":1480840099,
+    "wof:lastmodified":1611185292,
     "wof:name":"76135",
     "wof:parent_id":101724443,
     "wof:placetype":"postalcode",

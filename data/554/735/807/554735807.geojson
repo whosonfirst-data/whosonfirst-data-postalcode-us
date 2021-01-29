@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006108,
-    "geom:area_square_m":59147772.33992,
+    "geom:area_square_m":59147772.339902,
     "geom:bbox":"-90.37678,38.388298,-90.274711,38.511421",
     "geom:latitude":38.4563,
     "geom:longitude":-90.322122,
@@ -13,21 +13,27 @@
     "lbl:latitude":38.458675,
     "lbl:longitude":-90.316506,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"St Louis",
+    "mz:postal_locality_alt":[
+        "Saint Louis",
+        "Des Peres"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404517459,
         85633793,
+        102086173,
+        404517459,
         85972631,
-        102086173
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785614"
     },
     "wof:country":"US",
-    "wof:geomhash":"695ac7fc7062e1e5b0b27ff9547c1495",
+    "wof:geomhash":"4cdd15a492d7e88d057a07a85a2e5564",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +46,7 @@
         }
     ],
     "wof:id":554735807,
-    "wof:lastmodified":1480914491,
+    "wof:lastmodified":1611184436,
     "wof:name":"63129",
     "wof:parent_id":85972631,
     "wof:placetype":"postalcode",

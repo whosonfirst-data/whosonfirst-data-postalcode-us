@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.096932,
-    "geom:area_square_m":991656676.515768,
+    "geom:area_square_m":991656676.514895,
     "geom:bbox":"-102.089666,33.948734,-101.564455,34.331786",
     "geom:latitude":34.171578,
     "geom:longitude":-101.738727,
@@ -13,20 +13,27 @@
     "lbl:latitude":34.169757,
     "lbl:longitude":-101.73385,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Plainview",
+    "mz:postal_locality_alt":[
+        "Springlake",
+        "Kress",
+        "Borger"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102082469,
         101724149,
-        102082469
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12792478"
     },
     "wof:country":"US",
-    "wof:geomhash":"3e2735bd25fbb9e5546e14ebfe5af2a0",
+    "wof:geomhash":"95b025f23311262c71a311e8af31c054",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +45,7 @@
         }
     ],
     "wof:id":554747367,
-    "wof:lastmodified":1480905344,
+    "wof:lastmodified":1611183471,
     "wof:name":"79072",
     "wof:parent_id":101724149,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003692,
-    "geom:area_square_m":32809700.160755,
+    "geom:area_square_m":32809700.160792,
     "geom:bbox":"-123.05024,44.022039,-122.961302,44.094934",
     "geom:latitude":44.058776,
     "geom:longitude":-123.011184,
@@ -14,20 +14,25 @@
     "lbl:latitude":44.058464,
     "lbl:longitude":-123.011597,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Springfield",
+    "mz:postal_locality_alt":[
+        "Eugene"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688513,
         102191575,
         85633793,
+        102081603,
         101716251,
-        102081603
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12798702"
     },
     "wof:country":"US",
-    "wof:geomhash":"343b0e148864d55dae91fa75984825a1",
+    "wof:geomhash":"62b7291be7dde6cef0ee6367ef83f57b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554754991,
-    "wof:lastmodified":1480832700,
+    "wof:lastmodified":1611182870,
     "wof:name":"97477",
     "wof:parent_id":101716251,
     "wof:placetype":"postalcode",

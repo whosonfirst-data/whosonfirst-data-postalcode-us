@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01423,
-    "geom:area_square_m":148725280.28061,
+    "geom:area_square_m":148725280.280408,
     "geom:bbox":"-95.782194,32.21312,-95.622683,32.381939",
     "geom:latitude":32.302295,
     "geom:longitude":-95.711837,
@@ -14,19 +14,24 @@
     "lbl:latitude":32.300925,
     "lbl:longitude":-95.709837,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Murchison",
+    "mz:postal_locality_alt":[
+        "Bullard"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688753,
-        102086741
+        102086741,
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12790752"
     },
     "wof:country":"US",
-    "wof:geomhash":"e573dc5858c8a1e62a3126c0173e18df",
+    "wof:geomhash":"c1c73cd01232210ef4e67813cabc692e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554744827,
-    "wof:lastmodified":1480916138,
+    "wof:lastmodified":1611184713,
     "wof:name":"75778",
     "wof:parent_id":102086741,
     "wof:placetype":"postalcode",

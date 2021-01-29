@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009492,
-    "geom:area_square_m":88842485.964473,
+    "geom:area_square_m":88842485.964517,
     "geom:bbox":"-96.482733,40.740398,-96.369009,40.870988",
     "geom:latitude":40.803901,
     "geom:longitude":-96.42644,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.804571,
     "lbl:longitude":-96.425835,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Eagle",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688563,
         102191575,
-        404518595,
         85633793,
-        102082791
+        102082791,
+        404518595,
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787617"
     },
     "wof:country":"US",
-    "wof:geomhash":"124f24d6d9463141c82ca8404346b031",
+    "wof:geomhash":"07810fdb7b142f42129b2054bd8fcb22",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554739665,
-    "wof:lastmodified":1480836364,
+    "wof:lastmodified":1611182676,
     "wof:name":"68347",
     "wof:parent_id":404518595,
     "wof:placetype":"postalcode",

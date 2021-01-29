@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029627,
-    "geom:area_square_m":283834267.889361,
+    "geom:area_square_m":283834267.889671,
     "geom:bbox":"-92.958978,39.069297,-92.727686,39.347447",
     "geom:latitude":39.214403,
     "geom:longitude":-92.85142,
@@ -14,20 +14,27 @@
     "lbl:latitude":39.210375,
     "lbl:longitude":-92.853371,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Glasgow",
+    "mz:postal_locality_alt":[
+        "Cairo",
+        "Jacksonville",
+        "Clark"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404517083,
         85633793,
-        102085291
+        102085291,
+        404517083,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786409"
     },
     "wof:country":"US",
-    "wof:geomhash":"99cd82caaf7059b5a1568ccf1b382911",
+    "wof:geomhash":"c41522a85c83249daddfe33b8aa13432",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554737249,
-    "wof:lastmodified":1480917016,
+    "wof:lastmodified":1611182854,
     "wof:name":"65254",
     "wof:parent_id":404517083,
     "wof:placetype":"postalcode",

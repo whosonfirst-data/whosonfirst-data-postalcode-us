@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012675,
-    "geom:area_square_m":124761833.711944,
+    "geom:area_square_m":124761833.711891,
     "geom:bbox":"-81.507161,37.188567,-81.225104,37.320671",
     "geom:latitude":37.244784,
     "geom:longitude":-81.366416,
@@ -14,19 +14,24 @@
     "lbl:latitude":37.254178,
     "lbl:longitude":-81.371211,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bluefield",
+    "mz:postal_locality_alt":[
+        "Grundy"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688747,
-        102081049
+        102081049,
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12767919"
     },
     "wof:country":"US",
-    "wof:geomhash":"02fa1541dfc63e9e30590dd734920f6a",
+    "wof:geomhash":"7db95517054a11e7c3127b8d3d4029fb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554709091,
-    "wof:lastmodified":1480835844,
+    "wof:lastmodified":1611182994,
     "wof:name":"24605",
     "wof:parent_id":102081049,
     "wof:placetype":"postalcode",

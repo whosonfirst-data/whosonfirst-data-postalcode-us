@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027824,
-    "geom:area_square_m":285050379.045105,
+    "geom:area_square_m":285050379.045158,
     "geom:bbox":"-86.44191,33.93977,-86.132907,34.142309",
     "geom:latitude":34.052842,
     "geom:longitude":-86.308209,
@@ -14,20 +14,25 @@
     "lbl:latitude":34.052385,
     "lbl:longitude":-86.310738,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Altoona",
+    "mz:postal_locality_alt":[
+        "Snead"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688675,
         102191575,
         85633793,
+        102085545,
         85914381,
-        102085545
+        85688675
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12773287"
     },
     "wof:country":"US",
-    "wof:geomhash":"8c4890aeeb0ba9fd36e05e4bfd9eb96d",
+    "wof:geomhash":"bc82ccf5e5644fa521ae172ce973f77a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554715705,
-    "wof:lastmodified":1480815485,
+    "wof:lastmodified":1611183664,
     "wof:name":"35952",
     "wof:parent_id":85914381,
     "wof:placetype":"postalcode",

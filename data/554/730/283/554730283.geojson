@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007836,
-    "geom:area_square_m":67379563.464161,
+    "geom:area_square_m":67379563.464167,
     "geom:bbox":"-95.300081,45.87878,-95.152986,45.983714",
     "geom:latitude":45.940032,
     "geom:longitude":-95.235549,
@@ -14,20 +14,22 @@
     "lbl:latitude":45.941442,
     "lbl:longitude":-95.245716,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Nelson",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404509575,
         85633793,
-        102087127
+        102087127,
+        404509575,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782440"
     },
     "wof:country":"US",
-    "wof:geomhash":"ef2724a8207f0ae6842d0d83464da35a",
+    "wof:geomhash":"3e9165b5177bf5dfde704021ef4cf4d4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554730283,
-    "wof:lastmodified":1480787481,
+    "wof:lastmodified":1611182745,
     "wof:name":"56355",
     "wof:parent_id":404509575,
     "wof:placetype":"postalcode",

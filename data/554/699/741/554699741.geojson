@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005688,
-    "geom:area_square_m":52706913.78026,
+    "geom:area_square_m":52706913.780234,
     "geom:bbox":"-73.444409,41.420523,-73.331569,41.514794",
     "geom:latitude":41.467418,
     "geom:longitude":-73.39222,
@@ -14,20 +14,26 @@
     "lbl:latitude":41.469884,
     "lbl:longitude":-73.393667,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Brookfield",
+    "mz:postal_locality_alt":[
+        "Westport",
+        "New Canaan"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688629,
         102191575,
-        404495815,
         85633793,
-        102084283
+        102084283,
+        404495815,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760540"
     },
     "wof:country":"US",
-    "wof:geomhash":"e6664256ac32b18cbf4a7146d41237ff",
+    "wof:geomhash":"a9fefe8fddf6179e3a80ee11942caf53",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554699741,
-    "wof:lastmodified":1480805209,
+    "wof:lastmodified":1611184616,
     "wof:name":"06804",
     "wof:parent_id":404495815,
     "wof:placetype":"postalcode",

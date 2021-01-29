@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02938,
-    "geom:area_square_m":297018311.047753,
+    "geom:area_square_m":297018311.047506,
     "geom:bbox":"-88.784237,35.073628,-88.421486,35.245451",
     "geom:latitude":35.157708,
     "geom:longitude":-88.589327,
@@ -14,20 +14,25 @@
     "lbl:latitude":35.157812,
     "lbl:longitude":-88.591697,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Selmer",
+    "mz:postal_locality_alt":[
+        "Jackson"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688701,
         102191575,
         85633793,
+        102087211,
         101722499,
-        102087211
+        85688701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12774442"
     },
     "wof:country":"US",
-    "wof:geomhash":"fc638e6291f2d3ad77da03d4ce6f5315",
+    "wof:geomhash":"ff7cc19bc8d02863dd20b0d21c7c3e0e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554717541,
-    "wof:lastmodified":1480915256,
+    "wof:lastmodified":1611185040,
     "wof:name":"38375",
     "wof:parent_id":101722499,
     "wof:placetype":"postalcode",

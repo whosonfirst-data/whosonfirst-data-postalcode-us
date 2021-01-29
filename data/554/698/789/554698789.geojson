@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01508,
-    "geom:area_square_m":134595400.414096,
+    "geom:area_square_m":134595400.414083,
     "geom:bbox":"-72.604822,43.714507,-72.449074,43.878035",
     "geom:latitude":43.796481,
     "geom:longitude":-72.535261,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.780996,
     "lbl:longitude":-72.547511,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"South Royalton",
+    "mz:postal_locality_alt":[
+        "Bradford"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688763,
         102191575,
-        404527115,
         85633793,
-        102080777
+        102080777,
+        404527115,
+        85688763
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759893"
     },
     "wof:country":"US",
-    "wof:geomhash":"4016d4e318fcc3ff97fc210a434e88ac",
+    "wof:geomhash":"1951b88d9af32dc435816b10ff5f9f00",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554698789,
-    "wof:lastmodified":1480905333,
+    "wof:lastmodified":1611184705,
     "wof:name":"05068",
     "wof:parent_id":404527115,
     "wof:placetype":"postalcode",

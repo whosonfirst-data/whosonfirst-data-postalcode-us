@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029941,
-    "geom:area_square_m":269664053.995431,
+    "geom:area_square_m":269664053.995343,
     "geom:bbox":"-88.880109,43.196865,-88.560105,43.328967",
     "geom:latitude":43.249599,
     "geom:longitude":-88.713073,
@@ -13,20 +13,25 @@
     "lbl:latitude":43.253742,
     "lbl:longitude":-88.710584,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Watertown",
+    "mz:postal_locality_alt":[
+        "Plymouth"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404492387,
         85633793,
-        102081887
+        102081887,
+        404492387,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12780831"
     },
     "wof:country":"US",
-    "wof:geomhash":"46652e36c66aac62056a9f5ca8d26ded",
+    "wof:geomhash":"619bb07f591211e9bbd1af91b1a0dc10",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554727585,
-    "wof:lastmodified":1480833313,
+    "wof:lastmodified":1611185529,
     "wof:name":"53098",
     "wof:parent_id":404492387,
     "wof:placetype":"postalcode",

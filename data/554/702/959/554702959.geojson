@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010757,
-    "geom:area_square_m":97790773.546049,
+    "geom:area_square_m":97790773.546097,
     "geom:bbox":"-76.897552,42.627567,-76.697878,42.729447",
     "geom:latitude":42.675397,
     "geom:longitude":-76.807504,
@@ -14,20 +14,22 @@
     "lbl:latitude":42.676642,
     "lbl:longitude":-76.805003,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ovid",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522571,
         85633793,
-        102081757
+        102081757,
+        404522571,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763282"
     },
     "wof:country":"US",
-    "wof:geomhash":"e329359a2603b43cd48d03f424e19f24",
+    "wof:geomhash":"1e3c2c58083899f33d06a910f9a29daa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554702959,
-    "wof:lastmodified":1480831445,
+    "wof:lastmodified":1611184154,
     "wof:name":"14521",
     "wof:parent_id":404522571,
     "wof:placetype":"postalcode",

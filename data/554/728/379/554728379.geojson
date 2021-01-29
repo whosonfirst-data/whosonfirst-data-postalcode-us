@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028652,
-    "geom:area_square_m":245683667.499291,
+    "geom:area_square_m":245683667.499333,
     "geom:bbox":"-89.804487,45.979433,-89.554471,46.171885",
     "geom:latitude":46.095429,
     "geom:longitude":-89.670985,
@@ -14,20 +14,22 @@
     "lbl:latitude":46.091151,
     "lbl:longitude":-89.659025,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Boulder Junction",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404494229,
         85633793,
-        102081749
+        102081749,
+        404494229,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781367"
     },
     "wof:country":"US",
-    "wof:geomhash":"6615959a37e6b0916b5086c4dc45bf56",
+    "wof:geomhash":"fcf89f8ee72a84545a5a3915e72a7c8f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554728379,
-    "wof:lastmodified":1480816346,
+    "wof:lastmodified":1611185066,
     "wof:name":"54512",
     "wof:parent_id":404494229,
     "wof:placetype":"postalcode",

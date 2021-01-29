@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002057,
-    "geom:area_square_m":19796967.950439,
+    "geom:area_square_m":19796967.950432,
     "geom:bbox":"-77.417272,38.852033,-77.335506,38.907394",
     "geom:latitude":38.875231,
     "geom:longitude":-77.384481,
@@ -13,20 +13,25 @@
     "lbl:latitude":38.875218,
     "lbl:longitude":-77.384713,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fairfax",
+    "mz:postal_locality_alt":[
+        "Chantilly"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688747,
         102191575,
         85633793,
+        102084863,
         101729819,
-        102084863
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766801"
     },
     "wof:country":"US",
-    "wof:geomhash":"35e868eeadc616916d64ef4cb335c753",
+    "wof:geomhash":"08bf604bad16f77f51d35f7827c42aba",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554707561,
-    "wof:lastmodified":1480802127,
+    "wof:lastmodified":1611183132,
     "wof:name":"22033",
     "wof:parent_id":101729819,
     "wof:placetype":"postalcode",

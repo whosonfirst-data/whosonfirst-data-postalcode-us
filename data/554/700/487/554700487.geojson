@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000774,
-    "geom:area_square_m":7342037.995581,
+    "geom:area_square_m":7342037.995588,
     "geom:bbox":"-75.089929,39.897952,-75.037615,39.9269",
     "geom:latitude":39.91429,
     "geom:longitude":-75.061774,
@@ -14,21 +14,30 @@
     "lbl:latitude":39.914668,
     "lbl:longitude":-75.060862,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Collingswood",
+    "mz:postal_locality_alt":[
+        "Haddon Township",
+        "Haddon Twp",
+        "Westmont",
+        "Oaklyn",
+        "Haddon"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477997,
         85633793,
+        102081131,
+        404477997,
         85975667,
-        102081131
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761075"
     },
     "wof:country":"US",
-    "wof:geomhash":"9c167cb97d060c3db6ebdd7b43a1b45e",
+    "wof:geomhash":"dcb8113ee4c0a6895c9d897ade65a1d9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +50,7 @@
         }
     ],
     "wof:id":554700487,
-    "wof:lastmodified":1480823437,
+    "wof:lastmodified":1611183200,
     "wof:name":"08108",
     "wof:parent_id":85975667,
     "wof:placetype":"postalcode",

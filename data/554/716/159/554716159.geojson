@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023396,
-    "geom:area_square_m":249278704.813877,
+    "geom:area_square_m":249278704.812702,
     "geom:bbox":"-88.406201,30.349334,-88.253242,30.603578",
     "geom:latitude":30.492977,
     "geom:longitude":-88.34058,
@@ -14,20 +14,25 @@
     "lbl:latitude":30.489535,
     "lbl:longitude":-88.344106,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Grand Bay",
+    "mz:postal_locality_alt":[
+        "Irvington"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688675,
         102191575,
         85633793,
+        102085585,
         85915069,
-        102085585
+        85688675
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12773563"
     },
     "wof:country":"US",
-    "wof:geomhash":"96d245d54ad127803e6d6ea17be07d07",
+    "wof:geomhash":"cfb718bfba7e935afd43308efc264e2d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554716159,
-    "wof:lastmodified":1480838249,
+    "wof:lastmodified":1611185352,
     "wof:name":"36541",
     "wof:parent_id":85915069,
     "wof:placetype":"postalcode",

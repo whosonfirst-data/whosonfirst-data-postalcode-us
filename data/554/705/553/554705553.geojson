@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005941,
-    "geom:area_square_m":55789530.960747,
+    "geom:area_square_m":55789530.9608,
     "geom:bbox":"-75.441851,40.533795,-75.281801,40.639929",
     "geom:latitude":40.590089,
     "geom:longitude":-75.370755,
@@ -13,20 +13,25 @@
     "lbl:latitude":40.585869,
     "lbl:longitude":-75.367239,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bethlehem",
+    "mz:postal_locality_alt":[
+        "Fountain Hill"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404486367,
         85633793,
-        102081395
+        102081395,
+        404486367,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765019"
     },
     "wof:country":"US",
-    "wof:geomhash":"f94f622814467fd3457398217c47506e",
+    "wof:geomhash":"882fac6d9455c58a95ddaeda72ee5a5b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554705553,
-    "wof:lastmodified":1480906418,
+    "wof:lastmodified":1611184116,
     "wof:name":"18015",
     "wof:parent_id":404486367,
     "wof:placetype":"postalcode",

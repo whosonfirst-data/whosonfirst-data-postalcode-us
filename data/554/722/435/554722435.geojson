@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019023,
-    "geom:area_square_m":179877822.384065,
+    "geom:area_square_m":179877822.383993,
     "geom:bbox":"-86.695832,40.047203,-86.46779,40.178697",
     "geom:latitude":40.120172,
     "geom:longitude":-86.606885,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.119997,
     "lbl:longitude":-86.60879,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Thorntown",
+    "mz:postal_locality_alt":[
+        "Lebanon"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404500157,
         85633793,
-        102086453
+        102086453,
+        404500157,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777576"
     },
     "wof:country":"US",
-    "wof:geomhash":"814aada236eeecdb244675b35fa877e5",
+    "wof:geomhash":"aac3276e2acea3a4ad6033f1041f097a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554722435,
-    "wof:lastmodified":1480908995,
+    "wof:lastmodified":1611183244,
     "wof:name":"46071",
     "wof:parent_id":404500157,
     "wof:placetype":"postalcode",

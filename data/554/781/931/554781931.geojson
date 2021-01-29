@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001862,
-    "geom:area_square_m":20335406.421668,
+    "geom:area_square_m":20335406.421682,
     "geom:bbox":"-82.844637,27.936515,-82.801272,28.019107",
     "geom:latitude":27.973891,
     "geom:longitude":-82.82296,
@@ -14,20 +14,25 @@
     "lbl:latitude":27.974747,
     "lbl:longitude":-82.826777,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Clearwater",
+    "mz:postal_locality_alt":[
+        "Clearwater Beach"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688651,
         102191575,
         85633793,
+        102085759,
         85931903,
-        102085759
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12772508"
     },
     "wof:country":"US",
-    "wof:geomhash":"f46a2e94fdbddbb8be8f1f4fc5129ca6",
+    "wof:geomhash":"0cb43e1016db3ba651e2b2ff7e26bc7f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554781931,
-    "wof:lastmodified":1480807074,
+    "wof:lastmodified":1611184807,
     "wof:name":"33767",
     "wof:parent_id":85931903,
     "wof:placetype":"postalcode",

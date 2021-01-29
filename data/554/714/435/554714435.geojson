@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003375,
-    "geom:area_square_m":35969551.195233,
+    "geom:area_square_m":35969551.195274,
     "geom:bbox":"-87.29047,30.401825,-87.226141,30.504822",
     "geom:latitude":30.454785,
     "geom:longitude":-87.260783,
@@ -13,20 +13,25 @@
     "lbl:latitude":30.454624,
     "lbl:longitude":-87.26065,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pensacola",
+    "mz:postal_locality_alt":[
+        "Destin"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688651,
         102191575,
         85633793,
+        102084839,
         85935009,
-        102084839
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12771739"
     },
     "wof:country":"US",
-    "wof:geomhash":"6bfea74078b3dd7504917b2a0ff835df",
+    "wof:geomhash":"8b6ad6aeb47614fb5601c27bdacbfb9c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554714435,
-    "wof:lastmodified":1480798166,
+    "wof:lastmodified":1611183378,
     "wof:name":"32505",
     "wof:parent_id":85935009,
     "wof:placetype":"postalcode",

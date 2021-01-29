@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006912,
-    "geom:area_square_m":63842018.596661,
+    "geom:area_square_m":63842018.596651,
     "geom:bbox":"-73.648994,41.610686,-73.511564,41.753488",
     "geom:latitude":41.668434,
     "geom:longitude":-73.550119,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.684461,
     "lbl:longitude":-73.557676,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wingdale",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522221,
         85633793,
-        102082363
+        102082363,
+        404522221,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762397"
     },
     "wof:country":"US",
-    "wof:geomhash":"d0a669f19eba117f059e5b8ed586f0f8",
+    "wof:geomhash":"83a0c34ad72c9e563d3d77b822211cd3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554701627,
-    "wof:lastmodified":1480805214,
+    "wof:lastmodified":1611182619,
     "wof:name":"12594",
     "wof:parent_id":404522221,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018395,
-    "geom:area_square_m":161380032.444574,
+    "geom:area_square_m":161380032.444552,
     "geom:bbox":"-68.700919,44.740992,-68.445219,44.870763",
     "geom:latitude":44.806438,
     "geom:longitude":-68.555844,
@@ -14,20 +14,25 @@
     "lbl:latitude":44.8058,
     "lbl:longitude":-68.554003,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Eddington",
+    "mz:postal_locality_alt":[
+        "Clifton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404474711,
         85633793,
-        102080723
+        102080723,
+        404474711,
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759568"
     },
     "wof:country":"US",
-    "wof:geomhash":"ca34fca9064524d1b7e21e02014ec032",
+    "wof:geomhash":"36ec520b0468e1c5783273c2f1cc3107",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554698415,
-    "wof:lastmodified":1480906064,
+    "wof:lastmodified":1611184682,
     "wof:name":"04428",
     "wof:parent_id":404474711,
     "wof:placetype":"postalcode",

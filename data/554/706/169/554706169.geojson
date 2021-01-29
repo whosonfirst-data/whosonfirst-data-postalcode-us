@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001081,
-    "geom:area_square_m":10231555.06736,
+    "geom:area_square_m":10231555.067363,
     "geom:bbox":"-75.154076,40.053177,-75.096191,40.089601",
     "geom:latitude":40.07348,
     "geom:longitude":-75.124231,
@@ -14,20 +14,26 @@
     "lbl:latitude":40.073118,
     "lbl:longitude":-75.124431,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Elkins Park",
+    "mz:postal_locality_alt":[
+        "Philadelphia",
+        "Cheltenham"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485449,
         85633793,
-        102081355
+        102081355,
+        404485449,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765428"
     },
     "wof:country":"US",
-    "wof:geomhash":"a0cb82971c673299085909b3daee0e49",
+    "wof:geomhash":"9c3f9123fb8f7c587ad6721a65ea8ced",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554706169,
-    "wof:lastmodified":1480818596,
+    "wof:lastmodified":1611182686,
     "wof:name":"19027",
     "wof:parent_id":404485449,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001289,
-    "geom:area_square_m":12353962.414106,
+    "geom:area_square_m":12353962.414128,
     "geom:bbox":"-77.22371,39.152317,-77.151368,39.198036",
     "geom:latitude":39.179832,
     "geom:longitude":-77.193513,
@@ -14,20 +14,26 @@
     "lbl:latitude":39.188551,
     "lbl:longitude":-77.205122,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Gaithersburg",
+    "mz:postal_locality_alt":[
+        "Montgomery Village",
+        "Montgomery Vlg"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688501,
         102191575,
         85633793,
+        102082719,
         85950309,
-        102082719
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766375"
     },
     "wof:country":"US",
-    "wof:geomhash":"68fe6361ced1e50e3a44c326eb13d2de",
+    "wof:geomhash":"ac3726b515b8467b0fef34f2fcccbc83",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554707095,
-    "wof:lastmodified":1480795130,
+    "wof:lastmodified":1611183163,
     "wof:name":"20886",
     "wof:parent_id":85950309,
     "wof:placetype":"postalcode",

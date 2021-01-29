@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.071291,
-    "geom:area_square_m":610894360.848462,
+    "geom:area_square_m":610894360.84848,
     "geom:bbox":"-68.100006,45.934871,-67.780954,46.279552",
     "geom:latitude":46.132318,
     "geom:longitude":-67.913751,
@@ -14,20 +14,31 @@
     "lbl:latitude":46.191023,
     "lbl:longitude":-67.860968,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Houlton",
+    "mz:postal_locality_alt":[
+        "Mars Hill",
+        "Blaine",
+        "Oakfield",
+        "Hodgdon",
+        "New Limerick",
+        "Linneus",
+        "Island Falls"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404475401,
         85633793,
-        102081161
+        102081161,
+        404475401,
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759718"
     },
     "wof:country":"US",
-    "wof:geomhash":"fa7ecf445084207c11d6493746335bc0",
+    "wof:geomhash":"85634b9ec975c7a73493a2ab847bfa8a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +50,7 @@
         }
     ],
     "wof:id":554698537,
-    "wof:lastmodified":1480823533,
+    "wof:lastmodified":1611184690,
     "wof:name":"04730",
     "wof:parent_id":404475401,
     "wof:placetype":"postalcode",

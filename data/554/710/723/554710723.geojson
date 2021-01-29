@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015046,
-    "geom:area_square_m":151176727.384101,
+    "geom:area_square_m":151176727.3839,
     "geom:bbox":"-78.652905,35.551941,-78.505281,35.740251",
     "geom:latitude":35.652359,
     "geom:longitude":-78.581722,
@@ -14,19 +14,25 @@
     "lbl:latitude":35.655802,
     "lbl:longitude":-78.586493,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Garner",
+    "mz:postal_locality_alt":[
+        "Clayton",
+        "Raleigh"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688773,
-        102087821
+        102087821,
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12769091"
     },
     "wof:country":"US",
-    "wof:geomhash":"cd0925f777ef64ca9abc2e1e8d838a8b",
+    "wof:geomhash":"69edef05417f7fd40a5d57132cb23c61",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554710723,
-    "wof:lastmodified":1480904309,
+    "wof:lastmodified":1611185117,
     "wof:name":"27529",
     "wof:parent_id":102087821,
     "wof:placetype":"postalcode",

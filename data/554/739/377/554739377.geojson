@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.047343,
-    "geom:area_square_m":465696899.628633,
+    "geom:area_square_m":465696899.628391,
     "geom:bbox":"-101.321447,37.170112,-100.931664,37.388114",
     "geom:latitude":37.296668,
     "geom:longitude":-101.15003,
@@ -14,20 +14,22 @@
     "lbl:latitude":37.296874,
     "lbl:longitude":-101.151066,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Moscow",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404503231,
         85633793,
-        102084139
+        102084139,
+        404503231,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787462"
     },
     "wof:country":"US",
-    "wof:geomhash":"163ba248323e03f83c4065152c476129",
+    "wof:geomhash":"4b26ad3c3d2540da540558bb095c728a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554739377,
-    "wof:lastmodified":1480834575,
+    "wof:lastmodified":1611182661,
     "wof:name":"67952",
     "wof:parent_id":404503231,
     "wof:placetype":"postalcode",

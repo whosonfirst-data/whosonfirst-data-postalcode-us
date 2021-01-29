@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006812,
-    "geom:area_square_m":71304326.874737,
+    "geom:area_square_m":71304326.874792,
     "geom:bbox":"-80.833602,32.108406,-80.649501,32.252016",
     "geom:latitude":32.166475,
     "geom:longitude":-80.75694,
@@ -14,20 +14,28 @@
     "lbl:latitude":32.163171,
     "lbl:longitude":-80.755765,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hilton Head Isle",
+    "mz:postal_locality_alt":[
+        "Hilton Head Island",
+        "Beaufort",
+        "Ridgeland",
+        "Hardeeville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688683,
         102191575,
         85633793,
+        102085471,
         101720697,
-        102085471
+        85688683
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770474"
     },
     "wof:country":"US",
-    "wof:geomhash":"780e9e2019fc286e17c9a05587d8d34e",
+    "wof:geomhash":"2fedbf25a2ce6eee3696b62dcc6ca955",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +47,7 @@
         }
     ],
     "wof:id":554781143,
-    "wof:lastmodified":1480805317,
+    "wof:lastmodified":1611184822,
     "wof:name":"29928",
     "wof:parent_id":101720697,
     "wof:placetype":"postalcode",

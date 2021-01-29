@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046888,
-    "geom:area_square_m":493201152.874495,
+    "geom:area_square_m":493201152.874483,
     "geom:bbox":"-83.86573,31.553456,-83.480271,31.854095",
     "geom:latitude":31.715433,
     "geom:longitude":-83.685212,
@@ -14,19 +14,25 @@
     "lbl:latitude":31.72025,
     "lbl:longitude":-83.693961,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ashburn",
+    "mz:postal_locality_alt":[
+        "Blakely",
+        "Cuthbert"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688535,
-        102083583
+        102083583,
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12771327"
     },
     "wof:country":"US",
-    "wof:geomhash":"b6104e921acbb69c0ff48636fd641c2b",
+    "wof:geomhash":"92ed30b827b3f3b7aa0d3b3bc0814fee",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554713963,
-    "wof:lastmodified":1480837942,
+    "wof:lastmodified":1611183295,
     "wof:name":"31714",
     "wof:parent_id":102083583,
     "wof:placetype":"postalcode",

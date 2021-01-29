@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004018,
-    "geom:area_square_m":42111613.068976,
+    "geom:area_square_m":42111613.068945,
     "geom:bbox":"-81.095764,31.99953,-80.973123,32.098822",
     "geom:latitude":32.054265,
     "geom:longitude":-81.049223,
@@ -13,19 +13,24 @@
     "lbl:latitude":32.051559,
     "lbl:longitude":-81.049211,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Savannah",
+    "mz:postal_locality_alt":[
+        "Thunderbolt"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688535,
-        102082337
+        102082337,
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12771212"
     },
     "wof:country":"US",
-    "wof:geomhash":"7c175be0bb8bcae058ad5aa72239c150",
+    "wof:geomhash":"66be812d2cd17b69028bbf2105bcedb8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +41,7 @@
         }
     ],
     "wof:id":554713781,
-    "wof:lastmodified":1480794501,
+    "wof:lastmodified":1611183336,
     "wof:name":"31404",
     "wof:parent_id":102082337,
     "wof:placetype":"postalcode",

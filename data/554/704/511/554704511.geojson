@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026068,
-    "geom:area_square_m":240320473.005028,
+    "geom:area_square_m":240320473.005071,
     "geom:bbox":"-80.222639,41.696321,-79.909885,41.87995",
     "geom:latitude":41.792768,
     "geom:longitude":-80.020181,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.792998,
     "lbl:longitude":-80.014121,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cambridge Spgs",
+    "mz:postal_locality_alt":[
+        "Cambridge Springs"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404486169,
         85633793,
-        102080911
+        102080911,
+        404486169,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764291"
     },
     "wof:country":"US",
-    "wof:geomhash":"6547a405007ab1c062e59024c6e56d80",
+    "wof:geomhash":"b01406676b617bc0611b7bf85bdaab0b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554704511,
-    "wof:lastmodified":1480906217,
+    "wof:lastmodified":1611184503,
     "wof:name":"16403",
     "wof:parent_id":404486169,
     "wof:placetype":"postalcode",

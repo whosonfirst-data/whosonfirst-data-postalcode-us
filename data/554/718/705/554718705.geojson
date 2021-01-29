@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003671,
-    "geom:area_square_m":35718181.422976,
+    "geom:area_square_m":35718181.422977,
     "geom:bbox":"-85.797326,38.065842,-85.701074,38.127071",
     "geom:latitude":38.098958,
     "geom:longitude":-85.751195,
@@ -14,20 +14,25 @@
     "lbl:latitude":38.097497,
     "lbl:longitude":-85.751202,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fairdale",
+    "mz:postal_locality_alt":[
+        "Lebanon Junction"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688641,
         102191575,
         85633793,
+        102084449,
         85947523,
-        102084449
+        85688641
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12775137"
     },
     "wof:country":"US",
-    "wof:geomhash":"c748a8dc282f12c926f9769a34184ee4",
+    "wof:geomhash":"f25351b77f9ba1ef128a812156d2cad9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554718705,
-    "wof:lastmodified":1480802909,
+    "wof:lastmodified":1611185568,
     "wof:name":"40118",
     "wof:parent_id":85947523,
     "wof:placetype":"postalcode",

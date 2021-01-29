@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003465,
-    "geom:area_square_m":33192346.710823,
+    "geom:area_square_m":33192346.710791,
     "geom:bbox":"-94.606496,39.17028,-94.543134,39.248004",
     "geom:latitude":39.213012,
     "geom:longitude":-94.574773,
@@ -14,21 +14,26 @@
     "lbl:latitude":39.212864,
     "lbl:longitude":-94.573952,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Kansas City",
+    "mz:postal_locality_alt":[
+        "Gladstone"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404516715,
         85633793,
+        102086177,
+        404516715,
         85972467,
-        102086177
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786027"
     },
     "wof:country":"US",
-    "wof:geomhash":"3f9bf2b7c23e88295e4a1ee7b771f3df",
+    "wof:geomhash":"a8c99f537bcd5c575e5d99b0f5b11624",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554736535,
-    "wof:lastmodified":1480912210,
+    "wof:lastmodified":1611183022,
     "wof:name":"64118",
     "wof:parent_id":85972467,
     "wof:placetype":"postalcode",

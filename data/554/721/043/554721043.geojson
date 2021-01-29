@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003674,
-    "geom:area_square_m":34121340.349464,
+    "geom:area_square_m":34121340.349455,
     "geom:bbox":"-81.724385,41.277081,-81.640845,41.351125",
     "geom:latitude":41.319124,
     "geom:longitude":-81.678755,
@@ -14,21 +14,26 @@
     "lbl:latitude":41.318156,
     "lbl:longitude":-81.679262,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cleveland",
+    "mz:postal_locality_alt":[
+        "Broadview Heights"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404523695,
         85633793,
+        102084837,
+        404523695,
         101712541,
-        102084837
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776673"
     },
     "wof:country":"US",
-    "wof:geomhash":"cb89a65e644823b1c4cca1ae1570f977",
+    "wof:geomhash":"3ca76f0255ac582dbe765d769279b479",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554721043,
-    "wof:lastmodified":1480831405,
+    "wof:lastmodified":1611184971,
     "wof:name":"44147",
     "wof:parent_id":101712541,
     "wof:placetype":"postalcode",

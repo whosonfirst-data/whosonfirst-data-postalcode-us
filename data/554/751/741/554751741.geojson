@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007098,
-    "geom:area_square_m":67974921.749948,
+    "geom:area_square_m":67974921.749932,
     "geom:bbox":"-120.006473,39.165513,-119.880317,39.305489",
     "geom:latitude":39.24155,
     "geom:longitude":-119.934072,
@@ -13,20 +13,25 @@
     "lbl:latitude":39.24158,
     "lbl:longitude":-119.934182,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Incline Village",
+    "mz:postal_locality_alt":[
+        "Crystal Bay"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688531,
         102191575,
         85633793,
+        102081533,
         85974955,
-        102081533
+        85688531
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795558"
     },
     "wof:country":"US",
-    "wof:geomhash":"f87bf81bcfeb187632392ef874803b35",
+    "wof:geomhash":"18660c57102abb1d3ae0706852e2b180",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554751741,
-    "wof:lastmodified":1480906294,
+    "wof:lastmodified":1611184344,
     "wof:name":"89451",
     "wof:parent_id":85974955,
     "wof:placetype":"postalcode",

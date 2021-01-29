@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.227922,
-    "geom:area_square_m":2205077988.921109,
+    "geom:area_square_m":2205077988.921418,
     "geom:bbox":"-101.192804,38.221456,-100.679171,38.794472",
     "geom:latitude":38.517522,
     "geom:longitude":-100.905582,
@@ -14,20 +14,27 @@
     "lbl:latitude":38.511485,
     "lbl:longitude":-100.888344,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Scott City",
+    "mz:postal_locality_alt":[
+        "Sublette",
+        "Healy",
+        "Marienthal"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404504879,
         85633793,
-        102083461
+        102083461,
+        404504879,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787451"
     },
     "wof:country":"US",
-    "wof:geomhash":"353fe475412152881a8c48f1a69045a3",
+    "wof:geomhash":"55b51f3e2152c653531c64ca8eb6bb5e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554739355,
-    "wof:lastmodified":1480840675,
+    "wof:lastmodified":1611182652,
     "wof:name":"67871",
     "wof:parent_id":404504879,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003455,
-    "geom:area_square_m":35469414.393173,
+    "geom:area_square_m":35469414.393133,
     "geom:bbox":"-84.54497,33.817319,-84.457881,33.914465",
     "geom:latitude":33.871376,
     "geom:longitude":-84.50115,
@@ -13,20 +13,27 @@
     "lbl:latitude":33.86994,
     "lbl:longitude":-84.498081,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Smyrna",
+    "mz:postal_locality_alt":[
+        "Atlanta",
+        "Marietta",
+        "Suwanee"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688535,
         102191575,
         85633793,
+        102082313,
         85936139,
-        102082313
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770558"
     },
     "wof:country":"US",
-    "wof:geomhash":"88e64b622527ffef0482949ac7bcc91e",
+    "wof:geomhash":"ae92acac69daea81f42c533993fd18a9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +45,7 @@
         }
     ],
     "wof:id":554712761,
-    "wof:lastmodified":1480841937,
+    "wof:lastmodified":1611183721,
     "wof:name":"30080",
     "wof:parent_id":85936139,
     "wof:placetype":"postalcode",

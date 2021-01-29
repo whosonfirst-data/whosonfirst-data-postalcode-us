@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00284,
-    "geom:area_square_m":27392130.655167,
+    "geom:area_square_m":27392130.655151,
     "geom:bbox":"-90.2855,38.698043,-90.234299,38.786685",
     "geom:latitude":38.743308,
     "geom:longitude":-90.259773,
@@ -13,20 +13,27 @@
     "lbl:latitude":38.743302,
     "lbl:longitude":-90.259775,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"St Louis",
+    "mz:postal_locality_alt":[
+        "Saint Louis",
+        "Jennings",
+        "Florissant"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404517457,
         85633793,
-        102086173
+        102086173,
+        404517457,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785621"
     },
     "wof:country":"US",
-    "wof:geomhash":"ae5a9d3f0b6bd24c1135892e16e4b175",
+    "wof:geomhash":"24bbed3687145a0fd82fbe7e39bab5d5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +45,7 @@
         }
     ],
     "wof:id":554735823,
-    "wof:lastmodified":1480914492,
+    "wof:lastmodified":1611184432,
     "wof:name":"63136",
     "wof:parent_id":404517457,
     "wof:placetype":"postalcode",

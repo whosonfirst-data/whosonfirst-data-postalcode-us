@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004211,
-    "geom:area_square_m":43403684.634247,
+    "geom:area_square_m":43403684.634241,
     "geom:bbox":"-117.748728,33.487096,-117.668836,33.574245",
     "geom:latitude":33.527636,
     "geom:longitude":-117.705192,
@@ -13,20 +13,26 @@
     "lbl:latitude":33.528867,
     "lbl:longitude":-117.701175,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Laguna Niguel",
+    "mz:postal_locality_alt":[
+        "Mission Viejo",
+        "Laguna Beach"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102080847,
         85923115,
-        102080847
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796593"
     },
     "wof:country":"US",
-    "wof:geomhash":"525c836cedacd9275ce16a48ab889872",
+    "wof:geomhash":"62c7140ec2beffb23eb13820907d8499",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554784465,
-    "wof:lastmodified":1480906256,
+    "wof:lastmodified":1611183940,
     "wof:name":"92677",
     "wof:parent_id":85923115,
     "wof:placetype":"postalcode",

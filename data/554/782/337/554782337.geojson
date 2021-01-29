@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017648,
-    "geom:area_square_m":162423649.812817,
+    "geom:area_square_m":162423649.812898,
     "geom:bbox":"-80.713495,41.804434,-80.519219,41.982509",
     "geom:latitude":41.899821,
     "geom:longitude":-80.581922,
@@ -14,21 +14,27 @@
     "lbl:latitude":41.896637,
     "lbl:longitude":-80.585178,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Conneaut",
+    "mz:postal_locality_alt":[
+        "North Kingsville",
+        "Kipton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404524705,
         85633793,
+        102083657,
+        404524705,
         85982897,
-        102083657
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776576"
     },
     "wof:country":"US",
-    "wof:geomhash":"a71b86cc6f78a5ddc3c538977176c282",
+    "wof:geomhash":"6ffeb9c2525ff2b66e22fade3cfb6494",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554782337,
-    "wof:lastmodified":1480906218,
+    "wof:lastmodified":1611183602,
     "wof:name":"44030",
     "wof:parent_id":85982897,
     "wof:placetype":"postalcode",

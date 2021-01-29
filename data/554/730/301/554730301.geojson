@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.072031,
-    "geom:area_square_m":618590187.39393,
+    "geom:area_square_m":618590187.393946,
     "geom:bbox":"-94.225437,45.853188,-93.888883,46.178272",
     "geom:latitude":46.011214,
     "geom:longitude":-94.06562,
@@ -14,20 +14,25 @@
     "lbl:latitude":46.005009,
     "lbl:longitude":-94.072993,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pierz",
+    "mz:postal_locality_alt":[
+        "Buckman"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404512697,
         85633793,
-        102087847
+        102087847,
+        404512697,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782449"
     },
     "wof:country":"US",
-    "wof:geomhash":"b3db76081a7080c549ffe62bcb390027",
+    "wof:geomhash":"232ca7373447627935e0b80a65f9d97a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554730301,
-    "wof:lastmodified":1480788211,
+    "wof:lastmodified":1611182723,
     "wof:name":"56364",
     "wof:parent_id":404512697,
     "wof:placetype":"postalcode",

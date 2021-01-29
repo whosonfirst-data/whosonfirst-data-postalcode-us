@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004944,
-    "geom:area_square_m":51472480.745992,
+    "geom:area_square_m":51472480.746013,
     "geom:bbox":"-83.709153,32.612018,-83.599388,32.686732",
     "geom:latitude":32.647664,
     "geom:longitude":-83.656548,
@@ -13,20 +13,25 @@
     "lbl:latitude":32.647873,
     "lbl:longitude":-83.657206,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Warner Robins",
+    "mz:postal_locality_alt":[
+        "Milledgeville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688535,
         102191575,
         85633793,
+        102083617,
         85936249,
-        102083617
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12771134"
     },
     "wof:country":"US",
-    "wof:geomhash":"f073786ea920cd86171d59739e43b3bb",
+    "wof:geomhash":"55594e836c79f4c49233f2f4603bfbd7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554713705,
-    "wof:lastmodified":1480839374,
+    "wof:lastmodified":1611183316,
     "wof:name":"31093",
     "wof:parent_id":85936249,
     "wof:placetype":"postalcode",

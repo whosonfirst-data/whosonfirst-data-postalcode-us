@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011322,
-    "geom:area_square_m":100892485.645591,
+    "geom:area_square_m":100892485.645526,
     "geom:bbox":"-69.896009,43.799384,-69.756033,43.985646",
     "geom:latitude":43.891599,
     "geom:longitude":-69.830603,
@@ -14,21 +14,32 @@
     "lbl:latitude":43.888154,
     "lbl:longitude":-69.826684,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bath",
+    "mz:postal_locality_alt":[
+        "West Bath",
+        "Damariscotta",
+        "Boothbay",
+        "Arrowsic",
+        "Boothbay Harbor",
+        "Nobleboro",
+        "Wiscasset"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404474779,
         85633793,
+        102087455,
+        404474779,
         85948861,
-        102087455
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759617"
     },
     "wof:country":"US",
-    "wof:geomhash":"1b66daa9c975ab6fa6dd4e8973e1755c",
+    "wof:geomhash":"38d16f4d61e041570eb414779d0b13b9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +52,7 @@
         }
     ],
     "wof:id":554778749,
-    "wof:lastmodified":1480785909,
+    "wof:lastmodified":1611183434,
     "wof:name":"04530",
     "wof:parent_id":85948861,
     "wof:placetype":"postalcode",

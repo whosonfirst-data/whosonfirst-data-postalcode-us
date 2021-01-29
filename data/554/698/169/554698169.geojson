@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026245,
-    "geom:area_square_m":233077886.979945,
+    "geom:area_square_m":233077886.980091,
     "geom:bbox":"-71.009459,43.96005,-70.848077,44.27936",
     "geom:latitude":44.092653,
     "geom:longitude":-70.949789,
@@ -14,20 +14,25 @@
     "lbl:latitude":44.101677,
     "lbl:longitude":-70.942769,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fryeburg",
+    "mz:postal_locality_alt":[
+        "Stow"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404475737,
         85633793,
-        102087437
+        102087437,
+        404475737,
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759392"
     },
     "wof:country":"US",
-    "wof:geomhash":"cc12bf68f2691054f991e6fccac778ae",
+    "wof:geomhash":"4ed8add952852c5ad4ebd5fda228b3d0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554698169,
-    "wof:lastmodified":1480911760,
+    "wof:lastmodified":1611184678,
     "wof:name":"04037",
     "wof:parent_id":404475737,
     "wof:placetype":"postalcode",

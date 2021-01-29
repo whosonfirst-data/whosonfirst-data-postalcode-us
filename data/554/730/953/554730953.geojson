@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048389,
-    "geom:area_square_m":420957840.109741,
+    "geom:area_square_m":420957840.109835,
     "geom:bbox":"-97.981552,45.177891,-97.653216,45.457054",
     "geom:latitude":45.288033,
     "geom:longitude":-97.808634,
@@ -14,20 +14,25 @@
     "lbl:latitude":45.290641,
     "lbl:longitude":-97.796148,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bristol",
+    "mz:postal_locality_alt":[
+        "Butler"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688693,
         102191575,
-        404489795,
         85633793,
-        102086871
+        102086871,
+        404489795,
+        85688693
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782794"
     },
     "wof:country":"US",
-    "wof:geomhash":"9ae4b4ba5b7c64aee9d6f34fdfb87321",
+    "wof:geomhash":"2921cf6903bd3a58a9d7688d7fdc7c52",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554730953,
-    "wof:lastmodified":1480916314,
+    "wof:lastmodified":1611182720,
     "wof:name":"57219",
     "wof:parent_id":404489795,
     "wof:placetype":"postalcode",

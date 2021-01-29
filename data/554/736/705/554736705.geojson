@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03794,
-    "geom:area_square_m":359045301.285875,
+    "geom:area_square_m":359045301.285823,
     "geom:bbox":"-94.657741,39.958764,-94.293717,40.145581",
     "geom:latitude":40.062823,
     "geom:longitude":-94.482574,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.062598,
     "lbl:longitude":-94.482585,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"King City",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404516119,
         85633793,
-        102085311
+        102085311,
+        404516119,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786128"
     },
     "wof:country":"US",
-    "wof:geomhash":"3ab8f1c863945c16a88ece0fcdcac1a4",
+    "wof:geomhash":"5f93ef39af1d4704941455a1e5d2f369",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554736705,
-    "wof:lastmodified":1480908971,
+    "wof:lastmodified":1611183037,
     "wof:name":"64463",
     "wof:parent_id":404516119,
     "wof:placetype":"postalcode",

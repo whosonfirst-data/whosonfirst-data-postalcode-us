@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016653,
-    "geom:area_square_m":150472749.603882,
+    "geom:area_square_m":150472749.603981,
     "geom:bbox":"-75.209411,42.941789,-75.018811,43.133345",
     "geom:latitude":43.050855,
     "geom:longitude":-75.113717,
@@ -14,20 +14,22 @@
     "lbl:latitude":43.061642,
     "lbl:longitude":-75.12857,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Frankfort",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404521879,
         85633793,
-        102081877
+        102081877,
+        404521879,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762776"
     },
     "wof:country":"US",
-    "wof:geomhash":"db1f1d2bc5dd3a9dea61638f52f5f095",
+    "wof:geomhash":"f220ed372b8139ead067a7cb5498b45d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554702279,
-    "wof:lastmodified":1480842883,
+    "wof:lastmodified":1611184159,
     "wof:name":"13340",
     "wof:parent_id":404521879,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003079,
-    "geom:area_square_m":18328945.233135,
+    "geom:area_square_m":18328945.233145,
     "geom:bbox":"-149.924756,61.199606,-149.77835,61.246127",
     "geom:latitude":61.220262,
     "geom:longitude":-149.856566,
@@ -13,20 +13,22 @@
     "lbl:latitude":61.220018,
     "lbl:longitude":-149.855702,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Anchorage",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688573,
         102191575,
         85633793,
+        102085881,
         85915707,
-        102085881
+        85688573
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12799593"
     },
     "wof:country":"US",
-    "wof:geomhash":"cc5bc4b37abe0b10ca2aec90ed5b96bd",
+    "wof:geomhash":"28462a9ace26d9fc2c3b0f5a4ed7178d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +40,7 @@
         }
     ],
     "wof:id":554784941,
-    "wof:lastmodified":1480810342,
+    "wof:lastmodified":1611183941,
     "wof:name":"99501",
     "wof:parent_id":85915707,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009196,
-    "geom:area_square_m":87921622.676103,
+    "geom:area_square_m":87921622.676058,
     "geom:bbox":"-89.605872,39.290334,-89.438873,39.421891",
     "geom:latitude":39.356416,
     "geom:longitude":-89.519943,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.356412,
     "lbl:longitude":-89.519915,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Harvel",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404497511,
         85633793,
-        102082289
+        102082289,
+        404497511,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785209"
     },
     "wof:country":"US",
-    "wof:geomhash":"3af64ff19cb23e0c18969fd36b4ff6b3",
+    "wof:geomhash":"4d858961d85ede05beff6c58d58165d7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554735099,
-    "wof:lastmodified":1480903245,
+    "wof:lastmodified":1611184420,
     "wof:name":"62538",
     "wof:parent_id":404497511,
     "wof:placetype":"postalcode",

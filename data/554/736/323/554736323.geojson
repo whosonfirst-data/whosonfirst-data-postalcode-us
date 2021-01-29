@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.124226,
-    "geom:area_square_m":1232045223.991173,
+    "geom:area_square_m":1232045223.991259,
     "geom:bbox":"-91.213933,36.498074,-90.636903,36.824309",
     "geom:latitude":36.671757,
     "geom:longitude":-90.915719,
@@ -14,20 +14,25 @@
     "lbl:latitude":36.675216,
     "lbl:longitude":-90.921459,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Doniphan",
+    "mz:postal_locality_alt":[
+        "Greenville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404518051,
         85633793,
-        102086911
+        102086911,
+        404518051,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785919"
     },
     "wof:country":"US",
-    "wof:geomhash":"70a56fa57f87b807a672595aaea006e8",
+    "wof:geomhash":"addc8863a94cde53186913c759e068cf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554736323,
-    "wof:lastmodified":1480915069,
+    "wof:lastmodified":1611183033,
     "wof:name":"63935",
     "wof:parent_id":404518051,
     "wof:placetype":"postalcode",

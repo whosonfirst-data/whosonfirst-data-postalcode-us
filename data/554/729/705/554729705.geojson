@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008703,
-    "geom:area_square_m":77648962.795346,
+    "geom:area_square_m":77648962.795314,
     "geom:bbox":"-92.970197,43.775806,-92.78984,43.848769",
     "geom:latitude":43.815763,
     "geom:longitude":-92.884734,
@@ -14,20 +14,22 @@
     "lbl:latitude":43.815765,
     "lbl:longitude":-92.88473,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Waltham",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404513159,
         85633793,
-        102087717
+        102087717,
+        404513159,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782166"
     },
     "wof:country":"US",
-    "wof:geomhash":"d49458371bdab86ca3a76afa20c05f43",
+    "wof:geomhash":"898f0e6b5838b4551db573eb865312b2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554729705,
-    "wof:lastmodified":1480788374,
+    "wof:lastmodified":1611185425,
     "wof:name":"55982",
     "wof:parent_id":404513159,
     "wof:placetype":"postalcode",

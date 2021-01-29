@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009725,
-    "geom:area_square_m":97298492.781296,
+    "geom:area_square_m":97298492.781377,
     "geom:bbox":"-86.970074,35.932217,-86.830104,36.048927",
     "geom:latitude":35.988494,
     "geom:longitude":-86.904844,
@@ -13,19 +13,25 @@
     "lbl:latitude":35.987493,
     "lbl:longitude":-86.903598,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Franklin",
+    "mz:postal_locality_alt":[
+        "Brentwood",
+        "Centerville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688701,
-        102086337
+        102086337,
+        85688701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12773793"
     },
     "wof:country":"US",
-    "wof:geomhash":"f9baa77a3919b9c8909580fcd471419d",
+    "wof:geomhash":"df926a05273a7b4972b5f4cee2628c6f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +42,7 @@
         }
     ],
     "wof:id":554716489,
-    "wof:lastmodified":1480915650,
+    "wof:lastmodified":1611185389,
     "wof:name":"37069",
     "wof:parent_id":102086337,
     "wof:placetype":"postalcode",

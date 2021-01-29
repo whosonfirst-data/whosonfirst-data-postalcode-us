@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008228,
-    "geom:area_square_m":74986862.984606,
+    "geom:area_square_m":74986862.984592,
     "geom:bbox":"-71.840179,42.475128,-71.692528,42.573901",
     "geom:latitude":42.518637,
     "geom:longitude":-71.761386,
@@ -14,21 +14,26 @@
     "lbl:latitude":42.519977,
     "lbl:longitude":-71.763202,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Leominster",
+    "mz:postal_locality_alt":[
+        "Fitchburg"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476661,
         85633793,
+        102084655,
+        404476661,
         85950377,
-        102084655
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758456"
     },
     "wof:country":"US",
-    "wof:geomhash":"911fbdb453a4a3fc2eb3af523c9cd208",
+    "wof:geomhash":"2b5a0d44eb6738d34b32ad729f7fdf6f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554697041,
-    "wof:lastmodified":1480803781,
+    "wof:lastmodified":1611184639,
     "wof:name":"01453",
     "wof:parent_id":85950377,
     "wof:placetype":"postalcode",

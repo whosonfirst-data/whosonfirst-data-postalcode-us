@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025485,
-    "geom:area_square_m":224395063.805796,
+    "geom:area_square_m":224395063.805869,
     "geom:bbox":"-71.563999,44.512685,-71.316313,44.661791",
     "geom:latitude":44.595558,
     "geom:longitude":-71.438625,
@@ -14,20 +14,26 @@
     "lbl:latitude":44.563265,
     "lbl:longitude":-71.442474,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Groveton",
+    "mz:postal_locality_alt":[
+        "Stark",
+        "Colebrook"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688689,
         102191575,
-        404477203,
         85633793,
-        102085529
+        102085529,
+        404477203,
+        85688689
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759228"
     },
     "wof:country":"US",
-    "wof:geomhash":"8f4507b4ea4f32004ac50a92cdeb19ce",
+    "wof:geomhash":"61c5ce82449d5e303d5fd04e1093f3bc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554697929,
-    "wof:lastmodified":1480905151,
+    "wof:lastmodified":1611184662,
     "wof:name":"03582",
     "wof:parent_id":404477203,
     "wof:placetype":"postalcode",

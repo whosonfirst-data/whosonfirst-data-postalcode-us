@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010941,
-    "geom:area_square_m":96374120.233234,
+    "geom:area_square_m":96374120.233237,
     "geom:bbox":"-86.149858,44.514005,-86.003257,44.633701",
     "geom:latitude":44.574382,
     "geom:longitude":-86.080998,
@@ -14,20 +14,25 @@
     "lbl:latitude":44.579933,
     "lbl:longitude":-86.090298,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Benzonia",
+    "mz:postal_locality_alt":[
+        "Beulah"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404505775,
         85633793,
-        102082999
+        102082999,
+        404505775,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779427"
     },
     "wof:country":"US",
-    "wof:geomhash":"dfb26dfa06545a70c07e20d1936479f8",
+    "wof:geomhash":"c050201545e60c01b84e95ae51072f0d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554725151,
-    "wof:lastmodified":1480843004,
+    "wof:lastmodified":1611183256,
     "wof:name":"49616",
     "wof:parent_id":404505775,
     "wof:placetype":"postalcode",

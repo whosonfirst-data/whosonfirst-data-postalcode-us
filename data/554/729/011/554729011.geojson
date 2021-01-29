@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001857,
-    "geom:area_square_m":16284669.603914,
+    "geom:area_square_m":16284669.603921,
     "geom:bbox":"-93.021395,44.78965,-92.974741,44.858711",
     "geom:latitude":44.821492,
     "geom:longitude":-92.996539,
@@ -14,21 +14,26 @@
     "lbl:latitude":44.821511,
     "lbl:longitude":-92.998235,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"St Paul Park",
+    "mz:postal_locality_alt":[
+        "Saint Paul Park"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404514919,
         85633793,
+        102087659,
+        404514919,
         85953547,
-        102087659
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781717"
     },
     "wof:country":"US",
-    "wof:geomhash":"16d07f690f0671cc3b0b4e328768c8ae",
+    "wof:geomhash":"7014eb4c9cba7ca8a7d329d16c678519",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554729011,
-    "wof:lastmodified":1480783433,
+    "wof:lastmodified":1611185432,
     "wof:name":"55071",
     "wof:parent_id":85953547,
     "wof:placetype":"postalcode",

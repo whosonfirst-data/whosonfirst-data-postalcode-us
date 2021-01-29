@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013608,
-    "geom:area_square_m":127729169.263172,
+    "geom:area_square_m":127729169.263045,
     "geom:bbox":"-96.83814,40.523077,-96.667142,40.71223",
     "geom:latitude":40.61633,
     "geom:longitude":-96.750804,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.613627,
     "lbl:longitude":-96.752842,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Martell",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688563,
         102191575,
-        404519939,
         85633793,
-        102083503
+        102083503,
+        404519939,
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787650"
     },
     "wof:country":"US",
-    "wof:geomhash":"66db0f5f8ce97ea67ad5cb949f65f378",
+    "wof:geomhash":"af2de755d06aa50d8dc50861dd15273b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554739731,
-    "wof:lastmodified":1480843039,
+    "wof:lastmodified":1611182651,
     "wof:name":"68404",
     "wof:parent_id":404519939,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003463,
-    "geom:area_square_m":33466235.697847,
+    "geom:area_square_m":33466235.697848,
     "geom:bbox":"-121.329867,38.56708,-121.206158,38.640304",
     "geom:latitude":38.60457,
     "geom:longitude":-121.280124,
@@ -13,20 +13,27 @@
     "lbl:latitude":38.604269,
     "lbl:longitude":-121.280327,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Rancho Cordova",
+    "mz:postal_locality_alt":[
+        "Gold River",
+        "Rncho Cordova",
+        "Sacramento"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102082889,
         85922851,
-        102082889
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12797940"
     },
     "wof:country":"US",
-    "wof:geomhash":"1892645ac979914572f8651754d91bb9",
+    "wof:geomhash":"6cae0ea876b201384f1eb8ce77d29fbd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +45,7 @@
         }
     ],
     "wof:id":554753939,
-    "wof:lastmodified":1480796110,
+    "wof:lastmodified":1611182928,
     "wof:name":"95670",
     "wof:parent_id":85922851,
     "wof:placetype":"postalcode",

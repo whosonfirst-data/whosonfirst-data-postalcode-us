@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.064494,
-    "geom:area_square_m":668544807.421957,
+    "geom:area_square_m":668544807.422673,
     "geom:bbox":"-84.044001,32.848495,-83.74323,33.216571",
     "geom:latitude":33.03733,
     "geom:longitude":-83.927065,
@@ -13,20 +13,26 @@
     "lbl:latitude":33.040249,
     "lbl:longitude":-83.934522,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Forsyth",
+    "mz:postal_locality_alt":[
+        "Juliette",
+        "Smarr"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688535,
         102191575,
         85633793,
+        102082909,
         85937007,
-        102082909
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12771077"
     },
     "wof:country":"US",
-    "wof:geomhash":"d380a4a082f6bb13d9c613e7fe03f544",
+    "wof:geomhash":"778f8bdbf31ff281ece75f4430b2a0d5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554713597,
-    "wof:lastmodified":1480817496,
+    "wof:lastmodified":1611183319,
     "wof:name":"31029",
     "wof:parent_id":85937007,
     "wof:placetype":"postalcode",

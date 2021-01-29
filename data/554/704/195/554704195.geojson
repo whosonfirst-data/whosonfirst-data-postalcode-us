@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000759,
-    "geom:area_square_m":7151258.172102,
+    "geom:area_square_m":7151258.172097,
     "geom:bbox":"-79.154002,40.368717,-79.073345,40.418494",
     "geom:latitude":40.39557,
     "geom:longitude":-79.124164,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.396027,
     "lbl:longitude":-79.116263,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Robinson",
+    "mz:postal_locality_alt":[
+        "Loretto"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404486489,
         85633793,
-        102081387
+        102081387,
+        404486489,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764093"
     },
     "wof:country":"US",
-    "wof:geomhash":"05dbbc74cdc2a546e6b308c6f7f7b09b",
+    "wof:geomhash":"84a4781de01e73b14897909a999770c4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554704195,
-    "wof:lastmodified":1480823403,
+    "wof:lastmodified":1611184487,
     "wof:name":"15949",
     "wof:parent_id":404486489,
     "wof:placetype":"postalcode",

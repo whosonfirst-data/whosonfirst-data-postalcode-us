@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041065,
-    "geom:area_square_m":398940777.280921,
+    "geom:area_square_m":398940777.280761,
     "geom:bbox":"-96.473787,38.085791,-96.048168,38.312522",
     "geom:latitude":38.217735,
     "geom:longitude":-96.286885,
@@ -14,20 +14,22 @@
     "lbl:latitude":38.223501,
     "lbl:longitude":-96.293197,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Olpe",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404504581,
         85633793,
-        102082661
+        102082661,
+        404504581,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787023"
     },
     "wof:country":"US",
-    "wof:geomhash":"c18fd5602a3af3b34d2c3a643642c0d3",
+    "wof:geomhash":"0cbdc8067d0cb75222fe296a0b3de9af",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554738449,
-    "wof:lastmodified":1480800136,
+    "wof:lastmodified":1611183097,
     "wof:name":"66865",
     "wof:parent_id":404504581,
     "wof:placetype":"postalcode",

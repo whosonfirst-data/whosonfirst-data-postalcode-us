@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000981,
-    "geom:area_square_m":9968722.217628,
+    "geom:area_square_m":9968722.217626,
     "geom:bbox":"-76.589161,34.681493,-76.523671,34.715058",
     "geom:latitude":34.69938,
     "geom:longitude":-76.558701,
@@ -14,20 +14,25 @@
     "lbl:latitude":34.69804,
     "lbl:longitude":-76.555565,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Harkers Island",
+    "mz:postal_locality_alt":[
+        "Winterville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688773,
         102191575,
         85633793,
+        102080875,
         85981835,
-        102080875
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12769715"
     },
     "wof:country":"US",
-    "wof:geomhash":"ba01e70aa3014dfb44fe83e0cce4431d",
+    "wof:geomhash":"9a461fa665892beb815c0cd625acb609",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554781043,
-    "wof:lastmodified":1480904312,
+    "wof:lastmodified":1611184830,
     "wof:name":"28531",
     "wof:parent_id":85981835,
     "wof:placetype":"postalcode",

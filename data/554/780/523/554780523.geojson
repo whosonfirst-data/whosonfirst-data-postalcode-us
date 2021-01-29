@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004503,
-    "geom:area_square_m":43138381.733655,
+    "geom:area_square_m":43138381.733618,
     "geom:bbox":"-76.612489,39.159452,-76.512872,39.256505",
     "geom:latitude":39.210909,
     "geom:longitude":-76.559715,
@@ -14,20 +14,26 @@
     "lbl:latitude":39.208888,
     "lbl:longitude":-76.562926,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Baltimore",
+    "mz:postal_locality_alt":[
+        "Curtis Bay",
+        "Orchard Beach"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688501,
         102191575,
         85633793,
+        102081589,
         85949461,
-        102081589
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766519"
     },
     "wof:country":"US",
-    "wof:geomhash":"a6d0015a015bb8e68a3afa9a70c4cecd",
+    "wof:geomhash":"06c0285f040f1a3c21b16c4756ae2cc9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554780523,
-    "wof:lastmodified":1480843201,
+    "wof:lastmodified":1611185195,
     "wof:name":"21226",
     "wof:parent_id":85949461,
     "wof:placetype":"postalcode",

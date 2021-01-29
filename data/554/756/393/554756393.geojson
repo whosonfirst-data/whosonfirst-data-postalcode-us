@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003808,
-    "geom:area_square_m":31709786.668711,
+    "geom:area_square_m":31709786.668691,
     "geom:bbox":"-117.347048,47.620745,-117.281116,47.713805",
     "geom:latitude":47.665228,
     "geom:longitude":-117.309163,
@@ -13,20 +13,25 @@
     "lbl:latitude":47.664705,
     "lbl:longitude":-117.310362,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Spokane",
+    "mz:postal_locality_alt":[
+        "Spokane Valley"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688623,
         102191575,
         85633793,
+        102087555,
         101730011,
-        102087555
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12799536"
     },
     "wof:country":"US",
-    "wof:geomhash":"75b4922333f398bf849a5a0357f63f02",
+    "wof:geomhash":"6bcf4dd39af0970ad482209c47216e0b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554756393,
-    "wof:lastmodified":1480787764,
+    "wof:lastmodified":1611184294,
     "wof:name":"99212",
     "wof:parent_id":101730011,
     "wof:placetype":"postalcode",

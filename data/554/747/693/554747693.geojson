@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.239029,
-    "geom:area_square_m":2481217096.811485,
+    "geom:area_square_m":2481217096.811009,
     "geom:bbox":"-101.174021,32.526692,-100.517108,33.22924",
     "geom:latitude":32.913674,
     "geom:longitude":-100.845038,
@@ -13,19 +13,24 @@
     "lbl:latitude":32.887589,
     "lbl:longitude":-100.841389,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Snyder",
+    "mz:postal_locality_alt":[
+        "Denton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688753,
-        102081077
+        102081077,
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12792688"
     },
     "wof:country":"US",
-    "wof:geomhash":"c2191ba9a7577873489e33fcfd6a4554",
+    "wof:geomhash":"5531b63a4812165225eb50728426c6f1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +41,7 @@
         }
     ],
     "wof:id":554747693,
-    "wof:lastmodified":1480913150,
+    "wof:lastmodified":1611183460,
     "wof:name":"79549",
     "wof:parent_id":102081077,
     "wof:placetype":"postalcode",

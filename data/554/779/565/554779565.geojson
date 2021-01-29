@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000208,
-    "geom:area_square_m":1949493.866553,
+    "geom:area_square_m":1949493.866551,
     "geom:bbox":"-73.990867,40.67273,-73.97064,40.689901",
     "geom:latitude":40.682417,
     "geom:longitude":-73.979385,
@@ -14,21 +14,26 @@
     "lbl:latitude":40.682306,
     "lbl:longitude":-73.978099,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Brooklyn",
+    "mz:postal_locality_alt":[
+        "New York"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404521211,
         85633793,
+        102082361,
+        404521211,
         85977539,
-        102082361
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761735"
     },
     "wof:country":"US",
-    "wof:geomhash":"fec0643a1f39ac80f97992cea15cd3d0",
+    "wof:geomhash":"ad9ed1ab537f6f8fdda4237517be3c22",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554779565,
-    "wof:lastmodified":1480793439,
+    "wof:lastmodified":1611183979,
     "wof:name":"11217",
     "wof:parent_id":85977539,
     "wof:placetype":"postalcode",

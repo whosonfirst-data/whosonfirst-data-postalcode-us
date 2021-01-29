@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022095,
-    "geom:area_square_m":184382869.259988,
+    "geom:area_square_m":184382869.259942,
     "geom:bbox":"-92.956928,47.468082,-92.798098,47.635978",
     "geom:latitude":47.555546,
     "geom:longitude":-92.872553,
@@ -14,20 +14,25 @@
     "lbl:latitude":47.541039,
     "lbl:longitude":-92.86219,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Chisholm",
+    "mz:postal_locality_alt":[
+        "Keewatin"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404513553,
         85633793,
-        102087653
+        102087653,
+        404513553,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782027"
     },
     "wof:country":"US",
-    "wof:geomhash":"be4a56a1b1f1926e8252d508378e6a38",
+    "wof:geomhash":"753a0ab0c85ffb49d260c3d08027c978",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554729461,
-    "wof:lastmodified":1480785485,
+    "wof:lastmodified":1611185438,
     "wof:name":"55719",
     "wof:parent_id":404513553,
     "wof:placetype":"postalcode",

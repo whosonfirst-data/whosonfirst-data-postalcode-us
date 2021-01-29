@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00172,
-    "geom:area_square_m":15971100.920506,
+    "geom:area_square_m":15971100.920509,
     "geom:bbox":"-73.102353,41.32383,-73.038934,41.362975",
     "geom:latitude":41.344263,
     "geom:longitude":-73.0689,
@@ -14,21 +14,27 @@
     "lbl:latitude":41.344249,
     "lbl:longitude":-73.069825,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ansonia",
+    "mz:postal_locality_alt":[
+        "Fairfield",
+        "Essex"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688629,
         102191575,
-        404495697,
         85633793,
+        102086923,
+        404495697,
         85930921,
-        102086923
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760375"
     },
     "wof:country":"US",
-    "wof:geomhash":"eb92bbc24980d25bdde5e120bfe6bbe6",
+    "wof:geomhash":"6e023ccc7c26668293b285be3f0b1d2b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554699537,
-    "wof:lastmodified":1480916210,
+    "wof:lastmodified":1611184616,
     "wof:name":"06401",
     "wof:parent_id":85930921,
     "wof:placetype":"postalcode",

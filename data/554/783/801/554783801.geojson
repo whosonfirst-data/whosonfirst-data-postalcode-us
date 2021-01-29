@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043062,
-    "geom:area_square_m":478154886.597301,
+    "geom:area_square_m":478154886.59692,
     "geom:bbox":"-97.824287,25.981919,-97.466026,26.226636",
     "geom:latitude":26.105067,
     "geom:longitude":-97.631104,
@@ -14,19 +14,25 @@
     "lbl:latitude":26.106086,
     "lbl:longitude":-97.629292,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"San Benito",
+    "mz:postal_locality_alt":[
+        "Brownsville",
+        "Rio Hondo"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688753,
-        102086761
+        102086761,
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12792195"
     },
     "wof:country":"US",
-    "wof:geomhash":"e6fa1a613fb1364fb266a66138c74674",
+    "wof:geomhash":"5cdc9499d7d686091645c3f092a767cb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554783801,
-    "wof:lastmodified":1480916912,
+    "wof:lastmodified":1611183902,
     "wof:name":"78586",
     "wof:parent_id":102086761,
     "wof:placetype":"postalcode",

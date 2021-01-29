@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018435,
-    "geom:area_square_m":190328247.604156,
+    "geom:area_square_m":190328247.60429,
     "geom:bbox":"-84.558107,33.301192,-84.382009,33.459054",
     "geom:latitude":33.388581,
     "geom:longitude":-84.457302,
@@ -13,19 +13,25 @@
     "lbl:latitude":33.391613,
     "lbl:longitude":-84.456432,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fayetteville",
+    "mz:postal_locality_alt":[
+        "La Grange",
+        "Jackson"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688535,
-        102081687
+        102081687,
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770656"
     },
     "wof:country":"US",
-    "wof:geomhash":"b4b99ee38e3447e5836030a8e82c60be",
+    "wof:geomhash":"a1bf4ef32b7fdac197975e4dda06d112",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +42,7 @@
         }
     ],
     "wof:id":554712923,
-    "wof:lastmodified":1480823659,
+    "wof:lastmodified":1611183712,
     "wof:name":"30215",
     "wof:parent_id":102081687,
     "wof:placetype":"postalcode",

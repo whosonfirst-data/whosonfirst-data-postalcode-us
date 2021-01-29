@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000501,
-    "geom:area_square_m":5166992.377671,
+    "geom:area_square_m":5166992.377672,
     "geom:bbox":"-86.97412,33.444616,-86.936297,33.494912",
     "geom:latitude":33.472008,
     "geom:longitude":-86.955938,
@@ -14,20 +14,25 @@
     "lbl:latitude":33.472006,
     "lbl:longitude":-86.95594,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Dolomite",
+    "mz:postal_locality_alt":[
+        "Bessemer"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688675,
         102191575,
         85633793,
+        102085481,
         85914465,
-        102085481
+        85688675
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12772938"
     },
     "wof:country":"US",
-    "wof:geomhash":"7b686f1c65b98fd9b29e1e2d3ab6c1b7",
+    "wof:geomhash":"93cbfc3db91cd215f0ffe1ade1148f32",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554715163,
-    "wof:lastmodified":1480808055,
+    "wof:lastmodified":1611183667,
     "wof:name":"35061",
     "wof:parent_id":85914465,
     "wof:placetype":"postalcode",

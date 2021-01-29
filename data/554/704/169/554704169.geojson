@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001721,
-    "geom:area_square_m":16243857.312526,
+    "geom:area_square_m":16243857.312525,
     "geom:bbox":"-78.952885,40.21483,-78.880964,40.270027",
     "geom:latitude":40.240218,
     "geom:longitude":-78.917238,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.239529,
     "lbl:longitude":-78.918459,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Davidsville",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404488113,
         85633793,
-        102081361
+        102081361,
+        404488113,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764077"
     },
     "wof:country":"US",
-    "wof:geomhash":"e4b0ead524a087386090f37ca5f8379b",
+    "wof:geomhash":"46b245a7191be3a56962935e16c2a97d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554704169,
-    "wof:lastmodified":1480903613,
+    "wof:lastmodified":1611184490,
     "wof:name":"15928",
     "wof:parent_id":404488113,
     "wof:placetype":"postalcode",

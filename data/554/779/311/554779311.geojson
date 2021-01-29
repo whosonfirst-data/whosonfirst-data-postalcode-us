@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00019,
-    "geom:area_square_m":1778661.451519,
+    "geom:area_square_m":1778661.451516,
     "geom:bbox":"-74.003477,40.758645,-73.973015,40.773325",
     "geom:latitude":40.765823,
     "geom:longitude":-73.987179,
@@ -14,21 +14,27 @@
     "lbl:latitude":40.765823,
     "lbl:longitude":-73.987179,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"New York",
+    "mz:postal_locality_alt":[
+        "Manhattan",
+        "New York City"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404521211,
         85633793,
+        102082361,
+        404521211,
         85977539,
-        102082361
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761350"
     },
     "wof:country":"US",
-    "wof:geomhash":"80878c6ce9c84d4dbf0078ac835f2ea5",
+    "wof:geomhash":"2fa24ddb14d6949013544bc698de3cb8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554779311,
-    "wof:lastmodified":1480831336,
+    "wof:lastmodified":1611183988,
     "wof:name":"10019",
     "wof:parent_id":85977539,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005929,
-    "geom:area_square_m":56986323.873323,
+    "geom:area_square_m":56986323.873307,
     "geom:bbox":"-76.614263,38.950195,-76.480179,39.028205",
     "geom:latitude":38.989803,
     "geom:longitude":-76.550123,
@@ -14,20 +14,25 @@
     "lbl:latitude":38.98775,
     "lbl:longitude":-76.5528,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Annapolis",
+    "mz:postal_locality_alt":[
+        "Baltimore"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688501,
         102191575,
         85633793,
+        102083469,
         85949735,
-        102083469
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766560"
     },
     "wof:country":"US",
-    "wof:geomhash":"3591b7f6fb29afa0c224bcb834583b75",
+    "wof:geomhash":"ef1ff0452034e3c3ced8f456efe1e419",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554780535,
-    "wof:lastmodified":1480843200,
+    "wof:lastmodified":1611185162,
     "wof:name":"21401",
     "wof:parent_id":85949735,
     "wof:placetype":"postalcode",

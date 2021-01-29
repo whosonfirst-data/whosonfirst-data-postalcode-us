@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013451,
-    "geom:area_square_m":124792210.034413,
+    "geom:area_square_m":124792210.034401,
     "geom:bbox":"-95.513999,41.331978,-95.231937,41.43345",
     "geom:latitude":41.386156,
     "geom:longitude":-95.360744,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.386619,
     "lbl:longitude":-95.362195,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hancock",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688713,
         102191575,
         85633793,
+        102086657,
         85944297,
-        102086657
+        85688713
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12780345"
     },
     "wof:country":"US",
-    "wof:geomhash":"f3df60880c170fa74379eabcdf6e1ed4",
+    "wof:geomhash":"b9a413fd6960f3af2039c33b1f0e7fb9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554726661,
-    "wof:lastmodified":1480912388,
+    "wof:lastmodified":1611184877,
     "wof:name":"51536",
     "wof:parent_id":85944297,
     "wof:placetype":"postalcode",

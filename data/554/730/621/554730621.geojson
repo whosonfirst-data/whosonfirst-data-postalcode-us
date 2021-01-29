@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027107,
-    "geom:area_square_m":225625839.391266,
+    "geom:area_square_m":225625839.391183,
     "geom:bbox":"-94.716479,47.55756,-94.504335,47.831426",
     "geom:latitude":47.690088,
     "geom:longitude":-94.619965,
@@ -14,20 +14,25 @@
     "lbl:latitude":47.689935,
     "lbl:longitude":-94.618731,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hines",
+    "mz:postal_locality_alt":[
+        "Blackduck"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404511391,
         85633793,
-        102087773
+        102087773,
+        404511391,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782614"
     },
     "wof:country":"US",
-    "wof:geomhash":"cf96526e173af946db57225625ccef3b",
+    "wof:geomhash":"3f99568e3a5dce2ed712fa72f3077dcd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554730621,
-    "wof:lastmodified":1480781765,
+    "wof:lastmodified":1611182726,
     "wof:name":"56647",
     "wof:parent_id":404511391,
     "wof:placetype":"postalcode",

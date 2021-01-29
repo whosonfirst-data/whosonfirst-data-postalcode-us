@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001964,
-    "geom:area_square_m":20717321.985748,
+    "geom:area_square_m":20717321.98574,
     "geom:bbox":"-97.21849,31.417254,-97.160274,31.484315",
     "geom:latitude":31.453904,
     "geom:longitude":-97.193682,
@@ -14,20 +14,25 @@
     "lbl:latitude":31.453501,
     "lbl:longitude":-97.19534,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hewitt",
+    "mz:postal_locality_alt":[
+        "Waco"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102085007,
         101723525,
-        102085007
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12791184"
     },
     "wof:country":"US",
-    "wof:geomhash":"84dd23295d4e9d0d442c622526ad9975",
+    "wof:geomhash":"8152d82b70ba90c1248bbd8e20748bfc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554745575,
-    "wof:lastmodified":1480805143,
+    "wof:lastmodified":1611185270,
     "wof:name":"76643",
     "wof:parent_id":101723525,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013553,
-    "geom:area_square_m":128356270.393803,
+    "geom:area_square_m":128356270.39353,
     "geom:bbox":"-76.797821,39.938788,-76.523808,40.110565",
     "geom:latitude":40.010992,
     "geom:longitude":-76.638512,
@@ -13,20 +13,28 @@
     "lbl:latitude":40.01471,
     "lbl:longitude":-76.640873,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"York",
+    "mz:postal_locality_alt":[
+        "Hellam",
+        "Yorkana",
+        "Wrightsville",
+        "Hallam"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404487775,
         85633793,
-        102080953
+        102080953,
+        404487775,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764779"
     },
     "wof:country":"US",
-    "wof:geomhash":"a30dcb73f99a83207d3e2017bfb748a7",
+    "wof:geomhash":"7b246841288b6511d15045203af555b4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +46,7 @@
         }
     ],
     "wof:id":554705221,
-    "wof:lastmodified":1480903980,
+    "wof:lastmodified":1611184097,
     "wof:name":"17406",
     "wof:parent_id":404487775,
     "wof:placetype":"postalcode",

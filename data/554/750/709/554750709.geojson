@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006002,
-    "geom:area_square_m":62657356.768386,
+    "geom:area_square_m":62657356.768385,
     "geom:bbox":"-111.013285,32.378476,-110.875875,32.460738",
     "geom:latitude":32.414151,
     "geom:longitude":-110.9466,
@@ -13,20 +13,25 @@
     "lbl:latitude":32.414615,
     "lbl:longitude":-110.946562,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Tucson",
+    "mz:postal_locality_alt":[
+        "Oro Valley"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688719,
         102191575,
         85633793,
+        102081135,
         85917221,
-        102081135
+        85688719
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12794728"
     },
     "wof:country":"US",
-    "wof:geomhash":"e8c6e26f3bb402ab0756a4bd4717702a",
+    "wof:geomhash":"1d8fd034ae0237cd46dd8905ac2b9b5e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554750709,
-    "wof:lastmodified":1480818846,
+    "wof:lastmodified":1611184529,
     "wof:name":"85737",
     "wof:parent_id":85917221,
     "wof:placetype":"postalcode",

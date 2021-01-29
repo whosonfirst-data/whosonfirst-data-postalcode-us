@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005827,
-    "geom:area_square_m":48850861.214578,
+    "geom:area_square_m":48850861.214568,
     "geom:bbox":"-122.306877,47.257054,-122.226541,47.357844",
     "geom:latitude":47.309943,
     "geom:longitude":-122.265257,
@@ -13,20 +13,26 @@
     "lbl:latitude":47.310617,
     "lbl:longitude":-122.26329,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Auburn",
+    "mz:postal_locality_alt":[
+        "Algona",
+        "Federal Way"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688623,
         102191575,
         85633793,
+        102086191,
         101730261,
-        102086191
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12798878"
     },
     "wof:country":"US",
-    "wof:geomhash":"e8f47c6ce015fa2777c896cafafde319",
+    "wof:geomhash":"7be96923dc25c3b60ae49a74112c09ad",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554755331,
-    "wof:lastmodified":1480915589,
+    "wof:lastmodified":1611182560,
     "wof:name":"98001",
     "wof:parent_id":101730261,
     "wof:placetype":"postalcode",

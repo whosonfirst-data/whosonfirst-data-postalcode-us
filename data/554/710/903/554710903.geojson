@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011116,
-    "geom:area_square_m":110843946.375769,
+    "geom:area_square_m":110843946.375652,
     "geom:bbox":"-78.019681,36.17521,-77.881762,36.333556",
     "geom:latitude":36.2523,
     "geom:longitude":-77.948752,
@@ -14,20 +14,22 @@
     "lbl:latitude":36.249497,
     "lbl:longitude":-77.943156,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hollister",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688773,
         102191575,
         85633793,
+        102080921,
         85981461,
-        102080921
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12769242"
     },
     "wof:country":"US",
-    "wof:geomhash":"d13a701aacc5216b6c55bd7178c7adda",
+    "wof:geomhash":"51de8c4838e8cf0e7a836bf1178d7e53",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554710903,
-    "wof:lastmodified":1480906185,
+    "wof:lastmodified":1611185120,
     "wof:name":"27844",
     "wof:parent_id":85981461,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004732,
-    "geom:area_square_m":49856048.395218,
+    "geom:area_square_m":49856048.39524,
     "geom:bbox":"-106.259743,31.52237,-106.139924,31.619599",
     "geom:latitude":31.571255,
     "geom:longitude":-106.201893,
@@ -14,19 +14,25 @@
     "lbl:latitude":31.57255,
     "lbl:longitude":-106.198866,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Clint",
+    "mz:postal_locality_alt":[
+        "Fabens",
+        "Tornillo"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688753,
-        102085989
+        102085989,
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12792777"
     },
     "wof:country":"US",
-    "wof:geomhash":"38a61b6ab695d26dff08a1ad1185dfd4",
+    "wof:geomhash":"2cccb6fd2c3f9d0631d6fb477a933c19",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554783811,
-    "wof:lastmodified":1480805447,
+    "wof:lastmodified":1611183876,
     "wof:name":"79836",
     "wof:parent_id":102085989,
     "wof:placetype":"postalcode",

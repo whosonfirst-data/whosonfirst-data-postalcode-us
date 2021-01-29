@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004594,
-    "geom:area_square_m":42771473.729348,
+    "geom:area_square_m":42771473.729359,
     "geom:bbox":"-74.037328,41.118713,-73.943808,41.19251",
     "geom:latitude":41.156928,
     "geom:longitude":-73.994409,
@@ -14,21 +14,26 @@
     "lbl:latitude":41.157191,
     "lbl:longitude":-73.993415,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"New City",
+    "mz:postal_locality_alt":[
+        "Haverstraw"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404523091,
         85633793,
+        102082385,
+        404523091,
         85979971,
-        102082385
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761652"
     },
     "wof:country":"US",
-    "wof:geomhash":"f1631a40441c618554ccacdfb9bc8fdd",
+    "wof:geomhash":"1c6685d82b08b781f8e3e659da8ccf44",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554700981,
-    "wof:lastmodified":1480792641,
+    "wof:lastmodified":1611183209,
     "wof:name":"10956",
     "wof:parent_id":85979971,
     "wof:placetype":"postalcode",

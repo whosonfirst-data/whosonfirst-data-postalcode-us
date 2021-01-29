@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008746,
-    "geom:area_square_m":83641064.18333,
+    "geom:area_square_m":83641064.18325,
     "geom:bbox":"-75.921887,39.265347,-75.760431,39.382549",
     "geom:latitude":39.338627,
     "geom:longitude":-75.840517,
@@ -14,19 +14,24 @@
     "lbl:latitude":39.334791,
     "lbl:longitude":-75.846625,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Galena",
+    "mz:postal_locality_alt":[
+        "Golts"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688501,
-        102081207
+        102081207,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766618"
     },
     "wof:country":"US",
-    "wof:geomhash":"a2fd2d0c308f38d2e9a6684a2668422e",
+    "wof:geomhash":"8afb1473a6a764e85e35f9f8230d03a8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554707353,
-    "wof:lastmodified":1480835443,
+    "wof:lastmodified":1611183131,
     "wof:name":"21635",
     "wof:parent_id":102081207,
     "wof:placetype":"postalcode",

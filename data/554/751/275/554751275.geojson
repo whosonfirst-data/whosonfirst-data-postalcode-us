@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003043,
-    "geom:area_square_m":31639983.140301,
+    "geom:area_square_m":31639983.140233,
     "geom:bbox":"-107.305097,32.694169,-107.213294,32.796346",
     "geom:latitude":32.753193,
     "geom:longitude":-107.26366,
@@ -14,20 +14,22 @@
     "lbl:latitude":32.752827,
     "lbl:longitude":-107.263614,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Garfield",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688493,
         102191575,
         85633793,
+        102081557,
         85977051,
-        102081557
+        85688493
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795150"
     },
     "wof:country":"US",
-    "wof:geomhash":"951c05a85806cf95d61284093c7465d0",
+    "wof:geomhash":"0b6d332a0770913d589dab0dfb7bb88c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554751275,
-    "wof:lastmodified":1480831482,
+    "wof:lastmodified":1611184333,
     "wof:name":"87936",
     "wof:parent_id":85977051,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002128,
-    "geom:area_square_m":19969560.406409,
+    "geom:area_square_m":19969560.406428,
     "geom:bbox":"-112.007252,40.608958,-111.920147,40.638592",
     "geom:latitude":40.622877,
     "geom:longitude":-111.964552,
@@ -13,20 +13,25 @@
     "lbl:latitude":40.622878,
     "lbl:longitude":-111.964551,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"West Jordan",
+    "mz:postal_locality_alt":[
+        "Midvale"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688567,
         102191575,
         85633793,
+        102082877,
         101728061,
-        102082877
+        85688567
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12794110"
     },
     "wof:country":"US",
-    "wof:geomhash":"aed6b14b05e807ad9b0a41ad41220ca5",
+    "wof:geomhash":"1718d82d036c27eebc79f8763abcdc1c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554749867,
-    "wof:lastmodified":1480793070,
+    "wof:lastmodified":1611183556,
     "wof:name":"84084",
     "wof:parent_id":101728061,
     "wof:placetype":"postalcode",

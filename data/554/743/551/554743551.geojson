@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001952,
-    "geom:area_square_m":19537770.48246,
+    "geom:area_square_m":19537770.482467,
     "geom:bbox":"-96.101001,35.914929,-96.029456,35.967288",
     "geom:latitude":35.941656,
     "geom:longitude":-96.054537,
@@ -14,20 +14,25 @@
     "lbl:latitude":35.941653,
     "lbl:longitude":-96.055667,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Glenpool",
+    "mz:postal_locality_alt":[
+        "Kiefer"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688585,
         102191575,
         85633793,
+        102083933,
         101715249,
-        102083933
+        85688585
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12789940"
     },
     "wof:country":"US",
-    "wof:geomhash":"bec0bf77cac5c50d7ffa0934efa2f019",
+    "wof:geomhash":"4ca926d975301560a3f95a1750edec08",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554743551,
-    "wof:lastmodified":1480838388,
+    "wof:lastmodified":1611184767,
     "wof:name":"74041",
     "wof:parent_id":101715249,
     "wof:placetype":"postalcode",

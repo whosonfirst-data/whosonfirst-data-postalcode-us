@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003295,
-    "geom:area_square_m":31889110.945001,
+    "geom:area_square_m":31889110.945052,
     "geom:bbox":"-121.435862,38.452297,-121.369864,38.525245",
     "geom:latitude":38.488794,
     "geom:longitude":-121.395838,
@@ -13,20 +13,22 @@
     "lbl:latitude":38.48879,
     "lbl:longitude":-121.395838,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Sacramento",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102082889,
         85926855,
-        102082889
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12798014"
     },
     "wof:country":"US",
-    "wof:geomhash":"869985f25d0518e346464aa3d1d1a206",
+    "wof:geomhash":"faaf8ae04c66ae66d6b5c14235fbdb64",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +40,7 @@
         }
     ],
     "wof:id":554754067,
-    "wof:lastmodified":1480796110,
+    "wof:lastmodified":1611182916,
     "wof:name":"95828",
     "wof:parent_id":85926855,
     "wof:placetype":"postalcode",

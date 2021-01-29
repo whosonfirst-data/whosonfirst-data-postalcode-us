@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004638,
-    "geom:area_square_m":43605442.29135,
+    "geom:area_square_m":43605442.291389,
     "geom:bbox":"-78.618138,40.46851,-78.440601,40.553647",
     "geom:latitude":40.500932,
     "geom:longitude":-78.540696,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.489794,
     "lbl:longitude":-78.484985,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Gallitzin",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404484617,
         85633793,
-        102081325
+        102081325,
+        404484617,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764381"
     },
     "wof:country":"US",
-    "wof:geomhash":"4776c0efa26172c61bfec2ad4ddabe9a",
+    "wof:geomhash":"a26bf1ef8bb786104eff40db55c064f6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554704585,
-    "wof:lastmodified":1480903610,
+    "wof:lastmodified":1611184520,
     "wof:name":"16641",
     "wof:parent_id":404484617,
     "wof:placetype":"postalcode",

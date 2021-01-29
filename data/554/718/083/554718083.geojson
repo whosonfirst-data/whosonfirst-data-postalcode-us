@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.078139,
-    "geom:area_square_m":813687010.579147,
+    "geom:area_square_m":813687010.578841,
     "geom:bbox":"-90.284453,32.472043,-89.7301,32.759574",
     "geom:latitude":32.631943,
     "geom:longitude":-89.985397,
@@ -14,19 +14,24 @@
     "lbl:latitude":32.632163,
     "lbl:longitude":-89.983933,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Canton",
+    "mz:postal_locality_alt":[
+        "Florence"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688579,
-        102085905
+        102085905,
+        85688579
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12774755"
     },
     "wof:country":"US",
-    "wof:geomhash":"71dc5ce55aea94a25d10c7996dc65a76",
+    "wof:geomhash":"5a32e7f449d601a85dda69d766bdff0f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554718083,
-    "wof:lastmodified":1480910224,
+    "wof:lastmodified":1611185546,
     "wof:name":"39046",
     "wof:parent_id":102085905,
     "wof:placetype":"postalcode",

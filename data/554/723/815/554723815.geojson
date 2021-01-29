@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.071423,
-    "geom:area_square_m":666715326.038243,
+    "geom:area_square_m":666715326.038242,
     "geom:bbox":"-87.314945,40.837152,-86.91178,41.144191",
     "geom:latitude":40.981226,
     "geom:longitude":-87.11549,
@@ -14,20 +14,26 @@
     "lbl:latitude":40.986173,
     "lbl:longitude":-87.112979,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Rensselaer",
+    "mz:postal_locality_alt":[
+        "Crawfordsville",
+        "Lafayette"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404500831,
         85633793,
-        102087005
+        102087005,
+        404500831,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778499"
     },
     "wof:country":"US",
-    "wof:geomhash":"d749aaeb9a6ec8beb3c5c7bfaddc70f0",
+    "wof:geomhash":"120225e8d5e3d4db2ab03a297953431c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554723815,
-    "wof:lastmodified":1480915628,
+    "wof:lastmodified":1611183802,
     "wof:name":"47978",
     "wof:parent_id":404500831,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011837,
-    "geom:area_square_m":113305260.736135,
+    "geom:area_square_m":113305260.736098,
     "geom:bbox":"-75.141036,39.208041,-74.992093,39.349391",
     "geom:latitude":39.27274,
     "geom:longitude":-75.071204,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.273865,
     "lbl:longitude":-75.071307,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Port Norris",
+    "mz:postal_locality_alt":[
+        "Dividing Creek"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478079,
         85633793,
-        102080721
+        102080721,
+        404478079,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761145"
     },
     "wof:country":"US",
-    "wof:geomhash":"9238c000490cc4be435d62e5bec63607",
+    "wof:geomhash":"b5441182269bd04698690fc86314d428",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554779237,
-    "wof:lastmodified":1480905056,
+    "wof:lastmodified":1611183987,
     "wof:name":"08349",
     "wof:parent_id":404478079,
     "wof:placetype":"postalcode",

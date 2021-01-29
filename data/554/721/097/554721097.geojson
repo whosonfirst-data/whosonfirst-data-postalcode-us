@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037254,
-    "geom:area_square_m":346915983.982384,
+    "geom:area_square_m":346915983.982313,
     "geom:bbox":"-82.026128,41.048013,-81.683889,41.223079",
     "geom:latitude":41.140117,
     "geom:longitude":-81.859004,
@@ -13,21 +13,26 @@
     "lbl:latitude":41.139872,
     "lbl:longitude":-81.860559,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Medina",
+    "mz:postal_locality_alt":[
+        "Brunswick"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404526343,
         85633793,
+        102081391,
+        404526343,
         85983023,
-        102081391
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776723"
     },
     "wof:country":"US",
-    "wof:geomhash":"e0f75e3941339052074508dad0417d74",
+    "wof:geomhash":"fac9767d6981309e2813086cb74ef0d2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554721097,
-    "wof:lastmodified":1480835325,
+    "wof:lastmodified":1611184956,
     "wof:name":"44256",
     "wof:parent_id":85983023,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002475,
-    "geom:area_square_m":25563323.23188,
+    "geom:area_square_m":25563323.231881,
     "geom:bbox":"-111.842313,33.313299,-111.788336,33.379012",
     "geom:latitude":33.352105,
     "geom:longitude":-111.811362,
@@ -13,20 +13,25 @@
     "lbl:latitude":33.353505,
     "lbl:longitude":-111.811432,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Gilbert",
+    "mz:postal_locality_alt":[
+        "Mesa"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688719,
         102191575,
         85633793,
+        102087421,
         85917513,
-        102087421
+        85688719
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12794490"
     },
     "wof:country":"US",
-    "wof:geomhash":"9d93fa534cf1582e70b0d0ac98ecea00",
+    "wof:geomhash":"b9ed6aad3d939302473d9fade780727d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554750365,
-    "wof:lastmodified":1480786587,
+    "wof:lastmodified":1611184527,
     "wof:name":"85233",
     "wof:parent_id":85917513,
     "wof:placetype":"postalcode",

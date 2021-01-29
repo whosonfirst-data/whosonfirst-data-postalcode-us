@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041506,
-    "geom:area_square_m":419034028.137856,
+    "geom:area_square_m":419034028.137778,
     "geom:bbox":"-78.735461,35.159652,-78.38786,35.394638",
     "geom:latitude":35.268496,
     "geom:longitude":-78.56987,
@@ -13,20 +13,25 @@
     "lbl:latitude":35.272208,
     "lbl:longitude":-78.568104,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Dunn",
+    "mz:postal_locality_alt":[
+        "Newton Grove"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688773,
         102191575,
         85633793,
+        102080881,
         85981625,
-        102080881
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12769566"
     },
     "wof:country":"US",
-    "wof:geomhash":"6ddb6975c6fbb3c228d65c63832b05be",
+    "wof:geomhash":"cbd6f3c18cd9c8baa1bfc1175ef53d24",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554711307,
-    "wof:lastmodified":1480905325,
+    "wof:lastmodified":1611185295,
     "wof:name":"28334",
     "wof:parent_id":85981625,
     "wof:placetype":"postalcode",

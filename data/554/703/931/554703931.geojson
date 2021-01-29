@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006064,
-    "geom:area_square_m":57146612.170223,
+    "geom:area_square_m":57146612.170251,
     "geom:bbox":"-79.671487,40.291009,-79.554642,40.406567",
     "geom:latitude":40.347391,
     "geom:longitude":-79.611247,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.347382,
     "lbl:longitude":-79.611245,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Jeannette",
+    "mz:postal_locality_alt":[
+        "Irwin"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404487553,
         85633793,
-        102081383
+        102081383,
+        404487553,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763923"
     },
     "wof:country":"US",
-    "wof:geomhash":"186b527dbce7edff6dd7fa75a35dbdea",
+    "wof:geomhash":"4d5f79d2986a0aa02b197313f52b5967",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554703931,
-    "wof:lastmodified":1480823404,
+    "wof:lastmodified":1611184445,
     "wof:name":"15644",
     "wof:parent_id":404487553,
     "wof:placetype":"postalcode",

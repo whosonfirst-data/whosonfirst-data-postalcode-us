@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01549,
-    "geom:area_square_m":143323713.914825,
+    "geom:area_square_m":143323713.914846,
     "geom:bbox":"-72.46673,41.494165,-72.21911,41.61857",
     "geom:latitude":41.557437,
     "geom:longitude":-72.34734,
@@ -14,20 +14,26 @@
     "lbl:latitude":41.550291,
     "lbl:longitude":-72.348616,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Colchester",
+    "mz:postal_locality_alt":[
+        "Fairfield",
+        "Southport"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688629,
         102191575,
-        404495737,
         85633793,
-        102084295
+        102084295,
+        404495737,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760386"
     },
     "wof:country":"US",
-    "wof:geomhash":"9938cc577de17cd8ac1304cb50bd4619",
+    "wof:geomhash":"87dc6fd8f6828180e847a518a9c14944",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554699551,
-    "wof:lastmodified":1480908719,
+    "wof:lastmodified":1611184599,
     "wof:name":"06415",
     "wof:parent_id":404495737,
     "wof:placetype":"postalcode",

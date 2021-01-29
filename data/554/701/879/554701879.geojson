@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022554,
-    "geom:area_square_m":198220916.707563,
+    "geom:area_square_m":198220916.707329,
     "geom:bbox":"-73.579656,44.597391,-73.360318,44.821193",
     "geom:latitude":44.703855,
     "geom:longitude":-73.473864,
@@ -13,21 +13,29 @@
     "lbl:latitude":44.70419,
     "lbl:longitude":-73.471392,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Plattsburgh",
+    "mz:postal_locality_alt":[
+        "Saranac Lake",
+        "Lake Placid",
+        "Malone",
+        "Crown Point"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522057,
         85633793,
+        102081797,
+        404522057,
         85977989,
-        102081797
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762531"
     },
     "wof:country":"US",
-    "wof:geomhash":"3dbaf49b6a05724bb06f6f8a618564c0",
+    "wof:geomhash":"da241834dc6ef9e5f22d3cbfc9635a5f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +48,7 @@
         }
     ],
     "wof:id":554701879,
-    "wof:lastmodified":1480829810,
+    "wof:lastmodified":1611182634,
     "wof:name":"12901",
     "wof:parent_id":85977989,
     "wof:placetype":"postalcode",

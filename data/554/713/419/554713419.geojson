@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032886,
-    "geom:area_square_m":334006117.523047,
+    "geom:area_square_m":334006117.523356,
     "geom:bbox":"-85.46736,34.599791,-85.229535,34.927567",
     "geom:latitude":34.776348,
     "geom:longitude":-85.360378,
@@ -14,19 +14,24 @@
     "lbl:latitude":34.771941,
     "lbl:longitude":-85.359193,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Chickamauga",
+    "mz:postal_locality_alt":[
+        "Rossville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688535,
-        102082321
+        102082321,
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770978"
     },
     "wof:country":"US",
-    "wof:geomhash":"c042f6fe1854f2506575130c37ff3aa6",
+    "wof:geomhash":"62bc1462d67be7ef172726141fa8e341",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554713419,
-    "wof:lastmodified":1480798358,
+    "wof:lastmodified":1611183322,
     "wof:name":"30707",
     "wof:parent_id":102082321,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000156,
-    "geom:area_square_m":1465189.87381,
+    "geom:area_square_m":1465189.873812,
     "geom:bbox":"-73.843016,40.700765,-73.818313,40.71431",
     "geom:latitude":40.7079,
     "geom:longitude":-73.828291,
@@ -14,21 +14,28 @@
     "lbl:latitude":40.7079,
     "lbl:longitude":-73.828291,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Kew Gardens",
+    "mz:postal_locality_alt":[
+        "Jamaica",
+        "Queens",
+        "New York"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404521211,
         85633793,
+        102082361,
+        404521211,
         85977539,
-        102082361
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761806"
     },
     "wof:country":"US",
-    "wof:geomhash":"bbeadc6c97fec4f0b1229333db210dc8",
+    "wof:geomhash":"203e0026da04c3374d28e4183b4ef389",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +48,7 @@
         }
     ],
     "wof:id":554779681,
-    "wof:lastmodified":1480790269,
+    "wof:lastmodified":1611183965,
     "wof:name":"11415",
     "wof:parent_id":85977539,
     "wof:placetype":"postalcode",

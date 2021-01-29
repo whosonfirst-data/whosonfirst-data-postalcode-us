@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012736,
-    "geom:area_square_m":111204003.927809,
+    "geom:area_square_m":111204003.927893,
     "geom:bbox":"-123.765976,45.008322,-123.561414,45.155018",
     "geom:latitude":45.077116,
     "geom:longitude":-123.656425,
@@ -14,20 +14,22 @@
     "lbl:latitude":45.077114,
     "lbl:longitude":-123.656393,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Grand Ronde",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688513,
         102191575,
         85633793,
+        102081601,
         101716517,
-        102081601
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12798596"
     },
     "wof:country":"US",
-    "wof:geomhash":"665fa9fd5631fa119b938924c1212282",
+    "wof:geomhash":"8a7bee885b55f4ab44ffc4dbea772b7e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554754799,
-    "wof:lastmodified":1480833181,
+    "wof:lastmodified":1611182868,
     "wof:name":"97347",
     "wof:parent_id":101716517,
     "wof:placetype":"postalcode",

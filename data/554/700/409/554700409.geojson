@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008357,
-    "geom:area_square_m":79488686.785892,
+    "geom:area_square_m":79488686.785864,
     "geom:bbox":"-75.286109,39.661515,-75.151039,39.761807",
     "geom:latitude":39.715398,
     "geom:longitude":-75.222694,
@@ -14,21 +14,28 @@
     "lbl:latitude":39.716067,
     "lbl:longitude":-75.219239,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mullica Hill",
+    "mz:postal_locality_alt":[
+        "Ewan",
+        "Glassboro",
+        "Richwood"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478181,
         85633793,
+        102085999,
+        404478181,
         85976095,
-        102085999
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761031"
     },
     "wof:country":"US",
-    "wof:geomhash":"c6a52e258378bbf3d3a185ffab3f9988",
+    "wof:geomhash":"2cc254a2b84efc13a51cf13726b040de",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +48,7 @@
         }
     ],
     "wof:id":554700409,
-    "wof:lastmodified":1480835588,
+    "wof:lastmodified":1611183185,
     "wof:name":"08062",
     "wof:parent_id":85976095,
     "wof:placetype":"postalcode",

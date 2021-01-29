@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02183,
-    "geom:area_square_m":203164257.528186,
+    "geom:area_square_m":203164257.528104,
     "geom:bbox":"-78.689823,41.072108,-78.484712,41.253778",
     "geom:latitude":41.179357,
     "geom:longitude":-78.559353,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.164492,
     "lbl:longitude":-78.582254,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Penfield",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404482999,
         85633793,
-        102080967
+        102080967,
+        404482999,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764049"
     },
     "wof:country":"US",
-    "wof:geomhash":"d243014a6129c420f08d15f1f385978a",
+    "wof:geomhash":"2a748286c8205da829444ed51939c51e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554704121,
-    "wof:lastmodified":1480904933,
+    "wof:lastmodified":1611184503,
     "wof:name":"15849",
     "wof:parent_id":404482999,
     "wof:placetype":"postalcode",

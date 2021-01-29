@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023954,
-    "geom:area_square_m":226941862.51998,
+    "geom:area_square_m":226941862.519965,
     "geom:bbox":"-90.537665,39.901674,-90.273323,40.076895",
     "geom:latitude":39.986777,
     "geom:longitude":-90.400731,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.982598,
     "lbl:longitude":-90.402049,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Beardstown",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404497451,
         85633793,
-        102086201
+        102086201,
+        404497451,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785246"
     },
     "wof:country":"US",
-    "wof:geomhash":"8a75cdab2b594b186048b8b1de1c49fc",
+    "wof:geomhash":"cbfd07ce01404c635d2558d11950ff84",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554735171,
-    "wof:lastmodified":1480914237,
+    "wof:lastmodified":1611184445,
     "wof:name":"62618",
     "wof:parent_id":404497451,
     "wof:placetype":"postalcode",

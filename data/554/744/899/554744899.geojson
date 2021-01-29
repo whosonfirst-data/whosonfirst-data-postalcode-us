@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035286,
-    "geom:area_square_m":372660170.663951,
+    "geom:area_square_m":372660170.664566,
     "geom:bbox":"-94.96142,31.22062,-94.70922,31.483246",
     "geom:latitude":31.339675,
     "geom:longitude":-94.821726,
@@ -14,20 +14,26 @@
     "lbl:latitude":31.340748,
     "lbl:longitude":-94.82623,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lufkin",
+    "mz:postal_locality_alt":[
+        "Center",
+        "Nacogdoches"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102087319,
         101724397,
-        102087319
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12790801"
     },
     "wof:country":"US",
-    "wof:geomhash":"0f055ba5300831edcdf9a845926b3b79",
+    "wof:geomhash":"8b69c1ee815422558f9d1b65317e5c6b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554744899,
-    "wof:lastmodified":1480906865,
+    "wof:lastmodified":1611184747,
     "wof:name":"75904",
     "wof:parent_id":101724397,
     "wof:placetype":"postalcode",

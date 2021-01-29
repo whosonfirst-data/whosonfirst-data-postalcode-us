@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000368,
-    "geom:area_square_m":3458180.55905,
+    "geom:area_square_m":3458180.559053,
     "geom:bbox":"-73.867343,40.566502,-73.815635,40.589307",
     "geom:latitude":40.577626,
     "geom:longitude":-73.844443,
@@ -14,21 +14,27 @@
     "lbl:latitude":40.57827,
     "lbl:longitude":-73.844762,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Rockaway Park",
+    "mz:postal_locality_alt":[
+        "Far Rockaway",
+        "Belle Harbor"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404521211,
         85633793,
+        102082361,
+        404521211,
         85977539,
-        102082361
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761892"
     },
     "wof:country":"US",
-    "wof:geomhash":"53421f5ee670d34dbf798b897a15da20",
+    "wof:geomhash":"f3c61c2c72b3dc980e1ed57d7cba600f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554779815,
-    "wof:lastmodified":1480790268,
+    "wof:lastmodified":1611183982,
     "wof:name":"11694",
     "wof:parent_id":85977539,
     "wof:placetype":"postalcode",

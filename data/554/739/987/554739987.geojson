@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053954,
-    "geom:area_square_m":495621079.037945,
+    "geom:area_square_m":495621079.038066,
     "geom:bbox":"-97.679218,41.887848,-97.280747,42.148524",
     "geom:latitude":42.02137,
     "geom:longitude":-97.443619,
@@ -13,21 +13,26 @@
     "lbl:latitude":42.019826,
     "lbl:longitude":-97.442556,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Norfolk",
+    "mz:postal_locality_alt":[
+        "Niobrara"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688563,
         102191575,
-        404520043,
         85633793,
+        102083483,
+        404520043,
         85974221,
-        102083483
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787776"
     },
     "wof:country":"US",
-    "wof:geomhash":"d0bfa2c43f6da438264e53189c9f4437",
+    "wof:geomhash":"2a3d03d736b0bb29608a31cce6adca3b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554739987,
-    "wof:lastmodified":1480841710,
+    "wof:lastmodified":1611182679,
     "wof:name":"68701",
     "wof:parent_id":85974221,
     "wof:placetype":"postalcode",

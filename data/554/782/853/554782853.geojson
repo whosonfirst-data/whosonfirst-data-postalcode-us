@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027802,
-    "geom:area_square_m":242154192.917613,
+    "geom:area_square_m":242154192.917593,
     "geom:bbox":"-87.736602,45.094689,-87.388606,45.372679",
     "geom:latitude":45.219854,
     "geom:longitude":-87.578239,
@@ -14,20 +14,22 @@
     "lbl:latitude":45.219025,
     "lbl:longitude":-87.578451,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Menominee",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404508821,
         85633793,
-        102083089
+        102083089,
+        404508821,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779605"
     },
     "wof:country":"US",
-    "wof:geomhash":"4aead40180c81281b53fd85dd2629252",
+    "wof:geomhash":"8893d2621d5e128522c0ab359ef2052b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554782853,
-    "wof:lastmodified":1480837961,
+    "wof:lastmodified":1611183628,
     "wof:name":"49858",
     "wof:parent_id":404508821,
     "wof:placetype":"postalcode",

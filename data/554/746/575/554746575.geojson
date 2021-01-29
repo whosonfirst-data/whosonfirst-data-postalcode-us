@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.056296,
-    "geom:area_square_m":609206251.170778,
+    "geom:area_square_m":609206251.170498,
     "geom:bbox":"-98.560775,28.721064,-98.271147,29.145952",
     "geom:latitude":28.936144,
     "geom:longitude":-98.425707,
@@ -14,19 +14,24 @@
     "lbl:latitude":28.935779,
     "lbl:longitude":-98.428996,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pleasanton",
+    "mz:postal_locality_alt":[
+        "Laredo"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688753,
-        102084843
+        102084843,
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12791908"
     },
     "wof:country":"US",
-    "wof:geomhash":"3735849e2ef7cb3d90de91fb8f33c998",
+    "wof:geomhash":"23d03eae7d54f21ed8693fa9cc6f31fa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554746575,
-    "wof:lastmodified":1480796829,
+    "wof:lastmodified":1611184009,
     "wof:name":"78064",
     "wof:parent_id":102084843,
     "wof:placetype":"postalcode",

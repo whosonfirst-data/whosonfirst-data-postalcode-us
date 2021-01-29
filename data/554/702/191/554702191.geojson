@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003674,
-    "geom:area_square_m":33181832.894647,
+    "geom:area_square_m":33181832.894693,
     "geom:bbox":"-76.312862,43.046826,-76.192836,43.129953",
     "geom:latitude":43.085071,
     "geom:longitude":-76.248627,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.068502,
     "lbl:longitude":-76.224251,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Syracuse",
+    "mz:postal_locality_alt":[
+        "Solvay"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522831,
         85633793,
-        102082351
+        102082351,
+        404522831,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762723"
     },
     "wof:country":"US",
-    "wof:geomhash":"8a867eafb24cda84d676f57477e54f71",
+    "wof:geomhash":"cb88a90e3132113738792ca9337f3958",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554702191,
-    "wof:lastmodified":1480793800,
+    "wof:lastmodified":1611184154,
     "wof:name":"13209",
     "wof:parent_id":404522831,
     "wof:placetype":"postalcode",

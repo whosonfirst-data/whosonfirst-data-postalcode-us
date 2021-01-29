@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.099838,
-    "geom:area_square_m":873879665.608145,
+    "geom:area_square_m":873879665.60822,
     "geom:bbox":"-97.329744,44.803342,-96.881966,45.108193",
     "geom:latitude":44.937921,
     "geom:longitude":-97.094642,
@@ -14,20 +14,25 @@
     "lbl:latitude":44.936722,
     "lbl:longitude":-97.092757,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Watertown",
+    "mz:postal_locality_alt":[
+        "Clear Lake"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688693,
         102191575,
-        404489665,
         85633793,
-        102086797
+        102086797,
+        404489665,
+        85688693
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782786"
     },
     "wof:country":"US",
-    "wof:geomhash":"515779d9fb55b7587d1bbaf1b2f1ba62",
+    "wof:geomhash":"ec8d9b3997460e28afd5dfb244b6d2f8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554730941,
-    "wof:lastmodified":1480916829,
+    "wof:lastmodified":1611182737,
     "wof:name":"57201",
     "wof:parent_id":404489665,
     "wof:placetype":"postalcode",

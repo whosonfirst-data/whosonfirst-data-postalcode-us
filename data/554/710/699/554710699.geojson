@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004189,
-    "geom:area_square_m":42006066.219767,
+    "geom:area_square_m":42006066.219709,
     "geom:bbox":"-78.848783,35.758814,-78.754143,35.845369",
     "geom:latitude":35.802228,
     "geom:longitude":-78.802677,
@@ -13,20 +13,25 @@
     "lbl:latitude":35.802102,
     "lbl:longitude":-78.802719,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cary",
+    "mz:postal_locality_alt":[
+        "Chapel Hill"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688773,
         102191575,
         85633793,
+        102087821,
         85980827,
-        102087821
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12769079"
     },
     "wof:country":"US",
-    "wof:geomhash":"73126fbf62c3b98899cf348571a364a7",
+    "wof:geomhash":"cceac2f20e43f5783c33bff9577fa01f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554710699,
-    "wof:lastmodified":1480787141,
+    "wof:lastmodified":1611185130,
     "wof:name":"27513",
     "wof:parent_id":85980827,
     "wof:placetype":"postalcode",

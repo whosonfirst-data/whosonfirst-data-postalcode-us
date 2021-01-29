@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035013,
-    "geom:area_square_m":346794216.712881,
+    "geom:area_square_m":346794216.712956,
     "geom:bbox":"-90.138998,36.659697,-89.860941,36.887624",
     "geom:latitude":36.773368,
     "geom:longitude":-89.98703,
@@ -14,20 +14,25 @@
     "lbl:latitude":36.771316,
     "lbl:longitude":-89.984451,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Dexter",
+    "mz:postal_locality_alt":[
+        "Kennett"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404517907,
         85633793,
-        102085279
+        102085279,
+        404517907,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785882"
     },
     "wof:country":"US",
-    "wof:geomhash":"d6a45e4dc8dc0fb2f496d18c9304a532",
+    "wof:geomhash":"f247674f7fe9f26d8c8449a881b13ebf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554736265,
-    "wof:lastmodified":1480810982,
+    "wof:lastmodified":1611183048,
     "wof:name":"63841",
     "wof:parent_id":404517907,
     "wof:placetype":"postalcode",

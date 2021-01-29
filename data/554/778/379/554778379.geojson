@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003759,
-    "geom:area_square_m":34410481.573464,
+    "geom:area_square_m":34410481.573508,
     "geom:bbox":"-71.130808,42.200681,-71.031388,42.277699",
     "geom:latitude":42.241246,
     "geom:longitude":-71.084312,
@@ -14,21 +14,26 @@
     "lbl:latitude":42.241557,
     "lbl:longitude":-71.082432,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Milton",
+    "mz:postal_locality_alt":[
+        "Boston"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476583,
         85633793,
+        102084403,
+        404476583,
         85950833,
-        102084403
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758761"
     },
     "wof:country":"US",
-    "wof:geomhash":"1b52f2c23f670516f956fbaf2cf6bb58",
+    "wof:geomhash":"80f6eb3eca552df19e38e13ddc728760",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554778379,
-    "wof:lastmodified":1480799555,
+    "wof:lastmodified":1611183432,
     "wof:name":"02186",
     "wof:parent_id":85950833,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027317,
-    "geom:area_square_m":265044290.425477,
+    "geom:area_square_m":265044290.425543,
     "geom:bbox":"-88.702213,38.211706,-88.370453,38.47548",
     "geom:latitude":38.310136,
     "geom:longitude":-88.563418,
@@ -14,20 +14,25 @@
     "lbl:latitude":38.305545,
     "lbl:longitude":-88.555138,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wayne City",
+    "mz:postal_locality_alt":[
+        "Princeton Jct"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404498945,
         85633793,
-        102082299
+        102082299,
+        404498945,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785429"
     },
     "wof:country":"US",
-    "wof:geomhash":"4785ae87444977a3a61ce09f9d83bfcd",
+    "wof:geomhash":"1409495e52ec8700884facfab83aa224",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554735449,
-    "wof:lastmodified":1480906211,
+    "wof:lastmodified":1611184414,
     "wof:name":"62895",
     "wof:parent_id":404498945,
     "wof:placetype":"postalcode",

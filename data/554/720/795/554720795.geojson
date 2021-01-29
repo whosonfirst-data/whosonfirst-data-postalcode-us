@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008754,
-    "geom:area_square_m":82362830.782429,
+    "geom:area_square_m":82362830.782415,
     "geom:bbox":"-81.843237,40.408526,-81.64,40.496105",
     "geom:latitude":40.453879,
     "geom:longitude":-81.737437,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.450792,
     "lbl:longitude":-81.740962,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Baltic",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404526441,
         85633793,
-        102083651
+        102083651,
+        404526441,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776482"
     },
     "wof:country":"US",
-    "wof:geomhash":"0069e4e600d2313c12cb7e08292624a0",
+    "wof:geomhash":"e99d14e5721d47a907fc4b489f0608a9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554720795,
-    "wof:lastmodified":1480837434,
+    "wof:lastmodified":1611185473,
     "wof:name":"43804",
     "wof:parent_id":404526441,
     "wof:placetype":"postalcode",

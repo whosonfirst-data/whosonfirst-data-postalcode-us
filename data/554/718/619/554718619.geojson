@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006088,
-    "geom:area_square_m":59187641.244784,
+    "geom:area_square_m":59187641.244815,
     "geom:bbox":"-85.487166,38.097206,-85.368158,38.237047",
     "geom:latitude":38.164984,
     "geom:longitude":-85.428045,
@@ -14,20 +14,25 @@
     "lbl:latitude":38.174143,
     "lbl:longitude":-85.432343,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fisherville",
+    "mz:postal_locality_alt":[
+        "Taylorsville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688641,
         102191575,
         85633793,
+        102084449,
         85947523,
-        102084449
+        85688641
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12775089"
     },
     "wof:country":"US",
-    "wof:geomhash":"bc44300eedd19030776d7a7bac600aab",
+    "wof:geomhash":"c9fa228e9c1adf9713ed9a6a543ebff2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554718619,
-    "wof:lastmodified":1480814454,
+    "wof:lastmodified":1611185546,
     "wof:name":"40023",
     "wof:parent_id":85947523,
     "wof:placetype":"postalcode",

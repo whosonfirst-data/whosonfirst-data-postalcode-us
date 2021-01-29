@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008388,
-    "geom:area_square_m":70476035.488195,
+    "geom:area_square_m":70476035.488111,
     "geom:bbox":"-95.057761,47.152709,-94.90859,47.268873",
     "geom:latitude":47.199083,
     "geom:longitude":-94.989676,
@@ -14,21 +14,23 @@
     "lbl:latitude":47.193337,
     "lbl:longitude":-94.975317,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lake George",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404509771,
         85633793,
+        102087907,
+        404509771,
         85969423,
-        102087907
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782499"
     },
     "wof:country":"US",
-    "wof:geomhash":"c81dcf7404bf711db47e5b90812eb638",
+    "wof:geomhash":"13f51f80b4a7292922b209a441e2635e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +43,7 @@
         }
     ],
     "wof:id":554730387,
-    "wof:lastmodified":1480788400,
+    "wof:lastmodified":1611182758,
     "wof:name":"56458",
     "wof:parent_id":85969423,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008322,
-    "geom:area_square_m":78497234.819584,
+    "geom:area_square_m":78497234.819587,
     "geom:bbox":"-76.6609,40.208006,-76.478391,40.38871",
     "geom:latitude":40.285956,
     "geom:longitude":-76.583483,
@@ -14,21 +14,26 @@
     "lbl:latitude":40.287452,
     "lbl:longitude":-76.58108,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Palmyra",
+    "mz:postal_locality_alt":[
+        "Elliottsburg"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404483435,
         85633793,
+        102081341,
+        404483435,
         101719379,
-        102081341
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764621"
     },
     "wof:country":"US",
-    "wof:geomhash":"3cecd4a060a38fdf4f19429f3e0871c1",
+    "wof:geomhash":"39f8a2e9169c48b96d3bc267717ad1b6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554704995,
-    "wof:lastmodified":1480831656,
+    "wof:lastmodified":1611184505,
     "wof:name":"17078",
     "wof:parent_id":101719379,
     "wof:placetype":"postalcode",

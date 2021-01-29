@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032602,
-    "geom:area_square_m":299936559.308218,
+    "geom:area_square_m":299936559.308105,
     "geom:bbox":"-103.746391,41.78993,-103.519116,42.051594",
     "geom:latitude":41.924556,
     "geom:longitude":-103.62165,
@@ -13,20 +13,25 @@
     "lbl:latitude":41.922838,
     "lbl:longitude":-103.622904,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Scottsbluff",
+    "mz:postal_locality_alt":[
+        "Minatare"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688563,
         102191575,
-        404519171,
         85633793,
-        102082781
+        102082781,
+        404519171,
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12788090"
     },
     "wof:country":"US",
-    "wof:geomhash":"3b329630f28b81dff7de156f8f9bc102",
+    "wof:geomhash":"165ddd7e88eec5cf03d049ccbb45eeb4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554740649,
-    "wof:lastmodified":1480792316,
+    "wof:lastmodified":1611183409,
     "wof:name":"69361",
     "wof:parent_id":404519171,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023226,
-    "geom:area_square_m":239574315.334096,
+    "geom:area_square_m":239574315.333977,
     "geom:bbox":"-84.15298,33.377747,-83.926939,33.58434",
     "geom:latitude":33.469661,
     "geom:longitude":-84.062383,
@@ -13,19 +13,26 @@
     "lbl:latitude":33.473512,
     "lbl:longitude":-84.057165,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mc Donough",
+    "mz:postal_locality_alt":[
+        "Mcdonough",
+        "McDonough",
+        "Fayetteville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688535,
-        102082899
+        102082899,
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770679"
     },
     "wof:country":"US",
-    "wof:geomhash":"1cf5b98bdb0f42fa4a63d3e2f526bebf",
+    "wof:geomhash":"cd840f01e927487cbc6f25126a96ed65",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +43,7 @@
         }
     ],
     "wof:id":554712963,
-    "wof:lastmodified":1480823669,
+    "wof:lastmodified":1611183695,
     "wof:name":"30252",
     "wof:parent_id":102082899,
     "wof:placetype":"postalcode",

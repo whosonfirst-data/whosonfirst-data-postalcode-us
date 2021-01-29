@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002324,
-    "geom:area_square_m":23236966.299534,
+    "geom:area_square_m":23236966.299555,
     "geom:bbox":"-115.118803,36.007297,-115.028994,36.055336",
     "geom:latitude":36.036582,
     "geom:longitude":-115.080912,
@@ -13,20 +13,25 @@
     "lbl:latitude":36.036583,
     "lbl:longitude":-115.080914,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Henderson",
+    "mz:postal_locality_alt":[
+        "Las Vegas"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688531,
         102191575,
         85633793,
+        102081553,
         85974803,
-        102081553
+        85688531
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"23424673"
     },
     "wof:country":"US",
-    "wof:geomhash":"8a7bf3cb6141ac087f7db2649ec2bfd4",
+    "wof:geomhash":"9276e3f1257d1a62334e4b80a09312ca",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554756631,
-    "wof:lastmodified":1480832976,
+    "wof:lastmodified":1611184307,
     "wof:name":"89074",
     "wof:parent_id":85974803,
     "wof:placetype":"postalcode",

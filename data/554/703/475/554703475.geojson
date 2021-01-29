@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000559,
-    "geom:area_square_m":5266574.924529,
+    "geom:area_square_m":5266574.924508,
     "geom:bbox":"-79.868856,40.356932,-79.836169,40.38877",
     "geom:latitude":40.373194,
     "geom:longitude":-79.850108,
@@ -14,21 +14,26 @@
     "lbl:latitude":40.373461,
     "lbl:longitude":-79.850162,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Duquesne",
+    "mz:postal_locality_alt":[
+        "West Mifflin"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404484883,
         85633793,
+        102080887,
+        404484883,
         101718721,
-        102080887
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763616"
     },
     "wof:country":"US",
-    "wof:geomhash":"06433d354fab966661d2c3d779712c14",
+    "wof:geomhash":"6c0af504b095ef1bb63e4539852188e2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554703475,
-    "wof:lastmodified":1480905388,
+    "wof:lastmodified":1611184473,
     "wof:name":"15110",
     "wof:parent_id":101718721,
     "wof:placetype":"postalcode",

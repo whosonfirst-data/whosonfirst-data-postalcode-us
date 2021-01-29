@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003367,
-    "geom:area_square_m":29821125.46014,
+    "geom:area_square_m":29821125.460142,
     "geom:bbox":"-69.877416,44.234759,-69.767531,44.285816",
     "geom:latitude":44.258836,
     "geom:longitude":-69.821328,
@@ -14,20 +14,22 @@
     "lbl:latitude":44.260548,
     "lbl:longitude":-69.827805,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Farmingdale",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404475573,
         85633793,
-        102087461
+        102087461,
+        404475573,
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759529"
     },
     "wof:country":"US",
-    "wof:geomhash":"bed0909dfa50bcc3ed8423101637b3be",
+    "wof:geomhash":"110887bb3c2c74ccfd3e7f176e58d1c0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554698343,
-    "wof:lastmodified":1480786870,
+    "wof:lastmodified":1611184706,
     "wof:name":"04344",
     "wof:parent_id":404475573,
     "wof:placetype":"postalcode",

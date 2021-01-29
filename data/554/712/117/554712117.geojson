@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009349,
-    "geom:area_square_m":94631933.696112,
+    "geom:area_square_m":94631933.696106,
     "geom:bbox":"-81.87042,34.995477,-81.716079,35.135192",
     "geom:latitude":35.054328,
     "geom:longitude":-81.804895,
@@ -14,19 +14,25 @@
     "lbl:latitude":35.052634,
     "lbl:longitude":-81.804153,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cowpens",
+    "mz:postal_locality_alt":[
+        "Mayo",
+        "Spartanburg"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688683,
-        102085403
+        102085403,
+        85688683
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770113"
     },
     "wof:country":"US",
-    "wof:geomhash":"3155858a24b9c104baabfa13b0de0d5e",
+    "wof:geomhash":"28b5b68b44eeaf9fce67e39a7aee64e1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554712117,
-    "wof:lastmodified":1480814011,
+    "wof:lastmodified":1611183715,
     "wof:name":"29330",
     "wof:parent_id":102085403,
     "wof:placetype":"postalcode",

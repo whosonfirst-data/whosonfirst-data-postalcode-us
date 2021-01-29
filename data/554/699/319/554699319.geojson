@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010559,
-    "geom:area_square_m":97266341.400635,
+    "geom:area_square_m":97266341.400671,
     "geom:bbox":"-73.076683,41.79804,-72.937529,41.895196",
     "geom:latitude":41.844087,
     "geom:longitude":-73.006227,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.841053,
     "lbl:longitude":-72.998664,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"New Hartford",
+    "mz:postal_locality_alt":[
+        "Winsted"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688629,
         102191575,
-        404496029,
         85633793,
-        102085375
+        102085375,
+        404496029,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760204"
     },
     "wof:country":"US",
-    "wof:geomhash":"0a5da0e65a851543b60d2c9bd4645074",
+    "wof:geomhash":"83e1903acc0cd215285f86d04e2892f9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554699319,
-    "wof:lastmodified":1480815742,
+    "wof:lastmodified":1611184633,
     "wof:name":"06057",
     "wof:parent_id":404496029,
     "wof:placetype":"postalcode",

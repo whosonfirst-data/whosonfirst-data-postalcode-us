@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.069796,
-    "geom:area_square_m":709401955.676814,
+    "geom:area_square_m":709401955.676539,
     "geom:bbox":"-81.488275,34.563822,-81.032416,34.829689",
     "geom:latitude":34.716756,
     "geom:longitude":-81.232924,
@@ -14,19 +14,24 @@
     "lbl:latitude":34.715558,
     "lbl:longitude":-81.23453,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Chester",
+    "mz:postal_locality_alt":[
+        "Jefferson"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688683,
-        102085717
+        102085717,
+        85688683
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770381"
     },
     "wof:country":"US",
-    "wof:geomhash":"22d81ffd39eaf1e58c713b400f1e7870",
+    "wof:geomhash":"64828ef58622a72df677a601163c7e6d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554712505,
-    "wof:lastmodified":1480814581,
+    "wof:lastmodified":1611183693,
     "wof:name":"29706",
     "wof:parent_id":102085717,
     "wof:placetype":"postalcode",

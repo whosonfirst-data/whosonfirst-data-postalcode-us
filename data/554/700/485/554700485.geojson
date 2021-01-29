@@ -14,21 +14,31 @@
     "lbl:latitude":39.907845,
     "lbl:longitude":-75.083563,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Oaklyn",
+    "mz:postal_locality_alt":[
+        "Haddon Twp",
+        "Haddon Township",
+        "Collingswood",
+        "W Colls",
+        "W Collingswood",
+        "West Collingswood"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477997,
         85633793,
+        102081131,
+        404477997,
         85975667,
-        102081131
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761074"
     },
     "wof:country":"US",
-    "wof:geomhash":"7aeb173fdca6531d062f491f585e4b2d",
+    "wof:geomhash":"99d2a658b5ea05b64a3e7ed75ed7d749",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +51,7 @@
         }
     ],
     "wof:id":554700485,
-    "wof:lastmodified":1480823437,
+    "wof:lastmodified":1611183179,
     "wof:name":"08107",
     "wof:parent_id":85975667,
     "wof:placetype":"postalcode",

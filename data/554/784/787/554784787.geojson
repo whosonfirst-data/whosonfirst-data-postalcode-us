@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0045,
-    "geom:area_square_m":43858098.549112,
+    "geom:area_square_m":43858098.549105,
     "geom:bbox":"-122.560974,37.935724,-122.442814,38.01716",
     "geom:latitude":37.97882,
     "geom:longitude":-122.496834,
@@ -13,19 +13,25 @@
     "lbl:latitude":37.978138,
     "lbl:longitude":-122.497611,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"San Rafael",
+    "mz:postal_locality_alt":[
+        "Bolinas",
+        "Novato"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688637,
-        102084353
+        102084353,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12797441"
     },
     "wof:country":"US",
-    "wof:geomhash":"166a899dcb3456cd73febb82e5ca448c",
+    "wof:geomhash":"f6c54bdab62896b994167fc34f415414",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +42,7 @@
         }
     ],
     "wof:id":554784787,
-    "wof:lastmodified":1480796906,
+    "wof:lastmodified":1611183960,
     "wof:name":"94901",
     "wof:parent_id":102084353,
     "wof:placetype":"postalcode",

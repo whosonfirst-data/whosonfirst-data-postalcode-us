@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018194,
-    "geom:area_square_m":162419969.583016,
+    "geom:area_square_m":162419969.583024,
     "geom:bbox":"-94.854546,43.732491,-94.592057,43.83577",
     "geom:latitude":43.784428,
     "geom:longitude":-94.724108,
@@ -14,20 +14,22 @@
     "lbl:latitude":43.783287,
     "lbl:longitude":-94.720493,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Trimont",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404514013,
         85633793,
-        102087019
+        102087019,
+        404514013,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782309"
     },
     "wof:country":"US",
-    "wof:geomhash":"cb781b0c36f09a4af554969b6305e56f",
+    "wof:geomhash":"45f40bffd886655da30c519fe7fce9f3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554730007,
-    "wof:lastmodified":1480783423,
+    "wof:lastmodified":1611182731,
     "wof:name":"56176",
     "wof:parent_id":404514013,
     "wof:placetype":"postalcode",

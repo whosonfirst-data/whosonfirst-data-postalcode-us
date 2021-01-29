@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02249,
-    "geom:area_square_m":234014099.062303,
+    "geom:area_square_m":234014099.062381,
     "geom:bbox":"-80.435871,32.622312,-80.1202,32.786565",
     "geom:latitude":32.70258,
     "geom:longitude":-80.286491,
@@ -14,20 +14,26 @@
     "lbl:latitude":32.700369,
     "lbl:longitude":-80.287057,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hollywood",
+    "mz:postal_locality_alt":[
+        "Yonges Island",
+        "Meggett"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688683,
         102191575,
         85633793,
+        102085591,
         101720771,
-        102085591
+        85688683
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770191"
     },
     "wof:country":"US",
-    "wof:geomhash":"7ec24f059523f9372e68bfc6c3b61d15",
+    "wof:geomhash":"be51b01d490ec546bdcf91410d1ef222",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554712209,
-    "wof:lastmodified":1480813647,
+    "wof:lastmodified":1611183728,
     "wof:name":"29449",
     "wof:parent_id":101720771,
     "wof:placetype":"postalcode",

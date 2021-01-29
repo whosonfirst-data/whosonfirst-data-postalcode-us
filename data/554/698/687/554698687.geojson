@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017549,
-    "geom:area_square_m":154592800.571542,
+    "geom:area_square_m":154592800.571594,
     "geom:bbox":"-69.947541,44.508191,-69.665525,44.621506",
     "geom:latitude":44.566278,
     "geom:longitude":-69.814727,
@@ -14,20 +14,28 @@
     "lbl:latitude":44.589005,
     "lbl:longitude":-69.887304,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Oakland",
+    "mz:postal_locality_alt":[
+        "Belgrade",
+        "Vassalboro",
+        "Belfast",
+        "Waterville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404475677,
         85633793,
-        102087461
+        102087461,
+        404475677,
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759833"
     },
     "wof:country":"US",
-    "wof:geomhash":"61d623b3419c7ce48011e9d8d641d73b",
+    "wof:geomhash":"34532a6caf1d29ac1aeb91ea6c3b45b1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +47,7 @@
         }
     ],
     "wof:id":554698687,
-    "wof:lastmodified":1480786870,
+    "wof:lastmodified":1611184681,
     "wof:name":"04963",
     "wof:parent_id":404475677,
     "wof:placetype":"postalcode",

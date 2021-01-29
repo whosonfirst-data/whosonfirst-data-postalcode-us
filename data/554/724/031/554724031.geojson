@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01164,
-    "geom:area_square_m":106611608.316692,
+    "geom:area_square_m":106611608.316789,
     "geom:bbox":"-83.4384,42.137714,-83.257205,42.26823",
     "geom:latitude":42.208556,
     "geom:longitude":-83.353991,
@@ -14,21 +14,26 @@
     "lbl:latitude":42.234298,
     "lbl:longitude":-83.394324,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Romulus",
+    "mz:postal_locality_alt":[
+        "New Boston"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404508657,
         85633793,
+        102083147,
+        404508657,
         85951131,
-        102083147
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778652"
     },
     "wof:country":"US",
-    "wof:geomhash":"f39831c0a652680052e8ac95089a747c",
+    "wof:geomhash":"fadee73ee745d815a6d4cfb4514b7b08",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554724031,
-    "wof:lastmodified":1480840671,
+    "wof:lastmodified":1611183751,
     "wof:name":"48174",
     "wof:parent_id":85951131,
     "wof:placetype":"postalcode",

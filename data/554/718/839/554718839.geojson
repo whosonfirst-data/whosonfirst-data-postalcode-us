@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04193,
-    "geom:area_square_m":407178976.850109,
+    "geom:area_square_m":407178976.850315,
     "geom:bbox":"-84.730289,38.135238,-84.352939,38.364196",
     "geom:latitude":38.246748,
     "geom:longitude":-84.553239,
@@ -14,20 +14,25 @@
     "lbl:latitude":38.24538,
     "lbl:longitude":-84.550241,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Georgetown",
+    "mz:postal_locality_alt":[
+        "Morehead"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688641,
         102191575,
         85633793,
+        102085651,
         85947265,
-        102085651
+        85688641
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12775238"
     },
     "wof:country":"US",
-    "wof:geomhash":"a73715f105cc0219eb37d454cf688a2a",
+    "wof:geomhash":"c2dfe9889b4751499aff907bca1deab5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554718839,
-    "wof:lastmodified":1480813706,
+    "wof:lastmodified":1611185585,
     "wof:name":"40324",
     "wof:parent_id":85947265,
     "wof:placetype":"postalcode",

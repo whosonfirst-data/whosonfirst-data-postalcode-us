@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004878,
-    "geom:area_square_m":44325974.435349,
+    "geom:area_square_m":44325974.435336,
     "geom:bbox":"-82.729964,42.664958,-82.607711,42.724669",
     "geom:latitude":42.701041,
     "geom:longitude":-82.659267,
@@ -14,20 +14,26 @@
     "lbl:latitude":42.704385,
     "lbl:longitude":-82.658852,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ira",
+    "mz:postal_locality_alt":[
+        "Fair Haven",
+        "Anchorville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404508875,
         85633793,
-        102083053
+        102083053,
+        404508875,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778531"
     },
     "wof:country":"US",
-    "wof:geomhash":"61ae34b8bfbd2e49f322dcfddf99f785",
+    "wof:geomhash":"2df0872df7254065598632aba25b47c5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554782479,
-    "wof:lastmodified":1480842996,
+    "wof:lastmodified":1611183606,
     "wof:name":"48023",
     "wof:parent_id":404508875,
     "wof:placetype":"postalcode",

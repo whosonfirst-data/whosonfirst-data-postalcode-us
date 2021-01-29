@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003019,
-    "geom:area_square_m":27905485.096801,
+    "geom:area_square_m":27905485.096802,
     "geom:bbox":"-93.777209,41.607552,-93.697324,41.659486",
     "geom:latitude":41.633668,
     "geom:longitude":-93.736176,
@@ -13,20 +13,26 @@
     "lbl:latitude":41.634164,
     "lbl:longitude":-93.73436,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Urbandale",
+    "mz:postal_locality_alt":[
+        "Des Moines",
+        "Windsor Heights"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688713,
         102191575,
         85633793,
+        102086603,
         85944157,
-        102086603
+        85688713
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779903"
     },
     "wof:country":"US",
-    "wof:geomhash":"5cf3cafd3f5cee1af133c635a8718224",
+    "wof:geomhash":"f978dfefb6e2dfa1d9e9906a49276a18",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554725839,
-    "wof:lastmodified":1480916305,
+    "wof:lastmodified":1611183283,
     "wof:name":"50322",
     "wof:parent_id":85944157,
     "wof:placetype":"postalcode",

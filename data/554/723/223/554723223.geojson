@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015656,
-    "geom:area_square_m":150342841.422914,
+    "geom:area_square_m":150342841.422978,
     "geom:bbox":"-85.545862,38.936899,-85.440478,39.182878",
     "geom:latitude":39.049119,
     "geom:longitude":-85.478925,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.050074,
     "lbl:longitude":-85.472026,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Butlerville",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404501047,
         85633793,
-        102086971
+        102086971,
+        404501047,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778111"
     },
     "wof:country":"US",
-    "wof:geomhash":"35e5d44a55685e25f0065473b748e1dc",
+    "wof:geomhash":"535ca75cc450d44d3f32e0424b2edc48",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554723223,
-    "wof:lastmodified":1480910624,
+    "wof:lastmodified":1611183801,
     "wof:name":"47223",
     "wof:parent_id":404501047,
     "wof:placetype":"postalcode",

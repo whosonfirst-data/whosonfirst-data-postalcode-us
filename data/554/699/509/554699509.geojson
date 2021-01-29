@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005831,
-    "geom:area_square_m":53834532.167979,
+    "geom:area_square_m":53834532.167921,
     "geom:bbox":"-71.911271,41.641844,-71.789491,41.767445",
     "geom:latitude":41.702757,
     "geom:longitude":-71.856191,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.708767,
     "lbl:longitude":-71.855386,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Moosup",
+    "mz:postal_locality_alt":[
+        "Plainfield"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688629,
         102191575,
-        404495925,
         85633793,
-        102085377
+        102085377,
+        404495925,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760350"
     },
     "wof:country":"US",
-    "wof:geomhash":"89f775d6bb6f653f2e9079f7e4706b52",
+    "wof:geomhash":"12756c770411acb66e9dee77d6b28b78",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554699509,
-    "wof:lastmodified":1480805442,
+    "wof:lastmodified":1611184620,
     "wof:name":"06354",
     "wof:parent_id":404495925,
     "wof:placetype":"postalcode",

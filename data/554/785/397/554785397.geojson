@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015736,
-    "geom:area_square_m":164192936.956451,
+    "geom:area_square_m":164192936.956428,
     "geom:bbox":"-80.692399,32.339862,-80.435572,32.510536",
     "geom:latitude":32.454051,
     "geom:longitude":-80.600347,
@@ -14,19 +14,25 @@
     "lbl:latitude":32.474692,
     "lbl:longitude":-80.599222,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Beaufort",
+    "mz:postal_locality_alt":[
+        "Ridgeland",
+        "Okatie"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688683,
-        102085471
+        102085471,
+        85688683
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"23424588"
     },
     "wof:country":"US",
-    "wof:geomhash":"077d5db1fb3efd6e100e0e01f2133469",
+    "wof:geomhash":"48238804fac8c852cc0b92c1bd1f0e8a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554785397,
-    "wof:lastmodified":1480809805,
+    "wof:lastmodified":1611183491,
     "wof:name":"29907",
     "wof:parent_id":102085471,
     "wof:placetype":"postalcode",

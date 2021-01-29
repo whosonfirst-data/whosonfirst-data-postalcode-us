@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004773,
-    "geom:area_square_m":39610966.773303,
+    "geom:area_square_m":39610966.773346,
     "geom:bbox":"-122.246485,47.808534,-122.153125,47.881937",
     "geom:latitude":47.84155,
     "geom:longitude":-122.199117,
@@ -13,20 +13,26 @@
     "lbl:latitude":47.841376,
     "lbl:longitude":-122.198939,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bothell",
+    "mz:postal_locality_alt":[
+        "Mill Creek",
+        "Snohomish"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688623,
         102191575,
         85633793,
+        102087537,
         101730561,
-        102087537
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12798889"
     },
     "wof:country":"US",
-    "wof:geomhash":"1a3505299f33873c749683b0d74f66a8",
+    "wof:geomhash":"7c6856e08928d4720f18df8dba756c21",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554755353,
-    "wof:lastmodified":1480788588,
+    "wof:lastmodified":1611182562,
     "wof:name":"98012",
     "wof:parent_id":101730561,
     "wof:placetype":"postalcode",

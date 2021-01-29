@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004608,
-    "geom:area_square_m":42875896.416888,
+    "geom:area_square_m":42875896.416872,
     "geom:bbox":"-73.680241,41.139501,-73.592309,41.232444",
     "geom:latitude":41.188764,
     "geom:longitude":-73.633962,
@@ -14,21 +14,23 @@
     "lbl:latitude":41.190395,
     "lbl:longitude":-73.639144,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bedford",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404523353,
         85633793,
+        102082373,
+        404523353,
         85980081,
-        102082373
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761527"
     },
     "wof:country":"US",
-    "wof:geomhash":"452f9cf66374e6e9cf4f8cf231f4b1dc",
+    "wof:geomhash":"c673d478cca247a06c8207dee1228a09",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +43,7 @@
         }
     ],
     "wof:id":554700813,
-    "wof:lastmodified":1480799394,
+    "wof:lastmodified":1611183200,
     "wof:name":"10506",
     "wof:parent_id":85980081,
     "wof:placetype":"postalcode",

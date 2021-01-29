@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015224,
-    "geom:area_square_m":130952582.510211,
+    "geom:area_square_m":130952582.510214,
     "geom:bbox":"-89.604195,45.835409,-89.398861,45.982357",
     "geom:latitude":45.923408,
     "geom:longitude":-89.501307,
@@ -14,20 +14,25 @@
     "lbl:latitude":45.925286,
     "lbl:longitude":-89.499516,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"St Germain",
+    "mz:postal_locality_alt":[
+        "Saint Germain"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404494247,
         85633793,
-        102081749
+        102081749,
+        404494247,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781402"
     },
     "wof:country":"US",
-    "wof:geomhash":"c53cc260379b959d497e6ee3fe1b8411",
+    "wof:geomhash":"5407c4765bcc89e56390c633dec7ed18",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554728439,
-    "wof:lastmodified":1480832429,
+    "wof:lastmodified":1611185059,
     "wof:name":"54558",
     "wof:parent_id":404494247,
     "wof:placetype":"postalcode",

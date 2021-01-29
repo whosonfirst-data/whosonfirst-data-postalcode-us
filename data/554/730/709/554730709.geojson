@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.091212,
-    "geom:area_square_m":752474218.629922,
+    "geom:area_square_m":752474218.629971,
     "geom:bbox":"-96.04683,48.005206,-95.58261,48.300229",
     "geom:latitude":48.150445,
     "geom:longitude":-95.800584,
@@ -14,20 +14,25 @@
     "lbl:latitude":48.150367,
     "lbl:longitude":-95.79769,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Goodridge",
+    "mz:postal_locality_alt":[
+        "Oklee"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404513201,
         85633793,
-        102086989
+        102086989,
+        404513201,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782662"
     },
     "wof:country":"US",
-    "wof:geomhash":"1d90e09735e50c66145c3ba76766aff0",
+    "wof:geomhash":"1ac8c33ac538265be1a238452bb6f3d7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554730709,
-    "wof:lastmodified":1480910618,
+    "wof:lastmodified":1611182723,
     "wof:name":"56725",
     "wof:parent_id":404513201,
     "wof:placetype":"postalcode",

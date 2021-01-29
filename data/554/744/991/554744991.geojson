@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001894,
-    "geom:area_square_m":19694164.742413,
+    "geom:area_square_m":19694164.742406,
     "geom:bbox":"-97.140201,32.759763,-97.05995,32.80876",
     "geom:latitude":32.784918,
     "geom:longitude":-97.100215,
@@ -13,20 +13,26 @@
     "lbl:latitude":32.784931,
     "lbl:longitude":-97.099914,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Arlington",
+    "mz:postal_locality_alt":[
+        "Grand Prairie",
+        "Cleburne"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102083201,
         101723641,
-        102083201
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12790853"
     },
     "wof:country":"US",
-    "wof:geomhash":"f6c23b59a9df3ea6f69e267e907b65f6",
+    "wof:geomhash":"9362b0303806d5b9b5cd3c8d1f8bda8c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554744991,
-    "wof:lastmodified":1480840096,
+    "wof:lastmodified":1611184709,
     "wof:name":"76006",
     "wof:parent_id":101723641,
     "wof:placetype":"postalcode",

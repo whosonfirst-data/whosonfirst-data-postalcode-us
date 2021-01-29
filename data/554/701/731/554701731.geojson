@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006848,
-    "geom:area_square_m":63477768.718078,
+    "geom:area_square_m":63477768.718076,
     "geom:bbox":"-74.820191,41.392518,-74.659066,41.494835",
     "geom:latitude":41.444298,
     "geom:longitude":-74.72134,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.440142,
     "lbl:longitude":-74.727343,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Sparrow Bush",
+    "mz:postal_locality_alt":[
+        "Port Jervis"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522805,
         85633793,
-        102083061
+        102083061,
+        404522805,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762451"
     },
     "wof:country":"US",
-    "wof:geomhash":"1eef494665f3a1241de17661e9e3406b",
+    "wof:geomhash":"0f0a9d57605407524f5bbe3adb96132e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554701731,
-    "wof:lastmodified":1480834094,
+    "wof:lastmodified":1611182615,
     "wof:name":"12780",
     "wof:parent_id":404522805,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000201,
-    "geom:area_square_m":1896763.708386,
+    "geom:area_square_m":1896763.708389,
     "geom:bbox":"-75.243829,40.207371,-75.221761,40.250279",
     "geom:latitude":40.224052,
     "geom:longitude":-75.23096,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.22405,
     "lbl:longitude":-75.230959,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Montgomeryville",
+    "mz:postal_locality_alt":[
+        "Montgomeryvle"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485581,
         85633793,
-        102081355
+        102081355,
+        404485581,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765371"
     },
     "wof:country":"US",
-    "wof:geomhash":"b6c7ccfd7ec97253707a584e465e0fa9",
+    "wof:geomhash":"29f770037023dc986a53dee03cc65f8d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554706091,
-    "wof:lastmodified":1480818598,
+    "wof:lastmodified":1611182691,
     "wof:name":"18936",
     "wof:parent_id":404485581,
     "wof:placetype":"postalcode",

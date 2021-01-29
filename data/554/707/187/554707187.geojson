@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009645,
-    "geom:area_square_m":91937379.938964,
+    "geom:area_square_m":91937379.938912,
     "geom:bbox":"-76.240168,39.488263,-76.046966,39.623697",
     "geom:latitude":39.565568,
     "geom:longitude":-76.141929,
@@ -14,19 +14,24 @@
     "lbl:latitude":39.559229,
     "lbl:longitude":-76.141248,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Havre De Grace",
+    "mz:postal_locality_alt":[
+        "Bel Air"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688501,
-        102082727
+        102082727,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766449"
     },
     "wof:country":"US",
-    "wof:geomhash":"6b01713d3c338f7809dbc6880e6ddd4a",
+    "wof:geomhash":"876cacd6d1fa1c4ba440cea57464ef85",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554707187,
-    "wof:lastmodified":1480794885,
+    "wof:lastmodified":1611183145,
     "wof:name":"21078",
     "wof:parent_id":102082727,
     "wof:placetype":"postalcode",

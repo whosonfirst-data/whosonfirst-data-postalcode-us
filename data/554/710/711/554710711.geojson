@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018838,
-    "geom:area_square_m":189370320.145327,
+    "geom:area_square_m":189370320.145444,
     "geom:bbox":"-78.559454,35.521036,-78.354415,35.708317",
     "geom:latitude":35.614259,
     "geom:longitude":-78.471879,
@@ -13,19 +13,27 @@
     "lbl:latitude":35.619726,
     "lbl:longitude":-78.477017,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Clayton",
+    "mz:postal_locality_alt":[
+        "Apex",
+        "Cary",
+        "Smithfield",
+        "Chapel Hill"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688773,
-        102080883
+        102080883,
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12769085"
     },
     "wof:country":"US",
-    "wof:geomhash":"c57cee4f18d51624e2c03822d7db6b80",
+    "wof:geomhash":"be62a7f5ce6ca4d4358c8ddc3eca4038",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +44,7 @@
         }
     ],
     "wof:id":554710711,
-    "wof:lastmodified":1480904307,
+    "wof:lastmodified":1611185139,
     "wof:name":"27520",
     "wof:parent_id":102080883,
     "wof:placetype":"postalcode",

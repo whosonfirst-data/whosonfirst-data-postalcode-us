@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001332,
-    "geom:area_square_m":12294001.704042,
+    "geom:area_square_m":12294001.704019,
     "geom:bbox":"-87.855914,41.680706,-87.797857,41.718198",
     "geom:latitude":41.698427,
     "geom:longitude":-87.828916,
@@ -14,21 +14,27 @@
     "lbl:latitude":41.698023,
     "lbl:longitude":-87.829143,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Palos Hills",
+    "mz:postal_locality_alt":[
+        "Oak Lawn",
+        "Hickory Hills"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404496277,
         85633793,
+        102084317,
+        404496277,
         85940747,
-        102084317
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784173"
     },
     "wof:country":"US",
-    "wof:geomhash":"cc3101845a167a10a85d889fff8a305d",
+    "wof:geomhash":"c415f887745c277fbfca8d6921aaf1d7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554783311,
-    "wof:lastmodified":1480802052,
+    "wof:lastmodified":1611183904,
     "wof:name":"60465",
     "wof:parent_id":85940747,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025925,
-    "geom:area_square_m":238412162.170566,
+    "geom:area_square_m":238412162.170493,
     "geom:bbox":"-79.26048,41.891006,-78.928381,41.999507",
     "geom:latitude":41.951988,
     "geom:longitude":-79.071944,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.944404,
     "lbl:longitude":-79.082916,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Russell",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404483943,
         85633793,
-        102081337
+        102081337,
+        404483943,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764265"
     },
     "wof:country":"US",
-    "wof:geomhash":"914afa110ab1597c441033423ae89c90",
+    "wof:geomhash":"dec5904404109c6dacf30f47366485ce",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554704473,
-    "wof:lastmodified":1480831463,
+    "wof:lastmodified":1611184513,
     "wof:name":"16345",
     "wof:parent_id":404483943,
     "wof:placetype":"postalcode",

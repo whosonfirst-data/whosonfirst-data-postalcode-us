@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010345,
-    "geom:area_square_m":97917040.280065,
+    "geom:area_square_m":97917040.28001,
     "geom:bbox":"-85.202751,39.982493,-85.034633,40.106529",
     "geom:latitude":40.053925,
     "geom:longitude":-85.110753,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.057341,
     "lbl:longitude":-85.112956,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Modoc",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404501813,
         85633793,
-        102086449
+        102086449,
+        404501813,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778180"
     },
     "wof:country":"US",
-    "wof:geomhash":"8456491f3ec6dcc4f9ec79cf1ce9a6ba",
+    "wof:geomhash":"9037b8f7de4a8529ab3588f6be462126",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554723339,
-    "wof:lastmodified":1480916346,
+    "wof:lastmodified":1611183778,
     "wof:name":"47358",
     "wof:parent_id":404501813,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.106922,
-    "geom:area_square_m":950698499.411752,
+    "geom:area_square_m":950698499.411851,
     "geom:bbox":"-104.054839,43.855662,-103.47913,44.14114",
     "geom:latitude":44.021598,
     "geom:longitude":-103.779889,
@@ -14,20 +14,25 @@
     "lbl:latitude":44.01924,
     "lbl:longitude":-103.778602,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hill City",
+    "mz:postal_locality_alt":[
+        "Lead"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688693,
         102191575,
-        404490901,
         85633793,
-        102086781
+        102086781,
+        404490901,
+        85688693
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12783066"
     },
     "wof:country":"US",
-    "wof:geomhash":"4fbb7dba6d6264db688de759755be439",
+    "wof:geomhash":"bbc3b9d745ae6987cad4cdd39f2c2774",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554731501,
-    "wof:lastmodified":1480914760,
+    "wof:lastmodified":1611183073,
     "wof:name":"57745",
     "wof:parent_id":404490901,
     "wof:placetype":"postalcode",

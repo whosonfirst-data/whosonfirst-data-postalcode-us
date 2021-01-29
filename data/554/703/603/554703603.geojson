@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004725,
-    "geom:area_square_m":44402942.688023,
+    "geom:area_square_m":44402942.688025,
     "geom:bbox":"-79.923636,40.483247,-79.820857,40.588742",
     "geom:latitude":40.534632,
     "geom:longitude":-79.880484,
@@ -13,21 +13,26 @@
     "lbl:latitude":40.537201,
     "lbl:longitude":-79.879443,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pittsburgh",
+    "mz:postal_locality_alt":[
+        "Blawnox"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404484931,
         85633793,
+        102080887,
+        404484931,
         101718683,
-        102080887
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763679"
     },
     "wof:country":"US",
-    "wof:geomhash":"4fcbbe6ff9affbdb5be3acb39f38d583",
+    "wof:geomhash":"8931a7eea8f1f62641dd4018c9416460",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554703603,
-    "wof:lastmodified":1480905391,
+    "wof:lastmodified":1611184459,
     "wof:name":"15238",
     "wof:parent_id":101718683,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021942,
-    "geom:area_square_m":212416526.754553,
+    "geom:area_square_m":212416526.754497,
     "geom:bbox":"-79.224341,38.396213,-78.918728,38.566643",
     "geom:latitude":38.470694,
     "geom:longitude":-79.085021,
@@ -14,19 +14,24 @@
     "lbl:latitude":38.480717,
     "lbl:longitude":-79.128767,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Dayton",
+    "mz:postal_locality_alt":[
+        "Harrisonburg"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688747,
-        102085949
+        102085949,
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12767066"
     },
     "wof:country":"US",
-    "wof:geomhash":"15134c039eb21989e5ec9c3fe03a8a44",
+    "wof:geomhash":"51753aea4af388a8eb803b1f4f794d73",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554707901,
-    "wof:lastmodified":1480913502,
+    "wof:lastmodified":1611183131,
     "wof:name":"22821",
     "wof:parent_id":102085949,
     "wof:placetype":"postalcode",

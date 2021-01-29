@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002939,
-    "geom:area_square_m":30820014.258225,
+    "geom:area_square_m":30820014.258197,
     "geom:bbox":"-102.12516,31.964514,-102.041343,32.020398",
     "geom:latitude":31.992384,
     "geom:longitude":-102.081463,
@@ -13,20 +13,27 @@
     "lbl:latitude":31.992384,
     "lbl:longitude":-102.081464,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Midland",
+    "mz:postal_locality_alt":[
+        "Odessa",
+        "Fort Davis",
+        "Balmorhea"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102085023,
         101723957,
-        102085023
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12792710"
     },
     "wof:country":"US",
-    "wof:geomhash":"26ee10c76a98fac0bb1ba9b961df6266",
+    "wof:geomhash":"482fb25e8017cb124836307a77c390af",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +45,7 @@
         }
     ],
     "wof:id":554747737,
-    "wof:lastmodified":1480808981,
+    "wof:lastmodified":1611183448,
     "wof:name":"79701",
     "wof:parent_id":101723957,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002928,
-    "geom:area_square_m":28984487.479401,
+    "geom:area_square_m":28984487.479442,
     "geom:bbox":"-119.73943,36.782965,-119.645735,36.852152",
     "geom:latitude":36.8253,
     "geom:longitude":-119.680194,
@@ -13,20 +13,25 @@
     "lbl:latitude":36.825297,
     "lbl:longitude":-119.68019,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Clovis",
+    "mz:postal_locality_alt":[
+        "Fresno"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102084347,
         85923015,
-        102084347
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796957"
     },
     "wof:country":"US",
-    "wof:geomhash":"283aebd3d36ad580a8c9ca560fdb8466",
+    "wof:geomhash":"25d7badd99fb961f3e31e5859c3a6a8e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554752889,
-    "wof:lastmodified":1480802384,
+    "wof:lastmodified":1611182519,
     "wof:name":"93611",
     "wof:parent_id":85923015,
     "wof:placetype":"postalcode",

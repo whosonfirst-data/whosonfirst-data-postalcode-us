@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.047713,
-    "geom:area_square_m":432612248.782764,
+    "geom:area_square_m":432612248.78269,
     "geom:bbox":"-97.142012,42.719178,-96.805878,42.953555",
     "geom:latitude":42.839555,
     "geom:longitude":-96.973176,
@@ -14,20 +14,25 @@
     "lbl:latitude":42.843155,
     "lbl:longitude":-96.975173,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Vermillion",
+    "mz:postal_locality_alt":[
+        "Meckling"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688693,
         102191575,
-        404488533,
         85633793,
-        102086833
+        102086833,
+        404488533,
+        85688693
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782754"
     },
     "wof:country":"US",
-    "wof:geomhash":"50a19100a362eed61217f6ba8ad6a64f",
+    "wof:geomhash":"d94a441896262f216405c58ba93e9573",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554730901,
-    "wof:lastmodified":1480915735,
+    "wof:lastmodified":1611182721,
     "wof:name":"57069",
     "wof:parent_id":404488533,
     "wof:placetype":"postalcode",

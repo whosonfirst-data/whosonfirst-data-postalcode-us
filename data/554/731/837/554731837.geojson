@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.098702,
-    "geom:area_square_m":814567372.254832,
+    "geom:area_square_m":814567372.255001,
     "geom:bbox":"-99.15907,47.950631,-98.612414,48.285743",
     "geom:latitude":48.131499,
     "geom:longitude":-98.873758,
@@ -14,20 +14,25 @@
     "lbl:latitude":48.141947,
     "lbl:longitude":-98.871697,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Devils Lake",
+    "mz:postal_locality_alt":[
+        "Crary"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688525,
         102191575,
-        404481351,
         85633793,
-        102081517
+        102081517,
+        404481351,
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12783245"
     },
     "wof:country":"US",
-    "wof:geomhash":"a80dd556dd49182d7e328f1d17e9a0d4",
+    "wof:geomhash":"31f77f3095ae55c89dbc221c452a0c8f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554731837,
-    "wof:lastmodified":1480831348,
+    "wof:lastmodified":1611183085,
     "wof:name":"58301",
     "wof:parent_id":404481351,
     "wof:placetype":"postalcode",

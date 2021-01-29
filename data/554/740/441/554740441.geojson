@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049115,
-    "geom:area_square_m":460872391.532267,
+    "geom:area_square_m":460872391.532308,
     "geom:bbox":"-100.210088,40.481819,-99.916107,40.787112",
     "geom:latitude":40.635365,
     "geom:longitude":-100.056304,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.635926,
     "lbl:longitude":-100.054271,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Eustis",
+    "mz:postal_locality_alt":[
+        "Palisade"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688563,
         102191575,
-        404519025,
         85633793,
-        102082803
+        102082803,
+        404519025,
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787988"
     },
     "wof:country":"US",
-    "wof:geomhash":"01c038a2741d434796490056e6c9f219",
+    "wof:geomhash":"60569e514435d200750141a0c6396bd7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554740441,
-    "wof:lastmodified":1480795714,
+    "wof:lastmodified":1611183393,
     "wof:name":"69028",
     "wof:parent_id":404519025,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.065341,
-    "geom:area_square_m":602963040.12811,
+    "geom:area_square_m":602963040.128093,
     "geom:bbox":"-77.537799,41.614199,-77.124927,41.88669",
     "geom:latitude":41.73083,
     "geom:longitude":-77.327182,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.721291,
     "lbl:longitude":-77.337283,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wellsboro",
+    "mz:postal_locality_alt":[
+        "Lawrenceville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404487431,
         85633793,
-        102080937
+        102080937,
+        404487431,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764512"
     },
     "wof:country":"US",
-    "wof:geomhash":"29a8f0159158c698ee186e223d82eb0f",
+    "wof:geomhash":"1143559f43ff49472aa440610f3fcb45",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554704795,
-    "wof:lastmodified":1480904321,
+    "wof:lastmodified":1611184508,
     "wof:name":"16901",
     "wof:parent_id":404487431,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014074,
-    "geom:area_square_m":150669254.135094,
+    "geom:area_square_m":150669254.135084,
     "geom:bbox":"-91.176306,29.963713,-90.959571,30.081631",
     "geom:latitude":30.030556,
     "geom:longitude":-91.067882,
@@ -14,19 +14,25 @@
     "lbl:latitude":30.03252,
     "lbl:longitude":-91.06746,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Belle Rose",
+    "mz:postal_locality_alt":[
+        "Donaldsonville",
+        "Paincourtville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688735,
-        102081029
+        102081029,
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12788228"
     },
     "wof:country":"US",
-    "wof:geomhash":"1c7679f2c21526e9461ab7b7cfdf2964",
+    "wof:geomhash":"a78c1e96f7b82c1a3c4f5075e2d6cbfc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554740679,
-    "wof:lastmodified":1480912567,
+    "wof:lastmodified":1611183412,
     "wof:name":"70341",
     "wof:parent_id":102081029,
     "wof:placetype":"postalcode",

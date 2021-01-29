@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007018,
-    "geom:area_square_m":63446802.328448,
+    "geom:area_square_m":63446802.328407,
     "geom:bbox":"-85.662423,42.964085,-85.537683,43.063615",
     "geom:latitude":43.021148,
     "geom:longitude":-85.591699,
@@ -13,20 +13,22 @@
     "lbl:latitude":43.021909,
     "lbl:longitude":-85.5922,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Grand Rapids",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404507847,
         85633793,
-        102083023
+        102083023,
+        404507847,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779410"
     },
     "wof:country":"US",
-    "wof:geomhash":"df0ed77385c804df1c9cdfecc681c591",
+    "wof:geomhash":"f3fa8986f8694628960343fe546b1a93",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +40,7 @@
         }
     ],
     "wof:id":554725133,
-    "wof:lastmodified":1480838018,
+    "wof:lastmodified":1611183255,
     "wof:name":"49525",
     "wof:parent_id":404507847,
     "wof:placetype":"postalcode",

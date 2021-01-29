@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028956,
-    "geom:area_square_m":261883612.621419,
+    "geom:area_square_m":261883612.621497,
     "geom:bbox":"-90.784594,42.90563,-90.477121,43.082882",
     "geom:latitude":42.993766,
     "geom:longitude":-90.633641,
@@ -14,20 +14,25 @@
     "lbl:latitude":42.993767,
     "lbl:longitude":-90.633652,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fennimore",
+    "mz:postal_locality_alt":[
+        "Boscobel"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404491821,
         85633793,
-        102081857
+        102081857,
+        404491821,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781089"
     },
     "wof:country":"US",
-    "wof:geomhash":"09ec575e7379e98c3d96f3f114823aaa",
+    "wof:geomhash":"780bb070d3731e4b3e88b032af75baff",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554727919,
-    "wof:lastmodified":1480829257,
+    "wof:lastmodified":1611185531,
     "wof:name":"53809",
     "wof:parent_id":404491821,
     "wof:placetype":"postalcode",

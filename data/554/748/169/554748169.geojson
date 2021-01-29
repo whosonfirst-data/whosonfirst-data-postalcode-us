@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028196,
-    "geom:area_square_m":266436903.175104,
+    "geom:area_square_m":266436903.175072,
     "geom:bbox":"-105.157988,40.058989,-104.900905,40.271523",
     "geom:latitude":40.163921,
     "geom:longitude":-105.028902,
@@ -13,19 +13,25 @@
     "lbl:latitude":40.163388,
     "lbl:longitude":-105.030087,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Longmont",
+    "mz:postal_locality_alt":[
+        "Firestone",
+        "Frederick"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688603,
-        102086117
+        102086117,
+        85688603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12793094"
     },
     "wof:country":"US",
-    "wof:geomhash":"2e5698ffe87fc324e43dea66dce32528",
+    "wof:geomhash":"6c0e8c0d8d3b69bf268fa077f2f09e0f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +42,7 @@
         }
     ],
     "wof:id":554748169,
-    "wof:lastmodified":1480913970,
+    "wof:lastmodified":1611183823,
     "wof:name":"80504",
     "wof:parent_id":102086117,
     "wof:placetype":"postalcode",

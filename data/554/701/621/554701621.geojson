@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016409,
-    "geom:area_square_m":151662698.947149,
+    "geom:area_square_m":151662698.947219,
     "geom:bbox":"-74.303632,41.560557,-74.026526,41.716015",
     "geom:latitude":41.626644,
     "geom:longitude":-74.158923,
@@ -14,20 +14,26 @@
     "lbl:latitude":41.623791,
     "lbl:longitude":-74.158771,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wallkill",
+    "mz:postal_locality_alt":[
+        "Newburgh",
+        "Rhinebeck"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404523271,
         85633793,
-        102081775
+        102081775,
+        404523271,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762394"
     },
     "wof:country":"US",
-    "wof:geomhash":"61e6388133de26e3d73503b709ad4f02",
+    "wof:geomhash":"5ae2e4f7cc130df4c7eae7f448a61ba4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554701621,
-    "wof:lastmodified":1480834096,
+    "wof:lastmodified":1611182617,
     "wof:name":"12589",
     "wof:parent_id":404523271,
     "wof:placetype":"postalcode",

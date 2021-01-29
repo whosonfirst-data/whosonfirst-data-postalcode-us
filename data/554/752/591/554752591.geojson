@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012082,
-    "geom:area_square_m":123413928.269824,
+    "geom:area_square_m":123413928.269767,
     "geom:bbox":"-118.960959,34.241135,-118.803391,34.360432",
     "geom:latitude":34.303522,
     "geom:longitude":-118.884243,
@@ -13,20 +13,25 @@
     "lbl:latitude":34.295652,
     "lbl:longitude":-118.897875,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Moorpark",
+    "mz:postal_locality_alt":[
+        "Simi Valley"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086933,
         85923239,
-        102086933
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796700"
     },
     "wof:country":"US",
-    "wof:geomhash":"929f70af99603a2a4b174fef5735836b",
+    "wof:geomhash":"985b4e890ca7f7a712a4d531f072bbdd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554752591,
-    "wof:lastmodified":1480911644,
+    "wof:lastmodified":1611182539,
     "wof:name":"93021",
     "wof:parent_id":85923239,
     "wof:placetype":"postalcode",

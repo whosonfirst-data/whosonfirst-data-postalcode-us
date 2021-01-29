@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005509,
-    "geom:area_square_m":55572905.88256,
+    "geom:area_square_m":55572905.882524,
     "geom:bbox":"-97.599013,35.290544,-97.506602,35.363381",
     "geom:latitude":35.327379,
     "geom:longitude":-97.550595,
@@ -13,20 +13,25 @@
     "lbl:latitude":35.325574,
     "lbl:longitude":-97.552465,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Oklahoma City",
+    "mz:postal_locality_alt":[
+        "Moore"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688585,
         102191575,
         85633793,
+        102082577,
         101714461,
-        102082577
+        85688585
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12789678"
     },
     "wof:country":"US",
-    "wof:geomhash":"3b72d7b8acbdc368804b2350f9bbbce4",
+    "wof:geomhash":"da2b85c3bb8975d9893447267e56cc3b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554743069,
-    "wof:lastmodified":1480838453,
+    "wof:lastmodified":1611184796,
     "wof:name":"73170",
     "wof:parent_id":101714461,
     "wof:placetype":"postalcode",

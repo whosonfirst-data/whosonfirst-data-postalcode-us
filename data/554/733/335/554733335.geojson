@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006506,
-    "geom:area_square_m":60439801.301278,
+    "geom:area_square_m":60439801.301254,
     "geom:bbox":"-88.324365,41.243567,-88.226737,41.346742",
     "geom:latitude":41.293134,
     "geom:longitude":-88.281845,
@@ -14,21 +14,27 @@
     "lbl:latitude":41.293908,
     "lbl:longitude":-88.283101,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Coal City",
+    "mz:postal_locality_alt":[
+        "Diamond",
+        "Carbon Hill"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404497227,
         85633793,
+        102086193,
+        404497227,
         85938379,
-        102086193
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784127"
     },
     "wof:country":"US",
-    "wof:geomhash":"562c5907e4397667287e62fea83b138c",
+    "wof:geomhash":"a4372ecc9ee92ba034613a8344bb17e5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554733335,
-    "wof:lastmodified":1480911706,
+    "wof:lastmodified":1611184232,
     "wof:name":"60416",
     "wof:parent_id":85938379,
     "wof:placetype":"postalcode",

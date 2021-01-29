@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004993,
-    "geom:area_square_m":53273054.611944,
+    "geom:area_square_m":53273054.611938,
     "geom:bbox":"-88.57111,30.318345,-88.446097,30.398878",
     "geom:latitude":30.357502,
     "geom:longitude":-88.49056,
@@ -13,19 +13,25 @@
     "lbl:latitude":30.357101,
     "lbl:longitude":-88.489323,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pascagoula",
+    "mz:postal_locality_alt":[
+        "Moss Point",
+        "Ocean Springs"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688579,
-        102083161
+        102083161,
+        85688579
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12775006"
     },
     "wof:country":"US",
-    "wof:geomhash":"070ea8f29520a5d92cfee8ed7461ba5b",
+    "wof:geomhash":"412a15e9b91d676a5a8effeb8ef59ed1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +42,7 @@
         }
     ],
     "wof:id":554718471,
-    "wof:lastmodified":1480838248,
+    "wof:lastmodified":1611185543,
     "wof:name":"39581",
     "wof:parent_id":102083161,
     "wof:placetype":"postalcode",

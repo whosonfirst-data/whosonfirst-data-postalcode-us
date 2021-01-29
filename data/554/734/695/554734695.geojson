@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009261,
-    "geom:area_square_m":89596517.246656,
+    "geom:area_square_m":89596517.2466,
     "geom:bbox":"-89.980819,38.445732,-89.818696,38.570711",
     "geom:latitude":38.51484,
     "geom:longitude":-89.899196,
@@ -13,20 +13,25 @@
     "lbl:latitude":38.512175,
     "lbl:longitude":-89.905355,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Belleville",
+    "mz:postal_locality_alt":[
+        "Shiloh"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404499791,
         85633793,
-        102084321
+        102084321,
+        404499791,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785001"
     },
     "wof:country":"US",
-    "wof:geomhash":"98ab7117eee97ad7ecd4e64615bba801",
+    "wof:geomhash":"3dfdcf62abe31e9de2eb8cc0f5471b20",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554734695,
-    "wof:lastmodified":1480796994,
+    "wof:lastmodified":1611184187,
     "wof:name":"62221",
     "wof:parent_id":404499791,
     "wof:placetype":"postalcode",

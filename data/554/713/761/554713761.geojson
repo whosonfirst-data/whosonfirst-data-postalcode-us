@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032094,
-    "geom:area_square_m":337395875.251532,
+    "geom:area_square_m":337395875.251535,
     "geom:bbox":"-81.593872,31.658332,-81.167753,31.880901",
     "geom:latitude":31.768099,
     "geom:longitude":-81.366149,
@@ -14,19 +14,26 @@
     "lbl:latitude":31.765504,
     "lbl:longitude":-81.368411,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Midway",
+    "mz:postal_locality_alt":[
+        "Pembroke",
+        "Rincon",
+        "Riceboro"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688535,
-        102082901
+        102082901,
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12771197"
     },
     "wof:country":"US",
-    "wof:geomhash":"97cb9967230ab993de5ccfc5422d5d6b",
+    "wof:geomhash":"b927e33cda108bc8dcfec09c8130f0e6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +44,7 @@
         }
     ],
     "wof:id":554713761,
-    "wof:lastmodified":1480832834,
+    "wof:lastmodified":1611183322,
     "wof:name":"31320",
     "wof:parent_id":102082901,
     "wof:placetype":"postalcode",

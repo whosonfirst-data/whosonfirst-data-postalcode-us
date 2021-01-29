@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.055059,
-    "geom:area_square_m":545787840.070689,
+    "geom:area_square_m":545787840.070569,
     "geom:bbox":"-89.483305,36.564946,-89.159118,36.851242",
     "geom:latitude":36.709862,
     "geom:longitude":-89.323395,
@@ -14,20 +14,22 @@
     "lbl:latitude":36.712199,
     "lbl:longitude":-89.325952,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"East Prairie",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404516941,
         85633793,
-        102085295
+        102085295,
+        404516941,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785883"
     },
     "wof:country":"US",
-    "wof:geomhash":"83ece01bf3603c7978e81be2c7103801",
+    "wof:geomhash":"749b06ce04fb0925915ce23c3346b399",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554736269,
-    "wof:lastmodified":1480812233,
+    "wof:lastmodified":1611183031,
     "wof:name":"63845",
     "wof:parent_id":404516941,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00295,
-    "geom:area_square_m":28475680.586294,
+    "geom:area_square_m":28475680.586301,
     "geom:bbox":"-121.262401,38.650104,-121.187494,38.718241",
     "geom:latitude":38.68909,
     "geom:longitude":-121.219787,
@@ -14,20 +14,25 @@
     "lbl:latitude":38.689174,
     "lbl:longitude":-121.218435,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Orangevale",
+    "mz:postal_locality_alt":[
+        "Folsom"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102082889,
         85926877,
-        102082889
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12797932"
     },
     "wof:country":"US",
-    "wof:geomhash":"e57d29268c40ba6406c132d697b22720",
+    "wof:geomhash":"9a23e6f6097b06547d0a61fb34c7e498",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554753921,
-    "wof:lastmodified":1480906295,
+    "wof:lastmodified":1611182973,
     "wof:name":"95662",
     "wof:parent_id":85926877,
     "wof:placetype":"postalcode",

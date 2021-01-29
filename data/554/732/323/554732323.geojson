@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.194546,
-    "geom:area_square_m":1609875263.179923,
+    "geom:area_square_m":1609875263.179959,
     "geom:bbox":"-103.143739,47.751409,-102.171765,48.153466",
     "geom:latitude":47.992908,
     "geom:longitude":-102.575689,
@@ -14,20 +14,22 @@
     "lbl:latitude":47.990944,
     "lbl:longitude":-102.564713,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"New Town",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688525,
         102191575,
-        404480993,
         85633793,
-        102082091
+        102082091,
+        404480993,
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12783482"
     },
     "wof:country":"US",
-    "wof:geomhash":"127e387ce44a4f4bd57f466b6253a463",
+    "wof:geomhash":"5b8c8a468e8049160276c7e1e15cf1ab",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554732323,
-    "wof:lastmodified":1480823327,
+    "wof:lastmodified":1611184381,
     "wof:name":"58763",
     "wof:parent_id":404480993,
     "wof:placetype":"postalcode",

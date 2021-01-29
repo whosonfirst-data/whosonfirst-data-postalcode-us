@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040821,
-    "geom:area_square_m":427604658.757126,
+    "geom:area_square_m":427604658.757022,
     "geom:bbox":"-96.06486,31.919268,-95.780593,32.280257",
     "geom:latitude":32.096421,
     "geom:longitude":-95.908301,
@@ -13,19 +13,24 @@
     "lbl:latitude":32.094348,
     "lbl:longitude":-95.906047,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Athens",
+    "mz:postal_locality_alt":[
+        "Ben Wheeler"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688753,
-        102086741
+        102086741,
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12790735"
     },
     "wof:country":"US",
-    "wof:geomhash":"7692f20213be1d89e6e9c3efdb10b6a7",
+    "wof:geomhash":"be38b3435a32d03f2177cfb3feef72b4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +41,7 @@
         }
     ],
     "wof:id":554744793,
-    "wof:lastmodified":1480916137,
+    "wof:lastmodified":1611184732,
     "wof:name":"75751",
     "wof:parent_id":102086741,
     "wof:placetype":"postalcode",

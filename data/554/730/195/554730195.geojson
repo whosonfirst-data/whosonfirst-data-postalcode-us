@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01839,
-    "geom:area_square_m":159314035.36604,
+    "geom:area_square_m":159314035.366139,
     "geom:bbox":"-94.165368,45.453617,-93.919328,45.587283",
     "geom:latitude":45.525359,
     "geom:longitude":-94.052857,
@@ -13,20 +13,26 @@
     "lbl:latitude":45.530416,
     "lbl:longitude":-94.057176,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"St Cloud",
+    "mz:postal_locality_alt":[
+        "Saint Cloud",
+        "Sauk Rapids"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404510469,
         85633793,
-        102087609
+        102087609,
+        404510469,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782396"
     },
     "wof:country":"US",
-    "wof:geomhash":"a8a2da5dfaa737152ab398dd1cb2be64",
+    "wof:geomhash":"cb0b1c84cce6140ba32912a7114cb310",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554730195,
-    "wof:lastmodified":1480788129,
+    "wof:lastmodified":1611182721,
     "wof:name":"56304",
     "wof:parent_id":404510469,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.052268,
-    "geom:area_square_m":490938556.087739,
+    "geom:area_square_m":490938556.087938,
     "geom:bbox":"-84.361167,40.482227,-83.944137,40.671915",
     "geom:latitude":40.570174,
     "geom:longitude":-84.151762,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.577695,
     "lbl:longitude":-84.154664,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wapakoneta",
+    "mz:postal_locality_alt":[
+        "Buckland"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404524841,
         85633793,
-        102084809
+        102084809,
+        404524841,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777528"
     },
     "wof:country":"US",
-    "wof:geomhash":"52f303a11cb4ad610ede1effe1fb0d0f",
+    "wof:geomhash":"fe313c9561f595f274b647409c86f773",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554722355,
-    "wof:lastmodified":1480839086,
+    "wof:lastmodified":1611183214,
     "wof:name":"45895",
     "wof:parent_id":404524841,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002071,
-    "geom:area_square_m":21159028.433778,
+    "geom:area_square_m":21159028.433761,
     "geom:bbox":"-118.596208,34.25726,-118.523323,34.303478",
     "geom:latitude":34.280466,
     "geom:longitude":-118.557581,
@@ -14,20 +14,26 @@
     "lbl:latitude":34.281486,
     "lbl:longitude":-118.556005,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Northridge",
+    "mz:postal_locality_alt":[
+        "Porter Ranch",
+        "Granada Hills"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086957,
         85923517,
-        102086957
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795978"
     },
     "wof:country":"US",
-    "wof:geomhash":"7469b34b25b4a8aa31f2da55282b1726",
+    "wof:geomhash":"c2f29dc762cd93e97253125ed53d92b9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554751939,
-    "wof:lastmodified":1480912610,
+    "wof:lastmodified":1611184325,
     "wof:name":"91326",
     "wof:parent_id":85923517,
     "wof:placetype":"postalcode",

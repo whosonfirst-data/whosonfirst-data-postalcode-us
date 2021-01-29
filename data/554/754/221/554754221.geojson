@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010625,
-    "geom:area_square_m":101848887.43653,
+    "geom:area_square_m":101848887.436399,
     "geom:bbox":"-121.375681,39.098596,-121.217633,39.24322",
     "geom:latitude":39.176935,
     "geom:longitude":-121.287914,
@@ -14,19 +14,25 @@
     "lbl:latitude":39.176595,
     "lbl:longitude":-121.291692,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Big Oak Valley",
+    "mz:postal_locality_alt":[
+        "Smartville",
+        "Smartsville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688637,
-        102082893
+        102082893,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12798104"
     },
     "wof:country":"US",
-    "wof:geomhash":"45fba26e05b64694f7e5887722c7cd60",
+    "wof:geomhash":"d1cacbe7d3f0ee276b5bb6d84ada2d95",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554754221,
-    "wof:lastmodified":1480813600,
+    "wof:lastmodified":1611182879,
     "wof:name":"95977",
     "wof:parent_id":102082893,
     "wof:placetype":"postalcode",

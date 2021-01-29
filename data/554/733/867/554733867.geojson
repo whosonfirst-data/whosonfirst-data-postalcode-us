@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009693,
-    "geom:area_square_m":89475023.137693,
+    "geom:area_square_m":89475023.137701,
     "geom:bbox":"-89.149092,41.62702,-89.034085,41.803336",
     "geom:latitude":41.712116,
     "geom:longitude":-89.079674,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.711285,
     "lbl:longitude":-89.078271,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Compton",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404496379,
         85633793,
-        102087565
+        102087565,
+        404496379,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784547"
     },
     "wof:country":"US",
-    "wof:geomhash":"1fe21d7ecf50f5d66c39af642181dc12",
+    "wof:geomhash":"b3e32fcacf65355d660c526ee2e035d3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554733867,
-    "wof:lastmodified":1480833833,
+    "wof:lastmodified":1611184223,
     "wof:name":"61318",
     "wof:parent_id":404496379,
     "wof:placetype":"postalcode",

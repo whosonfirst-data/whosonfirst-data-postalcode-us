@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012485,
-    "geom:area_square_m":113519349.856692,
+    "geom:area_square_m":113519349.856722,
     "geom:bbox":"-72.116631,42.601835,-71.981575,42.717172",
     "geom:latitude":42.666665,
     "geom:longitude":-72.048965,
@@ -14,20 +14,25 @@
     "lbl:latitude":42.66816,
     "lbl:longitude":-72.055644,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Winchendon",
+    "mz:postal_locality_alt":[
+        "Winchendon Spgs"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476087,
         85633793,
-        102084655
+        102084655,
+        404476087,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758468"
     },
     "wof:country":"US",
-    "wof:geomhash":"48c145bb8606b29c6fc43c0cfbd6ab6c",
+    "wof:geomhash":"a565995ef42c15f6674c7239fc5b930b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554697061,
-    "wof:lastmodified":1480809136,
+    "wof:lastmodified":1611184659,
     "wof:name":"01475",
     "wof:parent_id":404476087,
     "wof:placetype":"postalcode",

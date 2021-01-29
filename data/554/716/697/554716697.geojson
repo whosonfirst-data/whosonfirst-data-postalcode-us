@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013499,
-    "geom:area_square_m":136450957.191114,
+    "geom:area_square_m":136450957.191177,
     "geom:bbox":"-84.713731,35.094189,-84.5309,35.243266",
     "geom:latitude":35.169054,
     "geom:longitude":-84.625787,
@@ -14,19 +14,25 @@
     "lbl:latitude":35.174229,
     "lbl:longitude":-84.621319,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Benton",
+    "mz:postal_locality_alt":[
+        "Palmer",
+        "Tracy City"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688701,
-        102086265
+        102086265,
+        85688701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12773927"
     },
     "wof:country":"US",
-    "wof:geomhash":"a400c326c2cfe88e65e1c85c2fe004d7",
+    "wof:geomhash":"f7fc9101bd89e68deb02aa098fc30c9a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554716697,
-    "wof:lastmodified":1480914748,
+    "wof:lastmodified":1611185391,
     "wof:name":"37307",
     "wof:parent_id":102086265,
     "wof:placetype":"postalcode",

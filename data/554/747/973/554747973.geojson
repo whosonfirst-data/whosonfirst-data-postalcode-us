@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003771,
-    "geom:area_square_m":35951327.949538,
+    "geom:area_square_m":35951327.949504,
     "geom:bbox":"-105.124112,39.488054,-105.027673,39.597666",
     "geom:latitude":39.564051,
     "geom:longitude":-105.078687,
@@ -13,20 +13,22 @@
     "lbl:latitude":39.563846,
     "lbl:longitude":-105.079066,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Littleton",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688603,
         102191575,
         85633793,
+        102084113,
         85930607,
-        102084113
+        85688603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12792923"
     },
     "wof:country":"US",
-    "wof:geomhash":"579ff4e7f806a1ecc570e0891e2a77b4",
+    "wof:geomhash":"587108c6cf8db6b769c6ffdcf6ef930f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +40,7 @@
         }
     ],
     "wof:id":554747973,
-    "wof:lastmodified":1480913400,
+    "wof:lastmodified":1611183485,
     "wof:name":"80128",
     "wof:parent_id":85930607,
     "wof:placetype":"postalcode",

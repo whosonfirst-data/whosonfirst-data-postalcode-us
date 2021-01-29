@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.078354,
-    "geom:area_square_m":821843241.24045,
+    "geom:area_square_m":821843241.240283,
     "geom:bbox":"-100.189323,31.831316,-99.752244,32.137394",
     "geom:latitude":31.977654,
     "geom:longitude":-99.953058,
@@ -14,19 +14,24 @@
     "lbl:latitude":31.972434,
     "lbl:longitude":-99.950294,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Winters",
+    "mz:postal_locality_alt":[
+        "Denton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688753,
-        102081997
+        102081997,
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12792698"
     },
     "wof:country":"US",
-    "wof:geomhash":"7a469cb5cf0ff8fa08e40ddf6d390568",
+    "wof:geomhash":"30e70f5388c16c0b3a86ae38dd8f0631",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554747713,
-    "wof:lastmodified":1480830891,
+    "wof:lastmodified":1611183464,
     "wof:name":"79567",
     "wof:parent_id":102081997,
     "wof:placetype":"postalcode",

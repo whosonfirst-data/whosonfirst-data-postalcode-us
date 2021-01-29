@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011253,
-    "geom:area_square_m":101832656.164891,
+    "geom:area_square_m":101832656.164964,
     "geom:bbox":"-76.135947,42.899357,-75.98186,43.031553",
     "geom:latitude":42.960845,
     "geom:longitude":-76.06159,
@@ -14,20 +14,22 @@
     "lbl:latitude":42.958399,
     "lbl:longitude":-76.061102,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Jamesville",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522833,
         85633793,
-        102082351
+        102082351,
+        404522833,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762649"
     },
     "wof:country":"US",
-    "wof:geomhash":"4207e3bf57883d8f25991eac636f263a",
+    "wof:geomhash":"4a41ddd0a1584f3ad303bb4118290c49",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554702087,
-    "wof:lastmodified":1480793803,
+    "wof:lastmodified":1611184159,
     "wof:name":"13078",
     "wof:parent_id":404522833,
     "wof:placetype":"postalcode",

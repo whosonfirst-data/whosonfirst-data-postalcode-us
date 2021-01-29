@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010026,
-    "geom:area_square_m":92800963.638831,
+    "geom:area_square_m":92800963.638784,
     "geom:bbox":"-74.134771,41.487948,-73.967012,41.586817",
     "geom:latitude":41.537175,
     "geom:longitude":-74.052581,
@@ -14,21 +14,28 @@
     "lbl:latitude":41.539574,
     "lbl:longitude":-74.057223,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Newburgh",
+    "mz:postal_locality_alt":[
+        "Pleasant Valley",
+        "Wappingers Falls",
+        "Wallkill"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522913,
         85633793,
+        102083061,
+        404522913,
         85979519,
-        102083061
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762366"
     },
     "wof:country":"US",
-    "wof:geomhash":"d2baba590b02e5d3c8e4ccd14c9d9c6a",
+    "wof:geomhash":"5269eeae395197c239422df0635c32b0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +48,7 @@
         }
     ],
     "wof:id":554701575,
-    "wof:lastmodified":1480834096,
+    "wof:lastmodified":1611182626,
     "wof:name":"12550",
     "wof:parent_id":85979519,
     "wof:placetype":"postalcode",

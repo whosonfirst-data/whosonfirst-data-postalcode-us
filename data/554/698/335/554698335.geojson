@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036174,
-    "geom:area_square_m":319778650.214783,
+    "geom:area_square_m":319778650.214802,
     "geom:bbox":"-69.834234,44.227576,-69.6257,44.515561",
     "geom:latitude":44.363956,
     "geom:longitude":-69.737415,
@@ -13,21 +13,31 @@
     "lbl:latitude":44.351895,
     "lbl:longitude":-69.747626,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Augusta",
+    "mz:postal_locality_alt":[
+        "Sidney",
+        "Winthrop",
+        "Chelsea",
+        "Gardiner",
+        "Windsor",
+        "Mt Vernon"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404475563,
         85633793,
+        102087461,
+        404475563,
         85948863,
-        102087461
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759521"
     },
     "wof:country":"US",
-    "wof:geomhash":"7ca3ca6bb69f9652ad265887a9a425b6",
+    "wof:geomhash":"89cafa53860e6ce74d03f23aa94ec72d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +50,7 @@
         }
     ],
     "wof:id":554698335,
-    "wof:lastmodified":1480787195,
+    "wof:lastmodified":1611184692,
     "wof:name":"04330",
     "wof:parent_id":85948863,
     "wof:placetype":"postalcode",

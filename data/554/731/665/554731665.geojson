@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037479,
-    "geom:area_square_m":316985386.827538,
+    "geom:area_square_m":316985386.827524,
     "geom:bbox":"-97.303684,46.740385,-96.967585,46.977319",
     "geom:latitude":46.844115,
     "geom:longitude":-97.116608,
@@ -14,20 +14,25 @@
     "lbl:latitude":46.850628,
     "lbl:longitude":-97.125872,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mapleton",
+    "mz:postal_locality_alt":[
+        "Durbin"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688525,
         102191575,
-        404480559,
         85633793,
-        102082073
+        102082073,
+        404480559,
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12783150"
     },
     "wof:country":"US",
-    "wof:geomhash":"fae2aa808f300de8b758fb0119c79613",
+    "wof:geomhash":"e3be5c5cc7cb08b85d712e24c8feecc1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554731665,
-    "wof:lastmodified":1480795315,
+    "wof:lastmodified":1611183085,
     "wof:name":"58059",
     "wof:parent_id":404480559,
     "wof:placetype":"postalcode",

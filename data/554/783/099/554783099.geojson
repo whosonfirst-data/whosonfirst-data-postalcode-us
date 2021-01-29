@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025663,
-    "geom:area_square_m":212480815.577843,
+    "geom:area_square_m":212480815.577831,
     "geom:bbox":"-89.886528,47.873792,-89.483385,48.023353",
     "geom:latitude":47.964514,
     "geom:longitude":-89.739517,
@@ -14,20 +14,22 @@
     "lbl:latitude":47.965288,
     "lbl:longitude":-89.737133,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Grand Portage",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404511839,
         85633793,
-        102087727
+        102087727,
+        404511839,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782002"
     },
     "wof:country":"US",
-    "wof:geomhash":"ddb821b4ab26f1187678f38c57adb6b1",
+    "wof:geomhash":"dc798e40aca90a7502b3795a3f92928e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554783099,
-    "wof:lastmodified":1480836773,
+    "wof:lastmodified":1611183882,
     "wof:name":"55605",
     "wof:parent_id":404511839,
     "wof:placetype":"postalcode",

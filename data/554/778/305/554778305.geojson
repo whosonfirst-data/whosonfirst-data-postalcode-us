@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000039,
-    "geom:area_square_m":352704.22149,
+    "geom:area_square_m":352704.221489,
     "geom:bbox":"-71.075219,42.35531,-71.056485,42.361928",
     "geom:latitude":42.357758,
     "geom:longitude":-71.064901,
@@ -13,21 +13,26 @@
     "lbl:latitude":42.357758,
     "lbl:longitude":-71.064901,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Boston",
+    "mz:postal_locality_alt":[
+        "East Boston"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476573,
         85633793,
+        102084423,
+        404476573,
         85950361,
-        102084423
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758707"
     },
     "wof:country":"US",
-    "wof:geomhash":"38482300463c0f7516ec3506062e33b7",
+    "wof:geomhash":"5f81e9e9a935e7cf5a28afb694e20cd4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554778305,
-    "wof:lastmodified":1480798204,
+    "wof:lastmodified":1611183439,
     "wof:name":"02108",
     "wof:parent_id":85950361,
     "wof:placetype":"postalcode",

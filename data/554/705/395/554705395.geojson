@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025443,
-    "geom:area_square_m":237799629.828696,
+    "geom:area_square_m":237799629.828578,
     "geom:bbox":"-76.563884,40.816528,-76.273046,40.992525",
     "geom:latitude":40.898942,
     "geom:longitude":-76.409447,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.895639,
     "lbl:longitude":-76.403739,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Catawissa",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485395,
         85633793,
-        102080973
+        102080973,
+        404485395,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764905"
     },
     "wof:country":"US",
-    "wof:geomhash":"7380c6a6c939d219c7d224c52393cbe8",
+    "wof:geomhash":"ddb24c6e078f16bc19fd65d2b8d76e3f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554705395,
-    "wof:lastmodified":1480905761,
+    "wof:lastmodified":1611184110,
     "wof:name":"17820",
     "wof:parent_id":404485395,
     "wof:placetype":"postalcode",

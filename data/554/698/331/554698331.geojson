@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013133,
-    "geom:area_square_m":116074636.312328,
+    "geom:area_square_m":116074636.312365,
     "geom:bbox":"-70.525171,44.316638,-70.359913,44.436213",
     "geom:latitude":44.374044,
     "geom:longitude":-70.44687,
@@ -14,20 +14,26 @@
     "lbl:latitude":44.385909,
     "lbl:longitude":-70.449596,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Sumner",
+    "mz:postal_locality_alt":[
+        "Greenwood",
+        "Wayne"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404475137,
         85633793,
-        102087437
+        102087437,
+        404475137,
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759519"
     },
     "wof:country":"US",
-    "wof:geomhash":"e383aa1f8c3aa333a7a996d782d5d10d",
+    "wof:geomhash":"386f7bc24913414b1f3d7125b5bff82b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554698331,
-    "wof:lastmodified":1480787532,
+    "wof:lastmodified":1611184676,
     "wof:name":"04292",
     "wof:parent_id":404475137,
     "wof:placetype":"postalcode",

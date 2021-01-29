@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007619,
-    "geom:area_square_m":71149032.398167,
+    "geom:area_square_m":71149032.398163,
     "geom:bbox":"-82.054991,40.867904,-81.950479,41.015404",
     "geom:latitude":40.952669,
     "geom:longitude":-81.998504,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.951918,
     "lbl:longitude":-81.999755,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Burbank",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404524199,
         85633793,
-        102084731
+        102084731,
+        404524199,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776697"
     },
     "wof:country":"US",
-    "wof:geomhash":"206a30220342af7179f066e563c2f7c5",
+    "wof:geomhash":"539d2020742747ed0ef2c827c1ec61b5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554721053,
-    "wof:lastmodified":1480831406,
+    "wof:lastmodified":1611184954,
     "wof:name":"44214",
     "wof:parent_id":404524199,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034788,
-    "geom:area_square_m":344577280.513749,
+    "geom:area_square_m":344577280.513583,
     "geom:bbox":"-80.847446,36.632379,-80.483195,36.914981",
     "geom:latitude":36.769567,
     "geom:longitude":-80.701443,
@@ -14,19 +14,24 @@
     "lbl:latitude":36.770411,
     "lbl:longitude":-80.690913,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hillsville",
+    "mz:postal_locality_alt":[
+        "Dugspur"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688747,
-        102084965
+        102084965,
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12767778"
     },
     "wof:country":"US",
-    "wof:geomhash":"3abcb6f31ee8137e4be8bdf25733978a",
+    "wof:geomhash":"85d20c6e8f3b5d1e73123f168bbf054e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554708841,
-    "wof:lastmodified":1480914202,
+    "wof:lastmodified":1611182791,
     "wof:name":"24343",
     "wof:parent_id":102084965,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007566,
-    "geom:area_square_m":70985709.989517,
+    "geom:area_square_m":70985709.989523,
     "geom:bbox":"-78.920606,40.565767,-78.730135,40.707369",
     "geom:latitude":40.645344,
     "geom:longitude":-78.823128,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.651306,
     "lbl:longitude":-78.825059,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Barnesboro",
+    "mz:postal_locality_alt":[
+        "Northern Cambria"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485031,
         85633793,
-        102080879
+        102080879,
+        404485031,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763972"
     },
     "wof:country":"US",
-    "wof:geomhash":"6b36d4845f8cd4f531d3837eb069579a",
+    "wof:geomhash":"51710031decb981fc2bfc97a36a342f0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554704003,
-    "wof:lastmodified":1480903615,
+    "wof:lastmodified":1611184514,
     "wof:name":"15714",
     "wof:parent_id":404485031,
     "wof:placetype":"postalcode",

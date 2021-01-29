@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022586,
-    "geom:area_square_m":233397582.374484,
+    "geom:area_square_m":233397582.374739,
     "geom:bbox":"-91.143667,33.210758,-90.922797,33.44625",
     "geom:latitude":33.309864,
     "geom:longitude":-91.043833,
@@ -13,19 +13,24 @@
     "lbl:latitude":33.310738,
     "lbl:longitude":-91.044262,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Greenville",
+    "mz:postal_locality_alt":[
+        "Glen Allan"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688579,
-        102086675
+        102086675,
+        85688579
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12774602"
     },
     "wof:country":"US",
-    "wof:geomhash":"9cec4735ccbcaa53037f11c94005e938",
+    "wof:geomhash":"a9a31dd6d85484dfb1eecfb20df8dfdb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +41,7 @@
         }
     ],
     "wof:id":554717847,
-    "wof:lastmodified":1480911108,
+    "wof:lastmodified":1611185025,
     "wof:name":"38701",
     "wof:parent_id":102086675,
     "wof:placetype":"postalcode",

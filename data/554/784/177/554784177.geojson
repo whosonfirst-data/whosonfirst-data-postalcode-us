@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000896,
-    "geom:area_square_m":9201065.816698,
+    "geom:area_square_m":9201065.81673,
     "geom:bbox":"-118.206031,33.789843,-118.139219,33.831879",
     "geom:latitude":33.804498,
     "geom:longitude":-118.187585,
@@ -13,20 +13,26 @@
     "lbl:latitude":33.805401,
     "lbl:longitude":-118.187701,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Long Beach",
+    "mz:postal_locality_alt":[
+        "Signal Hill",
+        "Long Beach Twp"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086957,
         85923525,
-        102086957
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795862"
     },
     "wof:country":"US",
-    "wof:geomhash":"661ea2cc2e6da4b1ec78b77b9c2293c7",
+    "wof:geomhash":"953062b61237cbbfd9d369d07623801a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554784177,
-    "wof:lastmodified":1480912627,
+    "wof:lastmodified":1611183959,
     "wof:name":"90806",
     "wof:parent_id":85923525,
     "wof:placetype":"postalcode",

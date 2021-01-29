@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002278,
-    "geom:area_square_m":24121003.322305,
+    "geom:area_square_m":24121003.322355,
     "geom:bbox":"-93.237261,31.028981,-93.183513,31.116474",
     "geom:latitude":31.076669,
     "geom:longitude":-93.217895,
@@ -14,20 +14,25 @@
     "lbl:latitude":31.049335,
     "lbl:longitude":-93.223895,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Leesville",
+    "mz:postal_locality_alt":[
+        "Fort Polk"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688735,
         102191575,
         85633793,
+        102086691,
         85948597,
-        102086691
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12788798"
     },
     "wof:country":"US",
-    "wof:geomhash":"6a3d9e953e701caf11c27d008d387b02",
+    "wof:geomhash":"921a5be0b4d195f2be239b51eb1ad12e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554741495,
-    "wof:lastmodified":1480914137,
+    "wof:lastmodified":1611184080,
     "wof:name":"71459",
     "wof:parent_id":85948597,
     "wof:placetype":"postalcode",

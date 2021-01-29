@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016696,
-    "geom:area_square_m":165702891.535756,
+    "geom:area_square_m":165702891.535862,
     "geom:bbox":"-88.890371,36.547222,-88.633257,36.684022",
     "geom:latitude":36.616022,
     "geom:longitude":-88.746712,
@@ -14,19 +14,25 @@
     "lbl:latitude":36.621222,
     "lbl:longitude":-88.747697,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wingo",
+    "mz:postal_locality_alt":[
+        "Hickory",
+        "Water Valley"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688641,
-        102084645
+        102084645,
+        85688641
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12775842"
     },
     "wof:country":"US",
-    "wof:geomhash":"677c7ccbaa4360635eec16d49a996b3e",
+    "wof:geomhash":"3e466e342cf29222c748df900b5189ed",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554719793,
-    "wof:lastmodified":1480799244,
+    "wof:lastmodified":1611184923,
     "wof:name":"42088",
     "wof:parent_id":102084645,
     "wof:placetype":"postalcode",

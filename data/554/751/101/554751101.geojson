@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003168,
-    "geom:area_square_m":31387781.746803,
+    "geom:area_square_m":31387781.746836,
     "geom:bbox":"-108.39598,36.720407,-108.29287,36.768791",
     "geom:latitude":36.743995,
     "geom:longitude":-108.345034,
@@ -14,20 +14,25 @@
     "lbl:latitude":36.748725,
     "lbl:longitude":-108.345707,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Kirtland",
+    "mz:postal_locality_alt":[
+        "Fruitland"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688493,
         102191575,
         85633793,
+        102081171,
         85977239,
-        102081171
+        85688493
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795027"
     },
     "wof:country":"US",
-    "wof:geomhash":"d997055c081232af8dca9bbf301ce2d1",
+    "wof:geomhash":"ed8d3539ec8ac39bea0dcf99bd703e9d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554751101,
-    "wof:lastmodified":1480823170,
+    "wof:lastmodified":1611184347,
     "wof:name":"87417",
     "wof:parent_id":85977239,
     "wof:placetype":"postalcode",

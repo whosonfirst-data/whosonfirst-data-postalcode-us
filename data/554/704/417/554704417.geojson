@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011155,
-    "geom:area_square_m":104309502.406819,
+    "geom:area_square_m":104309502.40676,
     "geom:bbox":"-79.215305,40.812965,-79.051522,40.910884",
     "geom:latitude":40.866643,
     "geom:longitude":-79.137573,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.855267,
     "lbl:longitude":-79.134458,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Smicksburg",
+    "mz:postal_locality_alt":[
+        "Marienville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404483493,
         85633793,
-        102081387
+        102081387,
+        404483493,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764232"
     },
     "wof:country":"US",
-    "wof:geomhash":"f33583231adc6f143544dcfed255d93d",
+    "wof:geomhash":"752777cb8b981519195f41f16fbceed5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554704417,
-    "wof:lastmodified":1480836892,
+    "wof:lastmodified":1611184510,
     "wof:name":"16256",
     "wof:parent_id":404483493,
     "wof:placetype":"postalcode",

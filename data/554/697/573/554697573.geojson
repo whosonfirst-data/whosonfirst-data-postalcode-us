@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011429,
-    "geom:area_square_m":105535205.441353,
+    "geom:area_square_m":105535205.441304,
     "geom:bbox":"-71.74337,41.657676,-71.532306,41.731288",
     "geom:latitude":41.690887,
     "geom:longitude":-71.619735,
@@ -14,20 +14,26 @@
     "lbl:latitude":41.696499,
     "lbl:longitude":-71.622662,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Coventry",
+    "mz:postal_locality_alt":[
+        "Lincoln",
+        "Jamestown"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688509,
         102191575,
-        404488309,
         85633793,
-        102081209
+        102081209,
+        404488309,
+        85688509
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758996"
     },
     "wof:country":"US",
-    "wof:geomhash":"87158122650793c692e67848a3596352",
+    "wof:geomhash":"c372d96f962333732369d196c2c0481b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554697573,
-    "wof:lastmodified":1480823254,
+    "wof:lastmodified":1611184650,
     "wof:name":"02816",
     "wof:parent_id":404488309,
     "wof:placetype":"postalcode",

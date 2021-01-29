@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002093,
-    "geom:area_square_m":19071796.459248,
+    "geom:area_square_m":19071796.459247,
     "geom:bbox":"-83.20438,42.503244,-83.12145,42.54032",
     "geom:latitude":42.519203,
     "geom:longitude":-83.164363,
@@ -13,21 +13,26 @@
     "lbl:latitude":42.519204,
     "lbl:longitude":-83.164362,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Royal Oak",
+    "mz:postal_locality_alt":[
+        "Clawson"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404508301,
         85633793,
+        102083713,
+        404508301,
         85951993,
-        102083713
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778571"
     },
     "wof:country":"US",
-    "wof:geomhash":"581692f75cecb43b7a0ffab1e8e6eccd",
+    "wof:geomhash":"aa4ea1b54bf1a1a5bb608708f107aa83",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554723903,
-    "wof:lastmodified":1480834710,
+    "wof:lastmodified":1611183796,
     "wof:name":"48073",
     "wof:parent_id":85951993,
     "wof:placetype":"postalcode",

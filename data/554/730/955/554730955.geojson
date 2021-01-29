@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033409,
-    "geom:area_square_m":294813992.489651,
+    "geom:area_square_m":294813992.489583,
     "geom:bbox":"-97.028456,44.369612,-96.75688,44.543832",
     "geom:latitude":44.467971,
     "geom:longitude":-96.920395,
@@ -14,20 +14,22 @@
     "lbl:latitude":44.467055,
     "lbl:longitude":-96.917466,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bruce",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688693,
         102191575,
-        404488389,
         85633793,
-        102086013
+        102086013,
+        404488389,
+        85688693
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782795"
     },
     "wof:country":"US",
-    "wof:geomhash":"861e0a29a984e28d91738ca8fb0f8b40",
+    "wof:geomhash":"18524e0281d0f251dab0b0cc63415ad9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554730955,
-    "wof:lastmodified":1480913564,
+    "wof:lastmodified":1611182724,
     "wof:name":"57220",
     "wof:parent_id":404488389,
     "wof:placetype":"postalcode",

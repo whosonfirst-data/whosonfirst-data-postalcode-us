@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005252,
-    "geom:area_square_m":43965343.594093,
+    "geom:area_square_m":43965343.594126,
     "geom:bbox":"-122.309524,47.34633,-122.217459,47.441233",
     "geom:latitude":47.392319,
     "geom:longitude":-122.258719,
@@ -13,20 +13,25 @@
     "lbl:latitude":47.391942,
     "lbl:longitude":-122.257192,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Kent",
+    "mz:postal_locality_alt":[
+        "Federal Way"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688623,
         102191575,
         85633793,
+        102086191,
         101730431,
-        102086191
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12798905"
     },
     "wof:country":"US",
-    "wof:geomhash":"4a82394fcd4fa9238bf49e067f638626",
+    "wof:geomhash":"3589ddc2cf841a4374d331f49b7c2fb3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554755381,
-    "wof:lastmodified":1480915590,
+    "wof:lastmodified":1611182610,
     "wof:name":"98032",
     "wof:parent_id":101730431,
     "wof:placetype":"postalcode",

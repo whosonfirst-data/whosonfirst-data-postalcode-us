@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035809,
-    "geom:area_square_m":331350964.871287,
+    "geom:area_square_m":331350964.87132,
     "geom:bbox":"-98.291475,41.480541,-98.022469,41.646807",
     "geom:latitude":41.554391,
     "geom:longitude":-98.162339,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.55901,
     "lbl:longitude":-98.174381,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cedar Rapids",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688563,
         102191575,
-        404519443,
         85633793,
-        102082795
+        102082795,
+        404519443,
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787741"
     },
     "wof:country":"US",
-    "wof:geomhash":"3fed3fa4a0d6f75db119087b400fca24",
+    "wof:geomhash":"1fe1d8e09ce60823f59a669a8dec21c8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554739913,
-    "wof:lastmodified":1480838221,
+    "wof:lastmodified":1611182665,
     "wof:name":"68627",
     "wof:parent_id":404519443,
     "wof:placetype":"postalcode",

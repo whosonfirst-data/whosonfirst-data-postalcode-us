@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001393,
-    "geom:area_square_m":15440847.738223,
+    "geom:area_square_m":15440847.738226,
     "geom:bbox":"-98.037803,26.278611,-97.976832,26.317175",
     "geom:latitude":26.297375,
     "geom:longitude":-97.999974,
@@ -14,20 +14,25 @@
     "lbl:latitude":26.297375,
     "lbl:longitude":-97.999973,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Elsa",
+    "mz:postal_locality_alt":[
+        "Edcouch"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102083831,
         101723561,
-        102083831
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12792160"
     },
     "wof:country":"US",
-    "wof:geomhash":"34f6b6dd655aa9745506b7143a832c6b",
+    "wof:geomhash":"577bb76c30c7dd17bac71dc8e63fcb10",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554777503,
-    "wof:lastmodified":1480835007,
+    "wof:lastmodified":1611183909,
     "wof:name":"78543",
     "wof:parent_id":101723561,
     "wof:placetype":"postalcode",

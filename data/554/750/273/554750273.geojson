@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002409,
-    "geom:area_square_m":24812472.222588,
+    "geom:area_square_m":24812472.222573,
     "geom:bbox":"-112.151518,33.571264,-112.063321,33.611102",
     "geom:latitude":33.595029,
     "geom:longitude":-112.110279,
@@ -13,20 +13,25 @@
     "lbl:latitude":33.594738,
     "lbl:longitude":-112.109861,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Phoenix",
+    "mz:postal_locality_alt":[
+        "Glendale"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688719,
         102191575,
         85633793,
+        102087421,
         85917479,
-        102087421
+        85688719
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12794413"
     },
     "wof:country":"US",
-    "wof:geomhash":"b6a6aa08c23497335edb2f0ce6674db4",
+    "wof:geomhash":"284ca175ecdba32900a1fd61803ffe9e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554750273,
-    "wof:lastmodified":1480786588,
+    "wof:lastmodified":1611184533,
     "wof:name":"85029",
     "wof:parent_id":85917479,
     "wof:placetype":"postalcode",

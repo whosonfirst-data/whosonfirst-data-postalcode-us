@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007089,
-    "geom:area_square_m":67932058.777273,
+    "geom:area_square_m":67932058.777248,
     "geom:bbox":"-84.795314,39.124452,-84.666147,39.253117",
     "geom:latitude":39.198345,
     "geom:longitude":-84.734045,
@@ -14,21 +14,26 @@
     "lbl:latitude":39.196717,
     "lbl:longitude":-84.757565,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cleves",
+    "mz:postal_locality_alt":[
+        "Miamitown"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404525369,
         85633793,
+        102083687,
+        404525369,
         101713715,
-        102083687
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777025"
     },
     "wof:country":"US",
-    "wof:geomhash":"ec5ba696e2843dabcfeb55581e208dab",
+    "wof:geomhash":"3b1898feada0af6e777deca89dd6a2b0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554721573,
-    "wof:lastmodified":1480838317,
+    "wof:lastmodified":1611184962,
     "wof:name":"45002",
     "wof:parent_id":101713715,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001762,
-    "geom:area_square_m":16914277.782033,
+    "geom:area_square_m":16914277.782061,
     "geom:bbox":"-84.474461,39.045763,-84.433365,39.111334",
     "geom:latitude":39.079662,
     "geom:longitude":-84.451232,
@@ -14,20 +14,27 @@
     "lbl:latitude":39.081975,
     "lbl:longitude":-84.453172,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fort Thomas",
+    "mz:postal_locality_alt":[
+        "Flemingsburg",
+        "Silver Grove",
+        "Crittenden"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688641,
         102191575,
         85633793,
+        102085439,
         85946855,
-        102085439
+        85688641
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12775510"
     },
     "wof:country":"US",
-    "wof:geomhash":"1fdad51e753cf85901c8e132b2137bcc",
+    "wof:geomhash":"eeecbd2a0a9d441aa1d333a616930287",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554719231,
-    "wof:lastmodified":1480838315,
+    "wof:lastmodified":1611184932,
     "wof:name":"41075",
     "wof:parent_id":85946855,
     "wof:placetype":"postalcode",

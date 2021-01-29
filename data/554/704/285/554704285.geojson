@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006171,
-    "geom:area_square_m":57844532.350594,
+    "geom:area_square_m":57844532.35059,
     "geom:bbox":"-80.152562,40.673669,-80.055892,40.745253",
     "geom:latitude":40.711088,
     "geom:longitude":-80.105873,
@@ -14,20 +14,28 @@
     "lbl:latitude":40.709967,
     "lbl:longitude":-80.105642,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cranberry Twp",
+    "mz:postal_locality_alt":[
+        "Cranberry Township",
+        "Evans City",
+        "Cranberry",
+        "Zelienople"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485077,
         85633793,
-        102083677
+        102083677,
+        404485077,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764148"
     },
     "wof:country":"US",
-    "wof:geomhash":"33935e3cfbe3b9064192ec378bc068dd",
+    "wof:geomhash":"b3a1fa45e1938b856edf630d306932f5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +47,7 @@
         }
     ],
     "wof:id":554704285,
-    "wof:lastmodified":1480905385,
+    "wof:lastmodified":1611184512,
     "wof:name":"16066",
     "wof:parent_id":404485077,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000523,
-    "geom:area_square_m":4895251.291692,
+    "geom:area_square_m":4895251.291695,
     "geom:bbox":"-74.035684,40.838998,-74.004683,40.868999",
     "geom:latitude":40.854351,
     "geom:longitude":-74.019895,
@@ -14,21 +14,28 @@
     "lbl:latitude":40.854705,
     "lbl:longitude":-74.019926,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ridgefield Park",
+    "mz:postal_locality_alt":[
+        "Paramus",
+        "South Hackensack",
+        "Saddle Brook"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477301,
         85633793,
+        102086773,
+        404477301,
         85975933,
-        102086773
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760828"
     },
     "wof:country":"US",
-    "wof:geomhash":"edc0819f67d4386062444b2eecf674b4",
+    "wof:geomhash":"d7db449847c9d03a284df93536d00a83",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +48,7 @@
         }
     ],
     "wof:id":554700143,
-    "wof:lastmodified":1480908561,
+    "wof:lastmodified":1611183190,
     "wof:name":"07660",
     "wof:parent_id":85975933,
     "wof:placetype":"postalcode",

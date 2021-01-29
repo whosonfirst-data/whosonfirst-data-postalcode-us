@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016269,
-    "geom:area_square_m":167459085.136773,
+    "geom:area_square_m":167459085.136515,
     "geom:bbox":"-86.645784,33.544584,-86.489329,33.74797",
     "geom:latitude":33.650462,
     "geom:longitude":-86.564222,
@@ -14,20 +14,25 @@
     "lbl:latitude":33.655407,
     "lbl:longitude":-86.563109,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Trussville",
+    "mz:postal_locality_alt":[
+        "Birmingham"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688675,
         102191575,
         85633793,
+        102085481,
         85913473,
-        102085481
+        85688675
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12772998"
     },
     "wof:country":"US",
-    "wof:geomhash":"026122ce430e88153f78f06c120b8181",
+    "wof:geomhash":"8dba132eee29fd547436d15cb808677c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554715271,
-    "wof:lastmodified":1480808993,
+    "wof:lastmodified":1611183675,
     "wof:name":"35173",
     "wof:parent_id":85913473,
     "wof:placetype":"postalcode",

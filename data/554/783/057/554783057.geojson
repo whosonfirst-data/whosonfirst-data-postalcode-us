@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.070258,
-    "geom:area_square_m":602140738.049251,
+    "geom:area_square_m":602140738.049133,
     "geom:bbox":"-90.926275,45.980505,-90.3447,46.262305",
     "geom:latitude":46.123305,
     "geom:longitude":-90.664318,
@@ -14,20 +14,22 @@
     "lbl:latitude":46.125898,
     "lbl:longitude":-90.685679,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Glidden",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404491483,
         85633793,
-        102081839
+        102081839,
+        404491483,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781378"
     },
     "wof:country":"US",
-    "wof:geomhash":"27c3acc055f330a11823889f63c0a52e",
+    "wof:geomhash":"13c435afcb1fa7e4222214716e45e0f8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554783057,
-    "wof:lastmodified":1480829392,
+    "wof:lastmodified":1611183901,
     "wof:name":"54527",
     "wof:parent_id":404491483,
     "wof:placetype":"postalcode",

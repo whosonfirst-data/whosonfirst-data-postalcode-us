@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016819,
-    "geom:area_square_m":168669613.604493,
+    "geom:area_square_m":168669613.604363,
     "geom:bbox":"-86.272106,35.725077,-86.096397,35.878945",
     "geom:latitude":35.804016,
     "geom:longitude":-86.192681,
@@ -14,19 +14,24 @@
     "lbl:latitude":35.804004,
     "lbl:longitude":-86.192696,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Readyville",
+    "mz:postal_locality_alt":[
+        "Murfreesboro"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688701,
-        102086355
+        102086355,
+        85688701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12773847"
     },
     "wof:country":"US",
-    "wof:geomhash":"fde123d7471be67a7a4e7ac1385b7015",
+    "wof:geomhash":"7b5b9701853a085dc161ef989d384746",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554716583,
-    "wof:lastmodified":1480913808,
+    "wof:lastmodified":1611185402,
     "wof:name":"37149",
     "wof:parent_id":102086355,
     "wof:placetype":"postalcode",

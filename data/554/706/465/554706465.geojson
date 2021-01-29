@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006183,
-    "geom:area_square_m":58365786.199236,
+    "geom:area_square_m":58365786.199221,
     "geom:bbox":"-75.377667,40.177605,-75.214133,40.274395",
     "geom:latitude":40.231973,
     "geom:longitude":-75.303678,
@@ -14,20 +14,32 @@
     "lbl:latitude":40.232327,
     "lbl:longitude":-75.303915,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lansdale",
+    "mz:postal_locality_alt":[
+        "North Wales",
+        "Spring House",
+        "Kulpsville",
+        "Worcester",
+        "Montgomeryville",
+        "Upper Gwynedd",
+        "Cedars",
+        "Montgomery Township"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485707,
         85633793,
-        102081355
+        102081355,
+        404485707,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765647"
     },
     "wof:country":"US",
-    "wof:geomhash":"2e7e6dcbad6e1579fdd4a7003a05b124",
+    "wof:geomhash":"6c2fe0726a677b538a0800f8dade2d6c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +51,7 @@
         }
     ],
     "wof:id":554706465,
-    "wof:lastmodified":1480906420,
+    "wof:lastmodified":1611182695,
     "wof:name":"19446",
     "wof:parent_id":404485707,
     "wof:placetype":"postalcode",

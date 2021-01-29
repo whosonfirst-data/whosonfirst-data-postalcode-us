@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007079,
-    "geom:area_square_m":64333885.963006,
+    "geom:area_square_m":64333885.963012,
     "geom:bbox":"-82.6106,42.653225,-82.483623,42.728547",
     "geom:latitude":42.696635,
     "geom:longitude":-82.550548,
@@ -14,20 +14,25 @@
     "lbl:latitude":42.692906,
     "lbl:longitude":-82.546478,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Marine City",
+    "mz:postal_locality_alt":[
+        "Cottrellville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404508867,
         85633793,
-        102083053
+        102083053,
+        404508867,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778543"
     },
     "wof:country":"US",
-    "wof:geomhash":"5febb1c3e4d80b3007fd250eab1014e4",
+    "wof:geomhash":"c848584a669f001e086c98c6cb6918a4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554782493,
-    "wof:lastmodified":1480842996,
+    "wof:lastmodified":1611183627,
     "wof:name":"48039",
     "wof:parent_id":404508867,
     "wof:placetype":"postalcode",

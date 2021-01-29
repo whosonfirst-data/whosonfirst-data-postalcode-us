@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003339,
-    "geom:area_square_m":30828908.472755,
+    "geom:area_square_m":30828908.472742,
     "geom:bbox":"-91.642264,41.666382,-91.548375,41.72334",
     "geom:latitude":41.698594,
     "geom:longitude":-91.594762,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.699577,
     "lbl:longitude":-91.595951,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Coralville",
+    "mz:postal_locality_alt":[
+        "Iowa City"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688713,
         102191575,
         85633793,
+        102086417,
         85944183,
-        102086417
+        85688713
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12780524"
     },
     "wof:country":"US",
-    "wof:geomhash":"55c41e61a80a469b3d08833efca86e59",
+    "wof:geomhash":"ab897d78e8f40e2e0fc5c8f71b88b833",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554727023,
-    "wof:lastmodified":1480910744,
+    "wof:lastmodified":1611185497,
     "wof:name":"52241",
     "wof:parent_id":85944183,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002156,
-    "geom:area_square_m":20178755.841556,
+    "geom:area_square_m":20178755.841549,
     "geom:bbox":"-76.26075,40.794628,-76.147229,40.847669",
     "geom:latitude":40.820832,
     "geom:longitude":-76.209707,
@@ -14,21 +14,26 @@
     "lbl:latitude":40.819867,
     "lbl:longitude":-76.210606,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Shenandoah",
+    "mz:postal_locality_alt":[
+        "Pine Grove"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404483845,
         85633793,
+        102081271,
+        404483845,
         101717567,
-        102081271
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765003"
     },
     "wof:country":"US",
-    "wof:geomhash":"6f49c213289e35bd75cc31c21d8f99fe",
+    "wof:geomhash":"9474dcc5b885191e4abff8104629b42f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554705533,
-    "wof:lastmodified":1480823247,
+    "wof:lastmodified":1611184092,
     "wof:name":"17976",
     "wof:parent_id":101717567,
     "wof:placetype":"postalcode",

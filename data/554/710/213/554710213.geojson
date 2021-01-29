@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037252,
-    "geom:area_square_m":355603757.95709,
+    "geom:area_square_m":355603757.957656,
     "geom:bbox":"-80.265124,39.3744,-79.944952,39.582948",
     "geom:latitude":39.466794,
     "geom:longitude":-80.114855,
@@ -13,19 +13,25 @@
     "lbl:latitude":39.465392,
     "lbl:longitude":-80.109845,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fairmont",
+    "mz:postal_locality_alt":[
+        "Morgantown",
+        "Monongah"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688589,
-        102082601
+        102082601,
+        85688589
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12768769"
     },
     "wof:country":"US",
-    "wof:geomhash":"a65841e47f4434fd4833628229951c33",
+    "wof:geomhash":"b1660afbd98b73310cfe1074728df5da",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +42,7 @@
         }
     ],
     "wof:id":554710213,
-    "wof:lastmodified":1480840621,
+    "wof:lastmodified":1611185129,
     "wof:name":"26554",
     "wof:parent_id":102082601,
     "wof:placetype":"postalcode",

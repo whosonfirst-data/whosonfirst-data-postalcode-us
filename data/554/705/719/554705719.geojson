@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01216,
-    "geom:area_square_m":113107490.036328,
+    "geom:area_square_m":113107490.036363,
     "geom:bbox":"-75.314382,41.143936,-75.129721,41.286713",
     "geom:latitude":41.213987,
     "geom:longitude":-75.220012,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.204726,
     "lbl:longitude":-75.225359,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Canadensis",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404483767,
         85633793,
-        102080945
+        102080945,
+        404483767,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765134"
     },
     "wof:country":"US",
-    "wof:geomhash":"7327c580b83f1a8b3acfc7507d062632",
+    "wof:geomhash":"ce37b8c48a138b42e700adbc804eda7a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554705719,
-    "wof:lastmodified":1480906476,
+    "wof:lastmodified":1611184127,
     "wof:name":"18325",
     "wof:parent_id":404483767,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.100369,
-    "geom:area_square_m":981634391.137071,
+    "geom:area_square_m":981634391.137109,
     "geom:bbox":"-100.227491,37.546436,-99.7971,37.914018",
     "geom:latitude":37.725268,
     "geom:longitude":-100.055016,
@@ -14,20 +14,26 @@
     "lbl:latitude":37.723603,
     "lbl:longitude":-100.057187,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Dodge City",
+    "mz:postal_locality_alt":[
+        "Fort Dodge",
+        "Ensign"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404503637,
         85633793,
-        102082141
+        102082141,
+        404503637,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787420"
     },
     "wof:country":"US",
-    "wof:geomhash":"1ddef268551a6f7598edb82b0d2bfe65",
+    "wof:geomhash":"8dcf98e50073a147f845e4cf318ea628",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554739287,
-    "wof:lastmodified":1480841099,
+    "wof:lastmodified":1611182654,
     "wof:name":"67801",
     "wof:parent_id":404503637,
     "wof:placetype":"postalcode",

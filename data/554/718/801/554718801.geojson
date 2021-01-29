@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003176,
-    "geom:area_square_m":30841144.993541,
+    "geom:area_square_m":30841144.993522,
     "geom:bbox":"-85.59103,38.2225,-85.499924,38.287916",
     "geom:latitude":38.25994,
     "geom:longitude":-85.541828,
@@ -14,20 +14,25 @@
     "lbl:latitude":38.258349,
     "lbl:longitude":-85.539878,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Louisville",
+    "mz:postal_locality_alt":[
+        "Anchorage"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688641,
         102191575,
         85633793,
+        102084449,
         85947437,
-        102084449
+        85688641
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12775185"
     },
     "wof:country":"US",
-    "wof:geomhash":"ff364a3045339098cf199432a84311da",
+    "wof:geomhash":"55bad214ad563e3a4e31fd030258a6ed",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554718801,
-    "wof:lastmodified":1480802912,
+    "wof:lastmodified":1611185586,
     "wof:name":"40223",
     "wof:parent_id":85947437,
     "wof:placetype":"postalcode",

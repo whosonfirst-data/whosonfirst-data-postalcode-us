@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00175,
-    "geom:area_square_m":16819016.118451,
+    "geom:area_square_m":16819016.118435,
     "geom:bbox":"-94.659286,38.978569,-94.607483,39.033869",
     "geom:latitude":38.999317,
     "geom:longitude":-94.629505,
@@ -14,21 +14,27 @@
     "lbl:latitude":38.997529,
     "lbl:longitude":-94.628369,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Shawnee Mission",
+    "mz:postal_locality_alt":[
+        "Prairie Village",
+        "Mission Hills"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404504399,
         85633793,
+        102082673,
+        404504399,
         85945757,
-        102082673
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786796"
     },
     "wof:country":"US",
-    "wof:geomhash":"32d5ea639e6e3993957d6ef82626f3d4",
+    "wof:geomhash":"b0cafb3ed999986ea7ca0b005f10f31c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554738027,
-    "wof:lastmodified":1480816990,
+    "wof:lastmodified":1611183116,
     "wof:name":"66208",
     "wof:parent_id":85945757,
     "wof:placetype":"postalcode",

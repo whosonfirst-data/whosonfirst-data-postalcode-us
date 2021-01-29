@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041623,
-    "geom:area_square_m":431937916.411594,
+    "geom:area_square_m":431937916.411755,
     "geom:bbox":"-100.004725,32.809514,-99.680198,33.081473",
     "geom:latitude":32.938837,
     "geom:longitude":-99.842643,
@@ -14,19 +14,24 @@
     "lbl:latitude":32.940911,
     "lbl:longitude":-99.850964,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Stamford",
+    "mz:postal_locality_alt":[
+        "Denton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688753,
-        102081979
+        102081979,
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12792690"
     },
     "wof:country":"US",
-    "wof:geomhash":"945a99079329e5aa8cc38f8ad1f7b1d0",
+    "wof:geomhash":"344fd999532a2ac049d0c19c9483b76b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554747695,
-    "wof:lastmodified":1480841033,
+    "wof:lastmodified":1611183462,
     "wof:name":"79553",
     "wof:parent_id":102081979,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001531,
-    "geom:area_square_m":14350503.013698,
+    "geom:area_square_m":14350503.013695,
     "geom:bbox":"-73.54569,40.702175,-73.488728,40.744204",
     "geom:latitude":40.725451,
     "geom:longitude":-73.516582,
@@ -14,21 +14,26 @@
     "lbl:latitude":40.724512,
     "lbl:longitude":-73.516326,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Levittown",
+    "mz:postal_locality_alt":[
+        "Bellport"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404521473,
         85633793,
+        102082371,
+        404521473,
         85979123,
-        102082371
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761943"
     },
     "wof:country":"US",
-    "wof:geomhash":"4112875de50dddda513022e67187ab7a",
+    "wof:geomhash":"02f9c2b355e89fe8a57a25e3a87ba1d5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554779909,
-    "wof:lastmodified":1480790619,
+    "wof:lastmodified":1611183962,
     "wof:name":"11756",
     "wof:parent_id":85979123,
     "wof:placetype":"postalcode",

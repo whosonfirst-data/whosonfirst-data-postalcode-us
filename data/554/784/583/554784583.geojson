@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000567,
-    "geom:area_square_m":5731158.836298,
+    "geom:area_square_m":5731158.836299,
     "geom:bbox":"-120.640144,35.105481,-120.604764,35.134368",
     "geom:latitude":35.120672,
     "geom:longitude":-120.619507,
@@ -13,20 +13,26 @@
     "lbl:latitude":35.120888,
     "lbl:longitude":-120.619664,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Grover Beach",
+    "mz:postal_locality_alt":[
+        "San Luis Obispo",
+        "Arroyo Grande"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102085385,
         85922309,
-        102085385
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796862"
     },
     "wof:country":"US",
-    "wof:geomhash":"ed6fb7b5067be2039902c2172ff00ca7",
+    "wof:geomhash":"d4f3c273928bd61cf5f2a287eb57313a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554784583,
-    "wof:lastmodified":1480809826,
+    "wof:lastmodified":1611183960,
     "wof:name":"93433",
     "wof:parent_id":85922309,
     "wof:placetype":"postalcode",

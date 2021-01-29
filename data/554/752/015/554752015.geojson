@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000623,
-    "geom:area_square_m":6378560.206398,
+    "geom:area_square_m":6378560.2064,
     "geom:bbox":"-118.414181,34.150256,-118.387729,34.179408",
     "geom:latitude":34.166145,
     "geom:longitude":-118.400086,
@@ -13,20 +13,28 @@
     "lbl:latitude":34.165783,
     "lbl:longitude":-118.399795,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Valley Village",
+    "mz:postal_locality_alt":[
+        "North Hollywood",
+        "Studio City",
+        "Los Angeles",
+        "San Fernando Valley"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086957,
         85923517,
-        102086957
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796071"
     },
     "wof:country":"US",
-    "wof:geomhash":"49d66bca61cac3ccb2c76966e00ffa1d",
+    "wof:geomhash":"59cb681f90a260c744d1df3153735b0e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +46,7 @@
         }
     ],
     "wof:id":554752015,
-    "wof:lastmodified":1480912604,
+    "wof:lastmodified":1611182517,
     "wof:name":"91607",
     "wof:parent_id":85923517,
     "wof:placetype":"postalcode",

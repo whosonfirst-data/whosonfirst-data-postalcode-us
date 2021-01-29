@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026354,
-    "geom:area_square_m":239993175.848708,
+    "geom:area_square_m":239993175.848803,
     "geom:bbox":"-84.071986,42.49126,-83.746035,42.634403",
     "geom:latitude":42.569028,
     "geom:longitude":-83.926312,
@@ -13,20 +13,25 @@
     "lbl:latitude":42.575522,
     "lbl:longitude":-83.923398,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Howell",
+    "mz:postal_locality_alt":[
+        "Brighton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404507415,
         85633793,
-        102083145
+        102083145,
+        404507415,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779036"
     },
     "wof:country":"US",
-    "wof:geomhash":"1fdea97c1326c7dea96bb67a37abf74f",
+    "wof:geomhash":"f36ffb73a9c4e96787d3551ac6621bbb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554724593,
-    "wof:lastmodified":1480843132,
+    "wof:lastmodified":1611183741,
     "wof:name":"48843",
     "wof:parent_id":404507415,
     "wof:placetype":"postalcode",

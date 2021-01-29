@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0087,
-    "geom:area_square_m":84315387.437597,
+    "geom:area_square_m":84315387.437558,
     "geom:bbox":"-82.118201,38.30639,-82.005879,38.490117",
     "geom:latitude":38.39337,
     "geom:longitude":-82.066422,
@@ -14,19 +14,26 @@
     "lbl:latitude":38.382296,
     "lbl:longitude":-82.082999,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Culloden",
+    "mz:postal_locality_alt":[
+        "Milton",
+        "Scott Depot",
+        "Hurricane"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688589,
-        102083329
+        102083329,
+        85688589
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12768324"
     },
     "wof:country":"US",
-    "wof:geomhash":"5b8bef11b2b8227a44060ffaba569eb0",
+    "wof:geomhash":"a2f82a9398ad60b25e48e6809e41a26b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +44,7 @@
         }
     ],
     "wof:id":554709599,
-    "wof:lastmodified":1480843100,
+    "wof:lastmodified":1611183004,
     "wof:name":"25510",
     "wof:parent_id":102083329,
     "wof:placetype":"postalcode",

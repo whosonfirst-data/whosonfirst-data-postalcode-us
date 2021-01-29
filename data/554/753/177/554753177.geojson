@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034726,
-    "geom:area_square_m":335876198.513863,
+    "geom:area_square_m":335876198.513929,
     "geom:bbox":"-122.569473,38.446391,-122.24413,38.658565",
     "geom:latitude":38.535692,
     "geom:longitude":-122.39271,
@@ -14,19 +14,26 @@
     "lbl:latitude":38.542448,
     "lbl:longitude":-122.419923,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"St Helena",
+    "mz:postal_locality_alt":[
+        "Saint Helena",
+        "Pope Valley",
+        "Rutherford"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688637,
-        102085383
+        102085383,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12797366"
     },
     "wof:country":"US",
-    "wof:geomhash":"b1908766fd835bfd497cf685e9c66ef5",
+    "wof:geomhash":"01bca28656d7c04759506dd161d8bba1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +44,7 @@
         }
     ],
     "wof:id":554753177,
-    "wof:lastmodified":1480816521,
+    "wof:lastmodified":1611182970,
     "wof:name":"94574",
     "wof:parent_id":102085383,
     "wof:placetype":"postalcode",

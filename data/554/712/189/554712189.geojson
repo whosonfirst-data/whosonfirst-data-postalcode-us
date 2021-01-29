@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029387,
-    "geom:area_square_m":303947628.832565,
+    "geom:area_square_m":303947628.832418,
     "geom:bbox":"-80.956824,33.130792,-80.67933,33.335791",
     "geom:latitude":33.231072,
     "geom:longitude":-80.807846,
@@ -14,19 +14,24 @@
     "lbl:latitude":33.231512,
     "lbl:longitude":-80.808866,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Branchville",
+    "mz:postal_locality_alt":[
+        "Charleston"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688683,
-        102085413
+        102085413,
+        85688683
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770177"
     },
     "wof:country":"US",
-    "wof:geomhash":"5f26e9aef50da1ab6955b2a940bd2447",
+    "wof:geomhash":"4f6b34f89dbb35bfe0356d98a044ed97",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554712189,
-    "wof:lastmodified":1480814060,
+    "wof:lastmodified":1611183711,
     "wof:name":"29432",
     "wof:parent_id":102085413,
     "wof:placetype":"postalcode",

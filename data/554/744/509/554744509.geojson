@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035662,
-    "geom:area_square_m":367406939.49709,
+    "geom:area_square_m":367406939.497403,
     "geom:bbox":"-96.315673,33.442684,-96.056714,33.699498",
     "geom:latitude":33.5727,
     "geom:longitude":-96.177641,
@@ -14,20 +14,25 @@
     "lbl:latitude":33.571922,
     "lbl:longitude":-96.170962,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bonham",
+    "mz:postal_locality_alt":[
+        "Mount Pleasant"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102087329,
         101723411,
-        102087329
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12790567"
     },
     "wof:country":"US",
-    "wof:geomhash":"a0b9afaecaee5c603c3f17260e397a90",
+    "wof:geomhash":"934869b015501561d65df319cb120540",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554744509,
-    "wof:lastmodified":1480787826,
+    "wof:lastmodified":1611184736,
     "wof:name":"75418",
     "wof:parent_id":101723411,
     "wof:placetype":"postalcode",

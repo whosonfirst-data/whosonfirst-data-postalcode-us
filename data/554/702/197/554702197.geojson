@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001349,
-    "geom:area_square_m":12177976.803001,
+    "geom:area_square_m":12177976.803002,
     "geom:bbox":"-76.163826,43.091659,-76.081691,43.120461",
     "geom:latitude":43.103572,
     "geom:longitude":-76.119482,
@@ -14,21 +14,26 @@
     "lbl:latitude":43.103572,
     "lbl:longitude":-76.119484,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Syracuse",
+    "mz:postal_locality_alt":[
+        "Mattydale"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522845,
         85633793,
+        102082351,
+        404522845,
         85979209,
-        102082351
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762725"
     },
     "wof:country":"US",
-    "wof:geomhash":"d72214322e18460e472d05933d8ff14e",
+    "wof:geomhash":"8609492d69fa14ccaa89a5e31447880c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554702197,
-    "wof:lastmodified":1480793799,
+    "wof:lastmodified":1611184156,
     "wof:name":"13211",
     "wof:parent_id":85979209,
     "wof:placetype":"postalcode",

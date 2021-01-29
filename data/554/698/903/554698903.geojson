@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01129,
-    "geom:area_square_m":102447397.819183,
+    "geom:area_square_m":102447397.819169,
     "geom:bbox":"-73.142485,42.741059,-73.015111,42.8355",
     "geom:latitude":42.787982,
     "geom:longitude":-73.078461,
@@ -14,20 +14,25 @@
     "lbl:latitude":42.808047,
     "lbl:longitude":-73.076277,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Readsboro",
+    "mz:postal_locality_alt":[
+        "Stamford"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688763,
         102191575,
-        404527227,
         85633793,
-        102087439
+        102087439,
+        404527227,
+        85688763
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759954"
     },
     "wof:country":"US",
-    "wof:geomhash":"e2fa0ac9b0428bfcd64b913253a06b4a",
+    "wof:geomhash":"47483bf691ff79e2951c5a908d336d26",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554698903,
-    "wof:lastmodified":1480803163,
+    "wof:lastmodified":1611184692,
     "wof:name":"05352",
     "wof:parent_id":404527227,
     "wof:placetype":"postalcode",

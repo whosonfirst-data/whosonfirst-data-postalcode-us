@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012581,
-    "geom:area_square_m":117803210.08119,
+    "geom:area_square_m":117803210.081126,
     "geom:bbox":"-84.134636,40.726224,-83.934302,40.833309",
     "geom:latitude":40.77557,
     "geom:longitude":-84.036984,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.772863,
     "lbl:longitude":-84.034098,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lima",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404524749,
         85633793,
-        102083673
+        102083673,
+        404524749,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777448"
     },
     "wof:country":"US",
-    "wof:geomhash":"1cdeb338083490313679063f409168d9",
+    "wof:geomhash":"e3b4edc49c105310e454183fca764e37",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554722225,
-    "wof:lastmodified":1480839040,
+    "wof:lastmodified":1611183239,
     "wof:name":"45801",
     "wof:parent_id":404524749,
     "wof:placetype":"postalcode",

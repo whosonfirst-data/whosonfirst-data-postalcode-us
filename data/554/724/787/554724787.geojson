@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013253,
-    "geom:area_square_m":121354998.213306,
+    "geom:area_square_m":121354998.213338,
     "geom:bbox":"-86.127926,42.147557,-85.956764,42.280068",
     "geom:latitude":42.221056,
     "geom:longitude":-86.048864,
@@ -14,21 +14,27 @@
     "lbl:latitude":42.220886,
     "lbl:longitude":-86.049114,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lawrence",
+    "mz:postal_locality_alt":[
+        "Hartford",
+        "Coloma"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404508219,
         85633793,
+        102083051,
+        404508219,
         85951631,
-        102083051
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779168"
     },
     "wof:country":"US",
-    "wof:geomhash":"acd1a8e9814a2f7cdf5ced068c2afa74",
+    "wof:geomhash":"65e0ce65f80103127721352dde36a81c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554724787,
-    "wof:lastmodified":1480843118,
+    "wof:lastmodified":1611183773,
     "wof:name":"49064",
     "wof:parent_id":85951631,
     "wof:placetype":"postalcode",

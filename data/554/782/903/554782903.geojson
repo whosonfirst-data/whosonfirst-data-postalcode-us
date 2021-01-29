@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.090724,
-    "geom:area_square_m":769125150.639109,
+    "geom:area_square_m":769125150.63922,
     "geom:bbox":"-88.553154,46.546724,-88.11622,46.969003",
     "geom:latitude":46.716734,
     "geom:longitude":-88.317907,
@@ -14,20 +14,25 @@
     "lbl:latitude":46.720894,
     "lbl:longitude":-88.321592,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"L Anse",
+    "mz:postal_locality_alt":[
+        "Lanse"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404506889,
         85633793,
-        102083131
+        102083131,
+        404506889,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779662"
     },
     "wof:country":"US",
-    "wof:geomhash":"9b45a785c946fe4f7bad76d0482b4d12",
+    "wof:geomhash":"1ab4989adc8470926a98caef5b5abfaa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554782903,
-    "wof:lastmodified":1480843189,
+    "wof:lastmodified":1611183619,
     "wof:name":"49946",
     "wof:parent_id":404506889,
     "wof:placetype":"postalcode",

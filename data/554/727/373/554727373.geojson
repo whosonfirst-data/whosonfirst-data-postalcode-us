@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033712,
-    "geom:area_square_m":310259927.269514,
+    "geom:area_square_m":310259927.269277,
     "geom:bbox":"-90.382928,41.782964,-90.149599,42.033427",
     "geom:latitude":41.902169,
     "geom:longitude":-90.250752,
@@ -13,19 +13,25 @@
     "lbl:latitude":41.891044,
     "lbl:longitude":-90.253005,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Clinton",
+    "mz:postal_locality_alt":[
+        "Low Moor",
+        "Andover"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688713,
-        102086301
+        102086301,
+        85688713
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12780705"
     },
     "wof:country":"US",
-    "wof:geomhash":"bd8deb2075f89018bb90b6233357c4eb",
+    "wof:geomhash":"081b226466a02d750d754570b2a39faa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +42,7 @@
         }
     ],
     "wof:id":554727373,
-    "wof:lastmodified":1480916861,
+    "wof:lastmodified":1611185531,
     "wof:name":"52732",
     "wof:parent_id":102086301,
     "wof:placetype":"postalcode",

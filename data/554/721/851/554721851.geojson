@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005464,
-    "geom:area_square_m":51837402.923195,
+    "geom:area_square_m":51837402.923277,
     "geom:bbox":"-84.388525,39.833014,-84.26881,39.938327",
     "geom:latitude":39.897866,
     "geom:longitude":-84.328665,
@@ -14,21 +14,26 @@
     "lbl:latitude":39.899781,
     "lbl:longitude":-84.32783,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Englewood",
+    "mz:postal_locality_alt":[
+        "Union"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404526923,
         85633793,
+        102083667,
+        404526923,
         101712149,
-        102083667
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777213"
     },
     "wof:country":"US",
-    "wof:geomhash":"18a66fe8a0423278c9596d16191a5627",
+    "wof:geomhash":"61ea364d0f350a0469119c36a090d19c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554721851,
-    "wof:lastmodified":1480842992,
+    "wof:lastmodified":1611184955,
     "wof:name":"45322",
     "wof:parent_id":101712149,
     "wof:placetype":"postalcode",

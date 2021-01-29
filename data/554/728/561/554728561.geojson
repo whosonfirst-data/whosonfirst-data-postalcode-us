@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01515,
-    "geom:area_square_m":134960602.387281,
+    "geom:area_square_m":134960602.387215,
     "geom:bbox":"-91.182988,43.830303,-91.000515,43.98495",
     "geom:latitude":43.911731,
     "geom:longitude":-91.091049,
@@ -14,20 +14,22 @@
     "lbl:latitude":43.911245,
     "lbl:longitude":-91.083899,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"West Salem",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404493457,
         85633793,
-        102081301
+        102081301,
+        404493457,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781469"
     },
     "wof:country":"US",
-    "wof:geomhash":"948958393dc09cbfad051561edbd7c29",
+    "wof:geomhash":"5ccc5d5aea842eae7308c5543b2d1f55",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554728561,
-    "wof:lastmodified":1480833245,
+    "wof:lastmodified":1611185048,
     "wof:name":"54669",
     "wof:parent_id":404493457,
     "wof:placetype":"postalcode",

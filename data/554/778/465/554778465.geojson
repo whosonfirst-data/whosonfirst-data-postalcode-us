@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003482,
-    "geom:area_square_m":32148598.384793,
+    "geom:area_square_m":32148598.384743,
     "geom:bbox":"-70.016043,41.638966,-69.935964,41.724994",
     "geom:latitude":41.688927,
     "geom:longitude":-69.972216,
@@ -14,21 +14,26 @@
     "lbl:latitude":41.689734,
     "lbl:longitude":-69.972126,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Chatham",
+    "mz:postal_locality_alt":[
+        "Truro"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404475897,
         85633793,
+        102084379,
+        404475897,
         85950537,
-        102084379
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758905"
     },
     "wof:country":"US",
-    "wof:geomhash":"852bf5fab82099262ab9ce5c612698ca",
+    "wof:geomhash":"ac6ebd1fb7beb8eaefe9fd2b5e13bc7e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554778465,
-    "wof:lastmodified":1480802731,
+    "wof:lastmodified":1611183432,
     "wof:name":"02633",
     "wof:parent_id":85950537,
     "wof:placetype":"postalcode",

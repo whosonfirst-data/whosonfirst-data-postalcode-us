@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015535,
-    "geom:area_square_m":136689898.312476,
+    "geom:area_square_m":136689898.312495,
     "geom:bbox":"-69.780271,44.577264,-69.578873,44.699206",
     "geom:latitude":44.635671,
     "geom:longitude":-69.676234,
@@ -14,20 +14,29 @@
     "lbl:latitude":44.651653,
     "lbl:longitude":-69.661276,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fairfield",
+    "mz:postal_locality_alt":[
+        "Kingfield",
+        "Skowhegan",
+        "Bingham",
+        "Plymouth",
+        "Stockton Springs"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404475287,
         85633793,
-        102087435
+        102087435,
+        404475287,
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759811"
     },
     "wof:country":"US",
-    "wof:geomhash":"059173438e0a2bf856724e987549cc2e",
+    "wof:geomhash":"54295e1f3d8185b60fd1f39e28558504",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +48,7 @@
         }
     ],
     "wof:id":554698643,
-    "wof:lastmodified":1480786870,
+    "wof:lastmodified":1611184679,
     "wof:name":"04937",
     "wof:parent_id":404475287,
     "wof:placetype":"postalcode",

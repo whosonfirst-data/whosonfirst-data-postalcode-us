@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016605,
-    "geom:area_square_m":174429499.191116,
+    "geom:area_square_m":174429499.191161,
     "geom:bbox":"-81.767257,31.751329,-81.464703,31.90241",
     "geom:latitude":31.838034,
     "geom:longitude":-81.610028,
@@ -13,20 +13,25 @@
     "lbl:latitude":31.844789,
     "lbl:longitude":-81.612554,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hinesville",
+    "mz:postal_locality_alt":[
+        "Rincon"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688535,
         102191575,
         85633793,
+        102082901,
         85936767,
-        102082901
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12771191"
     },
     "wof:country":"US",
-    "wof:geomhash":"e611f3e5cd30e40d05bacba779e0f7e1",
+    "wof:geomhash":"099eda91db44c6d683fda3a00217c9f1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554713753,
-    "wof:lastmodified":1480798341,
+    "wof:lastmodified":1611183294,
     "wof:name":"31313",
     "wof:parent_id":85936767,
     "wof:placetype":"postalcode",

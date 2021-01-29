@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000484,
-    "geom:area_square_m":4465003.422509,
+    "geom:area_square_m":4465003.422514,
     "geom:bbox":"-87.840593,41.803682,-87.802268,41.823715",
     "geom:latitude":41.813364,
     "geom:longitude":-87.822069,
@@ -14,21 +14,26 @@
     "lbl:latitude":41.813484,
     "lbl:longitude":-87.823564,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lyons",
+    "mz:postal_locality_alt":[
+        "Summit Argo"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404497627,
         85633793,
+        102084317,
+        404497627,
         85940795,
-        102084317
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784218"
     },
     "wof:country":"US",
-    "wof:geomhash":"1aa5b7b12f2c4aea599785e0ff8a0ac3",
+    "wof:geomhash":"b51a8dde5be7e4ed26dcbf016044a09d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554783335,
-    "wof:lastmodified":1480802059,
+    "wof:lastmodified":1611183892,
     "wof:name":"60534",
     "wof:parent_id":85940795,
     "wof:placetype":"postalcode",

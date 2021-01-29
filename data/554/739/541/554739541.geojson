@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004942,
-    "geom:area_square_m":46041964.644298,
+    "geom:area_square_m":46041964.644333,
     "geom:bbox":"-96.030968,41.056999,-95.966281,41.183265",
     "geom:latitude":41.113544,
     "geom:longitude":-95.999435,
@@ -13,20 +13,25 @@
     "lbl:latitude":41.112564,
     "lbl:longitude":-95.995488,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Papillion",
+    "mz:postal_locality_alt":[
+        "Bellevue"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688563,
         102191575,
-        404520901,
         85633793,
-        102082777
+        102082777,
+        404520901,
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787551"
     },
     "wof:country":"US",
-    "wof:geomhash":"3e358449da089c7319599e2ba5ecf9ba",
+    "wof:geomhash":"6f6810ed9837c99e3fdbeba3d8c942eb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554739541,
-    "wof:lastmodified":1480793078,
+    "wof:lastmodified":1611182680,
     "wof:name":"68133",
     "wof:parent_id":404520901,
     "wof:placetype":"postalcode",

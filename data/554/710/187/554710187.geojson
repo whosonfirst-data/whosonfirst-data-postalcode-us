@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016614,
-    "geom:area_square_m":158218238.851646,
+    "geom:area_square_m":158218238.851565,
     "geom:bbox":"-80.12972,39.548354,-79.931818,39.721401",
     "geom:latitude":39.630191,
     "geom:longitude":-80.041378,
@@ -13,19 +13,24 @@
     "lbl:latitude":39.634091,
     "lbl:longitude":-80.036839,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Morgantown",
+    "mz:postal_locality_alt":[
+        "Westover"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688589,
-        102082587
+        102082587,
+        85688589
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12768742"
     },
     "wof:country":"US",
-    "wof:geomhash":"9e3d30243c0d3f57f50931f04eec5cb4",
+    "wof:geomhash":"deb07a7ff244c5e53f683a89441d7d00",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +41,7 @@
         }
     ],
     "wof:id":554710187,
-    "wof:lastmodified":1480906432,
+    "wof:lastmodified":1611185113,
     "wof:name":"26501",
     "wof:parent_id":102082587,
     "wof:placetype":"postalcode",

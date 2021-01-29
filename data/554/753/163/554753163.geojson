@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009005,
-    "geom:area_square_m":87728280.508403,
+    "geom:area_square_m":87728280.508346,
     "geom:bbox":"-122.005962,37.956022,-121.827667,38.066066",
     "geom:latitude":38.015811,
     "geom:longitude":-121.907017,
@@ -14,20 +14,28 @@
     "lbl:latitude":38.014576,
     "lbl:longitude":-121.906255,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pittsburg",
+    "mz:postal_locality_alt":[
+        "Bay Point",
+        "Antioch",
+        "Concord",
+        "Vallejo"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086225,
         85922139,
-        102086225
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12797357"
     },
     "wof:country":"US",
-    "wof:geomhash":"ab844b50c0478166d7d3513d411f2eb7",
+    "wof:geomhash":"2fa9ed5e581524f1b15526c4cee9d91e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +47,7 @@
         }
     ],
     "wof:id":554753163,
-    "wof:lastmodified":1480908615,
+    "wof:lastmodified":1611182953,
     "wof:name":"94565",
     "wof:parent_id":85922139,
     "wof:placetype":"postalcode",

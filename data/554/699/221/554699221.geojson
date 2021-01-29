@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019248,
-    "geom:area_square_m":168510839.963787,
+    "geom:area_square_m":168510839.963748,
     "geom:bbox":"-72.308968,44.863273,-72.076383,45.006185",
     "geom:latitude":44.927823,
     "geom:longitude":-72.192133,
@@ -14,20 +14,27 @@
     "lbl:latitude":44.927131,
     "lbl:longitude":-72.192236,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Newport",
+    "mz:postal_locality_alt":[
+        "Coventry",
+        "Newport Center",
+        "Derby"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688763,
         102191575,
-        404527263,
         85633793,
-        102087443
+        102087443,
+        404527263,
+        85688763
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760145"
     },
     "wof:country":"US",
-    "wof:geomhash":"0293e9e0817c24fa8ec4cc4a65242b72",
+    "wof:geomhash":"4f98280199962ce72f9b11db81668618",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554699221,
-    "wof:lastmodified":1480784778,
+    "wof:lastmodified":1611184605,
     "wof:name":"05855",
     "wof:parent_id":404527263,
     "wof:placetype":"postalcode",

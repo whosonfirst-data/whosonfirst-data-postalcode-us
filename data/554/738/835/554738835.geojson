@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013529,
-    "geom:area_square_m":133517393.380581,
+    "geom:area_square_m":133517393.380532,
     "geom:bbox":"-95.964746,36.999074,-95.782681,37.113393",
     "geom:latitude":37.046708,
     "geom:longitude":-95.881063,
@@ -14,20 +14,22 @@
     "lbl:latitude":37.045391,
     "lbl:longitude":-95.882452,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Caney",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404504605,
         85633793,
-        102082143
+        102082143,
+        404504605,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787209"
     },
     "wof:country":"US",
-    "wof:geomhash":"f288cc985e5c260cb2751ff0f643fe04",
+    "wof:geomhash":"6dbb1ab93f6ce215a85af12493c4ac99",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554738835,
-    "wof:lastmodified":1480841650,
+    "wof:lastmodified":1611183103,
     "wof:name":"67333",
     "wof:parent_id":404504605,
     "wof:placetype":"postalcode",

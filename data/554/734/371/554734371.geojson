@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003183,
-    "geom:area_square_m":30050400.367082,
+    "geom:area_square_m":30050400.367019,
     "geom:bbox":"-87.82235,40.19557,-87.74743,40.260969",
     "geom:latitude":40.225093,
     "geom:longitude":-87.792071,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.22509,
     "lbl:longitude":-87.79207,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Collison",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404496889,
         85633793,
-        102083507
+        102083507,
+        404496889,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784835"
     },
     "wof:country":"US",
-    "wof:geomhash":"bf7e8b25af59877b745523905946fdbd",
+    "wof:geomhash":"0e7a55beedc0a9570b6d34cde588fd1f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554734371,
-    "wof:lastmodified":1480842635,
+    "wof:lastmodified":1611184190,
     "wof:name":"61831",
     "wof:parent_id":404496889,
     "wof:placetype":"postalcode",

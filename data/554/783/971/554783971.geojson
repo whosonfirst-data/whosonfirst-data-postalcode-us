@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000083,
-    "geom:area_square_m":850188.469125,
+    "geom:area_square_m":850188.469124,
     "geom:bbox":"-118.421294,34.051259,-118.406023,34.064324",
     "geom:latitude":34.057597,
     "geom:longitude":-118.413998,
@@ -13,20 +13,26 @@
     "lbl:latitude":34.057597,
     "lbl:longitude":-118.413998,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Los Angeles",
+    "mz:postal_locality_alt":[
+        "Century City",
+        "Santa Monica"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086957,
         85923517,
-        102086957
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795675"
     },
     "wof:country":"US",
-    "wof:geomhash":"8b749a9315d2afe06cfacfe8d9cce9bd",
+    "wof:geomhash":"0fea091a6de6402f90a6009b41b03bc3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554783971,
-    "wof:lastmodified":1480912621,
+    "wof:lastmodified":1611183888,
     "wof:name":"90067",
     "wof:parent_id":85923517,
     "wof:placetype":"postalcode",

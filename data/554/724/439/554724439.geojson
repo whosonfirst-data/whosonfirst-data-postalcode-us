@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020455,
-    "geom:area_square_m":181160656.882998,
+    "geom:area_square_m":181160656.882874,
     "geom:bbox":"-84.733438,44.160482,-84.510662,44.358633",
     "geom:latitude":44.255711,
     "geom:longitude":-84.615576,
@@ -14,20 +14,22 @@
     "lbl:latitude":44.254775,
     "lbl:longitude":-84.614813,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Prudenville",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404508559,
         85633793,
-        102083077
+        102083077,
+        404508559,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778927"
     },
     "wof:country":"US",
-    "wof:geomhash":"a3289664b40e29a711a257dc5e403d0f",
+    "wof:geomhash":"cf37c96163f397b521206247d3edbdd4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554724439,
-    "wof:lastmodified":1480840163,
+    "wof:lastmodified":1611183749,
     "wof:name":"48651",
     "wof:parent_id":404508559,
     "wof:placetype":"postalcode",

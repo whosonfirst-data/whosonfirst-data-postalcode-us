@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044233,
-    "geom:area_square_m":420827685.374312,
+    "geom:area_square_m":420827685.374502,
     "geom:bbox":"-82.774413,39.563987,-82.43461,39.811566",
     "geom:latitude":39.698824,
     "geom:longitude":-82.610488,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.696463,
     "lbl:longitude":-82.614717,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lancaster",
+    "mz:postal_locality_alt":[
+        "Canal Winchester"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404524577,
         85633793,
-        102083747
+        102083747,
+        404524577,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776167"
     },
     "wof:country":"US",
-    "wof:geomhash":"f7db4f87dc92a617aff597833e575bdb",
+    "wof:geomhash":"fab99db451adb4e718f551e49e90959b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554720343,
-    "wof:lastmodified":1480843209,
+    "wof:lastmodified":1611185491,
     "wof:name":"43130",
     "wof:parent_id":404524577,
     "wof:placetype":"postalcode",

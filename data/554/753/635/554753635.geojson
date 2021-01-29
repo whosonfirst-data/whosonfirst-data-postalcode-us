@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021387,
-    "geom:area_square_m":207061594.079815,
+    "geom:area_square_m":207061594.079912,
     "geom:bbox":"-122.741319,38.329113,-122.540935,38.584168",
     "geom:latitude":38.465678,
     "geom:longitude":-122.651963,
@@ -13,19 +13,24 @@
     "lbl:latitude":38.525733,
     "lbl:longitude":-122.690443,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Santa Rosa",
+    "mz:postal_locality_alt":[
+        "Rohnert Park"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688637,
-        102081671
+        102081671,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12797752"
     },
     "wof:country":"US",
-    "wof:geomhash":"f48e1e198649fd49e59510e347718ca6",
+    "wof:geomhash":"3bc381ec6a135fbc75795aca29129d02",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +41,7 @@
         }
     ],
     "wof:id":554753635,
-    "wof:lastmodified":1480816521,
+    "wof:lastmodified":1611182941,
     "wof:name":"95404",
     "wof:parent_id":102081671,
     "wof:placetype":"postalcode",

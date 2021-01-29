@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002107,
-    "geom:area_square_m":19679479.074922,
+    "geom:area_square_m":19679479.074913,
     "geom:bbox":"-73.054717,40.899949,-72.97444,40.974603",
     "geom:latitude":40.940363,
     "geom:longitude":-73.019077,
@@ -14,21 +14,26 @@
     "lbl:latitude":40.93922,
     "lbl:longitude":-73.018666,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mount Sinai",
+    "mz:postal_locality_alt":[
+        "Mt Sinai"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404521441,
         85633793,
+        102082395,
+        404521441,
         85979937,
-        102082395
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761951"
     },
     "wof:country":"US",
-    "wof:geomhash":"a71eda40e124344dd172b6723a8be1d5",
+    "wof:geomhash":"f15d0eaf56fe3e3eb5b74783b83f5e8e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554779925,
-    "wof:lastmodified":1480794860,
+    "wof:lastmodified":1611183976,
     "wof:name":"11766",
     "wof:parent_id":85979937,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003015,
-    "geom:area_square_m":30821520.394929,
+    "geom:area_square_m":30821520.394939,
     "geom:bbox":"-118.422619,34.201196,-118.290771,34.258735",
     "geom:latitude":34.231896,
     "geom:longitude":-118.366421,
@@ -13,20 +13,26 @@
     "lbl:latitude":34.230854,
     "lbl:longitude":-118.365856,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Sun Valley",
+    "mz:postal_locality_alt":[
+        "Los Angeles",
+        "Burbank"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086957,
         85923517,
-        102086957
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795997"
     },
     "wof:country":"US",
-    "wof:geomhash":"a7ef2a686d25da52697133a0f248b738",
+    "wof:geomhash":"ccdfb8d070dea51dfa8fd804ea556d85",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554751965,
-    "wof:lastmodified":1480912623,
+    "wof:lastmodified":1611184323,
     "wof:name":"91352",
     "wof:parent_id":85923517,
     "wof:placetype":"postalcode",

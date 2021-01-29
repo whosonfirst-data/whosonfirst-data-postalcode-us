@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003282,
-    "geom:area_square_m":31465269.253013,
+    "geom:area_square_m":31465269.252958,
     "geom:bbox":"-76.67401,39.117953,-76.589751,39.206352",
     "geom:latitude":39.161776,
     "geom:longitude":-76.629736,
@@ -13,20 +13,25 @@
     "lbl:latitude":39.161943,
     "lbl:longitude":-76.629444,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Glen Burnie",
+    "mz:postal_locality_alt":[
+        "Bel Air"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688501,
         102191575,
         85633793,
+        102083469,
         85949717,
-        102083469
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766442"
     },
     "wof:country":"US",
-    "wof:geomhash":"ac82c424b92fda9b9d727d2bdad1b93d",
+    "wof:geomhash":"206647469f9245fe046c5b06d5f96f86",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554780479,
-    "wof:lastmodified":1480843200,
+    "wof:lastmodified":1611185165,
     "wof:name":"21061",
     "wof:parent_id":85949717,
     "wof:placetype":"postalcode",

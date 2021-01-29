@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011108,
-    "geom:area_square_m":100308085.64222,
+    "geom:area_square_m":100308085.642209,
     "geom:bbox":"-82.544925,42.999512,-82.428422,43.168946",
     "geom:latitude":43.08657,
     "geom:longitude":-82.49418,
@@ -14,20 +14,27 @@
     "lbl:latitude":43.087276,
     "lbl:longitude":-82.49449,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fort Gratiot",
+    "mz:postal_locality_alt":[
+        "Burtchville",
+        "Lakeport",
+        "Port Huron"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404508857,
         85633793,
-        102083053
+        102083053,
+        404508857,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778557"
     },
     "wof:country":"US",
-    "wof:geomhash":"920c335d06286be46a81a080a6683db4",
+    "wof:geomhash":"e11085a35379db56d9d8ad7ca2958865",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554782511,
-    "wof:lastmodified":1480842999,
+    "wof:lastmodified":1611183616,
     "wof:name":"48059",
     "wof:parent_id":404508857,
     "wof:placetype":"postalcode",

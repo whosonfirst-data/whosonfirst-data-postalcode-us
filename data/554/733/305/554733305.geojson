@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008751,
-    "geom:area_square_m":80542901.591383,
+    "geom:area_square_m":80542901.591336,
     "geom:bbox":"-88.279146,41.838018,-88.14537,41.950124",
     "geom:latitude":41.894788,
     "geom:longitude":-88.212624,
@@ -13,21 +13,27 @@
     "lbl:latitude":41.896691,
     "lbl:longitude":-88.211014,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"West Chicago",
+    "mz:postal_locality_alt":[
+        "Villa Park",
+        "Northwoods"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404497659,
         85633793,
+        102081257,
+        404497659,
         85940143,
-        102081257
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784091"
     },
     "wof:country":"US",
-    "wof:geomhash":"71c0e53de9087e621983014cc2eb07da",
+    "wof:geomhash":"fd9c719b5827fa882243cd58ec045abc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +46,7 @@
         }
     ],
     "wof:id":554733305,
-    "wof:lastmodified":1480916337,
+    "wof:lastmodified":1611184234,
     "wof:name":"60185",
     "wof:parent_id":85940143,
     "wof:placetype":"postalcode",

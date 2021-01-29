@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004131,
-    "geom:area_square_m":37849952.263601,
+    "geom:area_square_m":37849952.263591,
     "geom:bbox":"-71.352072,42.148623,-71.268088,42.215632",
     "geom:latitude":42.184825,
     "geom:longitude":-71.304962,
@@ -14,21 +14,23 @@
     "lbl:latitude":42.184599,
     "lbl:longitude":-71.305307,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Medfield",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476441,
         85633793,
+        102084403,
+        404476441,
         85950829,
-        102084403
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758682"
     },
     "wof:country":"US",
-    "wof:geomhash":"107dbc5e306c468eeaeec752db45a099",
+    "wof:geomhash":"5946feb5002768f7ad4e40b7964ab9c2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +43,7 @@
         }
     ],
     "wof:id":554697361,
-    "wof:lastmodified":1480799919,
+    "wof:lastmodified":1611184650,
     "wof:name":"02052",
     "wof:parent_id":85950829,
     "wof:placetype":"postalcode",

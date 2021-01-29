@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.058507,
-    "geom:area_square_m":487772626.429226,
+    "geom:area_square_m":487772626.429438,
     "geom:bbox":"-98.761092,47.45649,-98.371692,47.744908",
     "geom:latitude":47.605199,
     "geom:longitude":-98.581036,
@@ -14,20 +14,25 @@
     "lbl:latitude":47.610726,
     "lbl:longitude":-98.565277,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mchenry",
+    "mz:postal_locality_alt":[
+        "Mc Henry"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688525,
         102191575,
-        404479189,
         85633793,
-        102081503
+        102081503,
+        404479189,
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12783337"
     },
     "wof:country":"US",
-    "wof:geomhash":"a01e02b0a639eb9a8ada586272316e40",
+    "wof:geomhash":"11a3b8f76d3fb50b22e42e6ced9eecf8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554732021,
-    "wof:lastmodified":1480818586,
+    "wof:lastmodified":1611184397,
     "wof:name":"58464",
     "wof:parent_id":404479189,
     "wof:placetype":"postalcode",

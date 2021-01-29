@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015334,
-    "geom:area_square_m":138965043.804151,
+    "geom:area_square_m":138965043.804146,
     "geom:bbox":"-72.003426,42.787982,-71.876177,42.945039",
     "geom:latitude":42.869067,
     "geom:longitude":-71.938079,
@@ -14,21 +14,26 @@
     "lbl:latitude":42.868369,
     "lbl:longitude":-71.940102,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Peterborough",
+    "mz:postal_locality_alt":[
+        "Sharon"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688689,
         102191575,
-        404477137,
         85633793,
+        102085493,
+        404477137,
         85975265,
-        102085493
+        85688689
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759210"
     },
     "wof:country":"US",
-    "wof:geomhash":"5f7b2238de4804f1baff89f1fd5934ed",
+    "wof:geomhash":"bb9f453958b37e3c97ea8a637d63ef21",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554697895,
-    "wof:lastmodified":1480809136,
+    "wof:lastmodified":1611184642,
     "wof:name":"03458",
     "wof:parent_id":85975265,
     "wof:placetype":"postalcode",

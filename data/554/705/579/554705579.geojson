@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004757,
-    "geom:area_square_m":44560842.606758,
+    "geom:area_square_m":44560842.606741,
     "geom:bbox":"-75.272553,40.700843,-75.174248,40.786041",
     "geom:latitude":40.744946,
     "geom:longitude":-75.221727,
@@ -13,20 +13,25 @@
     "lbl:latitude":40.746007,
     "lbl:longitude":-75.225665,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Easton",
+    "mz:postal_locality_alt":[
+        "Stockertown"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485999,
         85633793,
-        102081395
+        102081395,
+        404485999,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765034"
     },
     "wof:country":"US",
-    "wof:geomhash":"2e5d295cfddefa5eebb87e10bd8bd9b1",
+    "wof:geomhash":"5cbc5467e725e42ad66bcdf316acebb8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554705579,
-    "wof:lastmodified":1480837397,
+    "wof:lastmodified":1611184129,
     "wof:name":"18040",
     "wof:parent_id":404485999,
     "wof:placetype":"postalcode",

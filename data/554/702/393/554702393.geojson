@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001173,
-    "geom:area_square_m":10573860.577296,
+    "geom:area_square_m":10573860.5773,
     "geom:bbox":"-75.32462,43.187861,-75.258518,43.234848",
     "geom:latitude":43.215252,
     "geom:longitude":-75.299562,
@@ -14,20 +14,22 @@
     "lbl:latitude":43.214828,
     "lbl:longitude":-75.302367,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Stittville",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522687,
         85633793,
-        102083149
+        102083149,
+        404522687,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762840"
     },
     "wof:country":"US",
-    "wof:geomhash":"cd93f97727310244de2e3fedfbc759e9",
+    "wof:geomhash":"30b7770e129aa9f55db45968406a0112",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554702393,
-    "wof:lastmodified":1480842884,
+    "wof:lastmodified":1611184157,
     "wof:name":"13469",
     "wof:parent_id":404522687,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00287,
-    "geom:area_square_m":26011879.240277,
+    "geom:area_square_m":26011879.240276,
     "geom:bbox":"-71.087702,42.833089,-70.997454,42.896033",
     "geom:latitude":42.868473,
     "geom:longitude":-71.04338,
@@ -14,20 +14,26 @@
     "lbl:latitude":42.870369,
     "lbl:longitude":-71.045915,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Newton",
+    "mz:postal_locality_alt":[
+        "Wolfeboro",
+        "Seabrook"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688689,
         102191575,
-        404476769,
         85633793,
-        102086507
+        102086507,
+        404476769,
+        85688689
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759326"
     },
     "wof:country":"US",
-    "wof:geomhash":"f8629a66baa6a71efa102818dd2af0df",
+    "wof:geomhash":"02c6fe8b0b7f32d954c92e5c5c36405e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554698087,
-    "wof:lastmodified":1480916573,
+    "wof:lastmodified":1611184695,
     "wof:name":"03858",
     "wof:parent_id":404476769,
     "wof:placetype":"postalcode",

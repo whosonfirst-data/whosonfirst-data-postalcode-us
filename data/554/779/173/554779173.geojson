@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000839,
-    "geom:area_square_m":7911993.299911,
+    "geom:area_square_m":7911993.299924,
     "geom:bbox":"-74.041238,40.298748,-73.996011,40.334039",
     "geom:latitude":40.316229,
     "geom:longitude":-74.016091,
@@ -14,21 +14,26 @@
     "lbl:latitude":40.316313,
     "lbl:longitude":-74.015897,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Oceanport",
+    "mz:postal_locality_alt":[
+        "Long Branch"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478381,
         85633793,
+        102085049,
+        404478381,
         85975413,
-        102085049
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760876"
     },
     "wof:country":"US",
-    "wof:geomhash":"4b136492a6554cd61798bdf43e928c0e",
+    "wof:geomhash":"33ba7f158842489439e98cd49bc32373",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554779173,
-    "wof:lastmodified":1480809855,
+    "wof:lastmodified":1611183973,
     "wof:name":"07757",
     "wof:parent_id":85975413,
     "wof:placetype":"postalcode",

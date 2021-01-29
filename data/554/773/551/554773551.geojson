@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000036,
-    "geom:area_square_m":324028.001237,
+    "geom:area_square_m":324028.001236,
     "geom:bbox":"-92.594149,43.155868,-92.586964,43.160967",
     "geom:latitude":43.158425,
     "geom:longitude":-92.590545,
@@ -14,20 +14,22 @@
     "lbl:latitude":43.158425,
     "lbl:longitude":-92.590545,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Charles City",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688713,
         102191575,
         85633793,
+        102086499,
         85944443,
-        102086499
+        85688713
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12780086"
     },
     "wof:country":"US",
-    "wof:geomhash":"dc15f396b41a5d077d7fc615adea4d27",
+    "wof:geomhash":"43902f99ef9bb9ba526c56b8703f7a72",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554773551,
-    "wof:lastmodified":1480914465,
+    "wof:lastmodified":1611185140,
     "wof:name":"50620",
     "wof:parent_id":85944443,
     "wof:placetype":"postalcode",

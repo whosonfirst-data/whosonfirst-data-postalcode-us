@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004406,
-    "geom:area_square_m":41789700.68172,
+    "geom:area_square_m":41789700.681737,
     "geom:bbox":"-76.283023,39.877887,-76.170145,39.946821",
     "geom:latitude":39.910822,
     "geom:longitude":-76.227356,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.912675,
     "lbl:longitude":-76.227681,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"New Providence",
+    "mz:postal_locality_alt":[
+        "Quarryville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485427,
         85633793,
-        102081377
+        102081377,
+        404485427,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764820"
     },
     "wof:country":"US",
-    "wof:geomhash":"93ba6c8197935fbfd641d2b4819b3b02",
+    "wof:geomhash":"b6d4392965bf0f4fdcb015f0a4079545",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554705283,
-    "wof:lastmodified":1480817417,
+    "wof:lastmodified":1611184116,
     "wof:name":"17560",
     "wof:parent_id":404485427,
     "wof:placetype":"postalcode",

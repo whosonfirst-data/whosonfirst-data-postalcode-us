@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00371,
-    "geom:area_square_m":35591819.347369,
+    "geom:area_square_m":35591819.347346,
     "geom:bbox":"-94.439806,39.077584,-94.372861,39.169081",
     "geom:latitude":39.115125,
     "geom:longitude":-94.407581,
@@ -13,21 +13,26 @@
     "lbl:latitude":39.11586,
     "lbl:longitude":-94.41055,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Independence",
+    "mz:postal_locality_alt":[
+        "Blue Springs"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404515661,
         85633793,
+        102081227,
+        404515661,
         85971449,
-        102081227
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785970"
     },
     "wof:country":"US",
-    "wof:geomhash":"6f292fcff929dcf9b74a7f34946c7a63",
+    "wof:geomhash":"be31ce049d30a9207feceaac35d95903",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554736425,
-    "wof:lastmodified":1480912210,
+    "wof:lastmodified":1611183023,
     "wof:name":"64050",
     "wof:parent_id":85971449,
     "wof:placetype":"postalcode",

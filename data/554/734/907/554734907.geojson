@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031339,
-    "geom:area_square_m":295517002.468997,
+    "geom:area_square_m":295517002.468947,
     "geom:bbox":"-91.026042,40.192711,-90.67794,40.399819",
     "geom:latitude":40.305219,
     "geom:longitude":-90.87611,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.299312,
     "lbl:longitude":-90.874264,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Plymouth",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404497937,
         85633793,
-        102080815
+        102080815,
+        404497937,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785113"
     },
     "wof:country":"US",
-    "wof:geomhash":"701371825212612f6a3db7fb838b0d3b",
+    "wof:geomhash":"95a6c20b60d62e28256acf440a0dde27",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554734907,
-    "wof:lastmodified":1480905339,
+    "wof:lastmodified":1611184176,
     "wof:name":"62367",
     "wof:parent_id":404497937,
     "wof:placetype":"postalcode",

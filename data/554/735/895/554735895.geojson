@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038629,
-    "geom:area_square_m":370391600.600479,
+    "geom:area_square_m":370391600.600463,
     "geom:bbox":"-91.504018,39.051726,-91.184693,39.263925",
     "geom:latitude":39.155464,
     "geom:longitude":-91.349074,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.151211,
     "lbl:longitude":-91.356191,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Middletown",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404515859,
         85633793,
-        102086151
+        102086151,
+        404515859,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785682"
     },
     "wof:country":"US",
-    "wof:geomhash":"eae286b686209b11473736df724b4e3e",
+    "wof:geomhash":"0549c5fe43ae46d477e37c3cd906ecc0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554735895,
-    "wof:lastmodified":1480914506,
+    "wof:lastmodified":1611184418,
     "wof:name":"63359",
     "wof:parent_id":404515859,
     "wof:placetype":"postalcode",

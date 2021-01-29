@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014487,
-    "geom:area_square_m":139618537.300571,
+    "geom:area_square_m":139618537.300512,
     "geom:bbox":"-91.007148,38.65872,-90.878,38.895083",
     "geom:latitude":38.792921,
     "geom:longitude":-90.942765,
@@ -14,20 +14,22 @@
     "lbl:latitude":38.785461,
     "lbl:longitude":-90.945226,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Foristell",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404518123,
         85633793,
-        102086159
+        102086159,
+        404518123,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785675"
     },
     "wof:country":"US",
-    "wof:geomhash":"5fd74abb5608144fe74403b2548d54cf",
+    "wof:geomhash":"243f8630d6674a6d83d58fc8d493d702",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554735879,
-    "wof:lastmodified":1480910508,
+    "wof:lastmodified":1611184432,
     "wof:name":"63348",
     "wof:parent_id":404518123,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008678,
-    "geom:area_square_m":79915593.754842,
+    "geom:area_square_m":79915593.754874,
     "geom:bbox":"-73.658076,41.806645,-73.498571,41.906018",
     "geom:latitude":41.859643,
     "geom:longitude":-73.558627,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.862964,
     "lbl:longitude":-73.573517,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Amenia",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404521325,
         85633793,
-        102082363
+        102082363,
+        404521325,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762324"
     },
     "wof:country":"US",
-    "wof:geomhash":"10d90b85945af277da5dc9dc3858ac61",
+    "wof:geomhash":"a007d23d2e4f345751a4c14586838f48",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554701503,
-    "wof:lastmodified":1480805212,
+    "wof:lastmodified":1611182615,
     "wof:name":"12501",
     "wof:parent_id":404521325,
     "wof:placetype":"postalcode",

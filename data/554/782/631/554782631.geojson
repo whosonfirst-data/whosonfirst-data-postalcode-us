@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016408,
-    "geom:area_square_m":145565951.662782,
+    "geom:area_square_m":145565951.662784,
     "geom:bbox":"-83.808085,44.077178,-83.616002,44.233813",
     "geom:latitude":44.152421,
     "geom:longitude":-83.717902,
@@ -14,20 +14,22 @@
     "lbl:latitude":44.151556,
     "lbl:longitude":-83.717952,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Turner",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404505739,
         85633793,
-        102083015
+        102083015,
+        404505739,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778992"
     },
     "wof:country":"US",
-    "wof:geomhash":"9469ebf33f13126e3170b9bc4c7bdff6",
+    "wof:geomhash":"9a715dc2090374c127fb67dad41dc079",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554782631,
-    "wof:lastmodified":1480837934,
+    "wof:lastmodified":1611183631,
     "wof:name":"48765",
     "wof:parent_id":404505739,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030342,
-    "geom:area_square_m":297374297.791216,
+    "geom:area_square_m":297374297.79123,
     "geom:bbox":"-84.449875,37.459794,-84.090364,37.668576",
     "geom:latitude":37.569439,
     "geom:longitude":-84.271189,
@@ -13,20 +13,27 @@
     "lbl:latitude":37.570447,
     "lbl:longitude":-84.271931,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Berea",
+    "mz:postal_locality_alt":[
+        "Mt Vernon",
+        "Mc Kee",
+        "Stanford"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688641,
         102191575,
         85633793,
+        102084575,
         85947281,
-        102084575
+        85688641
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12775280"
     },
     "wof:country":"US",
-    "wof:geomhash":"8c01eda408a964553356bfff16a8a8de",
+    "wof:geomhash":"cd2e0a81fa686b3d37cea71ed06537dd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +45,7 @@
         }
     ],
     "wof:id":554718907,
-    "wof:lastmodified":1480806400,
+    "wof:lastmodified":1611185535,
     "wof:name":"40403",
     "wof:parent_id":85947281,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002035,
-    "geom:area_square_m":19015689.332252,
+    "geom:area_square_m":19015689.332239,
     "geom:bbox":"-73.158881,40.869235,-73.097106,40.947723",
     "geom:latitude":40.90682,
     "geom:longitude":-73.12766,
@@ -14,21 +14,26 @@
     "lbl:latitude":40.905957,
     "lbl:longitude":-73.127374,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Stony Brook",
+    "mz:postal_locality_alt":[
+        "Bellport"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404521441,
         85633793,
+        102082395,
+        404521441,
         85979903,
-        102082395
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761973"
     },
     "wof:country":"US",
-    "wof:geomhash":"cbc093416f48f29717b0ab8780c3b8d9",
+    "wof:geomhash":"6f64bdec5a5d3b337d008f49c3c97a4c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554779967,
-    "wof:lastmodified":1480794859,
+    "wof:lastmodified":1611183978,
     "wof:name":"11790",
     "wof:parent_id":85979903,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010572,
-    "geom:area_square_m":95231139.413203,
+    "geom:area_square_m":95231139.413207,
     "geom:bbox":"-89.620487,43.185531,-89.39895,43.294198",
     "geom:latitude":43.241469,
     "geom:longitude":-89.515626,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.242558,
     "lbl:longitude":-89.514691,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Dane",
+    "mz:postal_locality_alt":[
+        "Marshall"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404491665,
         85633793,
-        102081795
+        102081795,
+        404491665,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12780979"
     },
     "wof:country":"US",
-    "wof:geomhash":"348f2cd429119da7120ba3673fa234f4",
+    "wof:geomhash":"6e697bebd160d4405d753237996de47c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554727757,
-    "wof:lastmodified":1480824375,
+    "wof:lastmodified":1611185518,
     "wof:name":"53529",
     "wof:parent_id":404491665,
     "wof:placetype":"postalcode",

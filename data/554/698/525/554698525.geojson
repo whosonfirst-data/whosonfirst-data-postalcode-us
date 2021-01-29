@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034535,
-    "geom:area_square_m":303798396.722988,
+    "geom:area_square_m":303798396.722948,
     "geom:bbox":"-68.343703,44.539335,-68.063057,44.783027",
     "geom:latitude":44.648935,
     "geom:longitude":-68.220339,
@@ -14,20 +14,22 @@
     "lbl:latitude":44.650967,
     "lbl:longitude":-68.221271,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Franklin",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404474951,
         85633793,
-        102081201
+        102081201,
+        404474951,
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759673"
     },
     "wof:country":"US",
-    "wof:geomhash":"19782588d91869816b9588d99bf6a6d9",
+    "wof:geomhash":"619a7e75492b799f7f696b5dd7880d33",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554698525,
-    "wof:lastmodified":1480830742,
+    "wof:lastmodified":1611184704,
     "wof:name":"04634",
     "wof:parent_id":404474951,
     "wof:placetype":"postalcode",

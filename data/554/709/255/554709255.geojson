@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010856,
-    "geom:area_square_m":106161754.889719,
+    "geom:area_square_m":106161754.889704,
     "geom:bbox":"-80.574522,37.680201,-80.393675,37.793567",
     "geom:latitude":37.731309,
     "geom:longitude":-80.478928,
@@ -14,19 +14,25 @@
     "lbl:latitude":37.728073,
     "lbl:longitude":-80.474482,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ronceverte",
+    "mz:postal_locality_alt":[
+        "Fairlea",
+        "Lewisburg"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688589,
-        102083375
+        102083375,
+        85688589
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12768072"
     },
     "wof:country":"US",
-    "wof:geomhash":"f9232f9b23799bfa2381d70986d778be",
+    "wof:geomhash":"06abc9b553d1c8e6a7cc362f21c0b16e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554709255,
-    "wof:lastmodified":1480835233,
+    "wof:lastmodified":1611183013,
     "wof:name":"24970",
     "wof:parent_id":102083375,
     "wof:placetype":"postalcode",

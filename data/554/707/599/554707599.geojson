@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001612,
-    "geom:area_square_m":15535563.492854,
+    "geom:area_square_m":15535563.492852,
     "geom:bbox":"-77.263606,38.75572,-77.202961,38.796192",
     "geom:latitude":38.775785,
     "geom:longitude":-77.231641,
@@ -13,20 +13,25 @@
     "lbl:latitude":38.774493,
     "lbl:longitude":-77.232029,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Springfield",
+    "mz:postal_locality_alt":[
+        "Newington"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688747,
         102191575,
         85633793,
+        102084863,
         101729795,
-        102084863
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766836"
     },
     "wof:country":"US",
-    "wof:geomhash":"33ef823efc9bebae483f12a213bff049",
+    "wof:geomhash":"d5856dd071b24fe225a8c3f8fa7cc76f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554707599,
-    "wof:lastmodified":1480802128,
+    "wof:lastmodified":1611183153,
     "wof:name":"22152",
     "wof:parent_id":101729795,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000452,
-    "geom:area_square_m":4162165.402252,
+    "geom:area_square_m":4162165.402285,
     "geom:bbox":"-87.920633,41.867742,-87.878485,41.899864",
     "geom:latitude":41.888819,
     "geom:longitude":-87.909052,
@@ -14,21 +14,23 @@
     "lbl:latitude":41.888819,
     "lbl:longitude":-87.909053,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Berkeley",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404497579,
         85633793,
+        102084317,
+        404497579,
         85940905,
-        102084317
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784072"
     },
     "wof:country":"US",
-    "wof:geomhash":"9087ea45d4b6b5668c1fcd0aa00dc050",
+    "wof:geomhash":"e4003237bc2ded3d262a079e2498ce83",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +43,7 @@
         }
     ],
     "wof:id":554783235,
-    "wof:lastmodified":1480830868,
+    "wof:lastmodified":1611183881,
     "wof:name":"60163",
     "wof:parent_id":85940905,
     "wof:placetype":"postalcode",

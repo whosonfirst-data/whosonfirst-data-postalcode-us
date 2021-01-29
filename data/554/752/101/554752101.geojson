@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003718,
-    "geom:area_square_m":38063788.064629,
+    "geom:area_square_m":38063788.064593,
     "geom:bbox":"-117.852176,34.063655,-117.774431,34.16518",
     "geom:latitude":34.110034,
     "geom:longitude":-117.809796,
@@ -14,20 +14,25 @@
     "lbl:latitude":34.110186,
     "lbl:longitude":-117.81039,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"San Dimas",
+    "mz:postal_locality_alt":[
+        "La Verne"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086957,
         85923847,
-        102086957
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796131"
     },
     "wof:country":"US",
-    "wof:geomhash":"e19578a9849658c2a2a49997a4b22d37",
+    "wof:geomhash":"89c6425c6b7fab37eb66dd7a268162f8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554752101,
-    "wof:lastmodified":1480912613,
+    "wof:lastmodified":1611182539,
     "wof:name":"91773",
     "wof:parent_id":85923847,
     "wof:placetype":"postalcode",

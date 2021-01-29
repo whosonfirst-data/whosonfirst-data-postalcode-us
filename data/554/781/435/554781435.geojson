@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002571,
-    "geom:area_square_m":28562764.969924,
+    "geom:area_square_m":28562764.969943,
     "geom:bbox":"-80.281095,26.001485,-80.207674,26.046479",
     "geom:latitude":26.026962,
     "geom:longitude":-80.24526,
@@ -13,20 +13,28 @@
     "lbl:latitude":26.027148,
     "lbl:longitude":-80.244713,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hollywood",
+    "mz:postal_locality_alt":[
+        "Pembroke Pines",
+        "Fort Lauderdale",
+        "Plantation",
+        "Cherry Hill"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688651,
         102191575,
         85633793,
+        102084727,
         85932299,
-        102084727
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12772070"
     },
     "wof:country":"US",
-    "wof:geomhash":"7e21dd95ae301b256ffee4dfa6efba47",
+    "wof:geomhash":"73bef8988dd55835711a01bb3f912ed6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +46,7 @@
         }
     ],
     "wof:id":554781435,
-    "wof:lastmodified":1480802319,
+    "wof:lastmodified":1611184835,
     "wof:name":"33024",
     "wof:parent_id":85932299,
     "wof:placetype":"postalcode",

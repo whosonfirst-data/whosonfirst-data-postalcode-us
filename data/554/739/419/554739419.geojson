@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00999,
-    "geom:area_square_m":92589525.927866,
+    "geom:area_square_m":92589525.927912,
     "geom:bbox":"-96.098185,41.39308,-95.919537,41.509857",
     "geom:latitude":41.44922,
     "geom:longitude":-96.020106,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.447061,
     "lbl:longitude":-96.017553,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fort Calhoun",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688563,
         102191575,
-        404520621,
         85633793,
-        102082783
+        102082783,
+        404520621,
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787482"
     },
     "wof:country":"US",
-    "wof:geomhash":"d549cc3475a672592ff074f3b36b61a8",
+    "wof:geomhash":"f3aeed9628e08e155beba1aa93bc0425",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554739419,
-    "wof:lastmodified":1480912390,
+    "wof:lastmodified":1611182669,
     "wof:name":"68023",
     "wof:parent_id":404520621,
     "wof:placetype":"postalcode",

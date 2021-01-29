@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025928,
-    "geom:area_square_m":276389017.306371,
+    "geom:area_square_m":276389017.30624,
     "geom:bbox":"-89.690589,30.330858,-89.341534,30.573131",
     "geom:latitude":30.4486,
     "geom:longitude":-89.437693,
@@ -14,19 +14,25 @@
     "lbl:latitude":30.44153,
     "lbl:longitude":-89.439972,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Kiln",
+    "mz:postal_locality_alt":[
+        "Bay St Louis",
+        "Picayune"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688579,
-        102082425
+        102082425,
+        85688579
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12774988"
     },
     "wof:country":"US",
-    "wof:geomhash":"77afebad4981c8181edb90ad19c9e7f3",
+    "wof:geomhash":"ecb19700b4c4d610205ab949d180177d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554718449,
-    "wof:lastmodified":1480840246,
+    "wof:lastmodified":1611185543,
     "wof:name":"39556",
     "wof:parent_id":102082425,
     "wof:placetype":"postalcode",

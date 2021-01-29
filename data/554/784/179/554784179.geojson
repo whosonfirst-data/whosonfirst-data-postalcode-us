@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001482,
-    "geom:area_square_m":15223892.732687,
+    "geom:area_square_m":15223892.732659,
     "geom:bbox":"-118.204908,33.810365,-118.139162,33.851424",
     "geom:latitude":33.827963,
     "geom:longitude":-118.174647,
@@ -13,20 +13,26 @@
     "lbl:latitude":33.82774,
     "lbl:longitude":-118.17482,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Long Beach",
+    "mz:postal_locality_alt":[
+        "Lakewood",
+        "Signal Hill"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086957,
         85923525,
-        102086957
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795863"
     },
     "wof:country":"US",
-    "wof:geomhash":"8f63991835304e3de7f4935dc9901c48",
+    "wof:geomhash":"bd794584013c2871f8a21f597096365f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554784179,
-    "wof:lastmodified":1480912616,
+    "wof:lastmodified":1611183959,
     "wof:name":"90807",
     "wof:parent_id":85923525,
     "wof:placetype":"postalcode",

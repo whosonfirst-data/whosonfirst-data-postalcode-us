@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007651,
-    "geom:area_square_m":70329227.400862,
+    "geom:area_square_m":70329227.40081,
     "geom:bbox":"-80.204187,41.9326,-80.064059,42.040541",
     "geom:latitude":41.979664,
     "geom:longitude":-80.142235,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.979332,
     "lbl:longitude":-80.142079,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mc Kean",
+    "mz:postal_locality_alt":[
+        "Edinboro"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404486693,
         85633793,
-        102080955
+        102080955,
+        404486693,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764308"
     },
     "wof:country":"US",
-    "wof:geomhash":"0a500a6daf039754c977793ffd5db65f",
+    "wof:geomhash":"c360abbd84b16b758e4afc4350507691",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554780327,
-    "wof:lastmodified":1480904869,
+    "wof:lastmodified":1611185191,
     "wof:name":"16426",
     "wof:parent_id":404486693,
     "wof:placetype":"postalcode",

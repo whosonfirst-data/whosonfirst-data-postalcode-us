@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011925,
-    "geom:area_square_m":127307302.420442,
+    "geom:area_square_m":127307302.420454,
     "geom:bbox":"-91.04472,30.247867,-90.795737,30.34695",
     "geom:latitude":30.307327,
     "geom:longitude":-90.940481,
@@ -14,20 +14,25 @@
     "lbl:latitude":30.30743,
     "lbl:longitude":-90.940643,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Prairieville",
+    "mz:postal_locality_alt":[
+        "Galvez"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688735,
         102191575,
         85633793,
+        102086687,
         85948511,
-        102086687
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12788478"
     },
     "wof:country":"US",
-    "wof:geomhash":"e1208c6ababbd0dac8a4a32e58d32aa5",
+    "wof:geomhash":"dce079801458937e5bfb81ce78241dd5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554741013,
-    "wof:lastmodified":1480912568,
+    "wof:lastmodified":1611184046,
     "wof:name":"70769",
     "wof:parent_id":85948511,
     "wof:placetype":"postalcode",

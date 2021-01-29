@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011662,
-    "geom:area_square_m":118149095.125064,
+    "geom:area_square_m":118149095.125049,
     "geom:bbox":"-81.920434,34.925896,-81.733792,35.051877",
     "geom:latitude":34.983918,
     "geom:longitude":-81.831257,
@@ -13,19 +13,26 @@
     "lbl:latitude":34.982716,
     "lbl:longitude":-81.831555,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Spartanburg",
+    "mz:postal_locality_alt":[
+        "Drayton",
+        "Converse",
+        "Chesnee"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688683,
-        102085437
+        102085437,
+        85688683
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770102"
     },
     "wof:country":"US",
-    "wof:geomhash":"39288062a1bccd7fc537c99dbcda0990",
+    "wof:geomhash":"ac74906ee6be22aa1e4260379d760b7b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +43,7 @@
         }
     ],
     "wof:id":554712103,
-    "wof:lastmodified":1480814012,
+    "wof:lastmodified":1611183691,
     "wof:name":"29307",
     "wof:parent_id":102085437,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001567,
-    "geom:area_square_m":14181408.119362,
+    "geom:area_square_m":14181408.119356,
     "geom:bbox":"-87.887676,42.930013,-87.838157,42.966445",
     "geom:latitude":42.946918,
     "geom:longitude":-87.86101,
@@ -14,21 +14,26 @@
     "lbl:latitude":42.950505,
     "lbl:longitude":-87.860883,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cudahy",
+    "mz:postal_locality_alt":[
+        "Milwaukee"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404494163,
         85633793,
+        102081837,
+        404494163,
         101733063,
-        102081837
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12780840"
     },
     "wof:country":"US",
-    "wof:geomhash":"874af390423c5946bb08b680c495d43b",
+    "wof:geomhash":"23723b02b592d9c896d50a3dd65a1c72",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554782947,
-    "wof:lastmodified":1480823414,
+    "wof:lastmodified":1611183615,
     "wof:name":"53110",
     "wof:parent_id":101733063,
     "wof:placetype":"postalcode",

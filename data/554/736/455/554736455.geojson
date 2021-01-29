@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020483,
-    "geom:area_square_m":196396663.813659,
+    "geom:area_square_m":196396663.813522,
     "geom:bbox":"-93.950458,39.083871,-93.687981,39.215505",
     "geom:latitude":39.155933,
     "geom:longitude":-93.835553,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.154284,
     "lbl:longitude":-93.836041,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lexington",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404517257,
         85633793,
-        102086905
+        102086905,
+        404517257,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785986"
     },
     "wof:country":"US",
-    "wof:geomhash":"ea2f9be118d060417df0f34dbba6a6bb",
+    "wof:geomhash":"11d2f6ad2fb4b20caa0a678163db9230",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554736455,
-    "wof:lastmodified":1480912845,
+    "wof:lastmodified":1611183029,
     "wof:name":"64067",
     "wof:parent_id":404517257,
     "wof:placetype":"postalcode",

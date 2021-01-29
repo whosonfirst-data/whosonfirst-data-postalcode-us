@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009952,
-    "geom:area_square_m":96920775.433498,
+    "geom:area_square_m":96920775.433588,
     "geom:bbox":"-86.94325,37.964232,-86.764974,38.118033",
     "geom:latitude":38.039002,
     "geom:longitude":-86.852238,
@@ -14,20 +14,22 @@
     "lbl:latitude":38.03971,
     "lbl:longitude":-86.851428,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Evanston",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404501567,
         85633793,
-        102087069
+        102087069,
+        404501567,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778274"
     },
     "wof:country":"US",
-    "wof:geomhash":"4146bb2321196411709518c94b404188",
+    "wof:geomhash":"7c4af41f89ab8aa5eabe94ad89b4ff9c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554723499,
-    "wof:lastmodified":1480916640,
+    "wof:lastmodified":1611183786,
     "wof:name":"47531",
     "wof:parent_id":404501567,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03896,
-    "geom:area_square_m":339703029.986069,
+    "geom:area_square_m":339703029.986031,
     "geom:bbox":"-84.800222,45.08886,-84.36667,45.246197",
     "geom:latitude":45.158776,
     "geom:longitude":-84.576464,
@@ -14,20 +14,22 @@
     "lbl:latitude":45.160679,
     "lbl:longitude":-84.579688,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Vanderbilt",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404508413,
         85633793,
-        102083019
+        102083019,
+        404508413,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779562"
     },
     "wof:country":"US",
-    "wof:geomhash":"cbea4907b9259a043102469babbc6c84",
+    "wof:geomhash":"4793456b9afac3d68f91b42759580b52",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554725317,
-    "wof:lastmodified":1480841394,
+    "wof:lastmodified":1611183288,
     "wof:name":"49795",
     "wof:parent_id":404508413,
     "wof:placetype":"postalcode",

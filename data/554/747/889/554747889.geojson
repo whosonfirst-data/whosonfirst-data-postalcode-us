@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002116,
-    "geom:area_square_m":20132127.274784,
+    "geom:area_square_m":20132127.274808,
     "geom:bbox":"-104.869783,39.674873,-104.809753,39.725619",
     "geom:latitude":39.699742,
     "geom:longitude":-104.837634,
@@ -13,20 +13,25 @@
     "lbl:latitude":39.699741,
     "lbl:longitude":-104.837634,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Aurora",
+    "mz:postal_locality_alt":[
+        "Denver"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688603,
         102191575,
         85633793,
+        102086877,
         85929235,
-        102086877
+        85688603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12792871"
     },
     "wof:country":"US",
-    "wof:geomhash":"5ec892937564cd16497281d05510dcc4",
+    "wof:geomhash":"5f058614f93ebd9653b09f05b7fc998f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554747889,
-    "wof:lastmodified":1480913399,
+    "wof:lastmodified":1611183453,
     "wof:name":"80012",
     "wof:parent_id":85929235,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049526,
-    "geom:area_square_m":445690074.110841,
+    "geom:area_square_m":445690074.11095,
     "geom:bbox":"-93.024217,43.198151,-92.574222,43.428903",
     "geom:latitude":43.299409,
     "geom:longitude":-92.818872,
@@ -14,19 +14,25 @@
     "lbl:latitude":43.306168,
     "lbl:longitude":-92.818741,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Osage",
+    "mz:postal_locality_alt":[
+        "Mitchell",
+        "Riceville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688713,
-        102086521
+        102086521,
+        85688713
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779975"
     },
     "wof:country":"US",
-    "wof:geomhash":"b75530db4e4803b4407e36c13f3e520f",
+    "wof:geomhash":"47d50a8c5da6b2e8c647fca338234fb8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554725919,
-    "wof:lastmodified":1480915502,
+    "wof:lastmodified":1611183288,
     "wof:name":"50461",
     "wof:parent_id":102086521,
     "wof:placetype":"postalcode",

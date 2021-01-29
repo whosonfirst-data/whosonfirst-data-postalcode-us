@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005933,
-    "geom:area_square_m":54704062.084826,
+    "geom:area_square_m":54704062.08483,
     "geom:bbox":"-86.832392,41.759706,-86.656249,41.828632",
     "geom:latitude":41.781812,
     "geom:longitude":-86.730107,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.781671,
     "lbl:longitude":-86.726836,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"New Buffalo",
+    "mz:postal_locality_alt":[
+        "Grand Beach"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404507001,
         85633793,
-        102083151
+        102083151,
+        404507001,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779214"
     },
     "wof:country":"US",
-    "wof:geomhash":"34d49145cef1ac98915378e93096f1a6",
+    "wof:geomhash":"61c2a533854d5b9d3b4bbd3cf0830f98",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554782667,
-    "wof:lastmodified":1480915698,
+    "wof:lastmodified":1611183611,
     "wof:name":"49117",
     "wof:parent_id":404507001,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012574,
-    "geom:area_square_m":109040221.573548,
+    "geom:area_square_m":109040221.573519,
     "geom:bbox":"-91.049592,45.38655,-90.89404,45.554939",
     "geom:latitude":45.465447,
     "geom:longitude":-90.973646,
@@ -14,20 +14,22 @@
     "lbl:latitude":45.460162,
     "lbl:longitude":-90.970548,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Tony",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404495207,
         85633793,
-        102081739
+        102081739,
+        404495207,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781407"
     },
     "wof:country":"US",
-    "wof:geomhash":"ac7120ce173430e26c1f4010666fcd38",
+    "wof:geomhash":"40d340c34f1a3eb20679b5e5e427699f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554728445,
-    "wof:lastmodified":1480819716,
+    "wof:lastmodified":1611185085,
     "wof:name":"54563",
     "wof:parent_id":404495207,
     "wof:placetype":"postalcode",

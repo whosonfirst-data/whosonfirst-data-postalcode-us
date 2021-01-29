@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033278,
-    "geom:area_square_m":317627656.663085,
+    "geom:area_square_m":317627656.663109,
     "geom:bbox":"-74.869442,39.36425,-74.586322,39.579795",
     "geom:latitude":39.476108,
     "geom:longitude":-74.741294,
@@ -14,20 +14,26 @@
     "lbl:latitude":39.481603,
     "lbl:longitude":-74.737407,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mays Landing",
+    "mz:postal_locality_alt":[
+        "Estell Manor",
+        "Mizpah"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477619,
         85633793,
-        102083869
+        102083869,
+        404477619,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761134"
     },
     "wof:country":"US",
-    "wof:geomhash":"0cfcd82ce4461c0dba0416945c9e4612",
+    "wof:geomhash":"7e6866f421fe19dcd5039938baeb6a75",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554700533,
-    "wof:lastmodified":1480834716,
+    "wof:lastmodified":1611183175,
     "wof:name":"08330",
     "wof:parent_id":404477619,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033683,
-    "geom:area_square_m":350316553.028058,
+    "geom:area_square_m":350316553.027946,
     "geom:bbox":"-85.143021,32.660992,-84.754706,32.851553",
     "geom:latitude":32.74411,
     "geom:longitude":-84.934427,
@@ -14,19 +14,24 @@
     "lbl:latitude":32.740952,
     "lbl:longitude":-84.928173,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hamilton",
+    "mz:postal_locality_alt":[
+        "Fortson"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688535,
-        102084477
+        102084477,
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12771415"
     },
     "wof:country":"US",
-    "wof:geomhash":"c9710a8abb511c16cd124fa97031cd42",
+    "wof:geomhash":"2464b3a23bbe59b1efab5fd36bf8f842",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554714067,
-    "wof:lastmodified":1480813140,
+    "wof:lastmodified":1611183379,
     "wof:name":"31811",
     "wof:parent_id":102084477,
     "wof:placetype":"postalcode",

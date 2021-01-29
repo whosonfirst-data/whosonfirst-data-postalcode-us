@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010359,
-    "geom:area_square_m":95082674.236116,
+    "geom:area_square_m":95082674.236042,
     "geom:bbox":"-76.485828,42.024682,-76.320058,42.143857",
     "geom:latitude":42.074374,
     "geom:longitude":-76.40766,
@@ -14,20 +14,22 @@
     "lbl:latitude":42.069955,
     "lbl:longitude":-76.409653,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Barton",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404523221,
         85633793,
-        102082391
+        102082391,
+        404523221,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762963"
     },
     "wof:country":"US",
-    "wof:geomhash":"fda3e3b82ffb3bf10e1dfcf8c359892c",
+    "wof:geomhash":"253b7ea2488ee9f920f9a07d09fe8ec2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554702559,
-    "wof:lastmodified":1480794383,
+    "wof:lastmodified":1611184133,
     "wof:name":"13734",
     "wof:parent_id":404523221,
     "wof:placetype":"postalcode",

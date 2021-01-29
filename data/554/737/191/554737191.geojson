@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004013,
-    "geom:area_square_m":39030315.562522,
+    "geom:area_square_m":39030315.562462,
     "geom:bbox":"-92.490341,38.100114,-92.384867,38.17824",
     "geom:latitude":38.141927,
     "geom:longitude":-92.439697,
@@ -14,20 +14,22 @@
     "lbl:latitude":38.140896,
     "lbl:longitude":-92.446459,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ulman",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404516919,
         85633793,
-        102087481
+        102087481,
+        404516919,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786370"
     },
     "wof:country":"US",
-    "wof:geomhash":"c211463dfa11569fdd10be5ff265d3be",
+    "wof:geomhash":"6def458d80f1dd1b5ff9e0447f2f6f13",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554737191,
-    "wof:lastmodified":1480784531,
+    "wof:lastmodified":1611182846,
     "wof:name":"65083",
     "wof:parent_id":404516919,
     "wof:placetype":"postalcode",

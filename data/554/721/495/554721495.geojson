@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018843,
-    "geom:area_square_m":175802347.075283,
+    "geom:area_square_m":175802347.075161,
     "geom:bbox":"-82.58601,40.889858,-82.366836,41.103001",
     "geom:latitude":41.016438,
     "geom:longitude":-82.482212,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.021221,
     "lbl:longitude":-82.472683,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Greenwich",
+    "mz:postal_locality_alt":[
+        "New Haven"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404526577,
         85633793,
-        102083735
+        102083735,
+        404526577,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776975"
     },
     "wof:country":"US",
-    "wof:geomhash":"0a9f9807bfd3f80b701fe45bddb211f6",
+    "wof:geomhash":"bfd8e5885543740d50747bfa1b34cd80",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554721495,
-    "wof:lastmodified":1480841926,
+    "wof:lastmodified":1611184975,
     "wof:name":"44837",
     "wof:parent_id":404526577,
     "wof:placetype":"postalcode",

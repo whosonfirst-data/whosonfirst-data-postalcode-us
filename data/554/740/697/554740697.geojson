@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010325,
-    "geom:area_square_m":110968503.273864,
+    "geom:area_square_m":110968503.273856,
     "geom:bbox":"-90.773379,29.575825,-90.578176,29.688925",
     "geom:latitude":29.63435,
     "geom:longitude":-90.687619,
@@ -13,20 +13,27 @@
     "lbl:latitude":29.627637,
     "lbl:longitude":-90.681784,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Houma",
+    "mz:postal_locality_alt":[
+        "Gray",
+        "Grand Isle",
+        "Raceland"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688735,
         102191575,
         85633793,
+        102084879,
         85948489,
-        102084879
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12788245"
     },
     "wof:country":"US",
-    "wof:geomhash":"394ec36d8bc41cf6047ca68217ef0d0b",
+    "wof:geomhash":"e5a1e39c6002cd3f682c0236dd1a9c64",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +45,7 @@
         }
     ],
     "wof:id":554740697,
-    "wof:lastmodified":1480832595,
+    "wof:lastmodified":1611183414,
     "wof:name":"70364",
     "wof:parent_id":85948489,
     "wof:placetype":"postalcode",

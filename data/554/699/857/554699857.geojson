@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000841,
-    "geom:area_square_m":7868191.800175,
+    "geom:area_square_m":7868191.800156,
     "geom:bbox":"-74.362636,40.843968,-74.317394,40.888766",
     "geom:latitude":40.867323,
     "geom:longitude":-74.342759,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.872514,
     "lbl:longitude":-74.341776,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pine Brook",
+    "mz:postal_locality_alt":[
+        "Montville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477767,
         85633793,
-        102087413
+        102087413,
+        404477767,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760649"
     },
     "wof:country":"US",
-    "wof:geomhash":"734dd4a64868570bb6b21d3711ae3878",
+    "wof:geomhash":"7837a468d48a3843d0e5fd79275e06eb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554699857,
-    "wof:lastmodified":1480816154,
+    "wof:lastmodified":1611184608,
     "wof:name":"07058",
     "wof:parent_id":404477767,
     "wof:placetype":"postalcode",

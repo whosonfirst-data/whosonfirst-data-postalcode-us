@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02444,
-    "geom:area_square_m":215334619.997948,
+    "geom:area_square_m":215334619.998128,
     "geom:bbox":"-73.712522,44.464282,-73.419212,44.625236",
     "geom:latitude":44.558132,
     "geom:longitude":-73.573417,
@@ -14,20 +14,25 @@
     "lbl:latitude":44.554081,
     "lbl:longitude":-73.569296,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Peru",
+    "mz:postal_locality_alt":[
+        "Chateaugay"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522053,
         85633793,
-        102081797
+        102081797,
+        404522053,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762584"
     },
     "wof:country":"US",
-    "wof:geomhash":"068deee93ffbaaa3965039ddbcaf8fb2",
+    "wof:geomhash":"24ff9b096c784bf912201097474d86f0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554701973,
-    "wof:lastmodified":1480829810,
+    "wof:lastmodified":1611182645,
     "wof:name":"12972",
     "wof:parent_id":404522053,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004671,
-    "geom:area_square_m":43866623.942069,
+    "geom:area_square_m":43866623.942026,
     "geom:bbox":"-79.893804,40.53399,-79.794695,40.632701",
     "geom:latitude":40.578546,
     "geom:longitude":-79.843698,
@@ -14,20 +14,26 @@
     "lbl:latitude":40.58497,
     "lbl:longitude":-79.847315,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cheswick",
+    "mz:postal_locality_alt":[
+        "Russellton",
+        "Curtisville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404484951,
         85633793,
-        102080887
+        102080887,
+        404484951,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763551"
     },
     "wof:country":"US",
-    "wof:geomhash":"14a879f2dfbb7a6ab49678857c353c3b",
+    "wof:geomhash":"3512e8b02a4ac3130a59a92f2571ca30",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554703369,
-    "wof:lastmodified":1480905386,
+    "wof:lastmodified":1611184468,
     "wof:name":"15024",
     "wof:parent_id":404484951,
     "wof:placetype":"postalcode",

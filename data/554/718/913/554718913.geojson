@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030924,
-    "geom:area_square_m":302803904.269128,
+    "geom:area_square_m":302803904.269198,
     "geom:bbox":"-84.945518,37.542495,-84.651682,37.717249",
     "geom:latitude":37.637864,
     "geom:longitude":-84.800731,
@@ -13,20 +13,27 @@
     "lbl:latitude":37.640997,
     "lbl:longitude":-84.797275,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Danville",
+    "mz:postal_locality_alt":[
+        "Lancaster",
+        "Junction City",
+        "Stanford"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688641,
         102191575,
         85633793,
+        102085579,
         85947155,
-        102085579
+        85688641
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12775287"
     },
     "wof:country":"US",
-    "wof:geomhash":"665ada8c7972453b5def3deb148c8a5c",
+    "wof:geomhash":"12e166b135d27837b9a6c2ac95793493",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +45,7 @@
         }
     ],
     "wof:id":554718913,
-    "wof:lastmodified":1480809664,
+    "wof:lastmodified":1611185567,
     "wof:name":"40422",
     "wof:parent_id":85947155,
     "wof:placetype":"postalcode",

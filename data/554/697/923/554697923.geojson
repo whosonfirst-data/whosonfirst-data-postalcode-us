@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027829,
-    "geom:area_square_m":246835688.158336,
+    "geom:area_square_m":246835688.15838,
     "geom:bbox":"-71.854022,44.07144,-71.537367,44.256317",
     "geom:latitude":44.167819,
     "geom:longitude":-71.701358,
@@ -14,20 +14,25 @@
     "lbl:latitude":44.163448,
     "lbl:longitude":-71.693296,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Franconia",
+    "mz:postal_locality_alt":[
+        "Bethlehem"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688689,
         102191575,
-        404476889,
         85633793,
-        102086567
+        102086567,
+        404476889,
+        85688689
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759226"
     },
     "wof:country":"US",
-    "wof:geomhash":"86c26da72c80c9a3099c01a3c5ea7f96",
+    "wof:geomhash":"a9dac0a36ee7efc934e6b441d4254228",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554697923,
-    "wof:lastmodified":1480916383,
+    "wof:lastmodified":1611184648,
     "wof:name":"03580",
     "wof:parent_id":404476889,
     "wof:placetype":"postalcode",

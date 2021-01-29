@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024572,
-    "geom:area_square_m":225835485.082636,
+    "geom:area_square_m":225835485.082658,
     "geom:bbox":"-72.407326,41.939863,-72.099525,42.033087",
     "geom:latitude":41.989672,
     "geom:longitude":-72.261637,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.984442,
     "lbl:longitude":-72.263452,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Stafford Springs",
+    "mz:postal_locality_alt":[
+        "Union"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688629,
         102191575,
-        404495905,
         85633793,
-        102085379
+        102085379,
+        404495905,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760223"
     },
     "wof:country":"US",
-    "wof:geomhash":"31ac4699a1432bedc065bcd3a77b2bce",
+    "wof:geomhash":"48d52de769da1c6b67c7280cd14d3948",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554699353,
-    "wof:lastmodified":1480814287,
+    "wof:lastmodified":1611184601,
     "wof:name":"06076",
     "wof:parent_id":404495905,
     "wof:placetype":"postalcode",

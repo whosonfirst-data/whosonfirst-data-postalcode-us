@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001903,
-    "geom:area_square_m":18404329.13154,
+    "geom:area_square_m":18404329.131551,
     "geom:bbox":"-89.883308,38.524414,-89.821788,38.57168",
     "geom:latitude":38.545591,
     "geom:longitude":-89.855336,
@@ -14,21 +14,26 @@
     "lbl:latitude":38.542964,
     "lbl:longitude":-89.852114,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Scott Afb",
+    "mz:postal_locality_alt":[
+        "Belleville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404499791,
         85633793,
+        102084321,
+        404499791,
         85941281,
-        102084321
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785005"
     },
     "wof:country":"US",
-    "wof:geomhash":"40b033ed0593e4ab677ffcd179e5c674",
+    "wof:geomhash":"a72afb6541c5542eabbc5f49545ead99",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554734699,
-    "wof:lastmodified":1480796994,
+    "wof:lastmodified":1611184201,
     "wof:name":"62225",
     "wof:parent_id":85941281,
     "wof:placetype":"postalcode",

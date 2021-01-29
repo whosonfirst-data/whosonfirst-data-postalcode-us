@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00747,
-    "geom:area_square_m":80986307.193322,
+    "geom:area_square_m":80986307.193295,
     "geom:bbox":"-82.580753,28.694585,-82.451416,28.805664",
     "geom:latitude":28.747288,
     "geom:longitude":-82.522163,
@@ -13,20 +13,26 @@
     "lbl:latitude":28.74728,
     "lbl:longitude":-82.522158,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Homosassa",
+    "mz:postal_locality_alt":[
+        "Homosassa Springs",
+        "Ocala"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688651,
         102191575,
         85633793,
+        102084715,
         85935389,
-        102084715
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12772751"
     },
     "wof:country":"US",
-    "wof:geomhash":"fe1a675cfe5a6749de1550c62244d739",
+    "wof:geomhash":"8e19bcd71e7662f10a30a2933227e99c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554714959,
-    "wof:lastmodified":1480814937,
+    "wof:lastmodified":1611183365,
     "wof:name":"34446",
     "wof:parent_id":85935389,
     "wof:placetype":"postalcode",

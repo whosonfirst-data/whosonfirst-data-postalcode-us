@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041488,
-    "geom:area_square_m":437039025.11805,
+    "geom:area_square_m":437039025.117633,
     "geom:bbox":"-89.400539,31.433931,-89.063633,31.686169",
     "geom:latitude":31.578455,
     "geom:longitude":-89.219997,
@@ -14,20 +14,25 @@
     "lbl:latitude":31.579926,
     "lbl:longitude":-89.218571,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ellisville",
+    "mz:postal_locality_alt":[
+        "Laurel"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688579,
         102191575,
         85633793,
+        102085901,
         85969991,
-        102085901
+        85688579
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12774938"
     },
     "wof:country":"US",
-    "wof:geomhash":"97a82011d9810a88d66c916146607f26",
+    "wof:geomhash":"15eefe41ea907964cba9998bdc22eea6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554718373,
-    "wof:lastmodified":1480913146,
+    "wof:lastmodified":1611185590,
     "wof:name":"39437",
     "wof:parent_id":85969991,
     "wof:placetype":"postalcode",

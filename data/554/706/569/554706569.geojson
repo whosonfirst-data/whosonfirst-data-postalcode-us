@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007622,
-    "geom:area_square_m":71840921.848561,
+    "geom:area_square_m":71840921.84846,
     "geom:bbox":"-75.910103,40.275673,-75.801211,40.389596",
     "geom:latitude":40.337133,
     "geom:longitude":-75.85738,
@@ -13,20 +13,22 @@
     "lbl:latitude":40.338694,
     "lbl:longitude":-75.857308,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Reading",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404484585,
         85633793,
-        102080991
+        102080991,
+        404484585,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765733"
     },
     "wof:country":"US",
-    "wof:geomhash":"b0eee441abfce398f3c890d96189c606",
+    "wof:geomhash":"4d5cb9881500f88f1ac23ef32677021a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +40,7 @@
         }
     ],
     "wof:id":554706569,
-    "wof:lastmodified":1480903399,
+    "wof:lastmodified":1611182682,
     "wof:name":"19606",
     "wof:parent_id":404484585,
     "wof:placetype":"postalcode",

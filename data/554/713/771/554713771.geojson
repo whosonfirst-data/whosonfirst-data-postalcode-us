@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035174,
-    "geom:area_square_m":369427535.304452,
+    "geom:area_square_m":369427535.304442,
     "geom:bbox":"-81.404961,31.71266,-81.138324,31.982537",
     "geom:latitude":31.853987,
     "geom:longitude":-81.267448,
@@ -14,19 +14,24 @@
     "lbl:latitude":31.851496,
     "lbl:longitude":-81.262181,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Richmond Hill",
+    "mz:postal_locality_alt":[
+        "Riceboro"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688535,
-        102081677
+        102081677,
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12771201"
     },
     "wof:country":"US",
-    "wof:geomhash":"9929fc75a5129363c4ba27fb71164104",
+    "wof:geomhash":"512a3608883dcaaed499cf1380aeb6db",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554713771,
-    "wof:lastmodified":1480832834,
+    "wof:lastmodified":1611183311,
     "wof:name":"31324",
     "wof:parent_id":102081677,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013797,
-    "geom:area_square_m":133405493.710944,
+    "geom:area_square_m":133405493.710882,
     "geom:bbox":"-96.893497,38.488534,-96.695186,38.60954",
     "geom:latitude":38.558522,
     "geom:longitude":-96.792954,
@@ -14,20 +14,22 @@
     "lbl:latitude":38.555437,
     "lbl:longitude":-96.800671,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Burdick",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404504681,
         85633793,
-        102083433
+        102083433,
+        404504681,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787001"
     },
     "wof:country":"US",
-    "wof:geomhash":"fcbeb50e242445b4d92d1f6fc2917980",
+    "wof:geomhash":"3457c3c398ba1b3940978da91292e7a7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554738401,
-    "wof:lastmodified":1480834983,
+    "wof:lastmodified":1611183101,
     "wof:name":"66838",
     "wof:parent_id":404504681,
     "wof:placetype":"postalcode",

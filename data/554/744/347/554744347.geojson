@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030104,
-    "geom:area_square_m":313030729.786821,
+    "geom:area_square_m":313030729.786893,
     "geom:bbox":"-96.422322,32.59387,-96.15909,32.897801",
     "geom:latitude":32.761674,
     "geom:longitude":-96.300155,
@@ -13,20 +13,27 @@
     "lbl:latitude":32.758408,
     "lbl:longitude":-96.301323,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Terrell",
+    "mz:postal_locality_alt":[
+        "Forney",
+        "Mesquite",
+        "Mabank"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102083833,
         101725913,
-        102083833
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12790420"
     },
     "wof:country":"US",
-    "wof:geomhash":"a90ad50020cee506a9a303683a839116",
+    "wof:geomhash":"64b5f5d8430aadb306bffa9df86ad040",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +45,7 @@
         }
     ],
     "wof:id":554744347,
-    "wof:lastmodified":1480903333,
+    "wof:lastmodified":1611184729,
     "wof:name":"75160",
     "wof:parent_id":101725913,
     "wof:placetype":"postalcode",

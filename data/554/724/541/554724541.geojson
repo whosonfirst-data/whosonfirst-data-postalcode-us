@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048372,
-    "geom:area_square_m":440423736.64098,
+    "geom:area_square_m":440423736.641054,
     "geom:bbox":"-84.974218,42.412646,-84.65325,42.712125",
     "geom:latitude":42.580146,
     "geom:longitude":-84.845382,
@@ -14,21 +14,27 @@
     "lbl:latitude":42.579775,
     "lbl:longitude":-84.845891,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Charlotte",
+    "mz:postal_locality_alt":[
+        "East Lansing",
+        "Potterville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404507335,
         85633793,
+        102083005,
+        404507335,
         85951429,
-        102083005
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779009"
     },
     "wof:country":"US",
-    "wof:geomhash":"68a9c4e7c7e49e1ecc2a233fb98c1952",
+    "wof:geomhash":"36400a0c6f375773514b5667d4c32c8c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554724541,
-    "wof:lastmodified":1480836906,
+    "wof:lastmodified":1611183773,
     "wof:name":"48813",
     "wof:parent_id":85951429,
     "wof:placetype":"postalcode",

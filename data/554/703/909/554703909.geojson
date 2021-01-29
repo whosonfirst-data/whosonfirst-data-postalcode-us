@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007817,
-    "geom:area_square_m":73664950.556175,
+    "geom:area_square_m":73664950.556146,
     "geom:bbox":"-79.406058,40.300628,-79.217199,40.397187",
     "geom:latitude":40.351276,
     "geom:longitude":-79.305961,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.351006,
     "lbl:longitude":-79.300048,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Derry",
+    "mz:postal_locality_alt":[
+        "Latrobe"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404487421,
         85633793,
-        102081383
+        102081383,
+        404487421,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763907"
     },
     "wof:country":"US",
-    "wof:geomhash":"f2c36567fc5d1506d9737bc7d306edf2",
+    "wof:geomhash":"0d0509770dcb7417cd8b8eca36c4e74a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554703909,
-    "wof:lastmodified":1480823410,
+    "wof:lastmodified":1611184445,
     "wof:name":"15627",
     "wof:parent_id":404487421,
     "wof:placetype":"postalcode",

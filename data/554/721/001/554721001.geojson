@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004079,
-    "geom:area_square_m":37774315.878807,
+    "geom:area_square_m":37774315.878823,
     "geom:bbox":"-81.511363,41.455464,-81.432276,41.537956",
     "geom:latitude":41.500536,
     "geom:longitude":-81.466758,
@@ -13,21 +13,28 @@
     "lbl:latitude":41.500022,
     "lbl:longitude":-81.465036,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cleveland",
+    "mz:postal_locality_alt":[
+        "Mayfield Heights",
+        "Lyndhurst",
+        "Pepper Pike"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404523429,
         85633793,
+        102084837,
+        404523429,
         101712507,
-        102084837
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776650"
     },
     "wof:country":"US",
-    "wof:geomhash":"bbb085baa440673e40becb3b3e29d237",
+    "wof:geomhash":"e52de1b4de0c1b82d93c86ac1472081a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +47,7 @@
         }
     ],
     "wof:id":554721001,
-    "wof:lastmodified":1480799990,
+    "wof:lastmodified":1611184957,
     "wof:name":"44124",
     "wof:parent_id":101712507,
     "wof:placetype":"postalcode",

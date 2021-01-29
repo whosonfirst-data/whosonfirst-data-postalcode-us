@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023594,
-    "geom:area_square_m":224685771.405183,
+    "geom:area_square_m":224685771.405163,
     "geom:bbox":"-99.272469,39.567254,-99.066182,39.72765",
     "geom:latitude":39.633333,
     "geom:longitude":-99.15784,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.643724,
     "lbl:longitude":-99.157743,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Kirwin",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404505541,
         85633793,
-        102082123
+        102082123,
+        404505541,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787365"
     },
     "wof:country":"US",
-    "wof:geomhash":"91ae4c022b04892f9e8b3509f267816c",
+    "wof:geomhash":"95b2a4ea5cd38ffa9ed69a2ff55ac9ec",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554739173,
-    "wof:lastmodified":1480834190,
+    "wof:lastmodified":1611182661,
     "wof:name":"67644",
     "wof:parent_id":404505541,
     "wof:placetype":"postalcode",

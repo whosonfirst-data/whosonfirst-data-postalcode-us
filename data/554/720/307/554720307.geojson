@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002039,
-    "geom:area_square_m":19281437.407288,
+    "geom:area_square_m":19281437.407278,
     "geom:bbox":"-83.055368,40.074383,-82.972001,40.127281",
     "geom:latitude":40.099889,
     "geom:longitude":-83.015711,
@@ -13,21 +13,26 @@
     "lbl:latitude":40.100924,
     "lbl:longitude":-83.013402,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Worthington",
+    "mz:postal_locality_alt":[
+        "Columbus"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404524645,
         85633793,
+        102080969,
+        404524645,
         101712435,
-        102080969
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776142"
     },
     "wof:country":"US",
-    "wof:geomhash":"7c31c10caec003bee13cac8e9ccdf489",
+    "wof:geomhash":"ae164261df249f20a9209203e39b93b4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554720307,
-    "wof:lastmodified":1480903868,
+    "wof:lastmodified":1611185446,
     "wof:name":"43085",
     "wof:parent_id":101712435,
     "wof:placetype":"postalcode",

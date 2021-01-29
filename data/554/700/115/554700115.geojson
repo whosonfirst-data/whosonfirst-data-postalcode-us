@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000818,
-    "geom:area_square_m":7635166.115876,
+    "geom:area_square_m":7635166.115875,
     "geom:bbox":"-74.077307,40.99405,-74.019236,41.020955",
     "geom:latitude":41.00727,
     "geom:longitude":-74.044102,
@@ -14,21 +14,26 @@
     "lbl:latitude":41.007127,
     "lbl:longitude":-74.045119,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hillsdale",
+    "mz:postal_locality_alt":[
+        "South Hackensack"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477551,
         85633793,
+        102086773,
+        404477551,
         85975989,
-        102086773
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760815"
     },
     "wof:country":"US",
-    "wof:geomhash":"aafda8edaf4059e842b9dd4b72f3ace8",
+    "wof:geomhash":"62c1c8059e0b0d1c4a63b0acfc628b0e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554700115,
-    "wof:lastmodified":1480908561,
+    "wof:lastmodified":1611183206,
     "wof:name":"07642",
     "wof:parent_id":85975989,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014325,
-    "geom:area_square_m":125349562.368853,
+    "geom:area_square_m":125349562.368835,
     "geom:bbox":"-74.441856,44.895024,-74.22961,44.996488",
     "geom:latitude":44.953299,
     "geom:longitude":-74.324884,
@@ -14,20 +14,25 @@
     "lbl:latitude":44.950822,
     "lbl:longitude":-74.329,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Constable",
+    "mz:postal_locality_alt":[
+        "Saranac Lake"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522407,
         85633793,
-        102081817
+        102081817,
+        404522407,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762548"
     },
     "wof:country":"US",
-    "wof:geomhash":"a0a9bf0b4f479cb0dd36380b4eb77748",
+    "wof:geomhash":"7345c2157ea2f942add286c38379e784",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554780069,
-    "wof:lastmodified":1480832644,
+    "wof:lastmodified":1611185189,
     "wof:name":"12926",
     "wof:parent_id":404522407,
     "wof:placetype":"postalcode",

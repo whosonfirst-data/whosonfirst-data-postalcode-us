@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000789,
-    "geom:area_square_m":8083364.537314,
+    "geom:area_square_m":8083364.53732,
     "geom:bbox":"-118.429918,34.012109,-118.368792,34.04643",
     "geom:latitude":34.030698,
     "geom:longitude":-118.399452,
@@ -13,20 +13,26 @@
     "lbl:latitude":34.030578,
     "lbl:longitude":-118.399613,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Los Angeles",
+    "mz:postal_locality_alt":[
+        "Culver City",
+        "Palms"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086957,
         85923517,
-        102086957
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795642"
     },
     "wof:country":"US",
-    "wof:geomhash":"286c2d7b5873fd562ca2cbfc508c57de",
+    "wof:geomhash":"635b9e57ffd87aedeba55c790cd18d81",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554783925,
-    "wof:lastmodified":1480912610,
+    "wof:lastmodified":1611183889,
     "wof:name":"90034",
     "wof:parent_id":85923517,
     "wof:placetype":"postalcode",

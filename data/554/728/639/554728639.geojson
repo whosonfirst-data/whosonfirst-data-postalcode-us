@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.080617,
-    "geom:area_square_m":710064946.399867,
+    "geom:area_square_m":710064946.399935,
     "geom:bbox":"-91.869213,44.375926,-91.528819,44.771857",
     "geom:latitude":44.576482,
     "geom:longitude":-91.684662,
@@ -14,21 +14,27 @@
     "lbl:latitude":44.575768,
     "lbl:longitude":-91.681302,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mondovi",
+    "mz:postal_locality_alt":[
+        "Wheeler",
+        "Eau Claire"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404492957,
         85633793,
+        102081261,
+        404492957,
         101733027,
-        102081261
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781507"
     },
     "wof:country":"US",
-    "wof:geomhash":"adfa506d01a73ad15784f5ed06e7c5f2",
+    "wof:geomhash":"3720a3e724199f80945ba00005fd1c88",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554728639,
-    "wof:lastmodified":1480833295,
+    "wof:lastmodified":1611185088,
     "wof:name":"54755",
     "wof:parent_id":101733027,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01354,
-    "geom:area_square_m":139631588.243646,
+    "geom:area_square_m":139631588.243648,
     "geom:bbox":"-84.578572,33.422407,-84.38163,33.550933",
     "geom:latitude":33.491717,
     "geom:longitude":-84.487411,
@@ -13,19 +13,26 @@
     "lbl:latitude":33.490463,
     "lbl:longitude":-84.485997,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fayetteville",
+    "mz:postal_locality_alt":[
+        "Forest Park",
+        "Tyrone",
+        "Stockbridge"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688535,
-        102081687
+        102081687,
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770655"
     },
     "wof:country":"US",
-    "wof:geomhash":"a1d586e1064bee8c87e9e44991966931",
+    "wof:geomhash":"64401c76fda7d04d6c5118c902b329d0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +43,7 @@
         }
     ],
     "wof:id":554712919,
-    "wof:lastmodified":1480841938,
+    "wof:lastmodified":1611183737,
     "wof:name":"30214",
     "wof:parent_id":102081687,
     "wof:placetype":"postalcode",

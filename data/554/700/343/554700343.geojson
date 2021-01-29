@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003592,
-    "geom:area_square_m":34124648.443905,
+    "geom:area_square_m":34124648.443898,
     "geom:bbox":"-75.063227,39.772863,-74.95271,39.836523",
     "geom:latitude":39.806702,
     "geom:longitude":-75.000582,
@@ -14,21 +14,30 @@
     "lbl:latitude":39.806194,
     "lbl:longitude":-75.000151,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Clementon",
+    "mz:postal_locality_alt":[
+        "Lindenwold",
+        "Pine Hill",
+        "Laurel Springs",
+        "Voorhees",
+        "Woodbury"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477995,
         85633793,
+        102081131,
+        404477995,
         85975669,
-        102081131
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760995"
     },
     "wof:country":"US",
-    "wof:geomhash":"67959cffce65ac6a684c430f15352438",
+    "wof:geomhash":"7448a361a68d878ddb49f152ed2d7c8b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +50,7 @@
         }
     ],
     "wof:id":554700343,
-    "wof:lastmodified":1480823438,
+    "wof:lastmodified":1611183210,
     "wof:name":"08021",
     "wof:parent_id":85975669,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006055,
-    "geom:area_square_m":62287759.581588,
+    "geom:area_square_m":62287759.581596,
     "geom:bbox":"-78.978024,33.642742,-78.824877,33.759282",
     "geom:latitude":33.69858,
     "geom:longitude":-78.903349,
@@ -13,20 +13,26 @@
     "lbl:latitude":33.698452,
     "lbl:longitude":-78.902659,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Myrtle Beach",
+    "mz:postal_locality_alt":[
+        "Pawleys Island",
+        "Murrells Inlet"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688683,
         102191575,
         85633793,
+        102085687,
         101720677,
-        102085687
+        85688683
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770270"
     },
     "wof:country":"US",
-    "wof:geomhash":"d87c278e132ebc5b9a18d470f8d986f2",
+    "wof:geomhash":"0d5aa188e21b3098d2c0572d0ff74e27",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554781121,
-    "wof:lastmodified":1480809546,
+    "wof:lastmodified":1611184823,
     "wof:name":"29577",
     "wof:parent_id":101720677,
     "wof:placetype":"postalcode",

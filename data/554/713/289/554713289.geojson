@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015194,
-    "geom:area_square_m":155253394.666027,
+    "geom:area_square_m":155253394.665996,
     "geom:bbox":"-83.672173,34.194336,-83.484014,34.368019",
     "geom:latitude":34.271258,
     "geom:longitude":-83.564491,
@@ -14,20 +14,25 @@
     "lbl:latitude":34.264056,
     "lbl:longitude":-83.566788,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Maysville",
+    "mz:postal_locality_alt":[
+        "Hiawassee"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688535,
         102191575,
         85633793,
+        102084689,
         85936749,
-        102084689
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770899"
     },
     "wof:country":"US",
-    "wof:geomhash":"ad32283cb0d5be614dd442e6a7a5ed32",
+    "wof:geomhash":"3b821143b4cb442d10c4da1cae5ca3fe",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554713289,
-    "wof:lastmodified":1480836743,
+    "wof:lastmodified":1611183300,
     "wof:name":"30558",
     "wof:parent_id":85936749,
     "wof:placetype":"postalcode",

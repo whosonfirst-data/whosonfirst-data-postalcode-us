@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032761,
-    "geom:area_square_m":282117433.747226,
+    "geom:area_square_m":282117433.747202,
     "geom:bbox":"-89.97447,45.754972,-89.669146,45.974593",
     "geom:latitude":45.859828,
     "geom:longitude":-89.821021,
@@ -14,20 +14,25 @@
     "lbl:latitude":45.865998,
     "lbl:longitude":-89.831729,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Minocqua",
+    "mz:postal_locality_alt":[
+        "Woodruff"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404494663,
         85633793,
-        102081305
+        102081305,
+        404494663,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781395"
     },
     "wof:country":"US",
-    "wof:geomhash":"94ab85b8686455b684ee088d6fd60396",
+    "wof:geomhash":"0648ac89ed6bf6dfc58a886b614843d1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554728425,
-    "wof:lastmodified":1480832427,
+    "wof:lastmodified":1611185053,
     "wof:name":"54548",
     "wof:parent_id":404494663,
     "wof:placetype":"postalcode",

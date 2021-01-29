@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007873,
-    "geom:area_square_m":72960819.229735,
+    "geom:area_square_m":72960819.229623,
     "geom:bbox":"-85.194032,41.394998,-85.098357,41.518623",
     "geom:latitude":41.453271,
     "geom:longitude":-85.155541,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.458442,
     "lbl:longitude":-85.151597,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Corunna",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404500229,
         85633793,
-        102086425
+        102086425,
+        404500229,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777855"
     },
     "wof:country":"US",
-    "wof:geomhash":"4b1e051f212678a2d6214d92dded3f48",
+    "wof:geomhash":"12e8bb4ffbff587c15b024c4af6de030",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554722831,
-    "wof:lastmodified":1480915897,
+    "wof:lastmodified":1611183241,
     "wof:name":"46730",
     "wof:parent_id":404500229,
     "wof:placetype":"postalcode",

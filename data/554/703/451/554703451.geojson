@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007717,
-    "geom:area_square_m":72421163.675528,
+    "geom:area_square_m":72421163.675485,
     "geom:bbox":"-79.866031,40.561932,-79.74117,40.672274",
     "geom:latitude":40.630145,
     "geom:longitude":-79.802836,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.62859,
     "lbl:longitude":-79.803264,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Tarentum",
+    "mz:postal_locality_alt":[
+        "Rural Ridge"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404482829,
         85633793,
-        102080887
+        102080887,
+        404482829,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763601"
     },
     "wof:country":"US",
-    "wof:geomhash":"e8da6dd3130a99974064fcd9ef81784f",
+    "wof:geomhash":"f4ecb9a1a74d4fcfed912c82f10f7018",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554703451,
-    "wof:lastmodified":1480905385,
+    "wof:lastmodified":1611184476,
     "wof:name":"15084",
     "wof:parent_id":404482829,
     "wof:placetype":"postalcode",

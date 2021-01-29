@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007559,
-    "geom:area_square_m":70935441.628113,
+    "geom:area_square_m":70935441.62806,
     "geom:bbox":"-76.499563,40.58561,-76.323793,40.692748",
     "geom:latitude":40.634307,
     "geom:longitude":-76.390504,
@@ -14,21 +14,26 @@
     "lbl:latitude":40.634118,
     "lbl:longitude":-76.389387,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Tremont",
+    "mz:postal_locality_alt":[
+        "Good Spring"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404487321,
         85633793,
+        102081271,
+        404487321,
         101717561,
-        102081271
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765007"
     },
     "wof:country":"US",
-    "wof:geomhash":"be3ab6b27932a6aa1ee1490616ac77a5",
+    "wof:geomhash":"0e894c98307f05bbc8a8eb0f6bb314c1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554705539,
-    "wof:lastmodified":1480823249,
+    "wof:lastmodified":1611184111,
     "wof:name":"17981",
     "wof:parent_id":101717561,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002169,
-    "geom:area_square_m":20838329.825563,
+    "geom:area_square_m":20838329.825559,
     "geom:bbox":"-76.965351,38.971651,-76.897595,39.03432",
     "geom:latitude":39.002713,
     "geom:longitude":-76.930965,
@@ -13,20 +13,25 @@
     "lbl:latitude":39.002745,
     "lbl:longitude":-76.931721,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"College Park",
+    "mz:postal_locality_alt":[
+        "Berwyn Heights"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688501,
         102191575,
         85633793,
+        102082191,
         85949331,
-        102082191
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766283"
     },
     "wof:country":"US",
-    "wof:geomhash":"7b61b8b7c4886eeaba55d10614d10e43",
+    "wof:geomhash":"a2f918c0840e2b4b70cf4636ea29eec3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554706967,
-    "wof:lastmodified":1480794375,
+    "wof:lastmodified":1611182703,
     "wof:name":"20740",
     "wof:parent_id":85949331,
     "wof:placetype":"postalcode",

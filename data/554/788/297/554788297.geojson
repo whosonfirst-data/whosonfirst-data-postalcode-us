@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000115,
-    "geom:area_square_m":1035107.363197,
+    "geom:area_square_m":1035107.363196,
     "geom:bbox":"-70.632562,43.149764,-70.596385,43.188639",
     "geom:latitude":43.172399,
     "geom:longitude":-70.616801,
@@ -14,21 +14,26 @@
     "lbl:latitude":43.185309,
     "lbl:longitude":-70.603455,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"York Beach",
+    "mz:postal_locality_alt":[
+        "York"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404475823,
         85633793,
+        102087449,
+        404475823,
         85949035,
-        102087449
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759362"
     },
     "wof:country":"US",
-    "wof:geomhash":"877ee9be2ef0d8f56c0355a15495bf0d",
+    "wof:geomhash":"0da6f52478b31cadaac52cbaf961c776",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554788297,
-    "wof:lastmodified":1480788171,
+    "wof:lastmodified":1611184765,
     "wof:name":"03910",
     "wof:parent_id":85949035,
     "wof:placetype":"postalcode",

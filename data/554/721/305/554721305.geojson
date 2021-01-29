@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005765,
-    "geom:area_square_m":53720402.458396,
+    "geom:area_square_m":53720402.458374,
     "geom:bbox":"-80.813376,41.061554,-80.711029,41.1343",
     "geom:latitude":41.101246,
     "geom:longitude":-80.763775,
@@ -13,21 +13,26 @@
     "lbl:latitude":41.102896,
     "lbl:longitude":-80.761275,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Youngstown",
+    "mz:postal_locality_alt":[
+        "Austintown"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404526093,
         85633793,
+        102084799,
+        404526093,
         101713857,
-        102084799
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776847"
     },
     "wof:country":"US",
-    "wof:geomhash":"e6f482089bda8b9653e3f388cad1d232",
+    "wof:geomhash":"a5e5f3537c715f0b1032f8392890a9b3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554721305,
-    "wof:lastmodified":1480841912,
+    "wof:lastmodified":1611184967,
     "wof:name":"44515",
     "wof:parent_id":101713857,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009437,
-    "geom:area_square_m":90579616.509884,
+    "geom:area_square_m":90579616.509872,
     "geom:bbox":"-85.109056,39.023068,-84.965449,39.146523",
     "geom:latitude":39.080796,
     "geom:longitude":-85.049776,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.086912,
     "lbl:longitude":-85.043662,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Moores Hill",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404501219,
         85633793,
-        102087067
+        102087067,
+        404501219,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778039"
     },
     "wof:country":"US",
-    "wof:geomhash":"2061ba4b0cc6e124334ffd0d5745eff1",
+    "wof:geomhash":"eae030d8648ebd83049220f5d41259f4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554723097,
-    "wof:lastmodified":1480910625,
+    "wof:lastmodified":1611183788,
     "wof:name":"47032",
     "wof:parent_id":404501219,
     "wof:placetype":"postalcode",

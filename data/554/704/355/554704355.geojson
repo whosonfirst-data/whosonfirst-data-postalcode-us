@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013944,
-    "geom:area_square_m":129938760.261151,
+    "geom:area_square_m":129938760.261129,
     "geom:bbox":"-80.319031,41.05065,-80.096861,41.16865",
     "geom:latitude":41.095616,
     "geom:longitude":-80.218021,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.088766,
     "lbl:longitude":-80.216432,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Volant",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485679,
         85633793,
-        102080929
+        102080929,
+        404485679,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764188"
     },
     "wof:country":"US",
-    "wof:geomhash":"163fb1a2d80ce0832b507d7e5a71b00a",
+    "wof:geomhash":"bbfc6f64003588d871358cd97df86988",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554704355,
-    "wof:lastmodified":1480906662,
+    "wof:lastmodified":1611184489,
     "wof:name":"16156",
     "wof:parent_id":404485679,
     "wof:placetype":"postalcode",

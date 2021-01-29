@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000984,
-    "geom:area_square_m":9167996.970266,
+    "geom:area_square_m":9167996.970276,
     "geom:bbox":"-80.616329,41.061795,-80.567876,41.091366",
     "geom:latitude":41.077699,
     "geom:longitude":-80.591876,
@@ -14,21 +14,23 @@
     "lbl:latitude":41.077984,
     "lbl:longitude":-80.592359,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Campbell",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404526099,
         85633793,
+        102084799,
+        404526099,
         101712479,
-        102084799
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776780"
     },
     "wof:country":"US",
-    "wof:geomhash":"517b7a9c44aaaffe7948d8293f4982cf",
+    "wof:geomhash":"184c720885562f450d5705956651056f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +43,7 @@
         }
     ],
     "wof:id":554721181,
-    "wof:lastmodified":1480797001,
+    "wof:lastmodified":1611184961,
     "wof:name":"44405",
     "wof:parent_id":101712479,
     "wof:placetype":"postalcode",

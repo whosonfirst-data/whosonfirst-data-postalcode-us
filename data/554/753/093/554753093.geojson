@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015177,
-    "geom:area_square_m":148108722.047563,
+    "geom:area_square_m":148108722.047271,
     "geom:bbox":"-121.990644,37.836724,-121.747969,37.955802",
     "geom:latitude":37.890211,
     "geom:longitude":-121.878366,
@@ -14,19 +14,24 @@
     "lbl:latitude":37.890217,
     "lbl:longitude":-121.878354,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Clayton",
+    "mz:postal_locality_alt":[
+        "Concord"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688637,
-        102086225
+        102086225,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12797312"
     },
     "wof:country":"US",
-    "wof:geomhash":"0c190b951853c0d2564e5fa0750e01ad",
+    "wof:geomhash":"a34251dce1f79cebddd00acddae1cc40",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554753093,
-    "wof:lastmodified":1480908616,
+    "wof:lastmodified":1611182967,
     "wof:name":"94517",
     "wof:parent_id":102086225,
     "wof:placetype":"postalcode",

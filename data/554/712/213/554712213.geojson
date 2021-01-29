@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035024,
-    "geom:area_square_m":362288306.304572,
+    "geom:area_square_m":362288306.304504,
     "geom:bbox":"-79.767605,33.120478,-79.44652,33.322308",
     "geom:latitude":33.222134,
     "geom:longitude":-79.628225,
@@ -14,19 +14,24 @@
     "lbl:latitude":33.225592,
     "lbl:longitude":-79.642781,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Jamestown",
+    "mz:postal_locality_alt":[
+        "Cordesville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688683,
-        102085397
+        102085397,
+        85688683
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770195"
     },
     "wof:country":"US",
-    "wof:geomhash":"4404fb5687b0d0f44721a9da48a2918d",
+    "wof:geomhash":"2503ab2cbc959e803204fbd4340cdf3f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554712213,
-    "wof:lastmodified":1480813650,
+    "wof:lastmodified":1611183727,
     "wof:name":"29453",
     "wof:parent_id":102085397,
     "wof:placetype":"postalcode",

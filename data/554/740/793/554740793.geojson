@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035863,
-    "geom:area_square_m":382897296.210044,
+    "geom:area_square_m":382897296.210096,
     "geom:bbox":"-91.980817,30.17594,-91.616681,30.394716",
     "geom:latitude":30.294839,
     "geom:longitude":-91.829569,
@@ -14,19 +14,24 @@
     "lbl:latitude":30.298246,
     "lbl:longitude":-91.83357,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Breaux Bridge",
+    "mz:postal_locality_alt":[
+        "Henderson"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688735,
-        102081925
+        102081925,
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12788324"
     },
     "wof:country":"US",
-    "wof:geomhash":"cbee2a783ee19c12dffce315b82f81d9",
+    "wof:geomhash":"b69a783fd65c1182d4cc14bdcbd91483",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554740793,
-    "wof:lastmodified":1480837974,
+    "wof:lastmodified":1611183404,
     "wof:name":"70517",
     "wof:parent_id":102081925,
     "wof:placetype":"postalcode",

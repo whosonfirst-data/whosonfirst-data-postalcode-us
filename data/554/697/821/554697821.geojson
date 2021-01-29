@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014348,
-    "geom:area_square_m":128635043.994855,
+    "geom:area_square_m":128635043.994903,
     "geom:bbox":"-71.706127,43.471047,-71.499961,43.582657",
     "geom:latitude":43.527944,
     "geom:longitude":-71.601585,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.524186,
     "lbl:longitude":-71.601607,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Sanbornton",
+    "mz:postal_locality_alt":[
+        "Franklin"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688689,
         102191575,
-        404476817,
         85633793,
-        102086503
+        102086503,
+        404476817,
+        85688689
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759167"
     },
     "wof:country":"US",
-    "wof:geomhash":"221a2a6c8b356605cf9a7b309b161586",
+    "wof:geomhash":"4454a72c3afc75ca5c5d215214e2d121",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554697821,
-    "wof:lastmodified":1480913719,
+    "wof:lastmodified":1611184641,
     "wof:name":"03269",
     "wof:parent_id":404476817,
     "wof:placetype":"postalcode",

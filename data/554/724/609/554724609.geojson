@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009391,
-    "geom:area_square_m":84985976.327942,
+    "geom:area_square_m":84985976.327959,
     "geom:bbox":"-85.030722,42.907617,-84.86889,43.014192",
     "geom:latitude":42.95567,
     "geom:longitude":-84.939782,
@@ -14,20 +14,22 @@
     "lbl:latitude":42.951056,
     "lbl:longitude":-84.9364,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lyons",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404506031,
         85633793,
-        102083143
+        102083143,
+        404506031,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779044"
     },
     "wof:country":"US",
-    "wof:geomhash":"b9bde72f66a5181f0e758cdae6ac4273",
+    "wof:geomhash":"15c99448b8c0d8eacda65456b077d30e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554724609,
-    "wof:lastmodified":1480838404,
+    "wof:lastmodified":1611183771,
     "wof:name":"48851",
     "wof:parent_id":404506031,
     "wof:placetype":"postalcode",

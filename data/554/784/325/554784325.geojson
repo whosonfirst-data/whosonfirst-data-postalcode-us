@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002964,
-    "geom:area_square_m":30811084.386662,
+    "geom:area_square_m":30811084.386745,
     "geom:bbox":"-117.266222,32.753049,-117.204222,32.838264",
     "geom:latitude":32.786269,
     "geom:longitude":-117.234277,
@@ -13,20 +13,26 @@
     "lbl:latitude":32.786772,
     "lbl:longitude":-117.234207,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"San Diego",
+    "mz:postal_locality_alt":[
+        "Pacific Beach",
+        "La Jolla"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102083569,
         85922227,
-        102083569
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796263"
     },
     "wof:country":"US",
-    "wof:geomhash":"88222942d9989ffc64beabfca6f30d52",
+    "wof:geomhash":"8b65abc2cbacc7f86679273ffdb44a9e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554784325,
-    "wof:lastmodified":1480835296,
+    "wof:lastmodified":1611183944,
     "wof:name":"92109",
     "wof:parent_id":85922227,
     "wof:placetype":"postalcode",

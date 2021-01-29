@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015416,
-    "geom:area_square_m":152017479.816529,
+    "geom:area_square_m":152017479.816335,
     "geom:bbox":"-89.097332,36.983369,-88.880668,37.20071",
     "geom:latitude":37.111495,
     "geom:longitude":-88.986087,
@@ -14,19 +14,25 @@
     "lbl:latitude":37.107275,
     "lbl:longitude":-88.986746,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"La Center",
+    "mz:postal_locality_alt":[
+        "Kuttawa",
+        "Arlington"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688641,
-        102084567
+        102084567,
+        85688641
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12775822"
     },
     "wof:country":"US",
-    "wof:geomhash":"1d98a45f41ab6e058c9219bb8a0a774d",
+    "wof:geomhash":"912ce80f02de33f247f6569d261289b4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554719759,
-    "wof:lastmodified":1480802981,
+    "wof:lastmodified":1611184926,
     "wof:name":"42056",
     "wof:parent_id":102084567,
     "wof:placetype":"postalcode",

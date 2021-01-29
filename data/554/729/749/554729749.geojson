@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000028,
-    "geom:area_square_m":247370.214434,
+    "geom:area_square_m":247370.214433,
     "geom:bbox":"-94.841803,44.049518,-94.834937,44.057952",
     "geom:latitude":44.053561,
     "geom:longitude":-94.839326,
@@ -14,21 +14,26 @@
     "lbl:latitude":44.053561,
     "lbl:longitude":-94.839326,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Darfur",
+    "mz:postal_locality_alt":[
+        "Butterfield"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404510971,
         85633793,
+        102087841,
+        404510971,
         85968907,
-        102087841
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782189"
     },
     "wof:country":"US",
-    "wof:geomhash":"bba7db76f3b2e4621045f0cdb8f8fcf8",
+    "wof:geomhash":"a749a9b56eb2a4a554aaa4ae0b14b06c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554729749,
-    "wof:lastmodified":1480785027,
+    "wof:lastmodified":1611185422,
     "wof:name":"56022",
     "wof:parent_id":85968907,
     "wof:placetype":"postalcode",

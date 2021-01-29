@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016525,
-    "geom:area_square_m":151738477.589212,
+    "geom:area_square_m":151738477.589249,
     "geom:bbox":"-85.212265,41.985081,-85.012139,42.133135",
     "geom:latitude":42.047329,
     "geom:longitude":-85.114174,
@@ -14,20 +14,25 @@
     "lbl:latitude":42.050304,
     "lbl:longitude":-85.11357,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Union City",
+    "mz:postal_locality_alt":[
+        "Burlington"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404507049,
         85633793,
-        102083037
+        102083037,
+        404507049,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779197"
     },
     "wof:country":"US",
-    "wof:geomhash":"95e9b7ccd979644fe164fd02e1659138",
+    "wof:geomhash":"09e9d7f15821e05de3b52a6cfc7a7916",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554724833,
-    "wof:lastmodified":1480843002,
+    "wof:lastmodified":1611183752,
     "wof:name":"49094",
     "wof:parent_id":404507049,
     "wof:placetype":"postalcode",

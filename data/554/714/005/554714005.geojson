@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026933,
-    "geom:area_square_m":284739553.684627,
+    "geom:area_square_m":284739553.684755,
     "geom:bbox":"-83.773415,31.134178,-83.508071,31.36326",
     "geom:latitude":31.242731,
     "geom:longitude":-83.646557,
@@ -14,19 +14,25 @@
     "lbl:latitude":31.248156,
     "lbl:longitude":-83.654159,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Norman Park",
+    "mz:postal_locality_alt":[
+        "Colquitt",
+        "Moultrie"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688535,
-        102084501
+        102084501,
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12771379"
     },
     "wof:country":"US",
-    "wof:geomhash":"5b93a460bf4220acffd04d4a33e92a35",
+    "wof:geomhash":"41c0bf6da6a8cb1942636ceca3ff7bc2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554714005,
-    "wof:lastmodified":1480802767,
+    "wof:lastmodified":1611183378,
     "wof:name":"31771",
     "wof:parent_id":102084501,
     "wof:placetype":"postalcode",

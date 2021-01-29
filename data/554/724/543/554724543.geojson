@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007905,
-    "geom:area_square_m":71673020.245498,
+    "geom:area_square_m":71673020.245508,
     "geom:bbox":"-85.320557,42.795754,-85.193273,42.88617",
     "geom:latitude":42.841292,
     "geom:longitude":-85.257105,
@@ -14,20 +14,22 @@
     "lbl:latitude":42.834371,
     "lbl:longitude":-85.258585,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Clarksville",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404507675,
         85633793,
-        102083143
+        102083143,
+        404507675,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779010"
     },
     "wof:country":"US",
-    "wof:geomhash":"b53134981ab867d85854e62fe994b2c9",
+    "wof:geomhash":"b510064d7687c23b0f2d4609c811b7bd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554724543,
-    "wof:lastmodified":1480838404,
+    "wof:lastmodified":1611183755,
     "wof:name":"48815",
     "wof:parent_id":404507675,
     "wof:placetype":"postalcode",

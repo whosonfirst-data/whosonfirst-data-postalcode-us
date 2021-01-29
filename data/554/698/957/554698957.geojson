@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035402,
-    "geom:area_square_m":310079473.809072,
+    "geom:area_square_m":310079473.80906,
     "geom:bbox":"-72.951071,44.791004,-72.642921,45.016421",
     "geom:latitude":44.90025,
     "geom:longitude":-72.79116,
@@ -14,21 +14,27 @@
     "lbl:latitude":44.894578,
     "lbl:longitude":-72.795246,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Enosburg Falls",
+    "mz:postal_locality_alt":[
+        "Sheldon",
+        "Richford"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688763,
         102191575,
-        404527011,
         85633793,
+        102080729,
+        404527011,
         101728273,
-        102080729
+        85688763
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759984"
     },
     "wof:country":"US",
-    "wof:geomhash":"2d3010b3ee82b541702c71f1ee79eca2",
+    "wof:geomhash":"be9a471632322dc27373239b1cfdbd7a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554698957,
-    "wof:lastmodified":1480903694,
+    "wof:lastmodified":1611184690,
     "wof:name":"05450",
     "wof:parent_id":101728273,
     "wof:placetype":"postalcode",

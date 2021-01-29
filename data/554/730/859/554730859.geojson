@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004251,
-    "geom:area_square_m":38113009.130318,
+    "geom:area_square_m":38113009.130296,
     "geom:bbox":"-97.2585,43.481002,-97.16917,43.557966",
     "geom:latitude":43.520674,
     "geom:longitude":-97.211958,
@@ -14,20 +14,22 @@
     "lbl:latitude":43.520671,
     "lbl:longitude":-97.211956,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Monroe",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688693,
         102191575,
-        404490601,
         85633793,
-        102086859
+        102086859,
+        404490601,
+        85688693
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782733"
     },
     "wof:country":"US",
-    "wof:geomhash":"b5332e88266c15a64167c18fea07bf38",
+    "wof:geomhash":"a4cf49e8cb8ff8662ec910e445c79b43",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554730859,
-    "wof:lastmodified":1480916971,
+    "wof:lastmodified":1611182730,
     "wof:name":"57047",
     "wof:parent_id":404490601,
     "wof:placetype":"postalcode",

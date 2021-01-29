@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002795,
-    "geom:area_square_m":25709142.672904,
+    "geom:area_square_m":25709142.672906,
     "geom:bbox":"-72.703746,41.899208,-72.613964,41.948096",
     "geom:latitude":41.927512,
     "geom:longitude":-72.657068,
@@ -14,21 +14,26 @@
     "lbl:latitude":41.92763,
     "lbl:longitude":-72.659703,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Windsor Locks",
+    "mz:postal_locality_alt":[
+        "Canton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688629,
         102191575,
-        404495835,
         85633793,
+        102085381,
+        404495835,
         85931007,
-        102085381
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760242"
     },
     "wof:country":"US",
-    "wof:geomhash":"c9774fb557d1d0bc5c7f8f366db16d56",
+    "wof:geomhash":"3363f5fe138ed806358729fba9665979",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554699381,
-    "wof:lastmodified":1480815745,
+    "wof:lastmodified":1611184634,
     "wof:name":"06096",
     "wof:parent_id":85931007,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019937,
-    "geom:area_square_m":186100751.787901,
+    "geom:area_square_m":186100751.787895,
     "geom:bbox":"-80.431205,40.878146,-80.163789,41.063362",
     "geom:latitude":40.985308,
     "geom:longitude":-80.287132,
@@ -13,20 +13,25 @@
     "lbl:latitude":40.983987,
     "lbl:longitude":-80.29024,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"New Castle",
+    "mz:postal_locality_alt":[
+        "New Wilmington"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485667,
         85633793,
-        102080929
+        102080929,
+        404485667,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764149"
     },
     "wof:country":"US",
-    "wof:geomhash":"a493b840210381f4182cfc52195e6589",
+    "wof:geomhash":"4b1f0591937726c742f50734245b39e6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554704287,
-    "wof:lastmodified":1480906172,
+    "wof:lastmodified":1611184492,
     "wof:name":"16101",
     "wof:parent_id":404485667,
     "wof:placetype":"postalcode",

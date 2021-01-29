@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.106543,
-    "geom:area_square_m":1108617978.716788,
+    "geom:area_square_m":1108617978.716872,
     "geom:bbox":"-106.195761,32.387901,-105.713448,33.027445",
     "geom:latitude":32.700785,
     "geom:longitude":-106.005695,
@@ -13,19 +13,28 @@
     "lbl:latitude":32.641272,
     "lbl:longitude":-106.072883,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Alamogordo",
+    "mz:postal_locality_alt":[
+        "Carrizozo",
+        "Holloman Afb",
+        "Holloman Air Force Base",
+        "Capitan",
+        "Alto"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688493,
-        102081169
+        102081169,
+        85688493
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795258"
     },
     "wof:country":"US",
-    "wof:geomhash":"7524aa5ab20cdb1c374677e2b90d474b",
+    "wof:geomhash":"1067464d207ec4baedcffd98e4ffd1c9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +45,7 @@
         }
     ],
     "wof:id":554751411,
-    "wof:lastmodified":1480817336,
+    "wof:lastmodified":1611184351,
     "wof:name":"88310",
     "wof:parent_id":102081169,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002537,
-    "geom:area_square_m":22155325.482584,
+    "geom:area_square_m":22155325.482634,
     "geom:bbox":"-92.984822,45.029721,-92.908874,45.110051",
     "geom:latitude":45.067661,
     "geom:longitude":-92.953351,
@@ -13,21 +13,28 @@
     "lbl:latitude":45.067903,
     "lbl:longitude":-92.953441,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Saint Paul",
+    "mz:postal_locality_alt":[
+        "St Paul",
+        "Mahtomedi",
+        "White Bear Lake"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404514905,
         85633793,
+        102087659,
+        404514905,
         85953571,
-        102087659
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781750"
     },
     "wof:country":"US",
-    "wof:geomhash":"24383126d296a814ec718e0e6badcca6",
+    "wof:geomhash":"f8e5251daf8190480cc8f123daefe2f8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +47,7 @@
         }
     ],
     "wof:id":554729077,
-    "wof:lastmodified":1480783433,
+    "wof:lastmodified":1611185411,
     "wof:name":"55115",
     "wof:parent_id":85953571,
     "wof:placetype":"postalcode",

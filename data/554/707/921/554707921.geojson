@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008453,
-    "geom:area_square_m":81985879.643631,
+    "geom:area_square_m":81985879.643559,
     "geom:bbox":"-78.985849,38.27838,-78.818317,38.391681",
     "geom:latitude":38.339199,
     "geom:longitude":-78.896797,
@@ -14,19 +14,25 @@
     "lbl:latitude":38.341793,
     "lbl:longitude":-78.892489,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mount Crawford",
+    "mz:postal_locality_alt":[
+        "Mt Crawford",
+        "Harrisonburg"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688747,
-        102085949
+        102085949,
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12767076"
     },
     "wof:country":"US",
-    "wof:geomhash":"3115d6bc5b098fa6f443b410fc712117",
+    "wof:geomhash":"b91995b56f6de7cfc9e4858319d5e6df",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554707921,
-    "wof:lastmodified":1480913500,
+    "wof:lastmodified":1611183171,
     "wof:name":"22841",
     "wof:parent_id":102085949,
     "wof:placetype":"postalcode",

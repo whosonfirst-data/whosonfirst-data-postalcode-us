@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005038,
-    "geom:area_square_m":41906284.477036,
+    "geom:area_square_m":41906284.477042,
     "geom:bbox":"-116.851272,47.700603,-116.720154,47.749895",
     "geom:latitude":47.72482,
     "geom:longitude":-116.789019,
@@ -13,20 +13,25 @@
     "lbl:latitude":47.726282,
     "lbl:longitude":-116.789947,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Coeur D Alene",
+    "mz:postal_locality_alt":[
+        "Dalton Gardens"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688657,
         102191575,
         85633793,
+        102086085,
         85938163,
-        102086085
+        85688657
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12793984"
     },
     "wof:country":"US",
-    "wof:geomhash":"6964d109e62f4725163552abb2c68ef3",
+    "wof:geomhash":"81073c1ab03e983629ef637c2d5a8f62",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554749637,
-    "wof:lastmodified":1480910964,
+    "wof:lastmodified":1611183582,
     "wof:name":"83815",
     "wof:parent_id":85938163,
     "wof:placetype":"postalcode",

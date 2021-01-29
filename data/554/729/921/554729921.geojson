@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048222,
-    "geom:area_square_m":429932810.207497,
+    "geom:area_square_m":429932810.207489,
     "geom:bbox":"-95.792785,43.761514,-95.380496,43.956655",
     "geom:latitude":43.860035,
     "geom:longitude":-95.577828,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.855847,
     "lbl:longitude":-95.572539,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fulda",
+    "mz:postal_locality_alt":[
+        "Dundee"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404513165,
         85633793,
-        102087879
+        102087879,
+        404513165,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782269"
     },
     "wof:country":"US",
-    "wof:geomhash":"d6d52f24732f109304886a76087edbcd",
+    "wof:geomhash":"5ec569b72bea216bfdaca8ec6ea25713",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554729921,
-    "wof:lastmodified":1480910356,
+    "wof:lastmodified":1611185443,
     "wof:name":"56131",
     "wof:parent_id":404513165,
     "wof:placetype":"postalcode",

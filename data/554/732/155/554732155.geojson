@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.062255,
-    "geom:area_square_m":533771762.805159,
+    "geom:area_square_m":533771762.804942,
     "geom:bbox":"-100.44048,45.942645,-99.982911,46.245789",
     "geom:latitude":46.10012,
     "geom:longitude":-100.203311,
@@ -14,20 +14,25 @@
     "lbl:latitude":46.098273,
     "lbl:longitude":-100.201007,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Strasburg",
+    "mz:postal_locality_alt":[
+        "Bismarck"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688525,
         102191575,
-        404481067,
         85633793,
-        102081477
+        102081477,
+        404481067,
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12783403"
     },
     "wof:country":"US",
-    "wof:geomhash":"0ad9d2672cb53e5db88ff8240cf47727",
+    "wof:geomhash":"6e7f42f97da0b80e25f8a4dcbaf51870",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554732155,
-    "wof:lastmodified":1480913554,
+    "wof:lastmodified":1611184390,
     "wof:name":"58573",
     "wof:parent_id":404481067,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049007,
-    "geom:area_square_m":431776394.810379,
+    "geom:area_square_m":431776394.810366,
     "geom:bbox":"-85.438811,44.472238,-84.870759,44.652479",
     "geom:latitude":44.559569,
     "geom:longitude":-85.202842,
@@ -14,20 +14,25 @@
     "lbl:latitude":44.558687,
     "lbl:longitude":-85.206185,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fife Lake",
+    "mz:postal_locality_alt":[
+        "Kingsley"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404509011,
         85633793,
-        102083755
+        102083755,
+        404509011,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779443"
     },
     "wof:country":"US",
-    "wof:geomhash":"689daeec859bd48d36df1a8ac369377d",
+    "wof:geomhash":"5c850c5cafd34f754cedc09b84682eda",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554725175,
-    "wof:lastmodified":1480843116,
+    "wof:lastmodified":1611183269,
     "wof:name":"49633",
     "wof:parent_id":404509011,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028605,
-    "geom:area_square_m":254017183.281439,
+    "geom:area_square_m":254017183.281558,
     "geom:bbox":"-71.110636,43.925198,-70.993308,44.284783",
     "geom:latitude":44.09742,
     "geom:longitude":-71.045178,
@@ -14,20 +14,25 @@
     "lbl:latitude":44.127402,
     "lbl:longitude":-71.060836,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"North Conway",
+    "mz:postal_locality_alt":[
+        "Center Conway"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688689,
         102191575,
-        404476949,
         85633793,
-        102086581
+        102086581,
+        404476949,
+        85688689
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759286"
     },
     "wof:country":"US",
-    "wof:geomhash":"4b8d8ffbff5dd379bfa76acb6e5c5424",
+    "wof:geomhash":"744566436e39948d209eb19c8b32bf29",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554698021,
-    "wof:lastmodified":1480911762,
+    "wof:lastmodified":1611184698,
     "wof:name":"03813",
     "wof:parent_id":404476949,
     "wof:placetype":"postalcode",

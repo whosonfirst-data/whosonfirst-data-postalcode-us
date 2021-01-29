@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005977,
-    "geom:area_square_m":60179431.157282,
+    "geom:area_square_m":60179431.157277,
     "geom:bbox":"-80.874374,35.440735,-80.710788,35.525807",
     "geom:latitude":35.485832,
     "geom:longitude":-80.794124,
@@ -14,19 +14,24 @@
     "lbl:latitude":35.480547,
     "lbl:longitude":-80.79254,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Davidson",
+    "mz:postal_locality_alt":[
+        "Cornelius"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688773,
-        102080981
+        102080981,
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12769378"
     },
     "wof:country":"US",
-    "wof:geomhash":"e237fdb90b309a7f6d83bb2b108b0d57",
+    "wof:geomhash":"f74c03268af24e0ce979420505eca076",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554711077,
-    "wof:lastmodified":1480906987,
+    "wof:lastmodified":1611185304,
     "wof:name":"28036",
     "wof:parent_id":102080981,
     "wof:placetype":"postalcode",

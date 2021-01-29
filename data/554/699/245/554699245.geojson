@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007517,
-    "geom:area_square_m":65880569.890406,
+    "geom:area_square_m":65880569.890376,
     "geom:bbox":"-72.120107,44.817141,-71.971589,44.92097",
     "geom:latitude":44.866813,
     "geom:longitude":-72.046609,
@@ -14,20 +14,22 @@
     "lbl:latitude":44.868527,
     "lbl:longitude":-72.048033,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"West Charleston",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688763,
         102191575,
-        404527197,
         85633793,
-        102087443
+        102087443,
+        404527197,
+        85688763
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760157"
     },
     "wof:country":"US",
-    "wof:geomhash":"c0560ad00cdc3eca80f1e9db1d6ad4ef",
+    "wof:geomhash":"188203cce301ae6b0e2bd6ee0326d281",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554699245,
-    "wof:lastmodified":1480784778,
+    "wof:lastmodified":1611184605,
     "wof:name":"05872",
     "wof:parent_id":404527197,
     "wof:placetype":"postalcode",

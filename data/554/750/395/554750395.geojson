@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02207,
-    "geom:area_square_m":227085021.306663,
+    "geom:area_square_m":227085021.306427,
     "geom:bbox":"-111.978158,33.604244,-111.683404,33.741139",
     "geom:latitude":33.683165,
     "geom:longitude":-111.821121,
@@ -13,20 +13,25 @@
     "lbl:latitude":33.668188,
     "lbl:longitude":-111.822512,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Scottsdale",
+    "mz:postal_locality_alt":[
+        "Chandler"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688719,
         102191575,
         85633793,
+        102087421,
         85917475,
-        102087421
+        85688719
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12794509"
     },
     "wof:country":"US",
-    "wof:geomhash":"d415682989b8d850caf908a54cdef397",
+    "wof:geomhash":"e4f20e04d190670473e473c7f810edab",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554750395,
-    "wof:lastmodified":1480786586,
+    "wof:lastmodified":1611184549,
     "wof:name":"85255",
     "wof:parent_id":85917475,
     "wof:placetype":"postalcode",

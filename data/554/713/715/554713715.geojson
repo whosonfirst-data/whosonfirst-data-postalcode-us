@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004628,
-    "geom:area_square_m":48201746.856635,
+    "geom:area_square_m":48201746.856496,
     "geom:bbox":"-83.61316,32.571802,-83.534123,32.666389",
     "geom:latitude":32.618091,
     "geom:longitude":-83.573871,
@@ -13,19 +13,24 @@
     "lbl:latitude":32.614215,
     "lbl:longitude":-83.56856,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Warner Robins",
+    "mz:postal_locality_alt":[
+        "Robins Afb"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688535,
-        102083617
+        102083617,
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12771139"
     },
     "wof:country":"US",
-    "wof:geomhash":"1101ab5de83eef8de4785792fe55c627",
+    "wof:geomhash":"c7f69e8ddb23849e689f0d633af3e090",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +41,7 @@
         }
     ],
     "wof:id":554713715,
-    "wof:lastmodified":1480839374,
+    "wof:lastmodified":1611183312,
     "wof:name":"31098",
     "wof:parent_id":102083617,
     "wof:placetype":"postalcode",

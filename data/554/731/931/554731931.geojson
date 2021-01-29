@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04328,
-    "geom:area_square_m":355925031.790265,
+    "geom:area_square_m":355925031.790274,
     "geom:bbox":"-99.005626,48.238266,-98.551818,48.384515",
     "geom:latitude":48.311645,
     "geom:longitude":-98.784958,
@@ -14,20 +14,22 @@
     "lbl:latitude":48.318151,
     "lbl:longitude":-98.778792,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Webster",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688525,
         102191575,
-        404481333,
         85633793,
-        102081517
+        102081517,
+        404481333,
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12783295"
     },
     "wof:country":"US",
-    "wof:geomhash":"82698eef99008e340ea71eadb4b3625c",
+    "wof:geomhash":"dc96c3f7b7b24677a5bafe3c261b77f7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554731931,
-    "wof:lastmodified":1480831347,
+    "wof:lastmodified":1611183055,
     "wof:name":"58382",
     "wof:parent_id":404481333,
     "wof:placetype":"postalcode",

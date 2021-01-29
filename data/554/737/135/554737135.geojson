@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032457,
-    "geom:area_square_m":314230175.901263,
+    "geom:area_square_m":314230175.901227,
     "geom:bbox":"-91.92754,38.375208,-91.629378,38.563405",
     "geom:latitude":38.468451,
     "geom:longitude":-91.793385,
@@ -14,20 +14,26 @@
     "lbl:latitude":38.469165,
     "lbl:longitude":-91.797166,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Linn",
+    "mz:postal_locality_alt":[
+        "Hermann",
+        "Ashland"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404518431,
         85633793,
-        102086907
+        102086907,
+        404518431,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786344"
     },
     "wof:country":"US",
-    "wof:geomhash":"9a55e8478f6115356ddee4f484985d21",
+    "wof:geomhash":"adec88b45c7e4e64720bc6e67cb75ebd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554737135,
-    "wof:lastmodified":1480916678,
+    "wof:lastmodified":1611182824,
     "wof:name":"65051",
     "wof:parent_id":404518431,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044395,
-    "geom:area_square_m":415136639.275063,
+    "geom:area_square_m":415136639.275229,
     "geom:bbox":"-78.376993,40.732551,-77.964234,41.004589",
     "geom:latitude":40.866967,
     "geom:longitude":-78.174744,
@@ -14,20 +14,26 @@
     "lbl:latitude":40.829699,
     "lbl:longitude":-78.181491,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Philipsburg",
+    "mz:postal_locality_alt":[
+        "University Park",
+        "Kylertown"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485873,
         85633793,
-        102081369
+        102081369,
+        404485873,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764498"
     },
     "wof:country":"US",
-    "wof:geomhash":"7bb4fd803eb9f31f792f06126339a193",
+    "wof:geomhash":"f9c4da949b31fb2ea3f674528d689179",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554704771,
-    "wof:lastmodified":1480904934,
+    "wof:lastmodified":1611184501,
     "wof:name":"16866",
     "wof:parent_id":404485873,
     "wof:placetype":"postalcode",

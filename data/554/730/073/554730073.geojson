@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017926,
-    "geom:area_square_m":157301163.343778,
+    "geom:area_square_m":157301163.343783,
     "geom:bbox":"-95.158748,44.628768,-95.016144,44.891689",
     "geom:latitude":44.792983,
     "geom:longitude":-95.092372,
@@ -14,20 +14,25 @@
     "lbl:latitude":44.763464,
     "lbl:longitude":-95.084058,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Danube",
+    "mz:postal_locality_alt":[
+        "Beardsley"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404512615,
         85633793,
-        102087655
+        102087655,
+        404512615,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782340"
     },
     "wof:country":"US",
-    "wof:geomhash":"2f1d0de4f290ba6208b7eb3c938ac52b",
+    "wof:geomhash":"9154e5069815cb28acc8ec5baaedf8e8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554730073,
-    "wof:lastmodified":1480789131,
+    "wof:lastmodified":1611182746,
     "wof:name":"56230",
     "wof:parent_id":404512615,
     "wof:placetype":"postalcode",

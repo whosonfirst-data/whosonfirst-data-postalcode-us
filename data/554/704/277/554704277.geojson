@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007104,
-    "geom:area_square_m":66592878.515619,
+    "geom:area_square_m":66592878.515582,
     "geom:bbox":"-80.010837,40.663763,-79.869399,40.748982",
     "geom:latitude":40.704033,
     "geom:longitude":-79.928435,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.707082,
     "lbl:longitude":-79.927088,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Valencia",
+    "mz:postal_locality_alt":[
+        "Slippery Rock"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404482871,
         85633793,
-        102083677
+        102083677,
+        404482871,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764145"
     },
     "wof:country":"US",
-    "wof:geomhash":"c984b22da5478f4d0a3ea8640f72c49c",
+    "wof:geomhash":"6265be90779398a30b2616f5b6140c5e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554704277,
-    "wof:lastmodified":1480905386,
+    "wof:lastmodified":1611184510,
     "wof:name":"16059",
     "wof:parent_id":404482871,
     "wof:placetype":"postalcode",

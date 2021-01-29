@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013293,
-    "geom:area_square_m":123748498.060626,
+    "geom:area_square_m":123748498.060622,
     "geom:bbox":"-80.031696,41.095698,-79.866286,41.235252",
     "geom:latitude":41.160018,
     "geom:longitude":-79.951318,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.164486,
     "lbl:longitude":-79.953346,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Harrisville",
+    "mz:postal_locality_alt":[
+        "Foxburg"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404484985,
         85633793,
-        102083677
+        102083677,
+        404484985,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764128"
     },
     "wof:country":"US",
-    "wof:geomhash":"566f84ef6e3577c48632454374177fcd",
+    "wof:geomhash":"246cc2e05e860c45c323bb895a4a88cc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554704249,
-    "wof:lastmodified":1480906660,
+    "wof:lastmodified":1611184512,
     "wof:name":"16038",
     "wof:parent_id":404484985,
     "wof:placetype":"postalcode",

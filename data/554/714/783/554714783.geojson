@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033083,
-    "geom:area_square_m":359340936.075703,
+    "geom:area_square_m":359340936.075626,
     "geom:bbox":"-82.217253,28.437256,-81.954072,28.649117",
     "geom:latitude":28.54901,
     "geom:longitude":-82.080538,
@@ -14,19 +14,24 @@
     "lbl:latitude":28.545531,
     "lbl:longitude":-82.080532,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Webster",
+    "mz:postal_locality_alt":[
+        "Bushnell"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688651,
-        102085855
+        102085855,
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12772402"
     },
     "wof:country":"US",
-    "wof:geomhash":"ce9711c2c0da982675c677f8156c05a8",
+    "wof:geomhash":"3abfc22e904e9c12ca94ac7f8f053e32",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554714783,
-    "wof:lastmodified":1480814937,
+    "wof:lastmodified":1611183362,
     "wof:name":"33597",
     "wof:parent_id":102085855,
     "wof:placetype":"postalcode",

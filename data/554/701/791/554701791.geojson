@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019549,
-    "geom:area_square_m":176228833.772801,
+    "geom:area_square_m":176228833.772617,
     "geom:bbox":"-73.786902,43.113016,-73.579219,43.27844",
     "geom:latitude":43.195221,
     "geom:longitude":-73.688247,
@@ -14,20 +14,27 @@
     "lbl:latitude":43.195329,
     "lbl:longitude":-73.691811,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Gansevoort",
+    "mz:postal_locality_alt":[
+        "Wilton",
+        "Greenfield Ctr",
+        "Saratoga Springs"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522377,
         85633793,
-        102082413
+        102082413,
+        404522377,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762484"
     },
     "wof:country":"US",
-    "wof:geomhash":"bbbf83ffb6782b51cfa0497d1699330b",
+    "wof:geomhash":"fb23966450877ea235d1ad6b00cb160e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554701791,
-    "wof:lastmodified":1480835109,
+    "wof:lastmodified":1611182614,
     "wof:name":"12831",
     "wof:parent_id":404522377,
     "wof:placetype":"postalcode",

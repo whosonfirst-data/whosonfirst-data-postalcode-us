@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01174,
-    "geom:area_square_m":112028508.442475,
+    "geom:area_square_m":112028508.442512,
     "geom:bbox":"-75.087129,39.423244,-74.867851,39.558167",
     "geom:latitude":39.494287,
     "geom:longitude":-75.006525,
@@ -13,21 +13,26 @@
     "lbl:latitude":39.495524,
     "lbl:longitude":-75.008665,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Vineland",
+    "mz:postal_locality_alt":[
+        "Millville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478097,
         85633793,
+        102080721,
+        404478097,
         85975801,
-        102080721
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761149"
     },
     "wof:country":"US",
-    "wof:geomhash":"acc8dacd2b744bc4636be49b3f910b3e",
+    "wof:geomhash":"b7a18ce83f75a6f9b0ea56fb8bde0a32",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554700553,
-    "wof:lastmodified":1480905055,
+    "wof:lastmodified":1611183196,
     "wof:name":"08360",
     "wof:parent_id":85975801,
     "wof:placetype":"postalcode",

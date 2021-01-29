@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004913,
-    "geom:area_square_m":45636746.299084,
+    "geom:area_square_m":45636746.299054,
     "geom:bbox":"-72.51395,41.254847,-72.416635,41.347599",
     "geom:latitude":41.303536,
     "geom:longitude":-72.466415,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.303694,
     "lbl:longitude":-72.478017,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Westbrook",
+    "mz:postal_locality_alt":[
+        "Fairfield"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688629,
         102191575,
-        404495695,
         85633793,
-        102086211
+        102086211,
+        404495695,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760442"
     },
     "wof:country":"US",
-    "wof:geomhash":"019cb740b134074f7e914fad6e8aca60",
+    "wof:geomhash":"8bc28ef32dab652c09bec357eb9923cc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554779021,
-    "wof:lastmodified":1480908719,
+    "wof:lastmodified":1611183984,
     "wof:name":"06498",
     "wof:parent_id":404495695,
     "wof:placetype":"postalcode",

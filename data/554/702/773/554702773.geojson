@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004694,
-    "geom:area_square_m":42418753.267603,
+    "geom:area_square_m":42418753.267564,
     "geom:bbox":"-78.737942,42.996555,-78.660081,43.08868",
     "geom:latitude":43.042168,
     "geom:longitude":-78.699105,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.042842,
     "lbl:longitude":-78.699413,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"East Amherst",
+    "mz:postal_locality_alt":[
+        "Swormville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522321,
         85633793,
-        102082387
+        102082387,
+        404522321,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763091"
     },
     "wof:country":"US",
-    "wof:geomhash":"8e14db1920dccee17bac6e186391b920",
+    "wof:geomhash":"0a103661edd1d0090732e2c22efd99c7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554702773,
-    "wof:lastmodified":1480819686,
+    "wof:lastmodified":1611184172,
     "wof:name":"14051",
     "wof:parent_id":404522321,
     "wof:placetype":"postalcode",

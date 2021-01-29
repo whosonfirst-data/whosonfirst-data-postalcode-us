@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012102,
-    "geom:area_square_m":102321818.212226,
+    "geom:area_square_m":102321818.212272,
     "geom:bbox":"-96.99688,46.802199,-96.852748,46.935866",
     "geom:latitude":46.863052,
     "geom:longitude":-96.931274,
@@ -14,20 +14,22 @@
     "lbl:latitude":46.8625,
     "lbl:longitude":-96.924088,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"West Fargo",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688525,
         102191575,
-        404480541,
         85633793,
-        102082073
+        102082073,
+        404480541,
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12783166"
     },
     "wof:country":"US",
-    "wof:geomhash":"ca98d71f478b76cd480f277761176817",
+    "wof:geomhash":"22519db9ce00f6d723f1804e0c63f10c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554731697,
-    "wof:lastmodified":1480795317,
+    "wof:lastmodified":1611183083,
     "wof:name":"58078",
     "wof:parent_id":404480541,
     "wof:placetype":"postalcode",

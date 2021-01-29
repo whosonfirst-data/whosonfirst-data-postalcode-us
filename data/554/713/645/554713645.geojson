@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021812,
-    "geom:area_square_m":227641453.812452,
+    "geom:area_square_m":227641453.812572,
     "geom:bbox":"-84.044236,32.330089,-83.836673,32.514336",
     "geom:latitude":32.432856,
     "geom:longitude":-83.935359,
@@ -14,19 +14,24 @@
     "lbl:latitude":32.435,
     "lbl:longitude":-83.936561,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Marshallville",
+    "mz:postal_locality_alt":[
+        "Montezuma"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688535,
-        102084475
+        102084475,
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12771101"
     },
     "wof:country":"US",
-    "wof:geomhash":"5554f3d14de76b50066f4e1ee6bf31db",
+    "wof:geomhash":"50ca718ed4c2a075bd5c016cdac90ccc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554713645,
-    "wof:lastmodified":1480839375,
+    "wof:lastmodified":1611183300,
     "wof:name":"31057",
     "wof:parent_id":102084475,
     "wof:placetype":"postalcode",

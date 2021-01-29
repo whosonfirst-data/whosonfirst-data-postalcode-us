@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013134,
-    "geom:area_square_m":124123613.964177,
+    "geom:area_square_m":124123613.964164,
     "geom:bbox":"-96.784698,40.102619,-96.537919,40.204347",
     "geom:latitude":40.153921,
     "geom:longitude":-96.640123,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.150987,
     "lbl:longitude":-96.638386,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Blue Springs",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688563,
         102191575,
-        404518465,
         85633793,
-        102083491
+        102083491,
+        404518465,
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787589"
     },
     "wof:country":"US",
-    "wof:geomhash":"7faa7f2a42db05ed490677daef4220da",
+    "wof:geomhash":"b525e27674cf497bfb7d0d851be3745d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554739603,
-    "wof:lastmodified":1480843039,
+    "wof:lastmodified":1611182659,
     "wof:name":"68318",
     "wof:parent_id":404518465,
     "wof:placetype":"postalcode",

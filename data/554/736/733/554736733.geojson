@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018784,
-    "geom:area_square_m":177011456.56956,
+    "geom:area_square_m":177011456.56952,
     "geom:bbox":"-94.760601,40.283165,-94.541998,40.417271",
     "geom:latitude":40.350299,
     "geom:longitude":-94.663466,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.333987,
     "lbl:longitude":-94.647005,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ravenwood",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404517057,
         85633793,
-        102087507
+        102087507,
+        404517057,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786141"
     },
     "wof:country":"US",
-    "wof:geomhash":"46ee473293a150f7ed9c1606a4ecc193",
+    "wof:geomhash":"7e776cf8cdb5e63f71504cfea46599fc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554736733,
-    "wof:lastmodified":1480804913,
+    "wof:lastmodified":1611183037,
     "wof:name":"64479",
     "wof:parent_id":404517057,
     "wof:placetype":"postalcode",

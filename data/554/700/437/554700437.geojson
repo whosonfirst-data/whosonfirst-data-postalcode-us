@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0079,
-    "geom:area_square_m":75098297.030927,
+    "geom:area_square_m":75098297.030968,
     "geom:bbox":"-75.216336,39.708496,-75.023874,39.80924",
     "geom:latitude":39.755827,
     "geom:longitude":-75.118783,
@@ -14,20 +14,28 @@
     "lbl:latitude":39.757432,
     "lbl:longitude":-75.121872,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Sewell",
+    "mz:postal_locality_alt":[
+        "Pitman",
+        "Blackwood",
+        "Turnersville",
+        "Mullica Hill"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478183,
         85633793,
-        102085999
+        102085999,
+        404478183,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761049"
     },
     "wof:country":"US",
-    "wof:geomhash":"db3fcb034a43b88e6c371922d07c99b9",
+    "wof:geomhash":"85e481827b00fcfabe1fe2b9535b9170",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +47,7 @@
         }
     ],
     "wof:id":554700437,
-    "wof:lastmodified":1480823437,
+    "wof:lastmodified":1611183184,
     "wof:name":"08080",
     "wof:parent_id":404478183,
     "wof:placetype":"postalcode",

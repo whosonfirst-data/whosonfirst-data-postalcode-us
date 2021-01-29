@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012813,
-    "geom:area_square_m":121462795.498733,
+    "geom:area_square_m":121462795.498755,
     "geom:bbox":"-89.994807,39.90151,-89.811404,40.013941",
     "geom:latitude":39.945975,
     "geom:longitude":-89.923106,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.945973,
     "lbl:longitude":-89.923096,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Tallula",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404499805,
         85633793,
-        102080831
+        102080831,
+        404499805,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785294"
     },
     "wof:country":"US",
-    "wof:geomhash":"b0e0465a227e52d6fd0745c12aef084e",
+    "wof:geomhash":"425bd169b0f6fefaab7634f763725907",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554735263,
-    "wof:lastmodified":1480914237,
+    "wof:lastmodified":1611184440,
     "wof:name":"62688",
     "wof:parent_id":404499805,
     "wof:placetype":"postalcode",

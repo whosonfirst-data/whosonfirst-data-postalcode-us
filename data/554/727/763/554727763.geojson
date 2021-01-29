@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015621,
-    "geom:area_square_m":140691641.761603,
+    "geom:area_square_m":140691641.761682,
     "geom:bbox":"-89.451639,43.16457,-89.231371,43.311105",
     "geom:latitude":43.24904,
     "geom:longitude":-89.324802,
@@ -14,21 +14,26 @@
     "lbl:latitude":43.250204,
     "lbl:longitude":-89.326329,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"De Forest",
+    "mz:postal_locality_alt":[
+        "Morrisonville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404493319,
         85633793,
+        102081795,
+        404493319,
         101732771,
-        102081795
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12780982"
     },
     "wof:country":"US",
-    "wof:geomhash":"3354d16ee9f318ebe376db861a8cdfbf",
+    "wof:geomhash":"7b25fb265cb0bf4a1dd73191a65f12c7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554727763,
-    "wof:lastmodified":1480824374,
+    "wof:lastmodified":1611185492,
     "wof:name":"53532",
     "wof:parent_id":101732771,
     "wof:placetype":"postalcode",

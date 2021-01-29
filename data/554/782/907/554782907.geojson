@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.101223,
-    "geom:area_square_m":863360792.675202,
+    "geom:area_square_m":863360792.675661,
     "geom:bbox":"-89.853814,46.221783,-89.365031,46.5743",
     "geom:latitude":46.386951,
     "geom:longitude":-89.597168,
@@ -14,20 +14,22 @@
     "lbl:latitude":46.385417,
     "lbl:longitude":-89.616356,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Marenisco",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404505665,
         85633793,
-        102083009
+        102083009,
+        404505665,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779663"
     },
     "wof:country":"US",
-    "wof:geomhash":"b839064d8d7b4bc221131b0acf5236b8",
+    "wof:geomhash":"1f8cb451046b6bef7c3bd0761fdad92b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554782907,
-    "wof:lastmodified":1480836900,
+    "wof:lastmodified":1611183600,
     "wof:name":"49947",
     "wof:parent_id":404505665,
     "wof:placetype":"postalcode",

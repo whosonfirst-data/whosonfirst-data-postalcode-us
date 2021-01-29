@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016679,
-    "geom:area_square_m":160791561.527867,
+    "geom:area_square_m":160791561.527838,
     "geom:bbox":"-83.917054,38.695826,-83.695551,38.839219",
     "geom:latitude":38.772813,
     "geom:longitude":-83.800604,
@@ -14,20 +14,27 @@
     "lbl:latitude":38.781663,
     "lbl:longitude":-83.789731,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ripley",
+    "mz:postal_locality_alt":[
+        "Hillsboro",
+        "Miamiville",
+        "Sardinia"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404524909,
         85633793,
-        102083665
+        102083665,
+        404524909,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777114"
     },
     "wof:country":"US",
-    "wof:geomhash":"b894edec551e3fa0ace65140ee58b112",
+    "wof:geomhash":"fa1ed65ce2edd6205a7a144e5909ef92",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554721693,
-    "wof:lastmodified":1480840116,
+    "wof:lastmodified":1611184955,
     "wof:name":"45167",
     "wof:parent_id":404524909,
     "wof:placetype":"postalcode",

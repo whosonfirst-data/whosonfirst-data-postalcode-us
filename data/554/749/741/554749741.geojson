@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005889,
-    "geom:area_square_m":54854626.865021,
+    "geom:area_square_m":54854626.865035,
     "geom:bbox":"-112.130047,41.074665,-111.987173,41.152731",
     "geom:latitude":41.120889,
     "geom:longitude":-112.061182,
@@ -13,20 +13,25 @@
     "lbl:latitude":41.120356,
     "lbl:longitude":-112.060775,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Clearfield",
+    "mz:postal_locality_alt":[
+        "Lindon"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688567,
         102191575,
         85633793,
+        102083563,
         101727885,
-        102083563
+        85688567
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12794047"
     },
     "wof:country":"US",
-    "wof:geomhash":"266c526c060c44385ed3354ae0566a6c",
+    "wof:geomhash":"2e46b0bb98594342c721868e853cbc14",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554749741,
-    "wof:lastmodified":1480841407,
+    "wof:lastmodified":1611183565,
     "wof:name":"84015",
     "wof:parent_id":101727885,
     "wof:placetype":"postalcode",

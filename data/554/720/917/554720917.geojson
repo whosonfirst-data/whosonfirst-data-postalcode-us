@@ -13,20 +13,27 @@
     "lbl:latitude":41.384751,
     "lbl:longitude":-81.285759,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Chagrin Falls",
+    "mz:postal_locality_alt":[
+        "Burton",
+        "Mantua",
+        "Hiram"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404524605,
         85633793,
-        102084789
+        102084789,
+        404524605,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776572"
     },
     "wof:country":"US",
-    "wof:geomhash":"fd4f7ff90ddecdefef90309d4d651870",
+    "wof:geomhash":"ae166b3bc5c8db9df8e3d5e631ff014a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +45,7 @@
         }
     ],
     "wof:id":554720917,
-    "wof:lastmodified":1480799988,
+    "wof:lastmodified":1611185489,
     "wof:name":"44023",
     "wof:parent_id":404524605,
     "wof:placetype":"postalcode",

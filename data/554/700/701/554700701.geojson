@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001459,
-    "geom:area_square_m":13696277.281695,
+    "geom:area_square_m":13696277.28167,
     "geom:bbox":"-74.517733,40.580725,-74.452321,40.622927",
     "geom:latitude":40.599853,
     "geom:longitude":-74.48071,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.598731,
     "lbl:longitude":-74.478793,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Dunellen",
+    "mz:postal_locality_alt":[
+        "Green Brook"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477365,
         85633793,
-        102085045
+        102085045,
+        404477365,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761263"
     },
     "wof:country":"US",
-    "wof:geomhash":"49efb5f365beb34337b4e39b6275a321",
+    "wof:geomhash":"93acbd48c6378a365984dcc2d3420dc3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554700701,
-    "wof:lastmodified":1480806954,
+    "wof:lastmodified":1611183175,
     "wof:name":"08812",
     "wof:parent_id":404477365,
     "wof:placetype":"postalcode",

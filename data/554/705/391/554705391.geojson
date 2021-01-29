@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038633,
-    "geom:area_square_m":359013814.246293,
+    "geom:area_square_m":359013814.246054,
     "geom:bbox":"-76.504715,41.152251,-76.241685,41.413904",
     "geom:latitude":41.276075,
     "geom:longitude":-76.369335,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.273237,
     "lbl:longitude":-76.363142,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Benton",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404483119,
         85633793,
-        102080973
+        102080973,
+        404483119,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764903"
     },
     "wof:country":"US",
-    "wof:geomhash":"022a969b62435ba0501b1008e4b4551f",
+    "wof:geomhash":"2f373247ba05f3462c29c4105473d7a9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554705391,
-    "wof:lastmodified":1480906199,
+    "wof:lastmodified":1611184091,
     "wof:name":"17814",
     "wof:parent_id":404483119,
     "wof:placetype":"postalcode",

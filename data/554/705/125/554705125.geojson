@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003592,
-    "geom:area_square_m":34078090.091006,
+    "geom:area_square_m":34078090.091028,
     "geom:bbox":"-77.021339,39.858225,-76.931082,39.933149",
     "geom:latitude":39.890657,
     "geom:longitude":-76.980297,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.895227,
     "lbl:longitude":-76.978982,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Abbottstown",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404487861,
         85633793,
-        102080953
+        102080953,
+        404487861,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764717"
     },
     "wof:country":"US",
-    "wof:geomhash":"85a29ec4e1936fb70b2636fe61493498",
+    "wof:geomhash":"c21fbf49d3b2a3bbc94c67b9641ade7b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554705125,
-    "wof:lastmodified":1480903983,
+    "wof:lastmodified":1611184129,
     "wof:name":"17301",
     "wof:parent_id":404487861,
     "wof:placetype":"postalcode",

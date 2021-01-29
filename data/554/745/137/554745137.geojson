@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002088,
-    "geom:area_square_m":21712489.952696,
+    "geom:area_square_m":21712489.95271,
     "geom:bbox":"-97.322383,32.74792,-97.270167,32.810702",
     "geom:latitude":32.778113,
     "geom:longitude":-97.299865,
@@ -13,20 +13,25 @@
     "lbl:latitude":32.778499,
     "lbl:longitude":-97.300112,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fort Worth",
+    "mz:postal_locality_alt":[
+        "Haltom City"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102083201,
         101724443,
-        102083201
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12790927"
     },
     "wof:country":"US",
-    "wof:geomhash":"7f1b7a243f03910acf62f6312432c575",
+    "wof:geomhash":"a58922de5afee0c3566c611c9272d958",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554745137,
-    "wof:lastmodified":1480840096,
+    "wof:lastmodified":1611185278,
     "wof:name":"76111",
     "wof:parent_id":101724443,
     "wof:placetype":"postalcode",

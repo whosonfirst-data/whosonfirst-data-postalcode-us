@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01426,
-    "geom:area_square_m":132887687.938842,
+    "geom:area_square_m":132887687.938938,
     "geom:bbox":"-85.060794,41.019943,-84.888064,41.18423",
     "geom:latitude":41.091931,
     "geom:longitude":-84.969704,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.089207,
     "lbl:longitude":-84.972367,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"New Haven",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404500971,
         85633793,
-        102087177
+        102087177,
+        404500971,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777884"
     },
     "wof:country":"US",
-    "wof:geomhash":"55eef0fbe1723ad6c84f3e876556a1dc",
+    "wof:geomhash":"23f3d9526058fdf449cc81bf79f31b90",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554722891,
-    "wof:lastmodified":1480784651,
+    "wof:lastmodified":1611183242,
     "wof:name":"46774",
     "wof:parent_id":404500971,
     "wof:placetype":"postalcode",

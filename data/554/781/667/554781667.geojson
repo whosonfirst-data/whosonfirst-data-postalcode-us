@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001527,
-    "geom:area_square_m":16947211.563077,
+    "geom:area_square_m":16947211.563066,
     "geom:bbox":"-80.257009,26.133826,-80.199034,26.172877",
     "geom:latitude":26.15042,
     "geom:longitude":-80.226336,
@@ -13,20 +13,29 @@
     "lbl:latitude":26.151527,
     "lbl:longitude":-80.227316,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fort Lauderdale",
+    "mz:postal_locality_alt":[
+        "Lauderhill",
+        "Sunrise",
+        "Plantation",
+        "Lauderdale Lakes",
+        "Tamarac"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688651,
         102191575,
         85633793,
+        102084727,
         85932341,
-        102084727
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12772238"
     },
     "wof:country":"US",
-    "wof:geomhash":"63aa4187879b111bc7455860cc708f2e",
+    "wof:geomhash":"04c8c16528545927c54cd8b41011e7a5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +47,7 @@
         }
     ],
     "wof:id":554781667,
-    "wof:lastmodified":1480802316,
+    "wof:lastmodified":1611184817,
     "wof:name":"33313",
     "wof:parent_id":85932341,
     "wof:placetype":"postalcode",

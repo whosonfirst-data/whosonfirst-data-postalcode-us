@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012627,
-    "geom:area_square_m":132092028.711193,
+    "geom:area_square_m":132092028.711271,
     "geom:bbox":"-95.488733,32.137078,-95.305687,32.310375",
     "geom:latitude":32.216854,
     "geom:longitude":-95.41381,
@@ -14,19 +14,26 @@
     "lbl:latitude":32.218341,
     "lbl:longitude":-95.413445,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Flint",
+    "mz:postal_locality_alt":[
+        "Tyler",
+        "Lindale",
+        "Bullard"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688753,
-        102080687
+        102080687,
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12790743"
     },
     "wof:country":"US",
-    "wof:geomhash":"f2ce98428f3f8b46974ee4b92653a4ea",
+    "wof:geomhash":"ddbbf212c62604bc3d4aaf48055f02bd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +44,7 @@
         }
     ],
     "wof:id":554744811,
-    "wof:lastmodified":1480916135,
+    "wof:lastmodified":1611184714,
     "wof:name":"75762",
     "wof:parent_id":102080687,
     "wof:placetype":"postalcode",

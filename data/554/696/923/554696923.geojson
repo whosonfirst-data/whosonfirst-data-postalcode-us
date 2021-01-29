@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017675,
-    "geom:area_square_m":161006679.677516,
+    "geom:area_square_m":161006679.677494,
     "geom:bbox":"-73.369761,42.445436,-73.165803,42.63182",
     "geom:latitude":42.549726,
     "geom:longitude":-73.262612,
@@ -14,20 +14,25 @@
     "lbl:latitude":42.547818,
     "lbl:longitude":-73.268033,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lanesboro",
+    "mz:postal_locality_alt":[
+        "New Ashford"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476107,
         85633793,
-        102084369
+        102084369,
+        404476107,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758392"
     },
     "wof:country":"US",
-    "wof:geomhash":"c3795dd096b4b24fbea34976da424f85",
+    "wof:geomhash":"213c30724948e0c03782d8a2440e6717",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554696923,
-    "wof:lastmodified":1480816337,
+    "wof:lastmodified":1611184669,
     "wof:name":"01237",
     "wof:parent_id":404476107,
     "wof:placetype":"postalcode",

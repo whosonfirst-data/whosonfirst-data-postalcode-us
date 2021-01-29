@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.056661,
-    "geom:area_square_m":618005328.400445,
+    "geom:area_square_m":618005328.400113,
     "geom:bbox":"-97.96832,27.865594,-97.626033,28.344046",
     "geom:latitude":28.105439,
     "geom:longitude":-97.810302,
@@ -14,19 +14,28 @@
     "lbl:latitude":28.103444,
     "lbl:longitude":-97.808184,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mathis",
+    "mz:postal_locality_alt":[
+        "Lake City",
+        "Orange Grove",
+        "Benavides",
+        "Sandia",
+        "Refugio"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688753,
-        102083843
+        102083843,
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12792082"
     },
     "wof:country":"US",
-    "wof:geomhash":"7b63316a7b662dd69856eb41024779f6",
+    "wof:geomhash":"daaf468765c10a5104813d3f2fa14732",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +46,7 @@
         }
     ],
     "wof:id":554783727,
-    "wof:lastmodified":1480908870,
+    "wof:lastmodified":1611183908,
     "wof:name":"78368",
     "wof:parent_id":102083843,
     "wof:placetype":"postalcode",

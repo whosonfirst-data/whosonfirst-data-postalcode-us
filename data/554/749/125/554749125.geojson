@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.234033,
-    "geom:area_square_m":2098759288.554991,
+    "geom:area_square_m":2098759288.555008,
     "geom:bbox":"-110.859588,43.23499,-110.051031,43.814301",
     "geom:latitude":43.510529,
     "geom:longitude":-110.461243,
@@ -13,19 +13,25 @@
     "lbl:latitude":43.394562,
     "lbl:longitude":-110.629837,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Jackson",
+    "mz:postal_locality_alt":[
+        "Wilson",
+        "Moose"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688475,
-        102080739
+        102080739,
+        85688475
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12793681"
     },
     "wof:country":"US",
-    "wof:geomhash":"bd9e5a900798109289ef04cc480b8f40",
+    "wof:geomhash":"208b2afd07cb08219341aea66a17d0c5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +42,7 @@
         }
     ],
     "wof:id":554749125,
-    "wof:lastmodified":1480904616,
+    "wof:lastmodified":1611183591,
     "wof:name":"83001",
     "wof:parent_id":102080739,
     "wof:placetype":"postalcode",

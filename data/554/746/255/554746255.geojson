@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002565,
-    "geom:area_square_m":27549694.418777,
+    "geom:area_square_m":27549694.418798,
     "geom:bbox":"-95.25527,29.690563,-95.17149,29.746931",
     "geom:latitude":29.714904,
     "geom:longitude":-95.200179,
@@ -13,20 +13,25 @@
     "lbl:latitude":29.713919,
     "lbl:longitude":-95.199702,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pasadena",
+    "mz:postal_locality_alt":[
+        "Houston"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102081111,
         101726105,
-        102081111
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12791657"
     },
     "wof:country":"US",
-    "wof:geomhash":"e632a5017b2fff739ac0ccfda6d1fb28",
+    "wof:geomhash":"b446378cd4462166e71da492c23748d6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554746255,
-    "wof:lastmodified":1480833198,
+    "wof:lastmodified":1611184029,
     "wof:name":"77506",
     "wof:parent_id":101726105,
     "wof:placetype":"postalcode",

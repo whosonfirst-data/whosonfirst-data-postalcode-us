@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004372,
-    "geom:area_square_m":41371935.177935,
+    "geom:area_square_m":41371935.177953,
     "geom:bbox":"-75.477966,40.012563,-75.328947,40.097201",
     "geom:latitude":40.061157,
     "geom:longitude":-75.399865,
@@ -14,20 +14,31 @@
     "lbl:latitude":40.061872,
     "lbl:longitude":-75.402461,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wayne",
+    "mz:postal_locality_alt":[
+        "Chesterbrook",
+        "Radnor",
+        "St Davids",
+        "King Of Prussia",
+        "Strafford",
+        "Bryn Mawr",
+        "Villanova"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485153,
         85633793,
-        102081275
+        102081275,
+        404485153,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765478"
     },
     "wof:country":"US",
-    "wof:geomhash":"f40aedadfd70981f48f387a859915bb8",
+    "wof:geomhash":"5b39ffb52028c4111ff416eff8ce061b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +50,7 @@
         }
     ],
     "wof:id":554706257,
-    "wof:lastmodified":1480906379,
+    "wof:lastmodified":1611182691,
     "wof:name":"19087",
     "wof:parent_id":404485153,
     "wof:placetype":"postalcode",

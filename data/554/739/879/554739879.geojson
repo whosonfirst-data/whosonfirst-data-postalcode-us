@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004446,
-    "geom:area_square_m":41656094.585281,
+    "geom:area_square_m":41656094.585255,
     "geom:bbox":"-96.796726,40.697438,-96.720177,40.774585",
     "geom:latitude":40.73593,
     "geom:longitude":-96.758397,
@@ -13,20 +13,22 @@
     "lbl:latitude":40.734977,
     "lbl:longitude":-96.758257,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lincoln",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688563,
         102191575,
-        404520095,
         85633793,
-        102083503
+        102083503,
+        404520095,
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787720"
     },
     "wof:country":"US",
-    "wof:geomhash":"2e41dcf22ff9fdfffd9e437f47abdf1c",
+    "wof:geomhash":"d63ed863783e29e2f537cefad9ddf33d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +40,7 @@
         }
     ],
     "wof:id":554739879,
-    "wof:lastmodified":1480836365,
+    "wof:lastmodified":1611182670,
     "wof:name":"68523",
     "wof:parent_id":404520095,
     "wof:placetype":"postalcode",

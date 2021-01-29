@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031353,
-    "geom:area_square_m":296211072.447616,
+    "geom:area_square_m":296211072.448507,
     "geom:bbox":"-77.368874,40.04001,-77.063874,40.302302",
     "geom:latitude":40.1772,
     "geom:longitude":-77.23118,
@@ -13,20 +13,26 @@
     "lbl:latitude":40.177826,
     "lbl:longitude":-77.229536,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Carlisle",
+    "mz:postal_locality_alt":[
+        "Mechanicsburg",
+        "Elliottsburg"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404486545,
         85633793,
-        102081359
+        102081359,
+        404486545,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"28350079"
     },
     "wof:country":"US",
-    "wof:geomhash":"be0121388619ef5ae3060cccf327b2e0",
+    "wof:geomhash":"56736c76ee911936a8d235ad55879fa8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554756939,
-    "wof:lastmodified":1480904075,
+    "wof:lastmodified":1611184271,
     "wof:name":"17015",
     "wof:parent_id":404486545,
     "wof:placetype":"postalcode",

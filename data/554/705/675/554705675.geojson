@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000229,
-    "geom:area_square_m":2136210.814458,
+    "geom:area_square_m":2136210.81446,
     "geom:bbox":"-76.069339,40.982687,-76.043808,41.000546",
     "geom:latitude":40.990787,
     "geom:longitude":-76.057456,
@@ -14,21 +14,26 @@
     "lbl:latitude":40.990787,
     "lbl:longitude":-76.057456,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Conyngham",
+    "mz:postal_locality_alt":[
+        "Sugarloaf"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404483451,
         85633793,
+        102081351,
+        404483451,
         101717045,
-        102081351
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765097"
     },
     "wof:country":"US",
-    "wof:geomhash":"5ad0fde4b60183fe3a0ddac0518bbb91",
+    "wof:geomhash":"eff0e3d7154bad5422c4b7d3518c7172",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554705675,
-    "wof:lastmodified":1480831059,
+    "wof:lastmodified":1611184095,
     "wof:name":"18219",
     "wof:parent_id":101717045,
     "wof:placetype":"postalcode",

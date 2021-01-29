@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013416,
-    "geom:area_square_m":128573780.339427,
+    "geom:area_square_m":128573780.339394,
     "geom:bbox":"-75.977854,39.132802,-75.750734,39.242723",
     "geom:latitude":39.190324,
     "geom:longitude":-75.852561,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.191191,
     "lbl:longitude":-75.853,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Sudlersville",
+    "mz:postal_locality_alt":[
+        "Millington"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688501,
         102191575,
         85633793,
+        102082721,
         85949205,
-        102082721
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766648"
     },
     "wof:country":"US",
-    "wof:geomhash":"ce269febd9212e042bfa8f7ed01dfaf9",
+    "wof:geomhash":"6b068f418cec70393423d5b73c843529",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554707383,
-    "wof:lastmodified":1480837459,
+    "wof:lastmodified":1611183146,
     "wof:name":"21668",
     "wof:parent_id":85949205,
     "wof:placetype":"postalcode",

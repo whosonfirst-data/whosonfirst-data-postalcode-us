@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007891,
-    "geom:area_square_m":71738298.249078,
+    "geom:area_square_m":71738298.249091,
     "geom:bbox":"-71.145857,42.604077,-71.02231,42.741191",
     "geom:latitude":42.67135,
     "geom:longitude":-71.086552,
@@ -14,20 +14,22 @@
     "lbl:latitude":42.673909,
     "lbl:longitude":-71.091334,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"North Andover",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404475951,
         85633793,
-        102084463
+        102084463,
+        404475951,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758599"
     },
     "wof:country":"US",
-    "wof:geomhash":"0d294fe4f76f31369c34680cd2acd000",
+    "wof:geomhash":"c89fb6d120f90bb666b356bad1834145",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554697283,
-    "wof:lastmodified":1480801146,
+    "wof:lastmodified":1611184654,
     "wof:name":"01845",
     "wof:parent_id":404475951,
     "wof:placetype":"postalcode",

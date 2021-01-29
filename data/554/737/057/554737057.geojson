@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020334,
-    "geom:area_square_m":201222743.022194,
+    "geom:area_square_m":201222743.02219,
     "geom:bbox":"-94.619594,36.667921,-94.503913,36.97718",
     "geom:latitude":36.840798,
     "geom:longitude":-94.578135,
@@ -14,20 +14,25 @@
     "lbl:latitude":36.842677,
     "lbl:longitude":-94.581306,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Seneca",
+    "mz:postal_locality_alt":[
+        "Racine"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404517041,
         85633793,
-        102087471
+        102087471,
+        404517041,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786304"
     },
     "wof:country":"US",
-    "wof:geomhash":"9ae570b34207b9b7daf668aa66bf075d",
+    "wof:geomhash":"28e5e2348b35e8f2150d0a3f176e6425",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554737057,
-    "wof:lastmodified":1480841792,
+    "wof:lastmodified":1611182858,
     "wof:name":"64865",
     "wof:parent_id":404517041,
     "wof:placetype":"postalcode",

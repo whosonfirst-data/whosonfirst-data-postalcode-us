@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004398,
-    "geom:area_square_m":41360030.684343,
+    "geom:area_square_m":41360030.684358,
     "geom:bbox":"-79.785362,40.443526,-79.702104,40.519467",
     "geom:latitude":40.483681,
     "geom:longitude":-79.738077,
@@ -13,21 +13,27 @@
     "lbl:latitude":40.483679,
     "lbl:longitude":-79.738076,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pittsburgh",
+    "mz:postal_locality_alt":[
+        "Plum",
+        "Monroeville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404484167,
         85633793,
+        102080887,
+        404484167,
         101718791,
-        102080887
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763680"
     },
     "wof:country":"US",
-    "wof:geomhash":"34d93e99c8471c71218dcacf471219df",
+    "wof:geomhash":"5921770a3f65e15b5da9530030e520b8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +46,7 @@
         }
     ],
     "wof:id":554703605,
-    "wof:lastmodified":1480905390,
+    "wof:lastmodified":1611184457,
     "wof:name":"15239",
     "wof:parent_id":101718791,
     "wof:placetype":"postalcode",

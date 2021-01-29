@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003083,
-    "geom:area_square_m":33613204.234443,
+    "geom:area_square_m":33613204.234452,
     "geom:bbox":"-82.467434,28.080409,-82.427665,28.19196",
     "geom:latitude":28.140468,
     "geom:longitude":-82.446446,
@@ -13,20 +13,25 @@
     "lbl:latitude":28.137944,
     "lbl:longitude":-82.446252,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lutz",
+    "mz:postal_locality_alt":[
+        "Tampa"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688651,
         102191575,
         85633793,
+        102085773,
         85933801,
-        102085773
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12772378"
     },
     "wof:country":"US",
-    "wof:geomhash":"1f5a8b129943294b8d7357cb49464142",
+    "wof:geomhash":"260e6993bfbf3740dbf69f84ef51dd98",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554714763,
-    "wof:lastmodified":1480805913,
+    "wof:lastmodified":1611183342,
     "wof:name":"33549",
     "wof:parent_id":85933801,
     "wof:placetype":"postalcode",

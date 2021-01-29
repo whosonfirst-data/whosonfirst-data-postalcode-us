@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012352,
-    "geom:area_square_m":113265069.14311,
+    "geom:area_square_m":113265069.143151,
     "geom:bbox":"-72.046819,42.072623,-71.899489,42.190908",
     "geom:latitude":42.135095,
     "geom:longitude":-71.968032,
@@ -14,20 +14,25 @@
     "lbl:latitude":42.133935,
     "lbl:longitude":-71.968025,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Charlton",
+    "mz:postal_locality_alt":[
+        "Westborough"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476541,
         85633793,
-        102084655
+        102084655,
+        404476541,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758475"
     },
     "wof:country":"US",
-    "wof:geomhash":"0cb907c25a61205b942ced6e964eaac1",
+    "wof:geomhash":"323093ce35ba289d98aedfb1ec1bbfff",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554697075,
-    "wof:lastmodified":1480803780,
+    "wof:lastmodified":1611184656,
     "wof:name":"01507",
     "wof:parent_id":404476541,
     "wof:placetype":"postalcode",

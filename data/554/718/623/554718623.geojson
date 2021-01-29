@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009225,
-    "geom:area_square_m":89356538.676527,
+    "geom:area_square_m":89356538.676517,
     "geom:bbox":"-85.613301,38.382574,-85.434945,38.47793",
     "geom:latitude":38.428063,
     "geom:longitude":-85.532363,
@@ -14,19 +14,24 @@
     "lbl:latitude":38.431157,
     "lbl:longitude":-85.532639,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Goshen",
+    "mz:postal_locality_alt":[
+        "Prospect"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688641,
-        102084559
+        102084559,
+        85688641
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12775091"
     },
     "wof:country":"US",
-    "wof:geomhash":"3b4b5036544c6dc542771f9a2d4cd293",
+    "wof:geomhash":"27e1fa2ad05e94cd463dc68afda3c22a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554718623,
-    "wof:lastmodified":1480914449,
+    "wof:lastmodified":1611185578,
     "wof:name":"40026",
     "wof:parent_id":102084559,
     "wof:placetype":"postalcode",

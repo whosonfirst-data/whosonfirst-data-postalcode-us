@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000918,
-    "geom:area_square_m":7878537.798737,
+    "geom:area_square_m":7878537.798715,
     "geom:bbox":"-118.409557,46.027483,-118.361511,46.060253",
     "geom:latitude":46.042579,
     "geom:longitude":-118.386845,
@@ -14,20 +14,25 @@
     "lbl:latitude":46.042579,
     "lbl:longitude":-118.386845,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"College Place",
+    "mz:postal_locality_alt":[
+        "Walla Walla"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688623,
         102191575,
         85633793,
+        102086915,
         101730211,
-        102086915
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12799560"
     },
     "wof:country":"US",
-    "wof:geomhash":"28370dccd8821ead453e94c020eecd83",
+    "wof:geomhash":"d8bead987655ac26c66440d02e396191",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554756419,
-    "wof:lastmodified":1480915901,
+    "wof:lastmodified":1611184296,
     "wof:name":"99324",
     "wof:parent_id":101730211,
     "wof:placetype":"postalcode",

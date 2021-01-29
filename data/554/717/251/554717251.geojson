@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026022,
-    "geom:area_square_m":260607892.526025,
+    "geom:area_square_m":260607892.525948,
     "geom:bbox":"-89.337671,35.799575,-89.124693,36.011814",
     "geom:latitude":35.909763,
     "geom:longitude":-89.234398,
@@ -14,20 +14,25 @@
     "lbl:latitude":35.911414,
     "lbl:longitude":-89.236962,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Friendship",
+    "mz:postal_locality_alt":[
+        "Oakland"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688701,
         102191575,
         85633793,
+        102086389,
         101722523,
-        102086389
+        85688701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12774249"
     },
     "wof:country":"US",
-    "wof:geomhash":"55acc5369e415547c6f93e39191767c4",
+    "wof:geomhash":"dacab641d127d8f8b499d137ad315959",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554717251,
-    "wof:lastmodified":1480914699,
+    "wof:lastmodified":1611185002,
     "wof:name":"38034",
     "wof:parent_id":101722523,
     "wof:placetype":"postalcode",

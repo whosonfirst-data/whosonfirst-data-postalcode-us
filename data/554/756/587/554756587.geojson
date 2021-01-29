@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004137,
-    "geom:area_square_m":42825171.04333,
+    "geom:area_square_m":42825171.043288,
     "geom:bbox":"-97.152567,33.114815,-97.03938,33.204785",
     "geom:latitude":33.150358,
     "geom:longitude":-97.095956,
@@ -13,20 +13,25 @@
     "lbl:latitude":33.149467,
     "lbl:longitude":-97.096016,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Denton",
+    "mz:postal_locality_alt":[
+        "Corinth"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102087371,
         101724431,
-        102087371
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"23424651"
     },
     "wof:country":"US",
-    "wof:geomhash":"f73d83c46746d201a6ce66d129f7b808",
+    "wof:geomhash":"76a6a792b8bd6a5be918ca896d60b4b2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554756587,
-    "wof:lastmodified":1480783424,
+    "wof:lastmodified":1611184290,
     "wof:name":"76210",
     "wof:parent_id":101724431,
     "wof:placetype":"postalcode",

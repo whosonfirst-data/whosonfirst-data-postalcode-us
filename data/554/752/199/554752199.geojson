@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005705,
-    "geom:area_square_m":58692134.502542,
+    "geom:area_square_m":58692134.502578,
     "geom:bbox":"-116.277553,33.657938,-115.695875,33.742812",
     "geom:latitude":33.69741,
     "geom:longitude":-116.102907,
@@ -13,20 +13,25 @@
     "lbl:latitude":33.710984,
     "lbl:longitude":-116.204844,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Indio",
+    "mz:postal_locality_alt":[
+        "Bermuda Dunes"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086221,
         85923393,
-        102086221
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796339"
     },
     "wof:country":"US",
-    "wof:geomhash":"e718a6ac8c6013ee7403923f323b93b9",
+    "wof:geomhash":"7ed7e1f4c66199a5110a1900029f74c9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554752199,
-    "wof:lastmodified":1480913410,
+    "wof:lastmodified":1611182538,
     "wof:name":"92201",
     "wof:parent_id":85923393,
     "wof:placetype":"postalcode",

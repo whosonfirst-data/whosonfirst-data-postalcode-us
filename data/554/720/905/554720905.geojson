@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020135,
-    "geom:area_square_m":186120536.862744,
+    "geom:area_square_m":186120536.862815,
     "geom:bbox":"-80.706697,41.534222,-80.5193,41.714755",
     "geom:latitude":41.621447,
     "geom:longitude":-80.586007,
@@ -14,20 +14,26 @@
     "lbl:latitude":41.615736,
     "lbl:longitude":-80.585942,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Andover",
+    "mz:postal_locality_alt":[
+        "North Kingsville",
+        "Pierpont"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404524695,
         85633793,
-        102083657
+        102083657,
+        404524695,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776563"
     },
     "wof:country":"US",
-    "wof:geomhash":"ad8ee312e96c822dfec8c43e644e09e3",
+    "wof:geomhash":"b47eaafcdd4cfeb4e2218ef62dcb3ba4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554720905,
-    "wof:lastmodified":1480906215,
+    "wof:lastmodified":1611185472,
     "wof:name":"44003",
     "wof:parent_id":404524695,
     "wof:placetype":"postalcode",

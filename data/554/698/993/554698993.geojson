@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013733,
-    "geom:area_square_m":121314500.201923,
+    "geom:area_square_m":121314500.201901,
     "geom:bbox":"-73.082148,44.345781,-72.804995,44.459242",
     "geom:latitude":44.403159,
     "geom:longitude":-72.954677,
@@ -14,20 +14,26 @@
     "lbl:latitude":44.416769,
     "lbl:longitude":-72.962422,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Richmond",
+    "mz:postal_locality_alt":[
+        "Fairfax",
+        "Jonesville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688763,
         102191575,
-        404527245,
         85633793,
-        102087451
+        102087451,
+        404527245,
+        85688763
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760009"
     },
     "wof:country":"US",
-    "wof:geomhash":"5a2fd84744336cf845c88b96978ba7a0",
+    "wof:geomhash":"10ef17aabea47175f44f7601bdb0ee4c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554698993,
-    "wof:lastmodified":1480906389,
+    "wof:lastmodified":1611184692,
     "wof:name":"05477",
     "wof:parent_id":404527245,
     "wof:placetype":"postalcode",

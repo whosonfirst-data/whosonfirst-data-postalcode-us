@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00944,
-    "geom:area_square_m":84718488.566993,
+    "geom:area_square_m":84718488.567022,
     "geom:bbox":"-71.546975,43.407433,-71.395009,43.530734",
     "geom:latitude":43.467412,
     "geom:longitude":-71.474937,
@@ -14,20 +14,27 @@
     "lbl:latitude":43.474458,
     "lbl:longitude":-71.48221,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Belmont",
+    "mz:postal_locality_alt":[
+        "Campton",
+        "Gilmanton",
+        "Hebron"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688689,
         102191575,
-        404477087,
         85633793,
-        102086503
+        102086503,
+        404477087,
+        85688689
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759127"
     },
     "wof:country":"US",
-    "wof:geomhash":"aa41b7f6ac85453b86f79236c43ae862",
+    "wof:geomhash":"dccaa1b193ca36cc94f314df19159ceb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554697745,
-    "wof:lastmodified":1480913717,
+    "wof:lastmodified":1611184665,
     "wof:name":"03220",
     "wof:parent_id":404477087,
     "wof:placetype":"postalcode",

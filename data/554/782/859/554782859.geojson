@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045654,
-    "geom:area_square_m":388436091.601469,
+    "geom:area_square_m":388436091.601902,
     "geom:bbox":"-87.713209,46.314871,-87.443508,46.732168",
     "geom:latitude":46.521405,
     "geom:longitude":-87.578702,
@@ -14,20 +14,25 @@
     "lbl:latitude":46.521482,
     "lbl:longitude":-87.580782,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Negaunee",
+    "mz:postal_locality_alt":[
+        "Gwinn"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404508623,
         85633793,
-        102083039
+        102083039,
+        404508623,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779611"
     },
     "wof:country":"US",
-    "wof:geomhash":"c44737e11c44eeaba1fe4a02d13e4539",
+    "wof:geomhash":"ab82387f6a991c94fa6c886ea039c314",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554782859,
-    "wof:lastmodified":1480843190,
+    "wof:lastmodified":1611183608,
     "wof:name":"49866",
     "wof:parent_id":404508623,
     "wof:placetype":"postalcode",

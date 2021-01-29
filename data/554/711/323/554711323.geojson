@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009933,
-    "geom:area_square_m":100404943.609578,
+    "geom:area_square_m":100404943.609652,
     "geom:bbox":"-78.731442,35.102711,-78.527173,35.22221",
     "geom:latitude":35.163446,
     "geom:longitude":-78.627338,
@@ -14,19 +14,25 @@
     "lbl:latitude":35.160499,
     "lbl:longitude":-78.624575,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Godwin",
+    "mz:postal_locality_alt":[
+        "Dunn",
+        "Stedman"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688773,
-        102080881
+        102080881,
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12769575"
     },
     "wof:country":"US",
-    "wof:geomhash":"74196434667ea8072b394a69db2d963f",
+    "wof:geomhash":"53db8e22bd942d3db664e9c5216f0725",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554711323,
-    "wof:lastmodified":1480905322,
+    "wof:lastmodified":1611185318,
     "wof:name":"28344",
     "wof:parent_id":102080881,
     "wof:placetype":"postalcode",

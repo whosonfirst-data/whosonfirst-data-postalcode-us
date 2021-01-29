@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023821,
-    "geom:area_square_m":236126606.276541,
+    "geom:area_square_m":236126606.276408,
     "geom:bbox":"-93.474063,36.569024,-93.25804,36.827766",
     "geom:latitude":36.712754,
     "geom:longitude":-93.360153,
@@ -14,21 +14,26 @@
     "lbl:latitude":36.711111,
     "lbl:longitude":-93.359338,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Reeds Spring",
+    "mz:postal_locality_alt":[
+        "Kimberling City"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404518099,
         85633793,
+        102087529,
+        404518099,
         85971993,
-        102087529
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786638"
     },
     "wof:country":"US",
-    "wof:geomhash":"89d31a523cf182514dec1ee48cebc3c3",
+    "wof:geomhash":"a4fa6cfb5309fb14fb5333bd34a4e29f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554737719,
-    "wof:lastmodified":1480915725,
+    "wof:lastmodified":1611182863,
     "wof:name":"65737",
     "wof:parent_id":85971993,
     "wof:placetype":"postalcode",

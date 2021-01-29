@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000121,
-    "geom:area_square_m":1068659.095846,
+    "geom:area_square_m":1068659.095853,
     "geom:bbox":"-72.029117,44.534224,-72.006777,44.552977",
     "geom:latitude":44.541593,
     "geom:longitude":-72.017451,
@@ -14,20 +14,25 @@
     "lbl:latitude":44.541247,
     "lbl:longitude":-72.014699,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lyndonville",
+    "mz:postal_locality_alt":[
+        "Lyndon Center"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688763,
         102191575,
-        404527557,
         85633793,
-        102080755
+        102080755,
+        404527557,
+        85688763
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760142"
     },
     "wof:country":"US",
-    "wof:geomhash":"f273018421e81595f7d28c79e5df1366",
+    "wof:geomhash":"9266545ceb1e4885043bd5946539fa2a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554699215,
-    "wof:lastmodified":1480905231,
+    "wof:lastmodified":1611184623,
     "wof:name":"05850",
     "wof:parent_id":404527557,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005647,
-    "geom:area_square_m":51968000.295645,
+    "geom:area_square_m":51968000.295618,
     "geom:bbox":"-71.933847,41.869077,-71.796828,41.932364",
     "geom:latitude":41.909031,
     "geom:longitude":-71.872088,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.908027,
     "lbl:longitude":-71.870452,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Putnam",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688629,
         102191575,
-        404495733,
         85633793,
-        102085377
+        102085377,
+        404495733,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760320"
     },
     "wof:country":"US",
-    "wof:geomhash":"31832b6aa0f9cf518eb83927fa157dcc",
+    "wof:geomhash":"9d17adf1dc4e40205f76831ce33c068a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554699461,
-    "wof:lastmodified":1480817073,
+    "wof:lastmodified":1611184628,
     "wof:name":"06260",
     "wof:parent_id":404495733,
     "wof:placetype":"postalcode",

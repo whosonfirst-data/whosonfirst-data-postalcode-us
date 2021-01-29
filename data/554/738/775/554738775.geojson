@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002752,
-    "geom:area_square_m":26920874.435501,
+    "geom:area_square_m":26920874.435469,
     "geom:bbox":"-97.262309,37.679302,-97.18953,37.726816",
     "geom:latitude":37.703839,
     "geom:longitude":-97.225327,
@@ -13,20 +13,25 @@
     "lbl:latitude":37.703733,
     "lbl:longitude":-97.224478,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wichita",
+    "mz:postal_locality_alt":[
+        "Eastborough"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404504909,
         85633793,
-        102084203
+        102084203,
+        404504909,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787171"
     },
     "wof:country":"US",
-    "wof:geomhash":"5093adf49180fe0c7bf3ef17c74ef99a",
+    "wof:geomhash":"2cce56cd09f53808875b579f5f05145e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554738775,
-    "wof:lastmodified":1480798325,
+    "wof:lastmodified":1611183125,
     "wof:name":"67206",
     "wof:parent_id":404504909,
     "wof:placetype":"postalcode",

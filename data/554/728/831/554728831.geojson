@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020006,
-    "geom:area_square_m":176972525.29925,
+    "geom:area_square_m":176972525.299223,
     "geom:bbox":"-88.739058,44.243311,-88.484314,44.388964",
     "geom:latitude":44.325015,
     "geom:longitude":-88.627797,
@@ -14,20 +14,26 @@
     "lbl:latitude":44.324686,
     "lbl:longitude":-88.626957,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hortonville",
+    "mz:postal_locality_alt":[
+        "Dale",
+        "Neenah"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404494973,
         85633793,
-        102081851
+        102081851,
+        404494973,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781625"
     },
     "wof:country":"US",
-    "wof:geomhash":"0e503e241e9adbd3e48dabd5200b3ea7",
+    "wof:geomhash":"6b9c89cf4f27b035ebca12a00a0d6589",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554728831,
-    "wof:lastmodified":1480833326,
+    "wof:lastmodified":1611185086,
     "wof:name":"54944",
     "wof:parent_id":404494973,
     "wof:placetype":"postalcode",

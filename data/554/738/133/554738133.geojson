@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023937,
-    "geom:area_square_m":227873369.552743,
+    "geom:area_square_m":227873369.552678,
     "geom:bbox":"-95.695588,39.577368,-95.405288,39.739875",
     "geom:latitude":39.656109,
     "geom:longitude":-95.544957,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.656331,
     "lbl:longitude":-95.540086,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Horton",
+    "mz:postal_locality_alt":[
+        "Lyndon"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404502463,
         85633793,
-        102082685
+        102082685,
+        404502463,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786854"
     },
     "wof:country":"US",
-    "wof:geomhash":"5d2f7593998cdccbe1557c3b92b52adc",
+    "wof:geomhash":"5fb8ee587bcb3e8c03e05f9c654fed88",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554738133,
-    "wof:lastmodified":1480795651,
+    "wof:lastmodified":1611183095,
     "wof:name":"66439",
     "wof:parent_id":404502463,
     "wof:placetype":"postalcode",

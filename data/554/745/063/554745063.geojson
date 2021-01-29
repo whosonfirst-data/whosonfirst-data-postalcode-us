@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011341,
-    "geom:area_square_m":117629278.467857,
+    "geom:area_square_m":117629278.467792,
     "geom:bbox":"-97.47166,32.924099,-97.31068,33.051572",
     "geom:latitude":32.986247,
     "geom:longitude":-97.376549,
@@ -14,20 +14,25 @@
     "lbl:latitude":32.986137,
     "lbl:longitude":-97.374691,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Haslet",
+    "mz:postal_locality_alt":[
+        "Aurora"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102083201,
         101724443,
-        102083201
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12790885"
     },
     "wof:country":"US",
-    "wof:geomhash":"2117b436136165d79dc3a1e922790028",
+    "wof:geomhash":"6dddd7e6725530da0b573fee5edb5f60",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554745063,
-    "wof:lastmodified":1480840100,
+    "wof:lastmodified":1611185266,
     "wof:name":"76052",
     "wof:parent_id":101724443,
     "wof:placetype":"postalcode",

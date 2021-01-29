@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00664,
-    "geom:area_square_m":61597895.537673,
+    "geom:area_square_m":61597895.537693,
     "geom:bbox":"-82.068968,41.339603,-81.969963,41.418913",
     "geom:latitude":41.384772,
     "geom:longitude":-82.019627,
@@ -14,21 +14,26 @@
     "lbl:latitude":41.386,
     "lbl:longitude":-82.024711,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"North Ridgeville",
+    "mz:postal_locality_alt":[
+        "Elyria"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404523743,
         85633793,
+        102083683,
+        404523743,
         101712959,
-        102083683
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776581"
     },
     "wof:country":"US",
-    "wof:geomhash":"c188bcb06c08f078aaac211a16506f1a",
+    "wof:geomhash":"0b9dfd0100efe875c4f409d3d3dcc505",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554720929,
-    "wof:lastmodified":1480835323,
+    "wof:lastmodified":1611185485,
     "wof:name":"44039",
     "wof:parent_id":101712959,
     "wof:placetype":"postalcode",

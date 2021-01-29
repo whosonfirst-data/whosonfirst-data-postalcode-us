@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001205,
-    "geom:area_square_m":11267397.116157,
+    "geom:area_square_m":11267397.116153,
     "geom:bbox":"-74.194934,40.846972,-74.143391,40.899398",
     "geom:latitude":40.869105,
     "geom:longitude":-74.172672,
@@ -13,21 +13,29 @@
     "lbl:latitude":40.869405,
     "lbl:longitude":-74.173062,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Clifton",
+    "mz:postal_locality_alt":[
+        "Weehawken",
+        "Hoboken",
+        "Cranford",
+        "Parsippany"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477809,
         85633793,
+        102081133,
+        404477809,
         85975493,
-        102081133
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760611"
     },
     "wof:country":"US",
-    "wof:geomhash":"f9bbbf9b304a93e006a5f0b9634e9913",
+    "wof:geomhash":"f75f51a42d5013d04cadad827072bbf0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +48,7 @@
         }
     ],
     "wof:id":554699785,
-    "wof:lastmodified":1480818574,
+    "wof:lastmodified":1611184614,
     "wof:name":"07013",
     "wof:parent_id":85975493,
     "wof:placetype":"postalcode",

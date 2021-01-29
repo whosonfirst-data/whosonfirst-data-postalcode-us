@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037826,
-    "geom:area_square_m":368039609.103885,
+    "geom:area_square_m":368039609.103913,
     "geom:bbox":"-90.737908,38.003499,-90.39705,38.22156",
     "geom:latitude":38.106786,
     "geom:longitude":-90.561975,
@@ -14,20 +14,25 @@
     "lbl:latitude":38.100971,
     "lbl:longitude":-90.565549,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"De Soto",
+    "mz:postal_locality_alt":[
+        "Hillsboro"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404518227,
         85633793,
-        102080787
+        102080787,
+        404518227,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785532"
     },
     "wof:country":"US",
-    "wof:geomhash":"4632d383ae036c64e017657dfd84c464",
+    "wof:geomhash":"67d23378aa46366084697c57bdcefeae",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554735647,
-    "wof:lastmodified":1480908590,
+    "wof:lastmodified":1611184433,
     "wof:name":"63020",
     "wof:parent_id":404518227,
     "wof:placetype":"postalcode",

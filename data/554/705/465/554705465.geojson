@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011309,
-    "geom:area_square_m":105907331.364963,
+    "geom:area_square_m":105907331.365063,
     "geom:bbox":"-76.782151,40.729316,-76.410147,40.841405",
     "geom:latitude":40.766533,
     "geom:longitude":-76.61215,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.753396,
     "lbl:longitude":-76.697714,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Shamokin",
+    "mz:postal_locality_alt":[
+        "New Columbia"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404486529,
         85633793,
-        102081349
+        102081349,
+        404486529,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764948"
     },
     "wof:country":"US",
-    "wof:geomhash":"ba810b0934e8c4c72b577e35e2f6a877",
+    "wof:geomhash":"5896d193bc80f9afb414530da9b00c37",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554705465,
-    "wof:lastmodified":1480831209,
+    "wof:lastmodified":1611184104,
     "wof:name":"17872",
     "wof:parent_id":404486529,
     "wof:placetype":"postalcode",

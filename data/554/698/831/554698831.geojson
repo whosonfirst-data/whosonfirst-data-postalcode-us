@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027356,
-    "geom:area_square_m":246302854.889435,
+    "geom:area_square_m":246302854.889416,
     "geom:bbox":"-72.764099,43.071099,-72.496515,43.380975",
     "geom:latitude":43.270094,
     "geom:longitude":-72.632049,
@@ -14,20 +14,27 @@
     "lbl:latitude":43.27763,
     "lbl:longitude":-72.640348,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Chester",
+    "mz:postal_locality_alt":[
+        "N Springfield",
+        "Bellows Falls",
+        "Athens"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688763,
         102191575,
-        404527107,
         85633793,
-        102080777
+        102080777,
+        404527107,
+        85688763
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759915"
     },
     "wof:country":"US",
-    "wof:geomhash":"e7c7521966b084ca17e5334b3d4d27a3",
+    "wof:geomhash":"8593c591c8bd44d94b8e1573fdfdeaef",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554698831,
-    "wof:lastmodified":1480905330,
+    "wof:lastmodified":1611184699,
     "wof:name":"05143",
     "wof:parent_id":404527107,
     "wof:placetype":"postalcode",

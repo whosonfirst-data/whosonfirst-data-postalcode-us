@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005081,
-    "geom:area_square_m":48969146.535783,
+    "geom:area_square_m":48969146.535754,
     "geom:bbox":"-76.27698,38.736502,-76.182179,38.839487",
     "geom:latitude":38.789078,
     "geom:longitude":-76.229505,
@@ -14,20 +14,26 @@
     "lbl:latitude":38.788286,
     "lbl:longitude":-76.228656,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"St Michaels",
+    "mz:postal_locality_alt":[
+        "Saint Michaels",
+        "Claiborne"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688501,
         102191575,
         85633793,
+        102082179,
         85949439,
-        102082179
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766643"
     },
     "wof:country":"US",
-    "wof:geomhash":"4e9562c1cfe384b8260710c7153adbce",
+    "wof:geomhash":"021445fa217aeb975a81e4c1f447ee16",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554780587,
-    "wof:lastmodified":1480794797,
+    "wof:lastmodified":1611185176,
     "wof:name":"21663",
     "wof:parent_id":85949439,
     "wof:placetype":"postalcode",

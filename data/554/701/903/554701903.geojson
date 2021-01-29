@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009842,
-    "geom:area_square_m":86216617.302209,
+    "geom:area_square_m":86216617.302179,
     "geom:bbox":"-73.52996,44.818691,-73.374405,44.94244",
     "geom:latitude":44.891149,
     "geom:longitude":-73.437932,
@@ -14,21 +14,27 @@
     "lbl:latitude":44.888628,
     "lbl:longitude":-73.441064,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Chazy",
+    "mz:postal_locality_alt":[
+        "Lewis",
+        "Chateaugay"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522171,
         85633793,
+        102081797,
+        404522171,
         85979383,
-        102081797
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762544"
     },
     "wof:country":"US",
-    "wof:geomhash":"59eadcdea87b3b61899ea05d25609916",
+    "wof:geomhash":"1c86753cc8bc78738a50491e7056034b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554701903,
-    "wof:lastmodified":1480829807,
+    "wof:lastmodified":1611182631,
     "wof:name":"12921",
     "wof:parent_id":85979383,
     "wof:placetype":"postalcode",

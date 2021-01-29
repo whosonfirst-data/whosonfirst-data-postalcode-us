@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019331,
-    "geom:area_square_m":187262004.110686,
+    "geom:area_square_m":187262004.110535,
     "geom:bbox":"-77.490305,38.344326,-77.286202,38.521547",
     "geom:latitude":38.426767,
     "geom:longitude":-77.37701,
@@ -14,19 +14,24 @@
     "lbl:latitude":38.427352,
     "lbl:longitude":-77.367672,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Stafford",
+    "mz:postal_locality_alt":[
+        "Fredericksburg"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688747,
-        102081931
+        102081931,
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766972"
     },
     "wof:country":"US",
-    "wof:geomhash":"fe7a4aeecbb54186ef984bd2b37be8ed",
+    "wof:geomhash":"1daa57217c8e798cf1d1a1819bf0744a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554707731,
-    "wof:lastmodified":1480818929,
+    "wof:lastmodified":1611183134,
     "wof:name":"22554",
     "wof:parent_id":102081931,
     "wof:placetype":"postalcode",

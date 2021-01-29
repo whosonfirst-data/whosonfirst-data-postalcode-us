@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01041,
-    "geom:area_square_m":95042909.306156,
+    "geom:area_square_m":95042909.306202,
     "geom:bbox":"-96.560762,42.364401,-96.398808,42.469835",
     "geom:latitude":42.409776,
     "geom:longitude":-96.481124,
@@ -14,20 +14,22 @@
     "lbl:latitude":42.404578,
     "lbl:longitude":-96.472928,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Dakota City",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688563,
         102191575,
-        404519789,
         85633793,
-        102082249
+        102082249,
+        404519789,
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787797"
     },
     "wof:country":"US",
-    "wof:geomhash":"b32e0724dc8a3bcde240a78dd6a7d48d",
+    "wof:geomhash":"988c126730ec6afa9797901828f1b7f9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554740033,
-    "wof:lastmodified":1480912202,
+    "wof:lastmodified":1611183416,
     "wof:name":"68731",
     "wof:parent_id":404519789,
     "wof:placetype":"postalcode",

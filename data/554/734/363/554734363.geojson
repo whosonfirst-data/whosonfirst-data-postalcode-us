@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001788,
-    "geom:area_square_m":16910400.667939,
+    "geom:area_square_m":16910400.667959,
     "geom:bbox":"-88.258189,40.068933,-88.225627,40.149189",
     "geom:latitude":40.108903,
     "geom:longitude":-88.243507,
@@ -13,21 +13,26 @@
     "lbl:latitude":40.10789,
     "lbl:longitude":-88.244266,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Champaign",
+    "mz:postal_locality_alt":[
+        "Urbana"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404496211,
         85633793,
+        102081657,
+        404496211,
         85938301,
-        102081657
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784828"
     },
     "wof:country":"US",
-    "wof:geomhash":"fc2fdf5752e6231ed3ba80014bd3784a",
+    "wof:geomhash":"46f980a6f54095c1eb52684370a1537c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554734363,
-    "wof:lastmodified":1480823183,
+    "wof:lastmodified":1611184179,
     "wof:name":"61820",
     "wof:parent_id":85938301,
     "wof:placetype":"postalcode",

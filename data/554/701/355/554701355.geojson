@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004976,
-    "geom:area_square_m":45143889.566056,
+    "geom:area_square_m":45143889.566064,
     "geom:bbox":"-73.918344,42.740124,-73.809369,42.851076",
     "geom:latitude":42.799189,
     "geom:longitude":-73.869551,
@@ -14,20 +14,25 @@
     "lbl:latitude":42.79983,
     "lbl:longitude":-73.864972,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Schenectady",
+    "mz:postal_locality_alt":[
+        "Niskayuna"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522385,
         85633793,
-        102081765
+        102081765,
+        404522385,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762238"
     },
     "wof:country":"US",
-    "wof:geomhash":"a669dd328cb5b7ba623c2938ea4ba6b5",
+    "wof:geomhash":"12d2e4b3d875bfcc53123b34dcc5fbd0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554701355,
-    "wof:lastmodified":1480818876,
+    "wof:lastmodified":1611182615,
     "wof:name":"12309",
     "wof:parent_id":404522385,
     "wof:placetype":"postalcode",

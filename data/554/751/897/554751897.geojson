@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000967,
-    "geom:area_square_m":9895535.572978,
+    "geom:area_square_m":9895535.572958,
     "geom:bbox":"-118.142213,34.104976,-118.087946,34.13736",
     "geom:latitude":34.12233,
     "geom:longitude":-118.113413,
@@ -13,20 +13,25 @@
     "lbl:latitude":34.122671,
     "lbl:longitude":-118.112911,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"San Marino",
+    "mz:postal_locality_alt":[
+        "Pasadena"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086957,
         85923833,
-        102086957
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795918"
     },
     "wof:country":"US",
-    "wof:geomhash":"f34ca0e95447a0d0455f2be7e0fce9c9",
+    "wof:geomhash":"dd21639d99d997d56160c800df24f00f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554751897,
-    "wof:lastmodified":1480912625,
+    "wof:lastmodified":1611184357,
     "wof:name":"91108",
     "wof:parent_id":85923833,
     "wof:placetype":"postalcode",

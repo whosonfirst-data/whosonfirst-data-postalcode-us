@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001754,
-    "geom:area_square_m":16455003.431249,
+    "geom:area_square_m":16455003.431255,
     "geom:bbox":"-74.482432,40.617768,-74.401839,40.66801",
     "geom:latitude":40.642579,
     "geom:longitude":-74.439466,
@@ -14,21 +14,26 @@
     "lbl:latitude":40.642845,
     "lbl:longitude":-74.436233,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Watchung",
+    "mz:postal_locality_alt":[
+        "Plainfield"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478449,
         85633793,
+        102085045,
+        404478449,
         85975495,
-        102085045
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"23424565"
     },
     "wof:country":"US",
-    "wof:geomhash":"e6d1394c17f86bcb3e6c9bcd67d9be38",
+    "wof:geomhash":"a507094d14e5963b0f65baf47210f4fd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554756487,
-    "wof:lastmodified":1480806956,
+    "wof:lastmodified":1611184301,
     "wof:name":"07069",
     "wof:parent_id":85975495,
     "wof:placetype":"postalcode",

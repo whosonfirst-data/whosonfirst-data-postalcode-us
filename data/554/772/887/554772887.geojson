@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000032,
-    "geom:area_square_m":316309.94736,
+    "geom:area_square_m":316309.947359,
     "geom:bbox":"-121.650927,36.62143,-121.642029,36.627767",
     "geom:latitude":36.624716,
     "geom:longitude":-121.646487,
@@ -14,20 +14,25 @@
     "lbl:latitude":36.624716,
     "lbl:longitude":-121.646487,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Spreckels",
+    "mz:postal_locality_alt":[
+        "Salinas"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102080859,
         85926161,
-        102080859
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12797098"
     },
     "wof:country":"US",
-    "wof:geomhash":"897bd09cf2719b534df72bdc6d627602",
+    "wof:geomhash":"4c5c88fb0abc025184fe4680b48a0ee9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554772887,
-    "wof:lastmodified":1480907186,
+    "wof:lastmodified":1611184847,
     "wof:name":"93962",
     "wof:parent_id":85926161,
     "wof:placetype":"postalcode",

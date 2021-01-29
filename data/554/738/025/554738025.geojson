@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001261,
-    "geom:area_square_m":12126471.449241,
+    "geom:area_square_m":12126471.449247,
     "geom:bbox":"-94.659404,38.930672,-94.630197,38.978704",
     "geom:latitude":38.955884,
     "geom:longitude":-94.6444,
@@ -13,21 +13,27 @@
     "lbl:latitude":38.955644,
     "lbl:longitude":-94.643247,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Shawnee Mission",
+    "mz:postal_locality_alt":[
+        "Prairie Village",
+        "Overland Park"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404502689,
         85633793,
+        102082673,
+        404502689,
         85945755,
-        102082673
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786795"
     },
     "wof:country":"US",
-    "wof:geomhash":"c8f9b956a790947cc12642b5c65e2fd0",
+    "wof:geomhash":"8a84b7434f7810bc6ff5bea2d7a0d49b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +46,7 @@
         }
     ],
     "wof:id":554738025,
-    "wof:lastmodified":1480792908,
+    "wof:lastmodified":1611183099,
     "wof:name":"66207",
     "wof:parent_id":85945755,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007103,
-    "geom:area_square_m":64421054.603701,
+    "geom:area_square_m":64421054.603709,
     "geom:bbox":"-71.729918,42.769087,-71.60594,42.866585",
     "geom:latitude":42.817741,
     "geom:longitude":-71.673757,
@@ -14,20 +14,26 @@
     "lbl:latitude":42.818645,
     "lbl:longitude":-71.673354,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Milford",
+    "mz:postal_locality_alt":[
+        "Wilton",
+        "Nashua"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688689,
         102191575,
-        404477195,
         85633793,
-        102085493
+        102085493,
+        404477195,
+        85688689
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759095"
     },
     "wof:country":"US",
-    "wof:geomhash":"05c1cc0e407fc92cd188b822be53912d",
+    "wof:geomhash":"247ecac5a3baf2972089b83e79959d71",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554697689,
-    "wof:lastmodified":1480804332,
+    "wof:lastmodified":1611184640,
     "wof:name":"03055",
     "wof:parent_id":404477195,
     "wof:placetype":"postalcode",

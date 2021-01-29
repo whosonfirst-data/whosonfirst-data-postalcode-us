@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035471,
-    "geom:area_square_m":377585373.826972,
+    "geom:area_square_m":377585373.826755,
     "geom:bbox":"-97.5038,30.466837,-97.24385,30.703592",
     "geom:latitude":30.584231,
     "geom:longitude":-97.387405,
@@ -14,20 +14,26 @@
     "lbl:latitude":30.579327,
     "lbl:longitude":-97.388622,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Taylor",
+    "mz:postal_locality_alt":[
+        "Thorndale",
+        "Evant"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102085993,
         101725059,
-        102085993
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12791155"
     },
     "wof:country":"US",
-    "wof:geomhash":"964da7fd887182300b6beb398919ec66",
+    "wof:geomhash":"6a216dae7915bac6eed6a980f5b619ec",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554745523,
-    "wof:lastmodified":1480903317,
+    "wof:lastmodified":1611185293,
     "wof:name":"76574",
     "wof:parent_id":101725059,
     "wof:placetype":"postalcode",

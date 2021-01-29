@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011965,
-    "geom:area_square_m":120341087.125514,
+    "geom:area_square_m":120341087.125556,
     "geom:bbox":"-80.687297,35.509739,-80.500746,35.639817",
     "geom:latitude":35.56952,
     "geom:longitude":-80.60223,
@@ -14,20 +14,27 @@
     "lbl:latitude":35.567714,
     "lbl:longitude":-80.602258,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"China Grove",
+    "mz:postal_locality_alt":[
+        "Boiling Springs",
+        "Landis",
+        "Faith"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688773,
         102191575,
         85633793,
+        102087731,
         85980233,
-        102087731
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12769369"
     },
     "wof:country":"US",
-    "wof:geomhash":"07a9b25fd80efc5004540a5a5399ffd7",
+    "wof:geomhash":"dcfa1b8c0a7de015d7995796e32e60b5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554711061,
-    "wof:lastmodified":1480782725,
+    "wof:lastmodified":1611185337,
     "wof:name":"28023",
     "wof:parent_id":85980233,
     "wof:placetype":"postalcode",

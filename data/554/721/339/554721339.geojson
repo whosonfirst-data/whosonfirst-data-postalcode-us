@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013517,
-    "geom:area_square_m":126882303.424062,
+    "geom:area_square_m":126882303.424252,
     "geom:bbox":"-81.766819,40.54127,-81.55919,40.692956",
     "geom:latitude":40.611284,
     "geom:longitude":-81.660946,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.60853,
     "lbl:longitude":-81.662094,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Dundee",
+    "mz:postal_locality_alt":[
+        "Winesburg"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404526317,
         85633793,
-        102084737
+        102084737,
+        404526317,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776867"
     },
     "wof:country":"US",
-    "wof:geomhash":"d8b8356a2163bce4c3478dcd32cd1b47",
+    "wof:geomhash":"6a77b319021c4d6bf3ff901dee390e9e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554721339,
-    "wof:lastmodified":1480835885,
+    "wof:lastmodified":1611184946,
     "wof:name":"44624",
     "wof:parent_id":404526317,
     "wof:placetype":"postalcode",

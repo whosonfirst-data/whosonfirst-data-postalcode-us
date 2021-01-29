@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00079,
-    "geom:area_square_m":7400925.508013,
+    "geom:area_square_m":7400925.508011,
     "geom:bbox":"-74.283427,40.735601,-74.234841,40.762314",
     "geom:latitude":40.749082,
     "geom:longitude":-74.260277,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.748811,
     "lbl:longitude":-74.261512,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"South Orange",
+    "mz:postal_locality_alt":[
+        "Maplewood"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478055,
         85633793,
-        102085043
+        102085043,
+        404478055,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760669"
     },
     "wof:country":"US",
-    "wof:geomhash":"30174cc484041976d508d67c80281aed",
+    "wof:geomhash":"08c04e218fa30713d02cd19ed03c45ab",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554699899,
-    "wof:lastmodified":1480816154,
+    "wof:lastmodified":1611184629,
     "wof:name":"07079",
     "wof:parent_id":404478055,
     "wof:placetype":"postalcode",

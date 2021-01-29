@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024086,
-    "geom:area_square_m":228921355.129212,
+    "geom:area_square_m":228921355.129201,
     "geom:bbox":"-86.686852,39.687599,-86.414076,39.834768",
     "geom:latitude":39.768615,
     "geom:longitude":-86.549624,
@@ -14,20 +14,26 @@
     "lbl:latitude":39.773312,
     "lbl:longitude":-86.551134,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Danville",
+    "mz:postal_locality_alt":[
+        "Avon",
+        "Plainfield"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404500775,
         85633793,
-        102086423
+        102086423,
+        404500775,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777598"
     },
     "wof:country":"US",
-    "wof:geomhash":"c5ebf646ac88874faafb409923099965",
+    "wof:geomhash":"506c4462198604a92cffb1e84f492232",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554722475,
-    "wof:lastmodified":1480911099,
+    "wof:lastmodified":1611183237,
     "wof:name":"46122",
     "wof:parent_id":404500775,
     "wof:placetype":"postalcode",

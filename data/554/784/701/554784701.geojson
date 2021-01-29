@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000626,
-    "geom:area_square_m":6121927.236633,
+    "geom:area_square_m":6121927.236634,
     "geom:bbox":"-122.50987,37.750968,-122.457536,37.76623",
     "geom:latitude":37.758799,
     "geom:longitude":-122.485127,
@@ -13,13 +13,18 @@
     "lbl:latitude":37.758799,
     "lbl:longitude":-122.485127,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"San Francisco",
+    "mz:postal_locality_alt":[
+        "Golden Gate Park"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102087579,
         85922583,
-        102087579
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554784701,
-    "wof:lastmodified":1496430372,
+    "wof:lastmodified":1611183927,
     "wof:name":"94122",
     "wof:parent_id":85922583,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002316,
-    "geom:area_square_m":24931841.631165,
+    "geom:area_square_m":24931841.631212,
     "geom:bbox":"-98.641953,29.435024,-98.587672,29.511096",
     "geom:latitude":29.471396,
     "geom:longitude":-98.61824,
@@ -13,20 +13,25 @@
     "lbl:latitude":29.471773,
     "lbl:longitude":-98.617679,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"San Antonio",
+    "mz:postal_locality_alt":[
+        "Leon Valley"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102082471,
         101724653,
-        102082471
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12792003"
     },
     "wof:country":"US",
-    "wof:geomhash":"e94e4c646b91cd8a6550d33bab05cedd",
+    "wof:geomhash":"bc9e16ee7dda1b1fb5e6536c79acc15c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554746755,
-    "wof:lastmodified":1480790254,
+    "wof:lastmodified":1611183992,
     "wof:name":"78238",
     "wof:parent_id":101724653,
     "wof:placetype":"postalcode",

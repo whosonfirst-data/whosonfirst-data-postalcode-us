@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004798,
-    "geom:area_square_m":45442916.373694,
+    "geom:area_square_m":45442916.373817,
     "geom:bbox":"-76.20832,39.949926,-76.102782,40.069727",
     "geom:latitude":40.008576,
     "geom:longitude":-76.152975,
@@ -14,20 +14,26 @@
     "lbl:latitude":39.974435,
     "lbl:longitude":-76.119357,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ronks",
+    "mz:postal_locality_alt":[
+        "Intercourse",
+        "Strasburg"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485337,
         85633793,
-        102081377
+        102081377,
+        404485337,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764830"
     },
     "wof:country":"US",
-    "wof:geomhash":"922c1239185207b60bacb04ab0d5ad35",
+    "wof:geomhash":"7b96b7abcb46d4d6397a7506c86796dc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554705297,
-    "wof:lastmodified":1480817417,
+    "wof:lastmodified":1611184124,
     "wof:name":"17572",
     "wof:parent_id":404485337,
     "wof:placetype":"postalcode",

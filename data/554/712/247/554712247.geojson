@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033877,
-    "geom:area_square_m":351109657.713026,
+    "geom:area_square_m":351109657.712911,
     "geom:bbox":"-80.301766,32.845651,-80.033183,33.237027",
     "geom:latitude":33.05123,
     "geom:longitude":-80.187466,
@@ -13,19 +13,26 @@
     "lbl:latitude":33.058011,
     "lbl:longitude":-80.182989,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Summerville",
+    "mz:postal_locality_alt":[
+        "Ladson",
+        "Ridgeville",
+        "Charleston"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688683,
-        102085397
+        102085397,
+        85688683
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770216"
     },
     "wof:country":"US",
-    "wof:geomhash":"8ce820d9155a1cf48c56f5080d596cfd",
+    "wof:geomhash":"67bd902501b0494a2427c5adc8a8705b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +43,7 @@
         }
     ],
     "wof:id":554712247,
-    "wof:lastmodified":1480813955,
+    "wof:lastmodified":1611183725,
     "wof:name":"29483",
     "wof:parent_id":102085397,
     "wof:placetype":"postalcode",

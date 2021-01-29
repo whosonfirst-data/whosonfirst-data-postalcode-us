@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000814,
-    "geom:area_square_m":7924003.385137,
+    "geom:area_square_m":7924003.385118,
     "geom:bbox":"-122.269942,38.0411,-122.196807,38.063969",
     "geom:latitude":38.05279,
     "geom:longitude":-122.231297,
@@ -14,20 +14,25 @@
     "lbl:latitude":38.052951,
     "lbl:longitude":-122.232094,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Crockett",
+    "mz:postal_locality_alt":[
+        "Orinda"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086225,
         85925157,
-        102086225
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12797320"
     },
     "wof:country":"US",
-    "wof:geomhash":"3a7b7b6c6e8dc48ec731da6e5cfb0da2",
+    "wof:geomhash":"fd5a170ad778bc6e69191efbad412981",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554784751,
-    "wof:lastmodified":1480908618,
+    "wof:lastmodified":1611183946,
     "wof:name":"94525",
     "wof:parent_id":85925157,
     "wof:placetype":"postalcode",

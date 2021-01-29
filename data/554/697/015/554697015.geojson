@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000945,
-    "geom:area_square_m":8601915.974856,
+    "geom:area_square_m":8601915.974854,
     "geom:bbox":"-72.583289,42.578488,-72.520477,42.612244",
     "geom:latitude":42.595392,
     "geom:longitude":-72.555731,
@@ -14,21 +14,26 @@
     "lbl:latitude":42.59528,
     "lbl:longitude":-72.555002,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Turners Falls",
+    "mz:postal_locality_alt":[
+        "Montague"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476243,
         85633793,
+        102084457,
+        404476243,
         85950763,
-        102084457
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758441"
     },
     "wof:country":"US",
-    "wof:geomhash":"2ede4457dc363b6116be0fc5a3875954",
+    "wof:geomhash":"63d12eba536fe6c022b3e30457625699",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554697015,
-    "wof:lastmodified":1480798064,
+    "wof:lastmodified":1611184639,
     "wof:name":"01376",
     "wof:parent_id":85950763,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048851,
-    "geom:area_square_m":413783314.750602,
+    "geom:area_square_m":413783314.750572,
     "geom:bbox":"-97.983318,46.689244,-97.388141,46.834345",
     "geom:latitude":46.763016,
     "geom:longitude":-97.680825,
@@ -14,20 +14,25 @@
     "lbl:latitude":46.767684,
     "lbl:longitude":-97.671491,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fingal",
+    "mz:postal_locality_alt":[
+        "Alice"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688525,
         102191575,
-        404478865,
         85633793,
-        102082073
+        102082073,
+        404478865,
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12783127"
     },
     "wof:country":"US",
-    "wof:geomhash":"3ab44d878f7cf48b4738ea7be3bdcd52",
+    "wof:geomhash":"3771bb0da2d77f784897653b5d48c290",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554731615,
-    "wof:lastmodified":1480796039,
+    "wof:lastmodified":1611183080,
     "wof:name":"58031",
     "wof:parent_id":404478865,
     "wof:placetype":"postalcode",

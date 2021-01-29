@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015999,
-    "geom:area_square_m":156400094.161895,
+    "geom:area_square_m":156400094.161846,
     "geom:bbox":"-81.219394,37.622841,-81.006113,37.858358",
     "geom:latitude":37.759482,
     "geom:longitude":-81.115469,
@@ -14,19 +14,24 @@
     "lbl:latitude":37.761846,
     "lbl:longitude":-81.101871,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Beaver",
+    "mz:postal_locality_alt":[
+        "Glen Morgan"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688589,
-        102083349
+        102083349,
+        85688589
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12768459"
     },
     "wof:country":"US",
-    "wof:geomhash":"be7b22958774b4b080dd6bc781688a40",
+    "wof:geomhash":"25359bce85e4646f315aebf680b3d10a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554709739,
-    "wof:lastmodified":1480841028,
+    "wof:lastmodified":1611182987,
     "wof:name":"25813",
     "wof:parent_id":102083349,
     "wof:placetype":"postalcode",

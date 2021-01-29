@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019298,
-    "geom:area_square_m":186102828.737194,
+    "geom:area_square_m":186102828.737072,
     "geom:bbox":"-82.877544,38.677485,-82.666632,38.851795",
     "geom:latitude":38.747304,
     "geom:longitude":-82.78218,
@@ -14,20 +14,25 @@
     "lbl:latitude":38.743876,
     "lbl:longitude":-82.780883,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wheelersburg",
+    "mz:postal_locality_alt":[
+        "Portsmouth"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404524239,
         85633793,
-        102081373
+        102081373,
+        404524239,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777390"
     },
     "wof:country":"US",
-    "wof:geomhash":"2a979ab650dc50aa87f1c6aa9e872e87",
+    "wof:geomhash":"f65c597180c347107eb01c0474b51970",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554722131,
-    "wof:lastmodified":1480839213,
+    "wof:lastmodified":1611183231,
     "wof:name":"45694",
     "wof:parent_id":404524239,
     "wof:placetype":"postalcode",

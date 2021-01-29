@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001935,
-    "geom:area_square_m":18130163.782772,
+    "geom:area_square_m":18130163.78275,
     "geom:bbox":"-74.37256,40.717075,-74.295759,40.761067",
     "geom:latitude":40.742104,
     "geom:longitude":-74.333794,
@@ -14,21 +14,26 @@
     "lbl:latitude":40.742345,
     "lbl:longitude":-74.334237,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Short Hills",
+    "mz:postal_locality_alt":[
+        "Millburn"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478043,
         85633793,
+        102085043,
+        404478043,
         85976003,
-        102085043
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760668"
     },
     "wof:country":"US",
-    "wof:geomhash":"87463388b07083fc7a4712a6c2dc2e51",
+    "wof:geomhash":"cacf13f3e942633601694cc47b787385",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554699897,
-    "wof:lastmodified":1480816152,
+    "wof:lastmodified":1611184630,
     "wof:name":"07078",
     "wof:parent_id":85976003,
     "wof:placetype":"postalcode",

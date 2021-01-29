@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019522,
-    "geom:area_square_m":171089145.080439,
+    "geom:area_square_m":171089145.080348,
     "geom:bbox":"-85.874116,44.774666,-85.659665,44.957018",
     "geom:latitude":44.866296,
     "geom:longitude":-85.778037,
@@ -14,20 +14,22 @@
     "lbl:latitude":44.86873,
     "lbl:longitude":-85.770347,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cedar",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404508085,
         85633793,
-        102083155
+        102083155,
+        404508085,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779432"
     },
     "wof:country":"US",
-    "wof:geomhash":"c4c850f17c35af43d11d0ea0654e1661",
+    "wof:geomhash":"83d1b148032818b184bda69352511d1a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554725163,
-    "wof:lastmodified":1480841434,
+    "wof:lastmodified":1611183273,
     "wof:name":"49621",
     "wof:parent_id":404508085,
     "wof:placetype":"postalcode",

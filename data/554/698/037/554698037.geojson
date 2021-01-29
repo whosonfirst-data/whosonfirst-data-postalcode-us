@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008684,
-    "geom:area_square_m":78293081.686112,
+    "geom:area_square_m":78293081.686062,
     "geom:bbox":"-70.970875,43.117682,-70.819022,43.254982",
     "geom:latitude":43.188778,
     "geom:longitude":-70.886809,
@@ -13,21 +13,27 @@
     "lbl:latitude":43.190658,
     "lbl:longitude":-70.887655,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Dover",
+    "mz:postal_locality_alt":[
+        "Madbury",
+        "Newington"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688689,
         102191575,
-        404476795,
         85633793,
+        102085609,
+        404476795,
         85975059,
-        102085609
+        85688689
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759293"
     },
     "wof:country":"US",
-    "wof:geomhash":"668181d1058ce67f7e4c8f88a9849a14",
+    "wof:geomhash":"1f4bf7aa8139d20c1b003560f8a712c0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +46,7 @@
         }
     ],
     "wof:id":554698037,
-    "wof:lastmodified":1480916573,
+    "wof:lastmodified":1611184686,
     "wof:name":"03820",
     "wof:parent_id":85975059,
     "wof:placetype":"postalcode",

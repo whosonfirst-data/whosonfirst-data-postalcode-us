@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002382,
-    "geom:area_square_m":22954886.758615,
+    "geom:area_square_m":22954886.758576,
     "geom:bbox":"-121.284043,38.770355,-121.201267,38.826656",
     "geom:latitude":38.791367,
     "geom:longitude":-121.234357,
@@ -13,20 +13,26 @@
     "lbl:latitude":38.791075,
     "lbl:longitude":-121.234854,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Rocklin",
+    "mz:postal_locality_alt":[
+        "Roseville",
+        "Loomis"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102080863,
         85921805,
-        102080863
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12797947"
     },
     "wof:country":"US",
-    "wof:geomhash":"52eade4250d451e480bff0c162c6dd2e",
+    "wof:geomhash":"007d24685560486731429b0315514952",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554753949,
-    "wof:lastmodified":1480906294,
+    "wof:lastmodified":1611182948,
     "wof:name":"95677",
     "wof:parent_id":85921805,
     "wof:placetype":"postalcode",

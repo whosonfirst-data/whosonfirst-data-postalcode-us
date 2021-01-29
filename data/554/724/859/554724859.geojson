@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044527,
-    "geom:area_square_m":407551799.216349,
+    "geom:area_square_m":407551799.216132,
     "geom:bbox":"-84.546688,42.123716,-84.218925,42.393269",
     "geom:latitude":42.249799,
     "geom:longitude":-84.381538,
@@ -13,20 +13,27 @@
     "lbl:latitude":42.191346,
     "lbl:longitude":-84.297205,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Jackson",
+    "mz:postal_locality_alt":[
+        "Napoleon",
+        "Ottawa Lake",
+        "Pleasant Lake"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404507785,
         85633793,
-        102083081
+        102083081,
+        404507785,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779224"
     },
     "wof:country":"US",
-    "wof:geomhash":"0d06513421be902b029cd6305872dcc7",
+    "wof:geomhash":"0162735adc4bdbb41ddd040de544a8a8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +45,7 @@
         }
     ],
     "wof:id":554724859,
-    "wof:lastmodified":1480836101,
+    "wof:lastmodified":1611183749,
     "wof:name":"49201",
     "wof:parent_id":404507785,
     "wof:placetype":"postalcode",

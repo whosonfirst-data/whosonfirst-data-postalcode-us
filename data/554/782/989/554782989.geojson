@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004749,
-    "geom:area_square_m":42840208.614737,
+    "geom:area_square_m":42840208.614676,
     "geom:bbox":"-87.962648,43.098708,-87.870536,43.197598",
     "geom:latitude":43.155819,
     "geom:longitude":-87.912675,
@@ -13,21 +13,26 @@
     "lbl:latitude":43.158204,
     "lbl:longitude":-87.913225,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Milwaukee",
+    "mz:postal_locality_alt":[
+        "River Hills"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404494169,
         85633793,
+        102081837,
+        404494169,
         101733069,
-        102081837
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12780915"
     },
     "wof:country":"US",
-    "wof:geomhash":"74d2652d5fff7918f69cd718c33045f5",
+    "wof:geomhash":"d25e436c1cd22b82f476b579f760c4ff",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554782989,
-    "wof:lastmodified":1480823411,
+    "wof:lastmodified":1611183634,
     "wof:name":"53217",
     "wof:parent_id":101733069,
     "wof:placetype":"postalcode",

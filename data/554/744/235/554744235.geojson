@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006039,
-    "geom:area_square_m":62505882.335189,
+    "geom:area_square_m":62505882.33521,
     "geom:bbox":"-96.767901,33.125301,-96.62793,33.229306",
     "geom:latitude":33.173072,
     "geom:longitude":-96.697741,
@@ -13,20 +13,26 @@
     "lbl:latitude":33.171916,
     "lbl:longitude":-96.696297,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mc Kinney",
+    "mz:postal_locality_alt":[
+        "Mckinney",
+        "Allen"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102086765,
         101726035,
-        102086765
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12790353"
     },
     "wof:country":"US",
-    "wof:geomhash":"904c08cfc9b0df948e0feb486324a1fe",
+    "wof:geomhash":"c445124aa2291d5138c3e399c5b0cc10",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554744235,
-    "wof:lastmodified":1480911653,
+    "wof:lastmodified":1611184720,
     "wof:name":"75070",
     "wof:parent_id":101726035,
     "wof:placetype":"postalcode",

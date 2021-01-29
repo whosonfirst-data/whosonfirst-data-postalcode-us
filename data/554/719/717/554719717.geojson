@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0128,
-    "geom:area_square_m":126394503.593835,
+    "geom:area_square_m":126394503.593855,
     "geom:bbox":"-88.485254,36.91798,-88.295836,37.064183",
     "geom:latitude":37.007771,
     "geom:longitude":-88.392195,
@@ -14,19 +14,24 @@
     "lbl:latitude":37.006472,
     "lbl:longitude":-88.39196,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Calvert City",
+    "mz:postal_locality_alt":[
+        "Cunningham"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688641,
-        102084509
+        102084509,
+        85688641
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12775800"
     },
     "wof:country":"US",
-    "wof:geomhash":"a9ced4d1ca80111df321d68b3c766ec4",
+    "wof:geomhash":"3c934958d31733b3c66a3e686739a2a6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554719717,
-    "wof:lastmodified":1480803482,
+    "wof:lastmodified":1611184939,
     "wof:name":"42029",
     "wof:parent_id":102084509,
     "wof:placetype":"postalcode",

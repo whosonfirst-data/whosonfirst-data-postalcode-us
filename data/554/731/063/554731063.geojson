@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.070375,
-    "geom:area_square_m":628984590.60729,
+    "geom:area_square_m":628984590.607533,
     "geom:bbox":"-98.205837,43.585672,-97.846691,43.851087",
     "geom:latitude":43.713804,
     "geom:longitude":-98.047276,
@@ -14,21 +14,26 @@
     "lbl:latitude":43.713759,
     "lbl:longitude":-98.047697,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mitchell",
+    "mz:postal_locality_alt":[
+        "Ethan"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688693,
         102191575,
-        404489739,
         85633793,
+        102086045,
+        404489739,
         101721597,
-        102086045
+        85688693
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782845"
     },
     "wof:country":"US",
-    "wof:geomhash":"4ad7c3d352f800efa8160ef3446b6263",
+    "wof:geomhash":"52e010b1a7dc754253932129369f198a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554731063,
-    "wof:lastmodified":1480912157,
+    "wof:lastmodified":1611183068,
     "wof:name":"57301",
     "wof:parent_id":101721597,
     "wof:placetype":"postalcode",

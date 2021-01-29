@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011742,
-    "geom:area_square_m":106082386.1474,
+    "geom:area_square_m":106082386.147609,
     "geom:bbox":"-75.938534,42.96156,-75.802135,43.154715",
     "geom:latitude":43.060358,
     "geom:longitude":-75.865782,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.067797,
     "lbl:longitude":-75.854933,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Chittenango",
+    "mz:postal_locality_alt":[
+        "Canastota"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522621,
         85633793,
-        102080989
+        102080989,
+        404522621,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762620"
     },
     "wof:country":"US",
-    "wof:geomhash":"37e5df69a02c08e08eeac9f516bb4095",
+    "wof:geomhash":"4742ef8453ee5d4f881991ea9695e374",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554702035,
-    "wof:lastmodified":1480903547,
+    "wof:lastmodified":1611184165,
     "wof:name":"13037",
     "wof:parent_id":404522621,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011385,
-    "geom:area_square_m":102283590.179578,
+    "geom:area_square_m":102283590.179563,
     "geom:bbox":"-89.726974,43.321806,-89.539906,43.476249",
     "geom:latitude":43.399609,
     "geom:longitude":-89.641559,
@@ -14,20 +14,22 @@
     "lbl:latitude":43.39494,
     "lbl:longitude":-89.638619,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Merrimac",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404493967,
         85633793,
-        102081845
+        102081845,
+        404493967,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781008"
     },
     "wof:country":"US",
-    "wof:geomhash":"f8fd3638d9cc0df58db8cf872efa84ff",
+    "wof:geomhash":"867c6ea7a26b107f190af96be4f52772",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554727811,
-    "wof:lastmodified":1480824374,
+    "wof:lastmodified":1611185498,
     "wof:name":"53561",
     "wof:parent_id":404493967,
     "wof:placetype":"postalcode",

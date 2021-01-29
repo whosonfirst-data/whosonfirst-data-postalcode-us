@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010475,
-    "geom:area_square_m":100331734.447496,
+    "geom:area_square_m":100331734.447457,
     "geom:bbox":"-77.215293,39.172003,-77.06513,39.289058",
     "geom:latitude":39.233101,
     "geom:longitude":-77.145208,
@@ -13,19 +13,24 @@
     "lbl:latitude":39.237715,
     "lbl:longitude":-77.156804,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Gaithersburg",
+    "mz:postal_locality_alt":[
+        "Laytonsville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688501,
-        102082719
+        102082719,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766372"
     },
     "wof:country":"US",
-    "wof:geomhash":"09624eed6fed0ab07c1b74b190b904cf",
+    "wof:geomhash":"c240ed490cd91e1d6be5a81c7af05d6d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +41,7 @@
         }
     ],
     "wof:id":554707093,
-    "wof:lastmodified":1480800771,
+    "wof:lastmodified":1611183167,
     "wof:name":"20882",
     "wof:parent_id":102082719,
     "wof:placetype":"postalcode",

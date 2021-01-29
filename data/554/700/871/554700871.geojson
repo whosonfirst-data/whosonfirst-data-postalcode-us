@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006188,
-    "geom:area_square_m":57454019.200656,
+    "geom:area_square_m":57454019.20065,
     "geom:bbox":"-73.674947,41.300773,-73.544728,41.366375",
     "geom:latitude":41.33203,
     "geom:longitude":-73.602259,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.340527,
     "lbl:longitude":-73.597609,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"North Salem",
+    "mz:postal_locality_alt":[
+        "Purdys"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404521685,
         85633793,
-        102082373
+        102082373,
+        404521685,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761569"
     },
     "wof:country":"US",
-    "wof:geomhash":"0e02540824f9f33f53066aa37b077211",
+    "wof:geomhash":"951886df7b47b2c378f5095414383b21",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554700871,
-    "wof:lastmodified":1480835024,
+    "wof:lastmodified":1611183199,
     "wof:name":"10560",
     "wof:parent_id":404521685,
     "wof:placetype":"postalcode",

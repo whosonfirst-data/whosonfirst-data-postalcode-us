@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013985,
-    "geom:area_square_m":124950430.476781,
+    "geom:area_square_m":124950430.476753,
     "geom:bbox":"-96.86795,43.688667,-96.6511,43.790604",
     "geom:latitude":43.735473,
     "geom:longitude":-96.759939,
@@ -14,20 +14,22 @@
     "lbl:latitude":43.746315,
     "lbl:longitude":-96.755337,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Baltic",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688693,
         102191575,
-        404491243,
         85633793,
-        102086007
+        102086007,
+        404491243,
+        85688693
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782694"
     },
     "wof:country":"US",
-    "wof:geomhash":"14fa0edb18ec6577709d9b172271e083",
+    "wof:geomhash":"043d13352f09fb2ba407c638eaca7640",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554730775,
-    "wof:lastmodified":1480910265,
+    "wof:lastmodified":1611182756,
     "wof:name":"57003",
     "wof:parent_id":404491243,
     "wof:placetype":"postalcode",

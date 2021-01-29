@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005016,
-    "geom:area_square_m":44848171.481493,
+    "geom:area_square_m":44848171.481519,
     "geom:bbox":"-70.395012,43.642438,-70.311117,43.753815",
     "geom:latitude":43.695363,
     "geom:longitude":-70.353863,
@@ -13,21 +13,26 @@
     "lbl:latitude":43.70792,
     "lbl:longitude":-70.352602,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Westbrook",
+    "mz:postal_locality_alt":[
+        "Waterboro"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404474917,
         85633793,
+        102087463,
+        404474917,
         85948881,
-        102087463
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759437"
     },
     "wof:country":"US",
-    "wof:geomhash":"aa4902ae81167e121516ac1fd01b717d",
+    "wof:geomhash":"37912e2c114bccd082ecb24cd77f2482",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554778703,
-    "wof:lastmodified":1480785910,
+    "wof:lastmodified":1611183437,
     "wof:name":"04092",
     "wof:parent_id":85948881,
     "wof:placetype":"postalcode",

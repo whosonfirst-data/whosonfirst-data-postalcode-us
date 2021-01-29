@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002934,
-    "geom:area_square_m":30006106.925204,
+    "geom:area_square_m":30006106.925208,
     "geom:bbox":"-83.758306,34.168268,-83.674748,34.231813",
     "geom:latitude":34.203751,
     "geom:longitude":-83.715932,
@@ -14,19 +14,25 @@
     "lbl:latitude":34.207642,
     "lbl:longitude":-83.713476,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Talmo",
+    "mz:postal_locality_alt":[
+        "Pendergrass",
+        "Hiawassee"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688535,
-        102084689
+        102084689,
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770912"
     },
     "wof:country":"US",
-    "wof:geomhash":"1ea0ee34cf9447e57664f8cdaaa7ca99",
+    "wof:geomhash":"4f4d1891ccc49011f012c9711dcc30c4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554713313,
-    "wof:lastmodified":1480836743,
+    "wof:lastmodified":1611183314,
     "wof:name":"30575",
     "wof:parent_id":102084689,
     "wof:placetype":"postalcode",

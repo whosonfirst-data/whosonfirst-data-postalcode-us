@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.066298,
-    "geom:area_square_m":554304918.735985,
+    "geom:area_square_m":554304918.735903,
     "geom:bbox":"-98.355566,47.326157,-97.984836,47.601815",
     "geom:latitude":47.456187,
     "geom:longitude":-98.124368,
@@ -14,20 +14,22 @@
     "lbl:latitude":47.45637,
     "lbl:longitude":-98.1247,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cooperstown",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688525,
         102191575,
-        404480675,
         85633793,
-        102081479
+        102081479,
+        404480675,
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12783311"
     },
     "wof:country":"US",
-    "wof:geomhash":"1a49ec47d9ff4ede6651f4d33a0d18d0",
+    "wof:geomhash":"513c95d7e9905068aff1a04d13145fc2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554731963,
-    "wof:lastmodified":1480817175,
+    "wof:lastmodified":1611183058,
     "wof:name":"58425",
     "wof:parent_id":404480675,
     "wof:placetype":"postalcode",

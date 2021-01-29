@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020855,
-    "geom:area_square_m":187941513.139819,
+    "geom:area_square_m":187941513.139804,
     "geom:bbox":"-73.427618,43.112791,-73.258697,43.30843",
     "geom:latitude":43.214197,
     "geom:longitude":-73.340967,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.214159,
     "lbl:longitude":-73.347451,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Salem",
+    "mz:postal_locality_alt":[
+        "Greenwich"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404523325,
         85633793,
-        102083153
+        102083153,
+        404523325,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762517"
     },
     "wof:country":"US",
-    "wof:geomhash":"4a0afb4517fa96cf0c4d803c39857935",
+    "wof:geomhash":"f0c9e2c0c6dc4ea2e0aef88dbf355812",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554701855,
-    "wof:lastmodified":1480835110,
+    "wof:lastmodified":1611182642,
     "wof:name":"12865",
     "wof:parent_id":404523325,
     "wof:placetype":"postalcode",

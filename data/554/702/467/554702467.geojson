@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032204,
-    "geom:area_square_m":286547779.35904,
+    "geom:area_square_m":286547779.359155,
     "geom:bbox":"-75.804948,43.894394,-75.431685,44.063521",
     "geom:latitude":43.979148,
     "geom:longitude":-75.601278,
@@ -14,21 +14,26 @@
     "lbl:latitude":43.978952,
     "lbl:longitude":-75.600977,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Carthage",
+    "mz:postal_locality_alt":[
+        "Castorland"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404521845,
         85633793,
+        102082357,
+        404521845,
         85978101,
-        102082357
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762885"
     },
     "wof:country":"US",
-    "wof:geomhash":"64cda605061fb7fd42a393a10252718a",
+    "wof:geomhash":"cb213e940fdb209d5094cb00616aa839",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554702467,
-    "wof:lastmodified":1480811761,
+    "wof:lastmodified":1611184164,
     "wof:name":"13619",
     "wof:parent_id":85978101,
     "wof:placetype":"postalcode",

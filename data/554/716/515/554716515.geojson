@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006806,
-    "geom:area_square_m":68069590.502069,
+    "geom:area_square_m":68069590.502085,
     "geom:bbox":"-86.620442,35.95644,-86.495286,36.087817",
     "geom:latitude":36.021341,
     "geom:longitude":-86.558858,
@@ -13,20 +13,26 @@
     "lbl:latitude":36.022237,
     "lbl:longitude":-86.559384,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"La Vergne",
+    "mz:postal_locality_alt":[
+        "Franklin",
+        "Antioch"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688701,
         102191575,
         85633793,
+        102086355,
         101723113,
-        102086355
+        85688701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12773808"
     },
     "wof:country":"US",
-    "wof:geomhash":"8c74c199611d8613903b0741bd407938",
+    "wof:geomhash":"92b213359dae1a9e9e6595a4fb01af75",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554716515,
-    "wof:lastmodified":1480915651,
+    "wof:lastmodified":1611185403,
     "wof:name":"37086",
     "wof:parent_id":101723113,
     "wof:placetype":"postalcode",

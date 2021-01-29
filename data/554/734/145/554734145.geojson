@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011364,
-    "geom:area_square_m":106543604.454457,
+    "geom:area_square_m":106543604.454401,
     "geom:bbox":"-89.85179,40.615584,-89.717403,40.75079",
     "geom:latitude":40.689898,
     "geom:longitude":-89.786965,
@@ -14,21 +14,26 @@
     "lbl:latitude":40.689425,
     "lbl:longitude":-89.793782,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hanna City",
+    "mz:postal_locality_alt":[
+        "Washington"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404498779,
         85633793,
+        102081247,
+        404498779,
         85940017,
-        102081247
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784690"
     },
     "wof:country":"US",
-    "wof:geomhash":"7801079726583ad72fee99e01e02e810",
+    "wof:geomhash":"4af7aebfe85bbf7407b50a6794ba99dd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554734145,
-    "wof:lastmodified":1480823042,
+    "wof:lastmodified":1611184188,
     "wof:name":"61536",
     "wof:parent_id":85940017,
     "wof:placetype":"postalcode",

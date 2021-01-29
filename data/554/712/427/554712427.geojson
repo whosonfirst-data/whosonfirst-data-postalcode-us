@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017982,
-    "geom:area_square_m":183687503.686582,
+    "geom:area_square_m":183687503.686534,
     "geom:bbox":"-82.330907,34.216971,-82.114012,34.381096",
     "geom:latitude":34.30027,
     "geom:longitude":-82.231133,
@@ -13,19 +13,24 @@
     "lbl:latitude":34.306003,
     "lbl:longitude":-82.232469,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hodges",
+    "mz:postal_locality_alt":[
+        "Greenwood"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688683,
-        102085435
+        102085435,
+        85688683
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770337"
     },
     "wof:country":"US",
-    "wof:geomhash":"998f6d22e6d5ef58a8bec753fb631d66",
+    "wof:geomhash":"4143b073c2f3b0b6ba869d605b0e1ed6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +41,7 @@
         }
     ],
     "wof:id":554712427,
-    "wof:lastmodified":1480814606,
+    "wof:lastmodified":1611183726,
     "wof:name":"29653",
     "wof:parent_id":102085435,
     "wof:placetype":"postalcode",

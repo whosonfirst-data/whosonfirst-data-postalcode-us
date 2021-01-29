@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003398,
-    "geom:area_square_m":30762135.572342,
+    "geom:area_square_m":30762135.572348,
     "geom:bbox":"-71.149504,42.895453,-71.092203,42.959886",
     "geom:latitude":42.928418,
     "geom:longitude":-71.121101,
@@ -14,20 +14,26 @@
     "lbl:latitude":42.927892,
     "lbl:longitude":-71.119889,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Danville",
+    "mz:postal_locality_alt":[
+        "East Kingston",
+        "East Hampstead"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688689,
         102191575,
-        404476739,
         85633793,
-        102086507
+        102086507,
+        404476739,
+        85688689
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759292"
     },
     "wof:country":"US",
-    "wof:geomhash":"ec71c6839020bcb3dc37e719ffd5e618",
+    "wof:geomhash":"dbfce603331fa654806e2dc8e624b96f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554698033,
-    "wof:lastmodified":1480916575,
+    "wof:lastmodified":1611184701,
     "wof:name":"03819",
     "wof:parent_id":404476739,
     "wof:placetype":"postalcode",

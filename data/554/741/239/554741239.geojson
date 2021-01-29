@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003365,
-    "geom:area_square_m":35077623.898836,
+    "geom:area_square_m":35077623.898841,
     "geom:bbox":"-92.135508,32.491424,-92.075661,32.570395",
     "geom:latitude":32.532974,
     "geom:longitude":-92.105242,
@@ -13,20 +13,25 @@
     "lbl:latitude":32.532929,
     "lbl:longitude":-92.105911,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Monroe",
+    "mz:postal_locality_alt":[
+        "Delhi"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688735,
         102191575,
         85633793,
+        102081027,
         85948231,
-        102081027
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12788638"
     },
     "wof:country":"US",
-    "wof:geomhash":"b3760d0a70ba627cf4b52e82c56a8dcc",
+    "wof:geomhash":"59d5571ae65a30eaad2e2c5a169484b2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554741239,
-    "wof:lastmodified":1480832743,
+    "wof:lastmodified":1611184079,
     "wof:name":"71201",
     "wof:parent_id":85948231,
     "wof:placetype":"postalcode",

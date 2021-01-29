@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007842,
-    "geom:area_square_m":72605183.864598,
+    "geom:area_square_m":72605183.864596,
     "geom:bbox":"-80.36385,41.482842,-80.217648,41.567835",
     "geom:latitude":41.520381,
     "geom:longitude":-80.282612,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.520379,
     "lbl:longitude":-80.282617,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Atlantic",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404486149,
         85633793,
-        102080911
+        102080911,
+        404486149,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764156"
     },
     "wof:country":"US",
-    "wof:geomhash":"9b5000c34cddbc79a6d8dcb0754ed2fc",
+    "wof:geomhash":"18a0e61728dc362e02173edb7a18f101",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554704295,
-    "wof:lastmodified":1480906662,
+    "wof:lastmodified":1611184496,
     "wof:name":"16111",
     "wof:parent_id":404486149,
     "wof:placetype":"postalcode",

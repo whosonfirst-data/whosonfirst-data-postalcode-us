@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045931,
-    "geom:area_square_m":449129184.479756,
+    "geom:area_square_m":449129184.479584,
     "geom:bbox":"-87.408547,37.625516,-87.108016,37.892184",
     "geom:latitude":37.740374,
     "geom:longitude":-87.246107,
@@ -13,19 +13,24 @@
     "lbl:latitude":37.735778,
     "lbl:longitude":-87.249397,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Owensboro",
+    "mz:postal_locality_alt":[
+        "Stanley"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688641,
-        102085691
+        102085691,
+        85688641
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12775922"
     },
     "wof:country":"US",
-    "wof:geomhash":"8b8db2c5de1b8f6fa294a722238ffb67",
+    "wof:geomhash":"f476345dd3ac6307698e4b8047a65385",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +41,7 @@
         }
     ],
     "wof:id":554719929,
-    "wof:lastmodified":1480811543,
+    "wof:lastmodified":1611184938,
     "wof:name":"42301",
     "wof:parent_id":102085691,
     "wof:placetype":"postalcode",

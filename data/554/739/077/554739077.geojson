@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048608,
-    "geom:area_square_m":471199163.920127,
+    "geom:area_square_m":471199163.920043,
     "geom:bbox":"-98.376177,38.26054,-98.03396,38.493361",
     "geom:latitude":38.374527,
     "geom:longitude":-98.193106,
@@ -14,20 +14,26 @@
     "lbl:latitude":38.372211,
     "lbl:longitude":-98.195208,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lyons",
+    "mz:postal_locality_alt":[
+        "Bazine",
+        "Inman"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404504999,
         85633793,
-        102082709
+        102082709,
+        404504999,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787322"
     },
     "wof:country":"US",
-    "wof:geomhash":"6edf7360a8222881ca93818295876f8a",
+    "wof:geomhash":"1e6d73076c8df39c3f1bd13d8e7a5fd8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554739077,
-    "wof:lastmodified":1480796207,
+    "wof:lastmodified":1611182654,
     "wof:name":"67554",
     "wof:parent_id":404504999,
     "wof:placetype":"postalcode",

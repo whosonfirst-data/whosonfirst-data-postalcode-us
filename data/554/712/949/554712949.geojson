@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008503,
-    "geom:area_square_m":87656648.132794,
+    "geom:area_square_m":87656648.132808,
     "geom:bbox":"-84.404391,33.448222,-84.256156,33.608289",
     "geom:latitude":33.522417,
     "geom:longitude":-84.324236,
@@ -13,19 +13,27 @@
     "lbl:latitude":33.524478,
     "lbl:longitude":-84.325439,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Jonesboro",
+    "mz:postal_locality_alt":[
+        "Riverdale",
+        "Stockbridge",
+        "Hampton",
+        "Fayetteville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688535,
-        102082333
+        102082333,
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770671"
     },
     "wof:country":"US",
-    "wof:geomhash":"112144631a9601101550f63fdd20b60a",
+    "wof:geomhash":"424b0f52cf8d24516c042e16d85619e4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +44,7 @@
         }
     ],
     "wof:id":554712949,
-    "wof:lastmodified":1480793847,
+    "wof:lastmodified":1611183714,
     "wof:name":"30236",
     "wof:parent_id":102082333,
     "wof:placetype":"postalcode",

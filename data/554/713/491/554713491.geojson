@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011246,
-    "geom:area_square_m":115885327.561105,
+    "geom:area_square_m":115885327.561104,
     "geom:bbox":"-82.253727,33.504825,-82.0725,33.611145",
     "geom:latitude":33.555412,
     "geom:longitude":-82.164358,
@@ -14,19 +14,25 @@
     "lbl:latitude":33.558527,
     "lbl:longitude":-82.171185,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Evans",
+    "mz:postal_locality_alt":[
+        "Augusta",
+        "Martinez"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688535,
-        102082315
+        102082315,
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12771017"
     },
     "wof:country":"US",
-    "wof:geomhash":"8f9ce058dc6a0aa13096827c9c187ada",
+    "wof:geomhash":"a9c7f863f128832bcacaede96a96185a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554713491,
-    "wof:lastmodified":1480809651,
+    "wof:lastmodified":1611183308,
     "wof:name":"30809",
     "wof:parent_id":102082315,
     "wof:placetype":"postalcode",

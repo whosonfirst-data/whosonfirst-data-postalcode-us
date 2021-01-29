@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005417,
-    "geom:area_square_m":50991424.841086,
+    "geom:area_square_m":50991424.841065,
     "geom:bbox":"-79.821804,40.386461,-79.703283,40.462069",
     "geom:latitude":40.426252,
     "geom:longitude":-79.760435,
@@ -14,21 +14,27 @@
     "lbl:latitude":40.426324,
     "lbl:longitude":-79.76138,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Monroeville",
+    "mz:postal_locality_alt":[
+        "Verona",
+        "Pittsburgh"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404484135,
         85633793,
+        102080887,
+        404484135,
         101718841,
-        102080887
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763639"
     },
     "wof:country":"US",
-    "wof:geomhash":"a5a9ff9d709c96e5df706d8bf0d8af4c",
+    "wof:geomhash":"d7bf3b59d7e2e47009da6c16786c22ff",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554703517,
-    "wof:lastmodified":1480905384,
+    "wof:lastmodified":1611184461,
     "wof:name":"15146",
     "wof:parent_id":101718841,
     "wof:placetype":"postalcode",

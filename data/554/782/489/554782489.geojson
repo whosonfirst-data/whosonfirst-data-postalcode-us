@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003119,
-    "geom:area_square_m":28389794.637238,
+    "geom:area_square_m":28389794.637226,
     "geom:bbox":"-82.973317,42.569116,-82.889015,42.62904",
     "geom:latitude":42.605491,
     "geom:longitude":-82.941548,
@@ -14,20 +14,26 @@
     "lbl:latitude":42.606146,
     "lbl:longitude":-82.937475,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Clinton Township",
+    "mz:postal_locality_alt":[
+        "Clinton Twp",
+        "Clinton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404507391,
         85633793,
-        102083047
+        102083047,
+        404507391,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778542"
     },
     "wof:country":"US",
-    "wof:geomhash":"21762947452f2b4dab9890547d8c770e",
+    "wof:geomhash":"9806e6fa120b589215dd9342829638c7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554782489,
-    "wof:lastmodified":1480838365,
+    "wof:lastmodified":1611183626,
     "wof:name":"48038",
     "wof:parent_id":404507391,
     "wof:placetype":"postalcode",

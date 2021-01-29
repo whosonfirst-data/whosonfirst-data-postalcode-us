@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015019,
-    "geom:area_square_m":150924542.233938,
+    "geom:area_square_m":150924542.233689,
     "geom:bbox":"-79.071804,35.522528,-78.900343,35.716232",
     "geom:latitude":35.641144,
     "geom:longitude":-78.988061,
@@ -14,19 +14,24 @@
     "lbl:latitude":35.640448,
     "lbl:longitude":-78.990037,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"New Hill",
+    "mz:postal_locality_alt":[
+        "Princeton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688773,
-        102080923
+        102080923,
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12769114"
     },
     "wof:country":"US",
-    "wof:geomhash":"a041720079bd79b3888652cc04051408",
+    "wof:geomhash":"2c49d43a85f76234d557f27c42bbcb99",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554710763,
-    "wof:lastmodified":1480906614,
+    "wof:lastmodified":1611185098,
     "wof:name":"27562",
     "wof:parent_id":102080923,
     "wof:placetype":"postalcode",

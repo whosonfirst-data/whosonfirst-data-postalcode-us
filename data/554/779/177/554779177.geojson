@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003016,
-    "geom:area_square_m":28417967.918024,
+    "geom:area_square_m":28417967.918043,
     "geom:bbox":"-74.045958,40.338497,-73.970981,40.399591",
     "geom:latitude":40.368862,
     "geom:longitude":-74.004242,
@@ -14,21 +14,26 @@
     "lbl:latitude":40.369551,
     "lbl:longitude":-74.002368,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Rumson",
+    "mz:postal_locality_alt":[
+        "Sea Bright"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478385,
         85633793,
+        102085049,
+        404478385,
         85975405,
-        102085049
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760878"
     },
     "wof:country":"US",
-    "wof:geomhash":"178a76ad44346e8a6dd067a29f85dabc",
+    "wof:geomhash":"83a6e05788c8463534dda9777e77b520",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554779177,
-    "wof:lastmodified":1480809857,
+    "wof:lastmodified":1611183989,
     "wof:name":"07760",
     "wof:parent_id":85975405,
     "wof:placetype":"postalcode",

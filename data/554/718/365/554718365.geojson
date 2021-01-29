@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043392,
-    "geom:area_square_m":461577809.961887,
+    "geom:area_square_m":461577809.961923,
     "geom:bbox":"-89.85231,30.525276,-89.459429,30.752242",
     "geom:latitude":30.653705,
     "geom:longitude":-89.661183,
@@ -14,19 +14,24 @@
     "lbl:latitude":30.655222,
     "lbl:longitude":-89.661259,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Carriere",
+    "mz:postal_locality_alt":[
+        "Picayune"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688579,
-        102083173
+        102083173,
+        85688579
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12774933"
     },
     "wof:country":"US",
-    "wof:geomhash":"109e97a90a134663d0cd760fb71d6339",
+    "wof:geomhash":"35ab54b032c6ab9fa1399d1bfa9e2d70",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554718365,
-    "wof:lastmodified":1480840247,
+    "wof:lastmodified":1611185536,
     "wof:name":"39426",
     "wof:parent_id":102083173,
     "wof:placetype":"postalcode",

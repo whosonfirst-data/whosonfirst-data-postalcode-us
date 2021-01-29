@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001525,
-    "geom:area_square_m":15636491.067122,
+    "geom:area_square_m":15636491.067111,
     "geom:bbox":"-118.244983,33.983094,-118.169859,34.020595",
     "geom:latitude":34.002451,
     "geom:longitude":-118.213875,
@@ -13,20 +13,25 @@
     "lbl:latitude":34.002844,
     "lbl:longitude":-118.2164,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Los Angeles",
+    "mz:postal_locality_alt":[
+        "Vernon"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086957,
         85923779,
-        102086957
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795666"
     },
     "wof:country":"US",
-    "wof:geomhash":"664f3e8a04b8a7994f5b389c1697108e",
+    "wof:geomhash":"7ed726cfe449e1e7224c11546c55329c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554783957,
-    "wof:lastmodified":1480912622,
+    "wof:lastmodified":1611183890,
     "wof:name":"90058",
     "wof:parent_id":85923779,
     "wof:placetype":"postalcode",

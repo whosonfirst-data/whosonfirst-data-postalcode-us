@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.069011,
-    "geom:area_square_m":704895591.777384,
+    "geom:area_square_m":704895591.776827,
     "geom:bbox":"-90.194086,34.159847,-89.697537,34.444606",
     "geom:latitude":34.304662,
     "geom:longitude":-89.955923,
@@ -14,20 +14,29 @@
     "lbl:latitude":34.303262,
     "lbl:longitude":-89.952316,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Batesville",
+    "mz:postal_locality_alt":[
+        "Ashland",
+        "Coldwater",
+        "Marks",
+        "Sardis",
+        "Courtland"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688579,
         102191575,
         85633793,
+        102080629,
         85970105,
-        102080629
+        85688579
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12774542"
     },
     "wof:country":"US",
-    "wof:geomhash":"3aa3bdce3ec628cd74feb34c7fbe23eb",
+    "wof:geomhash":"1ee556cea8c0967576a23d2216540be3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +48,7 @@
         }
     ],
     "wof:id":554717741,
-    "wof:lastmodified":1480903988,
+    "wof:lastmodified":1611185012,
     "wof:name":"38606",
     "wof:parent_id":85970105,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.07218,
-    "geom:area_square_m":594497934.211359,
+    "geom:area_square_m":594497934.211697,
     "geom:bbox":"-103.56155,48.012247,-103.20271,48.466847",
     "geom:latitude":48.233888,
     "geom:longitude":-103.37921,
@@ -14,20 +14,25 @@
     "lbl:latitude":48.23386,
     "lbl:longitude":-103.37749,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Epping",
+    "mz:postal_locality_alt":[
+        "Grenora"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688525,
         102191575,
-        404482107,
         85633793,
-        102082069
+        102082069,
+        404482107,
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12783514"
     },
     "wof:country":"US",
-    "wof:geomhash":"813ef08cc20ad42c49aad08f010f6c89",
+    "wof:geomhash":"1ced57df4ebfe5d8a6738f8ff58b554b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554732393,
-    "wof:lastmodified":1480792750,
+    "wof:lastmodified":1611184390,
     "wof:name":"58843",
     "wof:parent_id":404482107,
     "wof:placetype":"postalcode",

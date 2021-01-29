@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010982,
-    "geom:area_square_m":111865606.390905,
+    "geom:area_square_m":111865606.390928,
     "geom:bbox":"-77.511991,34.445332,-77.332625,34.610167",
     "geom:latitude":34.532798,
     "geom:longitude":-77.42378,
@@ -14,19 +14,26 @@
     "lbl:latitude":34.541298,
     "lbl:longitude":-77.418235,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Sneads Ferry",
+    "mz:postal_locality_alt":[
+        "N Topsail Beach",
+        "Wallace",
+        "Topsail Beach"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688773,
-        102087881
+        102087881,
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12769674"
     },
     "wof:country":"US",
-    "wof:geomhash":"01443e9c67e85c99dec1b7d5e43865bd",
+    "wof:geomhash":"4288b7bcf1d1849d04ef93a2e6af8371",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +44,7 @@
         }
     ],
     "wof:id":554781005,
-    "wof:lastmodified":1480785419,
+    "wof:lastmodified":1611184834,
     "wof:name":"28460",
     "wof:parent_id":102087881,
     "wof:placetype":"postalcode",

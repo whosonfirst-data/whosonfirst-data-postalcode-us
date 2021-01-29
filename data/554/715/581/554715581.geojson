@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035639,
-    "geom:area_square_m":362537469.950652,
+    "geom:area_square_m":362537469.950602,
     "geom:bbox":"-87.529778,34.469853,-87.28306,34.804992",
     "geom:latitude":34.647154,
     "geom:longitude":-87.406755,
@@ -14,20 +14,22 @@
     "lbl:latitude":34.648533,
     "lbl:longitude":-87.406487,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Town Creek",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688675,
         102191575,
         85633793,
+        102085601,
         85914275,
-        102085601
+        85688675
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12773215"
     },
     "wof:country":"US",
-    "wof:geomhash":"185abf9bcb5b3c2b99dd042fe060dd12",
+    "wof:geomhash":"53e92c5686be4095dd6e1d11097364e9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554715581,
-    "wof:lastmodified":1480815377,
+    "wof:lastmodified":1611183658,
     "wof:name":"35672",
     "wof:parent_id":85914275,
     "wof:placetype":"postalcode",

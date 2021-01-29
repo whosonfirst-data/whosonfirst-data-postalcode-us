@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021706,
-    "geom:area_square_m":205801302.071527,
+    "geom:area_square_m":205801302.071316,
     "geom:bbox":"-88.898547,39.791957,-88.745104,40.055344",
     "geom:latitude":39.933957,
     "geom:longitude":-88.805182,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.941961,
     "lbl:longitude":-88.805357,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Argenta",
+    "mz:postal_locality_alt":[
+        "Oakley"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404499367,
         85633793,
-        102080825
+        102080825,
+        404499367,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785183"
     },
     "wof:country":"US",
-    "wof:geomhash":"166f55514196785a14ee7ed0cdb156d9",
+    "wof:geomhash":"c0f39a1add3ba7c63bc9900f5bdd4b0a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554735055,
-    "wof:lastmodified":1480906163,
+    "wof:lastmodified":1611184421,
     "wof:name":"62501",
     "wof:parent_id":404499367,
     "wof:placetype":"postalcode",

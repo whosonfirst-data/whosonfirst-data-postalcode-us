@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00973,
-    "geom:area_square_m":89264226.727234,
+    "geom:area_square_m":89264226.727232,
     "geom:bbox":"-84.710805,42.071419,-84.486476,42.137382",
     "geom:latitude":42.103233,
     "geom:longitude":-84.602276,
@@ -14,20 +14,22 @@
     "lbl:latitude":42.107843,
     "lbl:longitude":-84.603335,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hanover",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404506073,
         85633793,
-        102083081
+        102083081,
+        404506073,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779244"
     },
     "wof:country":"US",
-    "wof:geomhash":"efa750d90da94388138408fa3b585bec",
+    "wof:geomhash":"1e3f63f9f86903b59d3db43050e98c6b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554724899,
-    "wof:lastmodified":1480836101,
+    "wof:lastmodified":1611183770,
     "wof:name":"49241",
     "wof:parent_id":404506073,
     "wof:placetype":"postalcode",

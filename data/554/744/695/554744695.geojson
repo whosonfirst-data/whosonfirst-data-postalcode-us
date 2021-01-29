@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011777,
-    "geom:area_square_m":122804417.460265,
+    "geom:area_square_m":122804417.460308,
     "geom:bbox":"-94.930769,32.433278,-94.752802,32.591641",
     "geom:latitude":32.509651,
     "geom:longitude":-94.82783,
@@ -13,20 +13,27 @@
     "lbl:latitude":32.509164,
     "lbl:longitude":-94.824416,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Longview",
+    "mz:postal_locality_alt":[
+        "White Oak",
+        "Pittsburg",
+        "Daingerfield"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102085991,
         101725975,
-        102085991
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12790668"
     },
     "wof:country":"US",
-    "wof:geomhash":"1c36a4946864aa39a79173778262badd",
+    "wof:geomhash":"419cb740056389a42dff44815169b7ed",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +45,7 @@
         }
     ],
     "wof:id":554744695,
-    "wof:lastmodified":1480805217,
+    "wof:lastmodified":1611184724,
     "wof:name":"75604",
     "wof:parent_id":101725975,
     "wof:placetype":"postalcode",

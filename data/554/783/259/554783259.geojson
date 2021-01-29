@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00043,
-    "geom:area_square_m":3962906.544547,
+    "geom:area_square_m":3962906.544549,
     "geom:bbox":"-87.804706,41.864977,-87.774139,41.880129",
     "geom:latitude":41.872389,
     "geom:longitude":-87.789484,
@@ -13,21 +13,26 @@
     "lbl:latitude":41.872389,
     "lbl:longitude":-87.789485,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Oak Park",
+    "mz:postal_locality_alt":[
+        "Berwyn"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404497641,
         85633793,
+        102084317,
+        404497641,
         85940755,
-        102084317
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784115"
     },
     "wof:country":"US",
-    "wof:geomhash":"bdef1f19bb2519515c7fdb7601a37786",
+    "wof:geomhash":"a2d2665aafce34c835b258dd4789e910",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554783259,
-    "wof:lastmodified":1480802056,
+    "wof:lastmodified":1611183881,
     "wof:name":"60304",
     "wof:parent_id":85940755,
     "wof:placetype":"postalcode",

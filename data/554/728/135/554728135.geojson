@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000649,
-    "geom:area_square_m":5749616.411605,
+    "geom:area_square_m":5749616.411606,
     "geom:bbox":"-88.356144,44.257196,-88.320149,44.279987",
     "geom:latitude":44.268428,
     "geom:longitude":-88.338821,
@@ -14,21 +14,26 @@
     "lbl:latitude":44.268219,
     "lbl:longitude":-88.338535,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Kimberly",
+    "mz:postal_locality_alt":[
+        "Oneida"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404492153,
         85633793,
+        102081851,
+        404492153,
         101732431,
-        102081851
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781205"
     },
     "wof:country":"US",
-    "wof:geomhash":"2e41650b69a800e3dfb4fc8d7f156f49",
+    "wof:geomhash":"a1f6a15c3f6c5410f0128660d5053e74",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554728135,
-    "wof:lastmodified":1480833325,
+    "wof:lastmodified":1611185043,
     "wof:name":"54136",
     "wof:parent_id":101732431,
     "wof:placetype":"postalcode",

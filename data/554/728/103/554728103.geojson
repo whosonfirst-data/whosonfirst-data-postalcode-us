@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01873,
-    "geom:area_square_m":163632967.798908,
+    "geom:area_square_m":163632967.79894,
     "geom:bbox":"-88.18627,44.988774,-87.881546,45.089344",
     "geom:latitude":45.045814,
     "geom:longitude":-88.045836,
@@ -14,20 +14,25 @@
     "lbl:latitude":45.054741,
     "lbl:longitude":-88.054588,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Coleman",
+    "mz:postal_locality_alt":[
+        "Crivitz"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404493941,
         85633793,
-        102081785
+        102081785,
+        404493941,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781188"
     },
     "wof:country":"US",
-    "wof:geomhash":"796fa70edf9c8c4d407f838845713b8c",
+    "wof:geomhash":"150667c74c12fd6d6cc6f0cbe4b8adc1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554728103,
-    "wof:lastmodified":1480832094,
+    "wof:lastmodified":1611185045,
     "wof:name":"54112",
     "wof:parent_id":404493941,
     "wof:placetype":"postalcode",

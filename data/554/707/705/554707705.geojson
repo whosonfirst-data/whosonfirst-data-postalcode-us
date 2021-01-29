@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048845,
-    "geom:area_square_m":474168322.332901,
+    "geom:area_square_m":474168322.332766,
     "geom:bbox":"-77.347559,38.141131,-76.99767,38.401022",
     "geom:latitude":38.271966,
     "geom:longitude":-77.159631,
@@ -14,20 +14,25 @@
     "lbl:latitude":38.277049,
     "lbl:longitude":-77.162769,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"King George",
+    "mz:postal_locality_alt":[
+        "Dahlgren"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688747,
         102191575,
         85633793,
+        102084959,
         101729067,
-        102084959
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766941"
     },
     "wof:country":"US",
-    "wof:geomhash":"8bc442e60e021262aae5419321990666",
+    "wof:geomhash":"4f7dee183e99f9d7a6ae38a74ec7b570",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554707705,
-    "wof:lastmodified":1480830817,
+    "wof:lastmodified":1611183151,
     "wof:name":"22485",
     "wof:parent_id":101729067,
     "wof:placetype":"postalcode",

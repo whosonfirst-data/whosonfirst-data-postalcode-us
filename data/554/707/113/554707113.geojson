@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001227,
-    "geom:area_square_m":11791553.091341,
+    "geom:area_square_m":11791553.091349,
     "geom:bbox":"-77.068013,38.983241,-77.004226,39.024794",
     "geom:latitude":39.002264,
     "geom:longitude":-77.036291,
@@ -13,20 +13,25 @@
     "lbl:latitude":39.00286,
     "lbl:longitude":-77.036646,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Silver Spring",
+    "mz:postal_locality_alt":[
+        "Washington"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688501,
         102191575,
         85633793,
+        102082719,
         85950277,
-        102082719
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766392"
     },
     "wof:country":"US",
-    "wof:geomhash":"a5c2c8f5468a3e2906d4e308d09a405e",
+    "wof:geomhash":"fd74879b56878f67d5dee80fe32505f3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554707113,
-    "wof:lastmodified":1480803496,
+    "wof:lastmodified":1611183171,
     "wof:name":"20910",
     "wof:parent_id":85950277,
     "wof:placetype":"postalcode",

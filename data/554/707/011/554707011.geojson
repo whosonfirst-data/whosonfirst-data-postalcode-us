@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001151,
-    "geom:area_square_m":11067665.656652,
+    "geom:area_square_m":11067665.65665,
     "geom:bbox":"-76.99723,38.946753,-76.937927,38.984892",
     "geom:latitude":38.964709,
     "geom:longitude":-76.96488,
@@ -13,20 +13,28 @@
     "lbl:latitude":38.965751,
     "lbl:longitude":-76.966463,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hyattsville",
+    "mz:postal_locality_alt":[
+        "University Park",
+        "University PA",
+        "Chillum",
+        "West Hyattsville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688501,
         102191575,
         85633793,
+        102082191,
         85949309,
-        102082191
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766319"
     },
     "wof:country":"US",
-    "wof:geomhash":"9db428a61d95f7cbf3e252e33b248e03",
+    "wof:geomhash":"f5035e5630965c75fa72a2b2b63feecf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +46,7 @@
         }
     ],
     "wof:id":554707011,
-    "wof:lastmodified":1480803496,
+    "wof:lastmodified":1611183159,
     "wof:name":"20782",
     "wof:parent_id":85949309,
     "wof:placetype":"postalcode",

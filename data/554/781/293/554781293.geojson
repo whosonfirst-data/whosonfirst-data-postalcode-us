@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009978,
-    "geom:area_square_m":106426101.499761,
+    "geom:area_square_m":106426101.499709,
     "geom:bbox":"-87.452078,30.326992,-87.261947,30.448445",
     "geom:latitude":30.391838,
     "geom:longitude":-87.368026,
@@ -13,19 +13,24 @@
     "lbl:latitude":30.391628,
     "lbl:longitude":-87.369394,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pensacola",
+    "mz:postal_locality_alt":[
+        "Gulf Breeze"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688651,
-        102084839
+        102084839,
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12771740"
     },
     "wof:country":"US",
-    "wof:geomhash":"864fd5d323e65dcd6cb7437e922af19c",
+    "wof:geomhash":"5fc30ef657f809c858946b60b794f16f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +41,7 @@
         }
     ],
     "wof:id":554781293,
-    "wof:lastmodified":1480816139,
+    "wof:lastmodified":1611184818,
     "wof:name":"32506",
     "wof:parent_id":102084839,
     "wof:placetype":"postalcode",

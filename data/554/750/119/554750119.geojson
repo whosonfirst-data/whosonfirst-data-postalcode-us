@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.072306,
-    "geom:area_square_m":698007512.6562,
+    "geom:area_square_m":698007512.656059,
     "geom:bbox":"-112.228438,38.501982,-111.49942,38.865112",
     "geom:latitude":38.674652,
     "geom:longitude":-111.833138,
@@ -14,19 +14,24 @@
     "lbl:latitude":38.601238,
     "lbl:longitude":-111.698393,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Richfield",
+    "mz:postal_locality_alt":[
+        "Venice"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688567,
-        102083543
+        102083543,
+        85688567
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12794313"
     },
     "wof:country":"US",
-    "wof:geomhash":"018af9aac3f9543e1214baed441f0219",
+    "wof:geomhash":"a8f892f4cdd708249b46f3092536fcb3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554750119,
-    "wof:lastmodified":1480843102,
+    "wof:lastmodified":1611184548,
     "wof:name":"84701",
     "wof:parent_id":102083543,
     "wof:placetype":"postalcode",

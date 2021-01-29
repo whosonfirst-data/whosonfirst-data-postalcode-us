@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.078412,
-    "geom:area_square_m":776159842.636581,
+    "geom:area_square_m":776159842.636709,
     "geom:bbox":"-88.066971,36.63316,-87.667213,36.983802",
     "geom:latitude":36.821434,
     "geom:longitude":-87.838999,
@@ -14,19 +14,27 @@
     "lbl:latitude":36.817748,
     "lbl:longitude":-87.833699,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cadiz",
+    "mz:postal_locality_alt":[
+        "Canton",
+        "Russellville",
+        "Rochester",
+        "Hopkinsville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688641,
-        102085575
+        102085575,
+        85688641
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12775885"
     },
     "wof:country":"US",
-    "wof:geomhash":"80cf3559619e79df7c9bcb3f2998bd4e",
+    "wof:geomhash":"d74fe306b2ee71be575561d6c97a1511",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +45,7 @@
         }
     ],
     "wof:id":554719871,
-    "wof:lastmodified":1480913792,
+    "wof:lastmodified":1611184929,
     "wof:name":"42211",
     "wof:parent_id":102085575,
     "wof:placetype":"postalcode",

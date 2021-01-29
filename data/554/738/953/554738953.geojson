@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038926,
-    "geom:area_square_m":376191687.040411,
+    "geom:area_square_m":376191687.040258,
     "geom:bbox":"-97.801153,38.47818,-97.545194,38.769237",
     "geom:latitude":38.59598,
     "geom:longitude":-97.674287,
@@ -14,20 +14,25 @@
     "lbl:latitude":38.600676,
     "lbl:longitude":-97.675387,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lindsborg",
+    "mz:postal_locality_alt":[
+        "Smolan"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404504597,
         85633793,
-        102083415
+        102083415,
+        404504597,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787266"
     },
     "wof:country":"US",
-    "wof:geomhash":"e6cb61d6db0579fd85c85e84bd79e990",
+    "wof:geomhash":"8a2d0e0b469faeab7b14d558de4ab819",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554738953,
-    "wof:lastmodified":1480840125,
+    "wof:lastmodified":1611183093,
     "wof:name":"67456",
     "wof:parent_id":404504597,
     "wof:placetype":"postalcode",

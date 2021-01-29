@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006317,
-    "geom:area_square_m":59477280.099439,
+    "geom:area_square_m":59477280.099489,
     "geom:bbox":"-91.012745,40.36981,-90.820064,40.440758",
     "geom:latitude":40.408919,
     "geom:longitude":-90.912069,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.408924,
     "lbl:longitude":-90.912064,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Tennessee",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404499525,
         85633793,
-        102082845
+        102082845,
+        404499525,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785116"
     },
     "wof:country":"US",
-    "wof:geomhash":"97c9987cfc32fa82758a63f53374f9bc",
+    "wof:geomhash":"f90dbaad285c08daf93c15d3861fe614",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554734913,
-    "wof:lastmodified":1480905340,
+    "wof:lastmodified":1611184192,
     "wof:name":"62374",
     "wof:parent_id":404499525,
     "wof:placetype":"postalcode",

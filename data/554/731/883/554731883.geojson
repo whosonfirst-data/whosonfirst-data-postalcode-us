@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.067177,
-    "geom:area_square_m":552716511.603431,
+    "geom:area_square_m":552716511.603504,
     "geom:bbox":"-99.588399,48.149165,-99.22174,48.457875",
     "geom:latitude":48.287524,
     "geom:longitude":-99.428594,
@@ -14,20 +14,22 @@
     "lbl:latitude":48.287045,
     "lbl:longitude":-99.428184,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Leeds",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688525,
         102191575,
-        404478691,
         85633793,
-        102082071
+        102082071,
+        404478691,
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12783271"
     },
     "wof:country":"US",
-    "wof:geomhash":"486cdafbd8ef30a5451e9ec2a96490e7",
+    "wof:geomhash":"4be84e3523a9ceb5183a7fa3188ab0dc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554731883,
-    "wof:lastmodified":1480795679,
+    "wof:lastmodified":1611183078,
     "wof:name":"58346",
     "wof:parent_id":404478691,
     "wof:placetype":"postalcode",

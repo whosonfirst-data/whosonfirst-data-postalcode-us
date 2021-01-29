@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040909,
-    "geom:area_square_m":354209564.953507,
+    "geom:area_square_m":354209564.953332,
     "geom:bbox":"-88.806808,45.453557,-88.431115,45.637136",
     "geom:latitude":45.554695,
     "geom:longitude":-88.643505,
@@ -14,20 +14,26 @@
     "lbl:latitude":45.5565,
     "lbl:longitude":-88.619091,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Laona",
+    "mz:postal_locality_alt":[
+        "Argonne",
+        "Crandon"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404494815,
         85633793,
-        102081885
+        102081885,
+        404494815,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781389"
     },
     "wof:country":"US",
-    "wof:geomhash":"64388cb1eb107f723e914f461fb37ace",
+    "wof:geomhash":"1fbc66b8b605dcc927b2218096a1b077",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554728417,
-    "wof:lastmodified":1480818703,
+    "wof:lastmodified":1611185079,
     "wof:name":"54541",
     "wof:parent_id":404494815,
     "wof:placetype":"postalcode",

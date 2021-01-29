@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.054985,
-    "geom:area_square_m":548860209.535141,
+    "geom:area_square_m":548860209.535124,
     "geom:bbox":"-76.586237,36.074663,-76.184203,36.324583",
     "geom:latitude":36.170458,
     "geom:longitude":-76.411105,
@@ -14,19 +14,25 @@
     "lbl:latitude":36.173431,
     "lbl:longitude":-76.421264,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hertford",
+    "mz:postal_locality_alt":[
+        "Winfall",
+        "Clayton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688773,
-        102080919
+        102080919,
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12769323"
     },
     "wof:country":"US",
-    "wof:geomhash":"1114110a99634922ec4bb29f811c1c92",
+    "wof:geomhash":"624e2a5c32aab1a231fa8daebc836c65",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554711019,
-    "wof:lastmodified":1480903692,
+    "wof:lastmodified":1611185334,
     "wof:name":"27944",
     "wof:parent_id":102080919,
     "wof:placetype":"postalcode",

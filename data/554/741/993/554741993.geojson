@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007143,
-    "geom:area_square_m":72476885.692284,
+    "geom:area_square_m":72476885.692194,
     "geom:bbox":"-92.450324,34.799876,-92.34272,34.931675",
     "geom:latitude":34.859433,
     "geom:longitude":-92.398919,
@@ -14,20 +14,25 @@
     "lbl:latitude":34.859572,
     "lbl:longitude":-92.397599,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Maumelle",
+    "mz:postal_locality_alt":[
+        "N Little Rock"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688549,
         102191575,
         85633793,
+        102082497,
         85921259,
-        102082497
+        85688549
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12789070"
     },
     "wof:country":"US",
-    "wof:geomhash":"d60b4e79b8a99dec2eec242969ea3fb2",
+    "wof:geomhash":"84903be71d2e7c2cb4247f0ed48f5e21",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554741993,
-    "wof:lastmodified":1480836168,
+    "wof:lastmodified":1611184066,
     "wof:name":"72113",
     "wof:parent_id":85921259,
     "wof:placetype":"postalcode",

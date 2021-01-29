@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000758,
-    "geom:area_square_m":6642231.852408,
+    "geom:area_square_m":6642231.852415,
     "geom:bbox":"-72.277715,44.849402,-72.214495,44.873784",
     "geom:latitude":44.862321,
     "geom:longitude":-72.245639,
@@ -14,20 +14,25 @@
     "lbl:latitude":44.862501,
     "lbl:longitude":-72.244465,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Newport",
+    "mz:postal_locality_alt":[
+        "Coventry"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688763,
         102191575,
-        404527199,
         85633793,
-        102087443
+        102087443,
+        404527199,
+        85688763
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760121"
     },
     "wof:country":"US",
-    "wof:geomhash":"71d852bd3ec237955bec64c2f3e505fa",
+    "wof:geomhash":"5592429a278dd4d297a8a3ed4c13edf2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554699181,
-    "wof:lastmodified":1480784780,
+    "wof:lastmodified":1611184615,
     "wof:name":"05825",
     "wof:parent_id":404527199,
     "wof:placetype":"postalcode",

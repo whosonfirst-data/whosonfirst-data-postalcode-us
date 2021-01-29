@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029037,
-    "geom:area_square_m":303750058.428419,
+    "geom:area_square_m":303750058.428288,
     "geom:bbox":"-81.016089,32.111123,-80.759443,32.327079",
     "geom:latitude":32.220789,
     "geom:longitude":-80.884834,
@@ -14,20 +14,29 @@
     "lbl:latitude":32.219462,
     "lbl:longitude":-80.898538,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bluffton",
+    "mz:postal_locality_alt":[
+        "Daufuskie Island",
+        "Ridgeland",
+        "Beaufort",
+        "Yemassee",
+        "Hilton Head Isle"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688683,
         102191575,
         85633793,
+        102085471,
         101720695,
-        102085471
+        85688683
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770458"
     },
     "wof:country":"US",
-    "wof:geomhash":"8b77c815dda9a3e288e08492325fb9e4",
+    "wof:geomhash":"2f05c8b9b5ae31d674db21f86052ca5e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +48,7 @@
         }
     ],
     "wof:id":554712621,
-    "wof:lastmodified":1480814019,
+    "wof:lastmodified":1611183698,
     "wof:name":"29910",
     "wof:parent_id":101720695,
     "wof:placetype":"postalcode",

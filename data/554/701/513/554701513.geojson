@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004086,
-    "geom:area_square_m":37844344.581837,
+    "geom:area_square_m":37844344.581816,
     "geom:bbox":"-73.989318,41.442119,-73.897765,41.534765",
     "geom:latitude":41.496739,
     "geom:longitude":-73.95383,
@@ -14,21 +14,26 @@
     "lbl:latitude":41.495995,
     "lbl:longitude":-73.953632,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Beacon",
+    "mz:postal_locality_alt":[
+        "Wappingers Falls"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522213,
         85633793,
+        102082363,
+        404522213,
         85977833,
-        102082363
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762330"
     },
     "wof:country":"US",
-    "wof:geomhash":"0dcbd73fb550b073a41d9837405bbadd",
+    "wof:geomhash":"ead18a7c119bbc4de01af0a723a4f58c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554701513,
-    "wof:lastmodified":1480835025,
+    "wof:lastmodified":1611182645,
     "wof:name":"12508",
     "wof:parent_id":85977833,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006635,
-    "geom:area_square_m":59118615.723556,
+    "geom:area_square_m":59118615.723563,
     "geom:bbox":"-70.248617,43.840707,-70.118523,43.947928",
     "geom:latitude":43.899154,
     "geom:longitude":-70.181848,
@@ -14,20 +14,22 @@
     "lbl:latitude":43.903914,
     "lbl:longitude":-70.182018,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pownal",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404474915,
         85633793,
-        102087463
+        102087463,
+        404474915,
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759416"
     },
     "wof:country":"US",
-    "wof:geomhash":"5b470de0a011f517a71d67b7019e660f",
+    "wof:geomhash":"f20cacdb58151e633377e80040678918",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554698201,
-    "wof:lastmodified":1480785909,
+    "wof:lastmodified":1611184701,
     "wof:name":"04069",
     "wof:parent_id":404474915,
     "wof:placetype":"postalcode",

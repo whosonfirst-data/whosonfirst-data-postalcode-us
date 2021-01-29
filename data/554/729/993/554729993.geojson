@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020359,
-    "geom:area_square_m":180573669.386689,
+    "geom:area_square_m":180573669.386761,
     "geom:bbox":"-96.245746,44.09514,-95.96333,44.262852",
     "geom:latitude":44.168204,
     "geom:longitude":-96.087097,
@@ -14,20 +14,26 @@
     "lbl:latitude":44.173686,
     "lbl:longitude":-96.090557,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ruthton",
+    "mz:postal_locality_alt":[
+        "Hardwick",
+        "Edgerton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404513507,
         85633793,
-        102087865
+        102087865,
+        404513507,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782303"
     },
     "wof:country":"US",
-    "wof:geomhash":"fa1979fe3348871ba3b86bc9a8ae5cd4",
+    "wof:geomhash":"b0e8f1801c7fb05dbe080c81f9f53376",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554729993,
-    "wof:lastmodified":1480785071,
+    "wof:lastmodified":1611185427,
     "wof:name":"56170",
     "wof:parent_id":404513507,
     "wof:placetype":"postalcode",

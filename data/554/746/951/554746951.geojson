@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022476,
-    "geom:area_square_m":240499742.3033,
+    "geom:area_square_m":240499742.303449,
     "geom:bbox":"-98.016372,30.024499,-97.655257,30.131921",
     "geom:latitude":30.077224,
     "geom:longitude":-97.837395,
@@ -14,20 +14,26 @@
     "lbl:latitude":30.078514,
     "lbl:longitude":-97.838012,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Buda",
+    "mz:postal_locality_alt":[
+        "Creedmoor",
+        "Mountain City"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102080715,
         101724583,
-        102080715
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12792216"
     },
     "wof:country":"US",
-    "wof:geomhash":"4e892cc3834f44c04c48654120cb14d0",
+    "wof:geomhash":"a0b4dcc6a7bfd45e4f04d073f4fa9401",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554746951,
-    "wof:lastmodified":1480903605,
+    "wof:lastmodified":1611184016,
     "wof:name":"78610",
     "wof:parent_id":101724583,
     "wof:placetype":"postalcode",

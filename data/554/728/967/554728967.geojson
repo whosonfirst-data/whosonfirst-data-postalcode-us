@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019403,
-    "geom:area_square_m":170706635.151524,
+    "geom:area_square_m":170706635.151462,
     "geom:bbox":"-93.399497,44.543891,-93.156242,44.717831",
     "geom:latitude":44.640934,
     "geom:longitude":-93.27982,
@@ -14,21 +14,26 @@
     "lbl:latitude":44.64214,
     "lbl:longitude":-93.276428,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lakeville",
+    "mz:postal_locality_alt":[
+        "Prior Lake"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404515209,
         85633793,
+        102087895,
+        404515209,
         85968479,
-        102087895
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781697"
     },
     "wof:country":"US",
-    "wof:geomhash":"889e74e1d4b50a7426543079f7c495c3",
+    "wof:geomhash":"32ec4e643f97ac0c4e5943997f3aefee",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554728967,
-    "wof:lastmodified":1480789031,
+    "wof:lastmodified":1611185075,
     "wof:name":"55044",
     "wof:parent_id":85968479,
     "wof:placetype":"postalcode",

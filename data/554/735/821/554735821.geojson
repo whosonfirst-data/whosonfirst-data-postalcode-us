@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001686,
-    "geom:area_square_m":16257463.80097,
+    "geom:area_square_m":16257463.800987,
     "geom:bbox":"-90.325216,38.725015,-90.277518,38.772663",
     "geom:latitude":38.750054,
     "geom:longitude":-90.298997,
@@ -13,21 +13,27 @@
     "lbl:latitude":38.749681,
     "lbl:longitude":-90.298718,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Saint Louis",
+    "mz:postal_locality_alt":[
+        "Ferguson",
+        "St Louis"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404517247,
         85633793,
+        102086173,
+        404517247,
         85972205,
-        102086173
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785620"
     },
     "wof:country":"US",
-    "wof:geomhash":"ec390dbe4250c07e24864d4c9626048a",
+    "wof:geomhash":"8c0001c33b3bbbd3264509d45db7efe2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +46,7 @@
         }
     ],
     "wof:id":554735821,
-    "wof:lastmodified":1480914492,
+    "wof:lastmodified":1611184416,
     "wof:name":"63135",
     "wof:parent_id":85972205,
     "wof:placetype":"postalcode",

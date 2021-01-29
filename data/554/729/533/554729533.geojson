@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04243,
-    "geom:area_square_m":358374416.329802,
+    "geom:area_square_m":358374416.329667,
     "geom:bbox":"-92.630866,46.808219,-92.301689,47.02472",
     "geom:latitude":46.915719,
     "geom:longitude":-92.444563,
@@ -14,20 +14,25 @@
     "lbl:latitude":46.908724,
     "lbl:longitude":-92.4491,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Saginaw",
+    "mz:postal_locality_alt":[
+        "Culver"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404513389,
         85633793,
-        102087653
+        102087653,
+        404513389,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782070"
     },
     "wof:country":"US",
-    "wof:geomhash":"108ae605c9e72370892c390673f96a85",
+    "wof:geomhash":"f6838ae6af4092c32237096fa1040d01",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554729533,
-    "wof:lastmodified":1480785489,
+    "wof:lastmodified":1611185405,
     "wof:name":"55779",
     "wof:parent_id":404513389,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001518,
-    "geom:area_square_m":14591494.485061,
+    "geom:area_square_m":14591494.48504,
     "geom:bbox":"-77.002436,38.961616,-76.943312,39.04013",
     "geom:latitude":38.999082,
     "geom:longitude":-76.968783,
@@ -13,20 +13,27 @@
     "lbl:latitude":38.997067,
     "lbl:longitude":-76.966783,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hyattsville",
+    "mz:postal_locality_alt":[
+        "Adelphi",
+        "Takoma Park",
+        "Silver Spring"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688501,
         102191575,
         85633793,
+        102082191,
         85949915,
-        102082191
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766320"
     },
     "wof:country":"US",
-    "wof:geomhash":"d58a2bbc051660032693031dfda4d64d",
+    "wof:geomhash":"d9423e4296dde52398dd2c3b65ae28b4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +45,7 @@
         }
     ],
     "wof:id":554707013,
-    "wof:lastmodified":1480803497,
+    "wof:lastmodified":1611183138,
     "wof:name":"20783",
     "wof:parent_id":85949915,
     "wof:placetype":"postalcode",

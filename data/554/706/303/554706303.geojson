@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000347,
-    "geom:area_square_m":3283920.219514,
+    "geom:area_square_m":3283920.219516,
     "geom:bbox":"-75.159442,39.968726,-75.131728,39.986424",
     "geom:latitude":39.977746,
     "geom:longitude":-75.1459,
@@ -13,21 +13,23 @@
     "lbl:latitude":39.977746,
     "lbl:longitude":-75.1459,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Philadelphia",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404483701,
         85633793,
+        102081353,
+        404483701,
         101718083,
-        102081353
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765508"
     },
     "wof:country":"US",
-    "wof:geomhash":"783fd462e4c4359d10b53f776c4d94f9",
+    "wof:geomhash":"406a2e8a3b6a9f490736584fe8d45e97",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +42,7 @@
         }
     ],
     "wof:id":554706303,
-    "wof:lastmodified":1480817170,
+    "wof:lastmodified":1611182702,
     "wof:name":"19122",
     "wof:parent_id":101718083,
     "wof:placetype":"postalcode",

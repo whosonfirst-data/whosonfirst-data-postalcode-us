@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027294,
-    "geom:area_square_m":241111907.290758,
+    "geom:area_square_m":241111907.291009,
     "geom:bbox":"-72.103986,44.321775,-71.837656,44.510398",
     "geom:latitude":44.405128,
     "geom:longitude":-71.987629,
@@ -14,20 +14,27 @@
     "lbl:latitude":44.404737,
     "lbl:longitude":-71.983075,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"St Johnsbury",
+    "mz:postal_locality_alt":[
+        "Saint Johnsbury",
+        "Newport",
+        "St Johnsbury Ctr"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688763,
         102191575,
-        404527571,
         85633793,
-        102080755
+        102080755,
+        404527571,
+        85688763
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760115"
     },
     "wof:country":"US",
-    "wof:geomhash":"93014604e35d56a283d6ec0f69de6a7b",
+    "wof:geomhash":"f36749e9bebd48807f8c5b4fe04c87da",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554699171,
-    "wof:lastmodified":1480916384,
+    "wof:lastmodified":1611184634,
     "wof:name":"05819",
     "wof:parent_id":404527571,
     "wof:placetype":"postalcode",

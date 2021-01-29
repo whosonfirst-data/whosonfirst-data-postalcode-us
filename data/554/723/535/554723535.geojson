@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031194,
-    "geom:area_square_m":301989670.049997,
+    "geom:area_square_m":301989670.049766,
     "geom:bbox":"-87.462892,38.374384,-87.14703,38.552238",
     "geom:latitude":38.47001,
     "geom:longitude":-87.304253,
@@ -14,20 +14,26 @@
     "lbl:latitude":38.4627,
     "lbl:longitude":-87.305019,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Petersburg",
+    "mz:postal_locality_alt":[
+        "Plainville",
+        "St Meinrad"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404501651,
         85633793,
-        102087187
+        102087187,
+        404501651,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778295"
     },
     "wof:country":"US",
-    "wof:geomhash":"b003de4e827805ee41cb9edb2b38492c",
+    "wof:geomhash":"51fc42e436983e537a8310b81ace49a9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554723535,
-    "wof:lastmodified":1480911783,
+    "wof:lastmodified":1611183779,
     "wof:name":"47567",
     "wof:parent_id":404501651,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015815,
-    "geom:area_square_m":149591137.666302,
+    "geom:area_square_m":149591137.666385,
     "geom:bbox":"-93.366967,39.967606,-93.219631,40.19865",
     "geom:latitude":40.097944,
     "geom:longitude":-93.313789,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.098954,
     "lbl:longitude":-93.30898,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Humphreys",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404515783,
         85633793,
-        102087489
+        102087489,
+        404515783,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786190"
     },
     "wof:country":"US",
-    "wof:geomhash":"9963b727ec9e438f0dd4df34020326b1",
+    "wof:geomhash":"121a02bd8cf3c4e839ea5c4c81c55820",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554736839,
-    "wof:lastmodified":1480910529,
+    "wof:lastmodified":1611183049,
     "wof:name":"64646",
     "wof:parent_id":404515783,
     "wof:placetype":"postalcode",

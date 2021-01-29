@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001044,
-    "geom:area_square_m":11186205.82732,
+    "geom:area_square_m":11186205.827321,
     "geom:bbox":"-90.205909,29.944435,-90.1277,29.973478",
     "geom:latitude":29.961858,
     "geom:longitude":-90.162402,
@@ -13,20 +13,25 @@
     "lbl:latitude":29.959763,
     "lbl:longitude":-90.163314,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Jefferson",
+    "mz:postal_locality_alt":[
+        "New Orleans"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688735,
         102191575,
         85633793,
+        102083179,
         85948751,
-        102083179
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12788168"
     },
     "wof:country":"US",
-    "wof:geomhash":"36892b98a2376c4511b397e02a4a8667",
+    "wof:geomhash":"b0796f1e9654bbbdfd4cc6ed037f1d80",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554783583,
-    "wof:lastmodified":1480910698,
+    "wof:lastmodified":1611183907,
     "wof:name":"70121",
     "wof:parent_id":85948751,
     "wof:placetype":"postalcode",

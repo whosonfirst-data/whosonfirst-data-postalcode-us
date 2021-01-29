@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01935,
-    "geom:area_square_m":190760478.099378,
+    "geom:area_square_m":190760478.099562,
     "geom:bbox":"-77.495396,37.037334,-77.315912,37.219004",
     "geom:latitude":37.129036,
     "geom:longitude":-77.39782,
@@ -14,19 +14,24 @@
     "lbl:latitude":37.138544,
     "lbl:longitude":-77.403475,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Petersburg",
+    "mz:postal_locality_alt":[
+        "Carson"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688747,
-        102084899
+        102084899,
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12767481"
     },
     "wof:country":"US",
-    "wof:geomhash":"999957a79843f83dd00076aee3e0ad6e",
+    "wof:geomhash":"f4e07c6c9d1f900f17bc7372b6de9dee",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554708335,
-    "wof:lastmodified":1480812032,
+    "wof:lastmodified":1611182787,
     "wof:name":"23805",
     "wof:parent_id":102084899,
     "wof:placetype":"postalcode",

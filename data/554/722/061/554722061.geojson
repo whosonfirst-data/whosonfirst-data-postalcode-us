@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0386,
-    "geom:area_square_m":371341933.202972,
+    "geom:area_square_m":371341933.20328,
     "geom:bbox":"-83.217234,38.812309,-82.854814,39.008674",
     "geom:latitude":38.9206,
     "geom:longitude":-83.015142,
@@ -13,20 +13,25 @@
     "lbl:latitude":38.918087,
     "lbl:longitude":-83.007686,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lucasville",
+    "mz:postal_locality_alt":[
+        "Mc Dermott"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404526941,
         85633793,
-        102081373
+        102081373,
+        404526941,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777355"
     },
     "wof:country":"US",
-    "wof:geomhash":"adb67bf12ba9d620b3cbce633692ca9e",
+    "wof:geomhash":"0e75cc0e789a225b5476fc04503f5289",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554722061,
-    "wof:lastmodified":1480833728,
+    "wof:lastmodified":1611183242,
     "wof:name":"45648",
     "wof:parent_id":404526941,
     "wof:placetype":"postalcode",

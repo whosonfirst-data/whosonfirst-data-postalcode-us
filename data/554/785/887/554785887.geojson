@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000059,
-    "geom:area_square_m":629802.933352,
+    "geom:area_square_m":629802.933351,
     "geom:bbox":"-87.300475,30.402529,-87.280625,30.409485",
     "geom:latitude":30.406055,
     "geom:longitude":-87.291696,
@@ -13,20 +13,22 @@
     "lbl:latitude":30.406056,
     "lbl:longitude":-87.291696,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pensacola",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688651,
         102191575,
         85633793,
+        102084839,
         85935037,
-        102084839
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12771744"
     },
     "wof:country":"US",
-    "wof:geomhash":"0e7d7d821e81a9da85ba57ff20c7675c",
+    "wof:geomhash":"f8fad24b9b961ff2725c25fac07b3ab3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +40,7 @@
         }
     ],
     "wof:id":554785887,
-    "wof:lastmodified":1480798164,
+    "wof:lastmodified":1611183496,
     "wof:name":"32511",
     "wof:parent_id":85935037,
     "wof:placetype":"postalcode",

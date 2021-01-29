@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010032,
-    "geom:area_square_m":90053547.177682,
+    "geom:area_square_m":90053547.177668,
     "geom:bbox":"-98.706692,43.361931,-98.509317,43.499319",
     "geom:latitude":43.45075,
     "geom:longitude":-98.633949,
@@ -14,20 +14,22 @@
     "lbl:latitude":43.463754,
     "lbl:longitude":-98.653802,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Harrison",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688693,
         102191575,
-        404490035,
         85633793,
-        102086053
+        102086053,
+        404490035,
+        85688693
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782871"
     },
     "wof:country":"US",
-    "wof:geomhash":"62fc57c11972c186b7cfc1ecd08f6858",
+    "wof:geomhash":"12c272f3fdbe27c875cdce73fc6287ea",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554731121,
-    "wof:lastmodified":1480916910,
+    "wof:lastmodified":1611183071,
     "wof:name":"57344",
     "wof:parent_id":404490035,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025396,
-    "geom:area_square_m":236738471.117588,
+    "geom:area_square_m":236738471.1176,
     "geom:bbox":"-96.950752,40.980026,-96.719794,41.176849",
     "geom:latitude":41.07318,
     "geom:longitude":-96.839898,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.068901,
     "lbl:longitude":-96.839466,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Valparaiso",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688563,
         102191575,
-        404520971,
         85633793,
-        102082199
+        102082199,
+        404520971,
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787515"
     },
     "wof:country":"US",
-    "wof:geomhash":"2367f7f1ad441548fbef365b2ab86555",
+    "wof:geomhash":"3c02ae4c521c7ca1ae5ebe30011392cd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554739477,
-    "wof:lastmodified":1480836363,
+    "wof:lastmodified":1611182655,
     "wof:name":"68065",
     "wof:parent_id":404520971,
     "wof:placetype":"postalcode",

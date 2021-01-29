@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004478,
-    "geom:area_square_m":42518688.505394,
+    "geom:area_square_m":42518688.505364,
     "geom:bbox":"-85.362644,39.787526,-85.228686,39.8732",
     "geom:latitude":39.835381,
     "geom:longitude":-85.294114,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.838465,
     "lbl:longitude":-85.298534,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Straughn",
+    "mz:postal_locality_alt":[
+        "New Lisbon"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404500793,
         85633793,
-        102087085
+        102087085,
+        404500793,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778201"
     },
     "wof:country":"US",
-    "wof:geomhash":"87290bbbd4a9980ca7bc46ae883effea",
+    "wof:geomhash":"e27089462f8b139e054a83dab39e989e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554723375,
-    "wof:lastmodified":1480911066,
+    "wof:lastmodified":1611183813,
     "wof:name":"47387",
     "wof:parent_id":404500793,
     "wof:placetype":"postalcode",

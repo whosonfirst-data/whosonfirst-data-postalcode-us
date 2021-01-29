@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025626,
-    "geom:area_square_m":209484709.348035,
+    "geom:area_square_m":209484709.348067,
     "geom:bbox":"-97.840331,48.543086,-97.557302,48.688077",
     "geom:latitude":48.615226,
     "geom:longitude":-97.681594,
@@ -14,20 +14,22 @@
     "lbl:latitude":48.609949,
     "lbl:longitude":-97.678687,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Crystal",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688525,
         102191575,
-        404481445,
         85633793,
-        102081509
+        102081509,
+        404481445,
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12783199"
     },
     "wof:country":"US",
-    "wof:geomhash":"221dfbd48805005e8255f900640942dd",
+    "wof:geomhash":"a20459d4c9612123affccbf59161fcb8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554731735,
-    "wof:lastmodified":1480833231,
+    "wof:lastmodified":1611183075,
     "wof:name":"58222",
     "wof:parent_id":404481445,
     "wof:placetype":"postalcode",

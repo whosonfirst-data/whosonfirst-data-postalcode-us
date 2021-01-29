@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000952,
-    "geom:area_square_m":9621015.075404,
+    "geom:area_square_m":9621015.075411,
     "geom:bbox":"-79.037133,35.154065,-78.993641,35.191614",
     "geom:latitude":35.171088,
     "geom:longitude":-79.014982,
@@ -14,20 +14,25 @@
     "lbl:latitude":35.17155,
     "lbl:longitude":-79.017085,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fayetteville",
+    "mz:postal_locality_alt":[
+        "Pope Afb"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688773,
         102191575,
         85633793,
+        102080897,
         85981421,
-        102080897
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12769547"
     },
     "wof:country":"US",
-    "wof:geomhash":"6c0958deb42b8d095f2b723af8b00327",
+    "wof:geomhash":"798212673fc087322cce0cdbae6cfd8f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554711279,
-    "wof:lastmodified":1480904858,
+    "wof:lastmodified":1611185330,
     "wof:name":"28308",
     "wof:parent_id":85981421,
     "wof:placetype":"postalcode",

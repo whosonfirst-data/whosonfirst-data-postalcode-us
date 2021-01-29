@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030283,
-    "geom:area_square_m":260382151.310284,
+    "geom:area_square_m":260382151.310271,
     "geom:bbox":"-85.050245,45.827438,-84.683884,46.073752",
     "geom:latitude":45.943192,
     "geom:longitude":-84.797761,
@@ -14,20 +14,26 @@
     "lbl:latitude":45.884284,
     "lbl:longitude":-84.797447,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"St Ignace",
+    "mz:postal_locality_alt":[
+        "Saint Ignace",
+        "Sault Ste Marie"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404507445,
         85633793,
-        102083639
+        102083639,
+        404507445,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779552"
     },
     "wof:country":"US",
-    "wof:geomhash":"2bc90dec722029a00f0030b2b92ef3c4",
+    "wof:geomhash":"92eaa57f7ba77547d16f86b84d088321",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554782811,
-    "wof:lastmodified":1480841639,
+    "wof:lastmodified":1611183604,
     "wof:name":"49781",
     "wof:parent_id":404507445,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001112,
-    "geom:area_square_m":10390852.977549,
+    "geom:area_square_m":10390852.977543,
     "geom:bbox":"-74.249929,40.882569,-74.195548,40.924748",
     "geom:latitude":40.903857,
     "geom:longitude":-74.22126,
@@ -13,21 +13,26 @@
     "lbl:latitude":40.903415,
     "lbl:longitude":-74.219779,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Totowa",
+    "mz:postal_locality_alt":[
+        "Paterson"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477875,
         85633793,
+        102081133,
+        404477875,
         85975471,
-        102081133
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760786"
     },
     "wof:country":"US",
-    "wof:geomhash":"2d84db46ebf636d573a9ccadb5516503",
+    "wof:geomhash":"66a4d161df8568da85af3349b8fb6675",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554700063,
-    "wof:lastmodified":1480818576,
+    "wof:lastmodified":1611183186,
     "wof:name":"07512",
     "wof:parent_id":85975471,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008974,
-    "geom:area_square_m":83792115.335228,
+    "geom:area_square_m":83792115.3352,
     "geom:bbox":"-88.431333,40.92055,-88.267163,41.00787",
     "geom:latitude":40.961702,
     "geom:longitude":-88.351216,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.958061,
     "lbl:longitude":-88.353047,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Emington",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404497973,
         85633793,
-        102082873
+        102082873,
+        404497973,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784369"
     },
     "wof:country":"US",
-    "wof:geomhash":"11b028ec87160a77d37d77bed5994d44",
+    "wof:geomhash":"3fc5f2b4fc8bd2bc87d1db967efb4def",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554733557,
-    "wof:lastmodified":1480791736,
+    "wof:lastmodified":1611184212,
     "wof:name":"60934",
     "wof:parent_id":404497973,
     "wof:placetype":"postalcode",

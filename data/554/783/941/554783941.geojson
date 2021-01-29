@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002711,
-    "geom:area_square_m":27805066.590162,
+    "geom:area_square_m":27805066.590132,
     "geom:bbox":"-118.439743,33.92365,-118.368375,33.982796",
     "geom:latitude":33.952956,
     "geom:longitude":-118.400171,
@@ -13,20 +13,25 @@
     "lbl:latitude":33.942143,
     "lbl:longitude":-118.41733,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Los Angeles",
+    "mz:postal_locality_alt":[
+        "Westchester"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086957,
         85923517,
-        102086957
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795653"
     },
     "wof:country":"US",
-    "wof:geomhash":"fa055a6f41d9283a8c0604d4499e65f5",
+    "wof:geomhash":"c071d5710a13765ad3b8ddfcef4489a2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554783941,
-    "wof:lastmodified":1480912608,
+    "wof:lastmodified":1611183886,
     "wof:name":"90045",
     "wof:parent_id":85923517,
     "wof:placetype":"postalcode",

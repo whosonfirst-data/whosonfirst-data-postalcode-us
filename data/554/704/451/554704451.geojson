@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018624,
-    "geom:area_square_m":172122218.253374,
+    "geom:area_square_m":172122218.253316,
     "geom:bbox":"-80.051278,41.559942,-79.852384,41.721314",
     "geom:latitude":41.632454,
     "geom:longitude":-79.960683,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.637082,
     "lbl:longitude":-79.959566,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Guys Mills",
+    "mz:postal_locality_alt":[
+        "Meadville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404483137,
         85633793,
-        102080911
+        102080911,
+        404483137,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764252"
     },
     "wof:country":"US",
-    "wof:geomhash":"4106dab58e8558741822f97cb2e09420",
+    "wof:geomhash":"9f91dc58aa6e2ebc9e144a99c1278211",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554704451,
-    "wof:lastmodified":1480906216,
+    "wof:lastmodified":1611184516,
     "wof:name":"16327",
     "wof:parent_id":404483137,
     "wof:placetype":"postalcode",

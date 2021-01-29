@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0029,
-    "geom:area_square_m":26244825.61495,
+    "geom:area_square_m":26244825.614957,
     "geom:bbox":"-71.475111,42.889586,-71.413313,42.994398",
     "geom:latitude":42.953337,
     "geom:longitude":-71.444273,
@@ -13,21 +13,26 @@
     "lbl:latitude":42.950538,
     "lbl:longitude":-71.446547,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Manchester",
+    "mz:postal_locality_alt":[
+        "Hooksett"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688689,
         102191575,
-        404477191,
         85633793,
+        102085493,
+        404477191,
         85975081,
-        102085493
+        85688689
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759114"
     },
     "wof:country":"US",
-    "wof:geomhash":"67fa815f6225e9d531fb40f970ffe766",
+    "wof:geomhash":"38027c308b4d0cd89120cbfe7e44b2fe",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554697727,
-    "wof:lastmodified":1480916573,
+    "wof:lastmodified":1611184665,
     "wof:name":"03103",
     "wof:parent_id":85975081,
     "wof:placetype":"postalcode",

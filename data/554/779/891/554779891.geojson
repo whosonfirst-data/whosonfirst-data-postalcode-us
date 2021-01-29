@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006605,
-    "geom:area_square_m":61814601.096665,
+    "geom:area_square_m":61814601.096667,
     "geom:bbox":"-73.44188,40.766845,-73.293636,40.864994",
     "geom:latitude":40.814353,
     "geom:longitude":-73.360968,
@@ -13,21 +13,28 @@
     "lbl:latitude":40.814268,
     "lbl:longitude":-73.362276,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Huntington Station",
+    "mz:postal_locality_alt":[
+        "Huntington Sta",
+        "Dix Hills",
+        "Huntington"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522515,
         85633793,
+        102082395,
+        404522515,
         85979779,
-        102082395
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761934"
     },
     "wof:country":"US",
-    "wof:geomhash":"2bb2beff153e019ee9c4e47458113eec",
+    "wof:geomhash":"bed865d3cfcc5f3d13158a09cadb167f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +47,7 @@
         }
     ],
     "wof:id":554779891,
-    "wof:lastmodified":1480794861,
+    "wof:lastmodified":1611183985,
     "wof:name":"11746",
     "wof:parent_id":85979779,
     "wof:placetype":"postalcode",

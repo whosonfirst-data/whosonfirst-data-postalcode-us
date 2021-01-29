@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042712,
-    "geom:area_square_m":382871472.494998,
+    "geom:area_square_m":382871472.494938,
     "geom:bbox":"-97.620156,43.42899,-97.347595,43.664441",
     "geom:latitude":43.536041,
     "geom:longitude":-97.482822,
@@ -14,20 +14,22 @@
     "lbl:latitude":43.533018,
     "lbl:longitude":-97.480025,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bridgewater",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688693,
         102191575,
-        404490605,
         85633793,
-        102086859
+        102086859,
+        404490605,
+        85688693
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782852"
     },
     "wof:country":"US",
-    "wof:geomhash":"7ba8ca0743a51b140092ce3442052b5c",
+    "wof:geomhash":"963e43eae6793b13384fda229b232684",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554731079,
-    "wof:lastmodified":1480916971,
+    "wof:lastmodified":1611183060,
     "wof:name":"57319",
     "wof:parent_id":404490605,
     "wof:placetype":"postalcode",

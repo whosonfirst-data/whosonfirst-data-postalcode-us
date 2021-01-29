@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012007,
-    "geom:area_square_m":115947092.200271,
+    "geom:area_square_m":115947092.200341,
     "geom:bbox":"-87.37458,38.579311,-87.235881,38.729692",
     "geom:latitude":38.655003,
     "geom:longitude":-87.299568,
@@ -14,20 +14,22 @@
     "lbl:latitude":38.654452,
     "lbl:longitude":-87.298744,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wheatland",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404500985,
         85633793,
-        102086229
+        102086229,
+        404500985,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778313"
     },
     "wof:country":"US",
-    "wof:geomhash":"00113e9b2f31c1c5074c587785ca5282",
+    "wof:geomhash":"1b685b7329b8050792ddf82a0a0a0475",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554723567,
-    "wof:lastmodified":1480911782,
+    "wof:lastmodified":1611183776,
     "wof:name":"47597",
     "wof:parent_id":404500985,
     "wof:placetype":"postalcode",

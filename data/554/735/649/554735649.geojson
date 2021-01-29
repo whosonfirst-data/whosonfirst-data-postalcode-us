@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005944,
-    "geom:area_square_m":57469939.663893,
+    "geom:area_square_m":57469939.66388,
     "geom:bbox":"-90.612581,38.532153,-90.461787,38.597177",
     "geom:latitude":38.568831,
     "geom:longitude":-90.546452,
@@ -13,21 +13,28 @@
     "lbl:latitude":38.56984,
     "lbl:longitude":-90.545689,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ballwin",
+    "mz:postal_locality_alt":[
+        "Ellisville",
+        "Manchester",
+        "Hillsboro"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404517315,
         85633793,
+        102086173,
+        404517315,
         85972301,
-        102086173
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785533"
     },
     "wof:country":"US",
-    "wof:geomhash":"b07e61ff4b5823d8ce4e83a3c7000ed2",
+    "wof:geomhash":"580a18dec32cf43eae79dc8c7cd80c20",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +47,7 @@
         }
     ],
     "wof:id":554735649,
-    "wof:lastmodified":1480914495,
+    "wof:lastmodified":1611184433,
     "wof:name":"63021",
     "wof:parent_id":85972301,
     "wof:placetype":"postalcode",

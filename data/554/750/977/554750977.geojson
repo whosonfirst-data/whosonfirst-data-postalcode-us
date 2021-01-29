@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00116,
-    "geom:area_square_m":11769497.872288,
+    "geom:area_square_m":11769497.872285,
     "geom:bbox":"-106.714013,34.810679,-106.662964,34.847737",
     "geom:latitude":34.828008,
     "geom:longitude":-106.68659,
@@ -14,20 +14,25 @@
     "lbl:latitude":34.828008,
     "lbl:longitude":-106.686591,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Peralta",
+    "mz:postal_locality_alt":[
+        "Los Lunas"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688493,
         102191575,
         85633793,
+        102081561,
         85976717,
-        102081561
+        85688493
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12794926"
     },
     "wof:country":"US",
-    "wof:geomhash":"8c2bb896f9c0e2388e56dccae3e4be3a",
+    "wof:geomhash":"a8be35876aaa301718b7990aa60e95ba",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554750977,
-    "wof:lastmodified":1480832706,
+    "wof:lastmodified":1611184544,
     "wof:name":"87042",
     "wof:parent_id":85976717,
     "wof:placetype":"postalcode",

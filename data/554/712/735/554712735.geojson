@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006595,
-    "geom:area_square_m":67608141.96244,
+    "geom:area_square_m":67608141.962402,
     "geom:bbox":"-84.585619,33.949112,-84.394352,34.062031",
     "geom:latitude":33.999699,
     "geom:longitude":-84.469834,
@@ -13,19 +13,26 @@
     "lbl:latitude":34.005578,
     "lbl:longitude":-84.468945,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Marietta",
+    "mz:postal_locality_alt":[
+        "Conyers",
+        "Roswell",
+        "Atlanta"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688535,
-        102082313
+        102082313,
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770541"
     },
     "wof:country":"US",
-    "wof:geomhash":"70a3a77c7eb7334b3fe52f3306ef3aa0",
+    "wof:geomhash":"44c47ebe37ac84a9c75a283e1d24d4dd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +43,7 @@
         }
     ],
     "wof:id":554712735,
-    "wof:lastmodified":1480841938,
+    "wof:lastmodified":1611183719,
     "wof:name":"30062",
     "wof:parent_id":102082313,
     "wof:placetype":"postalcode",

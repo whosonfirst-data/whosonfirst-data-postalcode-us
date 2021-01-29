@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003803,
-    "geom:area_square_m":35137587.743863,
+    "geom:area_square_m":35137587.743853,
     "geom:bbox":"-73.375954,41.595202,-73.260557,41.697665",
     "geom:latitude":41.649459,
     "geom:longitude":-73.323545,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.649454,
     "lbl:longitude":-73.323557,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Washington Depot",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688629,
         102191575,
-        404496049,
         85633793,
-        102085375
+        102085375,
+        404496049,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760535"
     },
     "wof:country":"US",
-    "wof:geomhash":"84b64a8ff0a22bc1f8ebf29f7c8448ea",
+    "wof:geomhash":"bac045a025485d26fe50258fa85a665e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554699731,
-    "wof:lastmodified":1480805212,
+    "wof:lastmodified":1611184602,
     "wof:name":"06794",
     "wof:parent_id":404496049,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.22517,
-    "geom:area_square_m":1952900194.856554,
+    "geom:area_square_m":1952900194.856152,
     "geom:bbox":"-101.817786,45.159867,-101.141216,45.768319",
     "geom:latitude":45.460134,
     "geom:longitude":-101.454682,
@@ -14,20 +14,22 @@
     "lbl:latitude":45.457211,
     "lbl:longitude":-101.44799,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Isabel",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688693,
         102191575,
-        404490011,
         85633793,
-        102086873
+        102086873,
+        404490011,
+        85688693
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12783018"
     },
     "wof:country":"US",
-    "wof:geomhash":"589ddfcbac82e21bd5eaa44b0a93712d",
+    "wof:geomhash":"c2af7198c811d65e9690e8e4edcaf734",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554731415,
-    "wof:lastmodified":1480915728,
+    "wof:lastmodified":1611183064,
     "wof:name":"57633",
     "wof:parent_id":404490011,
     "wof:placetype":"postalcode",

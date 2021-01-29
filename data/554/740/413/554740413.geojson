@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035046,
-    "geom:area_square_m":329105921.814238,
+    "geom:area_square_m":329105921.814057,
     "geom:bbox":"-97.95846,40.437555,-97.757766,40.698591",
     "geom:latitude":40.585191,
     "geom:longitude":-97.851263,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.589677,
     "lbl:longitude":-97.851484,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Sutton",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688563,
         102191575,
-        404519749,
         85633793,
-        102082241
+        102082241,
+        404519749,
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787975"
     },
     "wof:country":"US",
-    "wof:geomhash":"0b1dd2b51208a943ac2c1e75fa7dd093",
+    "wof:geomhash":"344a6763631999554a54366e322e40de",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554740413,
-    "wof:lastmodified":1480834635,
+    "wof:lastmodified":1611183391,
     "wof:name":"68979",
     "wof:parent_id":404519749,
     "wof:placetype":"postalcode",

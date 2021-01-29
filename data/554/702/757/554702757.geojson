@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015538,
-    "geom:area_square_m":140568202.210109,
+    "geom:area_square_m":140568202.210114,
     "geom:bbox":"-78.464346,42.900808,-78.294732,43.045612",
     "geom:latitude":42.975025,
     "geom:longitude":-78.387355,
@@ -14,20 +14,25 @@
     "lbl:latitude":42.973851,
     "lbl:longitude":-78.389527,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Corfu",
+    "mz:postal_locality_alt":[
+        "East Pembroke"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522471,
         85633793,
-        102083105
+        102083105,
+        404522471,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763081"
     },
     "wof:country":"US",
-    "wof:geomhash":"f236fe2be48b9b91b3e070ca7848bad1",
+    "wof:geomhash":"953e5e9c4882a24dfee697969b30656f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554702757,
-    "wof:lastmodified":1480834547,
+    "wof:lastmodified":1611184157,
     "wof:name":"14036",
     "wof:parent_id":404522471,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043359,
-    "geom:area_square_m":459017960.145601,
+    "geom:area_square_m":459017960.145375,
     "geom:bbox":"-90.6849,31.012126,-90.259838,31.200905",
     "geom:latitude":31.112551,
     "geom:longitude":-90.474038,
@@ -14,19 +14,24 @@
     "lbl:latitude":31.113659,
     "lbl:longitude":-90.475396,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Magnolia",
+    "mz:postal_locality_alt":[
+        "Tylertown"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688579,
-        102084861
+        102084861,
+        85688579
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12775024"
     },
     "wof:country":"US",
-    "wof:geomhash":"f553412cd5443cfd93dba4a6e808ee42",
+    "wof:geomhash":"b52f33973daf9d3090a8ab6f79944892",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554718497,
-    "wof:lastmodified":1480832037,
+    "wof:lastmodified":1611185554,
     "wof:name":"39652",
     "wof:parent_id":102084861,
     "wof:placetype":"postalcode",

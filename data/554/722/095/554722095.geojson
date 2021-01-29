@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004526,
-    "geom:area_square_m":43511167.264289,
+    "geom:area_square_m":43511167.264225,
     "geom:bbox":"-83.270775,38.908508,-83.181019,39.012971",
     "geom:latitude":38.968228,
     "geom:longitude":-83.241406,
@@ -14,20 +14,22 @@
     "lbl:latitude":38.970254,
     "lbl:longitude":-83.248012,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Rarden",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404526935,
         85633793,
-        102081373
+        102081373,
+        404526935,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777370"
     },
     "wof:country":"US",
-    "wof:geomhash":"7fd76ba3dd3086eb2ab341fd32fcc2f7",
+    "wof:geomhash":"7cc3d5b1f4098db200cdbe7b1e35ddf6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554722095,
-    "wof:lastmodified":1480833727,
+    "wof:lastmodified":1611183241,
     "wof:name":"45671",
     "wof:parent_id":404526935,
     "wof:placetype":"postalcode",

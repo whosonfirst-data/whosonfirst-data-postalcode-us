@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001161,
-    "geom:area_square_m":11057401.637574,
+    "geom:area_square_m":11057401.637577,
     "geom:bbox":"-105.27764,39.61172,-105.221681,39.646137",
     "geom:latitude":39.629517,
     "geom:longitude":-105.251366,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.630111,
     "lbl:longitude":-105.248097,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Indian Hills",
+    "mz:postal_locality_alt":[
+        "Morrison"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688603,
         102191575,
         85633793,
+        102084113,
         85930589,
-        102084113
+        85688603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12793062"
     },
     "wof:country":"US",
-    "wof:geomhash":"eb2834ffdea5b61d780afb3624460829",
+    "wof:geomhash":"c4e3010369197ccff590b476837ad678",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554771921,
-    "wof:lastmodified":1480801046,
+    "wof:lastmodified":1611183533,
     "wof:name":"80454",
     "wof:parent_id":85930589,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.067621,
-    "geom:area_square_m":706055071.265676,
+    "geom:area_square_m":706055071.265692,
     "geom:bbox":"-89.655037,32.12342,-89.322743,32.576551",
     "geom:latitude":32.390962,
     "geom:longitude":-89.478396,
@@ -14,19 +14,25 @@
     "lbl:latitude":32.393704,
     "lbl:longitude":-89.478007,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Forest",
+    "mz:postal_locality_alt":[
+        "Harperville",
+        "Ethel"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688579,
-        102084853
+        102084853,
+        85688579
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12774773"
     },
     "wof:country":"US",
-    "wof:geomhash":"4ce37e233c0aa006bd6b1f8c66b39446",
+    "wof:geomhash":"1684b70caed88cf6fb9d17bc037ac5b6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554718113,
-    "wof:lastmodified":1480839162,
+    "wof:lastmodified":1611185592,
     "wof:name":"39074",
     "wof:parent_id":102084853,
     "wof:placetype":"postalcode",

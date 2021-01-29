@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053606,
-    "geom:area_square_m":453680146.219873,
+    "geom:area_square_m":453680146.219681,
     "geom:bbox":"-94.787126,46.71638,-94.279109,46.909331",
     "geom:latitude":46.808406,
     "geom:longitude":-94.537925,
@@ -14,20 +14,25 @@
     "lbl:latitude":46.822929,
     "lbl:longitude":-94.539543,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Backus",
+    "mz:postal_locality_alt":[
+        "Walker"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404511637,
         85633793,
-        102087905
+        102087905,
+        404511637,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782481"
     },
     "wof:country":"US",
-    "wof:geomhash":"91a76ef9bdbf81433609f52b8d5c684a",
+    "wof:geomhash":"c564e2b66321d801d8cf41aade7e3fb5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554730349,
-    "wof:lastmodified":1480788399,
+    "wof:lastmodified":1611182738,
     "wof:name":"56435",
     "wof:parent_id":404511637,
     "wof:placetype":"postalcode",

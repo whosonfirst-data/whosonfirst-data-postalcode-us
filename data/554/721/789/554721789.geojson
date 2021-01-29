@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003736,
-    "geom:area_square_m":35778882.608541,
+    "geom:area_square_m":35778882.608532,
     "geom:bbox":"-84.39668,39.213697,-84.299346,39.282378",
     "geom:latitude":39.243592,
     "geom:longitude":-84.356373,
@@ -13,21 +13,23 @@
     "lbl:latitude":39.242803,
     "lbl:longitude":-84.352996,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cincinnati",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404525371,
         85633793,
+        102083687,
+        404525371,
         101712237,
-        102083687
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777163"
     },
     "wof:country":"US",
-    "wof:geomhash":"ef00089d5aac93cec47349977e5e9be6",
+    "wof:geomhash":"59d723c7b7bd8ba99424708de45a879f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +42,7 @@
         }
     ],
     "wof:id":554721789,
-    "wof:lastmodified":1480838314,
+    "wof:lastmodified":1611184980,
     "wof:name":"45242",
     "wof:parent_id":101712237,
     "wof:placetype":"postalcode",

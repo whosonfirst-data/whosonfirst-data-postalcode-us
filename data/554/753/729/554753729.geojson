@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.084778,
-    "geom:area_square_m":812825372.071948,
+    "geom:area_square_m":812825372.071796,
     "geom:bbox":"-123.534138,38.980073,-123.006036,39.312579",
     "geom:latitude":39.160304,
     "geom:longitude":-123.242905,
@@ -14,19 +14,25 @@
     "lbl:latitude":39.135023,
     "lbl:longitude":-123.259338,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ukiah",
+    "mz:postal_locality_alt":[
+        "Island Heights",
+        "Calpella"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688637,
-        102082885
+        102082885,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12797816"
     },
     "wof:country":"US",
-    "wof:geomhash":"90f5ce05124de83b42f9e8658324b7d6",
+    "wof:geomhash":"c7dcdedd49d2bb2268f40190d675c0af",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554753729,
-    "wof:lastmodified":1480911780,
+    "wof:lastmodified":1611182974,
     "wof:name":"95482",
     "wof:parent_id":102082885,
     "wof:placetype":"postalcode",

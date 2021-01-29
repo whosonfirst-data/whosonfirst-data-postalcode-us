@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021469,
-    "geom:area_square_m":214992434.222085,
+    "geom:area_square_m":214992434.222049,
     "geom:bbox":"-88.875063,35.791075,-88.696545,36.03411",
     "geom:latitude":35.916655,
     "geom:longitude":-88.759261,
@@ -14,20 +14,25 @@
     "lbl:latitude":35.916675,
     "lbl:longitude":-88.758663,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Milan",
+    "mz:postal_locality_alt":[
+        "Medina"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688701,
         102191575,
         85633793,
+        102086403,
         101722619,
-        102086403
+        85688701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12774428"
     },
     "wof:country":"US",
-    "wof:geomhash":"820d701c3eb23545c5a524b62702c1be",
+    "wof:geomhash":"d7461fa1331cdc4d6cd3ad0d1c115450",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554717513,
-    "wof:lastmodified":1480912220,
+    "wof:lastmodified":1611185038,
     "wof:name":"38358",
     "wof:parent_id":101722619,
     "wof:placetype":"postalcode",

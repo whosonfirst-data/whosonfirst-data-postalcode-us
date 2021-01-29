@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001753,
-    "geom:area_square_m":16956005.341884,
+    "geom:area_square_m":16956005.341866,
     "geom:bbox":"-76.902107,38.521336,-76.818018,38.564784",
     "geom:latitude":38.541256,
     "geom:longitude":-76.852468,
@@ -14,20 +14,22 @@
     "lbl:latitude":38.54386,
     "lbl:longitude":-76.852511,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bryantown",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688501,
         102191575,
         85633793,
+        102081211,
         85949875,
-        102081211
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766199"
     },
     "wof:country":"US",
-    "wof:geomhash":"5fe3d180924946816a48bbd9ee21c618",
+    "wof:geomhash":"f2710b10929ee0408baf33843b64e739",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554706867,
-    "wof:lastmodified":1480816961,
+    "wof:lastmodified":1611182695,
     "wof:name":"20617",
     "wof:parent_id":85949875,
     "wof:placetype":"postalcode",

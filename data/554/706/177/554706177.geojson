@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000786,
-    "geom:area_square_m":7433233.704908,
+    "geom:area_square_m":7433233.704895,
     "geom:bbox":"-75.241999,40.091755,-75.197833,40.127559",
     "geom:latitude":40.109156,
     "geom:longitude":-75.217004,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.109155,
     "lbl:longitude":-75.217005,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Flourtown",
+    "mz:postal_locality_alt":[
+        "Horsham"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485723,
         85633793,
-        102081355
+        102081355,
+        404485723,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765432"
     },
     "wof:country":"US",
-    "wof:geomhash":"82beb43ddc9e1d8122b9ba81bfaebed6",
+    "wof:geomhash":"c147fd5d9618875ff50915569b69e70c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554706177,
-    "wof:lastmodified":1480818596,
+    "wof:lastmodified":1611182715,
     "wof:name":"19031",
     "wof:parent_id":404485723,
     "wof:placetype":"postalcode",

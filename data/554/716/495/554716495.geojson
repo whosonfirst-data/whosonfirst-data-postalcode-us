@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027078,
-    "geom:area_square_m":269430088.454984,
+    "geom:area_square_m":269430088.45513,
     "geom:bbox":"-86.253114,36.319225,-86.0345,36.516062",
     "geom:latitude":36.418949,
     "geom:longitude":-86.144252,
@@ -14,20 +14,25 @@
     "lbl:latitude":36.426041,
     "lbl:longitude":-86.1529,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hartsville",
+    "mz:postal_locality_alt":[
+        "Erin"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688701,
         102191575,
         85633793,
+        102087083,
         101723133,
-        102087083
+        85688701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12773798"
     },
     "wof:country":"US",
-    "wof:geomhash":"e2b8ca1eb5c54f6dc4ec17c52246f479",
+    "wof:geomhash":"5f668f6fe9cc366dbdd06c84036e1923",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554716495,
-    "wof:lastmodified":1480917084,
+    "wof:lastmodified":1611185394,
     "wof:name":"37074",
     "wof:parent_id":101723133,
     "wof:placetype":"postalcode",

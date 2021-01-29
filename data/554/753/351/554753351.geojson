@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001229,
-    "geom:area_square_m":12077832.112356,
+    "geom:area_square_m":12077832.112366,
     "geom:bbox":"-121.94752,37.30805,-121.866674,37.37775",
     "geom:latitude":37.346515,
     "geom:longitude":-121.909811,
@@ -13,20 +13,25 @@
     "lbl:latitude":37.346512,
     "lbl:longitude":-121.909803,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"San Jose",
+    "mz:postal_locality_alt":[
+        "Santa Clara"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102081673,
         85922347,
-        102081673
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12797561"
     },
     "wof:country":"US",
-    "wof:geomhash":"19cf40776d039ff361f8aa37726ff3d8",
+    "wof:geomhash":"f628869380749095b4fcfda647b94685",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554753351,
-    "wof:lastmodified":1480829308,
+    "wof:lastmodified":1611182953,
     "wof:name":"95110",
     "wof:parent_id":85922347,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008948,
-    "geom:area_square_m":80111568.36731,
+    "geom:area_square_m":80111568.367321,
     "geom:bbox":"-83.857652,43.565462,-83.699206,43.675101",
     "geom:latitude":43.612007,
     "geom:longitude":-83.781487,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.612331,
     "lbl:longitude":-83.789822,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Essexville",
+    "mz:postal_locality_alt":[
+        "Bay City"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404506803,
         85633793,
-        102083135
+        102083135,
+        404506803,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778962"
     },
     "wof:country":"US",
-    "wof:geomhash":"28b791ad2d4f85c275b76d27dccdbc36",
+    "wof:geomhash":"58eafc87964b40aa6da799784409a4a8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554782609,
-    "wof:lastmodified":1480836556,
+    "wof:lastmodified":1611183631,
     "wof:name":"48732",
     "wof:parent_id":404506803,
     "wof:placetype":"postalcode",

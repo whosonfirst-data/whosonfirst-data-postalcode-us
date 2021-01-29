@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02781,
-    "geom:area_square_m":235405897.285226,
+    "geom:area_square_m":235405897.285224,
     "geom:bbox":"-123.330516,46.706234,-122.922313,46.901859",
     "geom:latitude":46.798052,
     "geom:longitude":-123.119229,
@@ -14,19 +14,24 @@
     "lbl:latitude":46.788202,
     "lbl:longitude":-123.125481,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Rochester",
+    "mz:postal_locality_alt":[
+        "Yelm"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688623,
-        102085357
+        102085357,
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12799261"
     },
     "wof:country":"US",
-    "wof:geomhash":"5ef17e5c1a099f7daa23634a5547a3b9",
+    "wof:geomhash":"9f8a03556ad42d86a3e97720113ecf5d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554755913,
-    "wof:lastmodified":1480816091,
+    "wof:lastmodified":1611182584,
     "wof:name":"98579",
     "wof:parent_id":102085357,
     "wof:placetype":"postalcode",

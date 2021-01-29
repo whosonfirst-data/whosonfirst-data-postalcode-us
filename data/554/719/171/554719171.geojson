@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00592,
-    "geom:area_square_m":56861306.240329,
+    "geom:area_square_m":56861306.240148,
     "geom:bbox":"-84.623752,38.964556,-84.502104,39.085646",
     "geom:latitude":39.028872,
     "geom:longitude":-84.561492,
@@ -14,20 +14,35 @@
     "lbl:latitude":39.029195,
     "lbl:longitude":-84.562134,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Covington",
+    "mz:postal_locality_alt":[
+        "Edgewood",
+        "Crestview Hills",
+        "Crescent Springs",
+        "Villa Hills",
+        "Fort Mitchell",
+        "Ft Mitchell",
+        "Erlanger",
+        "Lakeside Park",
+        "Fort Wright",
+        "Bromley",
+        "Crescent Park"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688641,
         102191575,
         85633793,
+        102084469,
         85947207,
-        102084469
+        85688641
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12775474"
     },
     "wof:country":"US",
-    "wof:geomhash":"5ce90ba318fbd0f15d32bd2055123987",
+    "wof:geomhash":"ba763cc71a2609a0efc0a1f3244f4be1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +54,7 @@
         }
     ],
     "wof:id":554719171,
-    "wof:lastmodified":1480838313,
+    "wof:lastmodified":1611184942,
     "wof:name":"41017",
     "wof:parent_id":85947207,
     "wof:placetype":"postalcode",

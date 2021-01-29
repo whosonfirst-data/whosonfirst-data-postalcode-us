@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004604,
-    "geom:area_square_m":41608039.685866,
+    "geom:area_square_m":41608039.685872,
     "geom:bbox":"-78.832332,42.993552,-78.720451,43.08622",
     "geom:latitude":43.040904,
     "geom:longitude":-78.781255,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.044371,
     "lbl:longitude":-78.777335,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Buffalo",
+    "mz:postal_locality_alt":[
+        "Amherst"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522321,
         85633793,
-        102082387
+        102082387,
+        404522321,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763190"
     },
     "wof:country":"US",
-    "wof:geomhash":"2cacf67c671e64a443cb440b54b946f2",
+    "wof:geomhash":"d75b34bdc9092bfad9e1d0b2f72e1fc6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554702851,
-    "wof:lastmodified":1480819686,
+    "wof:lastmodified":1611184144,
     "wof:name":"14228",
     "wof:parent_id":404522321,
     "wof:placetype":"postalcode",

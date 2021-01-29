@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009631,
-    "geom:area_square_m":90918738.1848,
+    "geom:area_square_m":90918738.184835,
     "geom:bbox":"-85.547732,40.174995,-85.389872,40.298962",
     "geom:latitude":40.233104,
     "geom:longitude":-85.460539,
@@ -13,20 +13,22 @@
     "lbl:latitude":40.236332,
     "lbl:longitude":-85.459814,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Muncie",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404500505,
         85633793,
-        102087155
+        102087155,
+        404500505,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778147"
     },
     "wof:country":"US",
-    "wof:geomhash":"6312b688e4e8f03d78db70a546b471bf",
+    "wof:geomhash":"fb0c9f80d1a7d7c70081c1024ff2129e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +40,7 @@
         }
     ],
     "wof:id":554723283,
-    "wof:lastmodified":1480787591,
+    "wof:lastmodified":1611183799,
     "wof:name":"47304",
     "wof:parent_id":404500505,
     "wof:placetype":"postalcode",

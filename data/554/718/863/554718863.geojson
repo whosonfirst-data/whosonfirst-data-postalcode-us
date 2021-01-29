@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037329,
-    "geom:area_square_m":363403234.386921,
+    "geom:area_square_m":363403234.386683,
     "geom:bbox":"-84.099526,37.958253,-83.77291,38.192118",
     "geom:latitude":38.06565,
     "geom:longitude":-83.947631,
@@ -14,20 +14,26 @@
     "lbl:latitude":38.064374,
     "lbl:longitude":-83.948043,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mt Sterling",
+    "mz:postal_locality_alt":[
+        "Mount Sterling",
+        "Nicholasville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688641,
         102191575,
         85633793,
+        102084601,
         85947257,
-        102084601
+        85688641
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12775253"
     },
     "wof:country":"US",
-    "wof:geomhash":"78183131dfed049d165695cc63410ff3",
+    "wof:geomhash":"ab63b38fe4771b18ee430827d6a83581",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554718863,
-    "wof:lastmodified":1480803194,
+    "wof:lastmodified":1611185587,
     "wof:name":"40353",
     "wof:parent_id":85947257,
     "wof:placetype":"postalcode",

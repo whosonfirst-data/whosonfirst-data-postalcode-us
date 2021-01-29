@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003687,
-    "geom:area_square_m":34162681.100143,
+    "geom:area_square_m":34162681.100161,
     "geom:bbox":"-81.556272,41.439776,-81.463324,41.519488",
     "geom:latitude":41.470128,
     "geom:longitude":-81.511798,
@@ -14,21 +14,27 @@
     "lbl:latitude":41.469494,
     "lbl:longitude":-81.512442,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cleveland",
+    "mz:postal_locality_alt":[
+        "Beachwood",
+        "Woodmere"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404525039,
         85633793,
+        102084837,
+        404525039,
         101712515,
-        102084837
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776648"
     },
     "wof:country":"US",
-    "wof:geomhash":"fe48c85e6cc73d62500c34087d30cb92",
+    "wof:geomhash":"0574f6973320ecab7d7a0162a3298378",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554720999,
-    "wof:lastmodified":1480799990,
+    "wof:lastmodified":1611185451,
     "wof:name":"44122",
     "wof:parent_id":101712515,
     "wof:placetype":"postalcode",

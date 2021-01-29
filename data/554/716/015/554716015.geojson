@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016158,
-    "geom:area_square_m":171166867.120116,
+    "geom:area_square_m":171166867.120096,
     "geom:bbox":"-85.446795,30.998265,-85.200121,31.109131",
     "geom:latitude":31.050748,
     "geom:longitude":-85.315389,
@@ -14,20 +14,22 @@
     "lbl:latitude":31.049925,
     "lbl:longitude":-85.319153,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cottonwood",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688675,
         102191575,
         85633793,
+        102085441,
         85913265,
-        102085441
+        85688675
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12773470"
     },
     "wof:country":"US",
-    "wof:geomhash":"c87951ea663c9f85e0fc9406ffa52c60",
+    "wof:geomhash":"6c1161d1b9fafdac2708ff22684bbf3c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554716015,
-    "wof:lastmodified":1480816211,
+    "wof:lastmodified":1611185357,
     "wof:name":"36320",
     "wof:parent_id":85913265,
     "wof:placetype":"postalcode",

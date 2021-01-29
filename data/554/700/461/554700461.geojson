@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001513,
-    "geom:area_square_m":14364311.077762,
+    "geom:area_square_m":14364311.07775,
     "geom:bbox":"-75.167007,39.837445,-75.099536,39.888317",
     "geom:latitude":39.864132,
     "geom:longitude":-75.135799,
@@ -14,21 +14,26 @@
     "lbl:latitude":39.864643,
     "lbl:longitude":-75.137452,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Westville",
+    "mz:postal_locality_alt":[
+        "West Deptford"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478121,
         85633793,
+        102085999,
+        404478121,
         85975447,
-        102085999
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761061"
     },
     "wof:country":"US",
-    "wof:geomhash":"7c05a92945ca84eeb12a19e2077dccf9",
+    "wof:geomhash":"70764e55b9f4f9c2c5fbee0f13890e8e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554700461,
-    "wof:lastmodified":1480823437,
+    "wof:lastmodified":1611183204,
     "wof:name":"08093",
     "wof:parent_id":85975447,
     "wof:placetype":"postalcode",

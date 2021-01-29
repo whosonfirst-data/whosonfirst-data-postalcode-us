@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015759,
-    "geom:area_square_m":146152369.197799,
+    "geom:area_square_m":146152369.197542,
     "geom:bbox":"-75.008259,41.34214,-74.799379,41.483574",
     "geom:latitude":41.409272,
     "geom:longitude":-74.916341,
@@ -13,20 +13,22 @@
     "lbl:latitude":41.395754,
     "lbl:longitude":-74.919254,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Shohola",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404487879,
         85633793,
-        102081385
+        102081385,
+        404487879,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765212"
     },
     "wof:country":"US",
-    "wof:geomhash":"11fa6d32006aa61e81cd736e3b362b21",
+    "wof:geomhash":"10658e961b95b7fe33580afd6a535994",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +40,7 @@
         }
     ],
     "wof:id":554705853,
-    "wof:lastmodified":1480824512,
+    "wof:lastmodified":1611184122,
     "wof:name":"18458",
     "wof:parent_id":404487879,
     "wof:placetype":"postalcode",

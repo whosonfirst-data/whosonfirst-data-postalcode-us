@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02642,
-    "geom:area_square_m":245274193.728363,
+    "geom:area_square_m":245274193.728443,
     "geom:bbox":"-88.80314,41.223362,-88.607315,41.458319",
     "geom:latitude":41.340732,
     "geom:longitude":-88.692495,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.352165,
     "lbl:longitude":-88.693197,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Marseilles",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404498495,
         85633793,
-        102081255
+        102081255,
+        404498495,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784569"
     },
     "wof:country":"US",
-    "wof:geomhash":"66c905e015ded006f9911b8f5bf27252",
+    "wof:geomhash":"297beb88bd3071d53f60a37f282ff3e4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554733899,
-    "wof:lastmodified":1480833834,
+    "wof:lastmodified":1611184245,
     "wof:name":"61341",
     "wof:parent_id":404498495,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019544,
-    "geom:area_square_m":184654114.363161,
+    "geom:area_square_m":184654114.363104,
     "geom:bbox":"-76.548655,40.088828,-76.344903,40.265425",
     "geom:latitude":40.173391,
     "geom:longitude":-76.431426,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.178666,
     "lbl:longitude":-76.434341,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Manheim",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485429,
         85633793,
-        102081377
+        102081377,
+        404485429,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764811"
     },
     "wof:country":"US",
-    "wof:geomhash":"a004c2be7b061332d440b7d7341eefe0",
+    "wof:geomhash":"f8f889546f4d1d3b64132b49e14f0932",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554705267,
-    "wof:lastmodified":1480818671,
+    "wof:lastmodified":1611184102,
     "wof:name":"17545",
     "wof:parent_id":404485429,
     "wof:placetype":"postalcode",

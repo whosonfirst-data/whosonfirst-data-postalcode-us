@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006671,
-    "geom:area_square_m":63793106.855658,
+    "geom:area_square_m":63793106.855591,
     "geom:bbox":"-81.949652,39.299191,-81.84819,39.399914",
     "geom:latitude":39.347087,
     "geom:longitude":-81.893096,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.353532,
     "lbl:longitude":-81.893066,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Stewart",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404524833,
         85633793,
-        102084755
+        102084755,
+        404524833,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777437"
     },
     "wof:country":"US",
-    "wof:geomhash":"5b9bfde3f8804b222ca89b793e1e8d9e",
+    "wof:geomhash":"c0f59adfafd4559790945f5458eafaa3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554722213,
-    "wof:lastmodified":1480800712,
+    "wof:lastmodified":1611183240,
     "wof:name":"45778",
     "wof:parent_id":404524833,
     "wof:placetype":"postalcode",

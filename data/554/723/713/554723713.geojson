@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018818,
-    "geom:area_square_m":179218056.04045,
+    "geom:area_square_m":179218056.040555,
     "geom:bbox":"-87.403812,39.565772,-87.133221,39.695832",
     "geom:latitude":39.627935,
     "geom:longitude":-87.274473,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.628499,
     "lbl:longitude":-87.270746,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Rosedale",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404501759,
         85633793,
-        102086981
+        102086981,
+        404501759,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778430"
     },
     "wof:country":"US",
-    "wof:geomhash":"453db025da7e1b642333b0fa4a79370d",
+    "wof:geomhash":"c5862680e4eb5efc638c9cc4ce8139da",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554723713,
-    "wof:lastmodified":1480916630,
+    "wof:lastmodified":1611183790,
     "wof:name":"47874",
     "wof:parent_id":404501759,
     "wof:placetype":"postalcode",

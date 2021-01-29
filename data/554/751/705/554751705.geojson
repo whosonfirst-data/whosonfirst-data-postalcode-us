@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018725,
-    "geom:area_square_m":179896726.362271,
+    "geom:area_square_m":179896726.362269,
     "geom:bbox":"-119.83547,38.937229,-119.656421,39.103155",
     "geom:latitude":39.017624,
     "geom:longitude":-119.748771,
@@ -14,19 +14,25 @@
     "lbl:latitude":39.018863,
     "lbl:longitude":-119.755643,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Minden",
+    "mz:postal_locality_alt":[
+        "Gardnerville",
+        "Genoa"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688531,
-        102081541
+        102081541,
+        85688531
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795533"
     },
     "wof:country":"US",
-    "wof:geomhash":"e9494b7951de68dfb8aff78a16b0692e",
+    "wof:geomhash":"ff13d2f6bc974034062db931d42ed33d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554751705,
-    "wof:lastmodified":1480833184,
+    "wof:lastmodified":1611184344,
     "wof:name":"89423",
     "wof:parent_id":102081541,
     "wof:placetype":"postalcode",

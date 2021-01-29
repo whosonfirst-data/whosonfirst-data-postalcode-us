@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002619,
-    "geom:area_square_m":25914745.935751,
+    "geom:area_square_m":25914745.935745,
     "geom:bbox":"-119.792884,36.836113,-119.729551,36.893671",
     "geom:latitude":36.860324,
     "geom:longitude":-119.761587,
@@ -13,20 +13,25 @@
     "lbl:latitude":36.862209,
     "lbl:longitude":-119.760793,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fresno",
+    "mz:postal_locality_alt":[
+        "Pinedale"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102084347,
         85922995,
-        102084347
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12797027"
     },
     "wof:country":"US",
-    "wof:geomhash":"1150d3d15b037a88767429f92978434b",
+    "wof:geomhash":"3c585f1d3ba91f953c2f6a7e1774404e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554753005,
-    "wof:lastmodified":1480802386,
+    "wof:lastmodified":1611182966,
     "wof:name":"93720",
     "wof:parent_id":85922995,
     "wof:placetype":"postalcode",

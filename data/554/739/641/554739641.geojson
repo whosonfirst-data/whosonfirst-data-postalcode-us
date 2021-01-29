@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005463,
-    "geom:area_square_m":51006606.353907,
+    "geom:area_square_m":51006606.353831,
     "geom:bbox":"-96.767628,40.877028,-96.640867,41.016492",
     "geom:latitude":40.963947,
     "geom:longitude":-96.688026,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.965855,
     "lbl:longitude":-96.690917,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Davey",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688563,
         102191575,
-        404520069,
         85633793,
-        102083503
+        102083503,
+        404520069,
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787606"
     },
     "wof:country":"US",
-    "wof:geomhash":"0d1972f248344146030f6451d5db35df",
+    "wof:geomhash":"69c483c550b83ff974e8d6e3e7038614",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554739641,
-    "wof:lastmodified":1480836364,
+    "wof:lastmodified":1611182673,
     "wof:name":"68336",
     "wof:parent_id":404520069,
     "wof:placetype":"postalcode",

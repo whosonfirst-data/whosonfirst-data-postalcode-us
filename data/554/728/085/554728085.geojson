@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004198,
-    "geom:area_square_m":36656282.085614,
+    "geom:area_square_m":36656282.085616,
     "geom:bbox":"-92.803124,45.042034,-92.700655,45.123276",
     "geom:latitude":45.071977,
     "geom:longitude":-92.751338,
@@ -14,20 +14,25 @@
     "lbl:latitude":45.06804,
     "lbl:longitude":-92.749369,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hudson",
+    "mz:postal_locality_alt":[
+        "Houlton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404493749,
         85633793,
-        102081855
+        102081855,
+        404493749,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781179"
     },
     "wof:country":"US",
-    "wof:geomhash":"09dd0b16a8f602c276b7fe49b338e968",
+    "wof:geomhash":"4e5ce5885a0cccfb26ec925f684be205",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554728085,
-    "wof:lastmodified":1480830591,
+    "wof:lastmodified":1611185057,
     "wof:name":"54082",
     "wof:parent_id":404493749,
     "wof:placetype":"postalcode",

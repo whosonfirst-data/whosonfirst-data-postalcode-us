@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002518,
-    "geom:area_square_m":24632963.616572,
+    "geom:area_square_m":24632963.616597,
     "geom:bbox":"-122.209269,37.666758,-122.122274,37.742499",
     "geom:latitude":37.712555,
     "geom:longitude":-122.168202,
@@ -13,20 +13,25 @@
     "lbl:latitude":37.713275,
     "lbl:longitude":-122.16735,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"San Leandro",
+    "mz:postal_locality_alt":[
+        "San Lorenzo"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086959,
         85921867,
-        102086959
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12797369"
     },
     "wof:country":"US",
-    "wof:geomhash":"8a9dd21951e88df091afb317c59caf05",
+    "wof:geomhash":"823258677ac2a8d546dd6845d5764235",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554753181,
-    "wof:lastmodified":1480915082,
+    "wof:lastmodified":1611182947,
     "wof:name":"94577",
     "wof:parent_id":85921867,
     "wof:placetype":"postalcode",

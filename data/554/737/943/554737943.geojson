@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020153,
-    "geom:area_square_m":195524682.105552,
+    "geom:area_square_m":195524682.105602,
     "geom:bbox":"-95.065891,38.218514,-94.861311,38.403748",
     "geom:latitude":38.313404,
     "geom:longitude":-94.973018,
@@ -14,20 +14,22 @@
     "lbl:latitude":38.309431,
     "lbl:longitude":-94.963962,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Parker",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404504545,
         85633793,
-        102083431
+        102083431,
+        404504545,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786753"
     },
     "wof:country":"US",
-    "wof:geomhash":"5d96a1c7f63fae0026880264d4b26003",
+    "wof:geomhash":"44c884a52f2dd428219db41cb783931f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554737943,
-    "wof:lastmodified":1480843106,
+    "wof:lastmodified":1611182865,
     "wof:name":"66072",
     "wof:parent_id":404504545,
     "wof:placetype":"postalcode",

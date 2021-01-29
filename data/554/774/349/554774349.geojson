@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001363,
-    "geom:area_square_m":13418906.866613,
+    "geom:area_square_m":13418906.866623,
     "geom:bbox":"-89.743187,37.229435,-89.654471,37.255411",
     "geom:latitude":37.241943,
     "geom:longitude":-89.694031,
@@ -14,20 +14,22 @@
     "lbl:latitude":37.239802,
     "lbl:longitude":-89.690157,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Dutchtown",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404516539,
         85633793,
-        102086155
+        102086155,
+        404516539,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785834"
     },
     "wof:country":"US",
-    "wof:geomhash":"c5afe638a288661a5b7bea9dbf231466",
+    "wof:geomhash":"dc1e18ed1ddf0064c9f2dc485f77a97a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554774349,
-    "wof:lastmodified":1480915744,
+    "wof:lastmodified":1611185198,
     "wof:name":"63745",
     "wof:parent_id":404516539,
     "wof:placetype":"postalcode",

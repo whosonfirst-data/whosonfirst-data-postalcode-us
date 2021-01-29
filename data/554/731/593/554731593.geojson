@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020624,
-    "geom:area_square_m":174125359.600831,
+    "geom:area_square_m":174125359.600873,
     "geom:bbox":"-97.303421,46.873844,-97.070321,47.035242",
     "geom:latitude":46.938879,
     "geom:longitude":-97.169229,
@@ -14,20 +14,22 @@
     "lbl:latitude":46.941686,
     "lbl:longitude":-97.168331,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Casselton",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688525,
         102191575,
-        404480579,
         85633793,
-        102082073
+        102082073,
+        404480579,
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12783116"
     },
     "wof:country":"US",
-    "wof:geomhash":"bb0e03ed9cdc5544f61ca91205fa1758",
+    "wof:geomhash":"6693d2340957114538da8ee228722c22",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554731593,
-    "wof:lastmodified":1480795316,
+    "wof:lastmodified":1611183055,
     "wof:name":"58012",
     "wof:parent_id":404480579,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008,
-    "geom:area_square_m":80993152.838133,
+    "geom:area_square_m":80993152.838177,
     "geom:bbox":"-89.990132,34.994259,-89.865146,35.082136",
     "geom:latitude":35.035991,
     "geom:longitude":-89.931512,
@@ -14,20 +14,22 @@
     "lbl:latitude":35.032631,
     "lbl:longitude":-89.932531,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Memphis",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688701,
         102191575,
         85633793,
+        102087213,
         101722645,
-        102087213
+        85688701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12774303"
     },
     "wof:country":"US",
-    "wof:geomhash":"5c1466436a109a0c549306d1621dd8b0",
+    "wof:geomhash":"703e2b61ed99e8622d8de66faa3c53d3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554717337,
-    "wof:lastmodified":1480804299,
+    "wof:lastmodified":1611184986,
     "wof:name":"38118",
     "wof:parent_id":101722645,
     "wof:placetype":"postalcode",

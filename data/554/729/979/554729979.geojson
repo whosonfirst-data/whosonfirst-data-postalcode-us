@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.076292,
-    "geom:area_square_m":677949645.649981,
+    "geom:area_square_m":677949645.649734,
     "geom:bbox":"-96.50639,43.877739,-96.174431,44.255551",
     "geom:latitude":44.056596,
     "geom:longitude":-96.339177,
@@ -14,20 +14,28 @@
     "lbl:latitude":44.060521,
     "lbl:longitude":-96.342684,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pipestone",
+    "mz:postal_locality_alt":[
+        "Luverne",
+        "Beaver Creek",
+        "Hardwick",
+        "Russell"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404513535,
         85633793,
-        102087865
+        102087865,
+        404513535,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782297"
     },
     "wof:country":"US",
-    "wof:geomhash":"859d03dba15693f7b00f5a5cec3601f6",
+    "wof:geomhash":"702c5fb749447003caa294f1d6876d5d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +47,7 @@
         }
     ],
     "wof:id":554729979,
-    "wof:lastmodified":1480916966,
+    "wof:lastmodified":1611185420,
     "wof:name":"56164",
     "wof:parent_id":404513535,
     "wof:placetype":"postalcode",

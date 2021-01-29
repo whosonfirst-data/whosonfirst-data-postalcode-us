@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005974,
-    "geom:area_square_m":56496535.395363,
+    "geom:area_square_m":56496535.395167,
     "geom:bbox":"-74.800492,40.021608,-74.679973,40.176277",
     "geom:latitude":40.10465,
     "geom:longitude":-74.739394,
@@ -14,20 +14,26 @@
     "lbl:latitude":40.10309,
     "lbl:longitude":-74.733573,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bordentown",
+    "mz:postal_locality_alt":[
+        "Florence",
+        "Trenton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477855,
         85633793,
-        102087415
+        102087415,
+        404477855,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761161"
     },
     "wof:country":"US",
-    "wof:geomhash":"69ae533c5f0f69aab17004016d675563",
+    "wof:geomhash":"30ccca69ccd9dbb335fe9b3182587b94",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554700563,
-    "wof:lastmodified":1480906418,
+    "wof:lastmodified":1611183194,
     "wof:name":"08505",
     "wof:parent_id":404477855,
     "wof:placetype":"postalcode",

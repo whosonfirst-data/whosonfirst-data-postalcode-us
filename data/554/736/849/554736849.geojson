@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01121,
-    "geom:area_square_m":106754134.196429,
+    "geom:area_square_m":106754134.196337,
     "geom:bbox":"-94.17139,39.582778,-93.973034,39.688016",
     "geom:latitude":39.634865,
     "geom:longitude":-94.059786,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.635657,
     "lbl:longitude":-94.071505,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Kingston",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404516411,
         85633793,
-        102085265
+        102085265,
+        404516411,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786194"
     },
     "wof:country":"US",
-    "wof:geomhash":"8127b530a672d7547c3c75b1b21e7756",
+    "wof:geomhash":"31e715cc2ee9ca9d33caf52f051d7697",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554736849,
-    "wof:lastmodified":1480812038,
+    "wof:lastmodified":1611183043,
     "wof:name":"64650",
     "wof:parent_id":404516411,
     "wof:placetype":"postalcode",

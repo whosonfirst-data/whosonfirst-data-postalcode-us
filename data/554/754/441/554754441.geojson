@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.145287,
-    "geom:area_square_m":1365078208.88834,
+    "geom:area_square_m":1365078208.891309,
     "geom:bbox":"-121.231053,40.294739,-120.442586,40.765917",
     "geom:latitude":40.548765,
     "geom:longitude":-120.68497,
@@ -13,19 +13,25 @@
     "lbl:latitude":40.551757,
     "lbl:longitude":-120.675673,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Susanville",
+    "mz:postal_locality_alt":[
+        "Standish",
+        "Herlong"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688637,
-        102084359
+        102084359,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12798227"
     },
     "wof:country":"US",
-    "wof:geomhash":"c82b174212ed3eba49cb38c6113141f0",
+    "wof:geomhash":"f4839ce25d451e0b4c582024502cd2ae",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +42,7 @@
         }
     ],
     "wof:id":554754441,
-    "wof:lastmodified":1480841619,
+    "wof:lastmodified":1611182880,
     "wof:name":"96130",
     "wof:parent_id":102084359,
     "wof:placetype":"postalcode",

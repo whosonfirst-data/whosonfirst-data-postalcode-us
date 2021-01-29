@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014187,
-    "geom:area_square_m":140520148.587572,
+    "geom:area_square_m":140520148.587639,
     "geom:bbox":"-121.760717,36.678803,-121.58054,36.842422",
     "geom:latitude":36.769557,
     "geom:longitude":-121.667757,
@@ -13,20 +13,25 @@
     "lbl:latitude":36.769389,
     "lbl:longitude":-121.667532,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Salinas",
+    "mz:postal_locality_alt":[
+        "Prunedale"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102080859,
         85926197,
-        102080859
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12797073"
     },
     "wof:country":"US",
-    "wof:geomhash":"cae2086aaa542ae5aa8ede19f23984f0",
+    "wof:geomhash":"f88403aa7873c30ef178ffe7164fcdc3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554753031,
-    "wof:lastmodified":1480907182,
+    "wof:lastmodified":1611182939,
     "wof:name":"93907",
     "wof:parent_id":85926197,
     "wof:placetype":"postalcode",

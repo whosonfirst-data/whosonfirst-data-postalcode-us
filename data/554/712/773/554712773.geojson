@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002818,
-    "geom:area_square_m":28899337.669144,
+    "geom:area_square_m":28899337.669137,
     "geom:bbox":"-84.269376,33.932802,-84.189686,34.004126",
     "geom:latitude":33.971673,
     "geom:longitude":-84.235172,
@@ -13,19 +13,26 @@
     "lbl:latitude":33.972386,
     "lbl:longitude":-84.231986,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Norcross",
+    "mz:postal_locality_alt":[
+        "Atlanta",
+        "Duluth",
+        "Berkeley Lake"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688535,
-        102082967
+        102082967,
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770569"
     },
     "wof:country":"US",
-    "wof:geomhash":"478515ee4144bc3f80f9242a31964b01",
+    "wof:geomhash":"cb70931e9f097c52e30298685eb50c58",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +43,7 @@
         }
     ],
     "wof:id":554712773,
-    "wof:lastmodified":1480841941,
+    "wof:lastmodified":1611183737,
     "wof:name":"30092",
     "wof:parent_id":102082967,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009702,
-    "geom:area_square_m":93632189.003075,
+    "geom:area_square_m":93632189.00303,
     "geom:bbox":"-98.197097,38.60936,-98.022248,38.784192",
     "geom:latitude":38.698308,
     "geom:longitude":-98.111421,
@@ -14,20 +14,22 @@
     "lbl:latitude":38.69884,
     "lbl:longitude":-98.112105,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Kanopolis",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404502329,
         85633793,
-        102085323
+        102085323,
+        404502329,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787264"
     },
     "wof:country":"US",
-    "wof:geomhash":"68983210e196429782e2d681d841c092",
+    "wof:geomhash":"38a6d7d305b4819622149b9087181516",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554738947,
-    "wof:lastmodified":1480814458,
+    "wof:lastmodified":1611183108,
     "wof:name":"67454",
     "wof:parent_id":404502329,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035685,
-    "geom:area_square_m":354363007.653669,
+    "geom:area_square_m":354363007.653847,
     "geom:bbox":"-86.683236,36.455168,-86.374154,36.652443",
     "geom:latitude":36.573937,
     "geom:longitude":-86.501789,
@@ -14,19 +14,24 @@
     "lbl:latitude":36.566636,
     "lbl:longitude":-86.495247,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Portland",
+    "mz:postal_locality_alt":[
+        "Gallatin"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688701,
-        102086357
+        102086357,
+        85688701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12773846"
     },
     "wof:country":"US",
-    "wof:geomhash":"f1c43637aea51adfb6237ee116eb3462",
+    "wof:geomhash":"24947a27b17d06b4f2330971552e53c5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554716581,
-    "wof:lastmodified":1480917082,
+    "wof:lastmodified":1611185371,
     "wof:name":"37148",
     "wof:parent_id":102086357,
     "wof:placetype":"postalcode",

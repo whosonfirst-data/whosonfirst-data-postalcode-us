@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005453,
-    "geom:area_square_m":52520631.437973,
+    "geom:area_square_m":52520631.437856,
     "geom:bbox":"-122.818314,38.780292,-122.661678,38.877963",
     "geom:latitude":38.832305,
     "geom:longitude":-122.731262,
@@ -14,20 +14,25 @@
     "lbl:latitude":38.833425,
     "lbl:longitude":-122.734061,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cobb",
+    "mz:postal_locality_alt":[
+        "Kelseyville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086949,
         85924487,
-        102086949
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12797771"
     },
     "wof:country":"US",
-    "wof:geomhash":"8e4a0c14d19231b622276db123265994",
+    "wof:geomhash":"633a631739398065c59c5c9feb233615",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554772977,
-    "wof:lastmodified":1480911779,
+    "wof:lastmodified":1611184852,
     "wof:name":"95426",
     "wof:parent_id":85924487,
     "wof:placetype":"postalcode",

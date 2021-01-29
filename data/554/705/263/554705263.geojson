@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0054,
-    "geom:area_square_m":51079482.735209,
+    "geom:area_square_m":51079482.735198,
     "geom:bbox":"-76.265494,40.061114,-76.112777,40.135214",
     "geom:latitude":40.096524,
     "geom:longitude":-76.187073,
@@ -14,21 +14,26 @@
     "lbl:latitude":40.097608,
     "lbl:longitude":-76.189987,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Leola",
+    "mz:postal_locality_alt":[
+        "Brownstown"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485437,
         85633793,
+        102081377,
+        404485437,
         101720397,
-        102081377
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764809"
     },
     "wof:country":"US",
-    "wof:geomhash":"469742ce861d75aa801113ee2f7a381e",
+    "wof:geomhash":"91c2d40fbb52b389e495777ff979290c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554705263,
-    "wof:lastmodified":1480817413,
+    "wof:lastmodified":1611184124,
     "wof:name":"17540",
     "wof:parent_id":101720397,
     "wof:placetype":"postalcode",

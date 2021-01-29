@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036043,
-    "geom:area_square_m":308544521.423611,
+    "geom:area_square_m":308544521.423521,
     "geom:bbox":"-88.117977,46.109084,-87.797116,46.247436",
     "geom:latitude":46.18679,
     "geom:longitude":-87.96482,
@@ -14,20 +14,22 @@
     "lbl:latitude":46.185396,
     "lbl:longitude":-87.96424,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Channing",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404507323,
         85633793,
-        102083107
+        102083107,
+        404507323,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779575"
     },
     "wof:country":"US",
-    "wof:geomhash":"2c661e0a98f1a31f12601f018e5e3f6d",
+    "wof:geomhash":"2c84b5c37018d0b44c9bf535ae97c075",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554782823,
-    "wof:lastmodified":1480843188,
+    "wof:lastmodified":1611183623,
     "wof:name":"49815",
     "wof:parent_id":404507323,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000692,
-    "geom:area_square_m":6519557.245673,
+    "geom:area_square_m":6519557.245665,
     "geom:bbox":"-76.016948,40.309464,-75.973536,40.347605",
     "geom:latitude":40.328012,
     "geom:longitude":-75.997117,
@@ -13,21 +13,26 @@
     "lbl:latitude":40.328313,
     "lbl:longitude":-75.997285,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Reading",
+    "mz:postal_locality_alt":[
+        "West Lawn"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404484563,
         85633793,
+        102080991,
+        404484563,
         101719241,
-        102080991
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765736"
     },
     "wof:country":"US",
-    "wof:geomhash":"c08ce0a7c32eeac76de2f89a5b7099c3",
+    "wof:geomhash":"e48b315a8eaab17b49f41a17857e8a30",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554706575,
-    "wof:lastmodified":1480903398,
+    "wof:lastmodified":1611182697,
     "wof:name":"19609",
     "wof:parent_id":101719241,
     "wof:placetype":"postalcode",

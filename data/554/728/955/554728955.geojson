@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015988,
-    "geom:area_square_m":139382630.701729,
+    "geom:area_square_m":139382630.70181,
     "geom:bbox":"-93.097075,45.118959,-92.874013,45.250465",
     "geom:latitude":45.168693,
     "geom:longitude":-92.979348,
@@ -14,21 +14,27 @@
     "lbl:latitude":45.174163,
     "lbl:longitude":-92.980823,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hugo",
+    "mz:postal_locality_alt":[
+        "Centerville",
+        "Lino Lakes"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404514897,
         85633793,
+        102087659,
+        404514897,
         85968249,
-        102087659
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781692"
     },
     "wof:country":"US",
-    "wof:geomhash":"1f5af19e561a51328edd107cb9e01893",
+    "wof:geomhash":"e5c5f54d4aee3f873ca0e159dff9c2cf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554728955,
-    "wof:lastmodified":1480785925,
+    "wof:lastmodified":1611185051,
     "wof:name":"55038",
     "wof:parent_id":85968249,
     "wof:placetype":"postalcode",

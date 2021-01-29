@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008325,
-    "geom:area_square_m":86450743.611413,
+    "geom:area_square_m":86450743.611328,
     "geom:bbox":"-79.849307,32.80793,-79.725458,32.930577",
     "geom:latitude":32.878482,
     "geom:longitude":-79.789902,
@@ -13,20 +13,26 @@
     "lbl:latitude":32.877758,
     "lbl:longitude":-79.792013,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mt Pleasant",
+    "mz:postal_locality_alt":[
+        "Mount Pleasant",
+        "Charleston"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688683,
         102191575,
         85633793,
+        102085591,
         101720773,
-        102085591
+        85688683
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770203"
     },
     "wof:country":"US",
-    "wof:geomhash":"748e927b8d5744581b20728cdeb123df",
+    "wof:geomhash":"849b116a9107c6283829e22832bc3c8f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554781109,
-    "wof:lastmodified":1480813649,
+    "wof:lastmodified":1611184825,
     "wof:name":"29466",
     "wof:parent_id":101720773,
     "wof:placetype":"postalcode",

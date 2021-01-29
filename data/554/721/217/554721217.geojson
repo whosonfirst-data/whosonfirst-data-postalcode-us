@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007298,
-    "geom:area_square_m":68263473.134133,
+    "geom:area_square_m":68263473.134155,
     "geom:bbox":"-80.82324,40.798833,-80.688812,40.900472",
     "geom:latitude":40.848312,
     "geom:longitude":-80.754186,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.851614,
     "lbl:longitude":-80.74947,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Leetonia",
+    "mz:postal_locality_alt":[
+        "Columbiana"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404525087,
         85633793,
-        102083745
+        102083745,
+        404525087,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776800"
     },
     "wof:country":"US",
-    "wof:geomhash":"83b55aa99d00ae4ed633fd6a8fb02341",
+    "wof:geomhash":"a1d5adbfd5d1b2f5492cae9376ad7129",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554721217,
-    "wof:lastmodified":1480841634,
+    "wof:lastmodified":1611184951,
     "wof:name":"44431",
     "wof:parent_id":404525087,
     "wof:placetype":"postalcode",

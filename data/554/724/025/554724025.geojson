@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017847,
-    "geom:area_square_m":162800398.597058,
+    "geom:area_square_m":162800398.596962,
     "geom:bbox":"-84.068709,42.398685,-83.824906,42.510776",
     "geom:latitude":42.462782,
     "geom:longitude":-83.948986,
@@ -14,21 +14,27 @@
     "lbl:latitude":42.461925,
     "lbl:longitude":-83.947382,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pinckney",
+    "mz:postal_locality_alt":[
+        "Hamburg",
+        "Lakeland"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404507419,
         85633793,
+        102083145,
+        404507419,
         85951329,
-        102083145
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778649"
     },
     "wof:country":"US",
-    "wof:geomhash":"5702cc70a25ef0741ba44d55ccc4e8aa",
+    "wof:geomhash":"542f44528b0d199d51924a2902f7b82a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554724025,
-    "wof:lastmodified":1480843132,
+    "wof:lastmodified":1611183747,
     "wof:name":"48169",
     "wof:parent_id":85951329,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005347,
-    "geom:area_square_m":49629485.857346,
+    "geom:area_square_m":49629485.857344,
     "geom:bbox":"-73.04907,41.310319,-72.954873,41.395834",
     "geom:latitude":41.356604,
     "geom:longitude":-73.010181,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.363538,
     "lbl:longitude":-73.003892,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Woodbridge",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688629,
         102191575,
-        404495807,
         85633793,
-        102086923
+        102086923,
+        404495807,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760465"
     },
     "wof:country":"US",
-    "wof:geomhash":"3d145593d713c023f16876de1927aaa4",
+    "wof:geomhash":"20a76d0444658b4e5374624d5becf128",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554699651,
-    "wof:lastmodified":1480916211,
+    "wof:lastmodified":1611184608,
     "wof:name":"06525",
     "wof:parent_id":404495807,
     "wof:placetype":"postalcode",

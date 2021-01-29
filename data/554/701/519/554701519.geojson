@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001408,
-    "geom:area_square_m":13003008.060756,
+    "geom:area_square_m":13003008.060768,
     "geom:bbox":"-74.089788,41.653888,-74.041176,41.716505",
     "geom:latitude":41.682956,
     "geom:longitude":-74.062647,
@@ -13,20 +13,25 @@
     "lbl:latitude":41.684774,
     "lbl:longitude":-74.06484,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Clintondale",
+    "mz:postal_locality_alt":[
+        "Highland"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404523253,
         85633793,
-        102081775
+        102081775,
+        404523253,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762336"
     },
     "wof:country":"US",
-    "wof:geomhash":"e62c19be06dc6ba7b5cfd29b1c10966f",
+    "wof:geomhash":"fac0d564e4b0dc8d27ba0982ae5684a6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554701519,
-    "wof:lastmodified":1480819674,
+    "wof:lastmodified":1611182626,
     "wof:name":"12515",
     "wof:parent_id":404523253,
     "wof:placetype":"postalcode",

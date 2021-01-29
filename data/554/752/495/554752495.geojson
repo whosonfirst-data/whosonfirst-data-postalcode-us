@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004741,
-    "geom:area_square_m":48713224.006519,
+    "geom:area_square_m":48713224.006567,
     "geom:bbox":"-117.068606,33.772745,-116.9715,33.852965",
     "geom:latitude":33.805824,
     "geom:longitude":-117.019464,
@@ -13,20 +13,25 @@
     "lbl:latitude":33.807607,
     "lbl:longitude":-117.015163,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"San Jacinto",
+    "mz:postal_locality_alt":[
+        "Riverside"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086221,
         85923341,
-        102086221
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796534"
     },
     "wof:country":"US",
-    "wof:geomhash":"c97d0faf1d9b844f5926dfc22d86c053",
+    "wof:geomhash":"829f60e90f98c854a0bf22a08ca1050f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554752495,
-    "wof:lastmodified":1480913413,
+    "wof:lastmodified":1611182550,
     "wof:name":"92582",
     "wof:parent_id":85923341,
     "wof:placetype":"postalcode",

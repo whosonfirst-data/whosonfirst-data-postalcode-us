@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011275,
-    "geom:area_square_m":104478891.448689,
+    "geom:area_square_m":104478891.448713,
     "geom:bbox":"-72.886667,41.396641,-72.733886,41.516509",
     "geom:latitude":41.459127,
     "geom:longitude":-72.804687,
@@ -14,20 +14,30 @@
     "lbl:latitude":41.458658,
     "lbl:longitude":-72.804516,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wallingford",
+    "mz:postal_locality_alt":[
+        "Fairfield",
+        "Milford",
+        "Southport",
+        "Middletown",
+        "Cheshire",
+        "Branford"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688629,
         102191575,
-        404495801,
         85633793,
-        102086923
+        102086923,
+        404495801,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760439"
     },
     "wof:country":"US",
-    "wof:geomhash":"5b71157194fc3e25e7fd1ccc7dff6bb0",
+    "wof:geomhash":"2d35cf06c293618a9f28118d98a37195",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +49,7 @@
         }
     ],
     "wof:id":554699631,
-    "wof:lastmodified":1480916209,
+    "wof:lastmodified":1611184630,
     "wof:name":"06492",
     "wof:parent_id":404495801,
     "wof:placetype":"postalcode",

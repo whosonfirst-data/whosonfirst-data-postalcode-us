@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006966,
-    "geom:area_square_m":64286229.455862,
+    "geom:area_square_m":64286229.455824,
     "geom:bbox":"-85.249981,41.667429,-85.083872,41.759799",
     "geom:latitude":41.728295,
     "geom:longitude":-85.162699,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.721181,
     "lbl:longitude":-85.165915,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Orland",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404501507,
         85633793,
-        102086479
+        102086479,
+        404501507,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777885"
     },
     "wof:country":"US",
-    "wof:geomhash":"9a04bc67b1329132fb93b08df2c79e4b",
+    "wof:geomhash":"38da0b165a26c1087926a13773cb9c61",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554722895,
-    "wof:lastmodified":1480910268,
+    "wof:lastmodified":1611183220,
     "wof:name":"46776",
     "wof:parent_id":404501507,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020512,
-    "geom:area_square_m":188006282.949992,
+    "geom:area_square_m":188006282.950005,
     "geom:bbox":"-79.741721,42.09858,-79.481098,42.239822",
     "geom:latitude":42.161162,
     "geom:longitude":-79.601824,
@@ -14,21 +14,26 @@
     "lbl:latitude":42.161603,
     "lbl:longitude":-79.601288,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Sherman",
+    "mz:postal_locality_alt":[
+        "Findley Lake"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404521261,
         85633793,
+        102081811,
+        404521261,
         85978817,
-        102081811
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763437"
     },
     "wof:country":"US",
-    "wof:geomhash":"890029e800fb92e994338b311b8e0b97",
+    "wof:geomhash":"81e8b46417ef4a90d82c9926f8f2810b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554703167,
-    "wof:lastmodified":1480823111,
+    "wof:lastmodified":1611184449,
     "wof:name":"14781",
     "wof:parent_id":85978817,
     "wof:placetype":"postalcode",

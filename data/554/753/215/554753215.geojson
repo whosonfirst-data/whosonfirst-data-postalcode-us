@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000883,
-    "geom:area_square_m":8629820.305448,
+    "geom:area_square_m":8629820.305463,
     "geom:bbox":"-122.234679,37.788334,-122.17736,37.821044",
     "geom:latitude":37.80413,
     "geom:longitude":-122.206928,
@@ -14,20 +14,25 @@
     "lbl:latitude":37.804319,
     "lbl:longitude":-122.207544,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Oakland",
+    "mz:postal_locality_alt":[
+        "San Francisco"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086959,
         85921881,
-        102086959
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12797389"
     },
     "wof:country":"US",
-    "wof:geomhash":"9f1f3924bd3753437fef49cc2b9d714a",
+    "wof:geomhash":"134a47b7ea972f4ecd59267492e8551f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554753215,
-    "wof:lastmodified":1480915082,
+    "wof:lastmodified":1611182959,
     "wof:name":"94602",
     "wof:parent_id":85921881,
     "wof:placetype":"postalcode",

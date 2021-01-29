@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006987,
-    "geom:area_square_m":65255393.014966,
+    "geom:area_square_m":65255393.014978,
     "geom:bbox":"-74.289186,40.882871,-74.195541,41.014063",
     "geom:latitude":40.948078,
     "geom:longitude":-74.245048,
@@ -14,20 +14,26 @@
     "lbl:latitude":40.945855,
     "lbl:longitude":-74.245077,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wayne",
+    "mz:postal_locality_alt":[
+        "Little Falls",
+        "Wayne Township"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477879,
         85633793,
-        102081133
+        102081133,
+        404477879,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760768"
     },
     "wof:country":"US",
-    "wof:geomhash":"b88c051721120e489c281cfa42666e9e",
+    "wof:geomhash":"222d0f2c2e328157f0a617f02ee917bd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554700041,
-    "wof:lastmodified":1480908562,
+    "wof:lastmodified":1611183180,
     "wof:name":"07470",
     "wof:parent_id":404477879,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00011,
-    "geom:area_square_m":1039147.442533,
+    "geom:area_square_m":1039147.442532,
     "geom:bbox":"-81.381627,40.427659,-81.356103,40.444167",
     "geom:latitude":40.436101,
     "geom:longitude":-81.370333,
@@ -14,21 +14,27 @@
     "lbl:latitude":40.436101,
     "lbl:longitude":-81.370332,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Winesburg",
+    "mz:postal_locality_alt":[
+        "Midvale",
+        "Berlin"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404526239,
         85633793,
+        102084737,
+        404526239,
         85982765,
-        102084737
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776893"
     },
     "wof:country":"US",
-    "wof:geomhash":"754da2afbb893f5891c11a6ecf2c943b",
+    "wof:geomhash":"6d493db5e3387eee2c694d8ca7208987",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554770427,
-    "wof:lastmodified":1480801596,
+    "wof:lastmodified":1611183923,
     "wof:name":"44653",
     "wof:parent_id":85982765,
     "wof:placetype":"postalcode",

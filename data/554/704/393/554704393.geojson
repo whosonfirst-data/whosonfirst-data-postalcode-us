@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011333,
-    "geom:area_square_m":105171800.031337,
+    "geom:area_square_m":105171800.03137,
     "geom:bbox":"-79.351059,41.290198,-79.208226,41.432156",
     "geom:latitude":41.366174,
     "geom:longitude":-79.272013,
@@ -14,20 +14,26 @@
     "lbl:latitude":41.36124,
     "lbl:longitude":-79.271067,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Leeper",
+    "mz:postal_locality_alt":[
+        "Kittanning",
+        "Freeport"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404486653,
         85633793,
-        102081389
+        102081389,
+        404486653,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764215"
     },
     "wof:country":"US",
-    "wof:geomhash":"b2cca1fef778ab10ea282402b5f9a495",
+    "wof:geomhash":"7df5781675b3bb4cd743b79601715dd3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554704393,
-    "wof:lastmodified":1480906443,
+    "wof:lastmodified":1611184507,
     "wof:name":"16233",
     "wof:parent_id":404486653,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011882,
-    "geom:area_square_m":103645705.720146,
+    "geom:area_square_m":103645705.720104,
     "geom:bbox":"-67.305593,45.071983,-67.12267,45.191823",
     "geom:latitude":45.133953,
     "geom:longitude":-67.223923,
@@ -14,21 +14,28 @@
     "lbl:latitude":45.142952,
     "lbl:longitude":-67.217524,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Calais",
+    "mz:postal_locality_alt":[
+        "Hancock",
+        "Columbia",
+        "Blue Hill"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404475311,
         85633793,
+        102081143,
+        404475311,
         85948871,
-        102081143
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759662"
     },
     "wof:country":"US",
-    "wof:geomhash":"6266971ed49d877d95bf79754c0aed81",
+    "wof:geomhash":"25f6f14978f50bf937c2ddb0769bac06",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +48,7 @@
         }
     ],
     "wof:id":554778825,
-    "wof:lastmodified":1480823911,
+    "wof:lastmodified":1611183441,
     "wof:name":"04619",
     "wof:parent_id":85948871,
     "wof:placetype":"postalcode",

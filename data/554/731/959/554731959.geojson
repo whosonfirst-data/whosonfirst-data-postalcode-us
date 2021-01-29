@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032303,
-    "geom:area_square_m":270312057.853029,
+    "geom:area_square_m":270312057.853043,
     "geom:bbox":"-99.905467,47.226873,-99.734981,47.588237",
     "geom:latitude":47.410997,
     "geom:longitude":-99.825846,
@@ -14,20 +14,22 @@
     "lbl:latitude":47.401106,
     "lbl:longitude":-99.836299,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Chaseley",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688525,
         102191575,
-        404479789,
         85633793,
-        102081507
+        102081507,
+        404479789,
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12783309"
     },
     "wof:country":"US",
-    "wof:geomhash":"dba0bd6454623bac9ceab1f446d3c7f8",
+    "wof:geomhash":"eae76c26a05d0abccc3b67e5367312d0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554731959,
-    "wof:lastmodified":1480832851,
+    "wof:lastmodified":1611183074,
     "wof:name":"58423",
     "wof:parent_id":404479789,
     "wof:placetype":"postalcode",

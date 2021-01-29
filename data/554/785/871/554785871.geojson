@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00047,
-    "geom:area_square_m":4516164.370049,
+    "geom:area_square_m":4516164.370047,
     "geom:bbox":"-76.570564,39.017669,-76.529878,39.040506",
     "geom:latitude":39.030474,
     "geom:longitude":-76.551459,
@@ -14,19 +14,24 @@
     "lbl:latitude":39.02751,
     "lbl:longitude":-76.556716,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Annapolis",
+    "mz:postal_locality_alt":[
+        "Sherwood Forest"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688501,
-        102083469
+        102083469,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766564"
     },
     "wof:country":"US",
-    "wof:geomhash":"afe07256d17bd40375caf2335bb0fc8d",
+    "wof:geomhash":"a7a9dde0648cf780d54a3488a16b873a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554785871,
-    "wof:lastmodified":1480843201,
+    "wof:lastmodified":1611183509,
     "wof:name":"21405",
     "wof:parent_id":102083469,
     "wof:placetype":"postalcode",

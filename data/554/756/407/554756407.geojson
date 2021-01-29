@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.144982,
-    "geom:area_square_m":1236653629.710115,
+    "geom:area_square_m":1236653629.709191,
     "geom:bbox":"-119.270504,46.192856,-118.534738,46.637906",
     "geom:latitude":46.384422,
     "geom:longitude":-118.943867,
@@ -13,19 +13,26 @@
     "lbl:latitude":46.379233,
     "lbl:longitude":-118.953781,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pasco",
+    "mz:postal_locality_alt":[
+        "Walla Walla",
+        "Burbank",
+        "Kennewick"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688623,
-        102084247
+        102084247,
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12799554"
     },
     "wof:country":"US",
-    "wof:geomhash":"59b536cb5351ad34043dda8980ce049d",
+    "wof:geomhash":"2c7e1759f5b2d14a9f8c985a3561b4b0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +43,7 @@
         }
     ],
     "wof:id":554756407,
-    "wof:lastmodified":1480915901,
+    "wof:lastmodified":1611184282,
     "wof:name":"99301",
     "wof:parent_id":102084247,
     "wof:placetype":"postalcode",

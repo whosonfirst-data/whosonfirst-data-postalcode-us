@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.331712,
-    "geom:area_square_m":2792522432.374922,
+    "geom:area_square_m":2792522432.374449,
     "geom:bbox":"-109.808652,46.751324,-108.799893,47.420357",
     "geom:latitude":47.091846,
     "geom:longitude":-109.359477,
@@ -14,19 +14,24 @@
     "lbl:latitude":47.139971,
     "lbl:longitude":-109.310738,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lewistown",
+    "mz:postal_locality_alt":[
+        "Moore"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688617,
-        102085207
+        102085207,
+        85688617
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12783725"
     },
     "wof:country":"US",
-    "wof:geomhash":"d057b2f2adc55cdffcadde0b4abb4b1b",
+    "wof:geomhash":"0bcb064c4673e41772fb34fe8bec81c6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554732795,
-    "wof:lastmodified":1480813071,
+    "wof:lastmodified":1611184392,
     "wof:name":"59457",
     "wof:parent_id":102085207,
     "wof:placetype":"postalcode",

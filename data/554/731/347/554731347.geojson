@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.20951,
-    "geom:area_square_m":1889144754.102523,
+    "geom:area_square_m":1889144754.102743,
     "geom:bbox":"-102.109635,42.996255,-101.269899,43.389205",
     "geom:latitude":43.178818,
     "geom:longitude":-101.697666,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.177232,
     "lbl:longitude":-101.711401,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Martin",
+    "mz:postal_locality_alt":[
+        "Midland"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688693,
         102191575,
-        404490079,
         85633793,
-        102086059
+        102086059,
+        404490079,
+        85688693
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782981"
     },
     "wof:country":"US",
-    "wof:geomhash":"b4d43774b2d05f357f5f268a79f67671",
+    "wof:geomhash":"420c600f291387aad0872bbc25737876",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554731347,
-    "wof:lastmodified":1480913840,
+    "wof:lastmodified":1611183071,
     "wof:name":"57551",
     "wof:parent_id":404490079,
     "wof:placetype":"postalcode",

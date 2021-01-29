@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031551,
-    "geom:area_square_m":337134143.097001,
+    "geom:area_square_m":337134143.097141,
     "geom:bbox":"-82.069197,30.054919,-81.869514,30.364883",
     "geom:latitude":30.21462,
     "geom:longitude":-81.983703,
@@ -13,20 +13,25 @@
     "lbl:latitude":30.225133,
     "lbl:longitude":-81.984561,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Jacksonville",
+    "mz:postal_locality_alt":[
+        "Baldwin"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688651,
         102191575,
         85633793,
+        102084753,
         85932547,
-        102084753
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12771601"
     },
     "wof:country":"US",
-    "wof:geomhash":"b302e192105324800680ee696c8f05ca",
+    "wof:geomhash":"43af4ceb75c89960e9976b34ac73433a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554714287,
-    "wof:lastmodified":1480813291,
+    "wof:lastmodified":1611183349,
     "wof:name":"32234",
     "wof:parent_id":85932547,
     "wof:placetype":"postalcode",

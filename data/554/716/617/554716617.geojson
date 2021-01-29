@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020497,
-    "geom:area_square_m":206333680.583809,
+    "geom:area_square_m":206333680.583842,
     "geom:bbox":"-86.414363,35.369353,-86.192263,35.607735",
     "geom:latitude":35.502885,
     "geom:longitude":-86.308838,
@@ -14,19 +14,25 @@
     "lbl:latitude":35.494482,
     "lbl:longitude":-86.303181,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wartrace",
+    "mz:postal_locality_alt":[
+        "Shelbyville",
+        "Bell Buckle"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688701,
-        102086459
+        102086459,
+        85688701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12773867"
     },
     "wof:country":"US",
-    "wof:geomhash":"c2b29bb3c161348a7aa0593f167c0a78",
+    "wof:geomhash":"18bf18147a116197b961f00216eeeec4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554716617,
-    "wof:lastmodified":1480916896,
+    "wof:lastmodified":1611185358,
     "wof:name":"37183",
     "wof:parent_id":102086459,
     "wof:placetype":"postalcode",

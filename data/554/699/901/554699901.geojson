@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002295,
-    "geom:area_square_m":21557983.416369,
+    "geom:area_square_m":21557983.416379,
     "geom:bbox":"-74.441047,40.543835,-74.38616,40.600901",
     "geom:latitude":40.574683,
     "geom:longitude":-74.415178,
@@ -14,21 +14,26 @@
     "lbl:latitude":40.574413,
     "lbl:longitude":-74.4148,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"South Plainfield",
+    "mz:postal_locality_alt":[
+        "Plainfield"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478213,
         85633793,
+        102087417,
+        404478213,
         85975729,
-        102087417
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760670"
     },
     "wof:country":"US",
-    "wof:geomhash":"ad4c92a95941a6640f353bf4ef462255",
+    "wof:geomhash":"a106211557f2d364415da4d051c7aecc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554699901,
-    "wof:lastmodified":1480805176,
+    "wof:lastmodified":1611184601,
     "wof:name":"07080",
     "wof:parent_id":85975729,
     "wof:placetype":"postalcode",

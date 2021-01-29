@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024112,
-    "geom:area_square_m":234595753.978772,
+    "geom:area_square_m":234595753.978663,
     "geom:bbox":"-77.573681,38.018897,-77.308957,38.239007",
     "geom:latitude":38.108847,
     "geom:longitude":-77.446341,
@@ -14,19 +14,25 @@
     "lbl:latitude":38.109182,
     "lbl:longitude":-77.445683,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Woodford",
+    "mz:postal_locality_alt":[
+        "Thornburg",
+        "Bowling Green"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688747,
-        102085943
+        102085943,
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766984"
     },
     "wof:country":"US",
-    "wof:geomhash":"b6f3170b239d1a2d871d8c0782e70958",
+    "wof:geomhash":"a085ecdc9b16e399e308bd579a7fe8c2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554707741,
-    "wof:lastmodified":1480915656,
+    "wof:lastmodified":1611183151,
     "wof:name":"22580",
     "wof:parent_id":102085943,
     "wof:placetype":"postalcode",

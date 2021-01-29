@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.055053,
-    "geom:area_square_m":561692707.827287,
+    "geom:area_square_m":561692707.827912,
     "geom:bbox":"-80.215642,34.235903,-79.935464,34.56854",
     "geom:latitude":34.398861,
     "geom:longitude":-80.077325,
@@ -13,20 +13,25 @@
     "lbl:latitude":34.399975,
     "lbl:longitude":-80.082806,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hartsville",
+    "mz:postal_locality_alt":[
+        "Pawleys Island"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688683,
         102191575,
         85633793,
+        102085743,
         101721311,
-        102085743
+        85688683
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770250"
     },
     "wof:country":"US",
-    "wof:geomhash":"691da0d26b1657e6ff7dbd0a2149eba7",
+    "wof:geomhash":"ff3a6ac4a1ef3dffe8ec90f0242c0952",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554712307,
-    "wof:lastmodified":1480813857,
+    "wof:lastmodified":1611183690,
     "wof:name":"29550",
     "wof:parent_id":101721311,
     "wof:placetype":"postalcode",

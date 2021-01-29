@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000853,
-    "geom:area_square_m":8095231.122935,
+    "geom:area_square_m":8095231.122939,
     "geom:bbox":"-75.139832,39.87261,-75.096482,39.908622",
     "geom:latitude":39.889743,
     "geom:longitude":-75.117682,
@@ -14,21 +14,27 @@
     "lbl:latitude":39.888896,
     "lbl:longitude":-75.118078,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Gloucester City",
+    "mz:postal_locality_alt":[
+        "Brooklawn",
+        "Gloucester Cy"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478003,
         85633793,
+        102081131,
+        404478003,
         85975663,
-        102081131
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761003"
     },
     "wof:country":"US",
-    "wof:geomhash":"b2c36880246ac15f93e786d89fa8ea15",
+    "wof:geomhash":"b0cf62b3ea4e383ed943dbd10a0c2541",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554700355,
-    "wof:lastmodified":1480823435,
+    "wof:lastmodified":1611183178,
     "wof:name":"08030",
     "wof:parent_id":85975663,
     "wof:placetype":"postalcode",

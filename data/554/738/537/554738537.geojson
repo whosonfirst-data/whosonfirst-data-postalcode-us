@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.068637,
-    "geom:area_square_m":651815698.639636,
+    "geom:area_square_m":651815698.639382,
     "geom:bbox":"-98.935762,39.567577,-98.654192,40.002409",
     "geom:latitude":39.824124,
     "geom:longitude":-98.792723,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.819725,
     "lbl:longitude":-98.794227,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Smith Center",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404505089,
         85633793,
-        102084161
+        102084161,
+        404505089,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787062"
     },
     "wof:country":"US",
-    "wof:geomhash":"3defe6252668d1b4bc9bd7e63dc6aae7",
+    "wof:geomhash":"7025ea17f4095a725e23b42e8a219565",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554738537,
-    "wof:lastmodified":1480835117,
+    "wof:lastmodified":1611183110,
     "wof:name":"66967",
     "wof:parent_id":404505089,
     "wof:placetype":"postalcode",

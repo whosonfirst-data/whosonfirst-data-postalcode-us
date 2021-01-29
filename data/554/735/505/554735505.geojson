@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018918,
-    "geom:area_square_m":184743233.877376,
+    "geom:area_square_m":184743233.877315,
     "geom:bbox":"-88.53084,37.746413,-88.346195,37.907535",
     "geom:latitude":37.838238,
     "geom:longitude":-88.441168,
@@ -14,20 +14,25 @@
     "lbl:latitude":37.837843,
     "lbl:longitude":-88.44109,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Eldorado",
+    "mz:postal_locality_alt":[
+        "Jonesboro"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404496961,
         85633793,
-        102082863
+        102082863,
+        404496961,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785459"
     },
     "wof:country":"US",
-    "wof:geomhash":"db47164070822082d8aa5ce0e2af8eea",
+    "wof:geomhash":"a2d8364a37af5d67171d780336e95b18",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554735505,
-    "wof:lastmodified":1480908542,
+    "wof:lastmodified":1611184411,
     "wof:name":"62930",
     "wof:parent_id":404496961,
     "wof:placetype":"postalcode",

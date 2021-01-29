@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037412,
-    "geom:area_square_m":325504542.836708,
+    "geom:area_square_m":325504542.836589,
     "geom:bbox":"-85.40536,45.162228,-85.084335,45.387904",
     "geom:latitude":45.281103,
     "geom:longitude":-85.244529,
@@ -14,20 +14,25 @@
     "lbl:latitude":45.280508,
     "lbl:longitude":-85.245172,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Charlevoix",
+    "mz:postal_locality_alt":[
+        "Ellsworth"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404505829,
         85633793,
-        102083739
+        102083739,
+        404505829,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779504"
     },
     "wof:country":"US",
-    "wof:geomhash":"6a42b1ea994be93a6ea13b0b1c6967a3",
+    "wof:geomhash":"efc5c9682b78ae62a100967e136a6e07",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554782781,
-    "wof:lastmodified":1480841990,
+    "wof:lastmodified":1611183633,
     "wof:name":"49720",
     "wof:parent_id":404505829,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002941,
-    "geom:area_square_m":32778112.207611,
+    "geom:area_square_m":32778112.2076,
     "geom:bbox":"-80.384579,25.62741,-80.331403,25.691901",
     "geom:latitude":25.658635,
     "geom:longitude":-80.358921,
@@ -13,20 +13,25 @@
     "lbl:latitude":25.659873,
     "lbl:longitude":-80.358354,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Miami",
+    "mz:postal_locality_alt":[
+        "Palmetto Bay"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688651,
         102191575,
         85633793,
+        102085771,
         85935905,
-        102085771
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12772185"
     },
     "wof:country":"US",
-    "wof:geomhash":"a4516f83d3a493efd0d7b4b2dc4566bc",
+    "wof:geomhash":"bac56251fc375500e7f9df98b8d2e626",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554781613,
-    "wof:lastmodified":1480806624,
+    "wof:lastmodified":1611184828,
     "wof:name":"33176",
     "wof:parent_id":85935905,
     "wof:placetype":"postalcode",

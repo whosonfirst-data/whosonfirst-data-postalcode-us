@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004957,
-    "geom:area_square_m":53579352.780218,
+    "geom:area_square_m":53579352.780336,
     "geom:bbox":"-95.436137,28.981654,-95.341816,29.113137",
     "geom:latitude":29.049146,
     "geom:longitude":-95.392418,
@@ -14,19 +14,25 @@
     "lbl:latitude":29.046833,
     "lbl:longitude":-95.392183,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Clute",
+    "mz:postal_locality_alt":[
+        "Richwood",
+        "Angleton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688753,
-        102080677
+        102080677,
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12791673"
     },
     "wof:country":"US",
-    "wof:geomhash":"a1c1c6abad0c7bf86bfb4d61ae5f121f",
+    "wof:geomhash":"39148e1c0c7ca7b3fe9f8c4568e93b58",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554746279,
-    "wof:lastmodified":1480906878,
+    "wof:lastmodified":1611184019,
     "wof:name":"77531",
     "wof:parent_id":102080677,
     "wof:placetype":"postalcode",

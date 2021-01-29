@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.065021,
-    "geom:area_square_m":549877775.417234,
+    "geom:area_square_m":549877775.417242,
     "geom:bbox":"-96.455533,46.659139,-96.173128,47.040144",
     "geom:latitude":46.848519,
     "geom:longitude":-96.310251,
@@ -14,20 +14,25 @@
     "lbl:latitude":46.847447,
     "lbl:longitude":-96.312324,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hawley",
+    "mz:postal_locality_alt":[
+        "Kent"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404511063,
         85633793,
-        102087681
+        102087681,
+        404511063,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782555"
     },
     "wof:country":"US",
-    "wof:geomhash":"0b42fa3f600cadcf051a4f71935c3abf",
+    "wof:geomhash":"de75e04b1188aac1ec4a629a743cf926",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554730499,
-    "wof:lastmodified":1480788521,
+    "wof:lastmodified":1611182732,
     "wof:name":"56549",
     "wof:parent_id":404511063,
     "wof:placetype":"postalcode",

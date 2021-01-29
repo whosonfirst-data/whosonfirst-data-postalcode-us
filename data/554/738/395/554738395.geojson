@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034168,
-    "geom:area_square_m":329840510.840831,
+    "geom:area_square_m":329840510.840764,
     "geom:bbox":"-96.35299,38.577491,-96.001795,38.739265",
     "geom:latitude":38.676163,
     "geom:longitude":-96.184524,
@@ -14,20 +14,22 @@
     "lbl:latitude":38.695591,
     "lbl:longitude":-96.195012,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Allen",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404504575,
         85633793,
-        102082661
+        102082661,
+        404504575,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786998"
     },
     "wof:country":"US",
-    "wof:geomhash":"f4bea23bea42f5b34b1609c070ef3a78",
+    "wof:geomhash":"ef8192342bbc6d6984d7153b6e70edb8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554738395,
-    "wof:lastmodified":1480793651,
+    "wof:lastmodified":1611183110,
     "wof:name":"66833",
     "wof:parent_id":404504575,
     "wof:placetype":"postalcode",

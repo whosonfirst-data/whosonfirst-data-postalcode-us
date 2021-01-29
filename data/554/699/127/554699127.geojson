@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008775,
-    "geom:area_square_m":78794489.885385,
+    "geom:area_square_m":78794489.885363,
     "geom:bbox":"-72.87112,43.354144,-72.723995,43.483403",
     "geom:latitude":43.433913,
     "geom:longitude":-72.787339,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.450789,
     "lbl:longitude":-72.757786,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mt Holly",
+    "mz:postal_locality_alt":[
+        "Mount Holly"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688763,
         102191575,
-        404527303,
         85633793,
-        102080771
+        102080771,
+        404527303,
+        85688763
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760095"
     },
     "wof:country":"US",
-    "wof:geomhash":"c60c79980da8b05311ddcc8c5c467a0f",
+    "wof:geomhash":"b0f135821f9832ecfb8be983cfadcd53",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554699127,
-    "wof:lastmodified":1480905329,
+    "wof:lastmodified":1611184614,
     "wof:name":"05758",
     "wof:parent_id":404527303,
     "wof:placetype":"postalcode",

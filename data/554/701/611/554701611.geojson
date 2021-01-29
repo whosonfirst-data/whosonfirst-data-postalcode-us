@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003685,
-    "geom:area_square_m":34103353.644838,
+    "geom:area_square_m":34103353.644773,
     "geom:bbox":"-73.773179,41.501169,-73.703272,41.598296",
     "geom:latitude":41.544531,
     "geom:longitude":-73.735075,
@@ -14,20 +14,26 @@
     "lbl:latitude":41.544301,
     "lbl:longitude":-73.738452,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Stormville",
+    "mz:postal_locality_alt":[
+        "Hopewell Jct",
+        "Hopewell Junction"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522223,
         85633793,
-        102082363
+        102082363,
+        404522223,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762388"
     },
     "wof:country":"US",
-    "wof:geomhash":"0ad56c6e4be8070fdb5410eb861f6d8f",
+    "wof:geomhash":"34c6d5e56161926741737ec91a9bc6aa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554701611,
-    "wof:lastmodified":1480835025,
+    "wof:lastmodified":1611182620,
     "wof:name":"12582",
     "wof:parent_id":404522223,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002806,
-    "geom:area_square_m":25596458.495017,
+    "geom:area_square_m":25596458.49496,
     "geom:bbox":"-92.35948,42.401691,-92.251635,42.495299",
     "geom:latitude":42.457456,
     "geom:longitude":-92.312413,
@@ -13,20 +13,25 @@
     "lbl:latitude":42.461502,
     "lbl:longitude":-92.313745,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Waterloo",
+    "mz:postal_locality_alt":[
+        "Washburn"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688713,
         102191575,
         85633793,
+        102086513,
         85944325,
-        102086513
+        85688713
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12780142"
     },
     "wof:country":"US",
-    "wof:geomhash":"8d3a75a9662c21cb2b4003f705b0f24b",
+    "wof:geomhash":"e616ac639284ee8ed2c91cd4028d47ba",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554726267,
-    "wof:lastmodified":1480915505,
+    "wof:lastmodified":1611184875,
     "wof:name":"50702",
     "wof:parent_id":85944325,
     "wof:placetype":"postalcode",

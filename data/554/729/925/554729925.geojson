@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014801,
-    "geom:area_square_m":132106372.503881,
+    "geom:area_square_m":132106372.503891,
     "geom:bbox":"-96.33209,43.74659,-96.121761,43.84893",
     "geom:latitude":43.795695,
     "geom:longitude":-96.238406,
@@ -14,20 +14,22 @@
     "lbl:latitude":43.795694,
     "lbl:longitude":-96.238401,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hardwick",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404512771,
         85633793,
-        102087013
+        102087013,
+        404512771,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782271"
     },
     "wof:country":"US",
-    "wof:geomhash":"37424fd4ef9f5ec04fa7f74d58bc1508",
+    "wof:geomhash":"cd1ad0e78244f8ba37416fc0bc74cb52",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554729925,
-    "wof:lastmodified":1480784864,
+    "wof:lastmodified":1611185424,
     "wof:name":"56134",
     "wof:parent_id":404512771,
     "wof:placetype":"postalcode",

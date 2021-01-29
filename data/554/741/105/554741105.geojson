@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03753,
-    "geom:area_square_m":392083862.788749,
+    "geom:area_square_m":392083862.788536,
     "geom:bbox":"-93.101202,32.21496,-92.832189,32.490741",
     "geom:latitude":32.340402,
     "geom:longitude":-92.966829,
@@ -14,20 +14,22 @@
     "lbl:latitude":32.347123,
     "lbl:longitude":-92.968651,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bienville",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688735,
         102191575,
         85633793,
+        102085923,
         85947839,
-        102085923
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12788546"
     },
     "wof:country":"US",
-    "wof:geomhash":"85e775ebb63ce5fa11871a38d20ec833",
+    "wof:geomhash":"fa76a91462b91613d64eb6777d365b2e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554741105,
-    "wof:lastmodified":1480814491,
+    "wof:lastmodified":1611184039,
     "wof:name":"71008",
     "wof:parent_id":85947839,
     "wof:placetype":"postalcode",

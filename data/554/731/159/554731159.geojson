@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.068182,
-    "geom:area_square_m":609000033.169773,
+    "geom:area_square_m":609000033.169538,
     "geom:bbox":"-98.625481,43.585094,-98.325284,43.907833",
     "geom:latitude":43.75131,
     "geom:longitude":-98.477505,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.749509,
     "lbl:longitude":-98.472097,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Plankinton",
+    "mz:postal_locality_alt":[
+        "Oacoma"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688693,
         102191575,
-        404489953,
         85633793,
-        102086839
+        102086839,
+        404489953,
+        85688693
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782891"
     },
     "wof:country":"US",
-    "wof:geomhash":"765f081ad6bed6887638cd6b80ba0868",
+    "wof:geomhash":"30116adeea279b44b865465e2028430d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554731159,
-    "wof:lastmodified":1480911705,
+    "wof:lastmodified":1611183056,
     "wof:name":"57368",
     "wof:parent_id":404489953,
     "wof:placetype":"postalcode",

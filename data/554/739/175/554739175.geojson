@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.086937,
-    "geom:area_square_m":828307317.344894,
+    "geom:area_square_m":828307317.344683,
     "geom:bbox":"-100.134026,39.465298,-99.62769,39.741096",
     "geom:latitude":39.599417,
     "geom:longitude":-99.870838,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.590207,
     "lbl:longitude":-99.873738,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lenora",
+    "mz:postal_locality_alt":[
+        "Logan"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404504975,
         85633793,
-        102082667
+        102082667,
+        404504975,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787366"
     },
     "wof:country":"US",
-    "wof:geomhash":"bc76ea71b38d6372ff7607cebc349c16",
+    "wof:geomhash":"bd32312b5e298667bf5fa8fd1f2acc24",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554739175,
-    "wof:lastmodified":1480800138,
+    "wof:lastmodified":1611182664,
     "wof:name":"67645",
     "wof:parent_id":404504975,
     "wof:placetype":"postalcode",

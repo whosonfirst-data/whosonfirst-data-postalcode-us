@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001879,
-    "geom:area_square_m":20126781.432515,
+    "geom:area_square_m":20126781.432495,
     "geom:bbox":"-90.280296,29.965255,-90.222221,30.009584",
     "geom:latitude":29.989266,
     "geom:longitude":-90.25569,
@@ -13,20 +13,25 @@
     "lbl:latitude":29.991693,
     "lbl:longitude":-90.258179,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Kenner",
+    "mz:postal_locality_alt":[
+        "Metairie"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688735,
         102191575,
         85633793,
+        102083179,
         85948293,
-        102083179
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12788131"
     },
     "wof:country":"US",
-    "wof:geomhash":"2e5736ca677ff2fddb6ff90a58827875",
+    "wof:geomhash":"4239f0966eff53ea15a764f9afba6844",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554783529,
-    "wof:lastmodified":1480841655,
+    "wof:lastmodified":1611183888,
     "wof:name":"70062",
     "wof:parent_id":85948293,
     "wof:placetype":"postalcode",

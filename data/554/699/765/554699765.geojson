@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001046,
-    "geom:area_square_m":9821033.305391,
+    "geom:area_square_m":9821033.305389,
     "geom:bbox":"-74.294553,40.567784,-74.244135,40.60229",
     "geom:latitude":40.583359,
     "geom:longitude":-74.270042,
@@ -14,21 +14,27 @@
     "lbl:latitude":40.582316,
     "lbl:longitude":-74.271506,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Avenel",
+    "mz:postal_locality_alt":[
+        "Woodbridge",
+        "Colonia"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478217,
         85633793,
+        102087417,
+        404478217,
         85976297,
-        102087417
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760599"
     },
     "wof:country":"US",
-    "wof:geomhash":"43b1024c7a55494d18ae4fa748be592d",
+    "wof:geomhash":"11f9225cfddb3f2dde4ad9b85d38314d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554699765,
-    "wof:lastmodified":1480805177,
+    "wof:lastmodified":1611184602,
     "wof:name":"07001",
     "wof:parent_id":85976297,
     "wof:placetype":"postalcode",

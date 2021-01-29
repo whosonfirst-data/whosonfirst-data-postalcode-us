@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034788,
-    "geom:area_square_m":355088960.981141,
+    "geom:area_square_m":355088960.981089,
     "geom:bbox":"-83.02611,34.23992,-82.77341,34.486764",
     "geom:latitude":34.362623,
     "geom:longitude":-82.908821,
@@ -14,19 +14,25 @@
     "lbl:latitude":34.363471,
     "lbl:longitude":-82.908806,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hartwell",
+    "mz:postal_locality_alt":[
+        "Watkinsville",
+        "Winder"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688535,
-        102084631
+        102084631,
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770952"
     },
     "wof:country":"US",
-    "wof:geomhash":"45cbdc22cbb719aed415f517fcbf219c",
+    "wof:geomhash":"742f61636fb054039f84428e23d46004",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554713375,
-    "wof:lastmodified":1480806754,
+    "wof:lastmodified":1611183340,
     "wof:name":"30643",
     "wof:parent_id":102084631,
     "wof:placetype":"postalcode",

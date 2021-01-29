@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001401,
-    "geom:area_square_m":13178909.710036,
+    "geom:area_square_m":13178909.710031,
     "geom:bbox":"-79.938306,40.446072,-79.883772,40.491689",
     "geom:latitude":40.472265,
     "geom:longitude":-79.913232,
@@ -13,21 +13,26 @@
     "lbl:latitude":40.472272,
     "lbl:longitude":-79.913156,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pittsburgh",
+    "mz:postal_locality_alt":[
+        "East Liberty"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404482523,
         85633793,
+        102080887,
+        404482523,
         101718805,
-        102080887
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763647"
     },
     "wof:country":"US",
-    "wof:geomhash":"dd822535dec66d239bb954266d0a556d",
+    "wof:geomhash":"a72d738a3747fd2eef6f72279c0d792f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554703535,
-    "wof:lastmodified":1480905387,
+    "wof:lastmodified":1611184450,
     "wof:name":"15206",
     "wof:parent_id":101718805,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002576,
-    "geom:area_square_m":24565701.481111,
+    "geom:area_square_m":24565701.481126,
     "geom:bbox":"-104.925702,39.493114,-104.86731,39.566128",
     "geom:latitude":39.531855,
     "geom:longitude":-104.892073,
@@ -14,20 +14,26 @@
     "lbl:latitude":39.532889,
     "lbl:longitude":-104.89109,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lone Tree",
+    "mz:postal_locality_alt":[
+        "Littleton",
+        "Englewood"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688603,
         102191575,
         85633793,
+        102085225,
         85929257,
-        102085225
+        85688603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12792919"
     },
     "wof:country":"US",
-    "wof:geomhash":"b3c28eaf6263a0b918bb0891dd95cd65",
+    "wof:geomhash":"45b52a55d295f047569038421d6f7aea",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554747963,
-    "wof:lastmodified":1480913399,
+    "wof:lastmodified":1611183450,
     "wof:name":"80124",
     "wof:parent_id":85929257,
     "wof:placetype":"postalcode",

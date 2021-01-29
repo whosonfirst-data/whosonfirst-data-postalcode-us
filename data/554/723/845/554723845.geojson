@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020559,
-    "geom:area_square_m":185693616.639081,
+    "geom:area_square_m":185693616.639069,
     "geom:bbox":"-82.761106,42.986567,-82.63141,43.163998",
     "geom:latitude":43.075401,
     "geom:longitude":-82.696393,
@@ -14,20 +14,26 @@
     "lbl:latitude":43.083019,
     "lbl:longitude":-82.691035,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Avoca",
+    "mz:postal_locality_alt":[
+        "Kenockee",
+        "Greenwood"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404506459,
         85633793,
-        102083053
+        102083053,
+        404506459,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778522"
     },
     "wof:country":"US",
-    "wof:geomhash":"5cccc78b1ee78525dc39b296aec5970e",
+    "wof:geomhash":"66c6f51bafbebb670dfa8d37cb8aa1dc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554723845,
-    "wof:lastmodified":1480842996,
+    "wof:lastmodified":1611183781,
     "wof:name":"48006",
     "wof:parent_id":404506459,
     "wof:placetype":"postalcode",

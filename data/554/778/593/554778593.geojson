@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002002,
-    "geom:area_square_m":18468771.578908,
+    "geom:area_square_m":18468771.578899,
     "geom:bbox":"-71.446616,41.728136,-71.364561,41.768333",
     "geom:latitude":41.747688,
     "geom:longitude":-71.406703,
@@ -13,21 +13,26 @@
     "lbl:latitude":41.747671,
     "lbl:longitude":-71.406118,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Warwick",
+    "mz:postal_locality_alt":[
+        "Newport"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688509,
         102191575,
-        404488313,
         85633793,
+        102081209,
+        404488313,
         101720577,
-        102081209
+        85688509
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759045"
     },
     "wof:country":"US",
-    "wof:geomhash":"4d16f65d597ded11627a37608b28f49a",
+    "wof:geomhash":"6c11b66d5ce3557ae61d09805cbbf5c3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554778593,
-    "wof:lastmodified":1480829723,
+    "wof:lastmodified":1611183424,
     "wof:name":"02888",
     "wof:parent_id":101720577,
     "wof:placetype":"postalcode",

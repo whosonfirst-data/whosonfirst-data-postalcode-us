@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.06352,
-    "geom:area_square_m":626136026.089514,
+    "geom:area_square_m":626136026.089997,
     "geom:bbox":"-96.381146,36.999031,-96.017186,37.301031",
     "geom:latitude":37.138286,
     "geom:longitude":-96.218169,
@@ -14,20 +14,22 @@
     "lbl:latitude":37.137644,
     "lbl:longitude":-96.217607,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Sedan",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404503939,
         85633793,
-        102082701
+        102082701,
+        404503939,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787230"
     },
     "wof:country":"US",
-    "wof:geomhash":"adeb99ae17925647f3344b567e32a4e0",
+    "wof:geomhash":"d72a70424ec2438d5d1625e2c6f58517",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554738879,
-    "wof:lastmodified":1480840499,
+    "wof:lastmodified":1611183115,
     "wof:name":"67361",
     "wof:parent_id":404503939,
     "wof:placetype":"postalcode",

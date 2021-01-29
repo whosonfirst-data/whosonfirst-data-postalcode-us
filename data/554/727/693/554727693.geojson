@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001586,
-    "geom:area_square_m":14322820.583802,
+    "geom:area_square_m":14322820.583812,
     "geom:bbox":"-88.066822,43.067124,-88.005786,43.104225",
     "geom:latitude":43.082412,
     "geom:longitude":-88.035563,
@@ -13,21 +13,27 @@
     "lbl:latitude":43.083208,
     "lbl:longitude":-88.036041,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Milwaukee",
+    "mz:postal_locality_alt":[
+        "Wauwatosa",
+        "Brookfield"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404492091,
         85633793,
+        102081837,
+        404492091,
         101732987,
-        102081837
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12780920"
     },
     "wof:country":"US",
-    "wof:geomhash":"78f2d5504d728fc1529c273a10102f93",
+    "wof:geomhash":"92916648f8144122b24a7283d8ef254c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +46,7 @@
         }
     ],
     "wof:id":554727693,
-    "wof:lastmodified":1480832496,
+    "wof:lastmodified":1611185505,
     "wof:name":"53222",
     "wof:parent_id":101732987,
     "wof:placetype":"postalcode",

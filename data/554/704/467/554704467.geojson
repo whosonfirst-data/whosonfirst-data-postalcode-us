@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027022,
-    "geom:area_square_m":249074000.219722,
+    "geom:area_square_m":249074000.219667,
     "geom:bbox":"-79.575803,41.696144,-79.276555,41.952803",
     "geom:latitude":41.802409,
     "geom:longitude":-79.417647,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.802378,
     "lbl:longitude":-79.417669,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pittsfield",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404487673,
         85633793,
-        102081337
+        102081337,
+        404487673,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764260"
     },
     "wof:country":"US",
-    "wof:geomhash":"bc0d78a869ae1f89018bb0b8c370d304",
+    "wof:geomhash":"9c189d71226ddb09d77cb0f86583e61b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554704467,
-    "wof:lastmodified":1480831463,
+    "wof:lastmodified":1611184515,
     "wof:name":"16340",
     "wof:parent_id":404487673,
     "wof:placetype":"postalcode",

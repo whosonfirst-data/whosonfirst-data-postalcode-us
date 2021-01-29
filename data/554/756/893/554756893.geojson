@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010342,
-    "geom:area_square_m":112252311.840072,
+    "geom:area_square_m":112252311.84023,
     "geom:bbox":"-81.81392,28.56315,-81.657212,28.698178",
     "geom:latitude":28.625871,
     "geom:longitude":-81.730565,
@@ -13,20 +13,25 @@
     "lbl:latitude":28.631016,
     "lbl:longitude":-81.726055,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Minneola",
+    "mz:postal_locality_alt":[
+        "Clermont"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688651,
         102191575,
         85633793,
+        102084775,
         85933433,
-        102084775
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26814998"
     },
     "wof:country":"US",
-    "wof:geomhash":"501bbc67621776997d462677a0a1133e",
+    "wof:geomhash":"48ed514b146448edabfa5ffb98c589c2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554756893,
-    "wof:lastmodified":1480813115,
+    "wof:lastmodified":1611184283,
     "wof:name":"34715",
     "wof:parent_id":85933433,
     "wof:placetype":"postalcode",

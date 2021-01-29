@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038498,
-    "geom:area_square_m":389589267.229459,
+    "geom:area_square_m":389589267.22957,
     "geom:bbox":"-106.276012,34.8976,-105.926572,35.247954",
     "geom:latitude":35.074275,
     "geom:longitude":-106.180136,
@@ -14,19 +14,25 @@
     "lbl:latitude":35.076689,
     "lbl:longitude":-106.182536,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Edgewood",
+    "mz:postal_locality_alt":[
+        "Moriarty",
+        "Tijeras"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688493,
-        102081571
+        102081571,
+        85688493
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12794903"
     },
     "wof:country":"US",
-    "wof:geomhash":"a2cc2a2eca355193898e02982c14daea",
+    "wof:geomhash":"498484f3282e505fb49ca8babd690d5a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554750941,
-    "wof:lastmodified":1480833429,
+    "wof:lastmodified":1611184545,
     "wof:name":"87015",
     "wof:parent_id":102081571,
     "wof:placetype":"postalcode",

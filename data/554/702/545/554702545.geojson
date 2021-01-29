@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019396,
-    "geom:area_square_m":170332116.291423,
+    "geom:area_square_m":170332116.29142,
     "geom:bbox":"-74.917304,44.674454,-74.677484,44.843384",
     "geom:latitude":44.748903,
     "geom:longitude":-74.809513,
@@ -14,20 +14,25 @@
     "lbl:latitude":44.754714,
     "lbl:longitude":-74.810347,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Winthrop",
+    "mz:postal_locality_alt":[
+        "Canton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404523155,
         85633793,
-        102082379
+        102082379,
+        404523155,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762957"
     },
     "wof:country":"US",
-    "wof:geomhash":"bae40508473628025cebbbbbc8095eb2",
+    "wof:geomhash":"629c4959c046b9dd5d73a3ff2c31a360",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554702545,
-    "wof:lastmodified":1480794827,
+    "wof:lastmodified":1611184152,
     "wof:name":"13697",
     "wof:parent_id":404523155,
     "wof:placetype":"postalcode",

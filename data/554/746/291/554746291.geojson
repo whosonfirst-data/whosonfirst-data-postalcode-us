@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012877,
-    "geom:area_square_m":138641971.442657,
+    "geom:area_square_m":138641971.44283,
     "geom:bbox":"-95.173051,29.405211,-94.909608,29.506623",
     "geom:latitude":29.455992,
     "geom:longitude":-95.03174,
@@ -14,20 +14,25 @@
     "lbl:latitude":29.452189,
     "lbl:longitude":-95.027849,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Dickinson",
+    "mz:postal_locality_alt":[
+        "San Leon"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102085003,
         101724247,
-        102085003
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12791680"
     },
     "wof:country":"US",
-    "wof:geomhash":"67d70a6dacdd9753309168ff9706b458",
+    "wof:geomhash":"2c8cceb66d54af75c81fd194706c4734",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554746291,
-    "wof:lastmodified":1480915798,
+    "wof:lastmodified":1611184026,
     "wof:name":"77539",
     "wof:parent_id":101724247,
     "wof:placetype":"postalcode",

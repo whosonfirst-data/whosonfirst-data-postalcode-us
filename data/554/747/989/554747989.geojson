@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01717,
-    "geom:area_square_m":163778416.690674,
+    "geom:area_square_m":163778416.690506,
     "geom:bbox":"-104.785308,39.434398,-104.569374,39.56609",
     "geom:latitude":39.517552,
     "geom:longitude":-104.670978,
@@ -13,19 +13,24 @@
     "lbl:latitude":39.517532,
     "lbl:longitude":-104.670911,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Parker",
+    "mz:postal_locality_alt":[
+        "Castle Rock"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688603,
-        102085225
+        102085225,
+        85688603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12792931"
     },
     "wof:country":"US",
-    "wof:geomhash":"72313336411acba680c5e38453b6795b",
+    "wof:geomhash":"60883761573e5122b00f07abc7f0e8bc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +41,7 @@
         }
     ],
     "wof:id":554747989,
-    "wof:lastmodified":1480913401,
+    "wof:lastmodified":1611183486,
     "wof:name":"80138",
     "wof:parent_id":102085225,
     "wof:placetype":"postalcode",

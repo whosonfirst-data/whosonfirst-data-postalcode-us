@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002405,
-    "geom:area_square_m":26717325.510856,
+    "geom:area_square_m":26717325.51087,
     "geom:bbox":"-80.347565,26.028492,-80.296487,26.087675",
     "geom:latitude":26.059063,
     "geom:longitude":-80.321798,
@@ -13,20 +13,27 @@
     "lbl:latitude":26.060831,
     "lbl:longitude":-80.319086,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fort Lauderdale",
+    "mz:postal_locality_alt":[
+        "Cooper City",
+        "Davie",
+        "Southwest Rnchs"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688651,
         102191575,
         85633793,
+        102084727,
         85932373,
-        102084727
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12772255"
     },
     "wof:country":"US",
-    "wof:geomhash":"7a2fdba90132cdbd7a5a79fa67f6d93e",
+    "wof:geomhash":"a778d0845453bc50c2fce7ee07085665",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +45,7 @@
         }
     ],
     "wof:id":554781695,
-    "wof:lastmodified":1480802318,
+    "wof:lastmodified":1611184819,
     "wof:name":"33330",
     "wof:parent_id":85932373,
     "wof:placetype":"postalcode",

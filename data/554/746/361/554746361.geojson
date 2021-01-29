@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032962,
-    "geom:area_square_m":352252670.240527,
+    "geom:area_square_m":352252670.240494,
     "geom:bbox":"-93.92443,30.113047,-93.688205,30.326114",
     "geom:latitude":30.203264,
     "geom:longitude":-93.805151,
@@ -13,19 +13,25 @@
     "lbl:latitude":30.201442,
     "lbl:longitude":-93.804542,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Orange",
+    "mz:postal_locality_alt":[
+        "Mauriceville",
+        "Deweyville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688753,
-        102081453
+        102081453,
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12791739"
     },
     "wof:country":"US",
-    "wof:geomhash":"5c12410c31123a6035aed2f901396351",
+    "wof:geomhash":"2853600e6e5f70c9923f939d2d318f80",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +42,7 @@
         }
     ],
     "wof:id":554746361,
-    "wof:lastmodified":1480905117,
+    "wof:lastmodified":1611184012,
     "wof:name":"77632",
     "wof:parent_id":102081453,
     "wof:placetype":"postalcode",

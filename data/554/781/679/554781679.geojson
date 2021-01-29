@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002017,
-    "geom:area_square_m":22378057.549403,
+    "geom:area_square_m":22378057.549417,
     "geom:bbox":"-80.298273,26.193585,-80.236031,26.230021",
     "geom:latitude":26.212047,
     "geom:longitude":-80.269629,
@@ -13,20 +13,26 @@
     "lbl:latitude":26.213579,
     "lbl:longitude":-80.270272,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fort Lauderdale",
+    "mz:postal_locality_alt":[
+        "Tamarac",
+        "North Lauderdale"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688651,
         102191575,
         85633793,
+        102084727,
         85932363,
-        102084727
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12772246"
     },
     "wof:country":"US",
-    "wof:geomhash":"e9e9a64f441bb39db6b66a68876bec81",
+    "wof:geomhash":"a16d1f2770271fb3613f028ae88a59cd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554781679,
-    "wof:lastmodified":1480802319,
+    "wof:lastmodified":1611184831,
     "wof:name":"33321",
     "wof:parent_id":85932363,
     "wof:placetype":"postalcode",

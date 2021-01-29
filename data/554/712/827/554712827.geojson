@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04647,
-    "geom:area_square_m":476358570.262476,
+    "geom:area_square_m":476358570.262539,
     "geom:bbox":"-85.421852,33.899212,-85.110436,34.142944",
     "geom:latitude":34.002036,
     "geom:longitude":-85.275017,
@@ -14,20 +14,27 @@
     "lbl:latitude":34.000316,
     "lbl:longitude":-85.276531,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cedartown",
+    "mz:postal_locality_alt":[
+        "Rockmart",
+        "Woodstock",
+        "Hiram"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688535,
         102191575,
         85633793,
+        102081697,
         85936033,
-        102081697
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770600"
     },
     "wof:country":"US",
-    "wof:geomhash":"940758e2144d323c4b89f183025efb7f",
+    "wof:geomhash":"63e6d46fbf98b593f51eb5cbca55aef4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554712827,
-    "wof:lastmodified":1480832125,
+    "wof:lastmodified":1611183696,
     "wof:name":"30125",
     "wof:parent_id":85936033,
     "wof:placetype":"postalcode",

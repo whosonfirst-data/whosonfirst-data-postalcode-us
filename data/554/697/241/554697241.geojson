@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006999,
-    "geom:area_square_m":63923674.002663,
+    "geom:area_square_m":63923674.002676,
     "geom:bbox":"-71.483298,42.340883,-71.36162,42.436937",
     "geom:latitude":42.384728,
     "geom:longitude":-71.423411,
@@ -14,20 +14,26 @@
     "lbl:latitude":42.383367,
     "lbl:longitude":-71.42107,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Sudbury",
+    "mz:postal_locality_alt":[
+        "Southborough",
+        "Marlborough"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476449,
         85633793,
-        102084643
+        102084643,
+        404476449,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758570"
     },
     "wof:country":"US",
-    "wof:geomhash":"3807ee811cdfbf23083ad619aa2dd75d",
+    "wof:geomhash":"37684cbf8a84686ed90569b9937e7a23",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554697241,
-    "wof:lastmodified":1480799920,
+    "wof:lastmodified":1611184655,
     "wof:name":"01776",
     "wof:parent_id":404476449,
     "wof:placetype":"postalcode",

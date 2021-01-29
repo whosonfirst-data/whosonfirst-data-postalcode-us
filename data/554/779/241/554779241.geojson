@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00071,
-    "geom:area_square_m":6788151.741026,
+    "geom:area_square_m":6788151.741028,
     "geom:bbox":"-74.522947,39.309347,-74.485085,39.344886",
     "geom:latitude":39.326831,
     "geom:longitude":-74.504469,
@@ -14,21 +14,26 @@
     "lbl:latitude":39.326385,
     "lbl:longitude":-74.504473,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Margate City",
+    "mz:postal_locality_alt":[
+        "Northfield"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477625,
         85633793,
+        102083869,
+        404477625,
         85975309,
-        102083869
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761154"
     },
     "wof:country":"US",
-    "wof:geomhash":"768260b911721f7c472dd09d6ada3b06",
+    "wof:geomhash":"c08f494b9541a9bb25bb233eb958c1a9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554779241,
-    "wof:lastmodified":1480834718,
+    "wof:lastmodified":1611183980,
     "wof:name":"08402",
     "wof:parent_id":85975309,
     "wof:placetype":"postalcode",

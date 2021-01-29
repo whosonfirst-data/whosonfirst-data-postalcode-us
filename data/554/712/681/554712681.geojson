@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000896,
-    "geom:area_square_m":9204457.106784,
+    "geom:area_square_m":9204457.106803,
     "geom:bbox":"-84.259716,33.785126,-84.217582,33.829248",
     "geom:latitude":33.808197,
     "geom:longitude":-84.238102,
@@ -14,20 +14,25 @@
     "lbl:latitude":33.806929,
     "lbl:longitude":-84.237588,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Clarkston",
+    "mz:postal_locality_alt":[
+        "Suwanee"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688535,
         102191575,
         85633793,
+        102084539,
         85936439,
-        102084539
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770507"
     },
     "wof:country":"US",
-    "wof:geomhash":"ba3e10897ce6768eb0534d1afe3ea636",
+    "wof:geomhash":"a60a6ac5a365c80271108ec91f085ed7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554712681,
-    "wof:lastmodified":1480801591,
+    "wof:lastmodified":1611183697,
     "wof:name":"30021",
     "wof:parent_id":85936439,
     "wof:placetype":"postalcode",

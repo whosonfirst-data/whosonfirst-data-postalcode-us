@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002181,
-    "geom:area_square_m":19885097.441931,
+    "geom:area_square_m":19885097.441929,
     "geom:bbox":"-70.898994,42.47446,-70.8292,42.528795",
     "geom:latitude":42.501746,
     "geom:longitude":-70.858827,
@@ -14,20 +14,26 @@
     "lbl:latitude":42.501835,
     "lbl:longitude":-70.859126,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Marblehead",
+    "mz:postal_locality_alt":[
+        "Danvers",
+        "Gloucester"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
         85633793,
+        102084463,
         85950797,
-        102084463
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758644"
     },
     "wof:country":"US",
-    "wof:geomhash":"d8eaa56d98482e55d6531bc6f2e937a6",
+    "wof:geomhash":"2954faa1f1d5e0d3ae08e149ba1edf08",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554778277,
-    "wof:lastmodified":1480801147,
+    "wof:lastmodified":1611183439,
     "wof:name":"01945",
     "wof:parent_id":85950797,
     "wof:placetype":"postalcode",

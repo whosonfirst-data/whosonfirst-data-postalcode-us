@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006609,
-    "geom:area_square_m":65717628.319921,
+    "geom:area_square_m":65717628.32001,
     "geom:bbox":"-105.721432,36.409682,-105.547196,36.534194",
     "geom:latitude":36.470061,
     "geom:longitude":-105.622852,
@@ -14,19 +14,25 @@
     "lbl:latitude":36.470056,
     "lbl:longitude":-105.622846,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"El Prado",
+    "mz:postal_locality_alt":[
+        "Taos",
+        "Arroyo Seco"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688493,
-        102081181
+        102081181,
+        85688493
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795060"
     },
     "wof:country":"US",
-    "wof:geomhash":"e062825acfc921681779935b6a541aca",
+    "wof:geomhash":"2b50b139ef82e7174ff5772224c56ae1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554765759,
-    "wof:lastmodified":1480831111,
+    "wof:lastmodified":1611182981,
     "wof:name":"87529",
     "wof:parent_id":102081181,
     "wof:placetype":"postalcode",

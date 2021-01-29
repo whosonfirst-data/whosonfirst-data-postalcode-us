@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001961,
-    "geom:area_square_m":18264125.252512,
+    "geom:area_square_m":18264125.252506,
     "geom:bbox":"-75.383109,41.09797,-75.29339,41.139367",
     "geom:latitude":41.118491,
     "geom:longitude":-75.340976,
@@ -14,21 +14,26 @@
     "lbl:latitude":41.122901,
     "lbl:longitude":-75.343996,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mount Pocono",
+    "mz:postal_locality_alt":[
+        "Mt Pocono"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404483775,
         85633793,
+        102080945,
+        404483775,
         101718011,
-        102080945
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765150"
     },
     "wof:country":"US",
-    "wof:geomhash":"2ea7d2cc7d902d7b87d9946788130ba7",
+    "wof:geomhash":"df4592f7dcf4bfe1ec4da621f8f971a7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554705749,
-    "wof:lastmodified":1480906479,
+    "wof:lastmodified":1611184107,
     "wof:name":"18344",
     "wof:parent_id":101718011,
     "wof:placetype":"postalcode",

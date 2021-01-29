@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012295,
-    "geom:area_square_m":140867577.564352,
+    "geom:area_square_m":140867577.564285,
     "geom:bbox":"-159.501137,22.0388,-159.288199,22.154557",
     "geom:latitude":22.092665,
     "geom:longitude":-159.377819,
@@ -14,20 +14,25 @@
     "lbl:latitude":22.093378,
     "lbl:longitude":-159.38519,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Kapaa",
+    "mz:postal_locality_alt":[
+        "Hanalei"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688671,
         102191575,
         85633793,
+        102085457,
         85937511,
-        102085457
+        85688671
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12798291"
     },
     "wof:country":"US",
-    "wof:geomhash":"bc35642237e7fcbfe2c7517339a4a728",
+    "wof:geomhash":"d25c61dd9dbcb6a186af5e90a52d4d82",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554785567,
-    "wof:lastmodified":1480806195,
+    "wof:lastmodified":1611183489,
     "wof:name":"96746",
     "wof:parent_id":85937511,
     "wof:placetype":"postalcode",

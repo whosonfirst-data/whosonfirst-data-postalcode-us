@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005202,
-    "geom:area_square_m":48796373.256042,
+    "geom:area_square_m":48796373.256098,
     "geom:bbox":"-75.015213,40.597091,-74.930416,40.732681",
     "geom:latitude":40.664625,
     "geom:longitude":-74.973829,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.668431,
     "lbl:longitude":-74.968385,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hampton",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477449,
         85633793,
-        102085997
+        102085997,
+        404477449,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761274"
     },
     "wof:country":"US",
-    "wof:geomhash":"58b99f446389f5d3072855d308a0cfd3",
+    "wof:geomhash":"1948d36f4e0babb95d2564b3eb08a400",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554700721,
-    "wof:lastmodified":1480837399,
+    "wof:lastmodified":1611183207,
     "wof:name":"08827",
     "wof:parent_id":404477449,
     "wof:placetype":"postalcode",

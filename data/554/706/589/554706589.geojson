@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0036,
-    "geom:area_square_m":34205601.700113,
+    "geom:area_square_m":34205601.700087,
     "geom:bbox":"-75.732523,39.750506,-75.636657,39.822927",
     "geom:latitude":39.786022,
     "geom:longitude":-75.680905,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.785594,
     "lbl:longitude":-75.68364,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hockessin",
+    "mz:postal_locality_alt":[
+        "Yorklyn"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688611,
         102191575,
         85633793,
+        102083891,
         85931749,
-        102083891
+        85688611
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765745"
     },
     "wof:country":"US",
-    "wof:geomhash":"c7fbcf674796eb3795c4761181fbf332",
+    "wof:geomhash":"58bb79b23475c3236a8ba4d610f9d1cb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554706589,
-    "wof:lastmodified":1480835441,
+    "wof:lastmodified":1611182700,
     "wof:name":"19707",
     "wof:parent_id":85931749,
     "wof:placetype":"postalcode",

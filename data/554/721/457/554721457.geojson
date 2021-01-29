@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010215,
-    "geom:area_square_m":95668780.267155,
+    "geom:area_square_m":95668780.267258,
     "geom:bbox":"-81.346911,40.703879,-81.187487,40.819342",
     "geom:latitude":40.765732,
     "geom:longitude":-81.258943,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.767017,
     "lbl:longitude":-81.265784,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Canton",
+    "mz:postal_locality_alt":[
+        "East Canton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404525805,
         85633793,
-        102083731
+        102083731,
+        404525805,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776944"
     },
     "wof:country":"US",
-    "wof:geomhash":"98b9188a95216f37128684575f5fdb0a",
+    "wof:geomhash":"b1c16c9184095d26576b5fabae36636d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554721457,
-    "wof:lastmodified":1480835410,
+    "wof:lastmodified":1611184975,
     "wof:name":"44730",
     "wof:parent_id":404525805,
     "wof:placetype":"postalcode",

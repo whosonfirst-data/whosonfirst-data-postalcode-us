@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045302,
-    "geom:area_square_m":450189768.802713,
+    "geom:area_square_m":450189768.802577,
     "geom:bbox":"-84.78545,36.42218,-84.332789,36.603444",
     "geom:latitude":36.518437,
     "geom:longitude":-84.578354,
@@ -14,19 +14,25 @@
     "lbl:latitude":36.515692,
     "lbl:longitude":-84.570592,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Oneida",
+    "mz:postal_locality_alt":[
+        "Huntsville",
+        "Pioneer"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688701,
-        102087113
+        102087113,
+        85688701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12774152"
     },
     "wof:country":"US",
-    "wof:geomhash":"2d13d284e946f6b948f7c3ecc9c8cdb9",
+    "wof:geomhash":"8963aa0e0a6a84b4cf05deaf3f026e01",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554717099,
-    "wof:lastmodified":1480915596,
+    "wof:lastmodified":1611185000,
     "wof:name":"37841",
     "wof:parent_id":102087113,
     "wof:placetype":"postalcode",

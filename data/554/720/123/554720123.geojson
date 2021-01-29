@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042434,
-    "geom:area_square_m":415128592.170732,
+    "geom:area_square_m":415128592.170947,
     "geom:bbox":"-86.05996,37.562495,-85.676072,37.814218",
     "geom:latitude":37.704976,
     "geom:longitude":-85.835802,
@@ -13,20 +13,28 @@
     "lbl:latitude":37.703686,
     "lbl:longitude":-85.837111,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Elizabethtown",
+    "mz:postal_locality_alt":[
+        "Columbia",
+        "Burkesville",
+        "Glendale",
+        "Campbellsville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688641,
         102191575,
         85633793,
+        102084595,
         85947283,
-        102084595
+        85688641
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776032"
     },
     "wof:country":"US",
-    "wof:geomhash":"f4afcf7c7170c1355d99731c2ae01a71",
+    "wof:geomhash":"1972302d4b3416a9d88fa856140e622b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +46,7 @@
         }
     ],
     "wof:id":554720123,
-    "wof:lastmodified":1480802030,
+    "wof:lastmodified":1611185485,
     "wof:name":"42701",
     "wof:parent_id":85947283,
     "wof:placetype":"postalcode",

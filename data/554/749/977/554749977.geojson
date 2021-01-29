@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.054275,
-    "geom:area_square_m":500308020.074321,
+    "geom:area_square_m":500308020.074223,
     "geom:bbox":"-111.957431,41.625139,-111.471321,41.999552",
     "geom:latitude":41.800016,
     "geom:longitude":-111.685483,
@@ -14,20 +14,27 @@
     "lbl:latitude":41.717722,
     "lbl:longitude":-111.836493,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Logan",
+    "mz:postal_locality_alt":[
+        "Millville",
+        "Hyrum",
+        "Providence"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688567,
         102191575,
         85633793,
+        102082881,
         101727579,
-        102082881
+        85688567
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12794205"
     },
     "wof:country":"US",
-    "wof:geomhash":"ee07b1ca2c83ccb1af9a15dc2f998e40",
+    "wof:geomhash":"eeaaafc9e698a54db2b513747c766f8f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554749977,
-    "wof:lastmodified":1480916642,
+    "wof:lastmodified":1611183559,
     "wof:name":"84321",
     "wof:parent_id":101727579,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010091,
-    "geom:area_square_m":97398889.29358,
+    "geom:area_square_m":97398889.293603,
     "geom:bbox":"-90.080021,38.642768,-89.874739,38.739849",
     "geom:latitude":38.683355,
     "geom:longitude":-89.981744,
@@ -14,21 +14,26 @@
     "lbl:latitude":38.683215,
     "lbl:longitude":-89.982058,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Collinsville",
+    "mz:postal_locality_alt":[
+        "O Fallon"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404496717,
         85633793,
+        102082849,
+        404496717,
         85940699,
-        102082849
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785011"
     },
     "wof:country":"US",
-    "wof:geomhash":"cad97c22a4ce04aa35849c6007b4fe55",
+    "wof:geomhash":"9a665bce69c6562d52d0b48e9045ce63",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554734713,
-    "wof:lastmodified":1480796994,
+    "wof:lastmodified":1611184189,
     "wof:name":"62234",
     "wof:parent_id":85940699,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.083482,
-    "geom:area_square_m":773693503.421746,
+    "geom:area_square_m":773693503.42169,
     "geom:bbox":"-97.703881,41.308202,-97.156071,41.641919",
     "geom:latitude":41.452554,
     "geom:longitude":-97.40236,
@@ -13,20 +13,25 @@
     "lbl:latitude":41.454137,
     "lbl:longitude":-97.398326,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Columbus",
+    "mz:postal_locality_alt":[
+        "Richland"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688563,
         102191575,
-        404520297,
         85633793,
-        102084277
+        102084277,
+        404520297,
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787733"
     },
     "wof:country":"US",
-    "wof:geomhash":"c8878b8092094b2cb45a3b0e1ea4e8bb",
+    "wof:geomhash":"53df01db8d16cbab685f0222568d9b7e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554739899,
-    "wof:lastmodified":1480838221,
+    "wof:lastmodified":1611182677,
     "wof:name":"68601",
     "wof:parent_id":404520297,
     "wof:placetype":"postalcode",

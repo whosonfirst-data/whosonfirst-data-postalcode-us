@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013895,
-    "geom:area_square_m":120766937.09331,
+    "geom:area_square_m":120766937.093254,
     "geom:bbox":"-93.348189,45.297568,-93.133857,45.385094",
     "geom:latitude":45.34076,
     "geom:longitude":-93.253085,
@@ -14,21 +14,26 @@
     "lbl:latitude":45.34074,
     "lbl:longitude":-93.253313,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cedar",
+    "mz:postal_locality_alt":[
+        "East Bethel"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404511283,
         85633793,
+        102087861,
+        404511283,
         85953399,
-        102087861
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781671"
     },
     "wof:country":"US",
-    "wof:geomhash":"08adf4139d21371a75d91870a4ead86e",
+    "wof:geomhash":"a31c918ebbbd5d9e209b5be6c6e10557",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554728911,
-    "wof:lastmodified":1480785926,
+    "wof:lastmodified":1611185092,
     "wof:name":"55011",
     "wof:parent_id":85953399,
     "wof:placetype":"postalcode",

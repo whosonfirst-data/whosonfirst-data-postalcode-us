@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006608,
-    "geom:area_square_m":62206157.772626,
+    "geom:area_square_m":62206157.772523,
     "geom:bbox":"-75.168091,40.366749,-75.065165,40.487053",
     "geom:latitude":40.424369,
     "geom:longitude":-75.114479,
@@ -14,20 +14,26 @@
     "lbl:latitude":40.422899,
     "lbl:longitude":-75.117839,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pipersville",
+    "mz:postal_locality_alt":[
+        "Plumsteadville",
+        "Bedminster"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404484761,
         85633793,
-        102080987
+        102080987,
+        404484761,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765378"
     },
     "wof:country":"US",
-    "wof:geomhash":"1bfe72ca96f54e561dab961079ebc107",
+    "wof:geomhash":"c7d406370cb3da117a9ca0afde627e43",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554706103,
-    "wof:lastmodified":1480906417,
+    "wof:lastmodified":1611182683,
     "wof:name":"18947",
     "wof:parent_id":404484761,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001768,
-    "geom:area_square_m":16623195.509151,
+    "geom:area_square_m":16623195.509156,
     "geom:bbox":"-74.300822,40.494507,-74.246069,40.544599",
     "geom:latitude":40.520473,
     "geom:longitude":-74.272485,
@@ -13,21 +13,26 @@
     "lbl:latitude":40.520494,
     "lbl:longitude":-74.272943,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Perth Amboy",
+    "mz:postal_locality_alt":[
+        "Hopelawn"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477477,
         85633793,
+        102087417,
+        404477477,
         85975737,
-        102087417
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761296"
     },
     "wof:country":"US",
-    "wof:geomhash":"dd55dcaa9b3ae1f4d994ec9f8f47f6ba",
+    "wof:geomhash":"136ccb22fde5ba99d1132bf03e83cc06",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554700763,
-    "wof:lastmodified":1480830976,
+    "wof:lastmodified":1611183174,
     "wof:name":"08861",
     "wof:parent_id":85975737,
     "wof:placetype":"postalcode",

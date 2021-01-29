@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002229,
-    "geom:area_square_m":23278533.647819,
+    "geom:area_square_m":23278533.647829,
     "geom:bbox":"-90.201268,32.341172,-90.146113,32.400275",
     "geom:latitude":32.372404,
     "geom:longitude":-90.172455,
@@ -13,20 +13,22 @@
     "lbl:latitude":32.372402,
     "lbl:longitude":-90.172455,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Jackson",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688579,
         102191575,
         85633793,
+        102081407,
         85969693,
-        102081407
+        85688579
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12774854"
     },
     "wof:country":"US",
-    "wof:geomhash":"72dfedd05f993085f51e6ed2d34b4676",
+    "wof:geomhash":"240958dd40f4aae185cabb46b51aa9ac",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +40,7 @@
         }
     ],
     "wof:id":554718235,
-    "wof:lastmodified":1480829243,
+    "wof:lastmodified":1611185554,
     "wof:name":"39206",
     "wof:parent_id":85969693,
     "wof:placetype":"postalcode",

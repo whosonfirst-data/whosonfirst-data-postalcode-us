@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018683,
-    "geom:area_square_m":172825426.85121,
+    "geom:area_square_m":172825426.851202,
     "geom:bbox":"-77.239876,41.473753,-77.04012,41.639103",
     "geom:latitude":41.573917,
     "geom:longitude":-77.145149,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.583782,
     "lbl:longitude":-77.138826,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Liberty",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404487447,
         85633793,
-        102080937
+        102080937,
+        404487447,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764529"
     },
     "wof:country":"US",
-    "wof:geomhash":"dd16b1a3089a839a81b9e732d774cf81",
+    "wof:geomhash":"d6aa27b40107ac705067b5e9be1e147b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554704827,
-    "wof:lastmodified":1480904319,
+    "wof:lastmodified":1611184490,
     "wof:name":"16930",
     "wof:parent_id":404487447,
     "wof:placetype":"postalcode",

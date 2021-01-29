@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006804,
-    "geom:area_square_m":63186150.331983,
+    "geom:area_square_m":63186150.331962,
     "geom:bbox":"-84.983002,41.284078,-84.803835,41.355519",
     "geom:latitude":41.318735,
     "geom:longitude":-84.885306,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.323197,
     "lbl:longitude":-84.877756,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"St Joe",
+    "mz:postal_locality_alt":[
+        "Saint Joe"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404501423,
         85633793,
-        102086425
+        102086425,
+        404501423,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777894"
     },
     "wof:country":"US",
-    "wof:geomhash":"9f9563db0f19f6095bc070dd21407b1f",
+    "wof:geomhash":"be2e336e0cf3585f623f63e1637ec863",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554722907,
-    "wof:lastmodified":1480913299,
+    "wof:lastmodified":1611183210,
     "wof:name":"46785",
     "wof:parent_id":404501423,
     "wof:placetype":"postalcode",

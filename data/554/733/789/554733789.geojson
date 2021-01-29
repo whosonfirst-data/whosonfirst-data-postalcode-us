@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005344,
-    "geom:area_square_m":49503255.405252,
+    "geom:area_square_m":49503255.405236,
     "geom:bbox":"-90.396585,41.440309,-90.241076,41.524995",
     "geom:latitude":41.488484,
     "geom:longitude":-90.320966,
@@ -14,20 +14,26 @@
     "lbl:latitude":41.48859,
     "lbl:longitude":-90.32107,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Colona",
+    "mz:postal_locality_alt":[
+        "Green Rock",
+        "Springfield"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404498141,
         85633793,
-        102086205
+        102086205,
+        404498141,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784504"
     },
     "wof:country":"US",
-    "wof:geomhash":"7211b1602b298075b3d73f9ece1700e3",
+    "wof:geomhash":"a47314416ce17d0c9bd7f49440165049",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554733789,
-    "wof:lastmodified":1480912693,
+    "wof:lastmodified":1611184250,
     "wof:name":"61241",
     "wof:parent_id":404498141,
     "wof:placetype":"postalcode",

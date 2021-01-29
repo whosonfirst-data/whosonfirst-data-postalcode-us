@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.34946,
-    "geom:area_square_m":2883319542.730196,
+    "geom:area_square_m":2883319542.73029,
     "geom:bbox":"-93.3586,47.877752,-92.338063,48.481566",
     "geom:latitude":48.143944,
     "geom:longitude":-92.856099,
@@ -14,20 +14,25 @@
     "lbl:latitude":48.13358,
     "lbl:longitude":-92.811922,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Orr",
+    "mz:postal_locality_alt":[
+        "Buyck"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404513401,
         85633793,
-        102087653
+        102087653,
+        404513401,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782066"
     },
     "wof:country":"US",
-    "wof:geomhash":"c626bb51449353ec25ca06d81181f6e8",
+    "wof:geomhash":"38b1ff3883ae66e7d53a780c0dd5e62e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554729529,
-    "wof:lastmodified":1480911795,
+    "wof:lastmodified":1611185423,
     "wof:name":"55771",
     "wof:parent_id":404513401,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01339,
-    "geom:area_square_m":138172539.54415,
+    "geom:area_square_m":138172539.544124,
     "geom:bbox":"-90.581389,33.375542,-90.352919,33.501545",
     "geom:latitude":33.432066,
     "geom:longitude":-90.484837,
@@ -14,19 +14,24 @@
     "lbl:latitude":33.430152,
     "lbl:longitude":-90.484464,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Moorhead",
+    "mz:postal_locality_alt":[
+        "Glen Allan"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688579,
-        102083795
+        102083795,
+        85688579
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12774633"
     },
     "wof:country":"US",
-    "wof:geomhash":"24d1cddb91ca8ab10f4ae4358db9e8a4",
+    "wof:geomhash":"8d482af88a8c1a6b977979dc75f1cb29",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554717895,
-    "wof:lastmodified":1480837345,
+    "wof:lastmodified":1611184998,
     "wof:name":"38761",
     "wof:parent_id":102083795,
     "wof:placetype":"postalcode",

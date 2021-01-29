@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048216,
-    "geom:area_square_m":461870642.049591,
+    "geom:area_square_m":461870642.049391,
     "geom:bbox":"-92.260363,39.036229,-92.009989,39.370514",
     "geom:latitude":39.22241,
     "geom:longitude":-92.125707,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.220638,
     "lbl:longitude":-92.125561,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Centralia",
+    "mz:postal_locality_alt":[
+        "Hallsville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404515407,
         85633793,
-        102086187
+        102086187,
+        404515407,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786401"
     },
     "wof:country":"US",
-    "wof:geomhash":"4e351785687c957083f67ae9665ab43c",
+    "wof:geomhash":"426a35f7929ac5a370e517c4cecba93f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554737231,
-    "wof:lastmodified":1480914437,
+    "wof:lastmodified":1611182856,
     "wof:name":"65240",
     "wof:parent_id":404515407,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004597,
-    "geom:area_square_m":43056903.237806,
+    "geom:area_square_m":43056903.237812,
     "geom:bbox":"-73.046522,40.670883,-72.872892,40.797301",
     "geom:latitude":40.76096,
     "geom:longitude":-72.987072,
@@ -14,21 +14,26 @@
     "lbl:latitude":40.76178,
     "lbl:longitude":-72.987407,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Patchogue",
+    "mz:postal_locality_alt":[
+        "East Patchogue"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404521441,
         85633793,
+        102082395,
+        404521441,
         85979769,
-        102082395
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761957"
     },
     "wof:country":"US",
-    "wof:geomhash":"42110986fb71a24b36d9972ae9fd7912",
+    "wof:geomhash":"ac92ce873741a4fe703c94b8c7273e96",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554779939,
-    "wof:lastmodified":1480794861,
+    "wof:lastmodified":1611183963,
     "wof:name":"11772",
     "wof:parent_id":85979769,
     "wof:placetype":"postalcode",

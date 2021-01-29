@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023271,
-    "geom:area_square_m":208585605.290877,
+    "geom:area_square_m":208585605.290655,
     "geom:bbox":"-117.027014,43.335278,-116.871305,43.680863",
     "geom:latitude":43.540559,
     "geom:longitude":-116.981437,
@@ -14,19 +14,24 @@
     "lbl:latitude":43.595444,
     "lbl:longitude":-116.98562,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Homedale",
+    "mz:postal_locality_alt":[
+        "Meridian"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688657,
-        102086017
+        102086017,
+        85688657
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12793896"
     },
     "wof:country":"US",
-    "wof:geomhash":"e1293c13f90d22c447722a17ba57f822",
+    "wof:geomhash":"2930d884358b82e1268390022e6a8aa9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554749517,
-    "wof:lastmodified":1480911380,
+    "wof:lastmodified":1611183560,
     "wof:name":"83628",
     "wof:parent_id":102086017,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01376,
-    "geom:area_square_m":127809745.09983,
+    "geom:area_square_m":127809745.099772,
     "geom:bbox":"-81.159745,41.242321,-81.00288,41.382496",
     "geom:latitude":41.306531,
     "geom:longitude":-81.07238,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.302963,
     "lbl:longitude":-81.070475,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Garrettsville",
+    "mz:postal_locality_alt":[
+        "Mantua"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404525737,
         85633793,
-        102084819
+        102084819,
+        404525737,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776706"
     },
     "wof:country":"US",
-    "wof:geomhash":"849a34b295237a7e079afca0f8b471dc",
+    "wof:geomhash":"124b9ebea7e7e11b12f98f421e41aaba",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554721071,
-    "wof:lastmodified":1480841913,
+    "wof:lastmodified":1611184951,
     "wof:name":"44231",
     "wof:parent_id":404525737,
     "wof:placetype":"postalcode",

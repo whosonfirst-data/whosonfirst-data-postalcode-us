@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000741,
-    "geom:area_square_m":7440730.073474,
+    "geom:area_square_m":7440730.073486,
     "geom:bbox":"-81.443242,35.705235,-81.39939,35.733196",
     "geom:latitude":35.718005,
     "geom:longitude":-81.41936,
@@ -14,20 +14,25 @@
     "lbl:latitude":35.718004,
     "lbl:longitude":-81.419361,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hildebran",
+    "mz:postal_locality_alt":[
+        "Connellys Spgs"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688773,
         102191575,
         85633793,
+        102080903,
         85980819,
-        102080903
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12769794"
     },
     "wof:country":"US",
-    "wof:geomhash":"7e3cbc71e1bae619cfe293fa626f5dad",
+    "wof:geomhash":"8c736ba3f7ebe051a80e71d1693cf08c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554711601,
-    "wof:lastmodified":1480906191,
+    "wof:lastmodified":1611185338,
     "wof:name":"28637",
     "wof:parent_id":85980819,
     "wof:placetype":"postalcode",

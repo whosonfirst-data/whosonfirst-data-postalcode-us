@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031026,
-    "geom:area_square_m":320348632.598051,
+    "geom:area_square_m":320348632.59802,
     "geom:bbox":"-85.53064,33.253391,-85.262513,33.491151",
     "geom:latitude":33.381826,
     "geom:longitude":-85.386845,
@@ -14,20 +14,25 @@
     "lbl:latitude":33.376324,
     "lbl:longitude":-85.388261,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Woodland",
+    "mz:postal_locality_alt":[
+        "Newell"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688675,
         102191575,
         85633793,
+        102085739,
         85913625,
-        102085739
+        85688675
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12773455"
     },
     "wof:country":"US",
-    "wof:geomhash":"3b1aca3c290972a5157f62691dd4601f",
+    "wof:geomhash":"cba0f9427060d55ebd11c2a6d918ffe5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554715989,
-    "wof:lastmodified":1480832656,
+    "wof:lastmodified":1611183686,
     "wof:name":"36280",
     "wof:parent_id":85913625,
     "wof:placetype":"postalcode",

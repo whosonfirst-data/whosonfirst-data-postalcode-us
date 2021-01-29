@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000086,
-    "geom:area_square_m":806715.501846,
+    "geom:area_square_m":806715.501849,
     "geom:bbox":"-103.838827,40.265995,-103.82015,40.274833",
     "geom:latitude":40.270499,
     "geom:longitude":-103.829654,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.270499,
     "lbl:longitude":-103.829653,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Log Lane Village",
+    "mz:postal_locality_alt":[
+        "Fort Morgan"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688603,
         102191575,
         85633793,
+        102084089,
         85929493,
-        102084089
+        85688603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12793164"
     },
     "wof:country":"US",
-    "wof:geomhash":"83877fe4d690c7e89c5bc811da6189a4",
+    "wof:geomhash":"33d4a8af2c95bc85340ff01db3c60481",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554748281,
-    "wof:lastmodified":1480799797,
+    "wof:lastmodified":1611183830,
     "wof:name":"80705",
     "wof:parent_id":85929493,
     "wof:placetype":"postalcode",

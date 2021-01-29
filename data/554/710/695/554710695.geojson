@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00097,
-    "geom:area_square_m":9711693.237864,
+    "geom:area_square_m":9711693.237868,
     "geom:bbox":"-79.10072,35.889968,-79.063871,35.947214",
     "geom:latitude":35.915853,
     "geom:longitude":-79.081911,
@@ -14,20 +14,25 @@
     "lbl:latitude":35.915782,
     "lbl:longitude":-79.082605,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Carrboro",
+    "mz:postal_locality_alt":[
+        "Chapel Hill"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688773,
         102191575,
         85633793,
+        102087647,
         85980693,
-        102087647
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12769076"
     },
     "wof:country":"US",
-    "wof:geomhash":"8391cafb1ec6e9c21218ea759fedf596",
+    "wof:geomhash":"e3fdb8839c0dc1d63c827b9dcf2cf3e7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554710695,
-    "wof:lastmodified":1480784817,
+    "wof:lastmodified":1611185112,
     "wof:name":"27510",
     "wof:parent_id":85980693,
     "wof:placetype":"postalcode",

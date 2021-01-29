@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007047,
-    "geom:area_square_m":65114193.52613,
+    "geom:area_square_m":65114193.526158,
     "geom:bbox":"-93.529534,41.599763,-93.399424,41.695779",
     "geom:latitude":41.644423,
     "geom:longitude":-93.457922,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.644957,
     "lbl:longitude":-93.45933,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Altoona",
+    "mz:postal_locality_alt":[
+        "Bondurant"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688713,
         102191575,
         85633793,
+        102086603,
         85944133,
-        102086603
+        85688713
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779689"
     },
     "wof:country":"US",
-    "wof:geomhash":"b6dd320250a9816e4d5fbf00d29237f0",
+    "wof:geomhash":"41048f35ec2e2f08273aa0895c51131d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554725419,
-    "wof:lastmodified":1480916306,
+    "wof:lastmodified":1611183275,
     "wof:name":"50009",
     "wof:parent_id":85944133,
     "wof:placetype":"postalcode",

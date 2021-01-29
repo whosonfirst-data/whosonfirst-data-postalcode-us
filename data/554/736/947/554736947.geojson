@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020373,
-    "geom:area_square_m":197158966.108373,
+    "geom:area_square_m":197158966.108146,
     "geom:bbox":"-94.613459,38.406713,-94.455255,38.580235",
     "geom:latitude":38.498853,
     "geom:longitude":-94.544696,
@@ -14,20 +14,22 @@
     "lbl:latitude":38.508095,
     "lbl:longitude":-94.541195,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Drexel",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404515461,
         85633793,
-        102080797
+        102080797,
+        404515461,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786240"
     },
     "wof:country":"US",
-    "wof:geomhash":"df256d6dd956b457d92ec58ebc2cf5d4",
+    "wof:geomhash":"36b9ef8286adc14f5212c35b35feddd2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554736947,
-    "wof:lastmodified":1480905400,
+    "wof:lastmodified":1611183035,
     "wof:name":"64742",
     "wof:parent_id":404515461,
     "wof:placetype":"postalcode",

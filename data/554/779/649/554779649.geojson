@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000301,
-    "geom:area_square_m":2820650.029488,
+    "geom:area_square_m":2820650.029484,
     "geom:bbox":"-73.887731,40.755854,-73.854496,40.771871",
     "geom:latitude":40.763445,
     "geom:longitude":-73.872334,
@@ -14,21 +14,28 @@
     "lbl:latitude":40.763445,
     "lbl:longitude":-73.872334,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"East Elmhurst",
+    "mz:postal_locality_alt":[
+        "Flushing",
+        "Queens",
+        "New York"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404521211,
         85633793,
+        102082361,
+        404521211,
         85977539,
-        102082361
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761786"
     },
     "wof:country":"US",
-    "wof:geomhash":"a311302f9b2f384a18e867323b791826",
+    "wof:geomhash":"43a28eabb4b1ce03ad62698c7342f094",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +48,7 @@
         }
     ],
     "wof:id":554779649,
-    "wof:lastmodified":1480790270,
+    "wof:lastmodified":1611183981,
     "wof:name":"11369",
     "wof:parent_id":85977539,
     "wof:placetype":"postalcode",

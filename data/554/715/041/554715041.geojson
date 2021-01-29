@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010651,
-    "geom:area_square_m":115949233.377465,
+    "geom:area_square_m":115949233.377452,
     "geom:bbox":"-81.657268,28.259217,-81.521194,28.376392",
     "geom:latitude":28.309627,
     "geom:longitude":-81.596673,
@@ -13,20 +13,26 @@
     "lbl:latitude":28.311503,
     "lbl:longitude":-81.595591,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Kissimmee",
+    "mz:postal_locality_alt":[
+        "Celebration",
+        "Reunion"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688651,
         102191575,
         85633793,
+        102085819,
         85935251,
-        102085819
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12772842"
     },
     "wof:country":"US",
-    "wof:geomhash":"3c4d12cd302e3f5f95debb2e7fcca048",
+    "wof:geomhash":"4844555965fc9689101c58e6db2ae1c9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554715041,
-    "wof:lastmodified":1480813116,
+    "wof:lastmodified":1611183644,
     "wof:name":"34747",
     "wof:parent_id":85935251,
     "wof:placetype":"postalcode",

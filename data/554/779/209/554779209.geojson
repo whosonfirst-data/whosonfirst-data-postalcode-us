@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00218,
-    "geom:area_square_m":20835055.831697,
+    "geom:area_square_m":20835055.831704,
     "geom:bbox":"-74.550464,39.356318,-74.485844,39.414679",
     "geom:latitude":39.387644,
     "geom:longitude":-74.514901,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.387525,
     "lbl:longitude":-74.515196,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pleasantville",
+    "mz:postal_locality_alt":[
+        "Absecon"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477611,
         85633793,
-        102083869
+        102083869,
+        404477611,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761098"
     },
     "wof:country":"US",
-    "wof:geomhash":"d11c040e9b0a38d4ad01a755f364de60",
+    "wof:geomhash":"422f1cd47ead500bdf2b035576881871",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554779209,
-    "wof:lastmodified":1480834717,
+    "wof:lastmodified":1611183984,
     "wof:name":"08232",
     "wof:parent_id":404477611,
     "wof:placetype":"postalcode",

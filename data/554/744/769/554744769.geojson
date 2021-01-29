@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002742,
-    "geom:area_square_m":28581447.643069,
+    "geom:area_square_m":28581447.643107,
     "geom:bbox":"-94.889611,32.500918,-94.828234,32.571092",
     "geom:latitude":32.533864,
     "geom:longitude":-94.859892,
@@ -14,20 +14,25 @@
     "lbl:latitude":32.53378,
     "lbl:longitude":-94.86066,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"White Oak",
+    "mz:postal_locality_alt":[
+        "Longview"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102085991,
         101725973,
-        102085991
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12790719"
     },
     "wof:country":"US",
-    "wof:geomhash":"848af450bcc25cbe3d606ffcd6c6bdc1",
+    "wof:geomhash":"6193dc23e2fc38443babdcf20df13bf3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554744769,
-    "wof:lastmodified":1480805215,
+    "wof:lastmodified":1611184733,
     "wof:name":"75693",
     "wof:parent_id":101725973,
     "wof:placetype":"postalcode",

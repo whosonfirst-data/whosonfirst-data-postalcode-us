@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.07144,
-    "geom:area_square_m":766451596.552092,
+    "geom:area_square_m":766451596.551826,
     "geom:bbox":"-91.006743,29.683569,-90.476303,29.922029",
     "geom:latitude":29.814112,
     "geom:longitude":-90.740845,
@@ -13,19 +13,26 @@
     "lbl:latitude":29.808328,
     "lbl:longitude":-90.750268,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Thibodaux",
+    "mz:postal_locality_alt":[
+        "Gray",
+        "Grand Isle",
+        "Houma"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688735,
-        102084879
+        102084879,
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12788223"
     },
     "wof:country":"US",
-    "wof:geomhash":"2dd6a492e3ba1a7d9f41e403c19e35b8",
+    "wof:geomhash":"78ae7930c494225c8b4eecaebf74b8d8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +43,7 @@
         }
     ],
     "wof:id":554740673,
-    "wof:lastmodified":1480832597,
+    "wof:lastmodified":1611183393,
     "wof:name":"70301",
     "wof:parent_id":102084879,
     "wof:placetype":"postalcode",

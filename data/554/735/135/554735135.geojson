@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025959,
-    "geom:area_square_m":247358535.859994,
+    "geom:area_square_m":247358535.859855,
     "geom:bbox":"-89.631686,39.480322,-89.429534,39.692473",
     "geom:latitude":39.589724,
     "geom:longitude":-89.540356,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.586712,
     "lbl:longitude":-89.549853,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pawnee",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404499553,
         85633793,
-        102083527
+        102083527,
+        404499553,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785228"
     },
     "wof:country":"US",
-    "wof:geomhash":"e8530835bbce736f9606c0383f008776",
+    "wof:geomhash":"ca41aa872c556616d22e41dd0713c150",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554735135,
-    "wof:lastmodified":1480903244,
+    "wof:lastmodified":1611184409,
     "wof:name":"62558",
     "wof:parent_id":404499553,
     "wof:placetype":"postalcode",

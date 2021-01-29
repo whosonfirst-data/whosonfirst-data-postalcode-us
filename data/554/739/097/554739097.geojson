@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015761,
-    "geom:area_square_m":153701527.521669,
+    "geom:area_square_m":153701527.521641,
     "geom:bbox":"-98.160723,37.824833,-98.014227,38.043052",
     "geom:latitude":37.938451,
     "geom:longitude":-98.097735,
@@ -14,20 +14,22 @@
     "lbl:latitude":37.933172,
     "lbl:longitude":-98.097399,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Partridge",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404503041,
         85633793,
-        102082171
+        102082171,
+        404503041,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787331"
     },
     "wof:country":"US",
-    "wof:geomhash":"f96c21fed8eae90aed1035c4e6d8f913",
+    "wof:geomhash":"dd1fe8507d9646b7a911a1c1396e4395",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554739097,
-    "wof:lastmodified":1480792192,
+    "wof:lastmodified":1611182660,
     "wof:name":"67566",
     "wof:parent_id":404503041,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.069531,
-    "geom:area_square_m":675616683.567442,
+    "geom:area_square_m":675616683.567359,
     "geom:bbox":"-91.367065,38.058354,-90.838139,38.334868",
     "geom:latitude":38.203743,
     "geom:longitude":-91.084599,
@@ -14,20 +14,22 @@
     "lbl:latitude":38.192428,
     "lbl:longitude":-91.075963,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Sullivan",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404517795,
         85633793,
-        102087487
+        102087487,
+        404517795,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785578"
     },
     "wof:country":"US",
-    "wof:geomhash":"5e6c477431d132964db3c5426d97b41f",
+    "wof:geomhash":"7fbfdba383238964fa12835e2217bc18",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554735729,
-    "wof:lastmodified":1480908853,
+    "wof:lastmodified":1611184444,
     "wof:name":"63080",
     "wof:parent_id":404517795,
     "wof:placetype":"postalcode",

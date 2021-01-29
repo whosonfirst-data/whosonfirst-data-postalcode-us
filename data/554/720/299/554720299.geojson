@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007059,
-    "geom:area_square_m":66759068.073267,
+    "geom:area_square_m":66759068.073296,
     "geom:bbox":"-83.005204,40.075593,-82.78107,40.136336",
     "geom:latitude":40.110658,
     "geom:longitude":-82.891327,
@@ -13,21 +13,28 @@
     "lbl:latitude":40.110443,
     "lbl:longitude":-82.890646,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Westerville",
+    "mz:postal_locality_alt":[
+        "Lewis Center",
+        "Worthington",
+        "New Albany"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404524655,
         85633793,
+        102080969,
+        404524655,
         101712395,
-        102080969
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776138"
     },
     "wof:country":"US",
-    "wof:geomhash":"661ea04c1cb8de754d5f490b3ad9cced",
+    "wof:geomhash":"f032850c077451c3a7bf05e0ee9ba6b4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +47,7 @@
         }
     ],
     "wof:id":554720299,
-    "wof:lastmodified":1480903870,
+    "wof:lastmodified":1611185484,
     "wof:name":"43081",
     "wof:parent_id":101712395,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002261,
-    "geom:area_square_m":21745900.497855,
+    "geom:area_square_m":21745900.497875,
     "geom:bbox":"-77.393259,38.908241,-77.309937,38.953448",
     "geom:latitude":38.933847,
     "geom:longitude":-77.350868,
@@ -13,20 +13,25 @@
     "lbl:latitude":38.934645,
     "lbl:longitude":-77.351702,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Reston",
+    "mz:postal_locality_alt":[
+        "Herndon"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688747,
         102191575,
         85633793,
+        102084863,
         101729785,
-        102084863
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765982"
     },
     "wof:country":"US",
-    "wof:geomhash":"15b12c9602c52de5fb880e7c89b947d6",
+    "wof:geomhash":"2fcc04ea7ea42fb22d245d1359b77634",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554706835,
-    "wof:lastmodified":1480802130,
+    "wof:lastmodified":1611182693,
     "wof:name":"20191",
     "wof:parent_id":101729785,
     "wof:placetype":"postalcode",

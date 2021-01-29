@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034053,
-    "geom:area_square_m":319563489.962387,
+    "geom:area_square_m":319563489.962535,
     "geom:bbox":"-97.368603,40.509706,-97.178822,40.742139",
     "geom:latitude":40.629574,
     "geom:longitude":-97.285313,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.631292,
     "lbl:longitude":-97.28483,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Friend",
+    "mz:postal_locality_alt":[
+        "Henderson"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688563,
         102191575,
-        404520793,
         85633793,
-        102082745
+        102082745,
+        404520793,
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787627"
     },
     "wof:country":"US",
-    "wof:geomhash":"f7945ab3f838b509bdb2baa2c78591d9",
+    "wof:geomhash":"e5543fe7cc8740b0ab238056a3109efc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554739689,
-    "wof:lastmodified":1480834635,
+    "wof:lastmodified":1611182655,
     "wof:name":"68359",
     "wof:parent_id":404520793,
     "wof:placetype":"postalcode",

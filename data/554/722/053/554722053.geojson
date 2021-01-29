@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016451,
-    "geom:area_square_m":157070701.492704,
+    "geom:area_square_m":157070701.492594,
     "geom:bbox":"-82.938905,39.380271,-82.756456,39.528788",
     "geom:latitude":39.453184,
     "geom:longitude":-82.841537,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.459532,
     "lbl:longitude":-82.844762,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Kingston",
+    "mz:postal_locality_alt":[
+        "Hallsville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404526653,
         85633793,
-        102084733
+        102084733,
+        404526653,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777351"
     },
     "wof:country":"US",
-    "wof:geomhash":"e317a744238738251a42b4d220fe6a17",
+    "wof:geomhash":"776e61c3c9c9f0e0f279ebaf9e51505f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554722053,
-    "wof:lastmodified":1480800863,
+    "wof:lastmodified":1611183221,
     "wof:name":"45644",
     "wof:parent_id":404526653,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014209,
-    "geom:area_square_m":128528164.086281,
+    "geom:area_square_m":128528164.086161,
     "geom:bbox":"-89.130987,42.910054,-88.934338,43.060153",
     "geom:latitude":42.984078,
     "geom:longitude":-89.032044,
@@ -14,20 +14,25 @@
     "lbl:latitude":42.984409,
     "lbl:longitude":-89.028839,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cambridge",
+    "mz:postal_locality_alt":[
+        "Evansville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404493303,
         85633793,
-        102081795
+        102081795,
+        404493303,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12780974"
     },
     "wof:country":"US",
-    "wof:geomhash":"d0566c36cdca0e73a48e41f1685e6c79",
+    "wof:geomhash":"3473208f3f66afb89258cbdd4ff8f71c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554727745,
-    "wof:lastmodified":1480833315,
+    "wof:lastmodified":1611185532,
     "wof:name":"53523",
     "wof:parent_id":404493303,
     "wof:placetype":"postalcode",

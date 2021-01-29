@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002863,
-    "geom:area_square_m":30450992.241236,
+    "geom:area_square_m":30450992.241261,
     "geom:bbox":"-96.369605,30.629544,-96.276086,30.691158",
     "geom:latitude":30.661248,
     "geom:longitude":-96.322611,
@@ -13,20 +13,25 @@
     "lbl:latitude":30.661249,
     "lbl:longitude":-96.322614,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bryan",
+    "mz:postal_locality_alt":[
+        "College Station"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102081451,
         101725999,
-        102081451
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12791773"
     },
     "wof:country":"US",
-    "wof:geomhash":"762ea0ab8d2b1a9af647bd95dfca7125",
+    "wof:geomhash":"b045990578c365c18f75708b7521a71a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554746407,
-    "wof:lastmodified":1480817399,
+    "wof:lastmodified":1611184005,
     "wof:name":"77802",
     "wof:parent_id":101725999,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016987,
-    "geom:area_square_m":169900439.20313,
+    "geom:area_square_m":169900439.203363,
     "geom:bbox":"-80.239871,35.894681,-80.109526,36.102735",
     "geom:latitude":36.014718,
     "geom:longitude":-80.178318,
@@ -13,19 +13,24 @@
     "lbl:latitude":36.013158,
     "lbl:longitude":-80.175491,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Winston Salem",
+    "mz:postal_locality_alt":[
+        "Kernersville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688773,
-        102080877
+        102080877,
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12768924"
     },
     "wof:country":"US",
-    "wof:geomhash":"2aff4bac75c26be1573876b27a6b6ba0",
+    "wof:geomhash":"1c5eac2aad8773da9a3d5abbf1dca815",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +41,7 @@
         }
     ],
     "wof:id":554710495,
-    "wof:lastmodified":1480905348,
+    "wof:lastmodified":1611185132,
     "wof:name":"27107",
     "wof:parent_id":102080877,
     "wof:placetype":"postalcode",

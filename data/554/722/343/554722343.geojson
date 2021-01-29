@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019723,
-    "geom:area_square_m":184863401.683614,
+    "geom:area_square_m":184863401.683646,
     "geom:bbox":"-84.475395,40.647367,-84.256044,40.786829",
     "geom:latitude":40.710014,
     "geom:longitude":-84.364029,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.710853,
     "lbl:longitude":-84.365128,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Spencerville",
+    "mz:postal_locality_alt":[
+        "Venedocia"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404524761,
         85633793,
-        102083673
+        102083673,
+        404524761,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777521"
     },
     "wof:country":"US",
-    "wof:geomhash":"4019023b51865f085cdf5ab829cc1eb7",
+    "wof:geomhash":"a08cc08ec2fa22109cb254caa920edce",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554722343,
-    "wof:lastmodified":1480839039,
+    "wof:lastmodified":1611183251,
     "wof:name":"45887",
     "wof:parent_id":404524761,
     "wof:placetype":"postalcode",

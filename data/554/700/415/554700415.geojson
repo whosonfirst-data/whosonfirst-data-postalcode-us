@@ -14,21 +14,27 @@
     "lbl:latitude":40.002615,
     "lbl:longitude":-75.035273,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Palmyra",
+    "mz:postal_locality_alt":[
+        "Cedar Brook",
+        "Winslow"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477871,
         85633793,
+        102087415,
+        404477871,
         85975525,
-        102087415
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761034"
     },
     "wof:country":"US",
-    "wof:geomhash":"09880a1423a4d2a0d2d0115657f0c006",
+    "wof:geomhash":"d66e3bf2d0f405eea29b22770ccac26b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554700415,
-    "wof:lastmodified":1480823437,
+    "wof:lastmodified":1611183182,
     "wof:name":"08065",
     "wof:parent_id":85975525,
     "wof:placetype":"postalcode",

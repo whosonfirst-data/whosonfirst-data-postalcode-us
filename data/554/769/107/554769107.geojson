@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000212,
-    "geom:area_square_m":2195438.063359,
+    "geom:area_square_m":2195438.063358,
     "geom:bbox":"-80.851429,33.026371,-80.834068,33.042329",
     "geom:latitude":33.034143,
     "geom:longitude":-80.842844,
@@ -14,20 +14,22 @@
     "lbl:latitude":33.034143,
     "lbl:longitude":-80.842844,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Charleston",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688683,
         102191575,
         85633793,
+        102085669,
         101721233,
-        102085669
+        85688683
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770222"
     },
     "wof:country":"US",
-    "wof:geomhash":"8a75575f311f9278592f645f0ddd93f0",
+    "wof:geomhash":"c7583393f358de52b234a4ab7b4b15be",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554769107,
-    "wof:lastmodified":1480809807,
+    "wof:lastmodified":1611184317,
     "wof:name":"29493",
     "wof:parent_id":101721233,
     "wof:placetype":"postalcode",

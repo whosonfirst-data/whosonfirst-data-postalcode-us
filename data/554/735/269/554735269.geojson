@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023814,
-    "geom:area_square_m":226952818.500581,
+    "geom:area_square_m":226952818.500518,
     "geom:bbox":"-90.074759,39.521104,-89.813439,39.671626",
     "geom:latitude":39.581429,
     "geom:longitude":-89.939929,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.58352,
     "lbl:longitude":-89.939138,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Waverly",
+    "mz:postal_locality_alt":[
+        "Petersburg"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404496599,
         85633793,
-        102082853
+        102082853,
+        404496599,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785298"
     },
     "wof:country":"US",
-    "wof:geomhash":"922985154dd41a3ca0edd8c073c2910d",
+    "wof:geomhash":"3568795bc81edf7542c1c7fd41b1a43c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554735269,
-    "wof:lastmodified":1480837322,
+    "wof:lastmodified":1611184422,
     "wof:name":"62692",
     "wof:parent_id":404496599,
     "wof:placetype":"postalcode",

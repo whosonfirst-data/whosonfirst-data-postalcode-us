@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025665,
-    "geom:area_square_m":224076807.97259,
+    "geom:area_square_m":224076807.972621,
     "geom:bbox":"-94.400953,44.978838,-94.255651,45.207048",
     "geom:latitude":45.083777,
     "geom:longitude":-94.31909,
@@ -14,21 +14,26 @@
     "lbl:latitude":45.084951,
     "lbl:longitude":-94.317016,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Dassel",
+    "mz:postal_locality_alt":[
+        "Cokato"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404512391,
         85633793,
+        102087663,
+        404512391,
         85968233,
-        102087663
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781809"
     },
     "wof:country":"US",
-    "wof:geomhash":"04b996170372df48ef1b77220b932bfd",
+    "wof:geomhash":"6dece0d4f98af224996a5047d71314ce",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554729163,
-    "wof:lastmodified":1480910377,
+    "wof:lastmodified":1611185427,
     "wof:name":"55325",
     "wof:parent_id":85968233,
     "wof:placetype":"postalcode",

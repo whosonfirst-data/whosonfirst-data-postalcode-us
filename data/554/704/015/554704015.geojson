@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005629,
-    "geom:area_square_m":52851930.591567,
+    "geom:area_square_m":52851930.591583,
     "geom:bbox":"-78.785255,40.551048,-78.647358,40.636175",
     "geom:latitude":40.594892,
     "geom:longitude":-78.720633,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.595071,
     "lbl:longitude":-78.724558,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Carrolltown",
+    "mz:postal_locality_alt":[
+        "Elmora"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485491,
         85633793,
-        102080879
+        102080879,
+        404485491,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763978"
     },
     "wof:country":"US",
-    "wof:geomhash":"615331c8c265245fa21b5cb7a105fb24",
+    "wof:geomhash":"392acc7befeafc7a49dd59653a78248a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554704015,
-    "wof:lastmodified":1480903612,
+    "wof:lastmodified":1611184491,
     "wof:name":"15722",
     "wof:parent_id":404485491,
     "wof:placetype":"postalcode",

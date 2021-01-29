@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009977,
-    "geom:area_square_m":92157850.497089,
+    "geom:area_square_m":92157850.49715,
     "geom:bbox":"-75.604147,41.615728,-75.338791,41.727298",
     "geom:latitude":41.664499,
     "geom:longitude":-75.469749,
@@ -14,20 +14,26 @@
     "lbl:latitude":41.66421,
     "lbl:longitude":-75.492886,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Forest City",
+    "mz:postal_locality_alt":[
+        "Vandling",
+        "Richmondale"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404487257,
         85633793,
-        102081381
+        102081381,
+        404487257,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765181"
     },
     "wof:country":"US",
-    "wof:geomhash":"2c0cd7c4b03a1b815f4a99be79c44192",
+    "wof:geomhash":"f290297df3c84007908823bfca536aad",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554705795,
-    "wof:lastmodified":1480833359,
+    "wof:lastmodified":1611184116,
     "wof:name":"18421",
     "wof:parent_id":404487257,
     "wof:placetype":"postalcode",

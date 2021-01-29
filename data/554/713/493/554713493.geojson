@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020694,
-    "geom:area_square_m":214024716.404062,
+    "geom:area_square_m":214024716.404132,
     "geom:bbox":"-82.681217,33.118881,-82.476357,33.335988",
     "geom:latitude":33.236193,
     "geom:longitude":-82.589151,
@@ -14,20 +14,25 @@
     "lbl:latitude":33.235661,
     "lbl:longitude":-82.589853,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Gibson",
+    "mz:postal_locality_alt":[
+        "Mitchell"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688535,
         102191575,
         85633793,
+        102082949,
         85935983,
-        102082949
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12771018"
     },
     "wof:country":"US",
-    "wof:geomhash":"bd261a0c8e8b1cb2e40f397a480432ac",
+    "wof:geomhash":"7757c4111a8dd78ad77002ae3e9c9601",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554713493,
-    "wof:lastmodified":1480817713,
+    "wof:lastmodified":1611183328,
     "wof:name":"30810",
     "wof:parent_id":85935983,
     "wof:placetype":"postalcode",

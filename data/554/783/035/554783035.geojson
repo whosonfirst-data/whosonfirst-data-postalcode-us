@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010009,
-    "geom:area_square_m":87332910.059385,
+    "geom:area_square_m":87332910.059304,
     "geom:bbox":"-87.377551,45.062499,-87.15215,45.211735",
     "geom:latitude":45.12112,
     "geom:longitude":-87.228615,
@@ -14,20 +14,25 @@
     "lbl:latitude":45.109775,
     "lbl:longitude":-87.209029,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fish Creek",
+    "mz:postal_locality_alt":[
+        "Ephraim"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404492649,
         85633793,
-        102081831
+        102081831,
+        404492649,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781246"
     },
     "wof:country":"US",
-    "wof:geomhash":"166494229634231e4df99d35796930d0",
+    "wof:geomhash":"80ba1d926c732ef61dd54b7c505b2bd7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554783035,
-    "wof:lastmodified":1480817149,
+    "wof:lastmodified":1611183900,
     "wof:name":"54212",
     "wof:parent_id":404492649,
     "wof:placetype":"postalcode",

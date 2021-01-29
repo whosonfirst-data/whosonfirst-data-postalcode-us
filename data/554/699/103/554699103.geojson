@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014501,
-    "geom:area_square_m":129999887.306246,
+    "geom:area_square_m":129999887.306229,
     "geom:bbox":"-72.93382,43.477862,-72.770286,43.579375",
     "geom:latitude":43.529515,
     "geom:longitude":-72.855625,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.523441,
     "lbl:longitude":-72.860171,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cuttingsville",
+    "mz:postal_locality_alt":[
+        "Mt Holly"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688763,
         102191575,
-        404527063,
         85633793,
-        102080771
+        102080771,
+        404527063,
+        85688763
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760080"
     },
     "wof:country":"US",
-    "wof:geomhash":"b70efc44a26929f1fe8ddd9712597244",
+    "wof:geomhash":"7279e7e027ce4391f4ca93e18321c05d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554699103,
-    "wof:lastmodified":1480905332,
+    "wof:lastmodified":1611184600,
     "wof:name":"05738",
     "wof:parent_id":404527063,
     "wof:placetype":"postalcode",

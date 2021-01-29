@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005321,
-    "geom:area_square_m":51388030.060842,
+    "geom:area_square_m":51388030.060809,
     "geom:bbox":"-90.585654,38.607815,-90.48082,38.695381",
     "geom:latitude":38.651012,
     "geom:longitude":-90.536419,
@@ -13,21 +13,26 @@
     "lbl:latitude":38.651309,
     "lbl:longitude":-90.531216,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Chesterfield",
+    "mz:postal_locality_alt":[
+        "Ballwin"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404517241,
         85633793,
+        102086173,
+        404517241,
         85972357,
-        102086173
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785530"
     },
     "wof:country":"US",
-    "wof:geomhash":"4ec9a8537eae02215ea9835382f2debd",
+    "wof:geomhash":"a0f85ca0e85e04a09fc0a69f4349151e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554735643,
-    "wof:lastmodified":1480914492,
+    "wof:lastmodified":1611184414,
     "wof:name":"63017",
     "wof:parent_id":85972357,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001353,
-    "geom:area_square_m":13750243.01022,
+    "geom:area_square_m":13750243.010206,
     "geom:bbox":"-86.661071,34.726059,-86.596408,34.77164",
     "geom:latitude":34.740226,
     "geom:longitude":-86.63038,
@@ -13,20 +13,22 @@
     "lbl:latitude":34.739954,
     "lbl:longitude":-86.630751,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Huntsville",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688675,
         102191575,
         85633793,
+        102085487,
         85913601,
-        102085487
+        85688675
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12773270"
     },
     "wof:country":"US",
-    "wof:geomhash":"c346cd44b4fbf44aae418d78cc36d5ff",
+    "wof:geomhash":"e01769aee5797f737362485f110c7edf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +40,7 @@
         }
     ],
     "wof:id":554715681,
-    "wof:lastmodified":1480809144,
+    "wof:lastmodified":1611183643,
     "wof:name":"35816",
     "wof:parent_id":85913601,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013648,
-    "geom:area_square_m":123170963.80591,
+    "geom:area_square_m":123170963.80589,
     "geom:bbox":"-71.213246,43.064305,-71.026688,43.19825",
     "geom:latitude":43.124616,
     "geom:longitude":-71.120787,
@@ -14,20 +14,22 @@
     "lbl:latitude":43.129847,
     "lbl:longitude":-71.131859,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Nottingham",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688689,
         102191575,
-        404476717,
         85633793,
-        102086507
+        102086507,
+        404476717,
+        85688689
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759181"
     },
     "wof:country":"US",
-    "wof:geomhash":"b2cb26ab18b040a99707651fe9f04b8f",
+    "wof:geomhash":"954e4bb1fdd750f5a511673e74072491",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554697843,
-    "wof:lastmodified":1480916573,
+    "wof:lastmodified":1611184642,
     "wof:name":"03290",
     "wof:parent_id":404476717,
     "wof:placetype":"postalcode",

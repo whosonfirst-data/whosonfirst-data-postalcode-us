@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002865,
-    "geom:area_square_m":29511175.234401,
+    "geom:area_square_m":29511175.23445,
     "geom:bbox":"-84.362918,33.552472,-84.291117,33.622538",
     "geom:latitude":33.584866,
     "geom:longitude":-84.329234,
@@ -13,20 +13,25 @@
     "lbl:latitude":33.584687,
     "lbl:longitude":-84.327348,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Morrow",
+    "mz:postal_locality_alt":[
+        "Lake City"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688535,
         102191575,
         85633793,
+        102082333,
         85936955,
-        102082333
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770685"
     },
     "wof:country":"US",
-    "wof:geomhash":"3ed4145d4eb4ba87af33a764bb6d773b",
+    "wof:geomhash":"2b68df849f1f963edf22b890c6a1c237",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554712977,
-    "wof:lastmodified":1480793847,
+    "wof:lastmodified":1611183709,
     "wof:name":"30260",
     "wof:parent_id":85936955,
     "wof:placetype":"postalcode",

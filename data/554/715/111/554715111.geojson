@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004764,
-    "geom:area_square_m":49172645.39445,
+    "geom:area_square_m":49172645.394427,
     "geom:bbox":"-87.00111,33.347226,-86.8955,33.458104",
     "geom:latitude":33.402617,
     "geom:longitude":-86.951402,
@@ -13,20 +13,26 @@
     "lbl:latitude":33.402429,
     "lbl:longitude":-86.951784,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bessemer",
+    "mz:postal_locality_alt":[
+        "Brighton",
+        "Birmingham"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688675,
         102191575,
         85633793,
+        102085481,
         85914885,
-        102085481
+        85688675
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12772909"
     },
     "wof:country":"US",
-    "wof:geomhash":"415a77d508ac03888e55a6385e99e6cc",
+    "wof:geomhash":"8e8dbe93d5a1b5ba7b23db4411de8e08",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554715111,
-    "wof:lastmodified":1480808052,
+    "wof:lastmodified":1611183659,
     "wof:name":"35020",
     "wof:parent_id":85914885,
     "wof:placetype":"postalcode",

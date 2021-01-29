@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010999,
-    "geom:area_square_m":96923651.485023,
+    "geom:area_square_m":96923651.485018,
     "geom:bbox":"-73.324158,44.486959,-73.097327,44.614145",
     "geom:latitude":44.548545,
     "geom:longitude":-73.185255,
@@ -13,20 +13,26 @@
     "lbl:latitude":44.541259,
     "lbl:longitude":-73.184415,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Colchester",
+    "mz:postal_locality_alt":[
+        "Swanton",
+        "Burlington"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688763,
         102191575,
-        404527583,
         85633793,
-        102087451
+        102087451,
+        404527583,
+        85688763
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759980"
     },
     "wof:country":"US",
-    "wof:geomhash":"c0bc8679cc0c9e904b39042b1e132d93",
+    "wof:geomhash":"7a241277bfe32e434ef7a642dc1f52d1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554698949,
-    "wof:lastmodified":1480782816,
+    "wof:lastmodified":1611184689,
     "wof:name":"05446",
     "wof:parent_id":404527583,
     "wof:placetype":"postalcode",

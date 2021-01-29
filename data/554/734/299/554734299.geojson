@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018538,
-    "geom:area_square_m":174742652.153166,
+    "geom:area_square_m":174742652.153083,
     "geom:bbox":"-89.264441,40.243509,-89.072576,40.399448",
     "geom:latitude":40.330332,
     "geom:longitude":-89.169151,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.333755,
     "lbl:longitude":-89.181944,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mc Lean",
+    "mz:postal_locality_alt":[
+        "Congerville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404496685,
         85633793,
-        102087573
+        102087573,
+        404496685,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784795"
     },
     "wof:country":"US",
-    "wof:geomhash":"d82a63726bb37a000704912253c22611",
+    "wof:geomhash":"7975c05f4bf955efa6a380b0fe49c817",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554734299,
-    "wof:lastmodified":1480839384,
+    "wof:lastmodified":1611184205,
     "wof:name":"61754",
     "wof:parent_id":404496685,
     "wof:placetype":"postalcode",

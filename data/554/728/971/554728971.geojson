@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014103,
-    "geom:area_square_m":124492802.466611,
+    "geom:area_square_m":124492802.466488,
     "geom:bbox":"-93.506592,44.3705,-93.342148,44.529438",
     "geom:latitude":44.448634,
     "geom:longitude":-93.418963,
@@ -14,20 +14,22 @@
     "lbl:latitude":44.441784,
     "lbl:longitude":-93.424674,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lonsdale",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404515177,
         85633793,
-        102087623
+        102087623,
+        404515177,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781699"
     },
     "wof:country":"US",
-    "wof:geomhash":"99957cfce2a4c308714108670947dce9",
+    "wof:geomhash":"dfae17d3df7b9634d41b9794d6128a02",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554728971,
-    "wof:lastmodified":1480783273,
+    "wof:lastmodified":1611185069,
     "wof:name":"55046",
     "wof:parent_id":404515177,
     "wof:placetype":"postalcode",

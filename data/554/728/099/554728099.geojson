@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019033,
-    "geom:area_square_m":168758384.195837,
+    "geom:area_square_m":168758384.195889,
     "geom:bbox":"-88.183823,44.080919,-87.99825,44.270257",
     "geom:latitude":44.188314,
     "geom:longitude":-88.075375,
@@ -14,20 +14,26 @@
     "lbl:latitude":44.187689,
     "lbl:longitude":-88.075127,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Brillion",
+    "mz:postal_locality_alt":[
+        "Forest Junction",
+        "Seymour"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404492897,
         85633793,
-        102081289
+        102081289,
+        404492897,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781186"
     },
     "wof:country":"US",
-    "wof:geomhash":"b4d694fe4706f9bae6facfdd6fb8ddc7",
+    "wof:geomhash":"7e6103a481c829af68ec64a2bbb2fe30",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554728099,
-    "wof:lastmodified":1480833823,
+    "wof:lastmodified":1611185062,
     "wof:name":"54110",
     "wof:parent_id":404492897,
     "wof:placetype":"postalcode",

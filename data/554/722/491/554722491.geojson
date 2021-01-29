@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033976,
-    "geom:area_square_m":324307719.572779,
+    "geom:area_square_m":324307719.572657,
     "geom:bbox":"-86.187184,39.37269,-85.899238,39.594158",
     "geom:latitude":39.472144,
     "geom:longitude":-86.043086,
@@ -14,21 +14,28 @@
     "lbl:latitude":39.473489,
     "lbl:longitude":-86.043592,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Franklin",
+    "mz:postal_locality_alt":[
+        "Morristown",
+        "Whiteland",
+        "Greenwood"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404500925,
         85633793,
+        102086239,
+        404500925,
         85942281,
-        102086239
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777607"
     },
     "wof:country":"US",
-    "wof:geomhash":"f9f1c7390ee232474041375fbbbedd7b",
+    "wof:geomhash":"2d576456aeca72b6553ed7f63472d665",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +48,7 @@
         }
     ],
     "wof:id":554722491,
-    "wof:lastmodified":1480908879,
+    "wof:lastmodified":1611183224,
     "wof:name":"46131",
     "wof:parent_id":85942281,
     "wof:placetype":"postalcode",

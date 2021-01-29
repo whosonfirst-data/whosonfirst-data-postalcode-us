@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02164,
-    "geom:area_square_m":204953401.401876,
+    "geom:area_square_m":204953401.401968,
     "geom:bbox":"-82.771881,39.913973,-82.571964,40.103667",
     "geom:latitude":40.00755,
     "geom:longitude":-82.682812,
@@ -14,21 +14,28 @@
     "lbl:latitude":40.007078,
     "lbl:longitude":-82.682268,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pataskala",
+    "mz:postal_locality_alt":[
+        "Summit Station",
+        "Reynoldsburg",
+        "Utica"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404525251,
         85633793,
+        102084761,
+        404525251,
         101713461,
-        102084761
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776123"
     },
     "wof:country":"US",
-    "wof:geomhash":"69d0b0662c2bdc4ff00e3521a5fe7ed0",
+    "wof:geomhash":"ff1256bb6b1720537d1156601821f05d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +48,7 @@
         }
     ],
     "wof:id":554720273,
-    "wof:lastmodified":1480903874,
+    "wof:lastmodified":1611185453,
     "wof:name":"43062",
     "wof:parent_id":101713461,
     "wof:placetype":"postalcode",

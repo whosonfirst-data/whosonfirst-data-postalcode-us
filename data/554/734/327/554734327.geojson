@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011854,
-    "geom:area_square_m":111577629.379822,
+    "geom:area_square_m":111577629.379827,
     "geom:bbox":"-89.26618,40.361868,-89.11397,40.487071",
     "geom:latitude":40.430684,
     "geom:longitude":-89.203942,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.430678,
     "lbl:longitude":-89.203945,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Stanford",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404496669,
         85633793,
-        102087573
+        102087573,
+        404496669,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784808"
     },
     "wof:country":"US",
-    "wof:geomhash":"c8027db87a7c5bb4640269d4905c2848",
+    "wof:geomhash":"6cc5a82804d6c60d316172fd61669b21",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554734327,
-    "wof:lastmodified":1480839386,
+    "wof:lastmodified":1611184205,
     "wof:name":"61774",
     "wof:parent_id":404496669,
     "wof:placetype":"postalcode",

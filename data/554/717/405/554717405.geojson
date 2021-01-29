@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033907,
-    "geom:area_square_m":337638491.720842,
+    "geom:area_square_m":337638491.720838,
     "geom:bbox":"-88.956614,36.264657,-88.706753,36.502729",
     "geom:latitude":36.3595,
     "geom:longitude":-88.83436,
@@ -13,20 +13,25 @@
     "lbl:latitude":36.358391,
     "lbl:longitude":-88.837992,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Martin",
+    "mz:postal_locality_alt":[
+        "Dresden"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688701,
         102191575,
         85633793,
+        102087029,
         101722467,
-        102087029
+        85688701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12774368"
     },
     "wof:country":"US",
-    "wof:geomhash":"90a4a723366737f48ec28a4906049449",
+    "wof:geomhash":"c50aedccca14f7debce77eecccff1d5e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554717405,
-    "wof:lastmodified":1480913167,
+    "wof:lastmodified":1611185031,
     "wof:name":"38237",
     "wof:parent_id":101722467,
     "wof:placetype":"postalcode",

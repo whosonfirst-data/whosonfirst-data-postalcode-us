@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.123198,
-    "geom:area_square_m":1037311951.430504,
+    "geom:area_square_m":1037311951.430163,
     "geom:bbox":"-104.047147,46.685772,-103.666723,47.330249",
     "geom:latitude":47.083076,
     "geom:longitude":-103.9282,
@@ -14,20 +14,22 @@
     "lbl:latitude":47.088368,
     "lbl:longitude":-103.930449,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Beach",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688525,
         102191575,
-        404481147,
         85633793,
-        102082053
+        102082053,
+        404481147,
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12783413"
     },
     "wof:country":"US",
-    "wof:geomhash":"01f4f843fcebc55b9fc14fede30ca18f",
+    "wof:geomhash":"10557e610a6234faf5484f5d41bac877",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554732175,
-    "wof:lastmodified":1480823239,
+    "wof:lastmodified":1611184383,
     "wof:name":"58621",
     "wof:parent_id":404481147,
     "wof:placetype":"postalcode",

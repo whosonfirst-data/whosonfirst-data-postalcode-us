@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.086139,
-    "geom:area_square_m":714305040.063132,
+    "geom:area_square_m":714305040.063048,
     "geom:bbox":"-102.385758,47.701752,-101.93631,48.095544",
     "geom:latitude":47.884411,
     "geom:longitude":-102.157886,
@@ -14,20 +14,22 @@
     "lbl:latitude":47.884344,
     "lbl:longitude":-102.169646,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Parshall",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688525,
         102191575,
-        404479535,
         85633793,
-        102082569
+        102082569,
+        404479535,
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12783486"
     },
     "wof:country":"US",
-    "wof:geomhash":"65bc08c651bc68f838dbf20f7bbccb74",
+    "wof:geomhash":"fd5322a3d318da784dde16c02def8f2c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554732333,
-    "wof:lastmodified":1480823327,
+    "wof:lastmodified":1611184391,
     "wof:name":"58770",
     "wof:parent_id":404479535,
     "wof:placetype":"postalcode",

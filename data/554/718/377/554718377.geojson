@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034198,
-    "geom:area_square_m":359181305.033256,
+    "geom:area_square_m":359181305.033214,
     "geom:bbox":"-89.159137,31.733889,-88.85395,31.96578",
     "geom:latitude":31.854862,
     "geom:longitude":-89.012439,
@@ -14,19 +14,24 @@
     "lbl:latitude":31.849171,
     "lbl:longitude":-89.013986,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Heidelberg",
+    "mz:postal_locality_alt":[
+        "Laurel"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688579,
-        102083791
+        102083791,
+        85688579
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12774939"
     },
     "wof:country":"US",
-    "wof:geomhash":"e5fa6dc54cd2f6d4faa262af39f1879c",
+    "wof:geomhash":"5e75070043a82d8028c1689cdcf51e69",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554718377,
-    "wof:lastmodified":1480839225,
+    "wof:lastmodified":1611185560,
     "wof:name":"39439",
     "wof:parent_id":102083791,
     "wof:placetype":"postalcode",

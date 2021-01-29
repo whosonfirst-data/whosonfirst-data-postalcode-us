@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014436,
-    "geom:area_square_m":118724815.075141,
+    "geom:area_square_m":118724815.075175,
     "geom:bbox":"-101.166169,48.225287,-101.014021,48.371548",
     "geom:latitude":48.308962,
     "geom:longitude":-101.090652,
@@ -14,20 +14,22 @@
     "lbl:latitude":48.307789,
     "lbl:longitude":-101.089369,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Surrey",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688525,
         102191575,
-        404479995,
         85633793,
-        102082117
+        102082117,
+        404479995,
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12783498"
     },
     "wof:country":"US",
-    "wof:geomhash":"e64020b1eba574d2612836a164ab3e19",
+    "wof:geomhash":"7d6a63db912e4b0eafdfc7cf1f9f2919",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554732359,
-    "wof:lastmodified":1480794176,
+    "wof:lastmodified":1611184386,
     "wof:name":"58785",
     "wof:parent_id":404479995,
     "wof:placetype":"postalcode",

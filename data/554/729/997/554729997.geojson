@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03532,
-    "geom:area_square_m":314113312.75347,
+    "geom:area_square_m":314113312.753663,
     "geom:bbox":"-95.904962,43.89187,-95.6226,44.148978",
     "geom:latitude":44.008953,
     "geom:longitude":-95.770793,
@@ -14,20 +14,26 @@
     "lbl:latitude":44.014163,
     "lbl:longitude":-95.775514,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Slayton",
+    "mz:postal_locality_alt":[
+        "Luverne",
+        "Lake Wilson"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404513323,
         85633793,
-        102087879
+        102087879,
+        404513323,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782305"
     },
     "wof:country":"US",
-    "wof:geomhash":"722c2206225cc12514c6956f4e313984",
+    "wof:geomhash":"6b96f1da58e912154682ff811b7656e0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554729997,
-    "wof:lastmodified":1480783323,
+    "wof:lastmodified":1611185408,
     "wof:name":"56172",
     "wof:parent_id":404513323,
     "wof:placetype":"postalcode",

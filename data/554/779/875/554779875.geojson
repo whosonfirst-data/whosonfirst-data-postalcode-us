@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004586,
-    "geom:area_square_m":42836580.239415,
+    "geom:area_square_m":42836580.239377,
     "geom:bbox":"-73.162945,40.883193,-73.069224,40.980434",
     "geom:latitude":40.942619,
     "geom:longitude":-73.111567,
@@ -14,21 +14,28 @@
     "lbl:latitude":40.940235,
     "lbl:longitude":-73.11278,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"East Setauket",
+    "mz:postal_locality_alt":[
+        "Setauket",
+        "Stony Brook",
+        "Setauket-East Setauket"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404521441,
         85633793,
+        102082395,
+        404521441,
         85979927,
-        102082395
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761923"
     },
     "wof:country":"US",
-    "wof:geomhash":"d8a2cc3968ff1db8a24c7ab14f7b28c0",
+    "wof:geomhash":"50b275335eb09c1b7c5de90d7a3b4af6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +48,7 @@
         }
     ],
     "wof:id":554779875,
-    "wof:lastmodified":1480794863,
+    "wof:lastmodified":1611183968,
     "wof:name":"11733",
     "wof:parent_id":85979927,
     "wof:placetype":"postalcode",

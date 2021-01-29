@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003243,
-    "geom:area_square_m":33245873.449391,
+    "geom:area_square_m":33245873.449398,
     "geom:bbox":"-118.015738,33.972812,-117.93063,34.031783",
     "geom:latitude":33.999287,
     "geom:longitude":-117.973184,
@@ -14,20 +14,26 @@
     "lbl:latitude":33.999005,
     "lbl:longitude":-117.972146,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hacienda Heights",
+    "mz:postal_locality_alt":[
+        "City Of Industry",
+        "La Puente"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086957,
         85928341,
-        102086957
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796107"
     },
     "wof:country":"US",
-    "wof:geomhash":"16dab52c23b876ca5a3ad195deab61c0",
+    "wof:geomhash":"8462bd4997225c3aab56f08c89703703",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554752063,
-    "wof:lastmodified":1480912609,
+    "wof:lastmodified":1611182527,
     "wof:name":"91745",
     "wof:parent_id":85928341,
     "wof:placetype":"postalcode",

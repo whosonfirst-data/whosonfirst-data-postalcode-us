@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019247,
-    "geom:area_square_m":198393600.203519,
+    "geom:area_square_m":198393600.203214,
     "geom:bbox":"-81.285921,33.452872,-80.996843,33.595755",
     "geom:latitude":33.528674,
     "geom:longitude":-81.123871,
@@ -14,20 +14,25 @@
     "lbl:latitude":33.529824,
     "lbl:longitude":-81.124331,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Neeses",
+    "mz:postal_locality_alt":[
+        "Livingston"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688683,
         102191575,
         85633793,
+        102085413,
         101720851,
-        102085413
+        85688683
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770011"
     },
     "wof:country":"US",
-    "wof:geomhash":"1e4eb1435a3a46137b37e513e7b557ce",
+    "wof:geomhash":"a047a415ea521f0dc88561bd75a6c9b0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554711973,
-    "wof:lastmodified":1480814062,
+    "wof:lastmodified":1611185344,
     "wof:name":"29107",
     "wof:parent_id":101720851,
     "wof:placetype":"postalcode",

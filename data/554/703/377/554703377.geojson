@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000587,
-    "geom:area_square_m":5516736.417137,
+    "geom:area_square_m":5516736.417131,
     "geom:bbox":"-79.796437,40.562828,-79.764001,40.606054",
     "geom:latitude":40.587289,
     "geom:longitude":-79.780719,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.591662,
     "lbl:longitude":-79.782492,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Creighton",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404484887,
         85633793,
-        102080887
+        102080887,
+        404484887,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763556"
     },
     "wof:country":"US",
-    "wof:geomhash":"b7883a31a42c4e58bdae39231a21a353",
+    "wof:geomhash":"2765d6019668b2503fd092db1579648c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554703377,
-    "wof:lastmodified":1480905385,
+    "wof:lastmodified":1611184462,
     "wof:name":"15030",
     "wof:parent_id":404484887,
     "wof:placetype":"postalcode",

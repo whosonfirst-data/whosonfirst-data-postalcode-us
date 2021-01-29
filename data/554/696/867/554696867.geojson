@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001901,
-    "geom:area_square_m":17414469.160836,
+    "geom:area_square_m":17414469.160852,
     "geom:bbox":"-72.264715,42.174747,-72.207455,42.226812",
     "geom:latitude":42.199755,
     "geom:longitude":-72.237274,
@@ -14,20 +14,22 @@
     "lbl:latitude":42.191868,
     "lbl:longitude":-72.235107,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"West Warren",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476629,
         85633793,
-        102084655
+        102084655,
+        404476629,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758348"
     },
     "wof:country":"US",
-    "wof:geomhash":"0a09e98552d158f6641977c35eec5fdb",
+    "wof:geomhash":"0e76efa429d86ba9794446f093477126",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554696867,
-    "wof:lastmodified":1480803782,
+    "wof:lastmodified":1611184668,
     "wof:name":"01092",
     "wof:parent_id":404476629,
     "wof:placetype":"postalcode",

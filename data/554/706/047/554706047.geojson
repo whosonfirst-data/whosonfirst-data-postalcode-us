@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040292,
-    "geom:area_square_m":370659469.500393,
+    "geom:area_square_m":370659469.500319,
     "geom:bbox":"-75.742299,41.75332,-75.338138,41.999447",
     "geom:latitude":41.929521,
     "geom:longitude":-75.569038,
@@ -14,20 +14,26 @@
     "lbl:latitude":41.92882,
     "lbl:longitude":-75.579031,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Susquehanna",
+    "mz:postal_locality_alt":[
+        "Hallstead",
+        "Burlington"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404484065,
         85633793,
-        102081381
+        102081381,
+        404484065,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765339"
     },
     "wof:country":"US",
-    "wof:geomhash":"17faf95c968ffb1b3da2f5a66c473ee5",
+    "wof:geomhash":"2b0d861b83afafa8b43c1aa59c414062",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554706047,
-    "wof:lastmodified":1480833357,
+    "wof:lastmodified":1611182691,
     "wof:name":"18847",
     "wof:parent_id":404484065,
     "wof:placetype":"postalcode",

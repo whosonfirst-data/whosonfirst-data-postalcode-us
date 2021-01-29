@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016527,
-    "geom:area_square_m":156998953.089918,
+    "geom:area_square_m":156998953.089976,
     "geom:bbox":"-82.38748,39.737205,-82.166254,39.878058",
     "geom:latitude":39.804205,
     "geom:longitude":-82.284063,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.804479,
     "lbl:longitude":-82.278579,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Somerset",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404525973,
         85633793,
-        102084801
+        102084801,
+        404525973,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776473"
     },
     "wof:country":"US",
-    "wof:geomhash":"cd5cc8dec5ca87ac9df797f6473c1e17",
+    "wof:geomhash":"8bfe6cd688dab4b26f445cc3a80e79ea",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554720783,
-    "wof:lastmodified":1480801574,
+    "wof:lastmodified":1611185467,
     "wof:name":"43783",
     "wof:parent_id":404525973,
     "wof:placetype":"postalcode",

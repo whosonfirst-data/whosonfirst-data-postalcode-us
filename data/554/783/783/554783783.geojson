@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028252,
-    "geom:area_square_m":314114411.614417,
+    "geom:area_square_m":314114411.614057,
     "geom:bbox":"-97.510602,25.837164,-97.14288,26.066048",
     "geom:latitude":25.951427,
     "geom:longitude":-97.319743,
@@ -13,19 +13,26 @@
     "lbl:latitude":25.943923,
     "lbl:longitude":-97.317944,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Brownsville",
+    "mz:postal_locality_alt":[
+        "Mission",
+        "Combes",
+        "Port Isabel"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688753,
-        102086761
+        102086761,
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12792150"
     },
     "wof:country":"US",
-    "wof:geomhash":"f98e9a0d0eb9de921fae0917d972f99e",
+    "wof:geomhash":"32c2da37c1bd9ce197a7cca85a122e8a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +43,7 @@
         }
     ],
     "wof:id":554783783,
-    "wof:lastmodified":1480916912,
+    "wof:lastmodified":1611183888,
     "wof:name":"78521",
     "wof:parent_id":102086761,
     "wof:placetype":"postalcode",

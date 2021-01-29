@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014702,
-    "geom:area_square_m":144751736.475226,
+    "geom:area_square_m":144751736.475191,
     "geom:bbox":"-82.731492,37.136181,-82.522183,37.32344",
     "geom:latitude":37.228846,
     "geom:longitude":-82.611138,
@@ -14,19 +14,25 @@
     "lbl:latitude":37.222622,
     "lbl:longitude":-82.613734,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Jenkins",
+    "mz:postal_locality_alt":[
+        "South Williamson",
+        "Dorton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688641,
-        102084685
+        102084685,
+        85688641
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12775656"
     },
     "wof:country":"US",
-    "wof:geomhash":"206d14b4a0eaf8915dcc5dc2fa078429",
+    "wof:geomhash":"f1afe44ab1957799fc4387a2e8155b91",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554719453,
-    "wof:lastmodified":1480814627,
+    "wof:lastmodified":1611184915,
     "wof:name":"41537",
     "wof:parent_id":102084685,
     "wof:placetype":"postalcode",

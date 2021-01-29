@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000303,
-    "geom:area_square_m":2836370.694832,
+    "geom:area_square_m":2836370.69483,
     "geom:bbox":"-74.098923,40.837593,-74.075122,40.865096",
     "geom:latitude":40.85086,
     "geom:longitude":-74.087848,
@@ -14,21 +14,26 @@
     "lbl:latitude":40.850183,
     "lbl:longitude":-74.087068,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wood Ridge",
+    "mz:postal_locality_alt":[
+        "Wood-Ridge"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477751,
         85633793,
+        102086773,
+        404477751,
         85975883,
-        102086773
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760665"
     },
     "wof:country":"US",
-    "wof:geomhash":"f4fa40eaf989b618e863484eb2f61d8c",
+    "wof:geomhash":"090ff5f49c2cf8ecc7d75941e5ffb30a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554699891,
-    "wof:lastmodified":1480908561,
+    "wof:lastmodified":1611184627,
     "wof:name":"07075",
     "wof:parent_id":85975883,
     "wof:placetype":"postalcode",

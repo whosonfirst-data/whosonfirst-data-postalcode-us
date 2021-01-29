@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042947,
-    "geom:area_square_m":377371947.072211,
+    "geom:area_square_m":377371947.072152,
     "geom:bbox":"-91.290775,44.596431,-90.921531,44.857249",
     "geom:latitude":44.715005,
     "geom:longitude":-91.103035,
@@ -14,20 +14,22 @@
     "lbl:latitude":44.711812,
     "lbl:longitude":-91.096003,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Augusta",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404493563,
         85633793,
-        102081761
+        102081761,
+        404493563,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781476"
     },
     "wof:country":"US",
-    "wof:geomhash":"f02e832405d2233416937f40ae5fff81",
+    "wof:geomhash":"5c72e43052adc3b5dbdc71056c970081",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554728575,
-    "wof:lastmodified":1480833295,
+    "wof:lastmodified":1611185068,
     "wof:name":"54722",
     "wof:parent_id":404493563,
     "wof:placetype":"postalcode",

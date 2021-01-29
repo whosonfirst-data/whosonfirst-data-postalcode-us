@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030425,
-    "geom:area_square_m":280663350.713856,
+    "geom:area_square_m":280663350.713881,
     "geom:bbox":"-76.630188,41.647843,-76.301478,41.872973",
     "geom:latitude":41.752082,
     "geom:longitude":-76.454132,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.751057,
     "lbl:longitude":-76.454741,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Towanda",
+    "mz:postal_locality_alt":[
+        "Wyalusing"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404484683,
         85633793,
-        102081319
+        102081319,
+        404484683,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765340"
     },
     "wof:country":"US",
-    "wof:geomhash":"69b2523561026d58e137286409a5601d",
+    "wof:geomhash":"7b88f1390199f203c8de97e96539a5e9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554706049,
-    "wof:lastmodified":1480817425,
+    "wof:lastmodified":1611182690,
     "wof:name":"18848",
     "wof:parent_id":404484683,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001591,
-    "geom:area_square_m":15225428.157223,
+    "geom:area_square_m":15225428.157203,
     "geom:bbox":"-76.722333,39.255605,-76.664954,39.306585",
     "geom:latitude":39.285146,
     "geom:longitude":-76.690776,
@@ -13,20 +13,25 @@
     "lbl:latitude":39.284239,
     "lbl:longitude":-76.691404,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Baltimore",
+    "mz:postal_locality_alt":[
+        "Carroll"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688501,
         102191575,
         85633793,
+        102081589,
         85949461,
-        102081589
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766522"
     },
     "wof:country":"US",
-    "wof:geomhash":"00f7496f029d8a379a75f6c4870cbe6d",
+    "wof:geomhash":"8a76adaf9c9f7ddf6dea1418123ed515",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554707277,
-    "wof:lastmodified":1480831125,
+    "wof:lastmodified":1611183157,
     "wof:name":"21229",
     "wof:parent_id":85949461,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009298,
-    "geom:area_square_m":86190365.70348,
+    "geom:area_square_m":86190365.70353,
     "geom:bbox":"-80.746834,41.350055,-80.6012,41.499765",
     "geom:latitude":41.436353,
     "geom:longitude":-80.663916,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.436336,
     "lbl:longitude":-80.663897,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Farmdale",
+    "mz:postal_locality_alt":[
+        "Kinsman"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404524297,
         85633793,
-        102083719
+        102083719,
+        404524297,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776789"
     },
     "wof:country":"US",
-    "wof:geomhash":"f356e08987ead0b50f15563837502221",
+    "wof:geomhash":"0b736fc42f31391d955bdd40497083bf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554721197,
-    "wof:lastmodified":1480841912,
+    "wof:lastmodified":1611184966,
     "wof:name":"44417",
     "wof:parent_id":404524297,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009314,
-    "geom:area_square_m":86440048.198915,
+    "geom:area_square_m":86440048.198887,
     "geom:bbox":"-79.603788,41.320962,-79.437904,41.414176",
     "geom:latitude":41.364058,
     "geom:longitude":-79.515919,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.351416,
     "lbl:longitude":-79.527305,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Venus",
+    "mz:postal_locality_alt":[
+        "Cranberry"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404483927,
         85633793,
-        102081279
+        102081279,
+        404483927,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764276"
     },
     "wof:country":"US",
-    "wof:geomhash":"ce09053fd0737d2995974792946cb400",
+    "wof:geomhash":"e0b4ef69481d599364aea13dd2760e86",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554704495,
-    "wof:lastmodified":1480906443,
+    "wof:lastmodified":1611184518,
     "wof:name":"16364",
     "wof:parent_id":404483927,
     "wof:placetype":"postalcode",

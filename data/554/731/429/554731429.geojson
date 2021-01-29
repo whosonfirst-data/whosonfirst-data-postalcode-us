@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.239951,
-    "geom:area_square_m":2081521204.445806,
+    "geom:area_square_m":2081521204.445593,
     "geom:bbox":"-102.467948,45.212531,-101.634774,45.695866",
     "geom:latitude":45.448636,
     "geom:longitude":-102.058574,
@@ -14,20 +14,22 @@
     "lbl:latitude":45.449229,
     "lbl:longitude":-102.046492,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Meadow",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688693,
         102191575,
-        404490767,
         85633793,
-        102086801
+        102086801,
+        404490767,
+        85688693
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12783026"
     },
     "wof:country":"US",
-    "wof:geomhash":"2b9f81d5813e521b21233086edcc64a7",
+    "wof:geomhash":"33bb4bba56925fa5312fea0496347a5f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554731429,
-    "wof:lastmodified":1480915727,
+    "wof:lastmodified":1611183080,
     "wof:name":"57644",
     "wof:parent_id":404490767,
     "wof:placetype":"postalcode",

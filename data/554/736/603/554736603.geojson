@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002982,
-    "geom:area_square_m":28544630.520541,
+    "geom:area_square_m":28544630.520552,
     "geom:bbox":"-94.510495,39.243436,-94.436224,39.311202",
     "geom:latitude":39.27619,
     "geom:longitude":-94.471875,
@@ -14,21 +14,26 @@
     "lbl:latitude":39.27483,
     "lbl:longitude":-94.473247,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Kansas City",
+    "mz:postal_locality_alt":[
+        "Liberty"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404518075,
         85633793,
+        102081227,
+        404518075,
         85970739,
-        102081227
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786062"
     },
     "wof:country":"US",
-    "wof:geomhash":"1575fab1d6b18eaf9c065ce1c1e08e01",
+    "wof:geomhash":"9bca9250102de5cf9415acf35e129dbe",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554736603,
-    "wof:lastmodified":1480912211,
+    "wof:lastmodified":1611183030,
     "wof:name":"64157",
     "wof:parent_id":85970739,
     "wof:placetype":"postalcode",

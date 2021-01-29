@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026245,
-    "geom:area_square_m":255367401.308207,
+    "geom:area_square_m":255367401.308082,
     "geom:bbox":"-95.305016,38.022568,-95.076501,38.197788",
     "geom:latitude":38.104193,
     "geom:longitude":-95.168167,
@@ -14,20 +14,22 @@
     "lbl:latitude":38.104411,
     "lbl:longitude":-95.164855,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Kincaid",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404502415,
         85633793,
-        102083439
+        102083439,
+        404502415,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786726"
     },
     "wof:country":"US",
-    "wof:geomhash":"37c7662521ad267f0e7daab565118e6a",
+    "wof:geomhash":"5ca5255777bb04f528dc37eaa4a38ed2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554737885,
-    "wof:lastmodified":1480843105,
+    "wof:lastmodified":1611182854,
     "wof:name":"66039",
     "wof:parent_id":404502415,
     "wof:placetype":"postalcode",

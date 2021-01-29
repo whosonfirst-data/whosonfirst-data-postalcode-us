@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018006,
-    "geom:area_square_m":172462262.61214,
+    "geom:area_square_m":172462262.612242,
     "geom:bbox":"-86.541371,39.151513,-86.370292,39.335602",
     "geom:latitude":39.229946,
     "geom:longitude":-86.464529,
@@ -13,20 +13,25 @@
     "lbl:latitude":39.229815,
     "lbl:longitude":-86.467254,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bloomington",
+    "mz:postal_locality_alt":[
+        "Williams"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404501307,
         85633793,
-        102086351
+        102086351,
+        404501307,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778215"
     },
     "wof:country":"US",
-    "wof:geomhash":"08a55b933119ea374d9a7ed808cb8f35",
+    "wof:geomhash":"083d02cb212f8849194f37e136a6be94",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554723401,
-    "wof:lastmodified":1480915072,
+    "wof:lastmodified":1611183785,
     "wof:name":"47408",
     "wof:parent_id":404501307,
     "wof:placetype":"postalcode",

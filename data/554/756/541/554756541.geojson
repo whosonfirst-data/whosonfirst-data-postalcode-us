@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.070295,
-    "geom:area_square_m":739044863.516111,
+    "geom:area_square_m":739044863.516172,
     "geom:bbox":"-84.601885,31.591415,-84.258284,31.918033",
     "geom:latitude":31.761253,
     "geom:longitude":-84.436797,
@@ -14,20 +14,25 @@
     "lbl:latitude":31.760949,
     "lbl:longitude":-84.437475,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Dawson",
+    "mz:postal_locality_alt":[
+        "Georgetown"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688535,
         102191575,
         85633793,
+        102084587,
         85937147,
-        102084587
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"23424620"
     },
     "wof:country":"US",
-    "wof:geomhash":"189e74eda10b54dd06314ef7b90f8c71",
+    "wof:geomhash":"efc8607d3e4620b67065ec4028bf52d9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554756541,
-    "wof:lastmodified":1480836527,
+    "wof:lastmodified":1611184311,
     "wof:name":"39842",
     "wof:parent_id":85937147,
     "wof:placetype":"postalcode",

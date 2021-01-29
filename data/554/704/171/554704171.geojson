@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021444,
-    "geom:area_square_m":201583152.867157,
+    "geom:area_square_m":201583152.867071,
     "geom:bbox":"-78.91354,40.42031,-78.644677,40.599635",
     "geom:latitude":40.515992,
     "geom:longitude":-78.757016,
@@ -14,20 +14,27 @@
     "lbl:latitude":40.50625,
     "lbl:longitude":-78.757722,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ebensburg",
+    "mz:postal_locality_alt":[
+        "Johnstown",
+        "Twin Rocks",
+        "Belsano"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485035,
         85633793,
-        102080879
+        102080879,
+        404485035,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764080"
     },
     "wof:country":"US",
-    "wof:geomhash":"a682bdcd08385aa0388a8ba7cf0ec79a",
+    "wof:geomhash":"fdf81ad155e7baf62b8428d06eebf550",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554704171,
-    "wof:lastmodified":1480903613,
+    "wof:lastmodified":1611184525,
     "wof:name":"15931",
     "wof:parent_id":404485035,
     "wof:placetype":"postalcode",

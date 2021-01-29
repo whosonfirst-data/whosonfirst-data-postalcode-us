@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000771,
-    "geom:area_square_m":7897224.762547,
+    "geom:area_square_m":7897224.762566,
     "geom:bbox":"-118.338583,34.068528,-118.281594,34.083733",
     "geom:latitude":34.076197,
     "geom:longitude":-118.310722,
@@ -13,20 +13,25 @@
     "lbl:latitude":34.076198,
     "lbl:longitude":-118.310722,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Los Angeles",
+    "mz:postal_locality_alt":[
+        "Hancock Park"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086957,
         85923517,
-        102086957
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795612"
     },
     "wof:country":"US",
-    "wof:geomhash":"267e0cc9bb4fe504a88c7a20b4a8318d",
+    "wof:geomhash":"49fc3af439b29426bcf419ce96214b84",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554783881,
-    "wof:lastmodified":1480912622,
+    "wof:lastmodified":1611183879,
     "wof:name":"90004",
     "wof:parent_id":85923517,
     "wof:placetype":"postalcode",

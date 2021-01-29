@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001564,
-    "geom:area_square_m":13517289.429191,
+    "geom:area_square_m":13517289.429144,
     "geom:bbox":"-123.245045,45.637785,-123.164365,45.686151",
     "geom:latitude":45.667423,
     "geom:longitude":-123.212184,
@@ -14,19 +14,24 @@
     "lbl:latitude":45.671165,
     "lbl:longitude":-123.19698,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Manning",
+    "mz:postal_locality_alt":[
+        "Banks"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688513,
-        102082215
+        102082215,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12798481"
     },
     "wof:country":"US",
-    "wof:geomhash":"90c1c05abdd18a65fb45923aec37dbe0",
+    "wof:geomhash":"95cd332b189dae92dd8279a59965ec3f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554754647,
-    "wof:lastmodified":1480794868,
+    "wof:lastmodified":1611182907,
     "wof:name":"97125",
     "wof:parent_id":102082215,
     "wof:placetype":"postalcode",

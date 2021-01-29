@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000909,
-    "geom:area_square_m":9336032.967939,
+    "geom:area_square_m":9336032.967907,
     "geom:bbox":"-118.391371,33.854356,-118.352347,33.894653",
     "geom:latitude":33.873216,
     "geom:longitude":-118.37036,
@@ -13,20 +13,25 @@
     "lbl:latitude":33.873216,
     "lbl:longitude":-118.37036,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Redondo Beach",
+    "mz:postal_locality_alt":[
+        "Lawndale"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086957,
         85923467,
-        102086957
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795749"
     },
     "wof:country":"US",
-    "wof:geomhash":"5f2323a8fcc7be5e1f4900780cfa7152",
+    "wof:geomhash":"273e826cc9bc9b5049b92a940276a6d3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554784055,
-    "wof:lastmodified":1480912625,
+    "wof:lastmodified":1611183938,
     "wof:name":"90278",
     "wof:parent_id":85923467,
     "wof:placetype":"postalcode",

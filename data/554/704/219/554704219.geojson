@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026836,
-    "geom:area_square_m":253377784.648584,
+    "geom:area_square_m":253377784.648531,
     "geom:bbox":"-78.906109,40.111858,-78.643998,40.310361",
     "geom:latitude":40.220515,
     "geom:longitude":-78.763018,
@@ -14,20 +14,26 @@
     "lbl:latitude":40.227773,
     "lbl:longitude":-78.759252,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Windber",
+    "mz:postal_locality_alt":[
+        "Dunlo",
+        "Beaverdale"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404488203,
         85633793,
-        102081361
+        102081361,
+        404488203,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764106"
     },
     "wof:country":"US",
-    "wof:geomhash":"7497afbfd21abfd3579c957ba20c4f95",
+    "wof:geomhash":"2e4ebff61a2a5ee7b6d8b2d08ba2d76c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554704219,
-    "wof:lastmodified":1480903613,
+    "wof:lastmodified":1611184493,
     "wof:name":"15963",
     "wof:parent_id":404488203,
     "wof:placetype":"postalcode",

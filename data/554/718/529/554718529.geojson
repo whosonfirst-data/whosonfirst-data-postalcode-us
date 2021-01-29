@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048139,
-    "geom:area_square_m":496880189.320525,
+    "geom:area_square_m":496880189.320526,
     "geom:bbox":"-88.670538,33.287911,-88.302759,33.550949",
     "geom:latitude":33.410877,
     "geom:longitude":-88.504735,
@@ -13,19 +13,25 @@
     "lbl:latitude":33.393933,
     "lbl:longitude":-88.504719,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Columbus",
+    "mz:postal_locality_alt":[
+        "Caledonia",
+        "Miss State"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688579,
-        102081023
+        102081023,
+        85688579
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12775038"
     },
     "wof:country":"US",
-    "wof:geomhash":"ff82d7095aca67fdb05d2b372bb3d285",
+    "wof:geomhash":"973897bb48eacd48dd4dff55577b9b2a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +42,7 @@
         }
     ],
     "wof:id":554718529,
-    "wof:lastmodified":1480835398,
+    "wof:lastmodified":1611185565,
     "wof:name":"39701",
     "wof:parent_id":102081023,
     "wof:placetype":"postalcode",

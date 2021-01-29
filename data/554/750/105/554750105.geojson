@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006068,
-    "geom:area_square_m":57458418.956165,
+    "geom:area_square_m":57458418.956168,
     "geom:bbox":"-111.706925,39.972941,-111.590898,40.082984",
     "geom:latitude":40.027591,
     "geom:longitude":-111.644068,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.026902,
     "lbl:longitude":-111.644209,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Salem",
+    "mz:postal_locality_alt":[
+        "Woodland Hills"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688567,
         102191575,
         85633793,
+        102083567,
         101727835,
-        102083567
+        85688567
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12794302"
     },
     "wof:country":"US",
-    "wof:geomhash":"a47582c2c24a9993f8c4034af1c3ce76",
+    "wof:geomhash":"38f78490feb5a22e357f9ea326504c5d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554750105,
-    "wof:lastmodified":1480842610,
+    "wof:lastmodified":1611184528,
     "wof:name":"84653",
     "wof:parent_id":101727835,
     "wof:placetype":"postalcode",

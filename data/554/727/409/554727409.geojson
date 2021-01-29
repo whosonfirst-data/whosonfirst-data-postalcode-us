@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.052033,
-    "geom:area_square_m":482334694.327654,
+    "geom:area_square_m":482334694.327791,
     "geom:bbox":"-91.291653,41.237054,-90.802915,41.537394",
     "geom:latitude":41.438708,
     "geom:longitude":-91.058502,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.439931,
     "lbl:longitude":-91.064259,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Muscatine",
+    "mz:postal_locality_alt":[
+        "Durant"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688713,
         102191575,
         85633793,
+        102086287,
         85944863,
-        102086287
+        85688713
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12780728"
     },
     "wof:country":"US",
-    "wof:geomhash":"97ff3a45038e12bfb7fa5754f2f056c9",
+    "wof:geomhash":"6d755da354cb1173e1fb3bdd9b2b89de",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554727409,
-    "wof:lastmodified":1480916922,
+    "wof:lastmodified":1611185505,
     "wof:name":"52761",
     "wof:parent_id":85944863,
     "wof:placetype":"postalcode",

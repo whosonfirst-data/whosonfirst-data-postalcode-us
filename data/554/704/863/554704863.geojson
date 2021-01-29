@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003762,
-    "geom:area_square_m":35366052.447146,
+    "geom:area_square_m":35366052.447127,
     "geom:bbox":"-77.896239,40.438496,-77.788503,40.582892",
     "geom:latitude":40.507536,
     "geom:longitude":-77.839217,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.50247,
     "lbl:longitude":-77.848424,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Allensville",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485789,
         85633793,
-        102080901
+        102080901,
+        404485789,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764547"
     },
     "wof:country":"US",
-    "wof:geomhash":"821b196254b2213b4875b8f5f737a204",
+    "wof:geomhash":"60ef8c9c3c72cc309d63639a4d307c93",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554704863,
-    "wof:lastmodified":1480904863,
+    "wof:lastmodified":1611184520,
     "wof:name":"17002",
     "wof:parent_id":404485789,
     "wof:placetype":"postalcode",

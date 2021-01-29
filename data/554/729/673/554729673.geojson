@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033175,
-    "geom:area_square_m":296929091.224855,
+    "geom:area_square_m":296929091.224993,
     "geom:bbox":"-92.300419,43.54247,-91.96986,43.73186",
     "geom:latitude":43.628453,
     "geom:longitude":-92.126607,
@@ -14,20 +14,22 @@
     "lbl:latitude":43.623194,
     "lbl:longitude":-92.128187,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Preston",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404514119,
         85633793,
-        102086997
+        102086997,
+        404514119,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782152"
     },
     "wof:country":"US",
-    "wof:geomhash":"a0322e901edadb7aad381e48b41a47da",
+    "wof:geomhash":"85297b10ce662ee6c954a210d9e3b126",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554729673,
-    "wof:lastmodified":1480914704,
+    "wof:lastmodified":1611185413,
     "wof:name":"55965",
     "wof:parent_id":404514119,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.051192,
-    "geom:area_square_m":520264824.104248,
+    "geom:area_square_m":520264824.104191,
     "geom:bbox":"-84.657098,34.554297,-84.392052,34.85556",
     "geom:latitude":34.72433,
     "geom:longitude":-84.544034,
@@ -13,19 +13,26 @@
     "lbl:latitude":34.728127,
     "lbl:longitude":-84.543528,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ellijay",
+    "mz:postal_locality_alt":[
+        "East Ellijay",
+        "Hiawassee",
+        "Dawsonville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688535,
-        102082325
+        102082325,
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770884"
     },
     "wof:country":"US",
-    "wof:geomhash":"4b128c3c7c7c92e3f9a707799e147715",
+    "wof:geomhash":"1097971edd172791d4fc8583140c530f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +43,7 @@
         }
     ],
     "wof:id":554713257,
-    "wof:lastmodified":1480835513,
+    "wof:lastmodified":1611183303,
     "wof:name":"30540",
     "wof:parent_id":102082325,
     "wof:placetype":"postalcode",

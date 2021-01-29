@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014702,
-    "geom:area_square_m":141705817.696406,
+    "geom:area_square_m":141705817.696401,
     "geom:bbox":"-83.018583,38.725943,-82.823901,38.857181",
     "geom:latitude":38.787747,
     "geom:longitude":-82.920407,
@@ -14,20 +14,25 @@
     "lbl:latitude":38.782086,
     "lbl:longitude":-82.918349,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Portsmouth",
+    "mz:postal_locality_alt":[
+        "New Boston"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404526929,
         85633793,
-        102081373
+        102081373,
+        404526929,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777367"
     },
     "wof:country":"US",
-    "wof:geomhash":"2f3eb1a2fb7c65ce926f34064eb08dc6",
+    "wof:geomhash":"d9bd067b765972a632de5b062d110198",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554722089,
-    "wof:lastmodified":1480833726,
+    "wof:lastmodified":1611183235,
     "wof:name":"45662",
     "wof:parent_id":404526929,
     "wof:placetype":"postalcode",

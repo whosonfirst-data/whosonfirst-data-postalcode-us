@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.055965,
-    "geom:area_square_m":482476595.085648,
+    "geom:area_square_m":482476595.085447,
     "geom:bbox":"-93.768603,45.6393,-93.463884,45.93907",
     "geom:latitude":45.797369,
     "geom:longitude":-93.628158,
@@ -14,20 +14,26 @@
     "lbl:latitude":45.803664,
     "lbl:longitude":-93.629079,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Milaca",
+    "mz:postal_locality_alt":[
+        "Hoffman",
+        "Glenwood"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404512541,
         85633793,
-        102087761
+        102087761,
+        404512541,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782438"
     },
     "wof:country":"US",
-    "wof:geomhash":"89df3ec1135a3b8666d481c6f8e7fc45",
+    "wof:geomhash":"a3ed00d0f79670b9c6ff8cc4026d3851",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554730279,
-    "wof:lastmodified":1480788584,
+    "wof:lastmodified":1611182746,
     "wof:name":"56353",
     "wof:parent_id":404512541,
     "wof:placetype":"postalcode",

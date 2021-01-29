@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002083,
-    "geom:area_square_m":17513992.368188,
+    "geom:area_square_m":17513992.368143,
     "geom:bbox":"-122.472476,47.116003,-122.426134,47.184692",
     "geom:latitude":47.152859,
     "geom:longitude":-122.448976,
@@ -13,20 +13,25 @@
     "lbl:latitude":47.153041,
     "lbl:longitude":-122.448831,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Tacoma",
+    "mz:postal_locality_alt":[
+        "Parkland"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688623,
         102191575,
         85633793,
+        102087547,
         101731065,
-        102087547
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12799185"
     },
     "wof:country":"US",
-    "wof:geomhash":"c4db4f87d91e72e2a0b6e09fd3403390",
+    "wof:geomhash":"8e88d4a02221068808d6bec0252ae3fb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554755805,
-    "wof:lastmodified":1480781955,
+    "wof:lastmodified":1611182579,
     "wof:name":"98444",
     "wof:parent_id":101731065,
     "wof:placetype":"postalcode",

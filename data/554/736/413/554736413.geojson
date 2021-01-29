@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005556,
-    "geom:area_square_m":53497872.796628,
+    "geom:area_square_m":53497872.796664,
     "geom:bbox":"-94.376262,38.815281,-94.19284,38.896372",
     "geom:latitude":38.852482,
     "geom:longitude":-94.299577,
@@ -14,20 +14,25 @@
     "lbl:latitude":38.858551,
     "lbl:longitude":-94.297554,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Greenwood",
+    "mz:postal_locality_alt":[
+        "Lees Summit"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404518079,
         85633793,
-        102081227
+        102081227,
+        404518079,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785964"
     },
     "wof:country":"US",
-    "wof:geomhash":"86815227c77a8780b67697fafbe19ec5",
+    "wof:geomhash":"18225d3717221dca0b75a1922eb30464",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554736413,
-    "wof:lastmodified":1480905400,
+    "wof:lastmodified":1611183024,
     "wof:name":"64034",
     "wof:parent_id":404518079,
     "wof:placetype":"postalcode",

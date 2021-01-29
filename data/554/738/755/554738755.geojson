@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.060716,
-    "geom:area_square_m":597534557.55921,
+    "geom:area_square_m":597534557.559133,
     "geom:bbox":"-97.583593,37.113602,-97.240529,37.433729",
     "geom:latitude":37.260122,
     "geom:longitude":-97.414381,
@@ -14,20 +14,22 @@
     "lbl:latitude":37.260561,
     "lbl:longitude":-97.427652,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wellington",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404505299,
         85633793,
-        102085325
+        102085325,
+        404505299,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787161"
     },
     "wof:country":"US",
-    "wof:geomhash":"24e146bbedfa6b3debfb94a663f840c3",
+    "wof:geomhash":"e87132028793c10581353a44af57f4a2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554738755,
-    "wof:lastmodified":1480809770,
+    "wof:lastmodified":1611183093,
     "wof:name":"67152",
     "wof:parent_id":404505299,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028379,
-    "geom:area_square_m":278928103.936614,
+    "geom:area_square_m":278928103.936403,
     "geom:bbox":"-96.226962,37.211343,-95.961435,37.471827",
     "geom:latitude":37.356156,
     "geom:longitude":-96.084529,
@@ -14,20 +14,22 @@
     "lbl:latitude":37.407194,
     "lbl:longitude":-96.022826,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Longton",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404503453,
         85633793,
-        102084193
+        102084193,
+        404503453,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787223"
     },
     "wof:country":"US",
-    "wof:geomhash":"11e7d667e542d5719d72230e156381c9",
+    "wof:geomhash":"ba2a0c2bdf0a82e813904878bafd5b73",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554738863,
-    "wof:lastmodified":1480835008,
+    "wof:lastmodified":1611183123,
     "wof:name":"67352",
     "wof:parent_id":404503453,
     "wof:placetype":"postalcode",

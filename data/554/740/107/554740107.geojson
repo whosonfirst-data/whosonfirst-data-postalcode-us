@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041589,
-    "geom:area_square_m":379857851.839192,
+    "geom:area_square_m":379857851.839242,
     "geom:bbox":"-97.465532,42.2357,-97.232462,42.525933",
     "geom:latitude":42.383245,
     "geom:longitude":-97.357536,
@@ -14,20 +14,25 @@
     "lbl:latitude":42.395624,
     "lbl:longitude":-97.359991,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Randolph",
+    "mz:postal_locality_alt":[
+        "Stuart"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688563,
         102191575,
-        404519505,
         85633793,
-        102082819
+        102082819,
+        404519505,
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787833"
     },
     "wof:country":"US",
-    "wof:geomhash":"22b9820f43e949ccb3b92b575f3ca965",
+    "wof:geomhash":"ae908d87520fcd0fbb71e4e6b109160e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554740107,
-    "wof:lastmodified":1480793709,
+    "wof:lastmodified":1611183404,
     "wof:name":"68771",
     "wof:parent_id":404519505,
     "wof:placetype":"postalcode",

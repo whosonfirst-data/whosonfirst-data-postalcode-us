@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.143999,
-    "geom:area_square_m":1486900170.090779,
+    "geom:area_square_m":1486900170.090552,
     "geom:bbox":"-79.677014,33.108987,-79.134652,33.661689",
     "geom:latitude":33.376823,
     "geom:longitude":-79.32869,
@@ -13,19 +13,26 @@
     "lbl:latitude":33.38111,
     "lbl:longitude":-79.32976,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Georgetown",
+    "mz:postal_locality_alt":[
+        "Pawleys Island",
+        "Hemingway",
+        "North Charleston"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688683,
-        102085683
+        102085683,
+        85688683
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770185"
     },
     "wof:country":"US",
-    "wof:geomhash":"03cccb6c2cee55bdc5d1f57c46b26507",
+    "wof:geomhash":"cd3a36bb517a1e87394b108529169dc6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +43,7 @@
         }
     ],
     "wof:id":554712199,
-    "wof:lastmodified":1480813648,
+    "wof:lastmodified":1611183720,
     "wof:name":"29440",
     "wof:parent_id":102085683,
     "wof:placetype":"postalcode",

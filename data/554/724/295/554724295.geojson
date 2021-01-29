@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00733,
-    "geom:area_square_m":66294417.625136,
+    "geom:area_square_m":66294417.625148,
     "geom:bbox":"-84.007054,42.949981,-83.88322,43.053318",
     "geom:latitude":42.994904,
     "geom:longitude":-83.946227,
@@ -14,20 +14,22 @@
     "lbl:latitude":42.991452,
     "lbl:longitude":-83.944772,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lennon",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404508025,
         85633793,
-        102083041
+        102083041,
+        404508025,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778839"
     },
     "wof:country":"US",
-    "wof:geomhash":"df9424e67bd7cefe197217d89f078946",
+    "wof:geomhash":"79cfa23be0bf22ac194651c8cdd39ea5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554724295,
-    "wof:lastmodified":1480843134,
+    "wof:lastmodified":1611183750,
     "wof:name":"48449",
     "wof:parent_id":404508025,
     "wof:placetype":"postalcode",

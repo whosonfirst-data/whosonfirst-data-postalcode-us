@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002464,
-    "geom:area_square_m":22827801.004554,
+    "geom:area_square_m":22827801.004562,
     "geom:bbox":"-93.328539,41.42393,-93.250194,41.492574",
     "geom:latitude":41.463576,
     "geom:longitude":-93.301041,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.466282,
     "lbl:longitude":-93.303447,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Swan",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688713,
         102191575,
         85633793,
+        102086411,
         85943121,
-        102086411
+        85688713
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779861"
     },
     "wof:country":"US",
-    "wof:geomhash":"dd72d26289b80869fca8419888069435",
+    "wof:geomhash":"14be019ad2e575e2951e1dab1b9a64af",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554725769,
-    "wof:lastmodified":1480916915,
+    "wof:lastmodified":1611183272,
     "wof:name":"50252",
     "wof:parent_id":85943121,
     "wof:placetype":"postalcode",

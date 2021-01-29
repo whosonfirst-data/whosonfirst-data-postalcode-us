@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033786,
-    "geom:area_square_m":279528388.058787,
+    "geom:area_square_m":279528388.058887,
     "geom:bbox":"-97.968312,47.83158,-97.708923,48.136899",
     "geom:latitude":48.003237,
     "geom:longitude":-97.84853,
@@ -14,20 +14,22 @@
     "lbl:latitude":48.000939,
     "lbl:longitude":-97.849975,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Niagara",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688525,
         102191575,
-        404480613,
         85633793,
-        102081493
+        102081493,
+        404480613,
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12783231"
     },
     "wof:country":"US",
-    "wof:geomhash":"6b3a39fac6de8327d9822508a349f763",
+    "wof:geomhash":"716a86e8e2f97d9cc86094dae3843078",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554731807,
-    "wof:lastmodified":1480817058,
+    "wof:lastmodified":1611183083,
     "wof:name":"58266",
     "wof:parent_id":404480613,
     "wof:placetype":"postalcode",

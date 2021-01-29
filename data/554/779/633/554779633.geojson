@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000703,
-    "geom:area_square_m":6585798.07684,
+    "geom:area_square_m":6585798.076841,
     "geom:bbox":"-73.759206,40.738441,-73.713325,40.772527",
     "geom:latitude":40.7565,
     "geom:longitude":-73.736872,
@@ -14,21 +14,26 @@
     "lbl:latitude":40.756632,
     "lbl:longitude":-73.735333,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Little Neck",
+    "mz:postal_locality_alt":[
+        "Flushing"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404521211,
         85633793,
+        102082361,
+        404521211,
         85977539,
-        102082361
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761779"
     },
     "wof:country":"US",
-    "wof:geomhash":"4f51cfd04d6e5cd8585a482e54e0ebf8",
+    "wof:geomhash":"64b02fa94254aed2d96c770035a4a3a8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554779633,
-    "wof:lastmodified":1480790620,
+    "wof:lastmodified":1611183969,
     "wof:name":"11362",
     "wof:parent_id":85977539,
     "wof:placetype":"postalcode",

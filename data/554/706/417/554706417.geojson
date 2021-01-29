@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004892,
-    "geom:area_square_m":46363469.90265,
+    "geom:area_square_m":46363469.902648,
     "geom:bbox":"-75.972407,39.913961,-75.862416,40.009856",
     "geom:latitude":39.964079,
     "geom:longitude":-75.925115,
@@ -14,20 +14,26 @@
     "lbl:latitude":39.966371,
     "lbl:longitude":-75.925129,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Parkesburg",
+    "mz:postal_locality_alt":[
+        "Thorndale",
+        "Coatesville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404482933,
         85633793,
-        102081275
+        102081275,
+        404482933,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765600"
     },
     "wof:country":"US",
-    "wof:geomhash":"efb04dc6db2bc290c3e83a912c367d01",
+    "wof:geomhash":"e91fa78270b4cdccb9d1926bb0cccae3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554706417,
-    "wof:lastmodified":1480817415,
+    "wof:lastmodified":1611182706,
     "wof:name":"19365",
     "wof:parent_id":404482933,
     "wof:placetype":"postalcode",

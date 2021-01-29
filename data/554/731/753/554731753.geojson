@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038566,
-    "geom:area_square_m":317851096.332398,
+    "geom:area_square_m":317851096.332464,
     "geom:bbox":"-98.033314,48.093453,-97.665545,48.31085",
     "geom:latitude":48.200164,
     "geom:longitude":-97.826215,
@@ -14,20 +14,22 @@
     "lbl:latitude":48.202239,
     "lbl:longitude":-97.829398,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fordville",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688525,
         102191575,
-        404482029,
         85633793,
-        102082057
+        102082057,
+        404482029,
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12783207"
     },
     "wof:country":"US",
-    "wof:geomhash":"580405f702516b7b91f58208f0d93c3c",
+    "wof:geomhash":"06b2a8dcf1b5d4a4ff35cb67957fdec4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554731753,
-    "wof:lastmodified":1480817058,
+    "wof:lastmodified":1611183057,
     "wof:name":"58231",
     "wof:parent_id":404482029,
     "wof:placetype":"postalcode",

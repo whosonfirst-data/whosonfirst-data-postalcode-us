@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002682,
-    "geom:area_square_m":24655478.784623,
+    "geom:area_square_m":24655478.784641,
     "geom:bbox":"-77.330086,41.961448,-77.241195,41.999849",
     "geom:latitude":41.982119,
     "geom:longitude":-77.288317,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.973653,
     "lbl:longitude":-77.280816,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Elkland",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404483899,
         85633793,
-        102080937
+        102080937,
+        404483899,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764520"
     },
     "wof:country":"US",
-    "wof:geomhash":"e8ebe4598755df3735954130777e2990",
+    "wof:geomhash":"61cab39b8bc800f969b6ccb2f268c495",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554704807,
-    "wof:lastmodified":1480904323,
+    "wof:lastmodified":1611184515,
     "wof:name":"16920",
     "wof:parent_id":404483899,
     "wof:placetype":"postalcode",

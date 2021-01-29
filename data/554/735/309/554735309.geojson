@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010987,
-    "geom:area_square_m":106783683.058889,
+    "geom:area_square_m":106783683.05889,
     "geom:bbox":"-89.009778,38.125132,-88.814923,38.25373",
     "geom:latitude":38.185846,
     "geom:longitude":-88.923859,
@@ -14,20 +14,22 @@
     "lbl:latitude":38.189765,
     "lbl:longitude":-88.922922,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bonnie",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404496507,
         85633793,
-        102083513
+        102083513,
+        404496507,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785352"
     },
     "wof:country":"US",
-    "wof:geomhash":"9c302fcc07e39be87002fe0809a966e6",
+    "wof:geomhash":"2b569c65fca9f3c42b76125dbd832134",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554735309,
-    "wof:lastmodified":1480841014,
+    "wof:lastmodified":1611184409,
     "wof:name":"62816",
     "wof:parent_id":404496507,
     "wof:placetype":"postalcode",

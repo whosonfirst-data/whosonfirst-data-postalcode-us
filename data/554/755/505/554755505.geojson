@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001813,
-    "geom:area_square_m":15149248.04503,
+    "geom:area_square_m":15149248.045062,
     "geom:bbox":"-122.283739,47.474808,-122.216608,47.521368",
     "geom:latitude":47.499336,
     "geom:longitude":-122.24711,
@@ -13,20 +13,25 @@
     "lbl:latitude":47.499387,
     "lbl:longitude":-122.243852,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Seattle",
+    "mz:postal_locality_alt":[
+        "Tukwila"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688623,
         102191575,
         85633793,
+        102086191,
         101730401,
-        102086191
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12798994"
     },
     "wof:country":"US",
-    "wof:geomhash":"78f2d5182d5cbcc7e065b14cd4604913",
+    "wof:geomhash":"3caacd4aebbf11477097e5f63fcd4098",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554755505,
-    "wof:lastmodified":1480915590,
+    "wof:lastmodified":1611182563,
     "wof:name":"98178",
     "wof:parent_id":101730401,
     "wof:placetype":"postalcode",

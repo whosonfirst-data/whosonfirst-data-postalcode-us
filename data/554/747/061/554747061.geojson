@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040953,
-    "geom:area_square_m":438398243.40063,
+    "geom:area_square_m":438398243.400539,
     "geom:bbox":"-98.328063,29.933436,-97.938126,30.136735",
     "geom:latitude":30.033394,
     "geom:longitude":-98.145994,
@@ -14,19 +14,25 @@
     "lbl:latitude":30.034449,
     "lbl:longitude":-98.142776,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wimberley",
+    "mz:postal_locality_alt":[
+        "Georgetown",
+        "Driftwood"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688753,
-        102080715
+        102080715,
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12792276"
     },
     "wof:country":"US",
-    "wof:geomhash":"e15465f0b94ebd8e91f74293c7a0e92f",
+    "wof:geomhash":"845ed1b3039b69d33b828011699f601e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554747061,
-    "wof:lastmodified":1480903603,
+    "wof:lastmodified":1611183479,
     "wof:name":"78676",
     "wof:parent_id":102080715,
     "wof:placetype":"postalcode",

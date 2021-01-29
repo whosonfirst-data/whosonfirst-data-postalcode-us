@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006501,
-    "geom:area_square_m":54710367.386624,
+    "geom:area_square_m":54710367.386686,
     "geom:bbox":"-122.67044,47.056896,-122.500523,47.159504",
     "geom:latitude":47.112271,
     "geom:longitude":-122.589059,
@@ -13,20 +13,25 @@
     "lbl:latitude":47.109398,
     "lbl:longitude":-122.587284,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Tacoma",
+    "mz:postal_locality_alt":[
+        "Fort Lewis"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688623,
         102191575,
         85633793,
+        102087547,
         101730985,
-        102087547
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12799179"
     },
     "wof:country":"US",
-    "wof:geomhash":"36779523ff5c8f986ad13589d7953755",
+    "wof:geomhash":"c6730a5dce323c8f5a7606bc5c800004",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554755795,
-    "wof:lastmodified":1480781956,
+    "wof:lastmodified":1611182590,
     "wof:name":"98433",
     "wof:parent_id":101730985,
     "wof:placetype":"postalcode",

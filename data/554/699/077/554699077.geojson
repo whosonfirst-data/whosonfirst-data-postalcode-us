@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019645,
-    "geom:area_square_m":173124197.095516,
+    "geom:area_square_m":173124197.095512,
     "geom:bbox":"-72.547266,44.425693,-72.368151,44.658001",
     "geom:latitude":44.544011,
     "geom:longitude":-72.470687,
@@ -14,20 +14,22 @@
     "lbl:latitude":44.540596,
     "lbl:longitude":-72.471939,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wolcott",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688763,
         102191575,
-        404527161,
         85633793,
-        102080785
+        102080785,
+        404527161,
+        85688763
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760067"
     },
     "wof:country":"US",
-    "wof:geomhash":"9ce1d2edc6b530170eb84a64ae97f5f0",
+    "wof:geomhash":"db1b9f1f3abf15f7bbabdfb953f1dfe0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554699077,
-    "wof:lastmodified":1480906387,
+    "wof:lastmodified":1611184605,
     "wof:name":"05680",
     "wof:parent_id":404527161,
     "wof:placetype":"postalcode",

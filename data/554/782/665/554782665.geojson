@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000862,
-    "geom:area_square_m":7938742.259179,
+    "geom:area_square_m":7938742.259173,
     "geom:bbox":"-86.69541,41.838679,-86.635736,41.869998",
     "geom:latitude":41.850431,
     "geom:longitude":-86.665646,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.853312,
     "lbl:longitude":-86.663428,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lakeside",
+    "mz:postal_locality_alt":[
+        "Union Pier"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404506987,
         85633793,
-        102083151
+        102083151,
+        404506987,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779213"
     },
     "wof:country":"US",
-    "wof:geomhash":"3d2f4d0df9dca137036cf0e85aa3946a",
+    "wof:geomhash":"ba09a63d11246dc609f51afd92e47b18",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554782665,
-    "wof:lastmodified":1480835933,
+    "wof:lastmodified":1611183629,
     "wof:name":"49116",
     "wof:parent_id":404506987,
     "wof:placetype":"postalcode",

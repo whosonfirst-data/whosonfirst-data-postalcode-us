@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045096,
-    "geom:area_square_m":428074991.722746,
+    "geom:area_square_m":428074991.722389,
     "geom:bbox":"-99.125855,39.654777,-98.897751,40.002431",
     "geom:latitude":39.853229,
     "geom:longitude":-99.025098,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.844098,
     "lbl:longitude":-99.016559,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Kensington",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404505107,
         85633793,
-        102084161
+        102084161,
+        404505107,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787049"
     },
     "wof:country":"US",
-    "wof:geomhash":"131df59a4f858d3686dd5fa0a4084d2e",
+    "wof:geomhash":"a2c07808fa889b03c3c18510e7387340",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554738507,
-    "wof:lastmodified":1480835117,
+    "wof:lastmodified":1611183112,
     "wof:name":"66951",
     "wof:parent_id":404505107,
     "wof:placetype":"postalcode",

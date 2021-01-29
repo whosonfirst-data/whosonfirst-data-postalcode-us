@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.065484,
-    "geom:area_square_m":565289662.400026,
+    "geom:area_square_m":565289662.400134,
     "geom:bbox":"-95.139731,45.585333,-94.808633,45.867806",
     "geom:latitude":45.72276,
     "geom:longitude":-94.988295,
@@ -14,20 +14,25 @@
     "lbl:latitude":45.725034,
     "lbl:longitude":-94.987283,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Sauk Centre",
+    "mz:postal_locality_alt":[
+        "Onamia"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404512157,
         85633793,
-        102087719
+        102087719,
+        404512157,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782460"
     },
     "wof:country":"US",
-    "wof:geomhash":"564fe6fac584f4253ee9e926f8fc8c7b",
+    "wof:geomhash":"9b119636c417bf95c5bac634fe646299",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554730317,
-    "wof:lastmodified":1480788127,
+    "wof:lastmodified":1611182758,
     "wof:name":"56378",
     "wof:parent_id":404512157,
     "wof:placetype":"postalcode",

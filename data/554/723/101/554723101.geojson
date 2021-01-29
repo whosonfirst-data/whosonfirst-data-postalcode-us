@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021718,
-    "geom:area_square_m":208210668.398015,
+    "geom:area_square_m":208210668.397999,
     "geom:bbox":"-85.441273,39.074225,-85.187157,39.247708",
     "geom:latitude":39.164448,
     "geom:longitude":-85.318492,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.169482,
     "lbl:longitude":-85.325656,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Osgood",
+    "mz:postal_locality_alt":[
+        "Napoleon"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404500299,
         85633793,
-        102086319
+        102086319,
+        404500299,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778044"
     },
     "wof:country":"US",
-    "wof:geomhash":"236dff522e227d3cb8d6c6312dc800b9",
+    "wof:geomhash":"db1ae865463cff73d732d58fe3811214",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554723101,
-    "wof:lastmodified":1480910624,
+    "wof:lastmodified":1611183798,
     "wof:name":"47037",
     "wof:parent_id":404500299,
     "wof:placetype":"postalcode",

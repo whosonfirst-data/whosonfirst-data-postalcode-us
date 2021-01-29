@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032596,
-    "geom:area_square_m":322390800.567981,
+    "geom:area_square_m":322390800.568558,
     "geom:bbox":"-83.9966,36.705366,-83.721219,37.055149",
     "geom:latitude":36.882104,
     "geom:longitude":-83.886468,
@@ -14,20 +14,25 @@
     "lbl:latitude":36.872205,
     "lbl:longitude":-83.881995,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Barbourville",
+    "mz:postal_locality_alt":[
+        "Manchester"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688641,
         102191575,
         85633793,
+        102084387,
         85947141,
-        102084387
+        85688641
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12775425"
     },
     "wof:country":"US",
-    "wof:geomhash":"029cc415d49782c48fa09c84a6a8295f",
+    "wof:geomhash":"0cb859fa59f9d1ee958dc8b5184e16ad",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554719083,
-    "wof:lastmodified":1480810320,
+    "wof:lastmodified":1611184909,
     "wof:name":"40906",
     "wof:parent_id":85947141,
     "wof:placetype":"postalcode",

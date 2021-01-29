@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009769,
-    "geom:area_square_m":90737356.157578,
+    "geom:area_square_m":90737356.157604,
     "geom:bbox":"-73.550962,41.237176,-73.43819,41.377409",
     "geom:latitude":41.306447,
     "geom:longitude":-73.502258,
@@ -13,20 +13,28 @@
     "lbl:latitude":41.310803,
     "lbl:longitude":-73.499837,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ridgefield",
+    "mz:postal_locality_alt":[
+        "Danbury",
+        "New Canaan",
+        "Westport",
+        "Norwalk"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688629,
         102191575,
-        404495963,
         85633793,
-        102084283
+        102084283,
+        404495963,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760571"
     },
     "wof:country":"US",
-    "wof:geomhash":"2a3dfaeef947b256833753da3470f42e",
+    "wof:geomhash":"171d9a8345a2405bd0b3281956f20554",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +46,7 @@
         }
     ],
     "wof:id":554699755,
-    "wof:lastmodified":1480835024,
+    "wof:lastmodified":1611184599,
     "wof:name":"06877",
     "wof:parent_id":404495963,
     "wof:placetype":"postalcode",

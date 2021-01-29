@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005547,
-    "geom:area_square_m":50460855.806334,
+    "geom:area_square_m":50460855.806331,
     "geom:bbox":"-73.761565,42.561799,-73.652687,42.676345",
     "geom:latitude":42.629775,
     "geom:longitude":-73.718095,
@@ -14,20 +14,25 @@
     "lbl:latitude":42.627836,
     "lbl:longitude":-73.717842,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Rensselaer",
+    "mz:postal_locality_alt":[
+        "Ravena"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404523061,
         85633793,
-        102081773
+        102081773,
+        404523061,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762133"
     },
     "wof:country":"US",
-    "wof:geomhash":"2899c52e2b393bebd4dec4f8b13018f7",
+    "wof:geomhash":"65a6b5597b55718be179159fe2fcd30d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554701227,
-    "wof:lastmodified":1480816337,
+    "wof:lastmodified":1611182616,
     "wof:name":"12144",
     "wof:parent_id":404523061,
     "wof:placetype":"postalcode",

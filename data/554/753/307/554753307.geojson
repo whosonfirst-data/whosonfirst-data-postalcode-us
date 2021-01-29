@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007174,
-    "geom:area_square_m":70561034.156233,
+    "geom:area_square_m":70561034.156322,
     "geom:bbox":"-122.143823,37.247995,-121.995542,37.341595",
     "geom:latitude":37.304932,
     "geom:longitude":-122.080656,
@@ -13,20 +13,26 @@
     "lbl:latitude":37.306491,
     "lbl:longitude":-122.08064,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cupertino",
+    "mz:postal_locality_alt":[
+        "Santa Clara",
+        "San Jose"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102081673,
         85922393,
-        102081673
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12797509"
     },
     "wof:country":"US",
-    "wof:geomhash":"592da80a844eb4f6f53642694ccfc49b",
+    "wof:geomhash":"904a5b3529048fde76065249aba9ad26",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554753307,
-    "wof:lastmodified":1480829303,
+    "wof:lastmodified":1611182925,
     "wof:name":"95014",
     "wof:parent_id":85922393,
     "wof:placetype":"postalcode",

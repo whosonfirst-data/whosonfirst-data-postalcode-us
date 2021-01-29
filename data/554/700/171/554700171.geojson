@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009287,
-    "geom:area_square_m":87773333.028754,
+    "geom:area_square_m":87773333.028824,
     "geom:bbox":"-74.270285,40.098812,-74.114467,40.219443",
     "geom:latitude":40.149707,
     "geom:longitude":-74.199976,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.149537,
     "lbl:longitude":-74.203987,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Howell",
+    "mz:postal_locality_alt":[
+        "Marlboro"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478349,
         85633793,
-        102085049
+        102085049,
+        404478349,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760857"
     },
     "wof:country":"US",
-    "wof:geomhash":"45b512ef12d3dd581bded550b0066e9f",
+    "wof:geomhash":"3ec312d626a49b9bc6e2d031ce522131",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554700171,
-    "wof:lastmodified":1480817269,
+    "wof:lastmodified":1611183210,
     "wof:name":"07731",
     "wof:parent_id":404478349,
     "wof:placetype":"postalcode",

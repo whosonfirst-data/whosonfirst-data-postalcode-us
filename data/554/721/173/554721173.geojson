@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009451,
-    "geom:area_square_m":88167392.732046,
+    "geom:area_square_m":88167392.732102,
     "geom:bbox":"-81.00259,40.974023,-80.857303,41.087805",
     "geom:latitude":41.022632,
     "geom:longitude":-80.945177,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.02099,
     "lbl:longitude":-80.938603,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Berlin Center",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404524001,
         85633793,
-        102084799
+        102084799,
+        404524001,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776776"
     },
     "wof:country":"US",
-    "wof:geomhash":"83073676a8d0d4d3e9464e34ea377919",
+    "wof:geomhash":"a386b1d1247d900834f382c1803fc32f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554721173,
-    "wof:lastmodified":1480796999,
+    "wof:lastmodified":1611184959,
     "wof:name":"44401",
     "wof:parent_id":404524001,
     "wof:placetype":"postalcode",

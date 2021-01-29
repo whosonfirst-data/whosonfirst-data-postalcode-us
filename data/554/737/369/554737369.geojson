@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041689,
-    "geom:area_square_m":403315468.686258,
+    "geom:area_square_m":403315468.686325,
     "geom:bbox":"-93.675919,38.387154,-93.364278,38.66018",
     "geom:latitude":38.519567,
     "geom:longitude":-93.514177,
@@ -14,20 +14,22 @@
     "lbl:latitude":38.516411,
     "lbl:longitude":-93.517553,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Windsor",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404517165,
         85633793,
-        102080805
+        102080805,
+        404517165,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786467"
     },
     "wof:country":"US",
-    "wof:geomhash":"2d8a7bdd14f84f2eb6c01979443601d3",
+    "wof:geomhash":"e0200270fd61d36decb6a6f6f6c8c975",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554737369,
-    "wof:lastmodified":1480903814,
+    "wof:lastmodified":1611182847,
     "wof:name":"65360",
     "wof:parent_id":404517165,
     "wof:placetype":"postalcode",

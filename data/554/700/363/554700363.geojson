@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001079,
-    "geom:area_square_m":10238500.418291,
+    "geom:area_square_m":10238500.418287,
     "geom:bbox":"-75.062879,39.87189,-75.016322,39.91815",
     "geom:latitude":39.89318,
     "geom:longitude":-75.036986,
@@ -14,21 +14,27 @@
     "lbl:latitude":39.892421,
     "lbl:longitude":-75.036651,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Haddonfield",
+    "mz:postal_locality_alt":[
+        "Collingswood",
+        "Haddon Twp"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477395,
         85633793,
+        102081131,
+        404477395,
         85975661,
-        102081131
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761006"
     },
     "wof:country":"US",
-    "wof:geomhash":"eb6deb6127a4a4f4617bc427139a6e5e",
+    "wof:geomhash":"12e002aaf584abe4da7748009188c4b8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554700363,
-    "wof:lastmodified":1480823437,
+    "wof:lastmodified":1611183178,
     "wof:name":"08033",
     "wof:parent_id":85975661,
     "wof:placetype":"postalcode",

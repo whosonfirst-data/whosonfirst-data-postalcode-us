@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027722,
-    "geom:area_square_m":249318965.829679,
+    "geom:area_square_m":249318965.829722,
     "geom:bbox":"-96.117216,43.257674,-95.860445,43.418413",
     "geom:latitude":43.336673,
     "geom:longitude":-96.000681,
@@ -14,20 +14,22 @@
     "lbl:latitude":43.336066,
     "lbl:longitude":-96.000764,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"George",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688713,
         102191575,
         85633793,
+        102086405,
         85944701,
-        102086405
+        85688713
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12780255"
     },
     "wof:country":"US",
-    "wof:geomhash":"af908a6dc082164b361478c4af38c895",
+    "wof:geomhash":"5c9ac54b4a71f13b8902dcf659f76620",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554726479,
-    "wof:lastmodified":1480912698,
+    "wof:lastmodified":1611184871,
     "wof:name":"51237",
     "wof:parent_id":85944701,
     "wof:placetype":"postalcode",

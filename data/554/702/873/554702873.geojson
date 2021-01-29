@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036317,
-    "geom:area_square_m":329240727.369127,
+    "geom:area_square_m":329240727.369183,
     "geom:bbox":"-77.477552,42.718694,-77.141564,42.953776",
     "geom:latitude":42.848136,
     "geom:longitude":-77.308181,
@@ -14,20 +14,26 @@
     "lbl:latitude":42.856358,
     "lbl:longitude":-77.303497,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Canandaigua",
+    "mz:postal_locality_alt":[
+        "Farmington",
+        "Brockport"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522861,
         85633793,
-        102082359
+        102082359,
+        404522861,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763222"
     },
     "wof:country":"US",
-    "wof:geomhash":"ed1d7ef4606af011fdbe24ec93d7c580",
+    "wof:geomhash":"7e1e51f34bd7b7e012f03371d4759f4d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554702873,
-    "wof:lastmodified":1480791522,
+    "wof:lastmodified":1611184138,
     "wof:name":"14424",
     "wof:parent_id":404522861,
     "wof:placetype":"postalcode",

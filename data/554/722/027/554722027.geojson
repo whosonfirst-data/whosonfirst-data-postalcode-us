@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022126,
-    "geom:area_square_m":213360579.369579,
+    "geom:area_square_m":213360579.369527,
     "geom:bbox":"-83.432528,38.628365,-83.173296,38.869887",
     "geom:latitude":38.75334,
     "geom:longitude":-83.307606,
@@ -14,20 +14,25 @@
     "lbl:latitude":38.760962,
     "lbl:longitude":-83.314324,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Blue Creek",
+    "mz:postal_locality_alt":[
+        "Seaman"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404524621,
         85633793,
-        102084821
+        102084821,
+        404524621,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777331"
     },
     "wof:country":"US",
-    "wof:geomhash":"1edbb798ab8a821cb8a5ecebc069558f",
+    "wof:geomhash":"538372c61149ab55dba0face40a6d84c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554722027,
-    "wof:lastmodified":1480833724,
+    "wof:lastmodified":1611183236,
     "wof:name":"45616",
     "wof:parent_id":404524621,
     "wof:placetype":"postalcode",

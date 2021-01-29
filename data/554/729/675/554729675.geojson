@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010903,
-    "geom:area_square_m":97316182.541498,
+    "geom:area_square_m":97316182.541497,
     "geom:bbox":"-92.609668,43.725082,-92.44893,43.834129",
     "geom:latitude":43.79516,
     "geom:longitude":-92.513385,
@@ -14,20 +14,22 @@
     "lbl:latitude":43.795157,
     "lbl:longitude":-92.513371,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Racine",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404513149,
         85633793,
-        102087717
+        102087717,
+        404513149,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782153"
     },
     "wof:country":"US",
-    "wof:geomhash":"c468b536e665f3f836ae9d82f74f3435",
+    "wof:geomhash":"b53e8463af8a8250fb267c45e362106f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554729675,
-    "wof:lastmodified":1480914704,
+    "wof:lastmodified":1611185409,
     "wof:name":"55967",
     "wof:parent_id":404513149,
     "wof:placetype":"postalcode",

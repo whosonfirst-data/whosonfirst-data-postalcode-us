@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017269,
-    "geom:area_square_m":160638870.723274,
+    "geom:area_square_m":160638870.723492,
     "geom:bbox":"-85.786112,41.102595,-85.623548,41.333799",
     "geom:latitude":41.210538,
     "geom:longitude":-85.697739,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.208342,
     "lbl:longitude":-85.684898,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pierceton",
+    "mz:postal_locality_alt":[
+        "Sidney"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404501835,
         85633793,
-        102087157
+        102087157,
+        404501835,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777808"
     },
     "wof:country":"US",
-    "wof:geomhash":"07821058b69acba79237ebe20dcb2485",
+    "wof:geomhash":"8916a15a61ecbb2ea84034eaf59ba545",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554722759,
-    "wof:lastmodified":1480915899,
+    "wof:lastmodified":1611183234,
     "wof:name":"46562",
     "wof:parent_id":404501835,
     "wof:placetype":"postalcode",

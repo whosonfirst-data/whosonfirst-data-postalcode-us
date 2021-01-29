@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023622,
-    "geom:area_square_m":208811120.606646,
+    "geom:area_square_m":208811120.606172,
     "geom:bbox":"-85.01592,44.261183,-84.851874,44.493879",
     "geom:latitude":44.366429,
     "geom:longitude":-84.913298,
@@ -14,20 +14,22 @@
     "lbl:latitude":44.363329,
     "lbl:longitude":-84.914644,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Merritt",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404508899,
         85633793,
-        102083057
+        102083057,
+        404508899,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779471"
     },
     "wof:country":"US",
-    "wof:geomhash":"8e9e6286114c6e6f8704daaa2807a159",
+    "wof:geomhash":"f202b46d525c090aafab54f62fcb3f31",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554725219,
-    "wof:lastmodified":1480843116,
+    "wof:lastmodified":1611183260,
     "wof:name":"49667",
     "wof:parent_id":404508899,
     "wof:placetype":"postalcode",

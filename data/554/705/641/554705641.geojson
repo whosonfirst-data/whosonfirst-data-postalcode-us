@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005488,
-    "geom:area_square_m":51395406.484123,
+    "geom:area_square_m":51395406.484121,
     "geom:bbox":"-75.608985,40.72079,-75.479864,40.804552",
     "geom:latitude":40.765954,
     "geom:longitude":-75.556563,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.765693,
     "lbl:longitude":-75.557509,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Walnutport",
+    "mz:postal_locality_alt":[
+        "Cherryville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404486359,
         85633793,
-        102081395
+        102081395,
+        404486359,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765076"
     },
     "wof:country":"US",
-    "wof:geomhash":"4c41ae3d1813b6def198decc9fa1675e",
+    "wof:geomhash":"8b7649756c9f1566c6a07b86084c8429",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554705641,
-    "wof:lastmodified":1480832455,
+    "wof:lastmodified":1611184119,
     "wof:name":"18088",
     "wof:parent_id":404486359,
     "wof:placetype":"postalcode",

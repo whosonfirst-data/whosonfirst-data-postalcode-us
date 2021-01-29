@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002724,
-    "geom:area_square_m":27320868.18581,
+    "geom:area_square_m":27320868.185756,
     "geom:bbox":"-84.015505,35.757864,-83.955746,35.844762",
     "geom:latitude":35.794158,
     "geom:longitude":-83.984468,
@@ -14,20 +14,25 @@
     "lbl:latitude":35.791709,
     "lbl:longitude":-83.987224,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Alcoa",
+    "mz:postal_locality_alt":[
+        "Louisville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688701,
         102191575,
         85633793,
+        102087017,
         101722709,
-        102087017
+        85688701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12774073"
     },
     "wof:country":"US",
-    "wof:geomhash":"7c9986665abaf4a9b3996b278ae0a5d3",
+    "wof:geomhash":"0c283291eb092aa0a01b9c6f752ae07c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554716955,
-    "wof:lastmodified":1480783664,
+    "wof:lastmodified":1611185356,
     "wof:name":"37701",
     "wof:parent_id":101722709,
     "wof:placetype":"postalcode",

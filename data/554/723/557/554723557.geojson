@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00961,
-    "geom:area_square_m":93288063.483503,
+    "geom:area_square_m":93288063.483513,
     "geom:bbox":"-87.219296,38.231038,-87.072975,38.325673",
     "geom:latitude":38.270917,
     "geom:longitude":-87.148072,
@@ -14,20 +14,22 @@
     "lbl:latitude":38.26835,
     "lbl:longitude":-87.158083,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Stendal",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404500373,
         85633793,
-        102087187
+        102087187,
+        404500373,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778307"
     },
     "wof:country":"US",
-    "wof:geomhash":"4a7ab67ac679e59018011eb439e55cc5",
+    "wof:geomhash":"32183b9a67888c143d2e7f9dd5dfbb2b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554723557,
-    "wof:lastmodified":1480787679,
+    "wof:lastmodified":1611183778,
     "wof:name":"47585",
     "wof:parent_id":404500373,
     "wof:placetype":"postalcode",

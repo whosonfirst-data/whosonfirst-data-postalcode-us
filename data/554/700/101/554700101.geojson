@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000549,
-    "geom:area_square_m":5125288.45106,
+    "geom:area_square_m":5125288.451068,
     "geom:bbox":"-74.010782,40.934896,-73.975581,40.955263",
     "geom:latitude":40.945034,
     "geom:longitude":-73.99249,
@@ -14,21 +14,26 @@
     "lbl:latitude":40.945239,
     "lbl:longitude":-73.992428,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Dumont",
+    "mz:postal_locality_alt":[
+        "Cresskill"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477655,
         85633793,
+        102086773,
+        404477655,
         85975903,
-        102086773
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760809"
     },
     "wof:country":"US",
-    "wof:geomhash":"4dfa2ccb70537fec3b7a53b7750ebdfa",
+    "wof:geomhash":"6cf4de40b32a1110b5fd51a60213ad7e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554700101,
-    "wof:lastmodified":1480908563,
+    "wof:lastmodified":1611183196,
     "wof:name":"07628",
     "wof:parent_id":85975903,
     "wof:placetype":"postalcode",

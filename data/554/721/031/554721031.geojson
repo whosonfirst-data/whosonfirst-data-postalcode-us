@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00662,
-    "geom:area_square_m":61498047.077735,
+    "geom:area_square_m":61498047.077701,
     "geom:bbox":"-81.670551,41.251372,-81.559261,41.351433",
     "geom:latitude":41.300861,
     "geom:longitude":-81.614228,
@@ -14,21 +14,26 @@
     "lbl:latitude":41.299668,
     "lbl:longitude":-81.616506,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cleveland",
+    "mz:postal_locality_alt":[
+        "Brecksville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404525051,
         85633793,
+        102084837,
+        404525051,
         101712539,
-        102084837
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776667"
     },
     "wof:country":"US",
-    "wof:geomhash":"1fcca6cdfaa04070b168a3db73531472",
+    "wof:geomhash":"74affc5d22b3348e4146aaa5d20875d2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554721031,
-    "wof:lastmodified":1480800399,
+    "wof:lastmodified":1611184955,
     "wof:name":"44141",
     "wof:parent_id":101712539,
     "wof:placetype":"postalcode",

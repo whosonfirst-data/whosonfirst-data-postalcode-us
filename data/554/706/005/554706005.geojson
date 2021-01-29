@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011756,
-    "geom:area_square_m":108110125.921644,
+    "geom:area_square_m":108110125.921581,
     "geom:bbox":"-75.890619,41.88008,-75.73005,41.998892",
     "geom:latitude":41.949739,
     "geom:longitude":-75.801518,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.970399,
     "lbl:longitude":-75.794149,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hallstead",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404483867,
         85633793,
-        102081381
+        102081381,
+        404483867,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765318"
     },
     "wof:country":"US",
-    "wof:geomhash":"04cf4bc8e0618a6331de010f142d9c8a",
+    "wof:geomhash":"62de4f4602bf13b5426869dd3e944ecf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554706005,
-    "wof:lastmodified":1480833361,
+    "wof:lastmodified":1611182712,
     "wof:name":"18822",
     "wof:parent_id":404483867,
     "wof:placetype":"postalcode",

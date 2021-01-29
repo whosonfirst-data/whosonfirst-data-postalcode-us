@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002362,
-    "geom:area_square_m":24368149.627182,
+    "geom:area_square_m":24368149.627209,
     "geom:bbox":"-86.848395,33.433242,-86.762484,33.500143",
     "geom:latitude":33.465275,
     "geom:longitude":-86.811716,
@@ -13,20 +13,25 @@
     "lbl:latitude":33.466348,
     "lbl:longitude":-86.811516,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Birmingham",
+    "mz:postal_locality_alt":[
+        "Homewood"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688675,
         102191575,
         85633793,
+        102085481,
         85914847,
-        102085481
+        85688675
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12773020"
     },
     "wof:country":"US",
-    "wof:geomhash":"4b0c1441e66716f7ed6928bd42f15c74",
+    "wof:geomhash":"cae7bfbbd67a16da5fa278380a2ef8a0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554715307,
-    "wof:lastmodified":1480808052,
+    "wof:lastmodified":1611183636,
     "wof:name":"35209",
     "wof:parent_id":85914847,
     "wof:placetype":"postalcode",

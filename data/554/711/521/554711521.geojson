@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034119,
-    "geom:area_square_m":344220249.522005,
+    "geom:area_square_m":344220249.521836,
     "geom:bbox":"-77.887803,35.215015,-77.659683,35.474215",
     "geom:latitude":35.322013,
     "geom:longitude":-77.781553,
@@ -14,19 +14,26 @@
     "lbl:latitude":35.321323,
     "lbl:longitude":-77.780856,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"La Grange",
+    "mz:postal_locality_alt":[
+        "Jacksonville",
+        "Goldsboro",
+        "Havelock"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688773,
-        102080971
+        102080971,
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12769729"
     },
     "wof:country":"US",
-    "wof:geomhash":"ce0006fccb3df047cf4cb3cb508e453a",
+    "wof:geomhash":"0b937694c6f7f831c84d144389c6dc8e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +44,7 @@
         }
     ],
     "wof:id":554711521,
-    "wof:lastmodified":1480906459,
+    "wof:lastmodified":1611185317,
     "wof:name":"28551",
     "wof:parent_id":102080971,
     "wof:placetype":"postalcode",

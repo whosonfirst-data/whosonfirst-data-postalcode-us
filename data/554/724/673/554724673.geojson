@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015471,
-    "geom:area_square_m":140737645.141985,
+    "geom:area_square_m":140737645.141858,
     "geom:bbox":"-84.247487,42.53145,-84.100119,42.772506",
     "geom:latitude":42.636521,
     "geom:longitude":-84.174498,
@@ -14,20 +14,22 @@
     "lbl:latitude":42.632742,
     "lbl:longitude":-84.166861,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Webberville",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404507647,
         85633793,
-        102083649
+        102083649,
+        404507647,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779082"
     },
     "wof:country":"US",
-    "wof:geomhash":"3eca3ee4c298202c883877dfa49e2ae7",
+    "wof:geomhash":"a740c7be9ff715d6f84089bfca43e1ed",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554724673,
-    "wof:lastmodified":1480843132,
+    "wof:lastmodified":1611183748,
     "wof:name":"48892",
     "wof:parent_id":404507647,
     "wof:placetype":"postalcode",

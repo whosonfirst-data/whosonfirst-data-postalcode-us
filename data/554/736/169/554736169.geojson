@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.069717,
-    "geom:area_square_m":680279685.196092,
+    "geom:area_square_m":680279685.195989,
     "geom:bbox":"-90.363738,37.70646,-89.924597,38.056277",
     "geom:latitude":37.895859,
     "geom:longitude":-90.168222,
@@ -14,20 +14,26 @@
     "lbl:latitude":37.885845,
     "lbl:longitude":-90.161531,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ste Genevieve",
+    "mz:postal_locality_alt":[
+        "Sainte Genevieve",
+        "Farmington"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404518367,
         85633793,
-        102086899
+        102086899,
+        404518367,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785815"
     },
     "wof:country":"US",
-    "wof:geomhash":"960e6e2be06cdaf7d122a75aa46f420d",
+    "wof:geomhash":"8b852f57999fdd011eb1b69f079e61cf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554736169,
-    "wof:lastmodified":1480908591,
+    "wof:lastmodified":1611183022,
     "wof:name":"63670",
     "wof:parent_id":404518367,
     "wof:placetype":"postalcode",

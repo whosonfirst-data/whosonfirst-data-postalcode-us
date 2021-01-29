@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006725,
-    "geom:area_square_m":62513590.681295,
+    "geom:area_square_m":62513590.681294,
     "geom:bbox":"-73.275248,41.220526,-73.140651,41.29936",
     "geom:latitude":41.260088,
     "geom:longitude":-73.209479,
@@ -14,21 +14,26 @@
     "lbl:latitude":41.267861,
     "lbl:longitude":-73.213691,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Trumbull",
+    "mz:postal_locality_alt":[
+        "Bridgeport"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688629,
         102191575,
-        404495859,
         85633793,
+        102084283,
+        404495859,
         85930973,
-        102084283
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760484"
     },
     "wof:country":"US",
-    "wof:geomhash":"9aa048417e8a7c398fc5086490e46487",
+    "wof:geomhash":"73ca29ac3567bb7b584ebbc89b091e22",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554779043,
-    "wof:lastmodified":1480799393,
+    "wof:lastmodified":1611183983,
     "wof:name":"06611",
     "wof:parent_id":85930973,
     "wof:placetype":"postalcode",

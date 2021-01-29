@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004437,
-    "geom:area_square_m":40733958.704499,
+    "geom:area_square_m":40733958.704483,
     "geom:bbox":"-70.912962,42.015703,-70.833403,42.096318",
     "geom:latitude":42.055786,
     "geom:longitude":-70.87229,
@@ -14,20 +14,25 @@
     "lbl:latitude":42.050464,
     "lbl:longitude":-70.867418,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hanson",
+    "mz:postal_locality_alt":[
+        "Brockton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476513,
         85633793,
-        102084367
+        102084367,
+        404476513,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758809"
     },
     "wof:country":"US",
-    "wof:geomhash":"adf54217cd972e62e961994604c75fb9",
+    "wof:geomhash":"1f7a58f72a7ffefcef5e494fa6cf62a0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554697433,
-    "wof:lastmodified":1480801203,
+    "wof:lastmodified":1611184659,
     "wof:name":"02341",
     "wof:parent_id":404476513,
     "wof:placetype":"postalcode",

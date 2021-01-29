@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009787,
-    "geom:area_square_m":91177757.810542,
+    "geom:area_square_m":91177757.810549,
     "geom:bbox":"-74.585763,41.050889,-74.403009,41.165894",
     "geom:latitude":41.112204,
     "geom:longitude":-74.495025,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.111812,
     "lbl:longitude":-74.495093,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Stockholm",
+    "mz:postal_locality_alt":[
+        "Hewitt"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478465,
         85633793,
-        102086779
+        102086779,
+        404478465,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760763"
     },
     "wof:country":"US",
-    "wof:geomhash":"3557b9eae8742e4b3c5337ef5b3f4598",
+    "wof:geomhash":"4195a628f09902268ddc7036d5745bb9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554700029,
-    "wof:lastmodified":1480914754,
+    "wof:lastmodified":1611183199,
     "wof:name":"07460",
     "wof:parent_id":404478465,
     "wof:placetype":"postalcode",

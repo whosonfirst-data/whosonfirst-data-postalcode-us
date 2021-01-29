@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00609,
-    "geom:area_square_m":57521145.646608,
+    "geom:area_square_m":57521145.646638,
     "geom:bbox":"-74.239031,40.14317,-74.104233,40.250854",
     "geom:latitude":40.19823,
     "geom:longitude":-74.160048,
@@ -14,20 +14,27 @@
     "lbl:latitude":40.204403,
     "lbl:longitude":-74.149231,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Farmingdale",
+    "mz:postal_locality_alt":[
+        "Wall Township",
+        "Tinton Falls",
+        "Howell"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478349,
         85633793,
-        102085049
+        102085049,
+        404478349,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760854"
     },
     "wof:country":"US",
-    "wof:geomhash":"c598719e48857a0b7a2fa395cd64556c",
+    "wof:geomhash":"351e13fc0b840417c0aea65b3defe9a2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554700167,
-    "wof:lastmodified":1480809855,
+    "wof:lastmodified":1611183178,
     "wof:name":"07727",
     "wof:parent_id":404478349,
     "wof:placetype":"postalcode",

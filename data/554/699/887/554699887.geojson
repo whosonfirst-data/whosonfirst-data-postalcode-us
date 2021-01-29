@@ -14,21 +14,27 @@
     "lbl:latitude":40.838144,
     "lbl:longitude":-74.055077,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Moonachie",
+    "mz:postal_locality_alt":[
+        "Carlstadt",
+        "Woodbridge"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477693,
         85633793,
+        102086773,
+        404477693,
         85975971,
-        102086773
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760664"
     },
     "wof:country":"US",
-    "wof:geomhash":"9e5895eae2ee1fdbbca49baacf4f6259",
+    "wof:geomhash":"046cc18137f98064ee77cc5aee82ac1e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554699887,
-    "wof:lastmodified":1480908560,
+    "wof:lastmodified":1611184605,
     "wof:name":"07074",
     "wof:parent_id":85975971,
     "wof:placetype":"postalcode",

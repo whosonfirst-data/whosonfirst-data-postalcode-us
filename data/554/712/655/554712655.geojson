@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.057265,
-    "geom:area_square_m":596048716.996002,
+    "geom:area_square_m":596048716.99584,
     "geom:bbox":"-80.970505,32.50133,-80.507975,32.874611",
     "geom:latitude":32.673017,
     "geom:longitude":-80.784321,
@@ -14,19 +14,25 @@
     "lbl:latitude":32.673313,
     "lbl:longitude":-80.765932,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Yemassee",
+    "mz:postal_locality_alt":[
+        "Hardeeville",
+        "Ridgeland"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688683,
-        102085471
+        102085471,
+        85688683
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770488"
     },
     "wof:country":"US",
-    "wof:geomhash":"7a57eda459fb0e9e94d7c500816faec8",
+    "wof:geomhash":"a2f67a34539fed0844d19ed7cd51762c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554712655,
-    "wof:lastmodified":1480816128,
+    "wof:lastmodified":1611183727,
     "wof:name":"29945",
     "wof:parent_id":102085471,
     "wof:placetype":"postalcode",

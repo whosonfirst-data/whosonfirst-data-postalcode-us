@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006769,
-    "geom:area_square_m":69293667.423984,
+    "geom:area_square_m":69293667.423985,
     "geom:bbox":"-118.718219,34.072687,-118.601323,34.17675",
     "geom:latitude":34.124262,
     "geom:longitude":-118.670105,
@@ -13,20 +13,27 @@
     "lbl:latitude":34.123305,
     "lbl:longitude":-118.671025,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Calabasas",
+    "mz:postal_locality_alt":[
+        "Hidden Hills",
+        "Agoura Hills",
+        "Woodland Hills"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086957,
         85923687,
-        102086957
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795959"
     },
     "wof:country":"US",
-    "wof:geomhash":"2ce6c0927f678241ef46d87dcdff4fc4",
+    "wof:geomhash":"541ecea0b31679876a661bf20cb70f4c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +45,7 @@
         }
     ],
     "wof:id":554784203,
-    "wof:lastmodified":1480912615,
+    "wof:lastmodified":1611183937,
     "wof:name":"91302",
     "wof:parent_id":85923687,
     "wof:placetype":"postalcode",

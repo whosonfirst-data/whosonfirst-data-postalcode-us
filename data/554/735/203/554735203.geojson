@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020936,
-    "geom:area_square_m":199949589.806684,
+    "geom:area_square_m":199949589.806596,
     "geom:bbox":"-89.925713,39.338074,-89.681669,39.501539",
     "geom:latitude":39.433871,
     "geom:longitude":-89.805273,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.42826,
     "lbl:longitude":-89.804994,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Girard",
+    "mz:postal_locality_alt":[
+        "Carlinville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404496707,
         85633793,
-        102082273
+        102082273,
+        404496707,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785262"
     },
     "wof:country":"US",
-    "wof:geomhash":"1524b05c787d5d24e96cb58743091aa4",
+    "wof:geomhash":"5a98768d8759dcbfa63adb0d7fe45616",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554735203,
-    "wof:lastmodified":1480903245,
+    "wof:lastmodified":1611184420,
     "wof:name":"62640",
     "wof:parent_id":404496707,
     "wof:placetype":"postalcode",

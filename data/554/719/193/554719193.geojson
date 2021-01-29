@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007732,
-    "geom:area_square_m":74298638.880167,
+    "geom:area_square_m":74298638.880154,
     "geom:bbox":"-84.708279,38.932008,-84.592219,39.074148",
     "geom:latitude":39.001186,
     "geom:longitude":-84.652765,
@@ -13,20 +13,25 @@
     "lbl:latitude":39.000968,
     "lbl:longitude":-84.651005,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Florence",
+    "mz:postal_locality_alt":[
+        "Fort Thomas"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688641,
         102191575,
         85633793,
+        102084481,
         85946821,
-        102084481
+        85688641
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12775487"
     },
     "wof:country":"US",
-    "wof:geomhash":"780ddb655cbbd024fa491c63012d547c",
+    "wof:geomhash":"139b14ca314a02435fe6e9b84816c056",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554719193,
-    "wof:lastmodified":1480803749,
+    "wof:lastmodified":1611184906,
     "wof:name":"41042",
     "wof:parent_id":85946821,
     "wof:placetype":"postalcode",

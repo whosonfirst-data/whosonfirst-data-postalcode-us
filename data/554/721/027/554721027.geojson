@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003837,
-    "geom:area_square_m":35599764.286072,
+    "geom:area_square_m":35599764.286055,
     "geom:bbox":"-81.971262,41.350685,-81.876559,41.404951",
     "geom:latitude":41.373654,
     "geom:longitude":-81.923252,
@@ -14,20 +14,26 @@
     "lbl:latitude":41.373654,
     "lbl:longitude":-81.923254,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cleveland",
+    "mz:postal_locality_alt":[
+        "Olmsted Falls",
+        "Columbia Station"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404524437,
         85633793,
-        102084837
+        102084837,
+        404524437,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776664"
     },
     "wof:country":"US",
-    "wof:geomhash":"1cbcbc6adac1d2af3c6bdaa3e344b094",
+    "wof:geomhash":"4137a741592a7c5cd6d6314a085f65f0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554721027,
-    "wof:lastmodified":1480835323,
+    "wof:lastmodified":1611184969,
     "wof:name":"44138",
     "wof:parent_id":404524437,
     "wof:placetype":"postalcode",

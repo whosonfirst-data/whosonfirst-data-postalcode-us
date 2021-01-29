@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005106,
-    "geom:area_square_m":44560375.074636,
+    "geom:area_square_m":44560375.074615,
     "geom:bbox":"-93.554485,45.065063,-93.431316,45.178927",
     "geom:latitude":45.104811,
     "geom:longitude":-93.494774,
@@ -13,21 +13,27 @@
     "lbl:latitude":45.106403,
     "lbl:longitude":-93.497029,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Osseo",
+    "mz:postal_locality_alt":[
+        "Maple Grove",
+        "Eden Prairie"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404511877,
         85633793,
+        102087709,
+        404511877,
         85969187,
-        102087709
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781795"
     },
     "wof:country":"US",
-    "wof:geomhash":"a31492aac7ca003c2fe0fb3d7211686e",
+    "wof:geomhash":"44c24daeb816e622a7c66dc39f99abd8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +46,7 @@
         }
     ],
     "wof:id":554729133,
-    "wof:lastmodified":1480789094,
+    "wof:lastmodified":1611185407,
     "wof:name":"55311",
     "wof:parent_id":85969187,
     "wof:placetype":"postalcode",

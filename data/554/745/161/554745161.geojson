@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002022,
-    "geom:area_square_m":21055577.403547,
+    "geom:area_square_m":21055577.403587,
     "geom:bbox":"-97.434253,32.599933,-97.353957,32.644793",
     "geom:latitude":32.61899,
     "geom:longitude":-97.393096,
@@ -13,20 +13,22 @@
     "lbl:latitude":32.619343,
     "lbl:longitude":-97.393958,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fort Worth",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102083201,
         101724443,
-        102083201
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12790939"
     },
     "wof:country":"US",
-    "wof:geomhash":"dad5c6dbd51c492c80a8a44a1000b688",
+    "wof:geomhash":"e1e0bc860fa8c4fcd42aaa9bb034ca17",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +40,7 @@
         }
     ],
     "wof:id":554745161,
-    "wof:lastmodified":1480840099,
+    "wof:lastmodified":1611185254,
     "wof:name":"76123",
     "wof:parent_id":101724443,
     "wof:placetype":"postalcode",

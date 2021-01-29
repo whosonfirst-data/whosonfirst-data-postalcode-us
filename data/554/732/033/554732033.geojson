@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.076756,
-    "geom:area_square_m":644887999.424391,
+    "geom:area_square_m":644887999.424292,
     "geom:bbox":"-99.228128,47.066364,-98.78266,47.32693",
     "geom:latitude":47.197705,
     "geom:longitude":-99.016788,
@@ -14,20 +14,25 @@
     "lbl:latitude":47.200511,
     "lbl:longitude":-99.011587,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pingree",
+    "mz:postal_locality_alt":[
+        "Woodworth"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688525,
         102191575,
-        404479757,
         85633793,
-        102082093
+        102082093,
+        404479757,
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12783343"
     },
     "wof:country":"US",
-    "wof:geomhash":"980a27e4ccd3c0cea9b8bf1c184aecc3",
+    "wof:geomhash":"625b209d46e5816a3e54fa7749ff2004",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554732033,
-    "wof:lastmodified":1480795378,
+    "wof:lastmodified":1611184399,
     "wof:name":"58476",
     "wof:parent_id":404479757,
     "wof:placetype":"postalcode",

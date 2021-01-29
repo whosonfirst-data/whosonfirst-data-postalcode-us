@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005622,
-    "geom:area_square_m":49797156.497387,
+    "geom:area_square_m":49797156.497383,
     "geom:bbox":"-73.2831,44.18445,-73.123788,44.275055",
     "geom:latitude":44.243411,
     "geom:longitude":-73.193347,
@@ -14,20 +14,26 @@
     "lbl:latitude":44.241937,
     "lbl:longitude":-73.194663,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"North Ferrisburg",
+    "mz:postal_locality_alt":[
+        "North Ferrisburgh",
+        "Monkton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688763,
         102191575,
-        404527393,
         85633793,
-        102080765
+        102080765,
+        404527393,
+        85688763
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760006"
     },
     "wof:country":"US",
-    "wof:geomhash":"7d378876b06cf95cb8dd8aca434b3a9a",
+    "wof:geomhash":"511120a2babe830fc779eaa47469cc09",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554698987,
-    "wof:lastmodified":1480903940,
+    "wof:lastmodified":1611184703,
     "wof:name":"05473",
     "wof:parent_id":404527393,
     "wof:placetype":"postalcode",

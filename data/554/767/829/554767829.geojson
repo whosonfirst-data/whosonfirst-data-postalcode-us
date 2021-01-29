@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000356,
-    "geom:area_square_m":3365823.829198,
+    "geom:area_square_m":3365823.829203,
     "geom:bbox":"-75.077417,40.125223,-75.047165,40.152385",
     "geom:latitude":40.137805,
     "geom:longitude":-75.064242,
@@ -14,21 +14,23 @@
     "lbl:latitude":40.137805,
     "lbl:longitude":-75.064241,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bryn Athyn",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485447,
         85633793,
+        102081355,
+        404485447,
         101717377,
-        102081355
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765412"
     },
     "wof:country":"US",
-    "wof:geomhash":"231d0cf9f4c8a565a059d9c48d67205a",
+    "wof:geomhash":"b83f3a7d14f25b0aede1389738b78117",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +43,7 @@
         }
     ],
     "wof:id":554767829,
-    "wof:lastmodified":1480818599,
+    "wof:lastmodified":1611184253,
     "wof:name":"19009",
     "wof:parent_id":101717377,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000565,
-    "geom:area_square_m":5303598.903315,
+    "geom:area_square_m":5303598.903324,
     "geom:bbox":"-73.752019,40.634631,-73.724787,40.685121",
     "geom:latitude":40.660464,
     "geom:longitude":-73.736176,
@@ -14,21 +14,27 @@
     "lbl:latitude":40.660065,
     "lbl:longitude":-73.736012,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Rosedale",
+    "mz:postal_locality_alt":[
+        "Jamaica",
+        "Queens"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404521211,
         85633793,
+        102082361,
+        404521211,
         85977539,
-        102082361
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761813"
     },
     "wof:country":"US",
-    "wof:geomhash":"169f802fbc336c15082de4bb601dd300",
+    "wof:geomhash":"31cb09b3ecd56d40e94e7a58ea46ffc4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554779697,
-    "wof:lastmodified":1480790620,
+    "wof:lastmodified":1611183984,
     "wof:name":"11422",
     "wof:parent_id":85977539,
     "wof:placetype":"postalcode",

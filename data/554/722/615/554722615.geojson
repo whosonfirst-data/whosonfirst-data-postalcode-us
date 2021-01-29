@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002625,
-    "geom:area_square_m":24919838.387607,
+    "geom:area_square_m":24919838.387597,
     "geom:bbox":"-86.010198,39.811586,-85.938067,39.877017",
     "geom:latitude":39.837713,
     "geom:longitude":-85.976352,
@@ -13,21 +13,23 @@
     "lbl:latitude":39.836957,
     "lbl:longitude":-85.974537,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Indianapolis",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404502029,
         85633793,
+        102087201,
+        404502029,
         85942569,
-        102087201
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777674"
     },
     "wof:country":"US",
-    "wof:geomhash":"01d1d0c0e944d40b980530a1e5940336",
+    "wof:geomhash":"1804a52b4b65d5fb095dfe535979d6bd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +42,7 @@
         }
     ],
     "wof:id":554722615,
-    "wof:lastmodified":1480911622,
+    "wof:lastmodified":1611183238,
     "wof:name":"46235",
     "wof:parent_id":85942569,
     "wof:placetype":"postalcode",

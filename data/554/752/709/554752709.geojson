@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.083023,
-    "geom:area_square_m":834224663.557194,
+    "geom:area_square_m":834224663.557462,
     "geom:bbox":"-119.653002,35.500427,-119.239547,35.790126",
     "geom:latitude":35.648026,
     "geom:longitude":-119.44872,
@@ -14,19 +14,25 @@
     "lbl:latitude":35.652242,
     "lbl:longitude":-119.4464,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wasco",
+    "mz:postal_locality_alt":[
+        "Tulare",
+        "Pond"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688637,
-        102081727
+        102081727,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796810"
     },
     "wof:country":"US",
-    "wof:geomhash":"4f61442e8db2c389f737ac089a95a63a",
+    "wof:geomhash":"2ff84de29d1fe4705efef2a06510baef",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554752709,
-    "wof:lastmodified":1480831478,
+    "wof:lastmodified":1611182515,
     "wof:name":"93280",
     "wof:parent_id":102081727,
     "wof:placetype":"postalcode",

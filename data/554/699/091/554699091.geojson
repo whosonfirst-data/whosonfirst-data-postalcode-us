@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033586,
-    "geom:area_square_m":299648341.589442,
+    "geom:area_square_m":299648341.589283,
     "geom:bbox":"-73.243819,43.708918,-72.958853,43.971835",
     "geom:latitude":43.820057,
     "geom:longitude":-73.091892,
@@ -14,21 +14,26 @@
     "lbl:latitude":43.810474,
     "lbl:longitude":-73.09028,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Brandon",
+    "mz:postal_locality_alt":[
+        "Forest Dale"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688763,
         102191575,
-        404527049,
         85633793,
+        102080771,
+        404527049,
         101728363,
-        102080771
+        85688763
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760075"
     },
     "wof:country":"US",
-    "wof:geomhash":"e954608a32390985afbb8c46fcad6e2f",
+    "wof:geomhash":"ffee68e6ce27184d8b445e8bedec1a82",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554699091,
-    "wof:lastmodified":1480905329,
+    "wof:lastmodified":1611184608,
     "wof:name":"05733",
     "wof:parent_id":101728363,
     "wof:placetype":"postalcode",

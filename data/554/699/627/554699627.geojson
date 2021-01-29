@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011187,
-    "geom:area_square_m":103640749.134093,
+    "geom:area_square_m":103640749.134099,
     "geom:bbox":"-73.327114,41.420544,-73.155288,41.515279",
     "geom:latitude":41.474544,
     "geom:longitude":-73.232944,
@@ -14,21 +14,26 @@
     "lbl:latitude":41.47598,
     "lbl:longitude":-73.229692,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Southbury",
+    "mz:postal_locality_alt":[
+        "Fairfield"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688629,
         102191575,
-        404495799,
         85633793,
+        102086923,
+        404495799,
         85931399,
-        102086923
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760435"
     },
     "wof:country":"US",
-    "wof:geomhash":"de03bb56444ed350849feb0fd5fc6a21",
+    "wof:geomhash":"06a1da9b95d5501e37fb85c19892f13e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554699627,
-    "wof:lastmodified":1480916209,
+    "wof:lastmodified":1611184606,
     "wof:name":"06488",
     "wof:parent_id":85931399,
     "wof:placetype":"postalcode",

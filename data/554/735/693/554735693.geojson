@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000984,
-    "geom:area_square_m":9556570.611772,
+    "geom:area_square_m":9556570.611771,
     "geom:bbox":"-90.425972,38.23461,-90.368444,38.28259",
     "geom:latitude":38.259023,
     "geom:longitude":-90.39291,
@@ -14,21 +14,26 @@
     "lbl:latitude":38.257558,
     "lbl:longitude":-90.39313,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Herculaneum",
+    "mz:postal_locality_alt":[
+        "Hillsboro"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404518217,
         85633793,
+        102080787,
+        404518217,
         85970995,
-        102080787
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785556"
     },
     "wof:country":"US",
-    "wof:geomhash":"53964a36dd4f731dd7b03b53775b2e36",
+    "wof:geomhash":"5eaa996c2255cb8d23ada6f3eab9fd3c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554735693,
-    "wof:lastmodified":1480904316,
+    "wof:lastmodified":1611184420,
     "wof:name":"63048",
     "wof:parent_id":85970995,
     "wof:placetype":"postalcode",

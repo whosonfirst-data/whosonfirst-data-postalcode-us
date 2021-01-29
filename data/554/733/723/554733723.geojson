@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022236,
-    "geom:area_square_m":203921952.486576,
+    "geom:area_square_m":203921952.486443,
     "geom:bbox":"-90.317949,41.999138,-90.020582,42.2104",
     "geom:latitude":42.125616,
     "geom:longitude":-90.129803,
@@ -14,20 +14,22 @@
     "lbl:latitude":42.12437,
     "lbl:longitude":-90.122436,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Savanna",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404496197,
         85633793,
-        102082297
+        102082297,
+        404496197,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784457"
     },
     "wof:country":"US",
-    "wof:geomhash":"eeb3262597e82de1e93165a4e27eaf1e",
+    "wof:geomhash":"44264bbd95ff93c3eebb9bf929711dd1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554733723,
-    "wof:lastmodified":1480913835,
+    "wof:lastmodified":1611184229,
     "wof:name":"61074",
     "wof:parent_id":404496197,
     "wof:placetype":"postalcode",

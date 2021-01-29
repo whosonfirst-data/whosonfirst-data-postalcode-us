@@ -13,21 +13,27 @@
     "lbl:latitude":40.96364,
     "lbl:longitude":-72.553489,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Laurel",
+    "mz:postal_locality_alt":[
+        "Bridgehampton",
+        "Jamesport"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404523179,
         85633793,
+        102082395,
+        404523179,
         85979665,
-        102082395
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762005"
     },
     "wof:country":"US",
-    "wof:geomhash":"9a7923b4379c96ad35c3d09dc6adf825",
+    "wof:geomhash":"8b1566a78d78a6913191cd8bb6ed7d8d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +46,7 @@
         }
     ],
     "wof:id":554780019,
-    "wof:lastmodified":1480794863,
+    "wof:lastmodified":1611185186,
     "wof:name":"11948",
     "wof:parent_id":85979665,
     "wof:placetype":"postalcode",

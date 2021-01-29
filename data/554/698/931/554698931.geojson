@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000442,
-    "geom:area_square_m":3895832.504792,
+    "geom:area_square_m":3895832.504796,
     "geom:bbox":"-73.201992,44.484359,-73.165782,44.506328",
     "geom:latitude":44.495081,
     "geom:longitude":-73.184291,
@@ -14,21 +14,26 @@
     "lbl:latitude":44.495587,
     "lbl:longitude":-73.184857,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Winooski",
+    "mz:postal_locality_alt":[
+        "Williston"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688763,
         102191575,
-        404527505,
         85633793,
+        102087451,
+        404527505,
         101728311,
-        102087451
+        85688763
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759969"
     },
     "wof:country":"US",
-    "wof:geomhash":"b86bf5e5e3146e742f22a892b9e0b79a",
+    "wof:geomhash":"17232aaf7e0f27cc6166fa5c5fa5e8de",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554698931,
-    "wof:lastmodified":1480782815,
+    "wof:lastmodified":1611184675,
     "wof:name":"05404",
     "wof:parent_id":101728311,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0384,
-    "geom:area_square_m":329660308.365747,
+    "geom:area_square_m":329660308.36585,
     "geom:bbox":"-96.804487,45.935196,-96.554411,46.123561",
     "geom:latitude":46.030093,
     "geom:longitude":-96.670068,
@@ -14,20 +14,25 @@
     "lbl:latitude":46.03006,
     "lbl:longitude":-96.670069,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fairmount",
+    "mz:postal_locality_alt":[
+        "Wahpeton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688525,
         102191575,
-        404479433,
         85633793,
-        102082103
+        102082103,
+        404479433,
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12783126"
     },
     "wof:country":"US",
-    "wof:geomhash":"f6bff881b0a52895b09a10e657075376",
+    "wof:geomhash":"c2be24344580fd74c640b3cefeef3869",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554731613,
-    "wof:lastmodified":1480917001,
+    "wof:lastmodified":1611183077,
     "wof:name":"58030",
     "wof:parent_id":404479433,
     "wof:placetype":"postalcode",

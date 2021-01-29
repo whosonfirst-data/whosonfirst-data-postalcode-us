@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041751,
-    "geom:area_square_m":366917074.429687,
+    "geom:area_square_m":366917074.429585,
     "geom:bbox":"-70.955129,44.5427,-70.695916,44.862622",
     "geom:latitude":44.706716,
     "geom:longitude":-70.821475,
@@ -14,20 +14,22 @@
     "lbl:latitude":44.708634,
     "lbl:longitude":-70.854911,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Andover",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404475755,
         85633793,
-        102087437
+        102087437,
+        404475755,
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759462"
     },
     "wof:country":"US",
-    "wof:geomhash":"7f04d4c4d8a2d1242a5b251168070c48",
+    "wof:geomhash":"128a54ab0ad6e39d37966aedbf9d33dc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554698231,
-    "wof:lastmodified":1480787529,
+    "wof:lastmodified":1611184698,
     "wof:name":"04216",
     "wof:parent_id":404475755,
     "wof:placetype":"postalcode",

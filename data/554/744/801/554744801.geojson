@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01708,
-    "geom:area_square_m":178510792.301502,
+    "geom:area_square_m":178510792.301478,
     "geom:bbox":"-95.684892,32.213846,-95.499157,32.372698",
     "geom:latitude":32.304039,
     "geom:longitude":-95.600041,
@@ -14,20 +14,25 @@
     "lbl:latitude":32.302029,
     "lbl:longitude":-95.600894,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Brownsboro",
+    "mz:postal_locality_alt":[
+        "Frankston"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102086741,
         101724933,
-        102086741
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12790738"
     },
     "wof:country":"US",
-    "wof:geomhash":"5b1286b3ee06297529c887fb7f4cb108",
+    "wof:geomhash":"c0dec6f6b46d1637f25da543d7ee2e9d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554744801,
-    "wof:lastmodified":1480916138,
+    "wof:lastmodified":1611184747,
     "wof:name":"75756",
     "wof:parent_id":101724933,
     "wof:placetype":"postalcode",

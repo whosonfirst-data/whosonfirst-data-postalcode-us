@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045654,
-    "geom:area_square_m":427429915.010544,
+    "geom:area_square_m":427429915.010296,
     "geom:bbox":"-85.943739,40.661415,-85.639902,40.913424",
     "geom:latitude":40.786046,
     "geom:longitude":-85.829076,
@@ -14,21 +14,26 @@
     "lbl:latitude":40.787305,
     "lbl:longitude":-85.826434,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wabash",
+    "mz:postal_locality_alt":[
+        "Oakford"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404502061,
         85633793,
+        102086467,
+        404502061,
         85942203,
-        102086467
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778016"
     },
     "wof:country":"US",
-    "wof:geomhash":"047b7af210d8c35fced82c058672e019",
+    "wof:geomhash":"e61ebdd9bd5bea702c27099bc64c63d6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554723053,
-    "wof:lastmodified":1480910217,
+    "wof:lastmodified":1611183786,
     "wof:name":"46992",
     "wof:parent_id":85942203,
     "wof:placetype":"postalcode",

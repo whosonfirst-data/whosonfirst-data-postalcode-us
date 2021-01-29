@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000062,
-    "geom:area_square_m":599836.876013,
+    "geom:area_square_m":599836.876017,
     "geom:bbox":"-121.818683,38.726654,-121.804063,38.735597",
     "geom:latitude":38.732368,
     "geom:longitude":-121.810263,
@@ -14,20 +14,22 @@
     "lbl:latitude":38.732368,
     "lbl:longitude":-121.810263,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Yolo",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102082309,
         85925705,
-        102082309
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12797967"
     },
     "wof:country":"US",
-    "wof:geomhash":"458027677043308b4f4ad5b2169bb602",
+    "wof:geomhash":"d5c6f5bcc8c1ead0c264e2bf96f45fe3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554773033,
-    "wof:lastmodified":1480791834,
+    "wof:lastmodified":1611185149,
     "wof:name":"95697",
     "wof:parent_id":85925705,
     "wof:placetype":"postalcode",

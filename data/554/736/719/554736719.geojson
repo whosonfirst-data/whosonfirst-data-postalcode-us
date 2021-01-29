@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020911,
-    "geom:area_square_m":197581820.032586,
+    "geom:area_square_m":197581820.032683,
     "geom:bbox":"-95.314275,40.063995,-95.125981,40.262788",
     "geom:latitude":40.16901,
     "geom:longitude":-95.223915,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.160139,
     "lbl:longitude":-95.229188,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mound City",
+    "mz:postal_locality_alt":[
+        "Savannah"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404515641,
         85633793,
-        102085283
+        102085283,
+        404515641,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786134"
     },
     "wof:country":"US",
-    "wof:geomhash":"6848eb752364d4023d6d380755b237ec",
+    "wof:geomhash":"3600e6b50cf59d0acbdd59ea6959b56b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554736719,
-    "wof:lastmodified":1480808141,
+    "wof:lastmodified":1611183052,
     "wof:name":"64470",
     "wof:parent_id":404515641,
     "wof:placetype":"postalcode",

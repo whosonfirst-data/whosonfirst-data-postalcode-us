@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03189,
-    "geom:area_square_m":315482424.158851,
+    "geom:area_square_m":315482424.158581,
     "geom:bbox":"-82.344758,36.709309,-81.93576,36.998232",
     "geom:latitude":36.864322,
     "geom:longitude":-82.118659,
@@ -14,19 +14,24 @@
     "lbl:latitude":36.858753,
     "lbl:longitude":-82.120965,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lebanon",
+    "mz:postal_locality_alt":[
+        "Haysi"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688747,
-        102084923
+        102084923,
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12767741"
     },
     "wof:country":"US",
-    "wof:geomhash":"96787b1b4d0607521f0b9fa361288aa1",
+    "wof:geomhash":"6ec42f0e828f15ed4adfd6f33d6295c5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554708765,
-    "wof:lastmodified":1480841077,
+    "wof:lastmodified":1611182763,
     "wof:name":"24266",
     "wof:parent_id":102084923,
     "wof:placetype":"postalcode",

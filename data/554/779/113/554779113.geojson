@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000627,
-    "geom:area_square_m":5869805.985012,
+    "geom:area_square_m":5869805.985024,
     "geom:bbox":"-74.076591,40.735341,-74.03762,40.768867",
     "geom:latitude":40.751717,
     "geom:longitude":-74.056336,
@@ -13,21 +13,23 @@
     "lbl:latitude":40.750877,
     "lbl:longitude":-74.056865,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Jersey City",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478139,
         85633793,
+        102080719,
+        404478139,
         85975295,
-        102080719
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760726"
     },
     "wof:country":"US",
-    "wof:geomhash":"a89a5894dfe263c61261937e23b8f31e",
+    "wof:geomhash":"3707a1c9195571817c7943182a25af0c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +42,7 @@
         }
     ],
     "wof:id":554779113,
-    "wof:lastmodified":1480906621,
+    "wof:lastmodified":1611183990,
     "wof:name":"07307",
     "wof:parent_id":85975295,
     "wof:placetype":"postalcode",

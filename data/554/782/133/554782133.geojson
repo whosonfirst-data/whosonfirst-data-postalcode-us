@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003132,
-    "geom:area_square_m":34048119.810145,
+    "geom:area_square_m":34048119.810204,
     "geom:bbox":"-82.63986,28.433843,-82.559596,28.523297",
     "geom:latitude":28.469963,
     "geom:longitude":-82.597526,
@@ -13,20 +13,25 @@
     "lbl:latitude":28.468477,
     "lbl:longitude":-82.595728,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Spring Hill",
+    "mz:postal_locality_alt":[
+        "Weeki Wachee"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688651,
         102191575,
         85633793,
+        102085827,
         85935477,
-        102085827
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12772788"
     },
     "wof:country":"US",
-    "wof:geomhash":"2f8dbea40734a0a23dfa01e0a13b3d26",
+    "wof:geomhash":"906b1db7a18731babc60d9b4b94ca981",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554782133,
-    "wof:lastmodified":1480814938,
+    "wof:lastmodified":1611183602,
     "wof:name":"34606",
     "wof:parent_id":85935477,
     "wof:placetype":"postalcode",

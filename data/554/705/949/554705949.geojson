@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008024,
-    "geom:area_square_m":74541672.742986,
+    "geom:area_square_m":74541672.742975,
     "geom:bbox":"-75.841278,41.25505,-75.652922,41.344848",
     "geom:latitude":41.297133,
     "geom:longitude":-75.740266,
@@ -13,20 +13,27 @@
     "lbl:latitude":41.29823,
     "lbl:longitude":-75.738725,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pittston",
+    "mz:postal_locality_alt":[
+        "Hughestown",
+        "Pittston Twp",
+        "Yatesville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404486983,
         85633793,
-        102081351
+        102081351,
+        404486983,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765271"
     },
     "wof:country":"US",
-    "wof:geomhash":"452f28b411b76c3b86e3d245b7521e4c",
+    "wof:geomhash":"9df7e24b85cda6e71e1139f55f121730",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +45,7 @@
         }
     ],
     "wof:id":554705949,
-    "wof:lastmodified":1480832113,
+    "wof:lastmodified":1611184108,
     "wof:name":"18640",
     "wof:parent_id":404486983,
     "wof:placetype":"postalcode",

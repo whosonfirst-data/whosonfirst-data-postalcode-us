@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.06022,
-    "geom:area_square_m":533603640.675354,
+    "geom:area_square_m":533603640.675198,
     "geom:bbox":"-102.566442,43.963066,-102.298089,44.436423",
     "geom:latitude":44.224963,
     "geom:longitude":-102.431106,
@@ -14,20 +14,22 @@
     "lbl:latitude":44.221139,
     "lbl:longitude":-102.461626,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wasta",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688693,
         102191575,
-        404490509,
         85633793,
-        102086083
+        102086083,
+        404490509,
+        85688693
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12783102"
     },
     "wof:country":"US",
-    "wof:geomhash":"c524cd6b4ff3fdb8d6ccbd0a20fcff4f",
+    "wof:geomhash":"112f99d95f5206dd23df3ec77bec0560",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554731565,
-    "wof:lastmodified":1480911765,
+    "wof:lastmodified":1611183076,
     "wof:name":"57791",
     "wof:parent_id":404490509,
     "wof:placetype":"postalcode",

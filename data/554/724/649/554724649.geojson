@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.054288,
-    "geom:area_square_m":490911667.230699,
+    "geom:area_square_m":490911667.230516,
     "geom:bbox":"-84.739638,42.885919,-84.409428,43.139322",
     "geom:latitude":43.004289,
     "geom:longitude":-84.57906,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.003075,
     "lbl:longitude":-84.577361,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"St Johns",
+    "mz:postal_locality_alt":[
+        "Saint Johns"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404507233,
         85633793,
-        102083123
+        102083123,
+        404507233,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779069"
     },
     "wof:country":"US",
-    "wof:geomhash":"022a28f9e8700ed470e9bcae68ebc74d",
+    "wof:geomhash":"bac805aaf1900586961855d88cb3b92c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554724649,
-    "wof:lastmodified":1480835590,
+    "wof:lastmodified":1611183763,
     "wof:name":"48879",
     "wof:parent_id":404507233,
     "wof:placetype":"postalcode",

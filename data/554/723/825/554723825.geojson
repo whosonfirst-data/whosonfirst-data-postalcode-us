@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011773,
-    "geom:area_square_m":111418244.966469,
+    "geom:area_square_m":111418244.966383,
     "geom:bbox":"-87.092142,39.968993,-86.997492,40.142071",
     "geom:latitude":40.061867,
     "geom:longitude":-87.054277,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.061841,
     "lbl:longitude":-87.054281,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Waynetown",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404501379,
         85633793,
-        102087037
+        102087037,
+        404501379,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778509"
     },
     "wof:country":"US",
-    "wof:geomhash":"2aad0747ebcbdd4965b986bec7d913c7",
+    "wof:geomhash":"15e0bd45e458bd14114d729a3a005ccc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554723825,
-    "wof:lastmodified":1480913709,
+    "wof:lastmodified":1611183804,
     "wof:name":"47990",
     "wof:parent_id":404501379,
     "wof:placetype":"postalcode",

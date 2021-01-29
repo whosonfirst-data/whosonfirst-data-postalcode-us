@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.105564,
-    "geom:area_square_m":888068351.704452,
+    "geom:area_square_m":888068351.704417,
     "geom:bbox":"-101.405252,46.981237,-100.878371,47.296581",
     "geom:latitude":47.129211,
     "geom:longitude":-101.150113,
@@ -14,20 +14,25 @@
     "lbl:latitude":47.127782,
     "lbl:longitude":-101.14292,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Center",
+    "mz:postal_locality_alt":[
+        "Hensler"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688525,
         102191575,
-        404481225,
         85633793,
-        102081489
+        102081489,
+        404481225,
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12783374"
     },
     "wof:country":"US",
-    "wof:geomhash":"78eda08a352bb148d605aff8c5ecbc33",
+    "wof:geomhash":"12e63b41b94816a89ae0404137101cce",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554732093,
-    "wof:lastmodified":1480829254,
+    "wof:lastmodified":1611184402,
     "wof:name":"58530",
     "wof:parent_id":404481225,
     "wof:placetype":"postalcode",

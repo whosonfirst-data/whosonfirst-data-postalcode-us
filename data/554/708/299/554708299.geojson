@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003544,
-    "geom:area_square_m":34943244.521805,
+    "geom:area_square_m":34943244.521877,
     "geom:bbox":"-76.628018,37.074022,-76.536874,37.17571",
     "geom:latitude":37.128284,
     "geom:longitude":-76.585778,
@@ -14,20 +14,25 @@
     "lbl:latitude":37.105026,
     "lbl:longitude":-76.574792,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fort Eustis",
+    "mz:postal_locality_alt":[
+        "Newport News"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688747,
         102191575,
         85633793,
+        102085961,
         101729041,
-        102085961
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12767441"
     },
     "wof:country":"US",
-    "wof:geomhash":"76b5d322d0e66584134a3ae7d3c1dd17",
+    "wof:geomhash":"3328ec867a917cfda60176246db59230",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554708299,
-    "wof:lastmodified":1480809394,
+    "wof:lastmodified":1611182807,
     "wof:name":"23604",
     "wof:parent_id":101729041,
     "wof:placetype":"postalcode",

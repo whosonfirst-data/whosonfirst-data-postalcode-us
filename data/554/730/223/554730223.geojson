@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012113,
-    "geom:area_square_m":104042433.187161,
+    "geom:area_square_m":104042433.187157,
     "geom:bbox":"-95.357902,45.933283,-95.104844,46.049342",
     "geom:latitude":46.002017,
     "geom:longitude":-95.227465,
@@ -14,20 +14,22 @@
     "lbl:latitude":46.010823,
     "lbl:longitude":-95.215688,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Carlos",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404509575,
         85633793,
-        102087127
+        102087127,
+        404509575,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782409"
     },
     "wof:country":"US",
-    "wof:geomhash":"343c6bc062ad3d24d50e72f9176a082d",
+    "wof:geomhash":"3830943a3576d2d330a89d105c268bbb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554730223,
-    "wof:lastmodified":1480787483,
+    "wof:lastmodified":1611182747,
     "wof:name":"56319",
     "wof:parent_id":404509575,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014897,
-    "geom:area_square_m":153572086.347009,
+    "geom:area_square_m":153572086.346933,
     "geom:bbox":"-86.653431,33.433676,-86.449339,33.58755",
     "geom:latitude":33.520904,
     "geom:longitude":-86.559958,
@@ -14,20 +14,25 @@
     "lbl:latitude":33.530066,
     "lbl:longitude":-86.553303,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Leeds",
+    "mz:postal_locality_alt":[
+        "Moody"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688675,
         102191575,
         85633793,
+        102085481,
         85913477,
-        102085481
+        85688675
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12772958"
     },
     "wof:country":"US",
-    "wof:geomhash":"8cdbf0cae43708ccd4ea67e1c798dfa8",
+    "wof:geomhash":"425f011444baf52f56372acc591caeff",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554715201,
-    "wof:lastmodified":1480811907,
+    "wof:lastmodified":1611183681,
     "wof:name":"35094",
     "wof:parent_id":85913477,
     "wof:placetype":"postalcode",

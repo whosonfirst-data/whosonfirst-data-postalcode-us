@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004735,
-    "geom:area_square_m":46139470.11249,
+    "geom:area_square_m":46139470.112438,
     "geom:bbox":"-121.86902,37.964689,-121.750763,38.028842",
     "geom:latitude":37.996762,
     "geom:longitude":-121.812645,
@@ -13,20 +13,26 @@
     "lbl:latitude":37.996501,
     "lbl:longitude":-121.812301,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Antioch",
+    "mz:postal_locality_alt":[
+        "Concord",
+        "Vallejo"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086225,
         85922201,
-        102086225
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12797304"
     },
     "wof:country":"US",
-    "wof:geomhash":"242439005b6d4e69ed105debea94d0da",
+    "wof:geomhash":"26440095ba933e42bee0d8c1364cf9f8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554753081,
-    "wof:lastmodified":1480908616,
+    "wof:lastmodified":1611182960,
     "wof:name":"94509",
     "wof:parent_id":85922201,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004053,
-    "geom:area_square_m":41534609.285931,
+    "geom:area_square_m":41534609.285972,
     "geom:bbox":"-84.3611,33.975428,-84.269275,34.077773",
     "geom:latitude":34.028424,
     "geom:longitude":-84.317628,
@@ -13,20 +13,26 @@
     "lbl:latitude":34.028483,
     "lbl:longitude":-84.311423,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Roswell",
+    "mz:postal_locality_alt":[
+        "Alpharetta",
+        "Atlanta"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688535,
         102191575,
         85633793,
+        102083603,
         85937163,
-        102083603
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770554"
     },
     "wof:country":"US",
-    "wof:geomhash":"48022ba2694a4334f7d84d7008d3b484",
+    "wof:geomhash":"f07be1a528b6a3e6ee43110dbc01f869",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554712753,
-    "wof:lastmodified":1480841938,
+    "wof:lastmodified":1611183694,
     "wof:name":"30076",
     "wof:parent_id":85937163,
     "wof:placetype":"postalcode",

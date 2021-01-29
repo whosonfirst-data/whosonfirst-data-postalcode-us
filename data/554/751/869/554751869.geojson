@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002171,
-    "geom:area_square_m":22214666.853424,
+    "geom:area_square_m":22214666.853485,
     "geom:bbox":"-118.021906,34.102902,-117.975378,34.179722",
     "geom:latitude":34.152236,
     "geom:longitude":-118.000667,
@@ -13,20 +13,26 @@
     "lbl:latitude":34.1528,
     "lbl:longitude":-118.000482,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Monrovia",
+    "mz:postal_locality_alt":[
+        "Arcadia",
+        "El Monte"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086957,
         85923503,
-        102086957
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795893"
     },
     "wof:country":"US",
-    "wof:geomhash":"0b8d2e70b30623c7cfe859d45d944a91",
+    "wof:geomhash":"206496d4f5c671f8e8e36cb7f0af56bb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554751869,
-    "wof:lastmodified":1480912626,
+    "wof:lastmodified":1611184336,
     "wof:name":"91016",
     "wof:parent_id":85923503,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005443,
-    "geom:area_square_m":49492584.833342,
+    "geom:area_square_m":49492584.833365,
     "geom:bbox":"-83.515104,42.612751,-83.441914,42.704609",
     "geom:latitude":42.657862,
     "geom:longitude":-83.475266,
@@ -14,20 +14,27 @@
     "lbl:latitude":42.660223,
     "lbl:longitude":-83.47999,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"White Lake",
+    "mz:postal_locality_alt":[
+        "Sterling Heights",
+        "Shelby Twp",
+        "Utica"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404506361,
         85633793,
-        102083713
+        102083713,
+        404506361,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778798"
     },
     "wof:country":"US",
-    "wof:geomhash":"3b4bfc7333ad3114173c6d481c17892c",
+    "wof:geomhash":"31865ce06cd1b942421049fc9f3b1754",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554724227,
-    "wof:lastmodified":1480834714,
+    "wof:lastmodified":1611183745,
     "wof:name":"48386",
     "wof:parent_id":404506361,
     "wof:placetype":"postalcode",

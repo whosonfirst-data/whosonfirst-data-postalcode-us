@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000683,
-    "geom:area_square_m":6343289.483529,
+    "geom:area_square_m":6343289.483522,
     "geom:bbox":"-73.779212,41.304018,-73.744879,41.338164",
     "geom:latitude":41.319174,
     "geom:longitude":-73.764475,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.321182,
     "lbl:longitude":-73.769879,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Granite Springs",
+    "mz:postal_locality_alt":[
+        "Yorktown Heights"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404523393,
         85633793,
-        102082373
+        102082373,
+        404523393,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761544"
     },
     "wof:country":"US",
-    "wof:geomhash":"4476a17e2852a4f7b1e9610752f9dd02",
+    "wof:geomhash":"6afbe0f663e7aade111c774fc2aba2e1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554700845,
-    "wof:lastmodified":1480796135,
+    "wof:lastmodified":1611183179,
     "wof:name":"10527",
     "wof:parent_id":404523393,
     "wof:placetype":"postalcode",

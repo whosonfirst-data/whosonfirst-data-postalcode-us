@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005051,
-    "geom:area_square_m":47295519.689079,
+    "geom:area_square_m":47295519.689061,
     "geom:bbox":"-89.766236,40.738165,-89.669479,40.817592",
     "geom:latitude":40.778974,
     "geom:longitude":-89.722979,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.77897,
     "lbl:longitude":-89.722981,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Edwards",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404498775,
         85633793,
-        102081247
+        102081247,
+        404498775,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784682"
     },
     "wof:country":"US",
-    "wof:geomhash":"9a2947a47b04d520b437f8bf2b0aac29",
+    "wof:geomhash":"d0394ff5e423f4a3fc6d2e2981ccf80a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554734127,
-    "wof:lastmodified":1480823043,
+    "wof:lastmodified":1611184190,
     "wof:name":"61528",
     "wof:parent_id":404498775,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036993,
-    "geom:area_square_m":345026626.27427,
+    "geom:area_square_m":345026626.274325,
     "geom:bbox":"-77.862457,40.912596,-77.514275,41.18195",
     "geom:latitude":41.038333,
     "geom:longitude":-77.699135,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.044614,
     "lbl:longitude":-77.698187,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Howard",
+    "mz:postal_locality_alt":[
+        "Orviston"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404483087,
         85633793,
-        102081369
+        102081369,
+        404483087,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764477"
     },
     "wof:country":"US",
-    "wof:geomhash":"ce1a5ccb19c34c53b2dd78274b8c23f2",
+    "wof:geomhash":"613a1e4adeeabfafe268c955ee09e427",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554704743,
-    "wof:lastmodified":1480903555,
+    "wof:lastmodified":1611184520,
     "wof:name":"16841",
     "wof:parent_id":404483087,
     "wof:placetype":"postalcode",

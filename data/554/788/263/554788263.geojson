@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000646,
-    "geom:area_square_m":5961671.927989,
+    "geom:area_square_m":5961671.927986,
     "geom:bbox":"-70.181037,41.735905,-70.122028,41.761312",
     "geom:latitude":41.751241,
     "geom:longitude":-70.152598,
@@ -14,21 +14,26 @@
     "lbl:latitude":41.751246,
     "lbl:longitude":-70.153472,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"East Dennis",
+    "mz:postal_locality_alt":[
+        "Dennis"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404475899,
         85633793,
+        102084379,
+        404475899,
         85950543,
-        102084379
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758911"
     },
     "wof:country":"US",
-    "wof:geomhash":"ab301c9b446a3973a00de0f0e97b50a2",
+    "wof:geomhash":"82c89edc96ebd1d0e198875ecb6d676e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554788263,
-    "wof:lastmodified":1480802732,
+    "wof:lastmodified":1611184765,
     "wof:name":"02641",
     "wof:parent_id":85950543,
     "wof:placetype":"postalcode",

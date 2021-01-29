@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02715,
-    "geom:area_square_m":252937085.097753,
+    "geom:area_square_m":252937085.097733,
     "geom:bbox":"-88.038341,41.030157,-87.72038,41.20868",
     "geom:latitude":41.110839,
     "geom:longitude":-87.898093,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.109505,
     "lbl:longitude":-87.897916,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Kankakee",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404498377,
         85633793,
-        102081259
+        102081259,
+        404498377,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784346"
     },
     "wof:country":"US",
-    "wof:geomhash":"81acd2536552090851876e36416f3633",
+    "wof:geomhash":"9ae6d2cf2bcc7061fe84c0b34cf60c4c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554733519,
-    "wof:lastmodified":1480903213,
+    "wof:lastmodified":1611184226,
     "wof:name":"60901",
     "wof:parent_id":404498377,
     "wof:placetype":"postalcode",

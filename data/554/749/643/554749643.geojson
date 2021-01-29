@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010627,
-    "geom:area_square_m":87638789.220222,
+    "geom:area_square_m":87638789.220157,
     "geom:bbox":"-117.041281,48.096006,-116.9384,48.264576",
     "geom:latitude":48.166582,
     "geom:longitude":-117.002096,
@@ -14,20 +14,26 @@
     "lbl:latitude":48.179101,
     "lbl:longitude":-116.991105,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Oldtown",
+    "mz:postal_locality_alt":[
+        "Old Town",
+        "Priest River"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688657,
         102191575,
         85633793,
+        102085145,
         85937993,
-        102085145
+        85688657
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12793987"
     },
     "wof:country":"US",
-    "wof:geomhash":"a002e6816a4c38f8d3f3df89ab82bfdb",
+    "wof:geomhash":"f92b5b7c690a5da5e4e600f42680009b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554749643,
-    "wof:lastmodified":1480815976,
+    "wof:lastmodified":1611183544,
     "wof:name":"83822",
     "wof:parent_id":85937993,
     "wof:placetype":"postalcode",

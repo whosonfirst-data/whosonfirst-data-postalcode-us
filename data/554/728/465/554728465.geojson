@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027505,
-    "geom:area_square_m":244342932.296079,
+    "geom:area_square_m":244342932.296002,
     "geom:bbox":"-90.028833,43.96629,-89.777522,44.16793",
     "geom:latitude":44.075004,
     "geom:longitude":-89.921354,
@@ -14,20 +14,22 @@
     "lbl:latitude":44.075585,
     "lbl:longitude":-89.923744,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Arkdale",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404492763,
         85633793,
-        102081729
+        102081729,
+        404492763,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781418"
     },
     "wof:country":"US",
-    "wof:geomhash":"78bef5293649d9c12f0ce9e96cedaada",
+    "wof:geomhash":"96d9f17df85cd70bc8976d5b616d13c4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554728465,
-    "wof:lastmodified":1480833082,
+    "wof:lastmodified":1611185065,
     "wof:name":"54613",
     "wof:parent_id":404492763,
     "wof:placetype":"postalcode",

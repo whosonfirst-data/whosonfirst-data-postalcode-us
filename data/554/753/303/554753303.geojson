@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001706,
-    "geom:area_square_m":16784747.960706,
+    "geom:area_square_m":16784747.960661,
     "geom:bbox":"-121.990884,37.257055,-121.922452,37.303145",
     "geom:latitude":37.27967,
     "geom:longitude":-121.955003,
@@ -13,20 +13,26 @@
     "lbl:latitude":37.279173,
     "lbl:longitude":-121.95534,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Campbell",
+    "mz:postal_locality_alt":[
+        "San Jose",
+        "Los Gatos"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102081673,
         85922399,
-        102081673
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12797503"
     },
     "wof:country":"US",
-    "wof:geomhash":"2a216e5fcc82e83b5983b9e749b652b0",
+    "wof:geomhash":"10e1c2100ad2806de870b1f274b0a38d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554753303,
-    "wof:lastmodified":1480829309,
+    "wof:lastmodified":1611182952,
     "wof:name":"95008",
     "wof:parent_id":85922399,
     "wof:placetype":"postalcode",

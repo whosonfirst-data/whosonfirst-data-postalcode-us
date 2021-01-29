@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019711,
-    "geom:area_square_m":192495013.175792,
+    "geom:area_square_m":192495013.175737,
     "geom:bbox":"-95.078728,37.73255,-94.887419,37.987747",
     "geom:latitude":37.835186,
     "geom:longitude":-94.981619,
@@ -14,20 +14,22 @@
     "lbl:latitude":37.825646,
     "lbl:longitude":-94.991966,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Uniontown",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404503859,
         85633793,
-        102082133
+        102082133,
+        404503859,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786991"
     },
     "wof:country":"US",
-    "wof:geomhash":"e5d1e9914f6c73838463902fc50a2130",
+    "wof:geomhash":"0a5be9be39a3a3cc9908b20ff4124c2d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554738381,
-    "wof:lastmodified":1480790872,
+    "wof:lastmodified":1611183128,
     "wof:name":"66779",
     "wof:parent_id":404503859,
     "wof:placetype":"postalcode",

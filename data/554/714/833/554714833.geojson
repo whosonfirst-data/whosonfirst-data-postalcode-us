@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001553,
-    "geom:area_square_m":16952699.436139,
+    "geom:area_square_m":16952699.436137,
     "geom:bbox":"-81.644438,27.996915,-81.582734,28.044364",
     "geom:latitude":28.02013,
     "geom:longitude":-81.613585,
@@ -14,20 +14,22 @@
     "lbl:latitude":28.019442,
     "lbl:longitude":-81.614047,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Dundee",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688651,
         102191575,
         85633793,
+        102085843,
         85933363,
-        102085843
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12772549"
     },
     "wof:country":"US",
-    "wof:geomhash":"c618ccdba695677805121a6030ebeff1",
+    "wof:geomhash":"936f61447bcca9a6b603fd91d4c87cc9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554714833,
-    "wof:lastmodified":1480805016,
+    "wof:lastmodified":1611183357,
     "wof:name":"33838",
     "wof:parent_id":85933363,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028996,
-    "geom:area_square_m":272049352.139122,
+    "geom:area_square_m":272049352.139189,
     "geom:bbox":"-98.222452,40.561017,-97.957266,40.756372",
     "geom:latitude":40.643752,
     "geom:longitude":-98.090932,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.643601,
     "lbl:longitude":-98.094793,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Harvard",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688563,
         102191575,
-        404519729,
         85633793,
-        102082241
+        102082241,
+        404519729,
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787945"
     },
     "wof:country":"US",
-    "wof:geomhash":"3f7590f6547444c01785cb6f23861511",
+    "wof:geomhash":"8d73c69a1dbf3514381e5f0fb0c95b3e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554740345,
-    "wof:lastmodified":1480792450,
+    "wof:lastmodified":1611183420,
     "wof:name":"68944",
     "wof:parent_id":404519729,
     "wof:placetype":"postalcode",

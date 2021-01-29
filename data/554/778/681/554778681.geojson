@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010418,
-    "geom:area_square_m":93606612.159821,
+    "geom:area_square_m":93606612.159824,
     "geom:bbox":"-70.670102,43.335107,-70.47388,43.462554",
     "geom:latitude":43.397015,
     "geom:longitude":-70.57025,
@@ -14,20 +14,22 @@
     "lbl:latitude":43.395947,
     "lbl:longitude":-70.570221,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Kennebunk",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404475789,
         85633793,
-        102087449
+        102087449,
+        404475789,
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759398"
     },
     "wof:country":"US",
-    "wof:geomhash":"79eeebe6d88f82e86b488c2fa6c8c794",
+    "wof:geomhash":"ccc3b1b8f67dad294843f14baa563517",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554778681,
-    "wof:lastmodified":1480788173,
+    "wof:lastmodified":1611183427,
     "wof:name":"04043",
     "wof:parent_id":404475789,
     "wof:placetype":"postalcode",

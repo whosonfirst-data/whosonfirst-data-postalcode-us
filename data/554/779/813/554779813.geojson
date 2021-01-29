@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000272,
-    "geom:area_square_m":2551707.727367,
+    "geom:area_square_m":2551707.727369,
     "geom:bbox":"-73.834847,40.582807,-73.801338,40.615244",
     "geom:latitude":40.596583,
     "geom:longitude":-73.816704,
@@ -14,21 +14,29 @@
     "lbl:latitude":40.590916,
     "lbl:longitude":-73.809715,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Far Rockaway",
+    "mz:postal_locality_alt":[
+        "Rockaway Beac",
+        "Rockaway Beach",
+        "Broad Channel",
+        "Queens"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404521211,
         85633793,
+        102082361,
+        404521211,
         85977539,
-        102082361
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761891"
     },
     "wof:country":"US",
-    "wof:geomhash":"3296481fdcabc11936ec45ae0f70925a",
+    "wof:geomhash":"1b3538fbd16bc25b779990121cf8ed53",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +49,7 @@
         }
     ],
     "wof:id":554779813,
-    "wof:lastmodified":1480790269,
+    "wof:lastmodified":1611183983,
     "wof:name":"11693",
     "wof:parent_id":85977539,
     "wof:placetype":"postalcode",

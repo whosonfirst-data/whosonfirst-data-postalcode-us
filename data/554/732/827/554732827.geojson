@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.105877,
-    "geom:area_square_m":861095140.332772,
+    "geom:area_square_m":861095140.332732,
     "geom:bbox":"-112.193406,48.740127,-111.603584,48.99761",
     "geom:latitude":48.872862,
     "geom:longitude":-111.907805,
@@ -14,20 +14,22 @@
     "lbl:latitude":48.871065,
     "lbl:longitude":-111.91244,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Sunburst",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688617,
         102191575,
         85633793,
+        102085115,
         85972865,
-        102085115
+        85688617
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12783743"
     },
     "wof:country":"US",
-    "wof:geomhash":"4260fe606a995d25bad69f1c9bc91498",
+    "wof:geomhash":"ff1c18e3cd6164860d5b3968f821100a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554732827,
-    "wof:lastmodified":1480809943,
+    "wof:lastmodified":1611184368,
     "wof:name":"59482",
     "wof:parent_id":85972865,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000477,
-    "geom:area_square_m":4885206.836011,
+    "geom:area_square_m":4885206.836024,
     "geom:bbox":"-118.390718,34.058054,-118.361375,34.083811",
     "geom:latitude":34.072926,
     "geom:longitude":-118.372712,
@@ -13,20 +13,27 @@
     "lbl:latitude":34.072926,
     "lbl:longitude":-118.372712,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Los Angeles",
+    "mz:postal_locality_alt":[
+        "West Hollywood",
+        "Beverly Hills",
+        "W Hollywood"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086957,
         85923517,
-        102086957
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795656"
     },
     "wof:country":"US",
-    "wof:geomhash":"7b4e1ccae06af2136de49e8908f9e245",
+    "wof:geomhash":"a75ecfc7ababaaa8699c94b02da3c1db",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +45,7 @@
         }
     ],
     "wof:id":554783947,
-    "wof:lastmodified":1480912629,
+    "wof:lastmodified":1611183887,
     "wof:name":"90048",
     "wof:parent_id":85923517,
     "wof:placetype":"postalcode",

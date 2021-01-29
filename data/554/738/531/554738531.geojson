@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015534,
-    "geom:area_square_m":147265277.301842,
+    "geom:area_square_m":147265277.301848,
     "geom:bbox":"-97.9321,39.871092,-97.688477,40.002093",
     "geom:latitude":39.941988,
     "geom:longitude":-97.807219,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.941213,
     "lbl:longitude":-97.804924,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Republic",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404502863,
         85633793,
-        102082135
+        102082135,
+        404502863,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787060"
     },
     "wof:country":"US",
-    "wof:geomhash":"f09a0ba6656bdbbd08b38bb6e052911a",
+    "wof:geomhash":"da95cdcf568637653ce282653c32d810",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554738531,
-    "wof:lastmodified":1480835932,
+    "wof:lastmodified":1611183112,
     "wof:name":"66964",
     "wof:parent_id":404502863,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002526,
-    "geom:area_square_m":27868873.341671,
+    "geom:area_square_m":27868873.34167,
     "geom:bbox":"-80.081584,26.803596,-80.031121,26.893896",
     "geom:latitude":26.842705,
     "geom:longitude":-80.054969,
@@ -14,19 +14,26 @@
     "lbl:latitude":26.840483,
     "lbl:longitude":-80.052158,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"North Palm Beach",
+    "mz:postal_locality_alt":[
+        "Juno Beach",
+        "West Palm Beach",
+        "Palm Beach Gdns"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688651,
-        102085845
+        102085845,
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12772281"
     },
     "wof:country":"US",
-    "wof:geomhash":"ad9fc0cbf1da8278317363d9e15229eb",
+    "wof:geomhash":"0ca7be7a9eeaef65e3a752a6e277e5d1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +44,7 @@
         }
     ],
     "wof:id":554781719,
-    "wof:lastmodified":1480804000,
+    "wof:lastmodified":1611184837,
     "wof:name":"33408",
     "wof:parent_id":102085845,
     "wof:placetype":"postalcode",

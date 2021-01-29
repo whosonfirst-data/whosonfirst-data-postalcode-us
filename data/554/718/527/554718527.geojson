@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.106758,
-    "geom:area_square_m":1129835642.97679,
+    "geom:area_square_m":1129835642.976845,
     "geom:bbox":"-91.636942,30.998691,-91.185563,31.34589",
     "geom:latitude":31.142425,
     "geom:longitude":-91.396877,
@@ -14,19 +14,25 @@
     "lbl:latitude":31.121117,
     "lbl:longitude":-91.383123,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Woodville",
+    "mz:postal_locality_alt":[
+        "Meadville",
+        "Monticello"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688579,
-        102084855
+        102084855,
+        85688579
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12775037"
     },
     "wof:country":"US",
-    "wof:geomhash":"9560fd5e779e95b4a8b3ad44043a54f2",
+    "wof:geomhash":"d887e33078023f335e99534e698ff3fd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554718527,
-    "wof:lastmodified":1480819166,
+    "wof:lastmodified":1611185563,
     "wof:name":"39669",
     "wof:parent_id":102084855,
     "wof:placetype":"postalcode",

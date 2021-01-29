@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007893,
-    "geom:area_square_m":74703378.005922,
+    "geom:area_square_m":74703378.005995,
     "geom:bbox":"-78.881149,39.978833,-78.762982,40.124118",
     "geom:latitude":40.051911,
     "geom:longitude":-78.824235,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.026799,
     "lbl:longitude":-78.816836,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Central City",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404488279,
         85633793,
-        102081361
+        102081361,
+        404488279,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764075"
     },
     "wof:country":"US",
-    "wof:geomhash":"757ce0805e92d8e5e0a7c2c42679185c",
+    "wof:geomhash":"5ce7ca499ab920815f66df1322b2e111",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554704165,
-    "wof:lastmodified":1480903171,
+    "wof:lastmodified":1611184505,
     "wof:name":"15926",
     "wof:parent_id":404488279,
     "wof:placetype":"postalcode",

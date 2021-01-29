@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00027,
-    "geom:area_square_m":2452234.946424,
+    "geom:area_square_m":2452234.946423,
     "geom:bbox":"-85.673393,42.724719,-85.66265,42.753888",
     "geom:latitude":42.738507,
     "geom:longitude":-85.668451,
@@ -14,20 +14,22 @@
     "lbl:latitude":42.738506,
     "lbl:longitude":-85.668451,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Moline",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404506779,
         85633793,
-        102083043
+        102083043,
+        404506779,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779318"
     },
     "wof:country":"US",
-    "wof:geomhash":"8f0abee8487a648eb5466d61626e053f",
+    "wof:geomhash":"814377f779686961ff78d6155fa88a9e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554771177,
-    "wof:lastmodified":1480843204,
+    "wof:lastmodified":1611183533,
     "wof:name":"49335",
     "wof:parent_id":404506779,
     "wof:placetype":"postalcode",

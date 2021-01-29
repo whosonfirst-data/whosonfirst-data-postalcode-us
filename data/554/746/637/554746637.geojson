@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02259,
-    "geom:area_square_m":242645256.930987,
+    "geom:area_square_m":242645256.930879,
     "geom:bbox":"-98.162662,29.597388,-97.985638,29.846601",
     "geom:latitude":29.697725,
     "geom:longitude":-98.070208,
@@ -13,20 +13,25 @@
     "lbl:latitude":29.693556,
     "lbl:longitude":-98.07285,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"New Braunfels",
+    "mz:postal_locality_alt":[
+        "Mc Queeney"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102087411,
         101724649,
-        102087411
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12791940"
     },
     "wof:country":"US",
-    "wof:geomhash":"6fd6f8d6ce93685e585ebc0030ee26a6",
+    "wof:geomhash":"52f32a2e26d3decfa3849e683ae4829e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554746637,
-    "wof:lastmodified":1480911559,
+    "wof:lastmodified":1611184026,
     "wof:name":"78130",
     "wof:parent_id":101724649,
     "wof:placetype":"postalcode",

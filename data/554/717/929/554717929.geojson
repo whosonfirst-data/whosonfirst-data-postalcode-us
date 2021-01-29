@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.068428,
-    "geom:area_square_m":696036166.299242,
+    "geom:area_square_m":696036166.299187,
     "geom:bbox":"-88.784058,34.496052,-88.330265,34.756781",
     "geom:latitude":34.651966,
     "geom:longitude":-88.53079,
@@ -14,20 +14,25 @@
     "lbl:latitude":34.650609,
     "lbl:longitude":-88.527209,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Booneville",
+    "mz:postal_locality_alt":[
+        "Rienzi"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688579,
         102191575,
         85633793,
+        102083781,
         85969733,
-        102083781
+        85688579
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12774661"
     },
     "wof:country":"US",
-    "wof:geomhash":"da3a067948f6a3291a1a727b1a4dc4df",
+    "wof:geomhash":"04c4d3cb2b23fb29ca7348d1e3c3249d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554717929,
-    "wof:lastmodified":1480835626,
+    "wof:lastmodified":1611185037,
     "wof:name":"38829",
     "wof:parent_id":85969733,
     "wof:placetype":"postalcode",

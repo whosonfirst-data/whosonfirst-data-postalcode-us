@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.050008,
-    "geom:area_square_m":473966184.449958,
+    "geom:area_square_m":473966184.448881,
     "geom:bbox":"-82.172428,39.828699,-81.79569,40.07809",
     "geom:latitude":39.960094,
     "geom:longitude":-81.993959,
@@ -13,21 +13,26 @@
     "lbl:latitude":39.96922,
     "lbl:longitude":-81.991033,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Zanesville",
+    "mz:postal_locality_alt":[
+        "White Cottage"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404525773,
         85633793,
+        102084785,
+        404525773,
         101712719,
-        102084785
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776420"
     },
     "wof:country":"US",
-    "wof:geomhash":"0934daecebfb0078dfdb5ba907dfb1e3",
+    "wof:geomhash":"2a41fddcf1e4c09d77f5130aab03fda1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554720701,
-    "wof:lastmodified":1480802456,
+    "wof:lastmodified":1611185447,
     "wof:name":"43701",
     "wof:parent_id":101712719,
     "wof:placetype":"postalcode",

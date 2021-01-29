@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016824,
-    "geom:area_square_m":174064413.982292,
+    "geom:area_square_m":174064413.982091,
     "geom:bbox":"-84.434475,33.143393,-84.106726,33.263002",
     "geom:latitude":33.204838,
     "geom:longitude":-84.236857,
@@ -13,19 +13,30 @@
     "lbl:latitude":33.204493,
     "lbl:longitude":-84.239727,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Griffin",
+    "mz:postal_locality_alt":[
+        "La Grange",
+        "Thomaston",
+        "Fairburn",
+        "Fayetteville",
+        "Orchard Hill",
+        "Mc Donough",
+        "Mcdonough"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688535,
-        102084375
+        102084375,
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770664"
     },
     "wof:country":"US",
-    "wof:geomhash":"bd4bad8e1a512e94ca8755aad431f644",
+    "wof:geomhash":"43f4f94d201d8ed485dc132342062cb1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +47,7 @@
         }
     ],
     "wof:id":554712937,
-    "wof:lastmodified":1480799824,
+    "wof:lastmodified":1611183694,
     "wof:name":"30224",
     "wof:parent_id":102084375,
     "wof:placetype":"postalcode",

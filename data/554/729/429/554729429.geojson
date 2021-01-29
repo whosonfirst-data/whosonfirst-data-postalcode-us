@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.054098,
-    "geom:area_square_m":449570283.726461,
+    "geom:area_square_m":449570283.726672,
     "geom:bbox":"-90.884042,47.609555,-90.522413,47.936415",
     "geom:latitude":47.772667,
     "geom:longitude":-90.701305,
@@ -14,20 +14,25 @@
     "lbl:latitude":47.769724,
     "lbl:longitude":-90.701442,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lutsen",
+    "mz:postal_locality_alt":[
+        "Tofte"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404511841,
         85633793,
-        102087727
+        102087727,
+        404511841,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782006"
     },
     "wof:country":"US",
-    "wof:geomhash":"2b176fa466129e256c121ced17408d80",
+    "wof:geomhash":"d76a6a077fbe14c4bce1cbebe169de77",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554729429,
-    "wof:lastmodified":1480787257,
+    "wof:lastmodified":1611185432,
     "wof:name":"55612",
     "wof:parent_id":404511841,
     "wof:placetype":"postalcode",

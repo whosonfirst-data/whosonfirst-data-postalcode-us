@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005584,
-    "geom:area_square_m":56536613.170518,
+    "geom:area_square_m":56536613.170595,
     "geom:bbox":"-82.027716,34.996964,-81.925591,35.089798",
     "geom:latitude":35.041171,
     "geom:longitude":-81.974594,
@@ -13,20 +13,25 @@
     "lbl:latitude":35.043045,
     "lbl:longitude":-81.975107,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Spartanburg",
+    "mz:postal_locality_alt":[
+        "Boiling Springs"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688683,
         102191575,
         85633793,
+        102085437,
         101721521,
-        102085437
+        85688683
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770103"
     },
     "wof:country":"US",
-    "wof:geomhash":"2ca82938f2c6a64a0b0e80b302477285",
+    "wof:geomhash":"86bce75615cf034576be209f7340d958",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554712105,
-    "wof:lastmodified":1480814013,
+    "wof:lastmodified":1611183694,
     "wof:name":"29316",
     "wof:parent_id":101721521,
     "wof:placetype":"postalcode",

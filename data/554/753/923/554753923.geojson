@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002147,
-    "geom:area_square_m":20678011.150033,
+    "geom:area_square_m":20678011.150065,
     "geom:bbox":"-121.221653,38.828758,-121.137766,38.876973",
     "geom:latitude":38.855808,
     "geom:longitude":-121.182322,
@@ -14,19 +14,24 @@
     "lbl:latitude":38.855808,
     "lbl:longitude":-121.18232,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Penryn",
+    "mz:postal_locality_alt":[
+        "Roseville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688637,
-        102080863
+        102080863,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12797933"
     },
     "wof:country":"US",
-    "wof:geomhash":"760bc23ee20ca1045cdb3b50733ae425",
+    "wof:geomhash":"20ac8e43445a2b0acc9a9c4b82bb93ff",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554753923,
-    "wof:lastmodified":1480906297,
+    "wof:lastmodified":1611182946,
     "wof:name":"95663",
     "wof:parent_id":102080863,
     "wof:placetype":"postalcode",

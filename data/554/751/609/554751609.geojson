@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00239,
-    "geom:area_square_m":23872891.106452,
+    "geom:area_square_m":23872891.106398,
     "geom:bbox":"-115.119184,36.09563,-115.060093,36.146118",
     "geom:latitude":36.121527,
     "geom:longitude":-115.091277,
@@ -13,20 +13,25 @@
     "lbl:latitude":36.121526,
     "lbl:longitude":-115.091277,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Las Vegas",
+    "mz:postal_locality_alt":[
+        "Paradise"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688531,
         102191575,
         85633793,
+        102081553,
         85975035,
-        102081553
+        85688531
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795458"
     },
     "wof:country":"US",
-    "wof:geomhash":"d3a7389390a5c25e7de1c15a9954be08",
+    "wof:geomhash":"060dee35b49b7051812ad5a2cdf58d20",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554751609,
-    "wof:lastmodified":1480832968,
+    "wof:lastmodified":1611184357,
     "wof:name":"89121",
     "wof:parent_id":85975035,
     "wof:placetype":"postalcode",

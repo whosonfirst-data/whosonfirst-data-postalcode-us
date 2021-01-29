@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011141,
-    "geom:area_square_m":106077322.918262,
+    "geom:area_square_m":106077322.918384,
     "geom:bbox":"-75.664947,39.552808,-75.521385,39.724774",
     "geom:latitude":39.646456,
     "geom:longitude":-75.603972,
@@ -13,19 +13,26 @@
     "lbl:latitude":39.646922,
     "lbl:longitude":-75.604852,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"New Castle",
+    "mz:postal_locality_alt":[
+        "Newark",
+        "Bear",
+        "St Georges"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688611,
-        102083891
+        102083891,
+        85688611
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765757"
     },
     "wof:country":"US",
-    "wof:geomhash":"4cff53926df840d22745332992506665",
+    "wof:geomhash":"5ec473110cf68d7d0f799fead450cf8f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +43,7 @@
         }
     ],
     "wof:id":554706599,
-    "wof:lastmodified":1480835443,
+    "wof:lastmodified":1611182702,
     "wof:name":"19720",
     "wof:parent_id":102083891,
     "wof:placetype":"postalcode",

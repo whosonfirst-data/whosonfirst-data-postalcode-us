@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000896,
-    "geom:area_square_m":8377255.6636,
+    "geom:area_square_m":8377255.663602,
     "geom:bbox":"-74.146795,40.834098,-74.106786,40.876812",
     "geom:latitude":40.857498,
     "geom:longitude":-74.128115,
@@ -14,21 +14,26 @@
     "lbl:latitude":40.856413,
     "lbl:longitude":-74.12694,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Passaic",
+    "mz:postal_locality_alt":[
+        "Hoboken"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477817,
         85633793,
+        102081133,
+        404477817,
         85975483,
-        102081133
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760647"
     },
     "wof:country":"US",
-    "wof:geomhash":"8dd8789dde68a443343eb78baf1f25d5",
+    "wof:geomhash":"efd14cb2de26acfb03a5431a299af622",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554699851,
-    "wof:lastmodified":1480908562,
+    "wof:lastmodified":1611184609,
     "wof:name":"07055",
     "wof:parent_id":85975483,
     "wof:placetype":"postalcode",

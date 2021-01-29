@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012634,
-    "geom:area_square_m":119884653.942798,
+    "geom:area_square_m":119884653.942668,
     "geom:bbox":"-104.968861,39.783616,-104.678028,39.969106",
     "geom:latitude":39.879528,
     "geom:longitude":-104.797854,
@@ -13,20 +13,25 @@
     "lbl:latitude":39.879646,
     "lbl:longitude":-104.798722,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Commerce City",
+    "mz:postal_locality_alt":[
+        "Denver"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688603,
         102191575,
         85633793,
+        102084053,
         85929341,
-        102084053
+        85688603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12792881"
     },
     "wof:country":"US",
-    "wof:geomhash":"8ba076c88a11ebc1ddd92dd98c4d3b3a",
+    "wof:geomhash":"96b1d1ca1d81afb33b8345ab07d7ecec",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554747911,
-    "wof:lastmodified":1480911599,
+    "wof:lastmodified":1611183483,
     "wof:name":"80022",
     "wof:parent_id":85929341,
     "wof:placetype":"postalcode",

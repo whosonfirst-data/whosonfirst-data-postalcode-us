@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001941,
-    "geom:area_square_m":18297878.052391,
+    "geom:area_square_m":18297878.052382,
     "geom:bbox":"-76.006792,40.306029,-75.947692,40.370072",
     "geom:latitude":40.340073,
     "geom:longitude":-75.976055,
@@ -13,21 +13,26 @@
     "lbl:latitude":40.341535,
     "lbl:longitude":-75.974921,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Reading",
+    "mz:postal_locality_alt":[
+        "Wyomissing"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404484613,
         85633793,
+        102080991,
+        404484613,
         101716887,
-        102080991
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765737"
     },
     "wof:country":"US",
-    "wof:geomhash":"21693fd184e87170ddf2d9dffc211f27",
+    "wof:geomhash":"33c3f011d1c9b0b264020d9fac076ca2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554706577,
-    "wof:lastmodified":1480903399,
+    "wof:lastmodified":1611182717,
     "wof:name":"19610",
     "wof:parent_id":101716887,
     "wof:placetype":"postalcode",

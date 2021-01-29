@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00821,
-    "geom:area_square_m":82534855.147341,
+    "geom:area_square_m":82534855.147244,
     "geom:bbox":"-86.646062,35.532765,-86.52787,35.688286",
     "geom:latitude":35.611594,
     "geom:longitude":-86.581232,
@@ -14,20 +14,25 @@
     "lbl:latitude":35.606468,
     "lbl:longitude":-86.586661,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Unionville",
+    "mz:postal_locality_alt":[
+        "Shelbyville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688701,
         102191575,
         85633793,
+        102086459,
         101723271,
-        102086459
+        85688701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12773865"
     },
     "wof:country":"US",
-    "wof:geomhash":"c329f00c8edcec5020f13e016bf54a40",
+    "wof:geomhash":"983e9029e44171a0b857e65c9405cac5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554716613,
-    "wof:lastmodified":1480916897,
+    "wof:lastmodified":1611185383,
     "wof:name":"37180",
     "wof:parent_id":101723271,
     "wof:placetype":"postalcode",

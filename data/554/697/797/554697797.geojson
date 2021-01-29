@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011255,
-    "geom:area_square_m":101260403.47601,
+    "geom:area_square_m":101260403.476017,
     "geom:bbox":"-72.090028,43.255044,-71.943678,43.383411",
     "geom:latitude":43.314822,
     "geom:longitude":-72.026186,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.314026,
     "lbl:longitude":-72.024551,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Newbury",
+    "mz:postal_locality_alt":[
+        "Plymouth"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688689,
         102191575,
-        404477249,
         85633793,
-        102086515
+        102086515,
+        404477249,
+        85688689
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759156"
     },
     "wof:country":"US",
-    "wof:geomhash":"7066556b463bfcafc148ee863adab823",
+    "wof:geomhash":"43b17a076b9e14ba3f90b65f038525ce",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554697797,
-    "wof:lastmodified":1480913719,
+    "wof:lastmodified":1611184634,
     "wof:name":"03255",
     "wof:parent_id":404477249,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009635,
-    "geom:area_square_m":90919164.834178,
+    "geom:area_square_m":90919164.834144,
     "geom:bbox":"-94.819171,40.206626,-94.648896,40.315323",
     "geom:latitude":40.261858,
     "geom:longitude":-94.73352,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.261855,
     "lbl:longitude":-94.733515,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Conception Junction",
+    "mz:postal_locality_alt":[
+        "Conception Jct"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404515595,
         85633793,
-        102087507
+        102087507,
+        404515595,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786104"
     },
     "wof:country":"US",
-    "wof:geomhash":"a0f41ea33d50217d614d51b274759979",
+    "wof:geomhash":"41a05d48bf2542bd64ac16ed9cc51195",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554736653,
-    "wof:lastmodified":1480788191,
+    "wof:lastmodified":1611183049,
     "wof:name":"64434",
     "wof:parent_id":404515595,
     "wof:placetype":"postalcode",

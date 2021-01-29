@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002754,
-    "geom:area_square_m":28362148.884784,
+    "geom:area_square_m":28362148.884905,
     "geom:bbox":"-117.636191,33.55156,-117.57645,33.672324",
     "geom:latitude":33.620069,
     "geom:longitude":-117.612292,
@@ -14,20 +14,31 @@
     "lbl:latitude":33.619672,
     "lbl:longitude":-117.612087,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Rancho Santa Margarita",
+    "mz:postal_locality_alt":[
+        "Rcho Sta Marg",
+        "Mission Viejo",
+        "Rancho Santa Margari",
+        "Irvine",
+        "Trabuco Canyon",
+        "San Clemente",
+        "Ladera Ranch"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102080847,
         85923059,
-        102080847
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796599"
     },
     "wof:country":"US",
-    "wof:geomhash":"c75244f62e3a4201bb71b3af640a0474",
+    "wof:geomhash":"56e10c81149b8f31d9f1cb66055a8135",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +50,7 @@
         }
     ],
     "wof:id":554752529,
-    "wof:lastmodified":1480906256,
+    "wof:lastmodified":1611182531,
     "wof:name":"92688",
     "wof:parent_id":85923059,
     "wof:placetype":"postalcode",

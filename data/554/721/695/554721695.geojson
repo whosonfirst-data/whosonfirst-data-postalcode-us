@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008811,
-    "geom:area_square_m":84851804.165254,
+    "geom:area_square_m":84851804.165247,
     "geom:bbox":"-83.842097,38.763468,-83.686288,38.914528",
     "geom:latitude":38.844877,
     "geom:longitude":-83.755746,
@@ -14,20 +14,22 @@
     "lbl:latitude":38.850496,
     "lbl:longitude":-83.754643,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Russellville",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404524897,
         85633793,
-        102083665
+        102083665,
+        404524897,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777115"
     },
     "wof:country":"US",
-    "wof:geomhash":"1e2a038db9fbe70104beb72b7d33f265",
+    "wof:geomhash":"ce1f8990de05ad9ae27c6cca367ef2d2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554721695,
-    "wof:lastmodified":1480840118,
+    "wof:lastmodified":1611184957,
     "wof:name":"45168",
     "wof:parent_id":404524897,
     "wof:placetype":"postalcode",

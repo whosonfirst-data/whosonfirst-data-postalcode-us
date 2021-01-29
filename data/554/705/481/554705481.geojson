@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021626,
-    "geom:area_square_m":202755020.980729,
+    "geom:area_square_m":202755020.980732,
     "geom:bbox":"-76.420023,40.612273,-76.128346,40.768453",
     "geom:latitude":40.693629,
     "geom:longitude":-76.255245,
@@ -14,20 +14,28 @@
     "lbl:latitude":40.683828,
     "lbl:longitude":-76.277541,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pottsville",
+    "mz:postal_locality_alt":[
+        "Mahanoy City",
+        "Llewellyn",
+        "Minersville",
+        "Schuylkill Haven"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404488273,
         85633793,
-        102081271
+        102081271,
+        404488273,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764962"
     },
     "wof:country":"US",
-    "wof:geomhash":"5a7b0caa2b42b525b77d3e8be8426d01",
+    "wof:geomhash":"865e5d3bd6c1a0462a803db72501843c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +47,7 @@
         }
     ],
     "wof:id":554705481,
-    "wof:lastmodified":1480823247,
+    "wof:lastmodified":1611184117,
     "wof:name":"17901",
     "wof:parent_id":404488273,
     "wof:placetype":"postalcode",

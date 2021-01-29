@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008617,
-    "geom:area_square_m":85517942.147145,
+    "geom:area_square_m":85517942.147172,
     "geom:bbox":"-88.548833,36.515253,-88.440731,36.699325",
     "geom:latitude":36.620472,
     "geom:longitude":-88.502676,
@@ -14,19 +14,24 @@
     "lbl:latitude":36.625296,
     "lbl:longitude":-88.497073,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Farmington",
+    "mz:postal_locality_alt":[
+        "Murray"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688641,
-        102084645
+        102084645,
+        85688641
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12775809"
     },
     "wof:country":"US",
-    "wof:geomhash":"55d8132a76d6d88445183f5a0cbb4816",
+    "wof:geomhash":"fdfb56c4ca666786f8c2040eb7b88d7e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554719733,
-    "wof:lastmodified":1480802736,
+    "wof:lastmodified":1611184922,
     "wof:name":"42040",
     "wof:parent_id":102084645,
     "wof:placetype":"postalcode",

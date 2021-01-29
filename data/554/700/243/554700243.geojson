@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003807,
-    "geom:area_square_m":35646614.026373,
+    "geom:area_square_m":35646614.02644,
     "geom:bbox":"-74.947035,40.748944,-74.84834,40.827732",
     "geom:latitude":40.784663,
     "geom:longitude":-74.89886,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.793806,
     "lbl:longitude":-74.898347,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Port Murray",
+    "mz:postal_locality_alt":[
+        "Newton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478523,
         85633793,
-        102083873
+        102083873,
+        404478523,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760925"
     },
     "wof:country":"US",
-    "wof:geomhash":"a1c93aa8b950fcf8c10fd0ce7e787e43",
+    "wof:geomhash":"5fbb6cc9c73851a111f9251880cfa2bf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554700243,
-    "wof:lastmodified":1480837396,
+    "wof:lastmodified":1611183182,
     "wof:name":"07865",
     "wof:parent_id":404478523,
     "wof:placetype":"postalcode",

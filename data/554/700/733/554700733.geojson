@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010189,
-    "geom:area_square_m":95597614.344866,
+    "geom:area_square_m":95597614.3449,
     "geom:bbox":"-74.890697,40.573237,-74.749222,40.716497",
     "geom:latitude":40.644951,
     "geom:longitude":-74.820484,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.645542,
     "lbl:longitude":-74.816261,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lebanon",
+    "mz:postal_locality_alt":[
+        "Oldwick"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478161,
         85633793,
-        102085997
+        102085997,
+        404478161,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761280"
     },
     "wof:country":"US",
-    "wof:geomhash":"c7697c3c124ca962845bf8ed7530f237",
+    "wof:geomhash":"acee16a4748adb03bfc93994374bd9c5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554700733,
-    "wof:lastmodified":1480812024,
+    "wof:lastmodified":1611183193,
     "wof:name":"08833",
     "wof:parent_id":404478161,
     "wof:placetype":"postalcode",

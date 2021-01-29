@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011413,
-    "geom:area_square_m":110379461.796551,
+    "geom:area_square_m":110379461.796548,
     "geom:bbox":"-95.174807,38.46262,-95.06492,38.62915",
     "geom:latitude":38.545114,
     "geom:longitude":-95.112745,
@@ -14,20 +14,22 @@
     "lbl:latitude":38.542467,
     "lbl:longitude":-95.108134,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Rantoul",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404505399,
         85633793,
-        102082121
+        102082121,
+        404505399,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786759"
     },
     "wof:country":"US",
-    "wof:geomhash":"f3452f3abc54c1d6d4e5468e636b5fbb",
+    "wof:geomhash":"85dcb66719cee542c3047f07c6bc613f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554737953,
-    "wof:lastmodified":1480808799,
+    "wof:lastmodified":1611182825,
     "wof:name":"66079",
     "wof:parent_id":404505399,
     "wof:placetype":"postalcode",

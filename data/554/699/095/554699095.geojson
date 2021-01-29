@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013052,
-    "geom:area_square_m":116789554.660271,
+    "geom:area_square_m":116789554.660262,
     "geom:bbox":"-73.243247,43.582812,-73.067764,43.725819",
     "geom:latitude":43.644134,
     "geom:longitude":-73.156444,
@@ -14,20 +14,26 @@
     "lbl:latitude":43.635473,
     "lbl:longitude":-73.16776,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Castleton",
+    "mz:postal_locality_alt":[
+        "Bomoseen",
+        "Hydeville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688763,
         102191575,
-        404527287,
         85633793,
-        102080771
+        102080771,
+        404527287,
+        85688763
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760077"
     },
     "wof:country":"US",
-    "wof:geomhash":"8804c5e211ff57904f5aa4af07b64dd2",
+    "wof:geomhash":"17e9e35e9c4d4798783ea04490d737c0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554699095,
-    "wof:lastmodified":1480903865,
+    "wof:lastmodified":1611184627,
     "wof:name":"05735",
     "wof:parent_id":404527287,
     "wof:placetype":"postalcode",

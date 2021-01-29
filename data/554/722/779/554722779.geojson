@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016486,
-    "geom:area_square_m":153184026.198357,
+    "geom:area_square_m":153184026.198377,
     "geom:bbox":"-86.000004,41.221051,-85.708157,41.326532",
     "geom:latitude":41.284147,
     "geom:longitude":-85.854645,
@@ -13,21 +13,23 @@
     "lbl:latitude":41.280602,
     "lbl:longitude":-85.854448,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Warsaw",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404501837,
         85633793,
+        102087157,
+        404501837,
         85942479,
-        102087157
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777820"
     },
     "wof:country":"US",
-    "wof:geomhash":"bd9c41cc6789938638688d0104092acc",
+    "wof:geomhash":"78b4325cae5f7916a6de984b85833ff5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +42,7 @@
         }
     ],
     "wof:id":554722779,
-    "wof:lastmodified":1480785740,
+    "wof:lastmodified":1611183229,
     "wof:name":"46582",
     "wof:parent_id":85942479,
     "wof:placetype":"postalcode",

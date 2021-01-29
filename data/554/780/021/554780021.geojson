@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009622,
-    "geom:area_square_m":89976577.642214,
+    "geom:area_square_m":89976577.642167,
     "geom:bbox":"-72.868615,40.820223,-72.734049,40.914604",
     "geom:latitude":40.865446,
     "geom:longitude":-72.801342,
@@ -14,21 +14,27 @@
     "lbl:latitude":40.866503,
     "lbl:longitude":-72.804643,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Manorville",
+    "mz:postal_locality_alt":[
+        "Center Moriches",
+        "Hampton Bays"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404521441,
         85633793,
+        102082395,
+        404521441,
         85979761,
-        102082395
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762006"
     },
     "wof:country":"US",
-    "wof:geomhash":"a565b16a41832ed6e1d488a32e7e9412",
+    "wof:geomhash":"17dab791561477a7c8155bfc5a5bab72",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554780021,
-    "wof:lastmodified":1480794862,
+    "wof:lastmodified":1611185186,
     "wof:name":"11949",
     "wof:parent_id":85979761,
     "wof:placetype":"postalcode",

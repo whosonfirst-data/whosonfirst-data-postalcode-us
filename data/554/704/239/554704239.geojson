@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008545,
-    "geom:area_square_m":79998680.578997,
+    "geom:area_square_m":79998680.578975,
     "geom:bbox":"-80.10089,40.718754,-79.977681,40.865871",
     "geom:latitude":40.791572,
     "geom:longitude":-80.045335,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.783867,
     "lbl:longitude":-80.051114,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Evans City",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404484973,
         85633793,
-        102083677
+        102083677,
+        404484973,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764123"
     },
     "wof:country":"US",
-    "wof:geomhash":"feed5e7e61fd032572384d1cf308ce15",
+    "wof:geomhash":"897b2c955f02fa288d9e0971309f9c95",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554704239,
-    "wof:lastmodified":1480841996,
+    "wof:lastmodified":1611184517,
     "wof:name":"16033",
     "wof:parent_id":404484973,
     "wof:placetype":"postalcode",

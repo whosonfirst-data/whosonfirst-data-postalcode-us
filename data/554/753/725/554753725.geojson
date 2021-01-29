@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03007,
-    "geom:area_square_m":291999154.958262,
+    "geom:area_square_m":291999154.958124,
     "geom:bbox":"-122.574684,38.121768,-122.349564,38.382392",
     "geom:latitude":38.248591,
     "geom:longitude":-122.457138,
@@ -14,19 +14,27 @@
     "lbl:latitude":38.249428,
     "lbl:longitude":-122.466627,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Sonoma",
+    "mz:postal_locality_alt":[
+        "Healdsburg",
+        "Santa Rosa",
+        "Boyes Hot Spgs",
+        "El Verano"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688637,
-        102081671
+        102081671,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12797813"
     },
     "wof:country":"US",
-    "wof:geomhash":"4ca53a1830456e8a49302f7b55927b56",
+    "wof:geomhash":"addb8dbaac1872b4351dd49087e54870",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +45,7 @@
         }
     ],
     "wof:id":554753725,
-    "wof:lastmodified":1480816526,
+    "wof:lastmodified":1611182944,
     "wof:name":"95476",
     "wof:parent_id":102081671,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005638,
-    "geom:area_square_m":53013183.780569,
+    "geom:area_square_m":53013183.780558,
     "geom:bbox":"-105.048985,40.457455,-104.944165,40.540473",
     "geom:latitude":40.496124,
     "geom:longitude":-105.000199,
@@ -13,19 +13,24 @@
     "lbl:latitude":40.494596,
     "lbl:longitude":-105.004639,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fort Collins",
+    "mz:postal_locality_alt":[
+        "Windsor"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688603,
-        102083353
+        102083353,
+        85688603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12793111"
     },
     "wof:country":"US",
-    "wof:geomhash":"7aab4b01b69c74819961eca7cdf70974",
+    "wof:geomhash":"e0d7732fcb9e36e769d16017c09244ec",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +41,7 @@
         }
     ],
     "wof:id":554748197,
-    "wof:lastmodified":1480913968,
+    "wof:lastmodified":1611183848,
     "wof:name":"80528",
     "wof:parent_id":102083353,
     "wof:placetype":"postalcode",

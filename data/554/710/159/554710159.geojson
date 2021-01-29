@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035786,
-    "geom:area_square_m":342485126.219252,
+    "geom:area_square_m":342485126.219302,
     "geom:bbox":"-80.694917,39.1662,-80.438966,39.416322",
     "geom:latitude":39.287216,
     "geom:longitude":-80.563883,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.287032,
     "lbl:longitude":-80.564431,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Salem",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688589,
         102191575,
         85633793,
+        102082619,
         101731613,
-        102082619
+        85688589
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12768724"
     },
     "wof:country":"US",
-    "wof:geomhash":"911ce0c0fd971ad843dd597be8753ad6",
+    "wof:geomhash":"557db2db61dd46982ab9392da6efbc44",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554710159,
-    "wof:lastmodified":1480841404,
+    "wof:lastmodified":1611185100,
     "wof:name":"26426",
     "wof:parent_id":101731613,
     "wof:placetype":"postalcode",

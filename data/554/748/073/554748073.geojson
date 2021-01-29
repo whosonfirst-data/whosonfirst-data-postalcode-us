@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00047,
-    "geom:area_square_m":4474327.828854,
+    "geom:area_square_m":4474327.828853,
     "geom:bbox":"-104.942725,39.69234,-104.916686,39.716255",
     "geom:latitude":39.704325,
     "geom:longitude":-104.930944,
@@ -13,20 +13,25 @@
     "lbl:latitude":39.705169,
     "lbl:longitude":-104.930716,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Denver",
+    "mz:postal_locality_alt":[
+        "Glendale"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688603,
         102191575,
         85633793,
+        102086877,
         85929821,
-        102086877
+        85688603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12792982"
     },
     "wof:country":"US",
-    "wof:geomhash":"6e822da9c2100564d31b6033e4425da6",
+    "wof:geomhash":"941a1c41f63f448bd0121b4c2643300a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554748073,
-    "wof:lastmodified":1480913400,
+    "wof:lastmodified":1611183852,
     "wof:name":"80246",
     "wof:parent_id":85929821,
     "wof:placetype":"postalcode",

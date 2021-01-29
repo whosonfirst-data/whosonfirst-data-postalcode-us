@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.11178,
-    "geom:area_square_m":1173534065.615976,
+    "geom:area_square_m":1173534065.615546,
     "geom:bbox":"-98.887067,31.587001,-98.393881,32.163785",
     "geom:latitude":31.891838,
     "geom:longitude":-98.614885,
@@ -14,20 +14,26 @@
     "lbl:latitude":31.890896,
     "lbl:longitude":-98.613096,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Comanche",
+    "mz:postal_locality_alt":[
+        "Putnam",
+        "Graham"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102085033,
         101724073,
-        102085033
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12791066"
     },
     "wof:country":"US",
-    "wof:geomhash":"65f6da441b15ec8ea66c82775bb1ce1c",
+    "wof:geomhash":"35c72f98d7baf618d0f1bc5ed0559a4f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554745367,
-    "wof:lastmodified":1480841081,
+    "wof:lastmodified":1611185277,
     "wof:name":"76442",
     "wof:parent_id":101724073,
     "wof:placetype":"postalcode",

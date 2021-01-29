@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015866,
-    "geom:area_square_m":135603644.049826,
+    "geom:area_square_m":135603644.049777,
     "geom:bbox":"-84.281327,46.183892,-84.097389,46.431791",
     "geom:latitude":46.276055,
     "geom:longitude":-84.181962,
@@ -14,20 +14,22 @@
     "lbl:latitude":46.276096,
     "lbl:longitude":-84.176734,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Barbeau",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404507199,
         85633793,
-        102083033
+        102083033,
+        404507199,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779495"
     },
     "wof:country":"US",
-    "wof:geomhash":"3acb7fb271d941c427f482c3426d8b44",
+    "wof:geomhash":"9ad076638ac510cd5e652518d5520151",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554782771,
-    "wof:lastmodified":1480843137,
+    "wof:lastmodified":1611183614,
     "wof:name":"49710",
     "wof:parent_id":404507199,
     "wof:placetype":"postalcode",

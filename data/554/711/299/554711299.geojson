@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049282,
-    "geom:area_square_m":496992965.309862,
+    "geom:area_square_m":496992965.309818,
     "geom:bbox":"-79.602237,35.200265,-79.271539,35.494525",
     "geom:latitude":35.35642,
     "geom:longitude":-79.423018,
@@ -14,20 +14,25 @@
     "lbl:latitude":35.354616,
     "lbl:longitude":-79.416494,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Carthage",
+    "mz:postal_locality_alt":[
+        "Whispering Pines"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688773,
         102191575,
         85633793,
+        102087705,
         85980977,
-        102087705
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12769559"
     },
     "wof:country":"US",
-    "wof:geomhash":"fc8af75191ee339033dcd3e9ace3d3ab",
+    "wof:geomhash":"4403e51bbbd0572da40c3d1609bc5939",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554711299,
-    "wof:lastmodified":1480788123,
+    "wof:lastmodified":1611185342,
     "wof:name":"28327",
     "wof:parent_id":85980977,
     "wof:placetype":"postalcode",

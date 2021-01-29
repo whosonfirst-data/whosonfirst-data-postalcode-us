@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0022,
-    "geom:area_square_m":20018597.343645,
+    "geom:area_square_m":20018597.343643,
     "geom:bbox":"-83.091449,42.591601,-83.011779,42.62621",
     "geom:latitude":42.609895,
     "geom:longitude":-83.054329,
@@ -13,21 +13,26 @@
     "lbl:latitude":42.612074,
     "lbl:longitude":-83.053489,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Sterling Heights",
+    "mz:postal_locality_alt":[
+        "Troy"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404507483,
         85633793,
+        102083047,
+        404507483,
         85951697,
-        102083047
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778748"
     },
     "wof:country":"US",
-    "wof:geomhash":"b296e54fe4682575f0c49cd7a775bf84",
+    "wof:geomhash":"d07317cb9a5c55d649e6efe63abbb61d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554724139,
-    "wof:lastmodified":1480838366,
+    "wof:lastmodified":1611183761,
     "wof:name":"48314",
     "wof:parent_id":85951697,
     "wof:placetype":"postalcode",

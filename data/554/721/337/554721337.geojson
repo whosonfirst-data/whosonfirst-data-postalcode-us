@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015218,
-    "geom:area_square_m":142982857.233956,
+    "geom:area_square_m":142982857.233997,
     "geom:bbox":"-81.59949,40.493472,-81.365334,40.619678",
     "geom:latitude":40.548705,
     "geom:longitude":-81.478944,
@@ -14,21 +14,26 @@
     "lbl:latitude":40.546033,
     "lbl:longitude":-81.482957,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Dover",
+    "mz:postal_locality_alt":[
+        "Sugarcreek"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404526235,
         85633793,
+        102084737,
+        404526235,
         85982761,
-        102084737
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776866"
     },
     "wof:country":"US",
-    "wof:geomhash":"8493734f5fc2fa47aa9a706c7ddc171d",
+    "wof:geomhash":"6b3732f9f644076bca8478f322cf6e1d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554721337,
-    "wof:lastmodified":1480801595,
+    "wof:lastmodified":1611184946,
     "wof:name":"44622",
     "wof:parent_id":85982761,
     "wof:placetype":"postalcode",

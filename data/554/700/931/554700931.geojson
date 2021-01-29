@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005023,
-    "geom:area_square_m":46775104.950646,
+    "geom:area_square_m":46775104.950593,
     "geom:bbox":"-74.164229,41.090734,-74.050735,41.186796",
     "geom:latitude":41.138807,
     "geom:longitude":-74.116064,
@@ -14,21 +14,26 @@
     "lbl:latitude":41.140772,
     "lbl:longitude":-74.104976,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Suffern",
+    "mz:postal_locality_alt":[
+        "Airmont"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404523097,
         85633793,
+        102082385,
+        404523097,
         85978545,
-        102082385
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761621"
     },
     "wof:country":"US",
-    "wof:geomhash":"46e64a8f19d11c7ec7f1aa216112ef0e",
+    "wof:geomhash":"bba5f87e8d5481bb9e85955635ed8c06",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554700931,
-    "wof:lastmodified":1480908562,
+    "wof:lastmodified":1611183174,
     "wof:name":"10901",
     "wof:parent_id":85978545,
     "wof:placetype":"postalcode",

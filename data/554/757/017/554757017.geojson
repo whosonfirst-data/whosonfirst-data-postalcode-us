@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006019,
-    "geom:area_square_m":60681087.240422,
+    "geom:area_square_m":60681087.240541,
     "geom:bbox":"-82.654762,35.316479,-82.528539,35.445326",
     "geom:latitude":35.381821,
     "geom:longitude":-82.585082,
@@ -14,20 +14,26 @@
     "lbl:latitude":35.381445,
     "lbl:longitude":-82.588591,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Horse Shoe",
+    "mz:postal_locality_alt":[
+        "Arden",
+        "Canton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688773,
         102191575,
         85633793,
+        102080983,
         85980581,
-        102080983
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"28995445"
     },
     "wof:country":"US",
-    "wof:geomhash":"fba5b2fe840781530de9eb9cd2dda382",
+    "wof:geomhash":"a588b9f9628c08f37f04f565f2ca6b5d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554757017,
-    "wof:lastmodified":1480903311,
+    "wof:lastmodified":1611184581,
     "wof:name":"28759",
     "wof:parent_id":85980581,
     "wof:placetype":"postalcode",

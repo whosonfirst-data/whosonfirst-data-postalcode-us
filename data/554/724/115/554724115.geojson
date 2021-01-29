@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00206,
-    "geom:area_square_m":18864753.932059,
+    "geom:area_square_m":18864753.932042,
     "geom:bbox":"-83.388154,42.191213,-83.32591,42.240048",
     "geom:latitude":42.211977,
     "geom:longitude":-83.352537,
@@ -13,21 +13,26 @@
     "lbl:latitude":42.221732,
     "lbl:longitude":-83.354157,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Detroit",
+    "mz:postal_locality_alt":[
+        "Romulus"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404508657,
         85633793,
+        102083147,
+        404508657,
         85951131,
-        102083147
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778713"
     },
     "wof:country":"US",
-    "wof:geomhash":"3b3e28f69bef5a5d034812c0d3d49dff",
+    "wof:geomhash":"a32b22b0baa004a180990effa0787465",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554724115,
-    "wof:lastmodified":1480840670,
+    "wof:lastmodified":1611183771,
     "wof:name":"48242",
     "wof:parent_id":85951131,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010247,
-    "geom:area_square_m":97625260.824219,
+    "geom:area_square_m":97625260.824147,
     "geom:bbox":"-77.316857,39.537665,-77.18683,39.662203",
     "geom:latitude":39.59982,
     "geom:longitude":-77.256813,
@@ -14,19 +14,24 @@
     "lbl:latitude":39.593861,
     "lbl:longitude":-77.258139,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Keymar",
+    "mz:postal_locality_alt":[
+        "New Midway"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688501,
-        102081593
+        102081593,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766701"
     },
     "wof:country":"US",
-    "wof:geomhash":"742cf6f2ab91c323ee9a5f8c191f6e2d",
+    "wof:geomhash":"79472fdb48a328a2461dbb0cae3d7d5e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554707435,
-    "wof:lastmodified":1480825448,
+    "wof:lastmodified":1611183167,
     "wof:name":"21757",
     "wof:parent_id":102081593,
     "wof:placetype":"postalcode",

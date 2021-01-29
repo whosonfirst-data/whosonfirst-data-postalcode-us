@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001403,
-    "geom:area_square_m":12952484.986628,
+    "geom:area_square_m":12952484.986623,
     "geom:bbox":"-71.208292,41.681909,-71.155449,41.740411",
     "geom:latitude":41.712547,
     "geom:longitude":-71.18424,
@@ -14,21 +14,26 @@
     "lbl:latitude":41.720042,
     "lbl:longitude":-71.188272,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Somerset",
+    "mz:postal_locality_alt":[
+        "Swansea"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476145,
         85633793,
+        102084407,
+        404476145,
         85950687,
-        102084407
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758955"
     },
     "wof:country":"US",
-    "wof:geomhash":"d413f7c804a7391786407deae01e7e3e",
+    "wof:geomhash":"e95611d1af24b40e31d301355b2a3adc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554778529,
-    "wof:lastmodified":1480830991,
+    "wof:lastmodified":1611183434,
     "wof:name":"02725",
     "wof:parent_id":85950687,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.192854,
-    "geom:area_square_m":1690789493.489413,
+    "geom:area_square_m":1690789493.48986,
     "geom:bbox":"-107.222712,44.591724,-106.39751,45.096179",
     "geom:latitude":44.844486,
     "geom:longitude":-106.839712,
@@ -14,19 +14,26 @@
     "lbl:latitude":44.843713,
     "lbl:longitude":-106.835993,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Sheridan",
+    "mz:postal_locality_alt":[
+        "Dayton",
+        "Big Horn",
+        "Ranchester"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688475,
-        102080747
+        102080747,
+        85688475
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12793646"
     },
     "wof:country":"US",
-    "wof:geomhash":"f3b7efbe6914078a9eeb8d1f5d6a6250",
+    "wof:geomhash":"ff50e9cbae4e48e56e000a7d93070570",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +44,7 @@
         }
     ],
     "wof:id":554749077,
-    "wof:lastmodified":1480903619,
+    "wof:lastmodified":1611183546,
     "wof:name":"82801",
     "wof:parent_id":102080747,
     "wof:placetype":"postalcode",

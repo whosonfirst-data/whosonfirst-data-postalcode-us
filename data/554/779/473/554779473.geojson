@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000853,
-    "geom:area_square_m":7966241.536297,
+    "geom:area_square_m":7966241.536294,
     "geom:bbox":"-73.856807,40.923698,-73.800883,40.953242",
     "geom:latitude":40.938169,
     "geom:longitude":-73.830725,
@@ -14,21 +14,27 @@
     "lbl:latitude":40.938267,
     "lbl:longitude":-73.829922,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bronxville",
+    "mz:postal_locality_alt":[
+        "Yonkers",
+        "Tuckahoe"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404523357,
         85633793,
+        102082373,
+        404523357,
         85978751,
-        102082373
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761613"
     },
     "wof:country":"US",
-    "wof:geomhash":"7a54378fbfa1dec0e0a95f3596ae54c2",
+    "wof:geomhash":"1c4de6ad88b8242009b7e1be569fc0e4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554779473,
-    "wof:lastmodified":1480796130,
+    "wof:lastmodified":1611183983,
     "wof:name":"10708",
     "wof:parent_id":85978751,
     "wof:placetype":"postalcode",

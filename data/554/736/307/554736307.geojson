@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035882,
-    "geom:area_square_m":358607933.548708,
+    "geom:area_square_m":358607933.548665,
     "geom:bbox":"-90.017553,35.998797,-89.725375,36.180027",
     "geom:latitude":36.075731,
     "geom:longitude":-89.857081,
@@ -14,20 +14,25 @@
     "lbl:latitude":36.075721,
     "lbl:longitude":-89.858336,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Steele",
+    "mz:postal_locality_alt":[
+        "Charleston"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404517355,
         85633793,
-        102085321
+        102085321,
+        404517355,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785907"
     },
     "wof:country":"US",
-    "wof:geomhash":"73f14b4bd21f4a2db55ab02237f45e0f",
+    "wof:geomhash":"328c24c31a1bb553dc42d3aff8482f4f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554736307,
-    "wof:lastmodified":1480913106,
+    "wof:lastmodified":1611183017,
     "wof:name":"63877",
     "wof:parent_id":404517355,
     "wof:placetype":"postalcode",

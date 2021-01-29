@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002924,
-    "geom:area_square_m":27852213.455386,
+    "geom:area_square_m":27852213.455375,
     "geom:bbox":"-104.926184,39.594724,-104.821003,39.644832",
     "geom:latitude":39.612283,
     "geom:longitude":-104.879841,
@@ -13,20 +13,28 @@
     "lbl:latitude":39.613005,
     "lbl:longitude":-104.877957,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Englewood",
+    "mz:postal_locality_alt":[
+        "Greenwood Vlg",
+        "Centennial",
+        "Greenwood Village",
+        "Denver"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688603,
         102191575,
         85633793,
+        102086877,
         85929817,
-        102086877
+        85688603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12792910"
     },
     "wof:country":"US",
-    "wof:geomhash":"46541a88291ea00dc57a3615b1426995",
+    "wof:geomhash":"1ae29e53e83f5c3d1423de5b549a0a50",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +46,7 @@
         }
     ],
     "wof:id":554747943,
-    "wof:lastmodified":1480913398,
+    "wof:lastmodified":1611183488,
     "wof:name":"80111",
     "wof:parent_id":85929817,
     "wof:placetype":"postalcode",

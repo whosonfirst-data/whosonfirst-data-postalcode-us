@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.052902,
-    "geom:area_square_m":485602725.755433,
+    "geom:area_square_m":485602725.755061,
     "geom:bbox":"-104.053125,41.856808,-103.852366,42.261664",
     "geom:latitude":42.067811,
     "geom:longitude":-103.967085,
@@ -14,20 +14,25 @@
     "lbl:latitude":42.066266,
     "lbl:longitude":-103.968333,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Morrill",
+    "mz:postal_locality_alt":[
+        "Henry"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688563,
         102191575,
-        404521077,
         85633793,
-        102082209
+        102082209,
+        404521077,
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12788088"
     },
     "wof:country":"US",
-    "wof:geomhash":"2afc8a4f880fa43dc34fe819826d0950",
+    "wof:geomhash":"c87838caf8f050df86c9df4a04da00f0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554740645,
-    "wof:lastmodified":1480904957,
+    "wof:lastmodified":1611183392,
     "wof:name":"69358",
     "wof:parent_id":404521077,
     "wof:placetype":"postalcode",

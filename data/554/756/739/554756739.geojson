@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02138,
-    "geom:area_square_m":225262853.399153,
+    "geom:area_square_m":225262853.399338,
     "geom:bbox":"-84.862896,31.454311,-84.632012,31.64367",
     "geom:latitude":31.561868,
     "geom:longitude":-84.746614,
@@ -14,20 +14,22 @@
     "lbl:latitude":31.562973,
     "lbl:longitude":-84.745898,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Edison",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688535,
         102191575,
         85633793,
+        102083609,
         85936423,
-        102083609
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"23509877"
     },
     "wof:country":"US",
-    "wof:geomhash":"ac1f2c4447154c384fbb1a24c214e4d1",
+    "wof:geomhash":"4bbb29dfc5bdc4f82699531222b21996",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554756739,
-    "wof:lastmodified":1480836529,
+    "wof:lastmodified":1611184269,
     "wof:name":"39846",
     "wof:parent_id":85936423,
     "wof:placetype":"postalcode",

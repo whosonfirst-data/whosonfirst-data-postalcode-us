@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002598,
-    "geom:area_square_m":28680280.359065,
+    "geom:area_square_m":28680280.359047,
     "geom:bbox":"-80.134314,26.724197,-80.045862,26.795353",
     "geom:latitude":26.757673,
     "geom:longitude":-80.090829,
@@ -13,20 +13,26 @@
     "lbl:latitude":26.757693,
     "lbl:longitude":-80.091172,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"West Palm Beach",
+    "mz:postal_locality_alt":[
+        "Riviera Beach",
+        "Boca Raton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688651,
         102191575,
         85633793,
+        102085845,
         85931945,
-        102085845
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12772280"
     },
     "wof:country":"US",
-    "wof:geomhash":"70d03f1fcf4e56f99e3ef9f7d3b49af2",
+    "wof:geomhash":"58cad4a6d0e47184f83c384bd37130c0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554781715,
-    "wof:lastmodified":1480804000,
+    "wof:lastmodified":1611184821,
     "wof:name":"33407",
     "wof:parent_id":85931945,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005443,
-    "geom:area_square_m":51856027.969932,
+    "geom:area_square_m":51856027.969925,
     "geom:bbox":"-84.226066,39.567177,-84.101204,39.634223",
     "geom:latitude":39.600698,
     "geom:longitude":-84.158143,
@@ -13,20 +13,26 @@
     "lbl:latitude":39.602399,
     "lbl:longitude":-84.156363,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Dayton",
+    "mz:postal_locality_alt":[
+        "Centerville",
+        "Washington Twp"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404526971,
         85633793,
-        102083667
+        102083667,
+        404526971,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777311"
     },
     "wof:country":"US",
-    "wof:geomhash":"f9f6dfb7ca09d3d1145dba3aaa2b622c",
+    "wof:geomhash":"29c04dc99c0637ea243428886a40f9f0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554722003,
-    "wof:lastmodified":1480842992,
+    "wof:lastmodified":1611183240,
     "wof:name":"45458",
     "wof:parent_id":404526971,
     "wof:placetype":"postalcode",

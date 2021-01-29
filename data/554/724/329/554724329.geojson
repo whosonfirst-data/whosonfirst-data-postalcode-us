@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01158,
-    "geom:area_square_m":103467216.939266,
+    "geom:area_square_m":103467216.939249,
     "geom:bbox":"-82.84023,43.685895,-82.639695,43.793852",
     "geom:latitude":43.732527,
     "geom:longitude":-82.757821,
@@ -14,20 +14,22 @@
     "lbl:latitude":43.73513,
     "lbl:longitude":-82.751064,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ruth",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404507627,
         85633793,
-        102083017
+        102083017,
+        404507627,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778858"
     },
     "wof:country":"US",
-    "wof:geomhash":"b07d262173aab0ff481f4937ac3b28a9",
+    "wof:geomhash":"96ca30b3220e95e4e0f4bb5b4897221f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554724329,
-    "wof:lastmodified":1480837080,
+    "wof:lastmodified":1611183772,
     "wof:name":"48470",
     "wof:parent_id":404507627,
     "wof:placetype":"postalcode",

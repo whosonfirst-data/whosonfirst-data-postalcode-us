@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03821,
-    "geom:area_square_m":336413728.226003,
+    "geom:area_square_m":336413728.225597,
     "geom:bbox":"-92.047919,44.478745,-91.735401,44.704164",
     "geom:latitude":44.599756,
     "geom:longitude":-91.907223,
@@ -14,20 +14,25 @@
     "lbl:latitude":44.598579,
     "lbl:longitude":-91.906496,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Durand",
+    "mz:postal_locality_alt":[
+        "Wheeler"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404494475,
         85633793,
-        102081803
+        102081803,
+        404494475,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781490"
     },
     "wof:country":"US",
-    "wof:geomhash":"b4cb34e2ba5a5c6f924ee0dfc2829bab",
+    "wof:geomhash":"52220704f51c1855be9544bd7395f780",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554728605,
-    "wof:lastmodified":1480833248,
+    "wof:lastmodified":1611185060,
     "wof:name":"54736",
     "wof:parent_id":404494475,
     "wof:placetype":"postalcode",

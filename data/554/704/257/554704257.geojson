@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006277,
-    "geom:area_square_m":58840211.864961,
+    "geom:area_square_m":58840211.86489,
     "geom:bbox":"-80.148284,40.652468,-79.957677,40.744838",
     "geom:latitude":40.70096,
     "geom:longitude":-80.029827,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.702748,
     "lbl:longitude":-80.023906,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mars",
+    "mz:postal_locality_alt":[
+        "Seven Fields"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485051,
         85633793,
-        102083677
+        102083677,
+        404485051,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764133"
     },
     "wof:country":"US",
-    "wof:geomhash":"250808152902fd32e1f56c115c990af8",
+    "wof:geomhash":"08ac4b74184381754e61889b8fbc4b98",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554704257,
-    "wof:lastmodified":1480905387,
+    "wof:lastmodified":1611184494,
     "wof:name":"16046",
     "wof:parent_id":404485051,
     "wof:placetype":"postalcode",

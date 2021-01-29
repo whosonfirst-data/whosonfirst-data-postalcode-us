@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001639,
-    "geom:area_square_m":17983384.77256,
+    "geom:area_square_m":17983384.772562,
     "geom:bbox":"-82.59622,27.40522,-82.559008,27.4651",
     "geom:latitude":27.437587,
     "geom:longitude":-82.580158,
@@ -13,20 +13,25 @@
     "lbl:latitude":27.438677,
     "lbl:longitude":-82.579674,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bradenton",
+    "mz:postal_locality_alt":[
+        "Bordentown"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688651,
         102191575,
         85633793,
+        102084763,
         85934859,
-        102084763
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12772684"
     },
     "wof:country":"US",
-    "wof:geomhash":"e3275898d1054ded9d7dfa91956f1909",
+    "wof:geomhash":"dfad4ca0c44bedeaf9db964ed66c7fed",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554782061,
-    "wof:lastmodified":1480801569,
+    "wof:lastmodified":1611183628,
     "wof:name":"34207",
     "wof:parent_id":85934859,
     "wof:placetype":"postalcode",

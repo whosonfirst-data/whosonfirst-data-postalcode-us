@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.047374,
-    "geom:area_square_m":405941780.689095,
+    "geom:area_square_m":405941780.688989,
     "geom:bbox":"-123.899613,46.00273,-123.442898,46.236259",
     "geom:latitude":46.133313,
     "geom:longitude":-123.70594,
@@ -14,19 +14,25 @@
     "lbl:latitude":46.133918,
     "lbl:longitude":-123.710609,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Astoria",
+    "mz:postal_locality_alt":[
+        "Wheeler",
+        "Garibaldi"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688513,
-        102081235
+        102081235,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12798462"
     },
     "wof:country":"US",
-    "wof:geomhash":"f1ad6b35da9eedee7700b46ed5699a4e",
+    "wof:geomhash":"37e368920ecf868643a204899588009b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554780823,
-    "wof:lastmodified":1480833352,
+    "wof:lastmodified":1611185183,
     "wof:name":"97103",
     "wof:parent_id":102081235,
     "wof:placetype":"postalcode",

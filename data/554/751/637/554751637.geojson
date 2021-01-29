@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001235,
-    "geom:area_square_m":12331463.957465,
+    "geom:area_square_m":12331463.957483,
     "geom:bbox":"-115.065591,36.136846,-114.998887,36.163005",
     "geom:latitude":36.147947,
     "geom:longitude":-115.036382,
@@ -13,20 +13,22 @@
     "lbl:latitude":36.147948,
     "lbl:longitude":-115.036382,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Las Vegas",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688531,
         102191575,
         85633793,
+        102081553,
         85975045,
-        102081553
+        85688531
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795477"
     },
     "wof:country":"US",
-    "wof:geomhash":"71147d81a7e2bd2c3c7be579f35210e6",
+    "wof:geomhash":"ffed455c395ed7f26b308278d02db29b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +40,7 @@
         }
     ],
     "wof:id":554751637,
-    "wof:lastmodified":1480832973,
+    "wof:lastmodified":1611184355,
     "wof:name":"89142",
     "wof:parent_id":85975045,
     "wof:placetype":"postalcode",

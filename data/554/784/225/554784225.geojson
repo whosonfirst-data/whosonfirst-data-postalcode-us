@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000923,
-    "geom:area_square_m":9445867.180981,
+    "geom:area_square_m":9445867.181042,
     "geom:bbox":"-118.487485,34.126192,-118.443396,34.167289",
     "geom:latitude":34.146561,
     "geom:longitude":-118.462838,
@@ -13,20 +13,26 @@
     "lbl:latitude":34.147149,
     "lbl:longitude":-118.463365,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Sherman Oaks",
+    "mz:postal_locality_alt":[
+        "Van Nuys",
+        "Los Angeles"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086957,
         85923517,
-        102086957
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796031"
     },
     "wof:country":"US",
-    "wof:geomhash":"61c7853d5a5fa1f0bb0a8f49d235c620",
+    "wof:geomhash":"44dda3b7404c95da3e3c5a600d21d9d7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554784225,
-    "wof:lastmodified":1480912625,
+    "wof:lastmodified":1611183952,
     "wof:name":"91403",
     "wof:parent_id":85923517,
     "wof:placetype":"postalcode",

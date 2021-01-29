@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.060485,
-    "geom:area_square_m":563836391.878356,
+    "geom:area_square_m":563836391.878165,
     "geom:bbox":"-86.467238,40.909064,-86.076121,41.172774",
     "geom:latitude":41.071799,
     "geom:longitude":-86.250936,
@@ -14,20 +14,27 @@
     "lbl:latitude":41.075438,
     "lbl:longitude":-86.250139,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Rochester",
+    "mz:postal_locality_alt":[
+        "Leiters Ford",
+        "Kokomo",
+        "Greentown"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404500729,
         85633793,
-        102087055
+        102087055,
+        404500729,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778002"
     },
     "wof:country":"US",
-    "wof:geomhash":"35febde59f71ca44b7fe9f61f0a99013",
+    "wof:geomhash":"a23e853ca38f154ab75110edb4cb5e94",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554723031,
-    "wof:lastmodified":1480917174,
+    "wof:lastmodified":1611183787,
     "wof:name":"46975",
     "wof:parent_id":404500729,
     "wof:placetype":"postalcode",

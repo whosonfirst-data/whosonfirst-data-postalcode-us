@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006031,
-    "geom:area_square_m":62672369.922319,
+    "geom:area_square_m":62672369.922274,
     "geom:bbox":"-109.805531,32.758418,-109.716929,32.878209",
     "geom:latitude":32.82175,
     "geom:longitude":-109.769497,
@@ -14,20 +14,25 @@
     "lbl:latitude":32.819951,
     "lbl:longitude":-109.77083,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Thatcher",
+    "mz:postal_locality_alt":[
+        "Safford"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688719,
         102191575,
         85633793,
+        102087419,
         85917397,
-        102087419
+        85688719
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12794641"
     },
     "wof:country":"US",
-    "wof:geomhash":"a4c8f74b8e535024ec3f91f89d815760",
+    "wof:geomhash":"d22dc9de452db4b86947d7388dd7dfbb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554750587,
-    "wof:lastmodified":1480782073,
+    "wof:lastmodified":1611184549,
     "wof:name":"85552",
     "wof:parent_id":85917397,
     "wof:placetype":"postalcode",

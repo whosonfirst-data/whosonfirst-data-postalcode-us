@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007728,
-    "geom:area_square_m":75405652.06407,
+    "geom:area_square_m":75405652.064166,
     "geom:bbox":"-78.985228,37.85337,-78.822902,37.948862",
     "geom:latitude":37.901986,
     "geom:longitude":-78.900416,
@@ -14,20 +14,25 @@
     "lbl:latitude":37.892769,
     "lbl:longitude":-78.894292,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Nellysford",
+    "mz:postal_locality_alt":[
+        "Wintergreen"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688747,
         102191575,
         85633793,
+        102084977,
         101729165,
-        102084977
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12767123"
     },
     "wof:country":"US",
-    "wof:geomhash":"f01f4184b72df3316a4e936fb2e90d67",
+    "wof:geomhash":"ef9bfa19ae583f041a8e7204f131d45b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554707995,
-    "wof:lastmodified":1480913497,
+    "wof:lastmodified":1611183151,
     "wof:name":"22958",
     "wof:parent_id":101729165,
     "wof:placetype":"postalcode",

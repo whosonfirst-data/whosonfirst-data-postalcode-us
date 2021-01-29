@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004824,
-    "geom:area_square_m":45001276.792579,
+    "geom:area_square_m":45001276.792591,
     "geom:bbox":"-80.71127,40.987913,-80.626919,41.061258",
     "geom:latitude":41.02499,
     "geom:longitude":-80.667748,
@@ -13,21 +13,26 @@
     "lbl:latitude":41.025661,
     "lbl:longitude":-80.668279,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Youngstown",
+    "mz:postal_locality_alt":[
+        "Boardman"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404526097,
         85633793,
+        102084799,
+        404526097,
         101713855,
-        102084799
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776844"
     },
     "wof:country":"US",
-    "wof:geomhash":"a57d1f02b6c1d6f485770f22a6022d99",
+    "wof:geomhash":"d65cef3459ae1a7f02013e9f503820be",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554721301,
-    "wof:lastmodified":1480797001,
+    "wof:lastmodified":1611184946,
     "wof:name":"44512",
     "wof:parent_id":101713855,
     "wof:placetype":"postalcode",

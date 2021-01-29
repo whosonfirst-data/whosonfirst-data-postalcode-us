@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043816,
-    "geom:area_square_m":382411366.708886,
+    "geom:area_square_m":382411366.708881,
     "geom:bbox":"-67.659609,44.99316,-67.273408,45.280168",
     "geom:latitude":45.103466,
     "geom:longitude":-67.472202,
@@ -14,20 +14,29 @@
     "lbl:latitude":45.115083,
     "lbl:longitude":-67.477541,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Baileyville",
+    "mz:postal_locality_alt":[
+        "Blue Hill",
+        "Jonesport",
+        "Stonington",
+        "Alexander",
+        "Hancock"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404474829,
         85633793,
-        102081143
+        102081143,
+        404474829,
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759717"
     },
     "wof:country":"US",
-    "wof:geomhash":"2c649223854f8c22bc101c8ab918ec0f",
+    "wof:geomhash":"ea6e442343ce39ba4c2f647fa6e08dc7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +48,7 @@
         }
     ],
     "wof:id":554778901,
-    "wof:lastmodified":1480823909,
+    "wof:lastmodified":1611183425,
     "wof:name":"04694",
     "wof:parent_id":404474829,
     "wof:placetype":"postalcode",

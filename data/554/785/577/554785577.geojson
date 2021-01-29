@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01685,
-    "geom:area_square_m":193905001.768107,
+    "geom:area_square_m":193905001.768064,
     "geom:bbox":"-158.279549,21.363037,-158.089548,21.57193",
     "geom:latitude":21.461491,
     "geom:longitude":-158.171755,
@@ -14,20 +14,22 @@
     "lbl:latitude":21.468626,
     "lbl:longitude":-158.166919,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Waianae",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688671,
         102191575,
         85633793,
+        102085417,
         85937543,
-        102085417
+        85688671
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12798335"
     },
     "wof:country":"US",
-    "wof:geomhash":"8acc937ab5dea83a688c74ebf389011a",
+    "wof:geomhash":"a4fc1f91a19d7c18b5704c996d1cc7cf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554785577,
-    "wof:lastmodified":1480805664,
+    "wof:lastmodified":1611183518,
     "wof:name":"96792",
     "wof:parent_id":85937543,
     "wof:placetype":"postalcode",

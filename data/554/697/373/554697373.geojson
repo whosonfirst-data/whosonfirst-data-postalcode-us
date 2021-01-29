@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006661,
-    "geom:area_square_m":61101841.076861,
+    "geom:area_square_m":61101841.076867,
     "geom:bbox":"-71.238942,42.057362,-71.13113,42.165942",
     "geom:latitude":42.108133,
     "geom:longitude":-71.181452,
@@ -14,20 +14,26 @@
     "lbl:latitude":42.1076,
     "lbl:longitude":-71.181828,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Sharon",
+    "mz:postal_locality_alt":[
+        "East Walpole",
+        "South Walpole"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476595,
         85633793,
-        102084403
+        102084403,
+        404476595,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758693"
     },
     "wof:country":"US",
-    "wof:geomhash":"54b164127dd23711639a755258044342",
+    "wof:geomhash":"890d499388bcb4a71cb80f68e206907b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554697373,
-    "wof:lastmodified":1480800673,
+    "wof:lastmodified":1611184663,
     "wof:name":"02067",
     "wof:parent_id":404476595,
     "wof:placetype":"postalcode",

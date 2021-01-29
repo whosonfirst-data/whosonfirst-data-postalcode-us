@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026194,
-    "geom:area_square_m":241141740.260235,
+    "geom:area_square_m":241141740.260366,
     "geom:bbox":"-84.748403,41.752123,-84.459268,41.971576",
     "geom:latitude":41.883334,
     "geom:longitude":-84.616357,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.886298,
     "lbl:longitude":-84.622698,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hillsdale",
+    "mz:postal_locality_alt":[
+        "Stockbridge"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404507521,
         85633793,
-        102083705
+        102083705,
+        404507521,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779245"
     },
     "wof:country":"US",
-    "wof:geomhash":"827b7b280bde46c509abe7d30ac792b7",
+    "wof:geomhash":"052d9ad49f8f67bed74b549be4852294",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554724901,
-    "wof:lastmodified":1480834725,
+    "wof:lastmodified":1611183742,
     "wof:name":"49242",
     "wof:parent_id":404507521,
     "wof:placetype":"postalcode",

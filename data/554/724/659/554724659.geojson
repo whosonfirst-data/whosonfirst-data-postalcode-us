@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017722,
-    "geom:area_square_m":159717708.432979,
+    "geom:area_square_m":159717708.433014,
     "geom:bbox":"-85.20272,43.148509,-84.925625,43.264587",
     "geom:latitude":43.208301,
     "geom:longitude":-85.043223,
@@ -14,20 +14,26 @@
     "lbl:latitude":43.209843,
     "lbl:longitude":-85.049208,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Sheridan",
+    "mz:postal_locality_alt":[
+        "Crystal",
+        "Ithaca"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404506289,
         85633793,
-        102083741
+        102083741,
+        404506289,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779074"
     },
     "wof:country":"US",
-    "wof:geomhash":"c472a0813125c8561bca4a0ebd7a6c4e",
+    "wof:geomhash":"5b9739f95ddc875ed4547ed3df49812e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554724659,
-    "wof:lastmodified":1480841835,
+    "wof:lastmodified":1611183752,
     "wof:name":"48884",
     "wof:parent_id":404506289,
     "wof:placetype":"postalcode",

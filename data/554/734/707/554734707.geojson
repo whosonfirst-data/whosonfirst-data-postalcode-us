@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.051159,
-    "geom:area_square_m":494094607.952084,
+    "geom:area_square_m":494094607.951915,
     "geom:bbox":"-89.509256,38.487417,-89.13866,38.741892",
     "geom:latitude":38.641622,
     "geom:longitude":-89.330283,
@@ -14,20 +14,26 @@
     "lbl:latitude":38.612258,
     "lbl:longitude":-89.319338,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Carlyle",
+    "mz:postal_locality_alt":[
+        "Shattuc",
+        "Keyesport"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404497577,
         85633793,
-        102087571
+        102087571,
+        404497577,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785008"
     },
     "wof:country":"US",
-    "wof:geomhash":"8c2cd402ece71a30001febca4ff18dc6",
+    "wof:geomhash":"338b9053ee65c4e32d931d0278a31baa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554734707,
-    "wof:lastmodified":1480829707,
+    "wof:lastmodified":1611184179,
     "wof:name":"62231",
     "wof:parent_id":404497577,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008363,
-    "geom:area_square_m":79260947.736601,
+    "geom:area_square_m":79260947.736624,
     "geom:bbox":"-104.978227,39.888191,-104.832411,40.000398",
     "geom:latitude":39.963594,
     "geom:longitude":-104.907189,
@@ -13,20 +13,25 @@
     "lbl:latitude":39.966363,
     "lbl:longitude":-104.908709,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Brighton",
+    "mz:postal_locality_alt":[
+        "Thornton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688603,
         102191575,
         85633793,
+        102084053,
         85929143,
-        102084053
+        85688603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"23424663"
     },
     "wof:country":"US",
-    "wof:geomhash":"8d68c8a7ba309cca0939d8e0f10632de",
+    "wof:geomhash":"7331bac7021a38f5f92bfa6177903e09",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554756611,
-    "wof:lastmodified":1480913966,
+    "wof:lastmodified":1611184278,
     "wof:name":"80602",
     "wof:parent_id":85929143,
     "wof:placetype":"postalcode",

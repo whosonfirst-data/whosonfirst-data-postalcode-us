@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000025,
-    "geom:area_square_m":239001.632712,
+    "geom:area_square_m":239001.632714,
     "geom:bbox":"-84.027812,39.708603,-84.018083,39.713919",
     "geom:latitude":39.711329,
     "geom:longitude":-84.02221,
@@ -14,21 +14,26 @@
     "lbl:latitude":39.711329,
     "lbl:longitude":-84.02221,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Dayton",
+    "mz:postal_locality_alt":[
+        "Beavercreek"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404525275,
         85633793,
+        102084765,
+        404525275,
         101712659,
-        102084765
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777193"
     },
     "wof:country":"US",
-    "wof:geomhash":"85842f0594339bf140eed3cc11529d58",
+    "wof:geomhash":"25b92f28216ea454f48453273e2d680e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554770549,
-    "wof:lastmodified":1480798503,
+    "wof:lastmodified":1611183924,
     "wof:name":"45301",
     "wof:parent_id":101712659,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000175,
-    "geom:area_square_m":1609020.324586,
+    "geom:area_square_m":1609020.324581,
     "geom:bbox":"-71.663044,41.953299,-71.63223,41.972351",
     "geom:latitude":41.96345,
     "geom:longitude":-71.64827,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.964461,
     "lbl:longitude":-71.651336,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Oakland",
+    "mz:postal_locality_alt":[
+        "Glendale"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688509,
         102191575,
-        404488325,
         85633793,
-        102081597
+        102081597,
+        404488325,
+        85688509
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759021"
     },
     "wof:country":"US",
-    "wof:geomhash":"dc325660579862f94f34bfdd58886558",
+    "wof:geomhash":"beaac7b140dedb73d94715cebaf99f14",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554697605,
-    "wof:lastmodified":1480817072,
+    "wof:lastmodified":1611184643,
     "wof:name":"02858",
     "wof:parent_id":404488325,
     "wof:placetype":"postalcode",

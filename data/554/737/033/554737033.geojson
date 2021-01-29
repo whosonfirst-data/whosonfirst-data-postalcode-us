@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017134,
-    "geom:area_square_m":169391968.687881,
+    "geom:area_square_m":169391968.687991,
     "geom:bbox":"-94.317183,36.792665,-94.13481,37.023502",
     "geom:latitude":36.915306,
     "geom:longitude":-94.239013,
@@ -14,20 +14,22 @@
     "lbl:latitude":36.916226,
     "lbl:longitude":-94.238563,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Granby",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404517035,
         85633793,
-        102087471
+        102087471,
+        404517035,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786288"
     },
     "wof:country":"US",
-    "wof:geomhash":"b06c7ac28fc5e2eabda4b270d8475219",
+    "wof:geomhash":"5ae2c22cf0c2490cf799b341e37d7388",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554737033,
-    "wof:lastmodified":1480782782,
+    "wof:lastmodified":1611182859,
     "wof:name":"64844",
     "wof:parent_id":404517035,
     "wof:placetype":"postalcode",

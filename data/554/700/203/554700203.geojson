@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006657,
-    "geom:area_square_m":62386391.732275,
+    "geom:area_square_m":62386391.732399,
     "geom:bbox":"-74.890988,40.682395,-74.729987,40.767861",
     "geom:latitude":40.721043,
     "geom:longitude":-74.807427,
@@ -14,20 +14,27 @@
     "lbl:latitude":40.719283,
     "lbl:longitude":-74.794021,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Califon",
+    "mz:postal_locality_alt":[
+        "Long Valley",
+        "Newton",
+        "Port Murray"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478239,
         85633793,
-        102085997
+        102085997,
+        404478239,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760898"
     },
     "wof:country":"US",
-    "wof:geomhash":"fab8b11fe98f5fd8dcad40d22e8c62c8",
+    "wof:geomhash":"0e333fdbc2593b70224ba0fd11301b86",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554700203,
-    "wof:lastmodified":1480812026,
+    "wof:lastmodified":1611183185,
     "wof:name":"07830",
     "wof:parent_id":404478239,
     "wof:placetype":"postalcode",

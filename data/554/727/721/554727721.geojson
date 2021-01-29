@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018004,
-    "geom:area_square_m":162807741.256629,
+    "geom:area_square_m":162807741.256708,
     "geom:bbox":"-89.97582,42.907268,-89.838294,43.123141",
     "geom:latitude":43.002331,
     "geom:longitude":-89.902609,
@@ -14,20 +14,25 @@
     "lbl:latitude":42.984283,
     "lbl:longitude":-89.913876,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Barneveld",
+    "mz:postal_locality_alt":[
+        "Cambridge"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404495373,
         85633793,
-        102081277
+        102081277,
+        404495373,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12780962"
     },
     "wof:country":"US",
-    "wof:geomhash":"fd009f14a93daf87f27cdbf0cb384a98",
+    "wof:geomhash":"1369bab4d8373e9bcd2af1ca0689c00c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554727721,
-    "wof:lastmodified":1480823810,
+    "wof:lastmodified":1611185530,
     "wof:name":"53507",
     "wof:parent_id":404495373,
     "wof:placetype":"postalcode",

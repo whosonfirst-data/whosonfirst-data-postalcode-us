@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.063376,
-    "geom:area_square_m":576609271.659782,
+    "geom:area_square_m":576609271.65969,
     "geom:bbox":"-97.48569,42.496603,-97.015358,42.771873",
     "geom:latitude":42.625707,
     "geom:longitude":-97.269382,
@@ -14,21 +14,26 @@
     "lbl:latitude":42.625997,
     "lbl:longitude":-97.269952,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hartington",
+    "mz:postal_locality_alt":[
+        "Brunswick"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688563,
         102191575,
-        404519471,
         85633793,
+        102082819,
+        404519471,
         85974067,
-        102082819
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787805"
     },
     "wof:country":"US",
-    "wof:geomhash":"8906cda047dbeb36a145965b5d572eba",
+    "wof:geomhash":"15f5c7b37ef9922c8767797adeaf059c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554740045,
-    "wof:lastmodified":1480835497,
+    "wof:lastmodified":1611183409,
     "wof:name":"68739",
     "wof:parent_id":85974067,
     "wof:placetype":"postalcode",

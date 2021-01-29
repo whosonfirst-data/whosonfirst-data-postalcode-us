@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002091,
-    "geom:area_square_m":20517125.677324,
+    "geom:area_square_m":20517125.677305,
     "geom:bbox":"-122.245971,37.467173,-122.177528,37.532953",
     "geom:latitude":37.495409,
     "geom:longitude":-122.207646,
@@ -13,20 +13,26 @@
     "lbl:latitude":37.493297,
     "lbl:longitude":-122.195535,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Redwood City",
+    "mz:postal_locality_alt":[
+        "S San Francisco",
+        "Sunnyvale"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102085387,
         85922447,
-        102085387
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12797137"
     },
     "wof:country":"US",
-    "wof:geomhash":"22a69f999630bf7ff8922d1962024a79",
+    "wof:geomhash":"dadf7306aa4845545b272e08b2d01842",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554784653,
-    "wof:lastmodified":1480806942,
+    "wof:lastmodified":1611183955,
     "wof:name":"94063",
     "wof:parent_id":85922447,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001815,
-    "geom:area_square_m":17985777.432282,
+    "geom:area_square_m":17985777.432265,
     "geom:bbox":"-79.938146,36.694239,-79.882852,36.751685",
     "geom:latitude":36.725047,
     "geom:longitude":-79.910899,
@@ -14,20 +14,26 @@
     "lbl:latitude":36.72117,
     "lbl:longitude":-79.899591,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Collinsville",
+    "mz:postal_locality_alt":[
+        "Martinsville",
+        "Blacksburg"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688747,
         102191575,
         85633793,
+        102086705,
         101729271,
-        102086705
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12767639"
     },
     "wof:country":"US",
-    "wof:geomhash":"4c270e2eae7e7b65a27d97ed81e75ed1",
+    "wof:geomhash":"332865978c0ba12e1806e75728892a56",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554708579,
-    "wof:lastmodified":1480908949,
+    "wof:lastmodified":1611182821,
     "wof:name":"24078",
     "wof:parent_id":101729271,
     "wof:placetype":"postalcode",

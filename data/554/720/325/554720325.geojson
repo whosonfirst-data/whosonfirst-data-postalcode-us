@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045045,
-    "geom:area_square_m":429227401.322304,
+    "geom:area_square_m":429227401.322557,
     "geom:bbox":"-83.119543,39.476656,-82.775457,39.726714",
     "geom:latitude":39.590926,
     "geom:longitude":-82.96319,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.586593,
     "lbl:longitude":-82.962246,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Circleville",
+    "mz:postal_locality_alt":[
+        "Stoutsville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404526027,
         85633793,
-        102084815
+        102084815,
+        404526027,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776157"
     },
     "wof:country":"US",
-    "wof:geomhash":"cbafab3b96c5bae6834b07088c746109",
+    "wof:geomhash":"9f547cc0f4c5415b88eac37dc9de8e75",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554720325,
-    "wof:lastmodified":1480835593,
+    "wof:lastmodified":1611185468,
     "wof:name":"43113",
     "wof:parent_id":404526027,
     "wof:placetype":"postalcode",

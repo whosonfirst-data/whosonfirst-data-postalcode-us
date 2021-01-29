@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009991,
-    "geom:area_square_m":102486091.959142,
+    "geom:area_square_m":102486091.959423,
     "geom:bbox":"-83.329123,33.846936,-83.189943,34.013557",
     "geom:latitude":33.944648,
     "geom:longitude":-83.257294,
@@ -14,19 +14,24 @@
     "lbl:latitude":33.946987,
     "lbl:longitude":-83.25627,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Winterville",
+    "mz:postal_locality_alt":[
+        "Athens"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688535,
-        102084365
+        102084365,
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770974"
     },
     "wof:country":"US",
-    "wof:geomhash":"5458bd2348fae9a86ba084487223610a",
+    "wof:geomhash":"d56e39a62a586fed4fd085ae1f6f56bf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554713413,
-    "wof:lastmodified":1480817100,
+    "wof:lastmodified":1611183299,
     "wof:name":"30683",
     "wof:parent_id":102084365,
     "wof:placetype":"postalcode",

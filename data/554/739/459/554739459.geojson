@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027634,
-    "geom:area_square_m":257953094.064412,
+    "geom:area_square_m":257953094.064497,
     "geom:bbox":"-96.064077,40.857278,-95.809379,41.063986",
     "geom:latitude":40.981418,
     "geom:longitude":-95.934392,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.98408,
     "lbl:longitude":-95.942013,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Plattsmouth",
+    "mz:postal_locality_alt":[
+        "Blair"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688563,
         102191575,
-        404519615,
         85633793,
-        102082791
+        102082791,
+        404519615,
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787503"
     },
     "wof:country":"US",
-    "wof:geomhash":"333d3ccd0ac42a15c192b01f769ca229",
+    "wof:geomhash":"5fe4ed51efb9f0e1e29fcc45e7d85557",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554739459,
-    "wof:lastmodified":1480915500,
+    "wof:lastmodified":1611182676,
     "wof:name":"68048",
     "wof:parent_id":404519615,
     "wof:placetype":"postalcode",

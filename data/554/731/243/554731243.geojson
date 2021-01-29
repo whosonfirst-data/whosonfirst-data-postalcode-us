@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053778,
-    "geom:area_square_m":465149158.115465,
+    "geom:area_square_m":465149158.115408,
     "geom:bbox":"-99.585374,45.506092,-99.22117,45.752416",
     "geom:latitude":45.612818,
     "geom:longitude":-99.406772,
@@ -14,20 +14,25 @@
     "lbl:latitude":45.63546,
     "lbl:longitude":-99.41133,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hosmer",
+    "mz:postal_locality_alt":[
+        "Pierpont"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688693,
         102191575,
-        404490449,
         85633793,
-        102086837
+        102086837,
+        404490449,
+        85688693
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782932"
     },
     "wof:country":"US",
-    "wof:geomhash":"5f7b638a738b8a9d7765d372613bc97b",
+    "wof:geomhash":"63de1e6a465c65a19102dcad138461bc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554731243,
-    "wof:lastmodified":1480912433,
+    "wof:lastmodified":1611183063,
     "wof:name":"57448",
     "wof:parent_id":404490449,
     "wof:placetype":"postalcode",

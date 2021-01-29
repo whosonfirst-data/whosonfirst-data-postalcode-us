@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006101,
-    "geom:area_square_m":62717602.878381,
+    "geom:area_square_m":62717602.878389,
     "geom:bbox":"-84.70872,33.71716,-84.578132,33.805795",
     "geom:latitude":33.762983,
     "geom:longitude":-84.638201,
@@ -14,20 +14,26 @@
     "lbl:latitude":33.766909,
     "lbl:longitude":-84.641356,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lithia Springs",
+    "mz:postal_locality_alt":[
+        "Douglasville",
+        "Austell"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688535,
         102191575,
         85633793,
+        102084441,
         85937213,
-        102084441
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770597"
     },
     "wof:country":"US",
-    "wof:geomhash":"6d994cfbdff857464a47243b35c79aa7",
+    "wof:geomhash":"23b1c755076d1dd95bf5625e7602a4fb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554712823,
-    "wof:lastmodified":1480841940,
+    "wof:lastmodified":1611183723,
     "wof:name":"30122",
     "wof:parent_id":85937213,
     "wof:placetype":"postalcode",

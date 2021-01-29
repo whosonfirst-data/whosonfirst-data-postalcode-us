@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007108,
-    "geom:area_square_m":67386252.627022,
+    "geom:area_square_m":67386252.627004,
     "geom:bbox":"-74.322479,39.884594,-74.189313,40.015495",
     "geom:latitude":39.945747,
     "geom:longitude":-74.255981,
@@ -13,21 +13,26 @@
     "lbl:latitude":39.942397,
     "lbl:longitude":-74.251072,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Toms River",
+    "mz:postal_locality_alt":[
+        "Bayville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477833,
         85633793,
+        102081485,
+        404477833,
         85976349,
-        102081485
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761251"
     },
     "wof:country":"US",
-    "wof:geomhash":"d5e07fbdfbdefea76a84a8f2154d6a5d",
+    "wof:geomhash":"3af9962871128f0678e037d5a00425a9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554700677,
-    "wof:lastmodified":1480817268,
+    "wof:lastmodified":1611183201,
     "wof:name":"08757",
     "wof:parent_id":85976349,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031827,
-    "geom:area_square_m":324711686.15175,
+    "geom:area_square_m":324711686.151669,
     "geom:bbox":"-85.84917,34.264483,-85.579408,34.539684",
     "geom:latitude":34.401404,
     "geom:longitude":-85.696293,
@@ -13,20 +13,25 @@
     "lbl:latitude":34.407663,
     "lbl:longitude":-85.694569,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fort Payne",
+    "mz:postal_locality_alt":[
+        "Guntersville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688675,
         102191575,
         85633793,
+        102085615,
         85897515,
-        102085615
+        85688675
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12773300"
     },
     "wof:country":"US",
-    "wof:geomhash":"304c5718217af22fa7dccc25fcf8e8ad",
+    "wof:geomhash":"cbe49c5b8b23fc4f87dfbcad7a5de844",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554715733,
-    "wof:lastmodified":1480808802,
+    "wof:lastmodified":1611183665,
     "wof:name":"35967",
     "wof:parent_id":85897515,
     "wof:placetype":"postalcode",

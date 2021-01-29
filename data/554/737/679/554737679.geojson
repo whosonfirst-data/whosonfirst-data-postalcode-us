@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013697,
-    "geom:area_square_m":135195953.590444,
+    "geom:area_square_m":135195953.590474,
     "geom:bbox":"-93.4065,36.959328,-93.233705,37.094955",
     "geom:latitude":37.038612,
     "geom:longitude":-93.318429,
@@ -14,21 +14,26 @@
     "lbl:latitude":37.041064,
     "lbl:longitude":-93.321072,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Nixa",
+    "mz:postal_locality_alt":[
+        "Marshfield"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404516573,
         85633793,
+        102087497,
+        404516573,
         85971579,
-        102087497
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786619"
     },
     "wof:country":"US",
-    "wof:geomhash":"129a2be122ccc39868bd42c2f60fe054",
+    "wof:geomhash":"59e436fbc65bee85a77a5787a69a5f80",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554737679,
-    "wof:lastmodified":1480787070,
+    "wof:lastmodified":1611182855,
     "wof:name":"65714",
     "wof:parent_id":85971579,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002344,
-    "geom:area_square_m":22865532.398301,
+    "geom:area_square_m":22865532.398267,
     "geom:bbox":"-122.382116,37.889826,-122.304477,37.953163",
     "geom:latitude":37.915812,
     "geom:longitude":-122.342972,
@@ -13,20 +13,25 @@
     "lbl:latitude":37.916555,
     "lbl:longitude":-122.341233,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Richmond",
+    "mz:postal_locality_alt":[
+        "El Cerrito"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086225,
         85922131,
-        102086225
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12797434"
     },
     "wof:country":"US",
-    "wof:geomhash":"04d2db91eafc4d3a6a942096a0599a03",
+    "wof:geomhash":"e734a0fe67180735f2d84799f7ee22ac",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554784783,
-    "wof:lastmodified":1480915083,
+    "wof:lastmodified":1611183943,
     "wof:name":"94804",
     "wof:parent_id":85922131,
     "wof:placetype":"postalcode",

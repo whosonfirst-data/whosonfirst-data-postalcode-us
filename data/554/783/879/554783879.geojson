@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000897,
-    "geom:area_square_m":9201400.996531,
+    "geom:area_square_m":9201400.996513,
     "geom:bbox":"-118.283204,33.938264,-118.262969,33.989227",
     "geom:latitude":33.964136,
     "geom:longitude":-118.273719,
@@ -13,20 +13,22 @@
     "lbl:latitude":33.964131,
     "lbl:longitude":-118.272783,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Los Angeles",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086957,
         85923517,
-        102086957
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795611"
     },
     "wof:country":"US",
-    "wof:geomhash":"e6bd7b33bd47e10fb0ed13d081c82719",
+    "wof:geomhash":"728a39c014403616eedd01750194cf06",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +40,7 @@
         }
     ],
     "wof:id":554783879,
-    "wof:lastmodified":1480912618,
+    "wof:lastmodified":1611183895,
     "wof:name":"90003",
     "wof:parent_id":85923517,
     "wof:placetype":"postalcode",

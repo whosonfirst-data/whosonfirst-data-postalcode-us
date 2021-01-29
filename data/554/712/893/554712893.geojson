@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019081,
-    "geom:area_square_m":196249091.63942,
+    "geom:area_square_m":196249091.639463,
     "geom:bbox":"-84.995555,33.602856,-84.832724,33.812295",
     "geom:latitude":33.717276,
     "geom:longitude":-84.921721,
@@ -14,20 +14,27 @@
     "lbl:latitude":33.717103,
     "lbl:longitude":-84.918031,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Villa Rica",
+    "mz:postal_locality_alt":[
+        "Douglasville",
+        "Temple",
+        "Winston"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688535,
         102191575,
         85633793,
+        102081719,
         85936273,
-        102081719
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770642"
     },
     "wof:country":"US",
-    "wof:geomhash":"bbc459d6c541aee7704e951fa8a063e2",
+    "wof:geomhash":"3964471f6e02ff046d6576a4d80df2d7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554712893,
-    "wof:lastmodified":1480832657,
+    "wof:lastmodified":1611183708,
     "wof:name":"30180",
     "wof:parent_id":85936273,
     "wof:placetype":"postalcode",

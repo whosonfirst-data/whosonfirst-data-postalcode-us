@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008432,
-    "geom:area_square_m":78042718.168286,
+    "geom:area_square_m":78042718.168359,
     "geom:bbox":"-85.757371,41.475824,-85.597869,41.596539",
     "geom:latitude":41.535202,
     "geom:longitude":-85.672102,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.535194,
     "lbl:longitude":-85.672121,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Millersburg",
+    "mz:postal_locality_alt":[
+        "Shipshewana"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404499941,
         85633793,
-        102086257
+        102086257,
+        404499941,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777797"
     },
     "wof:country":"US",
-    "wof:geomhash":"b4aa01257982f5df5ee128c55140c592",
+    "wof:geomhash":"d9d368d8e23552ce75bbd04b2a534c7c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554722737,
-    "wof:lastmodified":1480915898,
+    "wof:lastmodified":1611183212,
     "wof:name":"46543",
     "wof:parent_id":404499941,
     "wof:placetype":"postalcode",

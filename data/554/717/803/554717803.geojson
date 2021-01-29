@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024324,
-    "geom:area_square_m":246574188.505511,
+    "geom:area_square_m":246574188.505439,
     "geom:bbox":"-89.945771,34.840908,-89.688777,34.994876",
     "geom:latitude":34.935219,
     "geom:longitude":-89.823038,
@@ -14,20 +14,25 @@
     "lbl:latitude":34.933929,
     "lbl:longitude":-89.81628,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Olive Branch",
+    "mz:postal_locality_alt":[
+        "Southaven"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688579,
         102191575,
         85633793,
+        102085895,
         85969779,
-        102085895
+        85688579
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12774579"
     },
     "wof:country":"US",
-    "wof:geomhash":"7ba6b44d2666d5f6b8290758ce5a8760",
+    "wof:geomhash":"aee9ceb92949d5427404d7439e554d2b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554717803,
-    "wof:lastmodified":1480804298,
+    "wof:lastmodified":1611184999,
     "wof:name":"38654",
     "wof:parent_id":85969779,
     "wof:placetype":"postalcode",

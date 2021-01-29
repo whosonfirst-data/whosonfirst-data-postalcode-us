@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001557,
-    "geom:area_square_m":14687597.395785,
+    "geom:area_square_m":14687597.395776,
     "geom:bbox":"-74.912484,40.257326,-74.846702,40.315468",
     "geom:latitude":40.287223,
     "geom:longitude":-74.880618,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.286862,
     "lbl:longitude":-74.882113,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Washington Crsng",
+    "mz:postal_locality_alt":[
+        "Washington Crossing"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404484781,
         85633793,
-        102080987
+        102080987,
+        404484781,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765400"
     },
     "wof:country":"US",
-    "wof:geomhash":"75bb197ea85f3a8cafc10eaf88192311",
+    "wof:geomhash":"693edd2d0f3562e74cff7b3aa46c8e60",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554706127,
-    "wof:lastmodified":1480906421,
+    "wof:lastmodified":1611182698,
     "wof:name":"18977",
     "wof:parent_id":404484781,
     "wof:placetype":"postalcode",

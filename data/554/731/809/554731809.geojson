@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.073192,
-    "geom:area_square_m":608464588.744207,
+    "geom:area_square_m":608464588.744294,
     "geom:bbox":"-97.882553,47.640684,-97.324607,47.846413",
     "geom:latitude":47.753903,
     "geom:longitude":-97.635127,
@@ -14,20 +14,25 @@
     "lbl:latitude":47.751088,
     "lbl:longitude":-97.638309,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Northwood",
+    "mz:postal_locality_alt":[
+        "Larimore"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688525,
         102191575,
-        404480599,
         85633793,
-        102081493
+        102081493,
+        404480599,
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12783232"
     },
     "wof:country":"US",
-    "wof:geomhash":"bcf558e318dbb8861b6aecd71c9781c5",
+    "wof:geomhash":"7a1e52c8c86b909aec33468181ea987b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554731809,
-    "wof:lastmodified":1480817059,
+    "wof:lastmodified":1611183083,
     "wof:name":"58267",
     "wof:parent_id":404480599,
     "wof:placetype":"postalcode",

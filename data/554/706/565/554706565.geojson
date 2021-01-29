@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004725,
-    "geom:area_square_m":44493259.997562,
+    "geom:area_square_m":44493259.99762,
     "geom:bbox":"-76.000511,40.352168,-75.89314,40.449317",
     "geom:latitude":40.398265,
     "geom:longitude":-75.943652,
@@ -13,21 +13,26 @@
     "lbl:latitude":40.397908,
     "lbl:longitude":-75.943191,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Reading",
+    "mz:postal_locality_alt":[
+        "Laureldale"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404484529,
         85633793,
+        102080991,
+        404484529,
         101719193,
-        102080991
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765732"
     },
     "wof:country":"US",
-    "wof:geomhash":"367014bceaeaa8a4d984df03a640c701",
+    "wof:geomhash":"811de9a70fd00e61cb5aa13aa1993d3b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554706565,
-    "wof:lastmodified":1480903399,
+    "wof:lastmodified":1611182704,
     "wof:name":"19605",
     "wof:parent_id":101719193,
     "wof:placetype":"postalcode",

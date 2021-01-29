@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001759,
-    "geom:area_square_m":16604623.210401,
+    "geom:area_square_m":16604623.210394,
     "geom:bbox":"-74.819507,40.219714,-74.7548,40.290636",
     "geom:latitude":40.248235,
     "geom:longitude":-74.787629,
@@ -13,20 +13,25 @@
     "lbl:latitude":40.249347,
     "lbl:longitude":-74.789973,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Trenton",
+    "mz:postal_locality_alt":[
+        "Ewing"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478249,
         85633793,
-        102081129
+        102081129,
+        404478249,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761207"
     },
     "wof:country":"US",
-    "wof:geomhash":"a07d77130f94ce3d6a6368c06a409f5d",
+    "wof:geomhash":"74f5e406aa0efb8bf61bc5378283655d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554700635,
-    "wof:lastmodified":1480906420,
+    "wof:lastmodified":1611183186,
     "wof:name":"08618",
     "wof:parent_id":404478249,
     "wof:placetype":"postalcode",

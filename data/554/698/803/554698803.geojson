@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007502,
-    "geom:area_square_m":66910688.256144,
+    "geom:area_square_m":66910688.25614,
     "geom:bbox":"-72.337451,43.786859,-72.22207,43.904119",
     "geom:latitude":43.836952,
     "geom:longitude":-72.279744,
@@ -14,20 +14,26 @@
     "lbl:latitude":43.845083,
     "lbl:longitude":-72.28254,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Thetford Center",
+    "mz:postal_locality_alt":[
+        "Thetford",
+        "Post Mills"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688763,
         102191575,
-        404527179,
         85633793,
-        102087431
+        102087431,
+        404527179,
+        85688763
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759900"
     },
     "wof:country":"US",
-    "wof:geomhash":"5720016b2ed464efcfc0753ef05f0fbf",
+    "wof:geomhash":"e64a3fe148a7a28208417b2cc7d25f5a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554698803,
-    "wof:lastmodified":1480905333,
+    "wof:lastmodified":1611184684,
     "wof:name":"05075",
     "wof:parent_id":404527179,
     "wof:placetype":"postalcode",

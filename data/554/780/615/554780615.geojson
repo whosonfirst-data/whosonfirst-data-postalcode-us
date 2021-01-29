@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030184,
-    "geom:area_square_m":292817285.680267,
+    "geom:area_square_m":292817285.679999,
     "geom:bbox":"-75.364989,38.191339,-75.092948,38.409502",
     "geom:latitude":38.320194,
     "geom:longitude":-75.218006,
@@ -14,20 +14,25 @@
     "lbl:latitude":38.318877,
     "lbl:longitude":-75.216741,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Berlin",
+    "mz:postal_locality_alt":[
+        "Ocean City"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688501,
         102191575,
         85633793,
+        102081599,
         85949247,
-        102081599
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766738"
     },
     "wof:country":"US",
-    "wof:geomhash":"7ade6d3b89e6a3c6b781cfd8cd7ccb01",
+    "wof:geomhash":"8f147f86576b0b4191ca5d44341ba8a6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554780615,
-    "wof:lastmodified":1480817464,
+    "wof:lastmodified":1611185185,
     "wof:name":"21811",
     "wof:parent_id":85949247,
     "wof:placetype":"postalcode",

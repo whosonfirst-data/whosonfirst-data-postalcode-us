@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00284,
-    "geom:area_square_m":26938011.247256,
+    "geom:area_square_m":26938011.247264,
     "geom:bbox":"-86.157867,39.882238,-86.074085,39.930312",
     "geom:latitude":39.906879,
     "geom:longitude":-86.1238,
@@ -13,21 +13,26 @@
     "lbl:latitude":39.906045,
     "lbl:longitude":-86.124635,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Indianapolis",
+    "mz:postal_locality_alt":[
+        "Nora"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404502029,
         85633793,
+        102087201,
+        404502029,
         85942569,
-        102087201
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777678"
     },
     "wof:country":"US",
-    "wof:geomhash":"0f1488564c95d4f80391e5b500998ba5",
+    "wof:geomhash":"79a9fb36bca4932aee1a2f10466cb492",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554722625,
-    "wof:lastmodified":1480786479,
+    "wof:lastmodified":1611183236,
     "wof:name":"46240",
     "wof:parent_id":85942569,
     "wof:placetype":"postalcode",

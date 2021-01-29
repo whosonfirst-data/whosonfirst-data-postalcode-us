@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003952,
-    "geom:area_square_m":36279698.01257,
+    "geom:area_square_m":36279698.012623,
     "geom:bbox":"-80.226301,42.035047,-80.106088,42.098639",
     "geom:latitude":42.063647,
     "geom:longitude":-80.152504,
@@ -13,20 +13,22 @@
     "lbl:latitude":42.062345,
     "lbl:longitude":-80.151707,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Erie",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404486789,
         85633793,
-        102080955
+        102080955,
+        404486789,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764329"
     },
     "wof:country":"US",
-    "wof:geomhash":"dd817260f7bffca200bfd51d3428e3ad",
+    "wof:geomhash":"534429d3fed33831ab321908dc65f33f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +40,7 @@
         }
     ],
     "wof:id":554780353,
-    "wof:lastmodified":1480904870,
+    "wof:lastmodified":1611185160,
     "wof:name":"16506",
     "wof:parent_id":404486789,
     "wof:placetype":"postalcode",

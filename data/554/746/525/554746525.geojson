@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005058,
-    "geom:area_square_m":54302637.290624,
+    "geom:area_square_m":54302637.290644,
     "geom:bbox":"-98.7072,29.676481,-98.611558,29.795916",
     "geom:latitude":29.746948,
     "geom:longitude":-98.655469,
@@ -13,20 +13,25 @@
     "lbl:latitude":29.742957,
     "lbl:longitude":-98.651509,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Boerne",
+    "mz:postal_locality_alt":[
+        "Fair Oaks Ranch"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102082471,
         101724645,
-        102082471
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12791873"
     },
     "wof:country":"US",
-    "wof:geomhash":"4ace21ad7dd0446abb800aea8991dac3",
+    "wof:geomhash":"fa43ac59dc4a5c87a0f7e26f24fdabcf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554746525,
-    "wof:lastmodified":1480904953,
+    "wof:lastmodified":1611184032,
     "wof:name":"78015",
     "wof:parent_id":101724645,
     "wof:placetype":"postalcode",

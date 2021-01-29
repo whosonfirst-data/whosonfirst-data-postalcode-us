@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003045,
-    "geom:area_square_m":26606130.231687,
+    "geom:area_square_m":26606130.231694,
     "geom:bbox":"-93.522652,45.018196,-93.448133,45.065754",
     "geom:latitude":45.044008,
     "geom:longitude":-93.487576,
@@ -13,21 +13,26 @@
     "lbl:latitude":45.03914,
     "lbl:longitude":-93.489701,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Minneapolis",
+    "mz:postal_locality_alt":[
+        "Plymouth"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404511897,
         85633793,
+        102087709,
+        404511897,
         85969137,
-        102087709
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781927"
     },
     "wof:country":"US",
-    "wof:geomhash":"211919e1e23168fcec67d9e7ad66bdde",
+    "wof:geomhash":"0a807de0b5b1e0a518d6e715e9430b55",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554729403,
-    "wof:lastmodified":1480789092,
+    "wof:lastmodified":1611185439,
     "wof:name":"55446",
     "wof:parent_id":85969137,
     "wof:placetype":"postalcode",

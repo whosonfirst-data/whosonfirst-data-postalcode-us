@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024185,
-    "geom:area_square_m":252380392.69174,
+    "geom:area_square_m":252380392.691936,
     "geom:bbox":"-83.856851,32.336705,-83.620363,32.534157",
     "geom:latitude":32.441063,
     "geom:longitude":-83.743453,
@@ -14,20 +14,27 @@
     "lbl:latitude":32.440068,
     "lbl:longitude":-83.748603,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Perry",
+    "mz:postal_locality_alt":[
+        "Eatonton",
+        "Byron",
+        "Cordele"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688535,
         102191575,
         85633793,
+        102083617,
         85936247,
-        102083617
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12771112"
     },
     "wof:country":"US",
-    "wof:geomhash":"455dd301c4c19964ef41807bdb14c8b0",
+    "wof:geomhash":"95d0cc8f71092deb51e55cb2025a5aa3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554713665,
-    "wof:lastmodified":1480839374,
+    "wof:lastmodified":1611183332,
     "wof:name":"31069",
     "wof:parent_id":85936247,
     "wof:placetype":"postalcode",

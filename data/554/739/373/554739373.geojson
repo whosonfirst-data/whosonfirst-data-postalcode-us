@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.056798,
-    "geom:area_square_m":560541553.381534,
+    "geom:area_square_m":560541553.381531,
     "geom:bbox":"-102.0421,36.892541,-101.636861,37.156103",
     "geom:latitude":37.048089,
     "geom:longitude":-101.868049,
@@ -14,20 +14,22 @@
     "lbl:latitude":37.046856,
     "lbl:longitude":-101.867879,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Elkhart",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404504691,
         85633793,
-        102082711
+        102082711,
+        404504691,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787460"
     },
     "wof:country":"US",
-    "wof:geomhash":"6eb6b81291cca7853f7ad7deea121ef3",
+    "wof:geomhash":"cfd7deefe00ebfb81532c3f36e1a554f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554739373,
-    "wof:lastmodified":1480840781,
+    "wof:lastmodified":1611182679,
     "wof:name":"67950",
     "wof:parent_id":404504691,
     "wof:placetype":"postalcode",

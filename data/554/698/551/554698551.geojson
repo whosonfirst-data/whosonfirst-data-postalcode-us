@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042491,
-    "geom:area_square_m":357018660.413882,
+    "geom:area_square_m":357018660.413834,
     "geom:bbox":"-68.826559,47.101945,-68.408126,47.29716",
     "geom:latitude":47.194998,
     "geom:longitude":-68.617392,
@@ -14,20 +14,26 @@
     "lbl:latitude":47.200266,
     "lbl:longitude":-68.614333,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fort Kent",
+    "mz:postal_locality_alt":[
+        "New Canada",
+        "Mars Hill"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404475383,
         85633793,
-        102081161
+        102081161,
+        404475383,
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759730"
     },
     "wof:country":"US",
-    "wof:geomhash":"8174f920a7fc30bfc0ba60d191d07bf4",
+    "wof:geomhash":"a04d6356b8da1a9b2c3517384ec45b03",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554698551,
-    "wof:lastmodified":1480823533,
+    "wof:lastmodified":1611184675,
     "wof:name":"04743",
     "wof:parent_id":404475383,
     "wof:placetype":"postalcode",

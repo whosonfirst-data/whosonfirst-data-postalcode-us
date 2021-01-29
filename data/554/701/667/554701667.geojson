@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00185,
-    "geom:area_square_m":17087093.160656,
+    "geom:area_square_m":17087093.160672,
     "geom:bbox":"-74.609408,41.619411,-74.525057,41.690207",
     "geom:latitude":41.656131,
     "geom:longitude":-74.571062,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.676246,
     "lbl:longitude":-74.586211,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Glen Wild",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404523185,
         85633793,
-        102082407
+        102082407,
+        404523185,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762418"
     },
     "wof:country":"US",
-    "wof:geomhash":"891d7b927ec7f471b74238d21ea10818",
+    "wof:geomhash":"d984fc7abcc48e94b643ad756b0420a9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554701667,
-    "wof:lastmodified":1480792763,
+    "wof:lastmodified":1611182622,
     "wof:name":"12738",
     "wof:parent_id":404523185,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010583,
-    "geom:area_square_m":97676681.086526,
+    "geom:area_square_m":97676681.086408,
     "geom:bbox":"-73.652507,41.642804,-73.525943,41.791234",
     "geom:latitude":41.720523,
     "geom:longitude":-73.596683,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.719979,
     "lbl:longitude":-73.598384,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Dover Plains",
+    "mz:postal_locality_alt":[
+        "Millbrook"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522221,
         85633793,
-        102082363
+        102082363,
+        404522221,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762342"
     },
     "wof:country":"US",
-    "wof:geomhash":"aa4310380c54f16f754f0738c7b28f94",
+    "wof:geomhash":"06ce5f252da68c20de5c405e45c4e38a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554701533,
-    "wof:lastmodified":1480791528,
+    "wof:lastmodified":1611182612,
     "wof:name":"12522",
     "wof:parent_id":404522221,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019522,
-    "geom:area_square_m":179784494.000325,
+    "geom:area_square_m":179784494.000268,
     "geom:bbox":"-89.30032,41.782832,-89.112286,41.946111",
     "geom:latitude":41.860549,
     "geom:longitude":-89.209512,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.861762,
     "lbl:longitude":-89.202281,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ashton",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404497799,
         85633793,
-        102087565
+        102087565,
+        404497799,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784404"
     },
     "wof:country":"US",
-    "wof:geomhash":"2e33ed65559517016591d2108917b541",
+    "wof:geomhash":"191ac4d612560915e37c432e6167ad4e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554733619,
-    "wof:lastmodified":1480837447,
+    "wof:lastmodified":1611184217,
     "wof:name":"61006",
     "wof:parent_id":404497799,
     "wof:placetype":"postalcode",

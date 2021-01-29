@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005749,
-    "geom:area_square_m":52814747.282889,
+    "geom:area_square_m":52814747.282877,
     "geom:bbox":"-71.288265,41.974216,-71.158704,42.061161",
     "geom:latitude":42.016255,
     "geom:longitude":-71.218683,
@@ -14,21 +14,23 @@
     "lbl:latitude":42.017302,
     "lbl:longitude":-71.216409,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mansfield",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404475931,
         85633793,
+        102084407,
+        404475931,
         85950671,
-        102084407
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758679"
     },
     "wof:country":"US",
-    "wof:geomhash":"d6cb483c185d3b48cf0fa2770de5d59b",
+    "wof:geomhash":"ff9067bb3ab9c07dca421105e0f6b45f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +43,7 @@
         }
     ],
     "wof:id":554697359,
-    "wof:lastmodified":1480800672,
+    "wof:lastmodified":1611184650,
     "wof:name":"02048",
     "wof:parent_id":85950671,
     "wof:placetype":"postalcode",

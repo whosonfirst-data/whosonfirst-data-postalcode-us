@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000343,
-    "geom:area_square_m":3713958.478818,
+    "geom:area_square_m":3713958.478816,
     "geom:bbox":"-96.903389,28.825072,-96.877125,28.851802",
     "geom:latitude":28.83905,
     "geom:longitude":-96.889623,
@@ -14,19 +14,24 @@
     "lbl:latitude":28.83905,
     "lbl:longitude":-96.889623,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Telferner",
+    "mz:postal_locality_alt":[
+        "Victoria"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688753,
-        102081983
+        102081983,
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12791852"
     },
     "wof:country":"US",
-    "wof:geomhash":"cac0052bd9f299d284a661a06f93d7fb",
+    "wof:geomhash":"322e0c0cdb10f62d3e1701ea63c194d8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554777363,
-    "wof:lastmodified":1480817087,
+    "wof:lastmodified":1611183910,
     "wof:name":"77988",
     "wof:parent_id":102081983,
     "wof:placetype":"postalcode",

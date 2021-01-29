@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000428,
-    "geom:area_square_m":4007220.837139,
+    "geom:area_square_m":4007220.837133,
     "geom:bbox":"-74.073729,40.836647,-74.04876,40.870691",
     "geom:latitude":40.853672,
     "geom:longitude":-74.061207,
@@ -13,21 +13,26 @@
     "lbl:latitude":40.852969,
     "lbl:longitude":-74.060376,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Teterboro",
+    "mz:postal_locality_alt":[
+        "Hasbrouck Hts"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477737,
         85633793,
+        102086773,
+        404477737,
         85975907,
-        102086773
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760803"
     },
     "wof:country":"US",
-    "wof:geomhash":"83c35e32be51ade4167b1e8481727f81",
+    "wof:geomhash":"e908f966b272692594ffb43086479ce3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554700089,
-    "wof:lastmodified":1480908561,
+    "wof:lastmodified":1611183197,
     "wof:name":"07608",
     "wof:parent_id":85975907,
     "wof:placetype":"postalcode",

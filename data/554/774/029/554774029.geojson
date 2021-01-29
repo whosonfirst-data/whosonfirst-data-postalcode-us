@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000543,
-    "geom:area_square_m":4707649.494262,
+    "geom:area_square_m":4707649.494258,
     "geom:bbox":"-94.70142,45.497493,-94.654725,45.519418",
     "geom:latitude":45.505643,
     "geom:longitude":-94.679481,
@@ -14,21 +14,26 @@
     "lbl:latitude":45.505643,
     "lbl:longitude":-94.679481,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"St Martin",
+    "mz:postal_locality_alt":[
+        "Saint Martin"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404510523,
         85633793,
+        102087719,
+        404510523,
         85952497,
-        102087719
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782458"
     },
     "wof:country":"US",
-    "wof:geomhash":"b69856b384ca726a7c65bb0da9d0edbf",
+    "wof:geomhash":"ab6722f77a86282b7acbfaa31397b432",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554774029,
-    "wof:lastmodified":1480788130,
+    "wof:lastmodified":1611185199,
     "wof:name":"56376",
     "wof:parent_id":85952497,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002822,
-    "geom:area_square_m":26459240.323905,
+    "geom:area_square_m":26459240.323936,
     "geom:bbox":"-112.091877,40.665184,-112.0236,40.740262",
     "geom:latitude":40.700455,
     "geom:longitude":-112.046769,
@@ -13,20 +13,25 @@
     "lbl:latitude":40.70045,
     "lbl:longitude":-112.046772,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Salt Lake City",
+    "mz:postal_locality_alt":[
+        "West Valley"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688567,
         102191575,
         85633793,
+        102082877,
         101728063,
-        102082877
+        85688567
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12794151"
     },
     "wof:country":"US",
-    "wof:geomhash":"432bae31df426265650fb66ffc80d050",
+    "wof:geomhash":"b82bd916ba8fd47eccf46b5d74dd8d5e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554749939,
-    "wof:lastmodified":1480793072,
+    "wof:lastmodified":1611183539,
     "wof:name":"84128",
     "wof:parent_id":101728063,
     "wof:placetype":"postalcode",

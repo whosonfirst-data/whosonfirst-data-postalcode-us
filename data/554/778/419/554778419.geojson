@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008722,
-    "geom:area_square_m":80650503.539809,
+    "geom:area_square_m":80650503.539826,
     "geom:bbox":"-70.628312,41.543789,-70.497692,41.655322",
     "geom:latitude":41.596757,
     "geom:longitude":-70.567135,
@@ -14,20 +14,30 @@
     "lbl:latitude":41.596305,
     "lbl:longitude":-70.567467,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"East Falmouth",
+    "mz:postal_locality_alt":[
+        "Teaticket",
+        "Waquoit",
+        "Falmouth",
+        "Nantucket",
+        "Vineyard Haven",
+        "Edgartown"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476181,
         85633793,
-        102084379
+        102084379,
+        404476181,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758874"
     },
     "wof:country":"US",
-    "wof:geomhash":"b788c96456f3a03226d983b7af11586f",
+    "wof:geomhash":"ab972131f29315cb2e27ea4a4f05593e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +49,7 @@
         }
     ],
     "wof:id":554778419,
-    "wof:lastmodified":1480802730,
+    "wof:lastmodified":1611183439,
     "wof:name":"02536",
     "wof:parent_id":404476181,
     "wof:placetype":"postalcode",

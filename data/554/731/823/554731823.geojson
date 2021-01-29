@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040451,
-    "geom:area_square_m":337962582.683476,
+    "geom:area_square_m":337962582.683482,
     "geom:bbox":"-97.644957,47.411108,-97.331993,47.599538",
     "geom:latitude":47.493047,
     "geom:longitude":-97.487502,
@@ -14,20 +14,25 @@
     "lbl:latitude":47.491896,
     "lbl:longitude":-97.488548,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Portland",
+    "mz:postal_locality_alt":[
+        "Finley"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688525,
         102191575,
-        404479627,
         85633793,
-        102082055
+        102082055,
+        404479627,
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12783238"
     },
     "wof:country":"US",
-    "wof:geomhash":"4ba17c85024126348430bf214691829b",
+    "wof:geomhash":"be4a49124ab40375d8aff5f5d3d59372",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554731823,
-    "wof:lastmodified":1480819795,
+    "wof:lastmodified":1611183078,
     "wof:name":"58274",
     "wof:parent_id":404479627,
     "wof:placetype":"postalcode",

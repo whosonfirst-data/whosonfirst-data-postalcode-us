@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.116927,
-    "geom:area_square_m":1010629174.237043,
+    "geom:area_square_m":1010629174.237317,
     "geom:bbox":"-89.646266,45.467257,-89.046552,45.829388",
     "geom:latitude":45.653048,
     "geom:longitude":-89.344979,
@@ -14,20 +14,26 @@
     "lbl:latitude":45.657616,
     "lbl:longitude":-89.349236,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Rhinelander",
+    "mz:postal_locality_alt":[
+        "Monico",
+        "Mc Naughton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404494757,
         85633793,
-        102081305
+        102081305,
+        404494757,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781365"
     },
     "wof:country":"US",
-    "wof:geomhash":"05a3ff3765c53071fa5f6cda27fcd689",
+    "wof:geomhash":"9d97e42fdbb3a4856d3612b74032316e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554728375,
-    "wof:lastmodified":1480833663,
+    "wof:lastmodified":1611185097,
     "wof:name":"54501",
     "wof:parent_id":404494757,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000126,
-    "geom:area_square_m":1371707.540714,
+    "geom:area_square_m":1371707.540712,
     "geom:bbox":"-97.051569,28.06128,-97.034075,28.076239",
     "geom:latitude":28.068269,
     "geom:longitude":-97.044103,
@@ -14,20 +14,25 @@
     "lbl:latitude":28.067949,
     "lbl:longitude":-97.042232,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fulton",
+    "mz:postal_locality_alt":[
+        "Rockport"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102087309,
         101725395,
-        102087309
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12792075"
     },
     "wof:country":"US",
-    "wof:geomhash":"a65788a7ac5d280974a732bf74935748",
+    "wof:geomhash":"49b200ceecb8bc16c4819f40afba5a74",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554789551,
-    "wof:lastmodified":1480784637,
+    "wof:lastmodified":1611185201,
     "wof:name":"78358",
     "wof:parent_id":101725395,
     "wof:placetype":"postalcode",

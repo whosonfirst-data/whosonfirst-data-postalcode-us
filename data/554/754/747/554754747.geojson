@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00224,
-    "geom:area_square_m":19448010.014175,
+    "geom:area_square_m":19448010.014154,
     "geom:bbox":"-122.657273,45.379482,-122.572393,45.431596",
     "geom:latitude":45.40773,
     "geom:longitude":-122.614866,
@@ -13,20 +13,26 @@
     "lbl:latitude":45.408427,
     "lbl:longitude":-122.612867,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Portland",
+    "mz:postal_locality_alt":[
+        "Milwaukie",
+        "Oak Grove"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688513,
         102191575,
         85633793,
+        102082213,
         101716379,
-        102082213
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12798545"
     },
     "wof:country":"US",
-    "wof:geomhash":"38f8ac9de255e4eaee96999f27866053",
+    "wof:geomhash":"e5fc1231406d69390b9ea1128f9f018c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554754747,
-    "wof:lastmodified":1480791239,
+    "wof:lastmodified":1611182893,
     "wof:name":"97267",
     "wof:parent_id":101716379,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.065775,
-    "geom:area_square_m":540794869.932131,
+    "geom:area_square_m":540794869.932892,
     "geom:bbox":"-102.353607,48.095456,-102.080436,48.546339",
     "geom:latitude":48.323237,
     "geom:longitude":-102.221169,
@@ -14,20 +14,22 @@
     "lbl:latitude":48.319909,
     "lbl:longitude":-102.202714,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Palermo",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688525,
         102191575,
-        404479241,
         85633793,
-        102082569
+        102082569,
+        404479241,
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12783485"
     },
     "wof:country":"US",
-    "wof:geomhash":"ca0067730d5d33af21bf5e500d5cdfe0",
+    "wof:geomhash":"80d406ff1585636ed1d5a2932faa33e6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554732331,
-    "wof:lastmodified":1480830826,
+    "wof:lastmodified":1611184364,
     "wof:name":"58769",
     "wof:parent_id":404479241,
     "wof:placetype":"postalcode",

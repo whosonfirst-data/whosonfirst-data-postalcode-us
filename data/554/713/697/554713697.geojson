@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038549,
-    "geom:area_square_m":400426339.671037,
+    "geom:area_square_m":400426339.67112,
     "geom:bbox":"-82.987359,32.708318,-82.692839,32.963642",
     "geom:latitude":32.852917,
     "geom:longitude":-82.863822,
@@ -14,19 +14,25 @@
     "lbl:latitude":32.850766,
     "lbl:longitude":-82.860314,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Tennille",
+    "mz:postal_locality_alt":[
+        "Sandersville",
+        "Eastman"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688535,
-        102084371
+        102084371,
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12771130"
     },
     "wof:country":"US",
-    "wof:geomhash":"8c2ad1678a7bc60b683006052072df50",
+    "wof:geomhash":"886cb91ebf8cccb32eb8767c9a5e484f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554713697,
-    "wof:lastmodified":1480834645,
+    "wof:lastmodified":1611183329,
     "wof:name":"31089",
     "wof:parent_id":102084371,
     "wof:placetype":"postalcode",

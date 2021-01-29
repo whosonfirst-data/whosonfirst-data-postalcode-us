@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042087,
-    "geom:area_square_m":356675206.608424,
+    "geom:area_square_m":356675206.608404,
     "geom:bbox":"-123.2012,46.662934,-122.699114,46.814264",
     "geom:latitude":46.734982,
     "geom:longitude":-122.921063,
@@ -14,19 +14,25 @@
     "lbl:latitude":46.730437,
     "lbl:longitude":-122.902774,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Centralia",
+    "mz:postal_locality_alt":[
+        "Chehalis",
+        "Olympia"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688623,
-        102085359
+        102085359,
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12799223"
     },
     "wof:country":"US",
-    "wof:geomhash":"3922e0de63bd1aeca7d35256c71fab0b",
+    "wof:geomhash":"66364c24396eafb5f2a2eafcaf78dae4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554755853,
-    "wof:lastmodified":1480816089,
+    "wof:lastmodified":1611182600,
     "wof:name":"98531",
     "wof:parent_id":102085359,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.077867,
-    "geom:area_square_m":683714674.211837,
+    "geom:area_square_m":683714674.211508,
     "geom:bbox":"-68.202252,44.547943,-67.777174,44.957564",
     "geom:latitude":44.756955,
     "geom:longitude":-67.984536,
@@ -14,20 +14,22 @@
     "lbl:latitude":44.750666,
     "lbl:longitude":-67.966927,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cherryfield",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404474835,
         85633793,
-        102081143
+        102081143,
+        404474835,
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759663"
     },
     "wof:country":"US",
-    "wof:geomhash":"c580c08eb2c0fef0ab024cec7dd82c70",
+    "wof:geomhash":"dbe11013a0270c46c51480e482c96fc9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554698515,
-    "wof:lastmodified":1480830743,
+    "wof:lastmodified":1611184706,
     "wof:name":"04622",
     "wof:parent_id":404474835,
     "wof:placetype":"postalcode",

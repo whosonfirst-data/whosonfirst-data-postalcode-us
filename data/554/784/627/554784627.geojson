@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003099,
-    "geom:area_square_m":30417773.004013,
+    "geom:area_square_m":30417773.003971,
     "geom:bbox":"-122.229133,37.409088,-122.121345,37.507944",
     "geom:latitude":37.463017,
     "geom:longitude":-122.173246,
@@ -13,20 +13,25 @@
     "lbl:latitude":37.457524,
     "lbl:longitude":-122.176542,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Menlo Park",
+    "mz:postal_locality_alt":[
+        "Redwood City"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102085387,
         85922503,
-        102085387
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12797116"
     },
     "wof:country":"US",
-    "wof:geomhash":"c0a9787b810e64add7c241648692c563",
+    "wof:geomhash":"ac3f1b27bd645a171625d9c60d6e947b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554784627,
-    "wof:lastmodified":1480829308,
+    "wof:lastmodified":1611183934,
     "wof:name":"94025",
     "wof:parent_id":85922503,
     "wof:placetype":"postalcode",

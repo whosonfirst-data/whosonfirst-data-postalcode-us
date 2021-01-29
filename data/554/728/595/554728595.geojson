@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01453,
-    "geom:area_square_m":126267068.464284,
+    "geom:area_square_m":126267068.464232,
     "geom:bbox":"-91.19405,45.291961,-90.98039,45.422958",
     "geom:latitude":45.350933,
     "geom:longitude":-91.081933,
@@ -14,20 +14,22 @@
     "lbl:latitude":45.349837,
     "lbl:longitude":-91.090398,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Conrath",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404495331,
         85633793,
-        102081739
+        102081739,
+        404495331,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781485"
     },
     "wof:country":"US",
-    "wof:geomhash":"d7097a23862ab222cddaf755b727ceb6",
+    "wof:geomhash":"1b8c80f8d39187d8b0c759b39d6bb83c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554728595,
-    "wof:lastmodified":1480819717,
+    "wof:lastmodified":1611185047,
     "wof:name":"54731",
     "wof:parent_id":404495331,
     "wof:placetype":"postalcode",

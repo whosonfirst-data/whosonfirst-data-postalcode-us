@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003373,
-    "geom:area_square_m":31995596.092683,
+    "geom:area_square_m":31995596.092695,
     "geom:bbox":"-83.934394,39.846872,-83.808259,39.926454",
     "geom:latitude":39.900511,
     "geom:longitude":-83.853687,
@@ -13,21 +13,23 @@
     "lbl:latitude":39.907948,
     "lbl:longitude":-83.836862,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Springfield",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404523641,
         85633793,
+        102083685,
+        404523641,
         85982959,
-        102083685
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777326"
     },
     "wof:country":"US",
-    "wof:geomhash":"16260657d4b5456bdbc6af584ed71684",
+    "wof:geomhash":"ef3e4b6ce60a09aec085f493819decd6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +42,7 @@
         }
     ],
     "wof:id":554722017,
-    "wof:lastmodified":1480835536,
+    "wof:lastmodified":1611183239,
     "wof:name":"45506",
     "wof:parent_id":85982959,
     "wof:placetype":"postalcode",

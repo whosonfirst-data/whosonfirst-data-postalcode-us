@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006261,
-    "geom:area_square_m":60631859.710019,
+    "geom:area_square_m":60631859.710053,
     "geom:bbox":"-81.946062,38.397449,-81.842891,38.504248",
     "geom:latitude":38.444,
     "geom:longitude":-81.897923,
@@ -14,20 +14,25 @@
     "lbl:latitude":38.445189,
     "lbl:longitude":-81.899312,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Scott Depot",
+    "mz:postal_locality_alt":[
+        "Hamlin"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688589,
         102191575,
         85633793,
+        102083381,
         101731829,
-        102083381
+        85688589
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12768350"
     },
     "wof:country":"US",
-    "wof:geomhash":"a7203ce95dcf9bdcf12e406535dcef58",
+    "wof:geomhash":"899ebfeb77077e77ea34170ccf0d2797",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554709655,
-    "wof:lastmodified":1480843098,
+    "wof:lastmodified":1611183009,
     "wof:name":"25560",
     "wof:parent_id":101731829,
     "wof:placetype":"postalcode",

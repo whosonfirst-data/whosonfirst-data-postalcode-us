@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026857,
-    "geom:area_square_m":250488110.760043,
+    "geom:area_square_m":250488110.760011,
     "geom:bbox":"-77.537992,40.962938,-77.143712,41.120371",
     "geom:latitude":41.038568,
     "geom:longitude":-77.323201,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.032578,
     "lbl:longitude":-77.331757,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Loganton",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485261,
         85633793,
-        102080917
+        102080917,
+        404485261,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764873"
     },
     "wof:country":"US",
-    "wof:geomhash":"f72c208704ab8752f99561352026a58d",
+    "wof:geomhash":"66eac47a2b8acd808f36cff40fb9a1bf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554705345,
-    "wof:lastmodified":1480903552,
+    "wof:lastmodified":1611184127,
     "wof:name":"17747",
     "wof:parent_id":404485261,
     "wof:placetype":"postalcode",

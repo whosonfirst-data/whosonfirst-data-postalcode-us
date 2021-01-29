@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002346,
-    "geom:area_square_m":22655562.862754,
+    "geom:area_square_m":22655562.862752,
     "geom:bbox":"-90.405948,38.609238,-90.347893,38.662499",
     "geom:latitude":38.638105,
     "geom:longitude":-90.380266,
@@ -13,21 +13,27 @@
     "lbl:latitude":38.638103,
     "lbl:longitude":-90.380268,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"St Louis",
+    "mz:postal_locality_alt":[
+        "Saint Louis",
+        "Clayton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404517243,
         85633793,
+        102086173,
+        404517243,
         85972291,
-        102086173
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785609"
     },
     "wof:country":"US",
-    "wof:geomhash":"dce9902084f34bd120e43b966d75a2ed",
+    "wof:geomhash":"f288fa40309db4f737e5e2d1bee18736",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +46,7 @@
         }
     ],
     "wof:id":554735795,
-    "wof:lastmodified":1480914492,
+    "wof:lastmodified":1611184431,
     "wof:name":"63124",
     "wof:parent_id":85972291,
     "wof:placetype":"postalcode",

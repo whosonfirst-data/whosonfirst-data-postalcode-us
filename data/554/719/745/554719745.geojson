@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007923,
-    "geom:area_square_m":78481053.429978,
+    "geom:area_square_m":78481053.429994,
     "geom:bbox":"-88.360604,36.734464,-88.110831,36.807348",
     "geom:latitude":36.76681,
     "geom:longitude":-88.22808,
@@ -14,19 +14,24 @@
     "lbl:latitude":36.765705,
     "lbl:longitude":-88.228582,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hardin",
+    "mz:postal_locality_alt":[
+        "Eddyville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688641,
-        102084509
+        102084509,
+        85688641
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12775815"
     },
     "wof:country":"US",
-    "wof:geomhash":"874c3657be68ce04872cadb4fecf757f",
+    "wof:geomhash":"8c275d5cf15e28b2caa9d6bb027df309",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554719745,
-    "wof:lastmodified":1480804322,
+    "wof:lastmodified":1611184941,
     "wof:name":"42048",
     "wof:parent_id":102084509,
     "wof:placetype":"postalcode",

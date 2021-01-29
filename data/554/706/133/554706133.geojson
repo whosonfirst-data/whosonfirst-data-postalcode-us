@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00053,
-    "geom:area_square_m":5024564.348992,
+    "geom:area_square_m":5024564.348994,
     "geom:bbox":"-75.324353,39.986873,-75.280387,40.018258",
     "geom:latitude":40.001553,
     "geom:longitude":-75.298928,
@@ -14,21 +14,27 @@
     "lbl:latitude":40.001553,
     "lbl:longitude":-75.298929,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ardmore",
+    "mz:postal_locality_alt":[
+        "Wynnewood",
+        "Narberth"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485475,
         85633793,
+        102081355,
+        404485475,
         101719561,
-        102081355
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765407"
     },
     "wof:country":"US",
-    "wof:geomhash":"47aade443caa6117740005303d99a1d2",
+    "wof:geomhash":"004baf5a680c899875c35209335a5d67",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554706133,
-    "wof:lastmodified":1480906380,
+    "wof:lastmodified":1611182685,
     "wof:name":"19003",
     "wof:parent_id":101719561,
     "wof:placetype":"postalcode",

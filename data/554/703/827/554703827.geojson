@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016208,
-    "geom:area_square_m":153112321.075337,
+    "geom:area_square_m":153112321.075285,
     "geom:bbox":"-79.203403,40.111538,-78.976646,40.267016",
     "geom:latitude":40.184469,
     "geom:longitude":-79.079622,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.183936,
     "lbl:longitude":-79.082097,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Boswell",
+    "mz:postal_locality_alt":[
+        "Jennerstown"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404488129,
         85633793,
-        102081361
+        102081361,
+        404488129,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763855"
     },
     "wof:country":"US",
-    "wof:geomhash":"050009780db9ae0430a9232edf384e48",
+    "wof:geomhash":"2c83f9787024188d0c7458872b4b6e0b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554703827,
-    "wof:lastmodified":1480830633,
+    "wof:lastmodified":1611184450,
     "wof:name":"15531",
     "wof:parent_id":404488129,
     "wof:placetype":"postalcode",

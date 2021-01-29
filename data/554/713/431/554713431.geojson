@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031741,
-    "geom:area_square_m":322320314.912773,
+    "geom:area_square_m":322320314.912546,
     "geom:bbox":"-85.000948,34.615719,-84.817968,34.948299",
     "geom:latitude":34.791569,
     "geom:longitude":-84.914116,
@@ -13,19 +13,25 @@
     "lbl:latitude":34.788636,
     "lbl:longitude":-84.916082,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Dalton",
+    "mz:postal_locality_alt":[
+        "Chatsworth",
+        "Cohutta"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688535,
-        102084697
+        102084697,
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770984"
     },
     "wof:country":"US",
-    "wof:geomhash":"c2635fa9301aafc181d81bf51f07944b",
+    "wof:geomhash":"43d20568bec4f1964744e91211f65a9f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +42,7 @@
         }
     ],
     "wof:id":554713431,
-    "wof:lastmodified":1480824580,
+    "wof:lastmodified":1611183306,
     "wof:name":"30721",
     "wof:parent_id":102084697,
     "wof:placetype":"postalcode",

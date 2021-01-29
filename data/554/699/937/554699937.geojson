@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000941,
-    "geom:area_square_m":8808767.171051,
+    "geom:area_square_m":8808767.171049,
     "geom:bbox":"-74.18676,40.774587,-74.138447,40.809489",
     "geom:latitude":40.794955,
     "geom:longitude":-74.161892,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.795563,
     "lbl:longitude":-74.161789,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Belleville",
+    "mz:postal_locality_alt":[
+        "Newark"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477423,
         85633793,
-        102085043
+        102085043,
+        404477423,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760693"
     },
     "wof:country":"US",
-    "wof:geomhash":"3802c4dc5b215817dadaf7743529bab9",
+    "wof:geomhash":"9f3cce31edf89cd5489405fab9bf4b95",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554699937,
-    "wof:lastmodified":1480908559,
+    "wof:lastmodified":1611184602,
     "wof:name":"07109",
     "wof:parent_id":404477423,
     "wof:placetype":"postalcode",

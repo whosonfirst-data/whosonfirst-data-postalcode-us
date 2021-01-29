@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000862,
-    "geom:area_square_m":8044048.558713,
+    "geom:area_square_m":8044048.558708,
     "geom:bbox":"-74.322637,41.011397,-74.283415,41.052297",
     "geom:latitude":41.032458,
     "geom:longitude":-74.301323,
@@ -14,21 +14,26 @@
     "lbl:latitude":41.03227,
     "lbl:longitude":-74.303164,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Haskell",
+    "mz:postal_locality_alt":[
+        "Wanaque"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477877,
         85633793,
+        102081133,
+        404477877,
         85975469,
-        102081133
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760741"
     },
     "wof:country":"US",
-    "wof:geomhash":"c56325916456caf1c6583f5a1ad27138",
+    "wof:geomhash":"c708bf8edf7110a2f4296376da71ed3f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554699985,
-    "wof:lastmodified":1480818576,
+    "wof:lastmodified":1611184615,
     "wof:name":"07420",
     "wof:parent_id":85975469,
     "wof:placetype":"postalcode",

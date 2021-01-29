@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002991,
-    "geom:area_square_m":27547045.694172,
+    "geom:area_square_m":27547045.694157,
     "geom:bbox":"-71.203463,41.831003,-71.111086,41.881843",
     "geom:latitude":41.856651,
     "geom:longitude":-71.160532,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.851929,
     "lbl:longitude":-71.153598,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"North Dighton",
+    "mz:postal_locality_alt":[
+        "Swansea"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476171,
         85633793,
-        102084407
+        102084407,
+        404476171,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758972"
     },
     "wof:country":"US",
-    "wof:geomhash":"7c7503be28d10828407afc3d13885914",
+    "wof:geomhash":"9fa721cebb20dceef10357ca837b8bb1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554697545,
-    "wof:lastmodified":1480800674,
+    "wof:lastmodified":1611184649,
     "wof:name":"02764",
     "wof:parent_id":404476171,
     "wof:placetype":"postalcode",

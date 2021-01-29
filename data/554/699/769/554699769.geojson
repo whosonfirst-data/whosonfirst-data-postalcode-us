@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002891,
-    "geom:area_square_m":27025469.713663,
+    "geom:area_square_m":27025469.713642,
     "geom:bbox":"-74.340328,40.844667,-74.254476,40.90889",
     "geom:latitude":40.882601,
     "geom:longitude":-74.304093,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.882508,
     "lbl:longitude":-74.304593,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fairfield",
+    "mz:postal_locality_alt":[
+        "Garfield"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478111,
         85633793,
-        102085043
+        102085043,
+        404478111,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760602"
     },
     "wof:country":"US",
-    "wof:geomhash":"afa26e7b46cff3d16045548dd2867f60",
+    "wof:geomhash":"f3eea16882fa8f7730426044badda753",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554699769,
-    "wof:lastmodified":1480818574,
+    "wof:lastmodified":1611184619,
     "wof:name":"07004",
     "wof:parent_id":404478111,
     "wof:placetype":"postalcode",

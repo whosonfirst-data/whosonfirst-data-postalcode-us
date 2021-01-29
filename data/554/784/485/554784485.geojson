@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001261,
-    "geom:area_square_m":12975149.062651,
+    "geom:area_square_m":12975149.062634,
     "geom:bbox":"-117.88553,33.66206,-117.85337,33.735076",
     "geom:latitude":33.709938,
     "geom:longitude":-117.870849,
@@ -13,20 +13,26 @@
     "lbl:latitude":33.709935,
     "lbl:longitude":-117.870431,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Santa Ana",
+    "mz:postal_locality_alt":[
+        "Tustin",
+        "Costa Mesa"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102080847,
         85923049,
-        102080847
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796612"
     },
     "wof:country":"US",
-    "wof:geomhash":"07b8e8cf5c1cfd2456d62133945242fb",
+    "wof:geomhash":"417af8e8040d8666b3299eaa3c8923f0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554784485,
-    "wof:lastmodified":1480906254,
+    "wof:lastmodified":1611183931,
     "wof:name":"92707",
     "wof:parent_id":85923049,
     "wof:placetype":"postalcode",

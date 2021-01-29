@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003915,
-    "geom:area_square_m":36334113.906378,
+    "geom:area_square_m":36334113.906367,
     "geom:bbox":"-74.173581,41.324336,-74.060773,41.409188",
     "geom:latitude":41.364788,
     "geom:longitude":-74.115413,
@@ -14,21 +14,28 @@
     "lbl:latitude":41.366224,
     "lbl:longitude":-74.121236,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Highland Mills",
+    "mz:postal_locality_alt":[
+        "Central Valley",
+        "Nanuet",
+        "Monroe"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522927,
         85633793,
+        102083061,
+        404522927,
         85978219,
-        102083061
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761641"
     },
     "wof:country":"US",
-    "wof:geomhash":"390154939df88aa19637b9f9b42e5604",
+    "wof:geomhash":"fda76f48e709d30c6afd6f485b42f257",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +48,7 @@
         }
     ],
     "wof:id":554700965,
-    "wof:lastmodified":1480834094,
+    "wof:lastmodified":1611183175,
     "wof:name":"10930",
     "wof:parent_id":85978219,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000735,
-    "geom:area_square_m":6891399.275059,
+    "geom:area_square_m":6891399.275061,
     "geom:bbox":"-74.285786,40.637244,-74.233325,40.663509",
     "geom:latitude":40.652716,
     "geom:longitude":-74.259922,
@@ -14,21 +14,26 @@
     "lbl:latitude":40.652211,
     "lbl:longitude":-74.260158,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Roselle",
+    "mz:postal_locality_alt":[
+        "Linden"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477587,
         85633793,
+        102085995,
+        404477587,
         85975833,
-        102085995
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760713"
     },
     "wof:country":"US",
-    "wof:geomhash":"66fda8a4e41b8456e52418a864971555",
+    "wof:geomhash":"487979d761a9d869c8ed28ebde305132",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554699953,
-    "wof:lastmodified":1480805175,
+    "wof:lastmodified":1611184600,
     "wof:name":"07203",
     "wof:parent_id":85975833,
     "wof:placetype":"postalcode",

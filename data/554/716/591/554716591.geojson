@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.059197,
-    "geom:area_square_m":596187709.12692,
+    "geom:area_square_m":596187709.126993,
     "geom:bbox":"-86.652159,35.31346,-86.313164,35.652858",
     "geom:latitude":35.463968,
     "geom:longitude":-86.483799,
@@ -14,19 +14,26 @@
     "lbl:latitude":35.455761,
     "lbl:longitude":-86.484563,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Shelbyville",
+    "mz:postal_locality_alt":[
+        "Spring Hill",
+        "Bell Buckle",
+        "Smithville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688701,
-        102086459
+        102086459,
+        85688701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12773853"
     },
     "wof:country":"US",
-    "wof:geomhash":"d3c1f8207d252b17bdf34377632e8041",
+    "wof:geomhash":"ecfd97033309cbc6f6d9a35b2d9cf1f6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +44,7 @@
         }
     ],
     "wof:id":554716591,
-    "wof:lastmodified":1480916896,
+    "wof:lastmodified":1611185382,
     "wof:name":"37160",
     "wof:parent_id":102086459,
     "wof:placetype":"postalcode",

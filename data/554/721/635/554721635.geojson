@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023729,
-    "geom:area_square_m":227714064.455311,
+    "geom:area_square_m":227714064.455446,
     "geom:bbox":"-84.266166,39.008784,-84.033165,39.186806",
     "geom:latitude":39.09757,
     "geom:longitude":-84.137651,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.097086,
     "lbl:longitude":-84.13448,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Batavia",
+    "mz:postal_locality_alt":[
+        "Williamsburg"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404525013,
         85633793,
-        102084793
+        102084793,
+        404525013,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777072"
     },
     "wof:country":"US",
-    "wof:geomhash":"39c37d6a8285547f225a4659c6a35abe",
+    "wof:geomhash":"0556d7ceb520a714f8014dc1eb93fbb8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554721635,
-    "wof:lastmodified":1480800804,
+    "wof:lastmodified":1611184956,
     "wof:name":"45103",
     "wof:parent_id":404525013,
     "wof:placetype":"postalcode",

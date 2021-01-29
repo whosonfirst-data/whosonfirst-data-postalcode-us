@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014836,
-    "geom:area_square_m":146784265.488226,
+    "geom:area_square_m":146784265.488366,
     "geom:bbox":"-88.780166,36.814343,-88.484183,36.907396",
     "geom:latitude":36.855294,
     "geom:longitude":-88.644094,
@@ -14,19 +14,24 @@
     "lbl:latitude":36.850728,
     "lbl:longitude":-88.647174,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hickory",
+    "mz:postal_locality_alt":[
+        "Kuttawa"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688641,
-        102084645
+        102084645,
+        85688641
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12775818"
     },
     "wof:country":"US",
-    "wof:geomhash":"36eb16d89ca2ab4138d0d6021d576a51",
+    "wof:geomhash":"996efc2d1bcd8706c85128129cb51c6e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554719751,
-    "wof:lastmodified":1480803202,
+    "wof:lastmodified":1611184923,
     "wof:name":"42051",
     "wof:parent_id":102084645,
     "wof:placetype":"postalcode",

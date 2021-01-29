@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012892,
-    "geom:area_square_m":112955264.993306,
+    "geom:area_square_m":112955264.993323,
     "geom:bbox":"-68.671859,44.817585,-68.473014,44.937663",
     "geom:latitude":44.881253,
     "geom:longitude":-68.576129,
@@ -14,20 +14,25 @@
     "lbl:latitude":44.868349,
     "lbl:longitude":-68.586337,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bradley",
+    "mz:postal_locality_alt":[
+        "Abbot"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404475151,
         85633793,
-        102080723
+        102080723,
+        404475151,
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759552"
     },
     "wof:country":"US",
-    "wof:geomhash":"b606235989d670034331ea9cdb2b4958",
+    "wof:geomhash":"a3e9625b21e68fe83299d430d9cf0020",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554698389,
-    "wof:lastmodified":1480906068,
+    "wof:lastmodified":1611184703,
     "wof:name":"04411",
     "wof:parent_id":404475151,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.063316,
-    "geom:area_square_m":616330508.136185,
+    "geom:area_square_m":616330508.136575,
     "geom:bbox":"-97.47189,37.926858,-97.013756,38.275345",
     "geom:latitude":38.073486,
     "geom:longitude":-97.288739,
@@ -14,20 +14,25 @@
     "lbl:latitude":38.07576,
     "lbl:longitude":-97.28905,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Newton",
+    "mz:postal_locality_alt":[
+        "North Newton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404504083,
         85633793,
-        102083457
+        102083457,
+        404504083,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787135"
     },
     "wof:country":"US",
-    "wof:geomhash":"b0d5ed199a01538b083e07995011f8a8",
+    "wof:geomhash":"12d8f863ad2c1064654f40d8cc4e6d5c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554738699,
-    "wof:lastmodified":1480840124,
+    "wof:lastmodified":1611183119,
     "wof:name":"67114",
     "wof:parent_id":404504083,
     "wof:placetype":"postalcode",

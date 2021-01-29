@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000626,
-    "geom:area_square_m":5784406.088338,
+    "geom:area_square_m":5784406.088348,
     "geom:bbox":"-70.973299,41.651969,-70.916495,41.673435",
     "geom:latitude":41.661456,
     "geom:longitude":-70.941668,
@@ -13,21 +13,23 @@
     "lbl:latitude":41.660995,
     "lbl:longitude":-70.940137,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"New Bedford",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476131,
         85633793,
+        102084407,
+        404476131,
         85950367,
-        102084407
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758965"
     },
     "wof:country":"US",
-    "wof:geomhash":"2efa3058c258e79f103f711f3c833533",
+    "wof:geomhash":"3a7c6d746de3bba646858b21c7eb7612",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +42,7 @@
         }
     ],
     "wof:id":554778541,
-    "wof:lastmodified":1480800674,
+    "wof:lastmodified":1611183445,
     "wof:name":"02746",
     "wof:parent_id":85950367,
     "wof:placetype":"postalcode",

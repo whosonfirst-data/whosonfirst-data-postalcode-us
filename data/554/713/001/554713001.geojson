@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049108,
-    "geom:area_square_m":509957644.859071,
+    "geom:area_square_m":509957644.858965,
     "geom:bbox":"-84.490426,32.743766,-84.158629,32.99253",
     "geom:latitude":32.879068,
     "geom:longitude":-84.330794,
@@ -14,20 +14,27 @@
     "lbl:latitude":32.879167,
     "lbl:longitude":-84.330566,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Thomaston",
+    "mz:postal_locality_alt":[
+        "Greenville",
+        "Tyrone",
+        "Franklin"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688535,
         102191575,
         85633793,
+        102084425,
         85936343,
-        102084425
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770703"
     },
     "wof:country":"US",
-    "wof:geomhash":"2b4c3e98abd7bf8a46d1ae0be906f609",
+    "wof:geomhash":"040bd4b89b9f30105281eee545ad47a0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554713001,
-    "wof:lastmodified":1480819299,
+    "wof:lastmodified":1611183308,
     "wof:name":"30286",
     "wof:parent_id":85936343,
     "wof:placetype":"postalcode",

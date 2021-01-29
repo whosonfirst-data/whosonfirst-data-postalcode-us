@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002364,
-    "geom:area_square_m":21740344.726697,
+    "geom:area_square_m":21740344.726704,
     "geom:bbox":"-88.312533,41.929027,-88.202697,41.979185",
     "geom:latitude":41.952471,
     "geom:longitude":-88.253599,
@@ -14,21 +14,27 @@
     "lbl:latitude":41.951502,
     "lbl:longitude":-88.25317,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"St Charles",
+    "mz:postal_locality_alt":[
+        "Wayne",
+        "Saint Charles"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404497657,
         85633793,
+        102081257,
+        404497657,
         85940211,
-        102081257
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784090"
     },
     "wof:country":"US",
-    "wof:geomhash":"70b0c95050777f64670c337b16e1ba9b",
+    "wof:geomhash":"c008d9003a985a597dd02ab7bd4a7a24",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554733303,
-    "wof:lastmodified":1480916337,
+    "wof:lastmodified":1611184232,
     "wof:name":"60184",
     "wof:parent_id":85940211,
     "wof:placetype":"postalcode",

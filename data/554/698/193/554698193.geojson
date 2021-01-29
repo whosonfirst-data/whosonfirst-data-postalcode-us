@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005879,
-    "geom:area_square_m":52618072.321116,
+    "geom:area_square_m":52618072.321067,
     "geom:bbox":"-70.814698,43.59521,-70.677711,43.674543",
     "geom:latitude":43.633793,
     "geom:longitude":-70.742007,
@@ -14,20 +14,22 @@
     "lbl:latitude":43.633558,
     "lbl:longitude":-70.739479,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"North Waterboro",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404475819,
         85633793,
-        102087449
+        102087449,
+        404475819,
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759410"
     },
     "wof:country":"US",
-    "wof:geomhash":"eaa45292f1c9b855197aeffbc6a6a062",
+    "wof:geomhash":"cb88041b7b1bfe47ce0e83922f6fc25f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554698193,
-    "wof:lastmodified":1480788172,
+    "wof:lastmodified":1611184678,
     "wof:name":"04061",
     "wof:parent_id":404475819,
     "wof:placetype":"postalcode",

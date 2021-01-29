@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001908,
-    "geom:area_square_m":17830306.716696,
+    "geom:area_square_m":17830306.716699,
     "geom:bbox":"-73.077091,40.888503,-73.008759,40.937698",
     "geom:latitude":40.91362,
     "geom:longitude":-73.046393,
@@ -14,21 +14,28 @@
     "lbl:latitude":40.91362,
     "lbl:longitude":-73.046393,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Port Jefferson Station",
+    "mz:postal_locality_alt":[
+        "Port Jeffrsn Sta",
+        "Port Jefferson Sta",
+        "Port Jefferson"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404521441,
         85633793,
+        102082395,
+        404521441,
         85979747,
-        102082395
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761961"
     },
     "wof:country":"US",
-    "wof:geomhash":"0c4febcf5c134e24f3b5d2dc8771033e",
+    "wof:geomhash":"510355e738c3abf519f0d457cdadd673",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +48,7 @@
         }
     ],
     "wof:id":554779941,
-    "wof:lastmodified":1480794863,
+    "wof:lastmodified":1611183973,
     "wof:name":"11776",
     "wof:parent_id":85979747,
     "wof:placetype":"postalcode",

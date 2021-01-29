@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002276,
-    "geom:area_square_m":24523903.640894,
+    "geom:area_square_m":24523903.64089,
     "geom:bbox":"-98.68833,29.347106,-98.594527,29.40706",
     "geom:latitude":29.378159,
     "geom:longitude":-98.644394,
@@ -13,20 +13,25 @@
     "lbl:latitude":29.391284,
     "lbl:longitude":-98.618735,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lackland Afb",
+    "mz:postal_locality_alt":[
+        "San Antonio"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102082471,
         101726203,
-        102082471
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12792001"
     },
     "wof:country":"US",
-    "wof:geomhash":"9c75a7805ffb67d281e39717c35bbb67",
+    "wof:geomhash":"a93c0e2a69800664b543f602d4f4f402",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554746751,
-    "wof:lastmodified":1480790250,
+    "wof:lastmodified":1611184014,
     "wof:name":"78236",
     "wof:parent_id":101726203,
     "wof:placetype":"postalcode",

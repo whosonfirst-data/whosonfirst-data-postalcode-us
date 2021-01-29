@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007456,
-    "geom:area_square_m":68734515.254263,
+    "geom:area_square_m":68734515.254323,
     "geom:bbox":"-73.94838,41.739537,-73.817219,41.83787",
     "geom:latitude":41.79247,
     "geom:longitude":-73.89308,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.79223,
     "lbl:longitude":-73.893767,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hyde Park",
+    "mz:postal_locality_alt":[
+        "Poughkeepsie"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522295,
         85633793,
-        102082363
+        102082363,
+        404522295,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762355"
     },
     "wof:country":"US",
-    "wof:geomhash":"d9e81a5afbcfeed7e1af5d2c981bd6ce",
+    "wof:geomhash":"8494a70624b47606c3603a0cffdd3014",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554701555,
-    "wof:lastmodified":1480791529,
+    "wof:lastmodified":1611182630,
     "wof:name":"12538",
     "wof:parent_id":404522295,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00109,
-    "geom:area_square_m":11164804.087185,
+    "geom:area_square_m":11164804.087191,
     "geom:bbox":"-118.284454,34.056183,-118.232118,34.10031",
     "geom:latitude":34.079216,
     "geom:longitude":-118.26298,
@@ -13,20 +13,26 @@
     "lbl:latitude":34.080017,
     "lbl:longitude":-118.262643,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Los Angeles",
+    "mz:postal_locality_alt":[
+        "Silver Lake",
+        "Echo Park"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086957,
         85923517,
-        102086957
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795634"
     },
     "wof:country":"US",
-    "wof:geomhash":"38c169d05c0bf74cfa4596c5eda4bb4d",
+    "wof:geomhash":"570a088cb711ac92fe80061724b1ada0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554751805,
-    "wof:lastmodified":1480912607,
+    "wof:lastmodified":1611184338,
     "wof:name":"90026",
     "wof:parent_id":85923517,
     "wof:placetype":"postalcode",

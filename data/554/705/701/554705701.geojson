@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008855,
-    "geom:area_square_m":82648673.119108,
+    "geom:area_square_m":82648673.119085,
     "geom:bbox":"-76.219545,40.946502,-76.006723,41.02303",
     "geom:latitude":40.987229,
     "geom:longitude":-76.123581,
@@ -14,20 +14,26 @@
     "lbl:latitude":40.987794,
     "lbl:longitude":-76.116117,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Sugarloaf",
+    "mz:postal_locality_alt":[
+        "Hazleton",
+        "Mcadoo"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404486999,
         85633793,
-        102081351
+        102081351,
+        404486999,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765121"
     },
     "wof:country":"US",
-    "wof:geomhash":"aca9f73ab8e155b76e1a46bf9d6bbc3d",
+    "wof:geomhash":"b12e2d1406c2168e1c7ce35aabb51bcb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554705701,
-    "wof:lastmodified":1480831061,
+    "wof:lastmodified":1611184092,
     "wof:name":"18249",
     "wof:parent_id":404486999,
     "wof:placetype":"postalcode",

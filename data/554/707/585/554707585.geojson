@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003682,
-    "geom:area_square_m":35414459.958469,
+    "geom:area_square_m":35414459.958429,
     "geom:bbox":"-77.207807,38.903147,-77.116436,38.968788",
     "geom:latitude":38.939346,
     "geom:longitude":-77.166579,
@@ -13,20 +13,26 @@
     "lbl:latitude":38.940203,
     "lbl:longitude":-77.164882,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mc Lean",
+    "mz:postal_locality_alt":[
+        "McLean",
+        "Mclean"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688747,
         102191575,
         85633793,
+        102084863,
         101729767,
-        102084863
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766820"
     },
     "wof:country":"US",
-    "wof:geomhash":"7853d86abd8d3627ff8af52285f80835",
+    "wof:geomhash":"b6bff129d9e87e7bdc32cba3166b885d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554707585,
-    "wof:lastmodified":1480807015,
+    "wof:lastmodified":1611183168,
     "wof:name":"22101",
     "wof:parent_id":101729767,
     "wof:placetype":"postalcode",

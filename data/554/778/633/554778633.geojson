@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003804,
-    "geom:area_square_m":34382284.193675,
+    "geom:area_square_m":34382284.193681,
     "geom:bbox":"-70.907674,43.001714,-70.805801,43.077178",
     "geom:latitude":43.038452,
     "geom:longitude":-70.848193,
@@ -14,20 +14,26 @@
     "lbl:latitude":43.039732,
     "lbl:longitude":-70.845622,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Greenland",
+    "mz:postal_locality_alt":[
+        "Portsmouth",
+        "Newmarket"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688689,
         102191575,
-        404476751,
         85633793,
-        102086507
+        102086507,
+        404476751,
+        85688689
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759308"
     },
     "wof:country":"US",
-    "wof:geomhash":"58183785b428031e7a8e5b3c3d7016da",
+    "wof:geomhash":"bd12d8634cdaf39ceab671c6c55328f6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554778633,
-    "wof:lastmodified":1480916575,
+    "wof:lastmodified":1611183430,
     "wof:name":"03840",
     "wof:parent_id":404476751,
     "wof:placetype":"postalcode",

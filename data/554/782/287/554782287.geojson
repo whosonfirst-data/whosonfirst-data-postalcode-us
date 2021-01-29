@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003482,
-    "geom:area_square_m":37181360.230695,
+    "geom:area_square_m":37181360.230675,
     "geom:bbox":"-88.772176,30.196584,-88.400674,30.389736",
     "geom:latitude":30.287587,
     "geom:longitude":-88.581984,
@@ -13,20 +13,25 @@
     "lbl:latitude":30.365446,
     "lbl:longitude":-88.540115,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pascagoula",
+    "mz:postal_locality_alt":[
+        "Moss Point"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688579,
         102191575,
         85633793,
+        102083161,
         85969597,
-        102083161
+        85688579
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12774997"
     },
     "wof:country":"US",
-    "wof:geomhash":"b3390411d67bc440d92d7913eeb88fee",
+    "wof:geomhash":"e69cfec55ffede908668cc26c6843a87",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554782287,
-    "wof:lastmodified":1480838248,
+    "wof:lastmodified":1611183605,
     "wof:name":"39567",
     "wof:parent_id":85969597,
     "wof:placetype":"postalcode",

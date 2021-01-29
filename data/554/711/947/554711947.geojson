@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022084,
-    "geom:area_square_m":226382256.181009,
+    "geom:area_square_m":226382256.181005,
     "geom:bbox":"-81.389762,33.90499,-81.128259,34.065149",
     "geom:latitude":34.000472,
     "geom:longitude":-81.275451,
@@ -13,19 +13,27 @@
     "lbl:latitude":34.001779,
     "lbl:longitude":-81.272409,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lexington",
+    "mz:postal_locality_alt":[
+        "Elgin",
+        "Bishopville",
+        "Camden",
+        "Leesville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688683,
-        102085573
+        102085573,
+        85688683
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12769997"
     },
     "wof:country":"US",
-    "wof:geomhash":"d73825e257b5c2b54ea10dde828c7a7f",
+    "wof:geomhash":"b7c8e6b5ee32fe78855c06a72db7bbc7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +44,7 @@
         }
     ],
     "wof:id":554711947,
-    "wof:lastmodified":1480814075,
+    "wof:lastmodified":1611185320,
     "wof:name":"29072",
     "wof:parent_id":102085573,
     "wof:placetype":"postalcode",

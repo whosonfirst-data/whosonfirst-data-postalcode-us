@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030454,
-    "geom:area_square_m":272658756.300233,
+    "geom:area_square_m":272658756.30002,
     "geom:bbox":"-88.413627,43.50757,-88.159892,43.717868",
     "geom:latitude":43.609841,
     "geom:longitude":-88.277049,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.612528,
     "lbl:longitude":-88.272017,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Campbellsport",
+    "mz:postal_locality_alt":[
+        "Chilton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404493603,
         85633793,
-        102081759
+        102081759,
+        404493603,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12780758"
     },
     "wof:country":"US",
-    "wof:geomhash":"b47e5dd0e4d4130aaeac1f8187f83d19",
+    "wof:geomhash":"e8df52a1a2d9266c8577d67ee581b5a6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554727459,
-    "wof:lastmodified":1480832139,
+    "wof:lastmodified":1611185527,
     "wof:name":"53010",
     "wof:parent_id":404493603,
     "wof:placetype":"postalcode",

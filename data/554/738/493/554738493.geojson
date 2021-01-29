@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025221,
-    "geom:area_square_m":240046035.741626,
+    "geom:area_square_m":240046035.741403,
     "geom:bbox":"-97.068454,39.566345,-96.900392,39.784171",
     "geom:latitude":39.672147,
     "geom:longitude":-96.971554,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.671811,
     "lbl:longitude":-96.966281,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Greenleaf",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404503095,
         85633793,
-        102083411
+        102083411,
+        404503095,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787043"
     },
     "wof:country":"US",
-    "wof:geomhash":"cf2ed88bc18241cd5f471bee8df1de21",
+    "wof:geomhash":"c20d508da7bc021ee4e331bdd9bc5793",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554738493,
-    "wof:lastmodified":1480841756,
+    "wof:lastmodified":1611183119,
     "wof:name":"66943",
     "wof:parent_id":404503095,
     "wof:placetype":"postalcode",

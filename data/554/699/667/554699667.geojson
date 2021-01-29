@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000276,
-    "geom:area_square_m":2551429.591336,
+    "geom:area_square_m":2551429.591343,
     "geom:bbox":"-73.054014,41.556625,-73.037466,41.585801",
     "geom:latitude":41.569146,
     "geom:longitude":-73.045817,
@@ -13,21 +13,26 @@
     "lbl:latitude":41.569145,
     "lbl:longitude":-73.045817,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Waterbury",
+    "mz:postal_locality_alt":[
+        "Sherman"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688629,
         102191575,
-        404495803,
         85633793,
+        102086923,
+        404495803,
         85930889,
-        102086923
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760497"
     },
     "wof:country":"US",
-    "wof:geomhash":"45afd952813d58f9f3a2239d83d17ec1",
+    "wof:geomhash":"14907d9cec259d1b9945529a95ffa3a6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554699667,
-    "wof:lastmodified":1480916208,
+    "wof:lastmodified":1611184609,
     "wof:name":"06710",
     "wof:parent_id":85930889,
     "wof:placetype":"postalcode",

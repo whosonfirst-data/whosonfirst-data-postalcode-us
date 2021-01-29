@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020485,
-    "geom:area_square_m":176889324.325438,
+    "geom:area_square_m":176889324.325659,
     "geom:bbox":"-95.335152,45.613965,-95.13926,45.787786",
     "geom:latitude":45.705075,
     "geom:longitude":-95.222767,
@@ -14,20 +14,25 @@
     "lbl:latitude":45.700872,
     "lbl:longitude":-95.232188,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Villard",
+    "mz:postal_locality_alt":[
+        "Hoffman"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404514349,
         85633793,
-        102087805
+        102087805,
+        404514349,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782465"
     },
     "wof:country":"US",
-    "wof:geomhash":"dfd82535fb7ffa3b427e19304d474455",
+    "wof:geomhash":"d3e872d5b59bc4bf051c2be7bee2de76",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554730329,
-    "wof:lastmodified":1480788131,
+    "wof:lastmodified":1611182757,
     "wof:name":"56385",
     "wof:parent_id":404514349,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002982,
-    "geom:area_square_m":25779438.20311,
+    "geom:area_square_m":25779438.203111,
     "geom:bbox":"-68.615065,45.59661,-68.561576,45.670348",
     "geom:latitude":45.639207,
     "geom:longitude":-68.585169,
@@ -14,20 +14,22 @@
     "lbl:latitude":45.636841,
     "lbl:longitude":-68.575197,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"East Millinocket",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404475825,
         85633793,
-        102080723
+        102080723,
+        404475825,
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759570"
     },
     "wof:country":"US",
-    "wof:geomhash":"64f4959a17d4ade46643903ed17e4aae",
+    "wof:geomhash":"3da38f851d983e33d69ca939b56db1d8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554698419,
-    "wof:lastmodified":1480906065,
+    "wof:lastmodified":1611184694,
     "wof:name":"04430",
     "wof:parent_id":404475825,
     "wof:placetype":"postalcode",

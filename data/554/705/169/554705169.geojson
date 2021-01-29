@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010555,
-    "geom:area_square_m":100335310.403561,
+    "geom:area_square_m":100335310.403537,
     "geom:bbox":"-77.206625,39.719816,-77.031884,39.806237",
     "geom:latitude":39.755502,
     "geom:longitude":-77.112596,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.755229,
     "lbl:longitude":-77.116784,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Littlestown",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404484827,
         85633793,
-        102080899
+        102080899,
+        404484827,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764748"
     },
     "wof:country":"US",
-    "wof:geomhash":"163929bd8aaef9045704fd98f8ab24fb",
+    "wof:geomhash":"23ff6233c7dcdb0aad76ef2f297dd02e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554705169,
-    "wof:lastmodified":1480903177,
+    "wof:lastmodified":1611184095,
     "wof:name":"17340",
     "wof:parent_id":404484827,
     "wof:placetype":"postalcode",

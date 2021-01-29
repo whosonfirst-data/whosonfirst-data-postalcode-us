@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009135,
-    "geom:area_square_m":76506189.664272,
+    "geom:area_square_m":76506189.664358,
     "geom:bbox":"-122.177059,47.302762,-122.038798,47.437173",
     "geom:latitude":47.366244,
     "geom:longitude":-122.117215,
@@ -13,20 +13,25 @@
     "lbl:latitude":47.367737,
     "lbl:longitude":-122.117029,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Kent",
+    "mz:postal_locality_alt":[
+        "Covington"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688623,
         102191575,
         85633793,
+        102086191,
         101730445,
-        102086191
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12798915"
     },
     "wof:country":"US",
-    "wof:geomhash":"07db8c119e86e354279c1709f8235246",
+    "wof:geomhash":"13c88cea11dd7f6602e9a622e03a13fc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554755399,
-    "wof:lastmodified":1480915590,
+    "wof:lastmodified":1611182565,
     "wof:name":"98042",
     "wof:parent_id":101730445,
     "wof:placetype":"postalcode",

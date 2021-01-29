@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0097,
-    "geom:area_square_m":84966621.558454,
+    "geom:area_square_m":84966621.55844,
     "geom:bbox":"-72.089424,44.836106,-71.874433,44.932557",
     "geom:latitude":44.894741,
     "geom:longitude":-71.966524,
@@ -14,20 +14,22 @@
     "lbl:latitude":44.895936,
     "lbl:longitude":-71.941265,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Morgan",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688763,
         102191575,
-        404527273,
         85633793,
-        102087443
+        102087443,
+        404527273,
+        85688763
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760144"
     },
     "wof:country":"US",
-    "wof:geomhash":"d28a987292db5dc6d017c0ffb33f42d6",
+    "wof:geomhash":"b970e228bbf537866b8cf859928029fd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554699219,
-    "wof:lastmodified":1480905150,
+    "wof:lastmodified":1611184606,
     "wof:name":"05853",
     "wof:parent_id":404527273,
     "wof:placetype":"postalcode",

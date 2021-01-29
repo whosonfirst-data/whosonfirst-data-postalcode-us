@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001578,
-    "geom:area_square_m":15127059.021855,
+    "geom:area_square_m":15127059.021849,
     "geom:bbox":"-94.6662,39.153707,-94.601447,39.189533",
     "geom:latitude":39.170419,
     "geom:longitude":-94.630281,
@@ -14,21 +14,27 @@
     "lbl:latitude":39.172175,
     "lbl:longitude":-94.632499,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Kansas City",
+    "mz:postal_locality_alt":[
+        "Riverside",
+        "Northmoor"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404517563,
         85633793,
+        102085271,
+        404517563,
         85970477,
-        102085271
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786055"
     },
     "wof:country":"US",
-    "wof:geomhash":"ebbcc598b6148417216d78edd2ccee55",
+    "wof:geomhash":"b061c386823f49c3223eedd87aaddf62",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554736587,
-    "wof:lastmodified":1480912210,
+    "wof:lastmodified":1611183036,
     "wof:name":"64150",
     "wof:parent_id":85970477,
     "wof:placetype":"postalcode",

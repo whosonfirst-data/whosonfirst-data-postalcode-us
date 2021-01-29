@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011602,
-    "geom:area_square_m":111070805.899354,
+    "geom:area_square_m":111070805.899199,
     "geom:bbox":"-96.51994,39.176831,-96.35187,39.319943",
     "geom:latitude":39.262479,
     "geom:longitude":-96.437512,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.26703,
     "lbl:longitude":-96.433702,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"St George",
+    "mz:postal_locality_alt":[
+        "Saint George"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404505565,
         85633793,
-        102082663
+        102082663,
+        404505565,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786888"
     },
     "wof:country":"US",
-    "wof:geomhash":"4553f9843eda67c6eba4e345e553912d",
+    "wof:geomhash":"329ff5bba215e72ed021b10b79c2118f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554738203,
-    "wof:lastmodified":1480802728,
+    "wof:lastmodified":1611183103,
     "wof:name":"66535",
     "wof:parent_id":404505565,
     "wof:placetype":"postalcode",

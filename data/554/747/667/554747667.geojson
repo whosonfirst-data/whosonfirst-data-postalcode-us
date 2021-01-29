@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.078748,
-    "geom:area_square_m":821472436.135378,
+    "geom:area_square_m":821472436.135422,
     "geom:bbox":"-100.222208,32.263761,-99.841792,32.674621",
     "geom:latitude":32.47378,
     "geom:longitude":-100.033478,
@@ -14,20 +14,25 @@
     "lbl:latitude":32.473616,
     "lbl:longitude":-100.032549,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Merkel",
+    "mz:postal_locality_alt":[
+        "Denton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102081085,
         101723739,
-        102081085
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12792676"
     },
     "wof:country":"US",
-    "wof:geomhash":"17c0acb493e4eb137b77500c75cace55",
+    "wof:geomhash":"9c01001e70c422f077444e754271b697",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554747667,
-    "wof:lastmodified":1480832136,
+    "wof:lastmodified":1611183460,
     "wof:name":"79536",
     "wof:parent_id":101723739,
     "wof:placetype":"postalcode",

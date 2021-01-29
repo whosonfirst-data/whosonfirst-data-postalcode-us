@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020324,
-    "geom:area_square_m":186483605.676384,
+    "geom:area_square_m":186483605.676282,
     "geom:bbox":"-84.31595,42.013021,-84.131952,42.174164",
     "geom:latitude":42.094695,
     "geom:longitude":-84.220679,
@@ -14,21 +14,26 @@
     "lbl:latitude":42.091608,
     "lbl:longitude":-84.217343,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Brooklyn",
+    "mz:postal_locality_alt":[
+        "Napoleon"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404506067,
         85633793,
+        102083081,
+        404506067,
         85952155,
-        102083081
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779234"
     },
     "wof:country":"US",
-    "wof:geomhash":"9e96e119865217d3ce8d257c3163f70e",
+    "wof:geomhash":"974b9ebb8ed6af637dc5c0d5e264eb44",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554724879,
-    "wof:lastmodified":1480843193,
+    "wof:lastmodified":1611183762,
     "wof:name":"49230",
     "wof:parent_id":85952155,
     "wof:placetype":"postalcode",

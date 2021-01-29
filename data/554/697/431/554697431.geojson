@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004895,
-    "geom:area_square_m":44987857.76476,
+    "geom:area_square_m":44987857.764753,
     "geom:bbox":"-70.912205,41.948277,-70.806366,42.026432",
     "geom:latitude":41.991412,
     "geom:longitude":-70.863191,
@@ -14,20 +14,22 @@
     "lbl:latitude":42.002811,
     "lbl:longitude":-70.863473,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Halifax",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476509,
         85633793,
-        102084367
+        102084367,
+        404476509,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758807"
     },
     "wof:country":"US",
-    "wof:geomhash":"f5fc10d2cda6e3f19ab06ad526aa8aa6",
+    "wof:geomhash":"ce37d7aa164d47885a3eab54fb16152a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554697431,
-    "wof:lastmodified":1480801202,
+    "wof:lastmodified":1611184644,
     "wof:name":"02338",
     "wof:parent_id":404476509,
     "wof:placetype":"postalcode",

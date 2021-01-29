@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000549,
-    "geom:area_square_m":5087321.968837,
+    "geom:area_square_m":5087321.968823,
     "geom:bbox":"-75.612483,41.473317,-75.561302,41.494051",
     "geom:latitude":41.483628,
     "geom:longitude":-75.590282,
@@ -14,21 +14,26 @@
     "lbl:latitude":41.483628,
     "lbl:longitude":-75.590282,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Peckville",
+    "mz:postal_locality_alt":[
+        "Olyphant"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404486863,
         85633793,
+        102081345,
+        404486863,
         101718205,
-        102081345
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765206"
     },
     "wof:country":"US",
-    "wof:geomhash":"bbb54978088cbdf11fba83e8dc825c28",
+    "wof:geomhash":"af98b5c0bc2ae1853139980a3e8b836c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554705843,
-    "wof:lastmodified":1480832112,
+    "wof:lastmodified":1611184099,
     "wof:name":"18452",
     "wof:parent_id":101718205,
     "wof:placetype":"postalcode",

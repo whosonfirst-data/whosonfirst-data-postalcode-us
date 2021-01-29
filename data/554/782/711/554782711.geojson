@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009501,
-    "geom:area_square_m":85142727.536277,
+    "geom:area_square_m":85142727.536249,
     "geom:bbox":"-86.497192,43.508606,-86.278382,43.601124",
     "geom:latitude":43.554688,
     "geom:longitude":-86.386865,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.551402,
     "lbl:longitude":-86.37875,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"New Era",
+    "mz:postal_locality_alt":[
+        "Shelby"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404506365,
         85633793,
-        102083141
+        102083141,
+        404506365,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779376"
     },
     "wof:country":"US",
-    "wof:geomhash":"ae6101e8b172824f648b3f0a8ae215cc",
+    "wof:geomhash":"906ac6b157e1cd7e33d25a9cbcfacee1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554782711,
-    "wof:lastmodified":1480840678,
+    "wof:lastmodified":1611183635,
     "wof:name":"49446",
     "wof:parent_id":404506365,
     "wof:placetype":"postalcode",

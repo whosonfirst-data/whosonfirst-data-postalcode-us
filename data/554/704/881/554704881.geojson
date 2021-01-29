@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011901,
-    "geom:area_square_m":112328566.335648,
+    "geom:area_square_m":112328566.335629,
     "geom:bbox":"-77.315876,40.175184,-77.112634,40.295127",
     "geom:latitude":40.241737,
     "geom:longitude":-77.198251,
@@ -13,20 +13,27 @@
     "lbl:latitude":40.242686,
     "lbl:longitude":-77.197284,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Carlisle",
+    "mz:postal_locality_alt":[
+        "Plainfield",
+        "Newville",
+        "Middletown"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404486423,
         85633793,
-        102081359
+        102081359,
+        404486423,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764558"
     },
     "wof:country":"US",
-    "wof:geomhash":"63cdcb65a2b7ccae0cc083fe6801a0d1",
+    "wof:geomhash":"b25e1158158119a9995c7601635ebc83",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +45,7 @@
         }
     ],
     "wof:id":554704881,
-    "wof:lastmodified":1480904074,
+    "wof:lastmodified":1611184494,
     "wof:name":"17013",
     "wof:parent_id":404486423,
     "wof:placetype":"postalcode",

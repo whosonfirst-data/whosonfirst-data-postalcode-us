@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009923,
-    "geom:area_square_m":88300128.782771,
+    "geom:area_square_m":88300128.782642,
     "geom:bbox":"-70.576604,43.905553,-70.447966,44.042568",
     "geom:latitude":43.974351,
     "geom:longitude":-70.517933,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.976287,
     "lbl:longitude":-70.521109,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Casco",
+    "mz:postal_locality_alt":[
+        "Naples"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404475519,
         85633793,
-        102087463
+        102087463,
+        404475519,
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759377"
     },
     "wof:country":"US",
-    "wof:geomhash":"358cc544d991298a4f59cbf47cc2e3c4",
+    "wof:geomhash":"4b6b7840619bea2eb2ae624ae297901d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554698149,
-    "wof:lastmodified":1480787533,
+    "wof:lastmodified":1611184706,
     "wof:name":"04015",
     "wof:parent_id":404475519,
     "wof:placetype":"postalcode",

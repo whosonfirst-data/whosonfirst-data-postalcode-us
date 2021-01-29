@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000719,
-    "geom:area_square_m":7514909.873606,
+    "geom:area_square_m":7514909.873586,
     "geom:bbox":"-92.740249,32.259382,-92.694059,32.287512",
     "geom:latitude":32.272383,
     "geom:longitude":-92.721738,
@@ -14,20 +14,25 @@
     "lbl:latitude":32.273656,
     "lbl:longitude":-92.722016,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hodge",
+    "mz:postal_locality_alt":[
+        "Rayville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688735,
         102191575,
         85633793,
+        102086677,
         85948019,
-        102086677
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12788670"
     },
     "wof:country":"US",
-    "wof:geomhash":"98aed6b8595887b9a771baf28af56c9c",
+    "wof:geomhash":"86043f51dd0aedca195a530bf19d8c48",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554775495,
-    "wof:lastmodified":1480916373,
+    "wof:lastmodified":1611184806,
     "wof:name":"71247",
     "wof:parent_id":85948019,
     "wof:placetype":"postalcode",

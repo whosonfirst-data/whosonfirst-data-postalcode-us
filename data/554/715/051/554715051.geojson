@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007849,
-    "geom:area_square_m":85538480.639618,
+    "geom:area_square_m":85538480.639635,
     "geom:bbox":"-81.551345,28.142704,-81.440101,28.263606",
     "geom:latitude":28.198319,
     "geom:longitude":-81.495158,
@@ -13,20 +13,25 @@
     "lbl:latitude":28.192068,
     "lbl:longitude":-81.485428,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Kissimmee",
+    "mz:postal_locality_alt":[
+        "Poinciana"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688651,
         102191575,
         85633793,
+        102085843,
         85934499,
-        102085843
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12772848"
     },
     "wof:country":"US",
-    "wof:geomhash":"a44d2271ab1c2c3cb99f4ae8e37557a1",
+    "wof:geomhash":"a791377553bbcdeddf962a74a5a11321",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554715051,
-    "wof:lastmodified":1480805015,
+    "wof:lastmodified":1611183682,
     "wof:name":"34758",
     "wof:parent_id":85934499,
     "wof:placetype":"postalcode",

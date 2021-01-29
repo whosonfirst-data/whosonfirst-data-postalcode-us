@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007799,
-    "geom:area_square_m":70065556.511114,
+    "geom:area_square_m":70065556.511096,
     "geom:bbox":"-72.654126,43.348125,-72.530174,43.452963",
     "geom:latitude":43.402995,
     "geom:longitude":-72.586266,
@@ -14,20 +14,22 @@
     "lbl:latitude":43.397517,
     "lbl:longitude":-72.580476,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cavendish",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688763,
         102191575,
-        404527359,
         85633793,
-        102080777
+        102080777,
+        404527359,
+        85688763
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759914"
     },
     "wof:country":"US",
-    "wof:geomhash":"41236a3386ea7c534972c40c95bf6ec3",
+    "wof:geomhash":"f5d59ccb39d17f3d66d59aa2588691fa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554698829,
-    "wof:lastmodified":1480905329,
+    "wof:lastmodified":1611184679,
     "wof:name":"05142",
     "wof:parent_id":404527359,
     "wof:placetype":"postalcode",

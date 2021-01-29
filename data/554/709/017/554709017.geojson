@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01718,
-    "geom:area_square_m":169131871.694819,
+    "geom:area_square_m":169131871.694921,
     "geom:bbox":"-79.378226,37.168346,-79.12494,37.313166",
     "geom:latitude":37.233182,
     "geom:longitude":-79.260024,
@@ -14,19 +14,25 @@
     "lbl:latitude":37.23963,
     "lbl:longitude":-79.245396,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Evington",
+    "mz:postal_locality_alt":[
+        "Forest",
+        "Lynchburg"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688747,
-        102084935
+        102084935,
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12767880"
     },
     "wof:country":"US",
-    "wof:geomhash":"fea786f7719786a10936171fcf749e1b",
+    "wof:geomhash":"c57a0cfbba43f380f379c14b76a83951",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554709017,
-    "wof:lastmodified":1480814088,
+    "wof:lastmodified":1611183008,
     "wof:name":"24550",
     "wof:parent_id":102084935,
     "wof:placetype":"postalcode",

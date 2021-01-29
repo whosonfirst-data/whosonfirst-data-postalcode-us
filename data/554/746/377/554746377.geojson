@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035145,
-    "geom:area_square_m":375672167.504839,
+    "geom:area_square_m":375672167.50497,
     "geom:bbox":"-94.12066,30.058812,-93.899458,30.298402",
     "geom:latitude":30.17843,
     "geom:longitude":-94.018407,
@@ -13,19 +13,27 @@
     "lbl:latitude":30.177923,
     "lbl:longitude":-94.018171,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Vidor",
+    "mz:postal_locality_alt":[
+        "Deweyville",
+        "Evadale",
+        "Buna",
+        "Lumberton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688753,
-        102081453
+        102081453,
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12791753"
     },
     "wof:country":"US",
-    "wof:geomhash":"50cd7f12ffaab7f66adf632450777335",
+    "wof:geomhash":"2dbbebd705055aea0b360d21c56a2961",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +44,7 @@
         }
     ],
     "wof:id":554746377,
-    "wof:lastmodified":1480832237,
+    "wof:lastmodified":1611184008,
     "wof:name":"77662",
     "wof:parent_id":102081453,
     "wof:placetype":"postalcode",

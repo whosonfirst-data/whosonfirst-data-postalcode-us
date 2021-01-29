@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001411,
-    "geom:area_square_m":13618985.484755,
+    "geom:area_square_m":13618985.48476,
     "geom:bbox":"-90.408972,38.657864,-90.347838,38.696322",
     "geom:latitude":38.676026,
     "geom:longitude":-90.377995,
@@ -13,21 +13,28 @@
     "lbl:latitude":38.676026,
     "lbl:longitude":-90.377994,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"St Louis",
+    "mz:postal_locality_alt":[
+        "Saint Louis",
+        "Olivette",
+        "Overland"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404517245,
         85633793,
+        102086173,
+        404517245,
         85972345,
-        102086173
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785617"
     },
     "wof:country":"US",
-    "wof:geomhash":"7123deb7dfd5d2aecef060af9758eda7",
+    "wof:geomhash":"4954e6c08f8bee2097394cb080ebdd72",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +47,7 @@
         }
     ],
     "wof:id":554735813,
-    "wof:lastmodified":1480914493,
+    "wof:lastmodified":1611184435,
     "wof:name":"63132",
     "wof:parent_id":85972345,
     "wof:placetype":"postalcode",

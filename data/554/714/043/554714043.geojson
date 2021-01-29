@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028586,
-    "geom:area_square_m":301569919.363984,
+    "geom:area_square_m":301569919.363679,
     "geom:bbox":"-83.539614,31.320827,-83.348534,31.554384",
     "geom:latitude":31.441079,
     "geom:longitude":-83.449331,
@@ -13,19 +13,29 @@
     "lbl:latitude":31.445872,
     "lbl:longitude":-83.452667,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Tifton",
+    "mz:postal_locality_alt":[
+        "Donalsonville",
+        "Cuthbert",
+        "Colquitt",
+        "Blakely",
+        "Edison",
+        "Chula"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688535,
-        102084483
+        102084483,
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12771401"
     },
     "wof:country":"US",
-    "wof:geomhash":"16738863d88461bf65094dcd9d026d7e",
+    "wof:geomhash":"ecd635e638b06da0e6d0a169384c1347",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +46,7 @@
         }
     ],
     "wof:id":554714043,
-    "wof:lastmodified":1480802739,
+    "wof:lastmodified":1611183373,
     "wof:name":"31794",
     "wof:parent_id":102084483,
     "wof:placetype":"postalcode",

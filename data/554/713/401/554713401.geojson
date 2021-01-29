@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031421,
-    "geom:area_square_m":323337087.723192,
+    "geom:area_square_m":323337087.72315,
     "geom:bbox":"-83.302796,33.585988,-82.920989,33.761774",
     "geom:latitude":33.673997,
     "geom:longitude":-83.114963,
@@ -14,20 +14,25 @@
     "lbl:latitude":33.672149,
     "lbl:longitude":-83.120938,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Union Point",
+    "mz:postal_locality_alt":[
+        "Woodville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688535,
         102191575,
         85633793,
+        102082969,
         85935967,
-        102082969
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770968"
     },
     "wof:country":"US",
-    "wof:geomhash":"31ac22c8a206b2b045713add48675780",
+    "wof:geomhash":"3136d973df685c481347c11cc35129e7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554713401,
-    "wof:lastmodified":1480800621,
+    "wof:lastmodified":1611183303,
     "wof:name":"30669",
     "wof:parent_id":85935967,
     "wof:placetype":"postalcode",

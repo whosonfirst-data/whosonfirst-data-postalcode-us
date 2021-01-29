@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001801,
-    "geom:area_square_m":16783868.426613,
+    "geom:area_square_m":16783868.426602,
     "geom:bbox":"-74.000035,41.06781,-73.941437,41.127577",
     "geom:latitude":41.097549,
     "geom:longitude":-73.972646,
@@ -14,21 +14,23 @@
     "lbl:latitude":41.098072,
     "lbl:longitude":-73.972649,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"West Nyack",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404523091,
         85633793,
+        102082385,
+        404523091,
         85979989,
-        102082385
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761682"
     },
     "wof:country":"US",
-    "wof:geomhash":"cec0e4189366d32e565c0bb38864d595",
+    "wof:geomhash":"d1b5e7689fd204cb2f5efb532106819e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +43,7 @@
         }
     ],
     "wof:id":554701037,
-    "wof:lastmodified":1480792639,
+    "wof:lastmodified":1611182624,
     "wof:name":"10994",
     "wof:parent_id":85979989,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002265,
-    "geom:area_square_m":23194247.608665,
+    "geom:area_square_m":23194247.60863,
     "geom:bbox":"-117.704595,34.08695,-117.623451,34.12298",
     "geom:latitude":34.105281,
     "geom:longitude":-117.662036,
@@ -13,20 +13,25 @@
     "lbl:latitude":34.105282,
     "lbl:longitude":-117.662036,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Upland",
+    "mz:postal_locality_alt":[
+        "Pomona"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102085395,
         85923961,
-        102085395
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796138"
     },
     "wof:country":"US",
-    "wof:geomhash":"00801707500481f390b3c81d54dc3871",
+    "wof:geomhash":"e234bd87cca25ec45d1b8825a735328f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554752113,
-    "wof:lastmodified":1480912603,
+    "wof:lastmodified":1611182556,
     "wof:name":"91786",
     "wof:parent_id":85923961,
     "wof:placetype":"postalcode",

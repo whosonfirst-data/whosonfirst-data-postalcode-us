@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000685,
-    "geom:area_square_m":7150044.838038,
+    "geom:area_square_m":7150044.838036,
     "geom:bbox":"-97.351868,32.374408,-97.29609,32.409843",
     "geom:latitude":32.392501,
     "geom:longitude":-97.326893,
@@ -14,20 +14,25 @@
     "lbl:latitude":32.392588,
     "lbl:longitude":-97.32754,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Keene",
+    "mz:postal_locality_alt":[
+        "Cleburne"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102081065,
         101725013,
-        102081065
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12790890"
     },
     "wof:country":"US",
-    "wof:geomhash":"8ffa0f28643a4c7909875e78aaa1e6dc",
+    "wof:geomhash":"79c6a7e28455cd89b50d8e32360af52a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554745075,
-    "wof:lastmodified":1480818850,
+    "wof:lastmodified":1611185281,
     "wof:name":"76059",
     "wof:parent_id":101725013,
     "wof:placetype":"postalcode",

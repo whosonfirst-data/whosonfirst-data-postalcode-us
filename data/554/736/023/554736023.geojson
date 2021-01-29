@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000641,
-    "geom:area_square_m":6038831.231047,
+    "geom:area_square_m":6038831.231046,
     "geom:bbox":"-91.607061,40.380202,-91.571968,40.42364",
     "geom:latitude":40.400139,
     "geom:longitude":-91.584246,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.404428,
     "lbl:longitude":-91.585849,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wayland",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404516579,
         85633793,
-        102085261
+        102085261,
+        404516579,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785745"
     },
     "wof:country":"US",
-    "wof:geomhash":"c46b27203d29a2a4d6a4e7e260966c81",
+    "wof:geomhash":"e00c8d69e177b96e20a77664349aa280",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554736023,
-    "wof:lastmodified":1480809930,
+    "wof:lastmodified":1611183022,
     "wof:name":"63472",
     "wof:parent_id":404516579,
     "wof:placetype":"postalcode",

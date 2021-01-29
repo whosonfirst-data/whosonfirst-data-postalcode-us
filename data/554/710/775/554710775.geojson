@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00464,
-    "geom:area_square_m":46183526.510251,
+    "geom:area_square_m":46183526.510012,
     "geom:bbox":"-79.035369,36.341104,-78.920471,36.451777",
     "geom:latitude":36.39678,
     "geom:longitude":-78.976004,
@@ -13,20 +13,25 @@
     "lbl:latitude":36.396597,
     "lbl:longitude":-78.976099,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Roxboro",
+    "mz:postal_locality_alt":[
+        "Holly Springs"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688773,
         102191575,
         85633793,
+        102087737,
         85981213,
-        102087737
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12769123"
     },
     "wof:country":"US",
-    "wof:geomhash":"e5200733f6bfd6a735939ee15c9bddb5",
+    "wof:geomhash":"906eb946d1807a5e0ecfe1f18d87f004",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554710775,
-    "wof:lastmodified":1480786472,
+    "wof:lastmodified":1611185135,
     "wof:name":"27573",
     "wof:parent_id":85981213,
     "wof:placetype":"postalcode",

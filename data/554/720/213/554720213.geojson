@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022679,
-    "geom:area_square_m":213846416.855695,
+    "geom:area_square_m":213846416.855654,
     "geom:bbox":"-82.797599,40.234727,-82.57114,40.397049",
     "geom:latitude":40.310464,
     "geom:longitude":-82.686136,
@@ -14,20 +14,26 @@
     "lbl:latitude":40.303,
     "lbl:longitude":-82.679665,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Centerburg",
+    "mz:postal_locality_alt":[
+        "Lewis Center",
+        "Croton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404526835,
         85633793,
-        102084811
+        102084811,
+        404526835,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776086"
     },
     "wof:country":"US",
-    "wof:geomhash":"5d10bbcb948c40f157984b628e5eff8f",
+    "wof:geomhash":"28fd7992aa864ebc3c3c9060619b76c8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554720213,
-    "wof:lastmodified":1480834154,
+    "wof:lastmodified":1611185478,
     "wof:name":"43011",
     "wof:parent_id":404526835,
     "wof:placetype":"postalcode",

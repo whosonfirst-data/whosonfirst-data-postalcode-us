@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017325,
-    "geom:area_square_m":185982347.057742,
+    "geom:area_square_m":185982347.057548,
     "geom:bbox":"-81.379261,29.650416,-81.21929,29.867796",
     "geom:latitude":29.756748,
     "geom:longitude":-81.303107,
@@ -13,19 +13,26 @@
     "lbl:latitude":29.766738,
     "lbl:longitude":-81.30637,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"St Augustine",
+    "mz:postal_locality_alt":[
+        "Saint Augustine",
+        "Chester",
+        "Lake City"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688651,
-        102085787
+        102085787,
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12771494"
     },
     "wof:country":"US",
-    "wof:geomhash":"2cb5659e1e80da1b5b12e1d498925f12",
+    "wof:geomhash":"2842b3ebc48d127899d948ab8c9ff944",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +43,7 @@
         }
     ],
     "wof:id":554781185,
-    "wof:lastmodified":1480805766,
+    "wof:lastmodified":1611184840,
     "wof:name":"32086",
     "wof:parent_id":102085787,
     "wof:placetype":"postalcode",

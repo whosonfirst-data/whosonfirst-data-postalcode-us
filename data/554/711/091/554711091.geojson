@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012276,
-    "geom:area_square_m":124015753.212053,
+    "geom:area_square_m":124015753.212012,
     "geom:bbox":"-81.209821,35.152217,-81.040474,35.333088",
     "geom:latitude":35.217234,
     "geom:longitude":-81.125194,
@@ -13,20 +13,26 @@
     "lbl:latitude":35.216936,
     "lbl:longitude":-81.125003,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Gastonia",
+    "mz:postal_locality_alt":[
+        "Belmont",
+        "Lowell"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688773,
         102191575,
         85633793,
+        102087869,
         85981127,
-        102087869
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12769391"
     },
     "wof:country":"US",
-    "wof:geomhash":"691a3469bdcf984fb3ba5f8d9735540b",
+    "wof:geomhash":"fdb9e4a2691887d130eea39cd8ddbcc1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554711091,
-    "wof:lastmodified":1480805138,
+    "wof:lastmodified":1611185310,
     "wof:name":"28056",
     "wof:parent_id":85981127,
     "wof:placetype":"postalcode",

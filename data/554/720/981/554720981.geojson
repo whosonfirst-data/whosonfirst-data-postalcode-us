@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006171,
-    "geom:area_square_m":57101813.733698,
+    "geom:area_square_m":57101813.733662,
     "geom:bbox":"-81.04782,41.508434,-80.921477,41.605706",
     "geom:latitude":41.550078,
     "geom:longitude":-80.974698,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.549205,
     "lbl:longitude":-80.983305,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Windsor",
+    "mz:postal_locality_alt":[
+        "Willoughby"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404524815,
         85633793,
-        102083657
+        102083657,
+        404524815,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776626"
     },
     "wof:country":"US",
-    "wof:geomhash":"54d66407cf3402760fba23a13ff28de9",
+    "wof:geomhash":"6cb476a666da71690f2f60cce8a1df54",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554720981,
-    "wof:lastmodified":1480838087,
+    "wof:lastmodified":1611185490,
     "wof:name":"44099",
     "wof:parent_id":404524815,
     "wof:placetype":"postalcode",

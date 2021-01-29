@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010597,
-    "geom:area_square_m":109045606.262406,
+    "geom:area_square_m":109045606.262414,
     "geom:bbox":"-83.931512,33.610096,-83.806,33.744557",
     "geom:latitude":33.675791,
     "geom:longitude":-83.874547,
@@ -14,19 +14,25 @@
     "lbl:latitude":33.67325,
     "lbl:longitude":-83.871806,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Oxford",
+    "mz:postal_locality_alt":[
+        "Lawrenceville",
+        "Auburn"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688535,
-        102082963
+        102082963,
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770535"
     },
     "wof:country":"US",
-    "wof:geomhash":"18b3d0993b9527c6c97d61bfda0b617d",
+    "wof:geomhash":"e21fceb9fb11ae702bc96af0c6a94be0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554712725,
-    "wof:lastmodified":1480823667,
+    "wof:lastmodified":1611183710,
     "wof:name":"30054",
     "wof:parent_id":102082963,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02168,
-    "geom:area_square_m":214770822.778258,
+    "geom:area_square_m":214770822.778226,
     "geom:bbox":"-78.909268,36.626152,-78.549228,36.869005",
     "geom:latitude":36.758724,
     "geom:longitude":-78.757864,
@@ -14,19 +14,24 @@
     "lbl:latitude":36.760808,
     "lbl:longitude":-78.758047,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Scottsburg",
+    "mz:postal_locality_alt":[
+        "Halifax"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688747,
-        102084931
+        102084931,
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12767906"
     },
     "wof:country":"US",
-    "wof:geomhash":"984fb3d604033735e2101d383f5fcaff",
+    "wof:geomhash":"e78fe2e7dbdaac25983618a609b861c7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554709067,
-    "wof:lastmodified":1480804055,
+    "wof:lastmodified":1611183013,
     "wof:name":"24589",
     "wof:parent_id":102084931,
     "wof:placetype":"postalcode",

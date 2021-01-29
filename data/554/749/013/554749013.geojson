@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.631986,
-    "geom:area_square_m":5743930168.783728,
+    "geom:area_square_m":5743930168.78252,
     "geom:bbox":"-109.459119,42.278061,-107.542341,43.213984",
     "geom:latitude":42.690503,
     "geom:longitude":-108.628509,
@@ -14,19 +14,25 @@
     "lbl:latitude":42.69917,
     "lbl:longitude":-108.618598,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lander",
+    "mz:postal_locality_alt":[
+        "Ethete",
+        "Atlantic City"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688475,
-        102081203
+        102081203,
+        85688475
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12793605"
     },
     "wof:country":"US",
-    "wof:geomhash":"66cb2f4da207f64b256ee0b321391add",
+    "wof:geomhash":"1198cc2aaa1c84ac1940fb22ab855ccb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554749013,
-    "wof:lastmodified":1480904384,
+    "wof:lastmodified":1611183547,
     "wof:name":"82520",
     "wof:parent_id":102081203,
     "wof:placetype":"postalcode",

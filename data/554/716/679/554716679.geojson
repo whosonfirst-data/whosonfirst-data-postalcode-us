@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013455,
-    "geom:area_square_m":134502825.819544,
+    "geom:area_square_m":134502825.819445,
     "geom:bbox":"-87.054766,35.986274,-86.866855,36.117936",
     "geom:latitude":36.055545,
     "geom:longitude":-86.973573,
@@ -14,20 +14,25 @@
     "lbl:latitude":36.051294,
     "lbl:longitude":-86.968798,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Nashville",
+    "mz:postal_locality_alt":[
+        "Bellevue"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688701,
         102191575,
         85633793,
+        102087061,
         101723183,
-        102087061
+        85688701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12773896"
     },
     "wof:country":"US",
-    "wof:geomhash":"fe61ea9da908563f03f417e8e664427e",
+    "wof:geomhash":"f148c47b1f9a60a442d5fc17ddec4268",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554716679,
-    "wof:lastmodified":1480915648,
+    "wof:lastmodified":1611185389,
     "wof:name":"37221",
     "wof:parent_id":101723183,
     "wof:placetype":"postalcode",

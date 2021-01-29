@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024167,
-    "geom:area_square_m":203961478.05924,
+    "geom:area_square_m":203961478.059282,
     "geom:bbox":"-67.931152,46.865784,-67.789403,47.05008",
     "geom:latitude":46.958368,
     "geom:longitude":-67.857263,
@@ -14,20 +14,22 @@
     "lbl:latitude":46.954967,
     "lbl:longitude":-67.857437,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Limestone",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404475833,
         85633793,
-        102081161
+        102081161,
+        404475833,
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759735"
     },
     "wof:country":"US",
-    "wof:geomhash":"2aa33fe07ae94671d72b939e203b38be",
+    "wof:geomhash":"1c7c9bde9a7519fd12f6e1217f058f0a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554778917,
-    "wof:lastmodified":1480823530,
+    "wof:lastmodified":1611183446,
     "wof:name":"04750",
     "wof:parent_id":404475833,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.098441,
-    "geom:area_square_m":818508121.361476,
+    "geom:area_square_m":818508121.36132,
     "geom:bbox":"-96.78505,47.571432,-96.323605,47.934657",
     "geom:latitude":47.745418,
     "geom:longitude":-96.552566,
@@ -14,20 +14,26 @@
     "lbl:latitude":47.743248,
     "lbl:longitude":-96.555408,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Crookston",
+    "mz:postal_locality_alt":[
+        "Lancaster",
+        "Kennedy"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404513707,
         85633793,
-        102087599
+        102087599,
+        404513707,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782656"
     },
     "wof:country":"US",
-    "wof:geomhash":"62817af03cafd0b57ff2dbfa8b01ef30",
+    "wof:geomhash":"a777f5e0fc8e2fcf5319ac01a2102328",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554730695,
-    "wof:lastmodified":1480785330,
+    "wof:lastmodified":1611182735,
     "wof:name":"56716",
     "wof:parent_id":404513707,
     "wof:placetype":"postalcode",

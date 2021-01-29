@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010883,
-    "geom:area_square_m":102223184.01176,
+    "geom:area_square_m":102223184.011757,
     "geom:bbox":"-76.993453,40.514565,-76.830679,40.628166",
     "geom:latitude":40.566623,
     "geom:longitude":-76.912246,
@@ -14,20 +14,26 @@
     "lbl:latitude":40.566703,
     "lbl:longitude":-76.90909,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Millersburg",
+    "mz:postal_locality_alt":[
+        "Lebanon",
+        "Reedsville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404486311,
         85633793,
-        102081347
+        102081347,
+        404486311,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764604"
     },
     "wof:country":"US",
-    "wof:geomhash":"74a6302f096695f9a8208ba087743da1",
+    "wof:geomhash":"911ebdeb1f533096242e70e119d09dcd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554704969,
-    "wof:lastmodified":1480904076,
+    "wof:lastmodified":1611184507,
     "wof:name":"17061",
     "wof:parent_id":404486311,
     "wof:placetype":"postalcode",

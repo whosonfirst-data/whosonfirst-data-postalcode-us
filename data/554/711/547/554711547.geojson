@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017071,
-    "geom:area_square_m":170392123.457227,
+    "geom:area_square_m":170392123.457344,
     "geom:bbox":"-81.933738,36.111376,-81.74539,36.262174",
     "geom:latitude":36.177211,
     "geom:longitude":-81.84788,
@@ -14,19 +14,27 @@
     "lbl:latitude":36.18028,
     "lbl:longitude":-81.859151,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Banner Elk",
+    "mz:postal_locality_alt":[
+        "Beech Mountain",
+        "Seven Devils",
+        "Blowing Rock",
+        "Elk Park"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688773,
-        102087789
+        102087789,
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12769764"
     },
     "wof:country":"US",
-    "wof:geomhash":"cc6b02438fd6bedf202bda9be0ba1d6e",
+    "wof:geomhash":"18c78a9f83dc0051d21defdf5ffd64c8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +45,7 @@
         }
     ],
     "wof:id":554711547,
-    "wof:lastmodified":1480903876,
+    "wof:lastmodified":1611185343,
     "wof:name":"28604",
     "wof:parent_id":102087789,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010772,
-    "geom:area_square_m":96267801.709708,
+    "geom:area_square_m":96267801.70975,
     "geom:bbox":"-72.305987,43.658591,-72.089389,43.770955",
     "geom:latitude":43.717728,
     "geom:longitude":-72.189558,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.727746,
     "lbl:longitude":-72.142753,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hanover",
+    "mz:postal_locality_alt":[
+        "West Lebanon"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688689,
         102191575,
-        404477237,
         85633793,
-        102086567
+        102086567,
+        404477237,
+        85688689
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759260"
     },
     "wof:country":"US",
-    "wof:geomhash":"8daae64af3e93f33956222411165b07f",
+    "wof:geomhash":"f580638b901e4d0c610fb522d975fb54",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554697977,
-    "wof:lastmodified":1480916382,
+    "wof:lastmodified":1611184646,
     "wof:name":"03755",
     "wof:parent_id":404477237,
     "wof:placetype":"postalcode",

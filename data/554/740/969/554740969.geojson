@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013151,
-    "geom:area_square_m":140510450.929326,
+    "geom:area_square_m":140510450.929405,
     "geom:bbox":"-90.986474,30.14565,-90.869583,30.29904",
     "geom:latitude":30.225132,
     "geom:longitude":-90.922213,
@@ -13,20 +13,25 @@
     "lbl:latitude":30.22238,
     "lbl:longitude":-90.922196,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Gonzales",
+    "mz:postal_locality_alt":[
+        "Brusly"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688735,
         102191575,
         85633793,
+        102086687,
         85947869,
-        102086687
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12788453"
     },
     "wof:country":"US",
-    "wof:geomhash":"12175fc78c7e455c96a24087e584a875",
+    "wof:geomhash":"b85be1e065cf7b99c585bf130e3fe562",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554740969,
-    "wof:lastmodified":1480912567,
+    "wof:lastmodified":1611183406,
     "wof:name":"70737",
     "wof:parent_id":85947869,
     "wof:placetype":"postalcode",

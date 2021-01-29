@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00068,
-    "geom:area_square_m":6983103.590277,
+    "geom:area_square_m":6983103.5903,
     "geom:bbox":"-118.019236,33.773734,-117.979135,33.815699",
     "geom:latitude":33.801188,
     "geom:longitude":-117.994904,
@@ -14,20 +14,25 @@
     "lbl:latitude":33.801187,
     "lbl:longitude":-117.994904,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Stanton",
+    "mz:postal_locality_alt":[
+        "Garden Grove"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102080847,
         85923039,
-        102080847
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795826"
     },
     "wof:country":"US",
-    "wof:geomhash":"682de210fc8634216a535c7d6b940988",
+    "wof:geomhash":"13c150caa628ab3dfab957f9350aa7d2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554784119,
-    "wof:lastmodified":1480906250,
+    "wof:lastmodified":1611183943,
     "wof:name":"90680",
     "wof:parent_id":85923039,
     "wof:placetype":"postalcode",

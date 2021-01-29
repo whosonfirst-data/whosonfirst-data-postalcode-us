@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025419,
-    "geom:area_square_m":240822376.391677,
+    "geom:area_square_m":240822376.391435,
     "geom:bbox":"-81.237316,39.867281,-81.081075,40.105658",
     "geom:latitude":39.98804,
     "geom:longitude":-81.174101,
@@ -14,21 +14,26 @@
     "lbl:latitude":39.987894,
     "lbl:longitude":-81.17459,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Barnesville",
+    "mz:postal_locality_alt":[
+        "Zanesville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404523599,
         85633793,
+        102083721,
+        404523599,
         101712113,
-        102083721
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776423"
     },
     "wof:country":"US",
-    "wof:geomhash":"62691bd0dc564f2452a74d807964a1fe",
+    "wof:geomhash":"771b8bd088e9ccdef7972328625e0da0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554720703,
-    "wof:lastmodified":1480838510,
+    "wof:lastmodified":1611185471,
     "wof:name":"43713",
     "wof:parent_id":101712113,
     "wof:placetype":"postalcode",

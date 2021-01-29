@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043395,
-    "geom:area_square_m":443066783.696463,
+    "geom:area_square_m":443066783.696169,
     "geom:bbox":"-116.77116,34.236833,-116.29891,34.434206",
     "geom:latitude":34.340188,
     "geom:longitude":-116.540482,
@@ -14,19 +14,24 @@
     "lbl:latitude":34.340222,
     "lbl:longitude":-116.540435,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Landers",
+    "mz:postal_locality_alt":[
+        "Johnson Valley"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688637,
-        102085395
+        102085395,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796394"
     },
     "wof:country":"US",
-    "wof:geomhash":"b21c420f6dae0550a0a0861bca7040db",
+    "wof:geomhash":"76deb846f55fd5c9a11c968b1442974f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554752289,
-    "wof:lastmodified":1480814341,
+    "wof:lastmodified":1611182519,
     "wof:name":"92285",
     "wof:parent_id":102085395,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
-    "geom:area_square_m":13401.101583,
+    "geom:area_square_m":13401.101582,
     "geom:bbox":"-96.842343,32.81338,-96.839475,32.815029",
     "geom:latitude":32.814164,
     "geom:longitude":-96.84065,
@@ -13,20 +13,22 @@
     "lbl:latitude":32.814164,
     "lbl:longitude":-96.84065,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Dallas",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102080647,
         101724385,
-        102080647
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12790544"
     },
     "wof:country":"US",
-    "wof:geomhash":"f2d5158120d3cd351cf734e0d4ebc166",
+    "wof:geomhash":"31b62cf32f11fc3031531ae645ac5e73",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +40,7 @@
         }
     ],
     "wof:id":554776491,
-    "wof:lastmodified":1480904885,
+    "wof:lastmodified":1611183596,
     "wof:name":"75390",
     "wof:parent_id":101724385,
     "wof:placetype":"postalcode",

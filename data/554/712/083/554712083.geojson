@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0133,
-    "geom:area_square_m":136458576.373832,
+    "geom:area_square_m":136458576.373886,
     "geom:bbox":"-81.029714,33.84693,-80.875384,33.996929",
     "geom:latitude":33.924041,
     "geom:longitude":-80.953276,
@@ -13,19 +13,24 @@
     "lbl:latitude":33.926751,
     "lbl:longitude":-80.950364,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Columbia",
+    "mz:postal_locality_alt":[
+        "Eastover"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688683,
-        102085405
+        102085405,
+        85688683
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770070"
     },
     "wof:country":"US",
-    "wof:geomhash":"f40fc951d5ae558456cd53d300f39001",
+    "wof:geomhash":"e41d3b4e3812b41907f51f92a50ee7d2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +41,7 @@
         }
     ],
     "wof:id":554712083,
-    "wof:lastmodified":1480816183,
+    "wof:lastmodified":1611183699,
     "wof:name":"29209",
     "wof:parent_id":102085405,
     "wof:placetype":"postalcode",

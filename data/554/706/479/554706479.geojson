@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009983,
-    "geom:area_square_m":94284356.552576,
+    "geom:area_square_m":94284356.552599,
     "geom:bbox":"-75.746691,40.141633,-75.580747,40.245125",
     "geom:latitude":40.198529,
     "geom:longitude":-75.672926,
@@ -13,20 +13,26 @@
     "lbl:latitude":40.19039,
     "lbl:longitude":-75.684564,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pottstown",
+    "mz:postal_locality_alt":[
+        "Parker Ford",
+        "Oaks"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485149,
         85633793,
-        102081275
+        102081275,
+        404485149,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765658"
     },
     "wof:country":"US",
-    "wof:geomhash":"24f16a1400b0bcc664fbd1db0283f122",
+    "wof:geomhash":"12a763e64f64f434abf998764df7f130",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554706479,
-    "wof:lastmodified":1480903401,
+    "wof:lastmodified":1611182689,
     "wof:name":"19465",
     "wof:parent_id":404485149,
     "wof:placetype":"postalcode",

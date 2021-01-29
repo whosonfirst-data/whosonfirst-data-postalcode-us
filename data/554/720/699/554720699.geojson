@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001887,
-    "geom:area_square_m":17422382.056888,
+    "geom:area_square_m":17422382.056871,
     "geom:bbox":"-83.696659,41.683669,-83.621331,41.728001",
     "geom:latitude":41.7041,
     "geom:longitude":-83.651422,
@@ -13,21 +13,26 @@
     "lbl:latitude":41.702956,
     "lbl:longitude":-83.650077,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Toledo",
+    "mz:postal_locality_alt":[
+        "Sylvania"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404525355,
         85633793,
+        102084787,
+        404525355,
         101712039,
-        102084787
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776404"
     },
     "wof:country":"US",
-    "wof:geomhash":"34d9661b3ab7a0c84fadbc4c2c8d60f0",
+    "wof:geomhash":"5d5ab02e3dd7dd3907996144eaf0acd0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554720699,
-    "wof:lastmodified":1480839986,
+    "wof:lastmodified":1611185479,
     "wof:name":"43623",
     "wof:parent_id":101712039,
     "wof:placetype":"postalcode",

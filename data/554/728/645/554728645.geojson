@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046734,
-    "geom:area_square_m":411827503.338478,
+    "geom:area_square_m":411827503.338339,
     "geom:bbox":"-91.357538,44.413207,-91.044286,44.683178",
     "geom:latitude":44.548596,
     "geom:longitude":-91.218705,
@@ -14,20 +14,25 @@
     "lbl:latitude":44.557943,
     "lbl:longitude":-91.216523,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Osseo",
+    "mz:postal_locality_alt":[
+        "Strum"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404493987,
         85633793,
-        102081731
+        102081731,
+        404493987,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781510"
     },
     "wof:country":"US",
-    "wof:geomhash":"1c447b209deb4842103c3b9c6ad090e9",
+    "wof:geomhash":"00601845b98e72812f790df32318f1fb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554728645,
-    "wof:lastmodified":1480833295,
+    "wof:lastmodified":1611185055,
     "wof:name":"54758",
     "wof:parent_id":404493987,
     "wof:placetype":"postalcode",

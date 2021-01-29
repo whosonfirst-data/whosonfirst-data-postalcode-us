@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039815,
-    "geom:area_square_m":339321797.441838,
+    "geom:area_square_m":339321797.441641,
     "geom:bbox":"-92.293017,46.331941,-92.050173,46.578291",
     "geom:latitude":46.430486,
     "geom:longitude":-92.194697,
@@ -14,20 +14,22 @@
     "lbl:latitude":46.454438,
     "lbl:longitude":-92.195041,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Foxboro",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404492711,
         85633793,
-        102081291
+        102081291,
+        404492711,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781550"
     },
     "wof:country":"US",
-    "wof:geomhash":"b28f5093220e38a1b8b54c6403bc8467",
+    "wof:geomhash":"e95710f6c607cac749ad3e12de5f11e9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554728715,
-    "wof:lastmodified":1480825339,
+    "wof:lastmodified":1611185069,
     "wof:name":"54836",
     "wof:parent_id":404492711,
     "wof:placetype":"postalcode",

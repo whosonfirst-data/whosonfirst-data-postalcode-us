@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003656,
-    "geom:area_square_m":34803403.597829,
+    "geom:area_square_m":34803403.597763,
     "geom:bbox":"-79.993677,39.58643,-79.901004,39.688394",
     "geom:latitude":39.650486,
     "geom:longitude":-79.944067,
@@ -13,19 +13,25 @@
     "lbl:latitude":39.649517,
     "lbl:longitude":-79.945258,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Morgantown",
+    "mz:postal_locality_alt":[
+        "Star City",
+        "Fairmont"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688589,
-        102082587
+        102082587,
+        85688589
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12768746"
     },
     "wof:country":"US",
-    "wof:geomhash":"88f21b7942e68ed4ffb718bc4affd954",
+    "wof:geomhash":"a9c84a4093c167e810121fc4a8d355d4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +42,7 @@
         }
     ],
     "wof:id":554710189,
-    "wof:lastmodified":1480795148,
+    "wof:lastmodified":1611185114,
     "wof:name":"26505",
     "wof:parent_id":102082587,
     "wof:placetype":"postalcode",

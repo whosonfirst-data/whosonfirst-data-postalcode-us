@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001415,
-    "geom:area_square_m":13279055.538556,
+    "geom:area_square_m":13279055.538537,
     "geom:bbox":"-73.748001,40.590704,-73.685975,40.638093",
     "geom:latitude":40.606535,
     "geom:longitude":-73.717296,
@@ -14,21 +14,26 @@
     "lbl:latitude":40.603733,
     "lbl:longitude":-73.717352,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lawrence",
+    "mz:postal_locality_alt":[
+        "Glen Head"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404521473,
         85633793,
+        102082371,
+        404521473,
         85977631,
-        102082371
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761858"
     },
     "wof:country":"US",
-    "wof:geomhash":"0cfbe187b276020d41ed4892bc414489",
+    "wof:geomhash":"de5af74d18fa99e971f62c7c7d06125e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554779767,
-    "wof:lastmodified":1480790620,
+    "wof:lastmodified":1611183977,
     "wof:name":"11559",
     "wof:parent_id":85977631,
     "wof:placetype":"postalcode",

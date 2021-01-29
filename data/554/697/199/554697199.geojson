@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003936,
-    "geom:area_square_m":35882512.363294,
+    "geom:area_square_m":35882512.363272,
     "geom:bbox":"-71.321268,42.449144,-71.229573,42.52663",
     "geom:latitude":42.49694,
     "geom:longitude":-71.278345,
@@ -14,20 +14,25 @@
     "lbl:latitude":42.499295,
     "lbl:longitude":-71.281889,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bedford",
+    "mz:postal_locality_alt":[
+        "Lincoln"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476325,
         85633793,
-        102084643
+        102084643,
+        404476325,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758551"
     },
     "wof:country":"US",
-    "wof:geomhash":"1447ff44379127f9a0ae1420a9bce0ea",
+    "wof:geomhash":"190c8bc908d2e7646336c6bdd077c816",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554697199,
-    "wof:lastmodified":1480799919,
+    "wof:lastmodified":1611184653,
     "wof:name":"01730",
     "wof:parent_id":404476325,
     "wof:placetype":"postalcode",

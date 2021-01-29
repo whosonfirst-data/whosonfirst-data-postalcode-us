@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018032,
-    "geom:area_square_m":173779684.36576,
+    "geom:area_square_m":173779684.365635,
     "geom:bbox":"-90.933609,38.68269,-90.767762,38.88873",
     "geom:latitude":38.797055,
     "geom:longitude":-90.857596,
@@ -14,21 +14,32 @@
     "lbl:latitude":38.796985,
     "lbl:longitude":-90.857245,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wentzville",
+    "mz:postal_locality_alt":[
+        "Lake St Louis",
+        "New Melle",
+        "Wright City",
+        "Lake Saint Louis",
+        "O Fallon",
+        "St Charles",
+        "Flinthill"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404518207,
         85633793,
+        102086159,
+        404518207,
         85972051,
-        102086159
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785700"
     },
     "wof:country":"US",
-    "wof:geomhash":"bcb7ca1fc3071871eaf717e904f719dd",
+    "wof:geomhash":"beb857422af698c87b7832adb01e3b55",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +52,7 @@
         }
     ],
     "wof:id":554735931,
-    "wof:lastmodified":1480910510,
+    "wof:lastmodified":1611184409,
     "wof:name":"63385",
     "wof:parent_id":85972051,
     "wof:placetype":"postalcode",

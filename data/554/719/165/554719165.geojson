@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00703,
-    "geom:area_square_m":67574614.978087,
+    "geom:area_square_m":67574614.978175,
     "geom:bbox":"-84.532867,38.902229,-84.426791,39.059395",
     "geom:latitude":38.978072,
     "geom:longitude":-84.484425,
@@ -14,20 +14,27 @@
     "lbl:latitude":38.97971,
     "lbl:longitude":-84.478596,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Covington",
+    "mz:postal_locality_alt":[
+        "Latonia",
+        "Taylor Mill",
+        "Ryland Heights"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688641,
         102191575,
         85633793,
+        102085439,
         85947199,
-        102085439
+        85688641
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12775472"
     },
     "wof:country":"US",
-    "wof:geomhash":"b08b04dc5cdeb11009afb2722677583f",
+    "wof:geomhash":"dc87d4c42154960265948fd1fef948dc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554719165,
-    "wof:lastmodified":1480815765,
+    "wof:lastmodified":1611184922,
     "wof:name":"41015",
     "wof:parent_id":85947199,
     "wof:placetype":"postalcode",

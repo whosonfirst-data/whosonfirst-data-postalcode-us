@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001825,
-    "geom:area_square_m":16850254.925096,
+    "geom:area_square_m":16850254.925106,
     "geom:bbox":"-70.662761,41.668018,-70.579743,41.720114",
     "geom:latitude":41.691026,
     "geom:longitude":-70.616424,
@@ -14,21 +14,26 @@
     "lbl:latitude":41.690243,
     "lbl:longitude":-70.616283,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pocasset",
+    "mz:postal_locality_alt":[
+        "Vineyard Haven"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404475895,
         85633793,
+        102084379,
+        404475895,
         85950579,
-        102084379
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758888"
     },
     "wof:country":"US",
-    "wof:geomhash":"b2ddca541fcfbd36070fc5fd45957c91",
+    "wof:geomhash":"f45e1a7e81af5885084951e4ab6f79d6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554778439,
-    "wof:lastmodified":1480802731,
+    "wof:lastmodified":1611183430,
     "wof:name":"02559",
     "wof:parent_id":85950579,
     "wof:placetype":"postalcode",

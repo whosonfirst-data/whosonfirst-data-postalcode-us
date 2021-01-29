@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013663,
-    "geom:area_square_m":122710790.959315,
+    "geom:area_square_m":122710790.95932,
     "geom:bbox":"-70.607252,43.338004,-70.390274,43.49628",
     "geom:latitude":43.418768,
     "geom:longitude":-70.490053,
@@ -14,20 +14,26 @@
     "lbl:latitude":43.429822,
     "lbl:longitude":-70.474142,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Kennebunkport",
+    "mz:postal_locality_alt":[
+        "Arundel",
+        "Standish"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404475791,
         85633793,
-        102087449
+        102087449,
+        404475791,
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759399"
     },
     "wof:country":"US",
-    "wof:geomhash":"17c134cf33e229758a27fcedf2398152",
+    "wof:geomhash":"e49fa99cc645e1b1d1009f9239055673",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554778683,
-    "wof:lastmodified":1480788172,
+    "wof:lastmodified":1611183441,
     "wof:name":"04046",
     "wof:parent_id":404475791,
     "wof:placetype":"postalcode",

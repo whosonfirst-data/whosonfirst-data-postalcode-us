@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.075332,
-    "geom:area_square_m":643853415.092124,
+    "geom:area_square_m":643853415.092068,
     "geom:bbox":"-96.883015,46.080315,-96.568418,46.499875",
     "geom:latitude":46.27436,
     "geom:longitude":-96.726139,
@@ -13,20 +13,25 @@
     "lbl:latitude":46.275536,
     "lbl:longitude":-96.730394,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wahpeton",
+    "mz:postal_locality_alt":[
+        "Dwight"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688525,
         102191575,
-        404481643,
         85633793,
-        102082103
+        102082103,
+        404481643,
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12783163"
     },
     "wof:country":"US",
-    "wof:geomhash":"b84687582849f71bf8d6a2dee08c789d",
+    "wof:geomhash":"e09ce6f580caefe874c22a32a4154ed9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554731689,
-    "wof:lastmodified":1480792934,
+    "wof:lastmodified":1611183062,
     "wof:name":"58075",
     "wof:parent_id":404481643,
     "wof:placetype":"postalcode",

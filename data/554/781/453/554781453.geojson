@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004586,
-    "geom:area_square_m":51168829.953815,
+    "geom:area_square_m":51168829.953863,
     "geom:bbox":"-80.445423,25.503136,-80.325033,25.559293",
     "geom:latitude":25.530232,
     "geom:longitude":-80.391859,
@@ -13,20 +13,22 @@
     "lbl:latitude":25.531145,
     "lbl:longitude":-80.391233,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Homestead",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688651,
         102191575,
         85633793,
+        102085771,
         85935925,
-        102085771
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12772078"
     },
     "wof:country":"US",
-    "wof:geomhash":"99ab31402ac821424f540bd47d9bcb81",
+    "wof:geomhash":"2519bc320b678b3dbc1b631a1480cccb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +40,7 @@
         }
     ],
     "wof:id":554781453,
-    "wof:lastmodified":1480806625,
+    "wof:lastmodified":1611184819,
     "wof:name":"33032",
     "wof:parent_id":85935925,
     "wof:placetype":"postalcode",

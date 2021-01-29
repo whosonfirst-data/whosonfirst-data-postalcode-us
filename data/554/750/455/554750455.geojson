@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003154,
-    "geom:area_square_m":32511756.693978,
+    "geom:area_square_m":32511756.694009,
     "geom:bbox":"-112.358989,33.507539,-112.272358,33.571286",
     "geom:latitude":33.537564,
     "geom:longitude":-112.313674,
@@ -13,20 +13,25 @@
     "lbl:latitude":33.539828,
     "lbl:longitude":-112.314451,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Glendale",
+    "mz:postal_locality_alt":[
+        "Luke Afb"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688719,
         102191575,
         85633793,
+        102087421,
         85917509,
-        102087421
+        85688719
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12794550"
     },
     "wof:country":"US",
-    "wof:geomhash":"0070f50630f32ba0a8a6e3c6b5765063",
+    "wof:geomhash":"626bca02af477d179c7129342e4d17e8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554750455,
-    "wof:lastmodified":1480786591,
+    "wof:lastmodified":1611184541,
     "wof:name":"85307",
     "wof:parent_id":85917509,
     "wof:placetype":"postalcode",

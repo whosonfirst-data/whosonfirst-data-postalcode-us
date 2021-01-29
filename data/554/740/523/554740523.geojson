@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.066511,
-    "geom:area_square_m":618701136.952337,
+    "geom:area_square_m":618701136.952449,
     "geom:bbox":"-101.15553,40.989198,-100.925671,41.395101",
     "geom:latitude":41.210165,
     "geom:longitude":-101.039183,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.211576,
     "lbl:longitude":-101.042099,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hershey",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688563,
         102191575,
-        404520101,
         85633793,
-        102082765
+        102082765,
+        404520101,
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12788026"
     },
     "wof:country":"US",
-    "wof:geomhash":"8dafeb7b53d7ebeb8a2d6186486971fe",
+    "wof:geomhash":"91a0bdbe0fb5966e6e90ef35e6558156",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554740523,
-    "wof:lastmodified":1480837442,
+    "wof:lastmodified":1611183423,
     "wof:name":"69143",
     "wof:parent_id":404520101,
     "wof:placetype":"postalcode",

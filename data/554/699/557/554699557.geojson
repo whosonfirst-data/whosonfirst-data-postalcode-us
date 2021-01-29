@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001509,
-    "geom:area_square_m":14014201.199315,
+    "geom:area_square_m":14014201.199321,
     "geom:bbox":"-73.124654,41.300996,-73.039141,41.352896",
     "geom:latitude":41.326533,
     "geom:longitude":-73.083307,
@@ -14,21 +14,26 @@
     "lbl:latitude":41.326124,
     "lbl:longitude":-73.082574,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Derby",
+    "mz:postal_locality_alt":[
+        "Fairfield"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688629,
         102191575,
-        404495769,
         85633793,
+        102086923,
+        404495769,
         85930915,
-        102086923
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760389"
     },
     "wof:country":"US",
-    "wof:geomhash":"ad09168031809266d62b54b0fa29411e",
+    "wof:geomhash":"46521510c6c3b8e946df8602b9ba2c68",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554699557,
-    "wof:lastmodified":1480916211,
+    "wof:lastmodified":1611184602,
     "wof:name":"06418",
     "wof:parent_id":85930915,
     "wof:placetype":"postalcode",

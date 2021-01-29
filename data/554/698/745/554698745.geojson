@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011533,
-    "geom:area_square_m":102589533.735788,
+    "geom:area_square_m":102589533.735793,
     "geom:bbox":"-72.538126,43.929106,-72.382189,44.062387",
     "geom:latitude":43.994341,
     "geom:longitude":-72.457245,
@@ -14,20 +14,26 @@
     "lbl:latitude":43.989747,
     "lbl:longitude":-72.454953,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Chelsea",
+    "mz:postal_locality_alt":[
+        "East Randolph",
+        "Thetford"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688763,
         102191575,
-        404527169,
         85633793,
-        102087431
+        102087431,
+        404527169,
+        85688763
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759868"
     },
     "wof:country":"US",
-    "wof:geomhash":"1478408221b2a497e7a18127934b499a",
+    "wof:geomhash":"5a1771c83f584f1374df42666ddc7961",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554698745,
-    "wof:lastmodified":1480783988,
+    "wof:lastmodified":1611184705,
     "wof:name":"05038",
     "wof:parent_id":404527169,
     "wof:placetype":"postalcode",

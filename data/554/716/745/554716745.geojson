@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.065254,
-    "geom:area_square_m":659603226.86046,
+    "geom:area_square_m":659603226.859927,
     "geom:bbox":"-86.788927,34.990677,-86.415393,35.363021",
     "geom:latitude":35.166808,
     "geom:longitude":-86.581114,
@@ -14,20 +14,25 @@
     "lbl:latitude":35.166452,
     "lbl:longitude":-86.580895,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fayetteville",
+    "mz:postal_locality_alt":[
+        "Hixson"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688701,
         102191575,
         85633793,
+        102087119,
         101722777,
-        102087119
+        85688701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12773953"
     },
     "wof:country":"US",
-    "wof:geomhash":"2899441b0ef4f479bdbb2e8694ade842",
+    "wof:geomhash":"82d48c05da64c7f7b004ba7ee5f9ba85",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554716745,
-    "wof:lastmodified":1480916897,
+    "wof:lastmodified":1611185402,
     "wof:name":"37334",
     "wof:parent_id":101722777,
     "wof:placetype":"postalcode",

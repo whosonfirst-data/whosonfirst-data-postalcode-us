@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018557,
-    "geom:area_square_m":177600271.815982,
+    "geom:area_square_m":177600271.815863,
     "geom:bbox":"-92.787451,39.205483,-92.588557,39.370786",
     "geom:latitude":39.287145,
     "geom:longitude":-92.695007,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.290548,
     "lbl:longitude":-92.702593,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Armstrong",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404515649,
         85633793,
-        102085291
+        102085291,
+        404515649,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786394"
     },
     "wof:country":"US",
-    "wof:geomhash":"0412179fe8a7b09602fbfbe1e720f12e",
+    "wof:geomhash":"bc8790ca1e87e41d1b8b68f188120839",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554737215,
-    "wof:lastmodified":1480809895,
+    "wof:lastmodified":1611182852,
     "wof:name":"65230",
     "wof:parent_id":404515649,
     "wof:placetype":"postalcode",

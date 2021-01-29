@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00197,
-    "geom:area_square_m":17801906.741404,
+    "geom:area_square_m":17801906.7414,
     "geom:bbox":"-88.06709,43.025282,-88.009203,43.075013",
     "geom:latitude":43.049452,
     "geom:longitude":-88.042191,
@@ -13,21 +13,26 @@
     "lbl:latitude":43.048954,
     "lbl:longitude":-88.042234,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Milwaukee",
+    "mz:postal_locality_alt":[
+        "Wauwatosa"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404494273,
         85633793,
+        102081837,
+        404494273,
         101733089,
-        102081837
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12780924"
     },
     "wof:country":"US",
-    "wof:geomhash":"53900f040b8f746ab58bebe071878a95",
+    "wof:geomhash":"87888850f10679e2eddeb325d2e902d8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554727703,
-    "wof:lastmodified":1480832498,
+    "wof:lastmodified":1611185517,
     "wof:name":"53226",
     "wof:parent_id":101733089,
     "wof:placetype":"postalcode",

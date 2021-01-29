@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030743,
-    "geom:area_square_m":286099525.847411,
+    "geom:area_square_m":286099525.84741,
     "geom:bbox":"-87.160595,41.064075,-86.93017,41.286365",
     "geom:latitude":41.183292,
     "geom:longitude":-87.047638,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.178401,
     "lbl:longitude":-87.048317,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wheatfield",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404501009,
         85633793,
-        102087005
+        102087005,
+        404501009,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777756"
     },
     "wof:country":"US",
-    "wof:geomhash":"1853f94aabaf153848b0a1ca4ed2196a",
+    "wof:geomhash":"aa2d2d14be0404989fddde8f5aa1c900",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554722685,
-    "wof:lastmodified":1480915627,
+    "wof:lastmodified":1611183236,
     "wof:name":"46392",
     "wof:parent_id":404501009,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.132665,
-    "geom:area_square_m":1436111656.969075,
+    "geom:area_square_m":1436111656.967773,
     "geom:bbox":"-99.41388,28.647201,-98.800841,29.09154",
     "geom:latitude":28.901722,
     "geom:longitude":-99.146915,
@@ -14,19 +14,26 @@
     "lbl:latitude":28.888446,
     "lbl:longitude":-99.141465,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pearsall",
+    "mz:postal_locality_alt":[
+        "Laredo",
+        "Moore",
+        "Devine"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688753,
-        102087327
+        102087327,
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12791905"
     },
     "wof:country":"US",
-    "wof:geomhash":"c9361d131e0a0f0061bda9e2ed8db376",
+    "wof:geomhash":"efd8110edd387e8ad6f4c7ffba67cf62",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +44,7 @@
         }
     ],
     "wof:id":554746571,
-    "wof:lastmodified":1480903560,
+    "wof:lastmodified":1611184030,
     "wof:name":"78061",
     "wof:parent_id":102087327,
     "wof:placetype":"postalcode",

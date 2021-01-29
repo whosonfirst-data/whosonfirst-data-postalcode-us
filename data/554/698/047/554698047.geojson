@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0043,
-    "geom:area_square_m":38483415.59699,
+    "geom:area_square_m":38483415.597022,
     "geom:bbox":"-71.048285,43.588243,-70.974089,43.693623",
     "geom:latitude":43.63391,
     "geom:longitude":-71.002517,
@@ -14,20 +14,26 @@
     "lbl:latitude":43.614118,
     "lbl:longitude":-70.993555,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"East Wakefield",
+    "mz:postal_locality_alt":[
+        "Sanbornville",
+        "Union"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688689,
         102191575,
-        404476971,
         85633793,
-        102086581
+        102086581,
+        404476971,
+        85688689
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759300"
     },
     "wof:country":"US",
-    "wof:geomhash":"880a2d048d8d6ead1f22d25378676f23",
+    "wof:geomhash":"485ab3c45b553e627a29f00a8c2e2b27",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554698047,
-    "wof:lastmodified":1480911761,
+    "wof:lastmodified":1611184682,
     "wof:name":"03830",
     "wof:parent_id":404476971,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030545,
-    "geom:area_square_m":268726461.38146,
+    "geom:area_square_m":268726461.381239,
     "geom:bbox":"-75.724431,44.51137,-75.324628,44.806037",
     "geom:latitude":44.644082,
     "geom:longitude":-75.495181,
@@ -14,20 +14,25 @@
     "lbl:latitude":44.672777,
     "lbl:longitude":-75.482342,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ogdensburg",
+    "mz:postal_locality_alt":[
+        "Morristown"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404523139,
         85633793,
-        102082379
+        102082379,
+        404523139,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762931"
     },
     "wof:country":"US",
-    "wof:geomhash":"4f40523199ba5a501b50270f832816f1",
+    "wof:geomhash":"282873b05a39034cafa7d41f38025e84",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554780129,
-    "wof:lastmodified":1480794823,
+    "wof:lastmodified":1611185173,
     "wof:name":"13669",
     "wof:parent_id":404523139,
     "wof:placetype":"postalcode",

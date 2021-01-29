@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014399,
-    "geom:area_square_m":136545626.70866,
+    "geom:area_square_m":136545626.70876,
     "geom:bbox":"-91.621575,39.847798,-91.418807,40.024754",
     "geom:latitude":39.924697,
     "geom:longitude":-91.507206,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.907583,
     "lbl:longitude":-91.483476,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Taylor",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404516815,
         85633793,
-        102086171
+        102086171,
+        404516815,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785744"
     },
     "wof:country":"US",
-    "wof:geomhash":"0e246e1d2dad6627745f522bbe710551",
+    "wof:geomhash":"b97e7473a5a0b071a9ccc368ef57591c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554736021,
-    "wof:lastmodified":1480912375,
+    "wof:lastmodified":1611183046,
     "wof:name":"63471",
     "wof:parent_id":404516815,
     "wof:placetype":"postalcode",

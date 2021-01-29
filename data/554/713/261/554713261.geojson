@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012613,
-    "geom:area_square_m":129022239.698024,
+    "geom:area_square_m":129022239.697822,
     "geom:bbox":"-84.008469,34.10578,-83.815707,34.237475",
     "geom:latitude":34.177814,
     "geom:longitude":-83.908696,
@@ -14,20 +14,27 @@
     "lbl:latitude":34.178052,
     "lbl:longitude":-83.909174,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Flowery Branch",
+    "mz:postal_locality_alt":[
+        "Buford",
+        "Gainesville",
+        "Braselton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688535,
         102191575,
         85633793,
+        102083629,
         85936863,
-        102083629
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770886"
     },
     "wof:country":"US",
-    "wof:geomhash":"720628033300bfb8e5c0dc526366ca13",
+    "wof:geomhash":"702f6160b2b673caad3d911756a438ae",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554713261,
-    "wof:lastmodified":1480836744,
+    "wof:lastmodified":1611183304,
     "wof:name":"30542",
     "wof:parent_id":85936863,
     "wof:placetype":"postalcode",

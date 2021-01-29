@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013646,
-    "geom:area_square_m":118733184.923418,
+    "geom:area_square_m":118733184.923554,
     "geom:bbox":"-91.976136,45.208103,-91.77321,45.359095",
     "geom:latitude":45.277902,
     "geom:longitude":-91.85683,
@@ -14,20 +14,25 @@
     "lbl:latitude":45.27866,
     "lbl:longitude":-91.850182,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Dallas",
+    "mz:postal_locality_alt":[
+        "Hillsdale"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404492683,
         85633793,
-        102081847
+        102081847,
+        404492683,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781487"
     },
     "wof:country":"US",
-    "wof:geomhash":"bbfc3e787b3f1fccca518879278439b7",
+    "wof:geomhash":"a8bace68d92b60c616b9446ea1f2742a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554728601,
-    "wof:lastmodified":1480831137,
+    "wof:lastmodified":1611185089,
     "wof:name":"54733",
     "wof:parent_id":404492683,
     "wof:placetype":"postalcode",

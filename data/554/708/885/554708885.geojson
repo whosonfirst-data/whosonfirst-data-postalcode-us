@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035606,
-    "geom:area_square_m":346311024.239341,
+    "geom:area_square_m":346311024.239509,
     "geom:bbox":"-79.213949,38.014463,-78.90641,38.274513",
     "geom:latitude":38.133528,
     "geom:longitude":-79.085881,
@@ -13,20 +13,28 @@
     "lbl:latitude":38.134387,
     "lbl:longitude":-79.085564,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Staunton",
+    "mz:postal_locality_alt":[
+        "Mount Solon",
+        "Swoope",
+        "Weyers Cave",
+        "Verona"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688747,
         102191575,
         85633793,
+        102081057,
         101728733,
-        102081057
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12767800"
     },
     "wof:country":"US",
-    "wof:geomhash":"958310c2c916100489ba2df98381645d",
+    "wof:geomhash":"46717cc2b90e4c34044aa3e25ddb52f1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +46,7 @@
         }
     ],
     "wof:id":554708885,
-    "wof:lastmodified":1480913499,
+    "wof:lastmodified":1611182795,
     "wof:name":"24401",
     "wof:parent_id":101728733,
     "wof:placetype":"postalcode",

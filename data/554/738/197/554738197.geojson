@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024048,
-    "geom:area_square_m":228374377.291741,
+    "geom:area_square_m":228374377.291677,
     "geom:bbox":"-95.47398,39.740224,-95.265054,39.943804",
     "geom:latitude":39.825608,
     "geom:longitude":-95.374319,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.821429,
     "lbl:longitude":-95.377943,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Robinson",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404503883,
         85633793,
-        102082685
+        102082685,
+        404503883,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786885"
     },
     "wof:country":"US",
-    "wof:geomhash":"2478784ec4cee8a661cba80436c7ef17",
+    "wof:geomhash":"97230659e1dccd6c8e372f3c57aa0d20",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554738197,
-    "wof:lastmodified":1480791581,
+    "wof:lastmodified":1611183112,
     "wof:name":"66532",
     "wof:parent_id":404503883,
     "wof:placetype":"postalcode",

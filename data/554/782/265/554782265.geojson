@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001281,
-    "geom:area_square_m":13614845.957104,
+    "geom:area_square_m":13614845.957079,
     "geom:bbox":"-88.101523,30.745591,-88.049595,30.79175",
     "geom:latitude":30.770478,
     "geom:longitude":-88.078139,
@@ -13,20 +13,25 @@
     "lbl:latitude":30.769623,
     "lbl:longitude":-88.080073,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Chickasaw",
+    "mz:postal_locality_alt":[
+        "Mobile"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688675,
         102191575,
         85633793,
+        102085585,
         85913769,
-        102085585
+        85688675
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12773613"
     },
     "wof:country":"US",
-    "wof:geomhash":"46027a967e38b5a11550cff0e7148c16",
+    "wof:geomhash":"5da84d62aa72ce8021761c9cbe4bca98",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554782265,
-    "wof:lastmodified":1480815719,
+    "wof:lastmodified":1611183629,
     "wof:name":"36611",
     "wof:parent_id":85913769,
     "wof:placetype":"postalcode",

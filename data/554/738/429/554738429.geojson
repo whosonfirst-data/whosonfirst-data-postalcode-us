@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028266,
-    "geom:area_square_m":274457491.069443,
+    "geom:area_square_m":274457491.069449,
     "geom:bbox":"-96.116057,38.170641,-95.788119,38.349708",
     "geom:latitude":38.255938,
     "geom:longitude":-95.978514,
@@ -14,20 +14,22 @@
     "lbl:latitude":38.250808,
     "lbl:longitude":-95.979552,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hartford",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404504583,
         85633793,
-        102082661
+        102082661,
+        404504583,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787013"
     },
     "wof:country":"US",
-    "wof:geomhash":"bb7d5f7e95e0850cf86380d02f24db10",
+    "wof:geomhash":"f8139da1e5ea3c93c1315cb35532a11a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554738429,
-    "wof:lastmodified":1480800137,
+    "wof:lastmodified":1611183117,
     "wof:name":"66854",
     "wof:parent_id":404504583,
     "wof:placetype":"postalcode",

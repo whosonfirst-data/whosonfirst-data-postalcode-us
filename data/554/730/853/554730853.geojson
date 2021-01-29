@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031428,
-    "geom:area_square_m":282279898.827272,
+    "geom:area_square_m":282279898.827004,
     "geom:bbox":"-97.440762,43.256094,-97.191296,43.528933",
     "geom:latitude":43.416288,
     "geom:longitude":-97.311547,
@@ -14,20 +14,22 @@
     "lbl:latitude":43.422611,
     "lbl:longitude":-97.310061,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Marion",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688693,
         102191575,
-        404489307,
         85633793,
-        102086867
+        102086867,
+        404489307,
+        85688693
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782729"
     },
     "wof:country":"US",
-    "wof:geomhash":"8ba1b7507e2d00c114b4cb9648777cc0",
+    "wof:geomhash":"f59cd443366b64581b172cd8c2deef9f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554730853,
-    "wof:lastmodified":1480916972,
+    "wof:lastmodified":1611182752,
     "wof:name":"57043",
     "wof:parent_id":404489307,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03883,
-    "geom:area_square_m":368358682.604674,
+    "geom:area_square_m":368358682.60495,
     "geom:bbox":"-94.103636,39.786297,-93.80167,40.012121",
     "geom:latitude":39.898469,
     "geom:longitude":-93.944975,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.898401,
     "lbl:longitude":-93.936183,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Gallatin",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404516789,
         85633793,
-        102087493
+        102087493,
+        404516789,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786184"
     },
     "wof:country":"US",
-    "wof:geomhash":"336c09fe461d84773a6c827f7cdc9367",
+    "wof:geomhash":"342b0054cff5c70425ab865631548e15",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554736827,
-    "wof:lastmodified":1480812037,
+    "wof:lastmodified":1611183022,
     "wof:name":"64640",
     "wof:parent_id":404516789,
     "wof:placetype":"postalcode",

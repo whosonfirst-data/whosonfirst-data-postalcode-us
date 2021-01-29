@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007806,
-    "geom:area_square_m":75857292.48399,
+    "geom:area_square_m":75857292.48396,
     "geom:bbox":"-92.764539,38.161149,-92.57989,38.232322",
     "geom:latitude":38.200314,
     "geom:longitude":-92.668362,
@@ -14,20 +14,26 @@
     "lbl:latitude":38.1995,
     "lbl:longitude":-92.674809,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lake Ozark",
+    "mz:postal_locality_alt":[
+        "Eldon",
+        "Osage Beach"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404516527,
         85633793,
-        102087517
+        102087517,
+        404516527,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786342"
     },
     "wof:country":"US",
-    "wof:geomhash":"977435d77581b515170e4aa39be06edd",
+    "wof:geomhash":"88f9790f0d9d8893b1aac5ab89b19388",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554737129,
-    "wof:lastmodified":1480832275,
+    "wof:lastmodified":1611182840,
     "wof:name":"65049",
     "wof:parent_id":404516527,
     "wof:placetype":"postalcode",

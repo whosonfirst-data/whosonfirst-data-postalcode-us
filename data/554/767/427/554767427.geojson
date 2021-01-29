@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000655,
-    "geom:area_square_m":6212798.710089,
+    "geom:area_square_m":6212798.7101,
     "geom:bbox":"-77.52808,39.843344,-77.488238,39.885285",
     "geom:latitude":39.860913,
     "geom:longitude":-77.508158,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.860912,
     "lbl:longitude":-77.508159,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"South Mountain",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485319,
         85633793,
-        102081365
+        102081365,
+        404485319,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764705"
     },
     "wof:country":"US",
-    "wof:geomhash":"7b1b3ce2853bb0520d94f637c549dd1d",
+    "wof:geomhash":"e05fcdd0d90dea742ae2cb5b78255de5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554767427,
-    "wof:lastmodified":1480824800,
+    "wof:lastmodified":1611184259,
     "wof:name":"17261",
     "wof:parent_id":404485319,
     "wof:placetype":"postalcode",

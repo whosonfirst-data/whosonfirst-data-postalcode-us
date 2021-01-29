@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037146,
-    "geom:area_square_m":351628463.581829,
+    "geom:area_square_m":351628463.58153,
     "geom:bbox":"-81.721099,39.928217,-81.42981,40.141527",
     "geom:latitude":40.044985,
     "geom:longitude":-81.589397,
@@ -14,21 +14,26 @@
     "lbl:latitude":40.044987,
     "lbl:longitude":-81.58933,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cambridge",
+    "mz:postal_locality_alt":[
+        "Byesville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404525399,
         85633793,
+        102084783,
+        404525399,
         101712909,
-        102084783
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776433"
     },
     "wof:country":"US",
-    "wof:geomhash":"d07b5e865d29be5c5f4d15ce3e03096d",
+    "wof:geomhash":"34c493cf370c042ce717e56a9b2ac292",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554720719,
-    "wof:lastmodified":1480802455,
+    "wof:lastmodified":1611185486,
     "wof:name":"43725",
     "wof:parent_id":101712909,
     "wof:placetype":"postalcode",

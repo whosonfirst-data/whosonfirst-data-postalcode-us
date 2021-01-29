@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00929,
-    "geom:area_square_m":87788485.223266,
+    "geom:area_square_m":87788485.223195,
     "geom:bbox":"-79.90417,40.103974,-79.743707,40.225617",
     "geom:latitude":40.15879,
     "geom:longitude":-79.812183,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.155417,
     "lbl:longitude":-79.812946,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Belle Vernon",
+    "mz:postal_locality_alt":[
+        "Bridgeville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404487555,
         85633793,
-        102081383
+        102081383,
+        404487555,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763542"
     },
     "wof:country":"US",
-    "wof:geomhash":"c30fd8cf17f4ae1e9367a3f85b1b74ae",
+    "wof:geomhash":"d08c349b0c48159a93f36fb3bf7443aa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554703351,
-    "wof:lastmodified":1480906229,
+    "wof:lastmodified":1611184469,
     "wof:name":"15012",
     "wof:parent_id":404487555,
     "wof:placetype":"postalcode",

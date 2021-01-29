@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001732,
-    "geom:area_square_m":16218398.376716,
+    "geom:area_square_m":16218398.37673,
     "geom:bbox":"-73.354342,40.741467,-73.290969,40.784297",
     "geom:latitude":40.762784,
     "geom:longitude":-73.321809,
@@ -14,21 +14,27 @@
     "lbl:latitude":40.761136,
     "lbl:longitude":-73.32526,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Deer Park",
+    "mz:postal_locality_alt":[
+        "Bohemia",
+        "Stony Brook"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522513,
         85633793,
+        102082395,
+        404522513,
         85979783,
-        102082395
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761919"
     },
     "wof:country":"US",
-    "wof:geomhash":"de5c9465c3847f2f42d44226daf09254",
+    "wof:geomhash":"de3deba5ecd5296fe67ea1fb9b62e895",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554779867,
-    "wof:lastmodified":1480794859,
+    "wof:lastmodified":1611183972,
     "wof:name":"11729",
     "wof:parent_id":85979783,
     "wof:placetype":"postalcode",

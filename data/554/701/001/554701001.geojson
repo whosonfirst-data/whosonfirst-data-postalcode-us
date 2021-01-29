@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00392,
-    "geom:area_square_m":36476821.334298,
+    "geom:area_square_m":36476821.334308,
     "geom:bbox":"-74.145199,41.15402,-74.00454,41.213889",
     "geom:latitude":41.187956,
     "geom:longitude":-74.077839,
@@ -14,20 +14,26 @@
     "lbl:latitude":41.180177,
     "lbl:longitude":-74.102175,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pomona",
+    "mz:postal_locality_alt":[
+        "Spring Valley",
+        "Goshen"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404523097,
         85633793,
-        102082385
+        102082385,
+        404523097,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761662"
     },
     "wof:country":"US",
-    "wof:geomhash":"72aab1edfe8e7ef3fca9eedbdb27584d",
+    "wof:geomhash":"de65e172bceff179507bad564644f860",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554701001,
-    "wof:lastmodified":1480792640,
+    "wof:lastmodified":1611182624,
     "wof:name":"10970",
     "wof:parent_id":404523097,
     "wof:placetype":"postalcode",

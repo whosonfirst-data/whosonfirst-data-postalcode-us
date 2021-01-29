@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007394,
-    "geom:area_square_m":65339597.414819,
+    "geom:area_square_m":65339597.414841,
     "geom:bbox":"-73.282516,44.348648,-73.125809,44.442692",
     "geom:latitude":44.385054,
     "geom:longitude":-73.209493,
@@ -14,20 +14,25 @@
     "lbl:latitude":44.380662,
     "lbl:longitude":-73.211006,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Shelburne",
+    "mz:postal_locality_alt":[
+        "Burlington"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688763,
         102191575,
-        404527497,
         85633793,
-        102087451
+        102087451,
+        404527497,
+        85688763
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760013"
     },
     "wof:country":"US",
-    "wof:geomhash":"f924ae81d33a4e229efcf93a2519fcb4",
+    "wof:geomhash":"dadf38a9c6dff35f7702b2ed7069e10b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554698997,
-    "wof:lastmodified":1480782817,
+    "wof:lastmodified":1611184678,
     "wof:name":"05482",
     "wof:parent_id":404527497,
     "wof:placetype":"postalcode",

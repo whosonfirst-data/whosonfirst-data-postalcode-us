@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002249,
-    "geom:area_square_m":21598003.109213,
+    "geom:area_square_m":21598003.109203,
     "geom:bbox":"-77.157547,39.022454,-77.084457,39.081518",
     "geom:latitude":39.051507,
     "geom:longitude":-77.124565,
@@ -13,20 +13,27 @@
     "lbl:latitude":39.051995,
     "lbl:longitude":-77.121926,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Rockville",
+    "mz:postal_locality_alt":[
+        "North Bethesda",
+        "Bethesda",
+        "Gaithersburg"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688501,
         102191575,
         85633793,
+        102082719,
         85950311,
-        102082719
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766352"
     },
     "wof:country":"US",
-    "wof:geomhash":"99fa054aceaf76097f0017b9fba5991c",
+    "wof:geomhash":"349653fe6dd74d4424deb049e3bb67bd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +45,7 @@
         }
     ],
     "wof:id":554707057,
-    "wof:lastmodified":1480795126,
+    "wof:lastmodified":1611183164,
     "wof:name":"20852",
     "wof:parent_id":85950311,
     "wof:placetype":"postalcode",

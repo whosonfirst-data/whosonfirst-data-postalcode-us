@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003076,
-    "geom:area_square_m":28358257.850916,
+    "geom:area_square_m":28358257.850955,
     "geom:bbox":"-80.182868,41.75481,-80.078991,41.812523",
     "geom:latitude":41.787677,
     "geom:longitude":-80.127562,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.782549,
     "lbl:longitude":-80.126018,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Venango",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404486285,
         85633793,
-        102080911
+        102080911,
+        404486285,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764318"
     },
     "wof:country":"US",
-    "wof:geomhash":"3bad90d7d7d17eb92b69c168e528368d",
+    "wof:geomhash":"861cfe194e9433598d3378b57f773dae",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554704539,
-    "wof:lastmodified":1480906217,
+    "wof:lastmodified":1611184505,
     "wof:name":"16440",
     "wof:parent_id":404486285,
     "wof:placetype":"postalcode",

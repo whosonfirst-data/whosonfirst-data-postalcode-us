@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007298,
-    "geom:area_square_m":66576637.259816,
+    "geom:area_square_m":66576637.259763,
     "geom:bbox":"-71.430389,42.412715,-71.289302,42.50455",
     "geom:latitude":42.46226,
     "geom:longitude":-71.364238,
@@ -14,20 +14,25 @@
     "lbl:latitude":42.462911,
     "lbl:longitude":-71.364496,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Concord",
+    "mz:postal_locality_alt":[
+        "Acton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476481,
         85633793,
-        102084643
+        102084643,
+        404476481,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758555"
     },
     "wof:country":"US",
-    "wof:geomhash":"7bba635f915a2e1136835d0577fb5d50",
+    "wof:geomhash":"50e92e1d4c24cb0edce606aeb6566bd3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554697209,
-    "wof:lastmodified":1480799917,
+    "wof:lastmodified":1611184658,
     "wof:name":"01742",
     "wof:parent_id":404476481,
     "wof:placetype":"postalcode",

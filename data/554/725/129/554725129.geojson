@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002073,
-    "geom:area_square_m":18780710.18851,
+    "geom:area_square_m":18780710.188501,
     "geom:bbox":"-85.711907,42.849081,-85.676988,42.941947",
     "geom:latitude":42.897498,
     "geom:longitude":-85.692948,
@@ -13,21 +13,26 @@
     "lbl:latitude":42.897764,
     "lbl:longitude":-85.693418,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wyoming",
+    "mz:postal_locality_alt":[
+        "Grand Rapids"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404507949,
         85633793,
+        102083023,
+        404507949,
         85951367,
-        102083023
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779402"
     },
     "wof:country":"US",
-    "wof:geomhash":"a4a59870ed54e26bb1efd67df5eb9373",
+    "wof:geomhash":"497f4c7182c64ffe9ca8c49dd347fc0e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554725129,
-    "wof:lastmodified":1480838019,
+    "wof:lastmodified":1611183267,
     "wof:name":"49509",
     "wof:parent_id":85951367,
     "wof:placetype":"postalcode",

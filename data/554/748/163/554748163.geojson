@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003451,
-    "geom:area_square_m":32605814.313989,
+    "geom:area_square_m":32605814.314042,
     "geom:bbox":"-105.135469,40.134133,-105.055322,40.20329",
     "geom:latitude":40.164737,
     "geom:longitude":-105.102933,
@@ -13,20 +13,25 @@
     "lbl:latitude":40.164837,
     "lbl:longitude":-105.103178,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Longmont",
+    "mz:postal_locality_alt":[
+        "Severance"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688603,
         102191575,
         85633793,
+        102085251,
         85929115,
-        102085251
+        85688603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12793091"
     },
     "wof:country":"US",
-    "wof:geomhash":"119a551469f97c37d6cb4cf16d37acc3",
+    "wof:geomhash":"9f65761cf431716009b082a9a99741a8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554748163,
-    "wof:lastmodified":1480913967,
+    "wof:lastmodified":1611183848,
     "wof:name":"80501",
     "wof:parent_id":85929115,
     "wof:placetype":"postalcode",

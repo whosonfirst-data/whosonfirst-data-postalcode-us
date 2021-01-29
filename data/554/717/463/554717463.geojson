@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000951,
-    "geom:area_square_m":9602632.514928,
+    "geom:area_square_m":9602632.51495,
     "geom:bbox":"-88.32652,35.15971,-88.257616,35.246092",
     "geom:latitude":35.221261,
     "geom:longitude":-88.299105,
@@ -14,20 +14,25 @@
     "lbl:latitude":35.22441,
     "lbl:longitude":-88.308574,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Crump",
+    "mz:postal_locality_alt":[
+        "Jackson"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688701,
         102191575,
         85633793,
+        102086329,
         101722591,
-        102086329
+        85688701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12774402"
     },
     "wof:country":"US",
-    "wof:geomhash":"172bda0df728c91cdc62466a751da6f8",
+    "wof:geomhash":"aae94938efecc0f081f231a58c828b03",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554717463,
-    "wof:lastmodified":1480916011,
+    "wof:lastmodified":1611184999,
     "wof:name":"38327",
     "wof:parent_id":101722591,
     "wof:placetype":"postalcode",

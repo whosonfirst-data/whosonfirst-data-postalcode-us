@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009575,
-    "geom:area_square_m":79153668.246202,
+    "geom:area_square_m":79153668.246197,
     "geom:bbox":"-122.125612,47.977858,-122.008382,48.123455",
     "geom:latitude":48.042396,
     "geom:longitude":-122.068985,
@@ -14,20 +14,25 @@
     "lbl:latitude":48.04417,
     "lbl:longitude":-122.077404,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lake Stevens",
+    "mz:postal_locality_alt":[
+        "Everett"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688623,
         102191575,
         85633793,
+        102087537,
         101730541,
-        102087537
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12799045"
     },
     "wof:country":"US",
-    "wof:geomhash":"5e915c8f064e3e86a428c83263372e3d",
+    "wof:geomhash":"cbe5d526e73b00782afc0cd8a9a74b83",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554755575,
-    "wof:lastmodified":1480788591,
+    "wof:lastmodified":1611182581,
     "wof:name":"98258",
     "wof:parent_id":101730541,
     "wof:placetype":"postalcode",

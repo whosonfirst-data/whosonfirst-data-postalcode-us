@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0402,
-    "geom:area_square_m":369745232.868903,
+    "geom:area_square_m":369745232.868495,
     "geom:bbox":"-122.710854,41.814305,-122.284858,42.009517",
     "geom:latitude":41.940786,
     "geom:longitude":-122.520063,
@@ -14,19 +14,24 @@
     "lbl:latitude":41.93095,
     "lbl:longitude":-122.510081,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hornbrook",
+    "mz:postal_locality_alt":[
+        "Hyampom"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688637,
-        102081669
+        102081669,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12798152"
     },
     "wof:country":"US",
-    "wof:geomhash":"e94fd297520f081ff68b37acf4d433f9",
+    "wof:geomhash":"4d5a0ceec137c55a2558709b16bed0be",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554754309,
-    "wof:lastmodified":1480824394,
+    "wof:lastmodified":1611182867,
     "wof:name":"96044",
     "wof:parent_id":102081669,
     "wof:placetype":"postalcode",

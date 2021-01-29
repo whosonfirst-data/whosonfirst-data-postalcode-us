@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011019,
-    "geom:area_square_m":111002849.668227,
+    "geom:area_square_m":111002849.668224,
     "geom:bbox":"-82.574296,35.387567,-82.380363,35.521149",
     "geom:latitude":35.445859,
     "geom:longitude":-82.466642,
@@ -14,20 +14,27 @@
     "lbl:latitude":35.451829,
     "lbl:longitude":-82.445702,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fletcher",
+    "mz:postal_locality_alt":[
+        "Arden",
+        "Fairview",
+        "Hendersonville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688773,
         102191575,
         85633793,
+        102080983,
         85981541,
-        102080983
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12769880"
     },
     "wof:country":"US",
-    "wof:geomhash":"760e03a76ead3868257c66181a88174e",
+    "wof:geomhash":"923adbe407a7d80e4cb02db43a6bbf34",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554711743,
-    "wof:lastmodified":1480903311,
+    "wof:lastmodified":1611185342,
     "wof:name":"28732",
     "wof:parent_id":85981541,
     "wof:placetype":"postalcode",

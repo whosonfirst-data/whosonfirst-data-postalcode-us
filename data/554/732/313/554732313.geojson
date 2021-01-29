@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0356,
-    "geom:area_square_m":295824614.943302,
+    "geom:area_square_m":295824614.943311,
     "geom:bbox":"-100.203359,47.617323,-99.983906,47.91197",
     "geom:latitude":47.776154,
     "geom:longitude":-100.108237,
@@ -14,20 +14,22 @@
     "lbl:latitude":47.782028,
     "lbl:longitude":-100.101707,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Martin",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688525,
         102191575,
-        404481765,
         85633793,
-        102082099
+        102082099,
+        404481765,
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12783477"
     },
     "wof:country":"US",
-    "wof:geomhash":"3eb8df7d3632e90065bb0d807bd7e3b1",
+    "wof:geomhash":"ee2cd4a9fd2fa7428b975542a07fca79",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554732313,
-    "wof:lastmodified":1480832851,
+    "wof:lastmodified":1611184384,
     "wof:name":"58758",
     "wof:parent_id":404481765,
     "wof:placetype":"postalcode",

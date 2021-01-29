@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042901,
-    "geom:area_square_m":464374080.17758,
+    "geom:area_square_m":464374080.177437,
     "geom:bbox":"-96.988676,28.725046,-96.695092,29.073522",
     "geom:latitude":28.909241,
     "geom:longitude":-96.847126,
@@ -14,20 +14,25 @@
     "lbl:latitude":28.905028,
     "lbl:longitude":-96.829368,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Inez",
+    "mz:postal_locality_alt":[
+        "Victoria"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102081983,
         101726907,
-        102081983
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12791835"
     },
     "wof:country":"US",
-    "wof:geomhash":"27064b136c02751128a446f5706e6766",
+    "wof:geomhash":"ab25336f2b67c1f8cfc43dfd31ab050c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554746483,
-    "wof:lastmodified":1480903808,
+    "wof:lastmodified":1611184000,
     "wof:name":"77968",
     "wof:parent_id":101726907,
     "wof:placetype":"postalcode",

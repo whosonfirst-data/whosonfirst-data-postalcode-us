@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014849,
-    "geom:area_square_m":141486787.331687,
+    "geom:area_square_m":141486787.331756,
     "geom:bbox":"-95.377152,39.493566,-95.217616,39.696647",
     "geom:latitude":39.595228,
     "geom:longitude":-95.303598,
@@ -14,20 +14,27 @@
     "lbl:latitude":39.600303,
     "lbl:longitude":-95.307974,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lancaster",
+    "mz:postal_locality_alt":[
+        "Bendena",
+        "Lacygne",
+        "Huron"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404503685,
         85633793,
-        102082665
+        102082665,
+        404503685,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786728"
     },
     "wof:country":"US",
-    "wof:geomhash":"0bf30c9f94325d1f35b41294e169a8ce",
+    "wof:geomhash":"0f6f62f22f7454e8e9e7ea792655878f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554737891,
-    "wof:lastmodified":1480793548,
+    "wof:lastmodified":1611182858,
     "wof:name":"66041",
     "wof:parent_id":404503685,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01463,
-    "geom:area_square_m":135888118.154573,
+    "geom:area_square_m":135888118.154539,
     "geom:bbox":"-83.054409,41.213002,-82.844356,41.39275",
     "geom:latitude":41.306981,
     "geom:longitude":-82.959609,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.311868,
     "lbl:longitude":-82.957583,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Clyde",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404526809,
         85633793,
-        102083653
+        102083653,
+        404526809,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776290"
     },
     "wof:country":"US",
-    "wof:geomhash":"0a020ded753d500b0ebf671ebece30da",
+    "wof:geomhash":"f2eebea5d7ddf8cc2aa72280b79ed075",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554720539,
-    "wof:lastmodified":1480839178,
+    "wof:lastmodified":1611185469,
     "wof:name":"43410",
     "wof:parent_id":404526809,
     "wof:placetype":"postalcode",

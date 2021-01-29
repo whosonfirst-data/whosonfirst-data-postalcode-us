@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019595,
-    "geom:area_square_m":178614929.698569,
+    "geom:area_square_m":178614929.698459,
     "geom:bbox":"-75.86968,42.405069,-75.67656,42.619076",
     "geom:latitude":42.509631,
     "geom:longitude":-75.779641,
@@ -14,20 +14,22 @@
     "lbl:latitude":42.505085,
     "lbl:longitude":-75.77697,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mc Donough",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522137,
         85633793,
-        102082367
+        102082367,
+        404522137,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763006"
     },
     "wof:country":"US",
-    "wof:geomhash":"74d412fa126928b56f4dc08f2a4adc0c",
+    "wof:geomhash":"a6c52186c0236b52ceaeeda84617a28c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554702629,
-    "wof:lastmodified":1480838741,
+    "wof:lastmodified":1611184141,
     "wof:name":"13801",
     "wof:parent_id":404522137,
     "wof:placetype":"postalcode",

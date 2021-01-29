@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001245,
-    "geom:area_square_m":12787925.198999,
+    "geom:area_square_m":12787925.198997,
     "geom:bbox":"-118.405002,33.804118,-118.370377,33.858076",
     "geom:latitude":33.829628,
     "geom:longitude":-118.387169,
@@ -13,20 +13,25 @@
     "lbl:latitude":33.830006,
     "lbl:longitude":-118.387124,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Redondo Beach",
+    "mz:postal_locality_alt":[
+        "Hermosa Beach"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086957,
         85923467,
-        102086957
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795748"
     },
     "wof:country":"US",
-    "wof:geomhash":"5d24b7e879f0d2fde1eca505e07dbbbb",
+    "wof:geomhash":"a0894c2430b7bc8cc7f7e1f744ea45bb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554784053,
-    "wof:lastmodified":1480912605,
+    "wof:lastmodified":1611183937,
     "wof:name":"90277",
     "wof:parent_id":85923467,
     "wof:placetype":"postalcode",

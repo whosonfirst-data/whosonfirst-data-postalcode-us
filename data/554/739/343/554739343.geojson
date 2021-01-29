@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.072413,
-    "geom:area_square_m":711021918.019051,
+    "geom:area_square_m":711021918.019038,
     "geom:bbox":"-100.107397,37.284569,-99.785149,37.580658",
     "geom:latitude":37.431631,
     "geom:longitude":-99.965452,
@@ -14,20 +14,25 @@
     "lbl:latitude":37.435511,
     "lbl:longitude":-99.96837,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Minneola",
+    "mz:postal_locality_alt":[
+        "Bloom"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404502517,
         85633793,
-        102083451
+        102083451,
+        404502517,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787446"
     },
     "wof:country":"US",
-    "wof:geomhash":"352872632763019d426026c0be46125e",
+    "wof:geomhash":"7a0b22ee050bb5c0165cb055f0b94761",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554739343,
-    "wof:lastmodified":1480835502,
+    "wof:lastmodified":1611182681,
     "wof:name":"67865",
     "wof:parent_id":404502517,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004628,
-    "geom:area_square_m":47043418.526733,
+    "geom:area_square_m":47043418.526743,
     "geom:bbox":"-76.879766,34.688369,-76.669808,34.723829",
     "geom:latitude":34.706323,
     "geom:longitude":-76.786626,
@@ -14,19 +14,24 @@
     "lbl:latitude":34.712151,
     "lbl:longitude":-76.793416,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Atlantic Beach",
+    "mz:postal_locality_alt":[
+        "Pine Knoll Shrs"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688773,
-        102080875
+        102080875,
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12769698"
     },
     "wof:country":"US",
-    "wof:geomhash":"e9d01d0219cd4a72a5553c29419e1436",
+    "wof:geomhash":"c11581677bd528a14888f4e5b5fd83da",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554781027,
-    "wof:lastmodified":1480904313,
+    "wof:lastmodified":1611184829,
     "wof:name":"28512",
     "wof:parent_id":102080875,
     "wof:placetype":"postalcode",

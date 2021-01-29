@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003589,
-    "geom:area_square_m":35641646.278763,
+    "geom:area_square_m":35641646.278777,
     "geom:bbox":"-84.197632,36.536601,-84.020983,36.591845",
     "geom:latitude":36.577041,
     "geom:longitude":-84.125968,
@@ -14,20 +14,25 @@
     "lbl:latitude":36.577303,
     "lbl:longitude":-84.12617,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Jellico",
+    "mz:postal_locality_alt":[
+        "Jacksboro"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688701,
         102191575,
         85633793,
+        102086391,
         101722413,
-        102086391
+        85688701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12774112"
     },
     "wof:country":"US",
-    "wof:geomhash":"66b229bf7610971555dcb8a62b36082d",
+    "wof:geomhash":"db7e90b70a23118753c141fd5683872f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554717027,
-    "wof:lastmodified":1480915596,
+    "wof:lastmodified":1611185022,
     "wof:name":"37762",
     "wof:parent_id":101722413,
     "wof:placetype":"postalcode",

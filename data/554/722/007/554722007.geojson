@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032139,
-    "geom:area_square_m":304748588.836959,
+    "geom:area_square_m":304748588.836891,
     "geom:bbox":"-83.972484,39.795876,-83.672897,40.054756",
     "geom:latitude":39.928271,
     "geom:longitude":-83.818353,
@@ -13,20 +13,25 @@
     "lbl:latitude":39.860825,
     "lbl:longitude":-83.752812,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Springfield",
+    "mz:postal_locality_alt":[
+        "North Hampton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404523635,
         85633793,
-        102083685
+        102083685,
+        404523635,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777322"
     },
     "wof:country":"US",
-    "wof:geomhash":"e7d205cb829dff11d1d81c695f35b179",
+    "wof:geomhash":"d57e3eab5a9d220af9960624c719d70c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554722007,
-    "wof:lastmodified":1480835537,
+    "wof:lastmodified":1611183221,
     "wof:name":"45502",
     "wof:parent_id":404523635,
     "wof:placetype":"postalcode",

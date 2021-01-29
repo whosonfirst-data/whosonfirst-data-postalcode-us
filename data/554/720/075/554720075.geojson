@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013697,
-    "geom:area_square_m":135369750.982648,
+    "geom:area_square_m":135369750.982539,
     "geom:bbox":"-84.624515,36.867133,-84.416816,37.00856",
     "geom:latitude":36.939316,
     "geom:longitude":-84.535714,
@@ -14,19 +14,24 @@
     "lbl:latitude":36.955307,
     "lbl:longitude":-84.53504,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Burnside",
+    "mz:postal_locality_alt":[
+        "Somerset"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688641,
-        102084701
+        102084701,
+        85688641
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776007"
     },
     "wof:country":"US",
-    "wof:geomhash":"955b700b454e5f2934863bd70e85e1e2",
+    "wof:geomhash":"6e71eb9f28d1b7e54987072ad131c92b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554720075,
-    "wof:lastmodified":1480810686,
+    "wof:lastmodified":1611185476,
     "wof:name":"42519",
     "wof:parent_id":102084701,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.056817,
-    "geom:area_square_m":591173313.207479,
+    "geom:area_square_m":591173313.20769,
     "geom:bbox":"-96.141278,32.539588,-95.858106,32.873064",
     "geom:latitude":32.704558,
     "geom:longitude":-95.996559,
@@ -14,20 +14,25 @@
     "lbl:latitude":32.703269,
     "lbl:longitude":-95.994666,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wills Point",
+    "mz:postal_locality_alt":[
+        "Mesquite"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102081947,
         101725225,
-        102081947
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12790428"
     },
     "wof:country":"US",
-    "wof:geomhash":"1712bbe3342981941ecaede1114f2734",
+    "wof:geomhash":"b33202869b58c747028e8c0db8d246a2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554744361,
-    "wof:lastmodified":1480903336,
+    "wof:lastmodified":1611184730,
     "wof:name":"75169",
     "wof:parent_id":101725225,
     "wof:placetype":"postalcode",

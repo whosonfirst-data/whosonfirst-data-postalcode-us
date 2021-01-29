@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000726,
-    "geom:area_square_m":6783297.447637,
+    "geom:area_square_m":6783297.447636,
     "geom:bbox":"-72.987006,40.945234,-72.954587,40.975621",
     "geom:latitude":40.962291,
     "geom:longitude":-72.971126,
@@ -14,21 +14,27 @@
     "lbl:latitude":40.962028,
     "lbl:longitude":-72.971008,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Sound Beach",
+    "mz:postal_locality_alt":[
+        "Rocky Point",
+        "West Babylon"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404521441,
         85633793,
+        102082395,
+        404521441,
         85979917,
-        102082395
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761972"
     },
     "wof:country":"US",
-    "wof:geomhash":"c4f66f9d955ecc4527f5f8238170b21a",
+    "wof:geomhash":"4c50b0b59dff01f55cd16ecd421026ad",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554779965,
-    "wof:lastmodified":1480794862,
+    "wof:lastmodified":1611183963,
     "wof:name":"11789",
     "wof:parent_id":85979917,
     "wof:placetype":"postalcode",

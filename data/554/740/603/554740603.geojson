@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.087335,
-    "geom:area_square_m":804728362.98947,
+    "geom:area_square_m":804728362.989586,
     "geom:bbox":"-103.519101,41.654484,-103.087605,42.003245",
     "geom:latitude":41.825696,
     "geom:longitude":-103.288378,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.821808,
     "lbl:longitude":-103.29016,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bayard",
+    "mz:postal_locality_alt":[
+        "Bridgeport"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688563,
         102191575,
-        404520207,
         85633793,
-        102083475
+        102083475,
+        404520207,
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12788067"
     },
     "wof:country":"US",
-    "wof:geomhash":"7e2bd571cfca76ca7bca979ef4eb001d",
+    "wof:geomhash":"1f1b5c60f08d5f6c5b508bea59c7d978",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554740603,
-    "wof:lastmodified":1480839402,
+    "wof:lastmodified":1611183397,
     "wof:name":"69334",
     "wof:parent_id":404520207,
     "wof:placetype":"postalcode",

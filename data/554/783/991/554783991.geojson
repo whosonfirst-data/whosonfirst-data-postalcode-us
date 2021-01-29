@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002577,
-    "geom:area_square_m":26385115.959256,
+    "geom:area_square_m":26385115.959246,
     "geom:bbox":"-118.442378,34.067036,-118.389672,34.135477",
     "geom:latitude":34.101056,
     "geom:longitude":-118.414734,
@@ -13,20 +13,25 @@
     "lbl:latitude":34.100517,
     "lbl:longitude":-118.41463,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Beverly Hills",
+    "mz:postal_locality_alt":[
+        "Los Angeles"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086957,
         85923517,
-        102086957
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795711"
     },
     "wof:country":"US",
-    "wof:geomhash":"1153ab571285d8e7dd92a2ea8a556d17",
+    "wof:geomhash":"018c050864ddce0fa31909bc06f7e91f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554783991,
-    "wof:lastmodified":1480912609,
+    "wof:lastmodified":1611183872,
     "wof:name":"90210",
     "wof:parent_id":85923517,
     "wof:placetype":"postalcode",

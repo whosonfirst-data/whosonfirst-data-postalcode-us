@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044635,
-    "geom:area_square_m":412932383.394383,
+    "geom:area_square_m":412932383.394322,
     "geom:bbox":"-98.642244,41.451658,-98.291219,41.697395",
     "geom:latitude":41.567565,
     "geom:longitude":-98.500591,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.567553,
     "lbl:longitude":-98.500538,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Greeley",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688563,
         102191575,
-        404519289,
         85633793,
-        102082785
+        102082785,
+        404519289,
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787884"
     },
     "wof:country":"US",
-    "wof:geomhash":"dfedbbe8f72cd804f4459a374a4547e0",
+    "wof:geomhash":"9177d3ed4fe04d2cf00e85b6bab5de94",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554740215,
-    "wof:lastmodified":1480794665,
+    "wof:lastmodified":1611183410,
     "wof:name":"68842",
     "wof:parent_id":404519289,
     "wof:placetype":"postalcode",

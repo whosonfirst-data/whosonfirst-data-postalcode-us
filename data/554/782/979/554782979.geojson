@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001121,
-    "geom:area_square_m":10128966.432071,
+    "geom:area_square_m":10128966.432081,
     "geom:bbox":"-87.988187,43.025975,-87.946295,43.062451",
     "geom:latitude":43.046642,
     "geom:longitude":-87.965648,
@@ -13,21 +13,23 @@
     "lbl:latitude":43.047072,
     "lbl:longitude":-87.967198,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Milwaukee",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404492091,
         85633793,
+        102081837,
+        404492091,
         101732987,
-        102081837
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12780906"
     },
     "wof:country":"US",
-    "wof:geomhash":"a9ec45db7bdb38e62d21dc9c912d787a",
+    "wof:geomhash":"4a922659cd0430b64c3979c5d0e1be60",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +42,7 @@
         }
     ],
     "wof:id":554782979,
-    "wof:lastmodified":1480823414,
+    "wof:lastmodified":1611183613,
     "wof:name":"53208",
     "wof:parent_id":101732987,
     "wof:placetype":"postalcode",

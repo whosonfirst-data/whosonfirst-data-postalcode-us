@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002154,
-    "geom:area_square_m":20239817.139812,
+    "geom:area_square_m":20239817.139821,
     "geom:bbox":"-74.213164,40.509757,-74.145088,40.578411",
     "geom:latitude":40.544853,
     "geom:longitude":-74.181535,
@@ -14,21 +14,23 @@
     "lbl:latitude":40.545237,
     "lbl:longitude":-74.180443,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Staten Island",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404521211,
         85633793,
+        102082361,
+        404521211,
         85977539,
-        102082361
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761493"
     },
     "wof:country":"US",
-    "wof:geomhash":"57c5779775812dbbc37a692dfdbb2822",
+    "wof:geomhash":"3d66852a792b8524a881ae75a9e66fed",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +43,7 @@
         }
     ],
     "wof:id":554779387,
-    "wof:lastmodified":1480830977,
+    "wof:lastmodified":1611183989,
     "wof:name":"10312",
     "wof:parent_id":85977539,
     "wof:placetype":"postalcode",

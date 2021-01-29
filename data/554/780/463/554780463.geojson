@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002386,
-    "geom:area_square_m":22772672.060513,
+    "geom:area_square_m":22772672.060487,
     "geom:bbox":"-76.174611,39.436651,-76.060301,39.504562",
     "geom:latitude":39.474563,
     "geom:longitude":-76.119173,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.488112,
     "lbl:longitude":-76.14452,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Aberdeen Proving Ground",
+    "mz:postal_locality_alt":[
+        "Aberdeen Prv Grd"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688501,
         102191575,
         85633793,
+        102082727,
         85949827,
-        102082727
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766402"
     },
     "wof:country":"US",
-    "wof:geomhash":"ccd33533c431e847573f26c1a3633930",
+    "wof:geomhash":"cf9aba9d00d31acd31f958bb4a1bc034",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554780463,
-    "wof:lastmodified":1480794505,
+    "wof:lastmodified":1611185168,
     "wof:name":"21005",
     "wof:parent_id":85949827,
     "wof:placetype":"postalcode",

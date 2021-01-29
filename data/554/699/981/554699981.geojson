@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001317,
-    "geom:area_square_m":12250112.458655,
+    "geom:area_square_m":12250112.458649,
     "geom:bbox":"-74.508608,41.200155,-74.464932,41.269129",
     "geom:latitude":41.23862,
     "geom:longitude":-74.487425,
@@ -14,21 +14,26 @@
     "lbl:latitude":41.242216,
     "lbl:longitude":-74.486108,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Glenwood",
+    "mz:postal_locality_alt":[
+        "Vernon"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478483,
         85633793,
+        102086779,
+        404478483,
         85976267,
-        102086779
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760739"
     },
     "wof:country":"US",
-    "wof:geomhash":"570d2739f67962c83902115ba6336db9",
+    "wof:geomhash":"701e58c1dfbb2d2ccacb876aadfb8bfd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554699981,
-    "wof:lastmodified":1480914755,
+    "wof:lastmodified":1611184634,
     "wof:name":"07418",
     "wof:parent_id":85976267,
     "wof:placetype":"postalcode",

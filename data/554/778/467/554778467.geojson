@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00185,
-    "geom:area_square_m":17098964.750373,
+    "geom:area_square_m":17098964.75038,
     "geom:bbox":"-70.467605,41.586336,-70.409938,41.657149",
     "geom:latitude":41.623247,
     "geom:longitude":-70.440533,
@@ -14,21 +14,26 @@
     "lbl:latitude":41.624054,
     "lbl:longitude":-70.439397,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cotuit",
+    "mz:postal_locality_alt":[
+        "South Harwich"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404475893,
         85633793,
+        102084379,
+        404475893,
         85950321,
-        102084379
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758907"
     },
     "wof:country":"US",
-    "wof:geomhash":"3c4db3c7140b12e0f60b1f04555c3b44",
+    "wof:geomhash":"443046ca9d59b001f4d1ec7150598009",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554778467,
-    "wof:lastmodified":1480802730,
+    "wof:lastmodified":1611183441,
     "wof:name":"02635",
     "wof:parent_id":85950321,
     "wof:placetype":"postalcode",

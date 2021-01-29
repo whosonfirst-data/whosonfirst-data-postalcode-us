@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010611,
-    "geom:area_square_m":107781577.485025,
+    "geom:area_square_m":107781577.48511,
     "geom:bbox":"-82.299514,34.701341,-82.146792,34.830671",
     "geom:latitude":34.769139,
     "geom:longitude":-82.224789,
@@ -13,19 +13,26 @@
     "lbl:latitude":34.767679,
     "lbl:longitude":-82.225003,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Simpsonville",
+    "mz:postal_locality_alt":[
+        "Greenville",
+        "Greer",
+        "Fountain Inn"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688683,
-        102085747
+        102085747,
+        85688683
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770361"
     },
     "wof:country":"US",
-    "wof:geomhash":"539f55e7ec3a133b800763b841f808b8",
+    "wof:geomhash":"0459cb97f8c80b65111f0e31672018d2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +43,7 @@
         }
     ],
     "wof:id":554712469,
-    "wof:lastmodified":1480814011,
+    "wof:lastmodified":1611183728,
     "wof:name":"29681",
     "wof:parent_id":102085747,
     "wof:placetype":"postalcode",

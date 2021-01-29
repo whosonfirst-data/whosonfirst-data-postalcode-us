@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004177,
-    "geom:area_square_m":38855420.138356,
+    "geom:area_square_m":38855420.138344,
     "geom:bbox":"-73.122453,41.168605,-72.984234,41.252309",
     "geom:latitude":41.213823,
     "geom:longitude":-73.05077,
@@ -14,21 +14,27 @@
     "lbl:latitude":41.21892,
     "lbl:longitude":-73.052454,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Milford",
+    "mz:postal_locality_alt":[
+        "Fairfield",
+        "Southport"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688629,
         102191575,
-        404495783,
         85633793,
+        102086923,
+        404495783,
         85930905,
-        102086923
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760416"
     },
     "wof:country":"US",
-    "wof:geomhash":"58361b8ad7b9f59bff569382e0db7225",
+    "wof:geomhash":"b1dce9e372c4e231895ef3e4703d828b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554779013,
-    "wof:lastmodified":1480916211,
+    "wof:lastmodified":1611183967,
     "wof:name":"06460",
     "wof:parent_id":85930905,
     "wof:placetype":"postalcode",

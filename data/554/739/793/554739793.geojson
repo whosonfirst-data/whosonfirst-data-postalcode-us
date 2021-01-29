@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010374,
-    "geom:area_square_m":97924204.265892,
+    "geom:area_square_m":97924204.265938,
     "geom:bbox":"-95.860328,40.174608,-95.709483,40.290925",
     "geom:latitude":40.238678,
     "geom:longitude":-95.773235,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.238673,
     "lbl:longitude":-95.773233,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Stella",
+    "mz:postal_locality_alt":[
+        "Table Rock"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688563,
         102191575,
-        404519123,
         85633793,
-        102082741
+        102082741,
+        404519123,
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787680"
     },
     "wof:country":"US",
-    "wof:geomhash":"1efc02b10f044408fd77da8eda159031",
+    "wof:geomhash":"b4bfa64ea6fe0aaf6f0ecd68204cde50",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554739793,
-    "wof:lastmodified":1480836560,
+    "wof:lastmodified":1611182666,
     "wof:name":"68442",
     "wof:parent_id":404519123,
     "wof:placetype":"postalcode",

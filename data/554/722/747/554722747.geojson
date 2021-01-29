@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008757,
-    "geom:area_square_m":81127410.037399,
+    "geom:area_square_m":81127410.037429,
     "geom:bbox":"-85.924591,41.434909,-85.76956,41.522472",
     "geom:latitude":41.479524,
     "geom:longitude":-85.849219,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.479523,
     "lbl:longitude":-85.849219,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"New Paris",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404499943,
         85633793,
-        102086257
+        102086257,
+        404499943,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777803"
     },
     "wof:country":"US",
-    "wof:geomhash":"4e56814dd4135682737c54eb084a1602",
+    "wof:geomhash":"06fecb1e545e1b7fdb5b02a5c67ff27e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554722747,
-    "wof:lastmodified":1480914510,
+    "wof:lastmodified":1611183226,
     "wof:name":"46553",
     "wof:parent_id":404499943,
     "wof:placetype":"postalcode",

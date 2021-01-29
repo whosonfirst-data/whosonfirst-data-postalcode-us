@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001728,
-    "geom:area_square_m":17011551.223283,
+    "geom:area_square_m":17011551.223272,
     "geom:bbox":"-121.951968,37.223125,-121.89625,37.286703",
     "geom:latitude":37.256767,
     "geom:longitude":-121.922762,
@@ -13,20 +13,25 @@
     "lbl:latitude":37.256765,
     "lbl:longitude":-121.922762,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"San Jose",
+    "mz:postal_locality_alt":[
+        "Los Gatos"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102081673,
         85925497,
-        102081673
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12797575"
     },
     "wof:country":"US",
-    "wof:geomhash":"5e80e69573ba97b42855cb596dcc32e8",
+    "wof:geomhash":"b4c1819319a527acee05342b3f2d7943",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554753377,
-    "wof:lastmodified":1480829310,
+    "wof:lastmodified":1611182944,
     "wof:name":"95124",
     "wof:parent_id":85925497,
     "wof:placetype":"postalcode",

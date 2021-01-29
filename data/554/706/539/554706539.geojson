@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006154,
-    "geom:area_square_m":58150642.729104,
+    "geom:area_square_m":58150642.729116,
     "geom:bbox":"-75.943437,40.120569,-75.847653,40.220169",
     "geom:latitude":40.17118,
     "geom:longitude":-75.892398,
@@ -14,21 +14,23 @@
     "lbl:latitude":40.17554,
     "lbl:longitude":-75.894751,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Morgantown",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404484531,
         85633793,
+        102080991,
+        404484531,
         101716899,
-        102080991
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765711"
     },
     "wof:country":"US",
-    "wof:geomhash":"833c617e0698a69773474ef454809e27",
+    "wof:geomhash":"809f800152ac166436c7d101c3c09a66",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +43,7 @@
         }
     ],
     "wof:id":554706539,
-    "wof:lastmodified":1480903401,
+    "wof:lastmodified":1611182701,
     "wof:name":"19543",
     "wof:parent_id":101716899,
     "wof:placetype":"postalcode",

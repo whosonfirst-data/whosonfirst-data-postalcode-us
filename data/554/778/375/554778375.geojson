@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001234,
-    "geom:area_square_m":11284673.730091,
+    "geom:area_square_m":11284673.73008,
     "geom:bbox":"-71.042794,42.26348,-70.981944,42.313598",
     "geom:latitude":42.292733,
     "geom:longitude":-71.020988,
@@ -13,21 +13,28 @@
     "lbl:latitude":42.293327,
     "lbl:longitude":-71.018193,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Quincy",
+    "mz:postal_locality_alt":[
+        "North Quincy",
+        "Cambridge",
+        "Boston"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476591,
         85633793,
+        102084403,
+        404476591,
         85950429,
-        102084403
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758756"
     },
     "wof:country":"US",
-    "wof:geomhash":"adee208af2e42ee94978cd9696fc2f25",
+    "wof:geomhash":"60a33161c22bb9e0cf0855d785cfdd4f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +47,7 @@
         }
     ],
     "wof:id":554778375,
-    "wof:lastmodified":1480799552,
+    "wof:lastmodified":1611183446,
     "wof:name":"02171",
     "wof:parent_id":85950429,
     "wof:placetype":"postalcode",

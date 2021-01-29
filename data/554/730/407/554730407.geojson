@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053976,
-    "geom:area_square_m":458802754.230224,
+    "geom:area_square_m":458802754.230548,
     "geom:bbox":"-94.521219,46.412967,-94.141611,46.700254",
     "geom:latitude":46.573977,
     "geom:longitude":-94.355754,
@@ -14,20 +14,26 @@
     "lbl:latitude":46.573721,
     "lbl:longitude":-94.382718,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pequot Lakes",
+    "mz:postal_locality_alt":[
+        "Brainerd",
+        "Jenkins"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404509393,
         85633793,
-        102087905
+        102087905,
+        404509393,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782509"
     },
     "wof:country":"US",
-    "wof:geomhash":"45be34922651bae3b900b1138e4b9758",
+    "wof:geomhash":"e6e29faba9a7e7d614d56724597fd5aa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554730407,
-    "wof:lastmodified":1480788209,
+    "wof:lastmodified":1611182734,
     "wof:name":"56472",
     "wof:parent_id":404509393,
     "wof:placetype":"postalcode",

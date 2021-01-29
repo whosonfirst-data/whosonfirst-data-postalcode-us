@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011649,
-    "geom:area_square_m":103184041.240011,
+    "geom:area_square_m":103184041.240051,
     "geom:bbox":"-72.879393,44.19312,-72.640211,44.297107",
     "geom:latitude":44.247138,
     "geom:longitude":-72.741324,
@@ -14,20 +14,25 @@
     "lbl:latitude":44.253995,
     "lbl:longitude":-72.734479,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Moretown",
+    "mz:postal_locality_alt":[
+        "Waitsfield"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688763,
         102191575,
-        404527431,
         85633793,
-        102080779
+        102080779,
+        404527431,
+        85688763
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760048"
     },
     "wof:country":"US",
-    "wof:geomhash":"0b77c7d0d258af3150febc07ea3ba1dd",
+    "wof:geomhash":"8d671767b190ae1e3ef15fa2476b0205",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554699051,
-    "wof:lastmodified":1480906208,
+    "wof:lastmodified":1611184629,
     "wof:name":"05660",
     "wof:parent_id":404527431,
     "wof:placetype":"postalcode",

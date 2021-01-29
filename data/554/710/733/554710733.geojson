@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003329,
-    "geom:area_square_m":33168355.885117,
+    "geom:area_square_m":33168355.885123,
     "geom:bbox":"-78.457716,36.291134,-78.367936,36.364992",
     "geom:latitude":36.326675,
     "geom:longitude":-78.408846,
@@ -13,20 +13,27 @@
     "lbl:latitude":36.326731,
     "lbl:longitude":-78.409125,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Henderson",
+    "mz:postal_locality_alt":[
+        "Goldsboro",
+        "Chapel Hill",
+        "Semr Johnson Afb"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688773,
         102191575,
         85633793,
+        102087631,
         85980833,
-        102087631
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12769097"
     },
     "wof:country":"US",
-    "wof:geomhash":"fa7bb6642c9c8c0ffc7379dca01e68ac",
+    "wof:geomhash":"323b525ee4ad30eb1597a183e3972a02",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +45,7 @@
         }
     ],
     "wof:id":554710733,
-    "wof:lastmodified":1480782589,
+    "wof:lastmodified":1611185119,
     "wof:name":"27536",
     "wof:parent_id":85980833,
     "wof:placetype":"postalcode",

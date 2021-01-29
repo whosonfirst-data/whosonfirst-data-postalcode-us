@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0056,
-    "geom:area_square_m":51471658.673208,
+    "geom:area_square_m":51471658.67325,
     "geom:bbox":"-71.723855,41.932589,-71.590108,42.013371",
     "geom:latitude":41.982022,
     "geom:longitude":-71.649542,
@@ -14,20 +14,26 @@
     "lbl:latitude":41.97493,
     "lbl:longitude":-71.651187,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Harrisville",
+    "mz:postal_locality_alt":[
+        "Block Island",
+        "Glendale"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688509,
         102191575,
-        404488325,
         85633793,
-        102081597
+        102081597,
+        404488325,
+        85688509
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759007"
     },
     "wof:country":"US",
-    "wof:geomhash":"1cc9ab1240e54ec6c077edeefe468edf",
+    "wof:geomhash":"1349805bfab7b4e9e5929be52821d48c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554697587,
-    "wof:lastmodified":1480817072,
+    "wof:lastmodified":1611184650,
     "wof:name":"02830",
     "wof:parent_id":404488325,
     "wof:placetype":"postalcode",

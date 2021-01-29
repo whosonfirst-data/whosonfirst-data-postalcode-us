@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008637,
-    "geom:area_square_m":77839329.947839,
+    "geom:area_square_m":77839329.947856,
     "geom:bbox":"-71.280985,43.167019,-71.122355,43.274201",
     "geom:latitude":43.213054,
     "geom:longitude":-71.209585,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.211856,
     "lbl:longitude":-71.223393,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Northwood",
+    "mz:postal_locality_alt":[
+        "Lincoln"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688689,
         102191575,
-        404476773,
         85633793,
-        102086507
+        102086507,
+        404476773,
+        85688689
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759161"
     },
     "wof:country":"US",
-    "wof:geomhash":"26bfea0742ad4418175a3b2a4654a062",
+    "wof:geomhash":"773cd55e206681252025e2d08a577a29",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554697807,
-    "wof:lastmodified":1480916573,
+    "wof:lastmodified":1611184658,
     "wof:name":"03261",
     "wof:parent_id":404476773,
     "wof:placetype":"postalcode",

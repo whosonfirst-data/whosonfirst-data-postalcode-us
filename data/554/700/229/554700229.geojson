@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000854,
-    "geom:area_square_m":7986651.700278,
+    "geom:area_square_m":7986651.700269,
     "geom:bbox":"-74.6908,40.864626,-74.638022,40.895782",
     "geom:latitude":40.882208,
     "geom:longitude":-74.662743,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.883268,
     "lbl:longitude":-74.668029,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ledgewood",
+    "mz:postal_locality_alt":[
+        "Newton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477677,
         85633793,
-        102087413
+        102087413,
+        404477677,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760918"
     },
     "wof:country":"US",
-    "wof:geomhash":"e08cc37915cc3f1d026bcdce9307c492",
+    "wof:geomhash":"9fb76798189e97e841fe470fac8451f0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554700229,
-    "wof:lastmodified":1480787583,
+    "wof:lastmodified":1611183178,
     "wof:name":"07852",
     "wof:parent_id":404477677,
     "wof:placetype":"postalcode",

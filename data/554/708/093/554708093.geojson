@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.055964,
-    "geom:area_square_m":545290055.284344,
+    "geom:area_square_m":545290055.284317,
     "geom:bbox":"-78.219522,37.821917,-77.895127,38.152531",
     "geom:latitude":38.002424,
     "geom:longitude":-78.04075,
@@ -14,19 +14,26 @@
     "lbl:latitude":38.004167,
     "lbl:longitude":-78.040057,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Louisa",
+    "mz:postal_locality_alt":[
+        "Cumberland",
+        "King William",
+        "Dutton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688747,
-        102084949
+        102084949,
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12767198"
     },
     "wof:country":"US",
-    "wof:geomhash":"02dcb0f5f5550d9497175f302fe16f05",
+    "wof:geomhash":"716ab2e2e3f0afc9fcdfa8719b5b75be",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +44,7 @@
         }
     ],
     "wof:id":554708093,
-    "wof:lastmodified":1480915654,
+    "wof:lastmodified":1611182806,
     "wof:name":"23093",
     "wof:parent_id":102084949,
     "wof:placetype":"postalcode",

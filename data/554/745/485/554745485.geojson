@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019931,
-    "geom:area_square_m":211230146.327088,
+    "geom:area_square_m":211230146.327155,
     "geom:bbox":"-97.883128,30.899318,-97.642996,31.110243",
     "geom:latitude":31.010585,
     "geom:longitude":-97.746044,
@@ -13,20 +13,25 @@
     "lbl:latitude":31.011816,
     "lbl:longitude":-97.74188,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Killeen",
+    "mz:postal_locality_alt":[
+        "Copperas Cove"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102087307,
         101725403,
-        102087307
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12791132"
     },
     "wof:country":"US",
-    "wof:geomhash":"ca01740291a8f472266b508235637b99",
+    "wof:geomhash":"0da9e6ce8fc6d382da2c2ae9dc0bd50d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554745485,
-    "wof:lastmodified":1480904015,
+    "wof:lastmodified":1611185258,
     "wof:name":"76542",
     "wof:parent_id":101725403,
     "wof:placetype":"postalcode",

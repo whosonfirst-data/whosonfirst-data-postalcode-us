@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001405,
-    "geom:area_square_m":14538577.564481,
+    "geom:area_square_m":14538577.564485,
     "geom:bbox":"-97.173892,33.19653,-97.126654,33.242318",
     "geom:latitude":33.221129,
     "geom:longitude":-97.147248,
@@ -13,20 +13,25 @@
     "lbl:latitude":33.220973,
     "lbl:longitude":-97.146038,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Denton",
+    "mz:postal_locality_alt":[
+        "Aubrey"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102087371,
         101724431,
-        102087371
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12790975"
     },
     "wof:country":"US",
-    "wof:geomhash":"37f8d5e850e8f9ac6865292103e069b5",
+    "wof:geomhash":"d38a9d280254970c4e3927e0632f0b01",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554745199,
-    "wof:lastmodified":1480783427,
+    "wof:lastmodified":1611185277,
     "wof:name":"76201",
     "wof:parent_id":101724431,
     "wof:placetype":"postalcode",

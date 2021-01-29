@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000451,
-    "geom:area_square_m":4225507.183746,
+    "geom:area_square_m":4225507.183752,
     "geom:bbox":"-73.854746,40.689372,-73.813719,40.711641",
     "geom:latitude":40.700209,
     "geom:longitude":-73.836031,
@@ -14,21 +14,28 @@
     "lbl:latitude":40.700209,
     "lbl:longitude":-73.836031,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Richmond Hill",
+    "mz:postal_locality_alt":[
+        "Jamaica",
+        "Queens",
+        "New York"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404521211,
         85633793,
+        102082361,
+        404521211,
         85977539,
-        102082361
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761809"
     },
     "wof:country":"US",
-    "wof:geomhash":"843fae9e77290297e0fd547041aa7b0b",
+    "wof:geomhash":"92f7dd487a0628fd258a011dc450954a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +48,7 @@
         }
     ],
     "wof:id":554779689,
-    "wof:lastmodified":1480790267,
+    "wof:lastmodified":1611183967,
     "wof:name":"11418",
     "wof:parent_id":85977539,
     "wof:placetype":"postalcode",

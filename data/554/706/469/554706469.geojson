@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003577,
-    "geom:area_square_m":33771003.254365,
+    "geom:area_square_m":33771003.254353,
     "geom:bbox":"-75.298142,40.185719,-75.177401,40.257422",
     "geom:latitude":40.223464,
     "geom:longitude":-75.243079,
@@ -13,20 +13,27 @@
     "lbl:latitude":40.226112,
     "lbl:longitude":-75.243786,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"North Wales",
+    "mz:postal_locality_alt":[
+        "Montgomeryville",
+        "Gwynedd",
+        "Lansdale"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485581,
         85633793,
-        102081355
+        102081355,
+        404485581,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765651"
     },
     "wof:country":"US",
-    "wof:geomhash":"1e031e25de7fa37e8c4669fa052a1534",
+    "wof:geomhash":"5a90006cb3c0a2a8034b753231faea47",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +45,7 @@
         }
     ],
     "wof:id":554706469,
-    "wof:lastmodified":1480906421,
+    "wof:lastmodified":1611182710,
     "wof:name":"19454",
     "wof:parent_id":404485581,
     "wof:placetype":"postalcode",

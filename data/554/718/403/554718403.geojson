@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035086,
-    "geom:area_square_m":373660781.566943,
+    "geom:area_square_m":373660781.566978,
     "geom:bbox":"-89.830825,30.437089,-89.443137,30.655672",
     "geom:latitude":30.540026,
     "geom:longitude":-89.638807,
@@ -14,19 +14,25 @@
     "lbl:latitude":30.520513,
     "lbl:longitude":-89.585934,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Picayune",
+    "mz:postal_locality_alt":[
+        "Hattiesburg",
+        "Laurel"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688579,
-        102083173
+        102083173,
+        85688579
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12774956"
     },
     "wof:country":"US",
-    "wof:geomhash":"f9afb588f381efb39a63d7621f651a52",
+    "wof:geomhash":"fdfebc94cde1b4a49f6ead83d68b1af1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554718403,
-    "wof:lastmodified":1480840247,
+    "wof:lastmodified":1611185587,
     "wof:name":"39466",
     "wof:parent_id":102083173,
     "wof:placetype":"postalcode",

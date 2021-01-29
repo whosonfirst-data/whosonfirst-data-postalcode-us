@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011454,
-    "geom:area_square_m":114543237.689202,
+    "geom:area_square_m":114543237.689172,
     "geom:bbox":"-79.054003,35.961052,-78.905256,36.105946",
     "geom:latitude":36.027055,
     "geom:longitude":-78.980639,
@@ -13,20 +13,25 @@
     "lbl:latitude":36.022136,
     "lbl:longitude":-78.975659,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Durham",
+    "mz:postal_locality_alt":[
+        "Resrch Trngle Pk"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688773,
         102191575,
         85633793,
+        102080909,
         85980565,
-        102080909
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12769188"
     },
     "wof:country":"US",
-    "wof:geomhash":"b3f65a33907ba0bc2c76d1f46edc86fa",
+    "wof:geomhash":"507c43bc952e115a56b6a5b92d7a3f15",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554710841,
-    "wof:lastmodified":1480905451,
+    "wof:lastmodified":1611185123,
     "wof:name":"27705",
     "wof:parent_id":85980565,
     "wof:placetype":"postalcode",

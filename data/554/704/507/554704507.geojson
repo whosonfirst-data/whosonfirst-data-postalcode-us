@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019971,
-    "geom:area_square_m":185629136.579712,
+    "geom:area_square_m":185629136.579791,
     "geom:bbox":"-79.992809,41.189721,-79.685333,41.346304",
     "geom:latitude":41.26213,
     "geom:longitude":-79.81383,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.263497,
     "lbl:longitude":-79.815085,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Kennerdell",
+    "mz:postal_locality_alt":[
+        "Clintonville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404487607,
         85633793,
-        102081279
+        102081279,
+        404487607,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764286"
     },
     "wof:country":"US",
-    "wof:geomhash":"0daea324c15b792a86effdf7a0082c10",
+    "wof:geomhash":"8ec31d28e18c19eb3279dc91dc753231",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554704507,
-    "wof:lastmodified":1480829852,
+    "wof:lastmodified":1611184507,
     "wof:name":"16374",
     "wof:parent_id":404487607,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018706,
-    "geom:area_square_m":167948118.205742,
+    "geom:area_square_m":167948118.205735,
     "geom:bbox":"-86.221953,43.349576,-85.995213,43.533145",
     "geom:latitude":43.438489,
     "geom:longitude":-86.098852,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.428815,
     "lbl:longitude":-86.089288,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Holton",
+    "mz:postal_locality_alt":[
+        "Fremont"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404506307,
         85633793,
-        102083707
+        102083707,
+        404506307,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779359"
     },
     "wof:country":"US",
-    "wof:geomhash":"715c176d1c6d101cf3244e5c79ccd14b",
+    "wof:geomhash":"f42209d6eef2c2a2e022665bead95a75",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554725091,
-    "wof:lastmodified":1480840678,
+    "wof:lastmodified":1611183262,
     "wof:name":"49425",
     "wof:parent_id":404506307,
     "wof:placetype":"postalcode",

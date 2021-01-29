@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035707,
-    "geom:area_square_m":343474313.44302,
+    "geom:area_square_m":343474313.442806,
     "geom:bbox":"-78.339795,38.820749,-78.004167,39.07005",
     "geom:latitude":38.92858,
     "geom:longitude":-78.176675,
@@ -14,20 +14,28 @@
     "lbl:latitude":38.930914,
     "lbl:longitude":-78.17648,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Front Royal",
+    "mz:postal_locality_alt":[
+        "Winchester",
+        "Linden",
+        "Strasburg",
+        "Riverton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688747,
         102191575,
         85633793,
+        102085975,
         101728731,
-        102085975
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766999"
     },
     "wof:country":"US",
-    "wof:geomhash":"a48229d6546c84beb747eb46c72e4de4",
+    "wof:geomhash":"d0649f3b989332dd9fdea3021dc02c43",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +47,7 @@
         }
     ],
     "wof:id":554707763,
-    "wof:lastmodified":1480910780,
+    "wof:lastmodified":1611183129,
     "wof:name":"22630",
     "wof:parent_id":101728731,
     "wof:placetype":"postalcode",

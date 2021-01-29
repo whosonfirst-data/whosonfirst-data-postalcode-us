@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002629,
-    "geom:area_square_m":27320368.116107,
+    "geom:area_square_m":27320368.116059,
     "geom:bbox":"-117.121196,32.788259,-117.047323,32.854725",
     "geom:latitude":32.826616,
     "geom:longitude":-117.085979,
@@ -13,20 +13,22 @@
     "lbl:latitude":32.823766,
     "lbl:longitude":-117.092378,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"San Diego",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102083569,
         85922227,
-        102083569
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796278"
     },
     "wof:country":"US",
-    "wof:geomhash":"507696400e8819d2494a5d6e504aca10",
+    "wof:geomhash":"477ff79ce6170232e3a756d967d42869",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +40,7 @@
         }
     ],
     "wof:id":554784357,
-    "wof:lastmodified":1480835293,
+    "wof:lastmodified":1611183945,
     "wof:name":"92124",
     "wof:parent_id":85922227,
     "wof:placetype":"postalcode",

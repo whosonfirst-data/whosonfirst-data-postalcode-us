@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001791,
-    "geom:area_square_m":16729856.615661,
+    "geom:area_square_m":16729856.615663,
     "geom:bbox":"-73.100159,40.929793,-73.038002,40.97885",
     "geom:latitude":40.955307,
     "geom:longitude":-73.065734,
@@ -14,21 +14,28 @@
     "lbl:latitude":40.956068,
     "lbl:longitude":-73.066659,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Port Jefferson",
+    "mz:postal_locality_alt":[
+        "Port Jefferson Station",
+        "Port Jeffrsn Sta",
+        "Farmingdale"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404521441,
         85633793,
+        102082395,
+        404521441,
         85978435,
-        102082395
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761962"
     },
     "wof:country":"US",
-    "wof:geomhash":"da43b331a211437044681333db297d1f",
+    "wof:geomhash":"a080c7acd4561d06f2c53672793a6d4b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +48,7 @@
         }
     ],
     "wof:id":554779943,
-    "wof:lastmodified":1480794863,
+    "wof:lastmodified":1611183991,
     "wof:name":"11777",
     "wof:parent_id":85978435,
     "wof:placetype":"postalcode",

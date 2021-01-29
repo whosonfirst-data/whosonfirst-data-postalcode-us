@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003181,
-    "geom:area_square_m":33847896.715051,
+    "geom:area_square_m":33847896.715041,
     "geom:bbox":"-88.190873,30.591771,-88.111015,30.661514",
     "geom:latitude":30.626594,
     "geom:longitude":-88.149833,
@@ -13,20 +13,22 @@
     "lbl:latitude":30.625698,
     "lbl:longitude":-88.149746,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mobile",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688675,
         102191575,
         85633793,
+        102085585,
         85913749,
-        102085585
+        85688675
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12773643"
     },
     "wof:country":"US",
-    "wof:geomhash":"c1c298cdf4ff7b87df0a00ff1f5d1f8d",
+    "wof:geomhash":"f125043fece398815aa83de3bec1b64d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +40,7 @@
         }
     ],
     "wof:id":554782281,
-    "wof:lastmodified":1480815718,
+    "wof:lastmodified":1611183608,
     "wof:name":"36693",
     "wof:parent_id":85913749,
     "wof:placetype":"postalcode",

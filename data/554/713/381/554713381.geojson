@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.056374,
-    "geom:area_square_m":580711809.168775,
+    "geom:area_square_m":580711809.168571,
     "geom:bbox":"-83.61973,33.434472,-83.297272,33.747313",
     "geom:latitude":33.584128,
     "geom:longitude":-83.471987,
@@ -14,20 +14,25 @@
     "lbl:latitude":33.583689,
     "lbl:longitude":-83.473545,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Madison",
+    "mz:postal_locality_alt":[
+        "Greensboro"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688535,
         102191575,
         85633793,
+        102081701,
         85937061,
-        102081701
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770957"
     },
     "wof:country":"US",
-    "wof:geomhash":"f742729b63c3030871b92ff1cf4dbd55",
+    "wof:geomhash":"291a6ce87d8d5e063f7cb6a1c1cb7659",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554713381,
-    "wof:lastmodified":1480832859,
+    "wof:lastmodified":1611183341,
     "wof:name":"30650",
     "wof:parent_id":85937061,
     "wof:placetype":"postalcode",

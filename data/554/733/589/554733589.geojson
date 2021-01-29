@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01867,
-    "geom:area_square_m":173824226.354049,
+    "geom:area_square_m":173824226.354099,
     "geom:bbox":"-87.73007,41.06517,-87.526471,41.215636",
     "geom:latitude":41.153385,
     "geom:longitude":-87.628964,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.147708,
     "lbl:longitude":-87.622516,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Momence",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404498381,
         85633793,
-        102081259
+        102081259,
+        404498381,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784386"
     },
     "wof:country":"US",
-    "wof:geomhash":"bd7f917a5ff603a96b77aa1e895cc2cf",
+    "wof:geomhash":"a52c8ddfbef4058d2fc66db9220d7f72",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554733589,
-    "wof:lastmodified":1480911844,
+    "wof:lastmodified":1611184229,
     "wof:name":"60954",
     "wof:parent_id":404498381,
     "wof:placetype":"postalcode",

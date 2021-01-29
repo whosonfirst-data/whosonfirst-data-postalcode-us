@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002041,
-    "geom:area_square_m":19227990.438024,
+    "geom:area_square_m":19227990.438017,
     "geom:bbox":"-74.531596,40.346066,-74.460343,40.397223",
     "geom:latitude":40.372708,
     "geom:longitude":-74.493822,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.368284,
     "lbl:longitude":-74.490995,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Dayton",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478211,
         85633793,
-        102087417
+        102087417,
+        404478211,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761262"
     },
     "wof:country":"US",
-    "wof:geomhash":"44161e1a437774ea19298c5625ebdefe",
+    "wof:geomhash":"70f3ea096b2b5bcb251c5ec0f4f79413",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554700697,
-    "wof:lastmodified":1480783318,
+    "wof:lastmodified":1611183202,
     "wof:name":"08810",
     "wof:parent_id":404478211,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015037,
-    "geom:area_square_m":144479203.396975,
+    "geom:area_square_m":144479203.396855,
     "geom:bbox":"-92.59171,38.904387,-92.44423,39.098318",
     "geom:latitude":39.009584,
     "geom:longitude":-92.518688,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.001389,
     "lbl:longitude":-92.52849,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Rocheport",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404516391,
         85633793,
-        102086187
+        102086187,
+        404516391,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786426"
     },
     "wof:country":"US",
-    "wof:geomhash":"0a2cac850ffddb860a77d71c7cb85009",
+    "wof:geomhash":"b404cc280743e3f91def3216acf1b834",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554737285,
-    "wof:lastmodified":1480914438,
+    "wof:lastmodified":1611182854,
     "wof:name":"65279",
     "wof:parent_id":404516391,
     "wof:placetype":"postalcode",

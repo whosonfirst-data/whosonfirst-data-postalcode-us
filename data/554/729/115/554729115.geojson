@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019471,
-    "geom:area_square_m":169387102.722899,
+    "geom:area_square_m":169387102.723009,
     "geom:bbox":"-93.512649,45.178133,-93.340061,45.384974",
     "geom:latitude":45.288526,
     "geom:longitude":-93.423087,
@@ -14,21 +14,26 @@
     "lbl:latitude":45.288298,
     "lbl:longitude":-93.431102,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Anoka",
+    "mz:postal_locality_alt":[
+        "Ramsey"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404511123,
         85633793,
+        102087861,
+        404511123,
         85953379,
-        102087861
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781787"
     },
     "wof:country":"US",
-    "wof:geomhash":"598b42601d9851c4b457c7d2378961fa",
+    "wof:geomhash":"80f498097f7ad199b1558f46778e166f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554729115,
-    "wof:lastmodified":1480789095,
+    "wof:lastmodified":1611185440,
     "wof:name":"55303",
     "wof:parent_id":85953379,
     "wof:placetype":"postalcode",

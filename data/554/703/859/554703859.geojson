@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009798,
-    "geom:area_square_m":92968098.171465,
+    "geom:area_square_m":92968098.171359,
     "geom:bbox":"-79.367841,39.827521,-79.18809,39.940303",
     "geom:latitude":39.885663,
     "geom:longitude":-79.277806,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.868154,
     "lbl:longitude":-79.284798,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Markleton",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404488283,
         85633793,
-        102081361
+        102081361,
+        404488283,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763874"
     },
     "wof:country":"US",
-    "wof:geomhash":"5279f20381c7f63f0837cd8b8b9142b2",
+    "wof:geomhash":"3022ba07cbb3c91eacdad9de9257cf27",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554703859,
-    "wof:lastmodified":1480830635,
+    "wof:lastmodified":1611184456,
     "wof:name":"15551",
     "wof:parent_id":404488283,
     "wof:placetype":"postalcode",

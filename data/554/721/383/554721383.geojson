@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011611,
-    "geom:area_square_m":109062429.015438,
+    "geom:area_square_m":109062429.015332,
     "geom:bbox":"-81.415477,40.507053,-81.264744,40.63615",
     "geom:latitude":40.568999,
     "geom:longitude":-81.336711,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.569013,
     "lbl:longitude":-81.334817,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mineral City",
+    "mz:postal_locality_alt":[
+        "Zoarville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404526237,
         85633793,
-        102084737
+        102084737,
+        404526237,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776895"
     },
     "wof:country":"US",
-    "wof:geomhash":"225f7623d8ecbe5ba3ac501bdb728dd4",
+    "wof:geomhash":"740c6c454591322d92c31bf91dd39d0c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554721383,
-    "wof:lastmodified":1480801604,
+    "wof:lastmodified":1611184959,
     "wof:name":"44656",
     "wof:parent_id":404526237,
     "wof:placetype":"postalcode",

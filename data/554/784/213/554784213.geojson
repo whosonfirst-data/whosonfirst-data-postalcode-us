@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008646,
-    "geom:area_square_m":88490317.536027,
+    "geom:area_square_m":88490317.536039,
     "geom:bbox":"-118.979698,34.087204,-118.792895,34.18127",
     "geom:latitude":34.136517,
     "geom:longitude":-118.889008,
@@ -14,20 +14,26 @@
     "lbl:latitude":34.136077,
     "lbl:longitude":-118.888919,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Westlake Village",
+    "mz:postal_locality_alt":[
+        "Thousand Oaks",
+        "Lake Sherwood"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086933,
         85927679,
-        102086933
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796006"
     },
     "wof:country":"US",
-    "wof:geomhash":"c7fab182f79b704c152aebeaf7b0ef7d",
+    "wof:geomhash":"d604a431fadd9759326264813ed54148",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554784213,
-    "wof:lastmodified":1480912626,
+    "wof:lastmodified":1611183953,
     "wof:name":"91361",
     "wof:parent_id":85927679,
     "wof:placetype":"postalcode",

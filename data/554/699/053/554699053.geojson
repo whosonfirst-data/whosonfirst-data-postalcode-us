@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019549,
-    "geom:area_square_m":172301302.921543,
+    "geom:area_square_m":172301302.921526,
     "geom:bbox":"-72.768196,44.451934,-72.51268,44.603608",
     "geom:latitude":44.537991,
     "geom:longitude":-72.61837,
@@ -14,20 +14,26 @@
     "lbl:latitude":44.532336,
     "lbl:longitude":-72.620258,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Morrisville",
+    "mz:postal_locality_alt":[
+        "Lake Elmore",
+        "Hyde Park"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688763,
         102191575,
-        404527157,
         85633793,
-        102080785
+        102080785,
+        404527157,
+        85688763
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760049"
     },
     "wof:country":"US",
-    "wof:geomhash":"41b1755922f07e86171b3ce87ad32da3",
+    "wof:geomhash":"1abb67105fb83df7016875c96055f908",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554699053,
-    "wof:lastmodified":1480906389,
+    "wof:lastmodified":1611184608,
     "wof:name":"05661",
     "wof:parent_id":404527157,
     "wof:placetype":"postalcode",

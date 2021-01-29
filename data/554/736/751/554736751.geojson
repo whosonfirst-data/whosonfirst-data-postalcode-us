@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037033,
-    "geom:area_square_m":349195201.392726,
+    "geom:area_square_m":349195201.392836,
     "geom:bbox":"-95.256581,40.202615,-94.92979,40.419904",
     "geom:latitude":40.308681,
     "geom:longitude":-95.102649,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.300935,
     "lbl:longitude":-95.095911,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Skidmore",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404517061,
         85633793,
-        102087507
+        102087507,
+        404517061,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786149"
     },
     "wof:country":"US",
-    "wof:geomhash":"3544be24d602154eaf558bf0099787f7",
+    "wof:geomhash":"cf35f5de74ee9c5da9666da811f15ecd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554736751,
-    "wof:lastmodified":1480808140,
+    "wof:lastmodified":1611183038,
     "wof:name":"64487",
     "wof:parent_id":404517061,
     "wof:placetype":"postalcode",

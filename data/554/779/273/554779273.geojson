@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002177,
-    "geom:area_square_m":20480328.133021,
+    "geom:area_square_m":20480328.133032,
     "geom:bbox":"-74.30239,40.426643,-74.236885,40.509307",
     "geom:latitude":40.465527,
     "geom:longitude":-74.277369,
@@ -14,21 +14,28 @@
     "lbl:latitude":40.46641,
     "lbl:longitude":-74.278625,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"South Amboy",
+    "mz:postal_locality_alt":[
+        "Laurence Harbor",
+        "Old Bridge",
+        "Sayreville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478209,
         85633793,
+        102087417,
+        404478209,
         85975735,
-        102087417
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761311"
     },
     "wof:country":"US",
-    "wof:geomhash":"54b18656634d8b1e21f71d10b9f9f1e3",
+    "wof:geomhash":"280519866ab37efd9c67cda4e4bd6fb5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +48,7 @@
         }
     ],
     "wof:id":554779273,
-    "wof:lastmodified":1480809857,
+    "wof:lastmodified":1611183966,
     "wof:name":"08879",
     "wof:parent_id":85975735,
     "wof:placetype":"postalcode",

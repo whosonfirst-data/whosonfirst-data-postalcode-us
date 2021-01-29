@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048052,
-    "geom:area_square_m":475238512.053324,
+    "geom:area_square_m":475238512.053155,
     "geom:bbox":"-95.037735,36.75755,-94.6797,36.999528",
     "geom:latitude":36.885893,
     "geom:longitude":-94.882703,
@@ -13,20 +13,26 @@
     "lbl:latitude":36.886136,
     "lbl:longitude":-94.882511,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Miami",
+    "mz:postal_locality_alt":[
+        "Pryor",
+        "North Miami"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688585,
         102191575,
         85633793,
+        102083323,
         101714125,
-        102083323
+        85688585
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12790053"
     },
     "wof:country":"US",
-    "wof:geomhash":"db8557e12982bf258bc6143ac594c470",
+    "wof:geomhash":"f305750361fc48cfc0c5f04ab093af94",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554743717,
-    "wof:lastmodified":1480841790,
+    "wof:lastmodified":1611184799,
     "wof:name":"74354",
     "wof:parent_id":101714125,
     "wof:placetype":"postalcode",

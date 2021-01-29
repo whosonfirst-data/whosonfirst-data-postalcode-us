@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000005,
-    "geom:area_square_m":47208.26633,
+    "geom:area_square_m":47208.266331,
     "geom:bbox":"-75.563315,40.54626,-75.557734,40.549662",
     "geom:latitude":40.548009,
     "geom:longitude":-75.560346,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.548009,
     "lbl:longitude":-75.560346,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"East Texas",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485957,
         85633793,
-        102081327
+        102081327,
+        404485957,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765040"
     },
     "wof:country":"US",
-    "wof:geomhash":"02de1381274613783b497cc155276f9e",
+    "wof:geomhash":"3780fb97a8fc32e988398e46826e2acd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554767629,
-    "wof:lastmodified":1480830863,
+    "wof:lastmodified":1611184254,
     "wof:name":"18046",
     "wof:parent_id":404485957,
     "wof:placetype":"postalcode",

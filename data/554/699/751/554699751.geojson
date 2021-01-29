@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007787,
-    "geom:area_square_m":72574033.866899,
+    "geom:area_square_m":72574033.866843,
     "geom:bbox":"-73.727775,41.012626,-73.597796,41.152171",
     "geom:latitude":41.087799,
     "geom:longitude":-73.660935,
@@ -13,20 +13,25 @@
     "lbl:latitude":41.088724,
     "lbl:longitude":-73.658838,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Greenwich",
+    "mz:postal_locality_alt":[
+        "Port Chester"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688629,
         102191575,
-        404495949,
         85633793,
-        102084283
+        102084283,
+        404495949,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760552"
     },
     "wof:country":"US",
-    "wof:geomhash":"a6ab2537a249e0e1e7ed167abdc918c7",
+    "wof:geomhash":"6ff9cd3e9bf6a98d35610d8db38997f6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554699751,
-    "wof:lastmodified":1480799394,
+    "wof:lastmodified":1611184619,
     "wof:name":"06831",
     "wof:parent_id":404495949,
     "wof:placetype":"postalcode",

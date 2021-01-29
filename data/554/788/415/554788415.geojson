@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000151,
-    "geom:area_square_m":1411519.486399,
+    "geom:area_square_m":1411519.486401,
     "geom:bbox":"-72.631813,40.928758,-72.594271,40.942772",
     "geom:latitude":40.934945,
     "geom:longitude":-72.61366,
@@ -14,21 +14,26 @@
     "lbl:latitude":40.934273,
     "lbl:longitude":-72.612403,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Riverhead",
+    "mz:postal_locality_alt":[
+        "Aquebogue"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522663,
         85633793,
+        102082395,
+        404522663,
         85979701,
-        102082395
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761992"
     },
     "wof:country":"US",
-    "wof:geomhash":"f73c8a4ef1c236266a09877ad9063edd",
+    "wof:geomhash":"cc5561fbc25defdb25ace4b800372a8a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554788415,
-    "wof:lastmodified":1480794862,
+    "wof:lastmodified":1611184758,
     "wof:name":"11931",
     "wof:parent_id":85979701,
     "wof:placetype":"postalcode",

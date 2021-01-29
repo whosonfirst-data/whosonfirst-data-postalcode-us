@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007434,
-    "geom:area_square_m":70036764.528485,
+    "geom:area_square_m":70036764.528499,
     "geom:bbox":"-86.37551,40.323031,-86.242866,40.431848",
     "geom:latitude":40.369465,
     "geom:longitude":-86.312289,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.369458,
     "lbl:longitude":-86.312273,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Forest",
+    "mz:postal_locality_alt":[
+        "Russiaville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404500197,
         85633793,
-        102087035
+        102087035,
+        404500197,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777552"
     },
     "wof:country":"US",
-    "wof:geomhash":"83d42a1ba84024c5a5674c47d0b3f012",
+    "wof:geomhash":"c59e606f9af3c125319fb204ab4c6c47",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554722393,
-    "wof:lastmodified":1480912802,
+    "wof:lastmodified":1611183233,
     "wof:name":"46039",
     "wof:parent_id":404500197,
     "wof:placetype":"postalcode",

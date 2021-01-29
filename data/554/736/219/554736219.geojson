@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01381,
-    "geom:area_square_m":135440764.34496,
+    "geom:area_square_m":135440764.344953,
     "geom:bbox":"-89.847909,37.419342,-89.657728,37.601558",
     "geom:latitude":37.521195,
     "geom:longitude":-89.739,
@@ -14,20 +14,26 @@
     "lbl:latitude":37.522403,
     "lbl:longitude":-89.736581,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Oak Ridge",
+    "mz:postal_locality_alt":[
+        "Old Appleton",
+        "Jackson"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404516533,
         85633793,
-        102086155
+        102086155,
+        404516533,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785849"
     },
     "wof:country":"US",
-    "wof:geomhash":"7a39f6912b757692c2003d39c7aafcb1",
+    "wof:geomhash":"d0d10b33dc0baf53686717cebb522732",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554736219,
-    "wof:lastmodified":1480915744,
+    "wof:lastmodified":1611183025,
     "wof:name":"63769",
     "wof:parent_id":404516533,
     "wof:placetype":"postalcode",

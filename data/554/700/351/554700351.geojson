@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004188,
-    "geom:area_square_m":39842835.249866,
+    "geom:area_square_m":39842835.249864,
     "geom:bbox":"-75.17689,39.65628,-75.054785,39.73739",
     "geom:latitude":39.694398,
     "geom:longitude":-75.120592,
@@ -14,21 +14,26 @@
     "lbl:latitude":39.695863,
     "lbl:longitude":-75.121415,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Glassboro",
+    "mz:postal_locality_alt":[
+        "Mullica Hill"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478177,
         85633793,
+        102085999,
+        404478177,
         85975463,
-        102085999
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761001"
     },
     "wof:country":"US",
-    "wof:geomhash":"a537d862e4380efbcc3f0f6be6559d47",
+    "wof:geomhash":"73af72122344f87f6bd845e0b8370b41",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554700351,
-    "wof:lastmodified":1480811065,
+    "wof:lastmodified":1611183195,
     "wof:name":"08028",
     "wof:parent_id":85975463,
     "wof:placetype":"postalcode",

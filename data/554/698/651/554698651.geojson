@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019144,
-    "geom:area_square_m":168936891.832971,
+    "geom:area_square_m":168936891.832952,
     "geom:bbox":"-69.395987,44.364653,-69.203443,44.544585",
     "geom:latitude":44.46542,
     "geom:longitude":-69.301698,
@@ -14,20 +14,25 @@
     "lbl:latitude":44.470053,
     "lbl:longitude":-69.284182,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Freedom",
+    "mz:postal_locality_alt":[
+        "Skowhegan"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404474817,
         85633793,
-        102087445
+        102087445,
+        404474817,
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759815"
     },
     "wof:country":"US",
-    "wof:geomhash":"340968c8cf45ebcdc70cb8f2f066bc9f",
+    "wof:geomhash":"7b88eeb8b79826feefcffa843c77673c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554698651,
-    "wof:lastmodified":1480786871,
+    "wof:lastmodified":1611184683,
     "wof:name":"04941",
     "wof:parent_id":404474817,
     "wof:placetype":"postalcode",

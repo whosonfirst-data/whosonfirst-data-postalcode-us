@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017562,
-    "geom:area_square_m":164243249.306731,
+    "geom:area_square_m":164243249.306726,
     "geom:bbox":"-86.604204,40.778984,-86.422515,40.924421",
     "geom:latitude":40.856636,
     "geom:longitude":-86.512504,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.856627,
     "lbl:longitude":-86.512501,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Royal Center",
+    "mz:postal_locality_alt":[
+        "Kokomo"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404501151,
         85633793,
-        102087039
+        102087039,
+        404501151,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778004"
     },
     "wof:country":"US",
-    "wof:geomhash":"8574a6556dc864f3dba939c9faada253",
+    "wof:geomhash":"c1cc6ac0c2d315ff5ede65a126ad0fe5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554723033,
-    "wof:lastmodified":1480915628,
+    "wof:lastmodified":1611183806,
     "wof:name":"46978",
     "wof:parent_id":404501151,
     "wof:placetype":"postalcode",

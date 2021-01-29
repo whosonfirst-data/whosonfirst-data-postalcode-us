@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014095,
-    "geom:area_square_m":125490774.912309,
+    "geom:area_square_m":125490774.912356,
     "geom:bbox":"-71.571176,43.892719,-71.361889,43.999313",
     "geom:latitude":43.945055,
     "geom:longitude":-71.452495,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.942653,
     "lbl:longitude":-71.447732,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Waterville Vly",
+    "mz:postal_locality_alt":[
+        "Campton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688689,
         102191575,
-        404477125,
         85633793,
-        102086567
+        102086567,
+        404477125,
+        85688689
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759123"
     },
     "wof:country":"US",
-    "wof:geomhash":"d2623f5e6c2ef052bdaf42d1512ea263",
+    "wof:geomhash":"014ab03d7784a83b983a3d41f4a0a9e8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554765971,
-    "wof:lastmodified":1480916381,
+    "wof:lastmodified":1611182979,
     "wof:name":"03215",
     "wof:parent_id":404477125,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007112,
-    "geom:area_square_m":66845686.834066,
+    "geom:area_square_m":66845686.834032,
     "geom:bbox":"-105.096443,40.460902,-104.94412,40.578161",
     "geom:latitude":40.529161,
     "geom:longitude":-105.037106,
@@ -13,20 +13,25 @@
     "lbl:latitude":40.529861,
     "lbl:longitude":-105.036641,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fort Collins",
+    "mz:postal_locality_alt":[
+        "Timnath"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688603,
         102191575,
         85633793,
+        102083353,
         85929679,
-        102083353
+        85688603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12793108"
     },
     "wof:country":"US",
-    "wof:geomhash":"361fc29e1b7d96f2614ee803be943f3d",
+    "wof:geomhash":"b218dbf2ac033d3138ee9cbcc12db337",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554748193,
-    "wof:lastmodified":1480913968,
+    "wof:lastmodified":1611183821,
     "wof:name":"80525",
     "wof:parent_id":85929679,
     "wof:placetype":"postalcode",

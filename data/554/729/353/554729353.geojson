@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002094,
-    "geom:area_square_m":18344208.323677,
+    "geom:area_square_m":18344208.323684,
     "geom:bbox":"-93.319791,44.861668,-93.237573,44.893564",
     "geom:latitude":44.876243,
     "geom:longitude":-93.282106,
@@ -13,21 +13,27 @@
     "lbl:latitude":44.87446,
     "lbl:longitude":-93.282529,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Minneapolis",
+    "mz:postal_locality_alt":[
+        "Richfield",
+        "Edina"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404511899,
         85633793,
+        102087709,
+        404511899,
         85969131,
-        102087709
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781904"
     },
     "wof:country":"US",
-    "wof:geomhash":"9e2400283d3818228662ebf1653570b8",
+    "wof:geomhash":"2ba90cdef12b5ce598ac112e5b01c1cb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +46,7 @@
         }
     ],
     "wof:id":554729353,
-    "wof:lastmodified":1480789096,
+    "wof:lastmodified":1611185406,
     "wof:name":"55423",
     "wof:parent_id":85969131,
     "wof:placetype":"postalcode",

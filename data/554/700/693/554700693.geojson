@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007173,
-    "geom:area_square_m":67355653.039542,
+    "geom:area_square_m":67355653.03952,
     "geom:bbox":"-74.687905,40.542805,-74.54279,40.649311",
     "geom:latitude":40.59285,
     "geom:longitude":-74.620163,
@@ -14,21 +14,26 @@
     "lbl:latitude":40.592434,
     "lbl:longitude":-74.61884,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bridgewater",
+    "mz:postal_locality_alt":[
+        "Somerville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477917,
         85633793,
+        102085045,
+        404477917,
         85976133,
-        102085045
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761259"
     },
     "wof:country":"US",
-    "wof:geomhash":"97ff437ccaa7e37e017c73436c7f4f3e",
+    "wof:geomhash":"c093c00b535dfe4c465b43d5cce7202c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554700693,
-    "wof:lastmodified":1480806956,
+    "wof:lastmodified":1611183185,
     "wof:name":"08807",
     "wof:parent_id":85976133,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010197,
-    "geom:area_square_m":105731253.390659,
+    "geom:area_square_m":105731253.390658,
     "geom:bbox":"-96.601985,32.921871,-96.475459,33.080636",
     "geom:latitude":33.011873,
     "geom:longitude":-96.534772,
@@ -14,20 +14,25 @@
     "lbl:latitude":33.012135,
     "lbl:longitude":-96.534936,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wylie",
+    "mz:postal_locality_alt":[
+        "Plano"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102086765,
         101724041,
-        102086765
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12790375"
     },
     "wof:country":"US",
-    "wof:geomhash":"605e3e52013a27d8eeedb5c0b1bb4221",
+    "wof:geomhash":"514767107c7deb066bf68d3393fdacc2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554744271,
-    "wof:lastmodified":1480911658,
+    "wof:lastmodified":1611184741,
     "wof:name":"75098",
     "wof:parent_id":101724041,
     "wof:placetype":"postalcode",

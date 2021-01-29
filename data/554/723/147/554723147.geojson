@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009515,
-    "geom:area_square_m":92329578.019688,
+    "geom:area_square_m":92329578.019758,
     "geom:bbox":"-86.073864,38.260384,-85.884061,38.356449",
     "geom:latitude":38.304729,
     "geom:longitude":-85.982548,
@@ -14,20 +14,22 @@
     "lbl:latitude":38.30596,
     "lbl:longitude":-85.984844,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Georgetown",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404500543,
         85633793,
-        102087137
+        102087137,
+        404500543,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778067"
     },
     "wof:country":"US",
-    "wof:geomhash":"f48cfdf2f3b8719dc2211aebeb93434c",
+    "wof:geomhash":"c4cccc89147245ecf7d3afdc23c443f7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554723147,
-    "wof:lastmodified":1480784534,
+    "wof:lastmodified":1611183813,
     "wof:name":"47122",
     "wof:parent_id":404500543,
     "wof:placetype":"postalcode",

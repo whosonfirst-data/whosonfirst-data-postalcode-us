@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.125155,
-    "geom:area_square_m":1112439093.615637,
+    "geom:area_square_m":1112439093.615035,
     "geom:bbox":"-117.627344,43.801168,-117.082328,44.24779",
     "geom:latitude":44.041617,
     "geom:longitude":-117.361133,
@@ -14,19 +14,24 @@
     "lbl:latitude":44.037114,
     "lbl:longitude":-117.351072,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Vale",
+    "mz:postal_locality_alt":[
+        "Ontario"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688513,
-        102081633
+        102081633,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12798876"
     },
     "wof:country":"US",
-    "wof:geomhash":"56414869a0dd93c9436295f71cad3408",
+    "wof:geomhash":"3d358b1ef8a0bfbb97cfe85fbc953e13",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554755325,
-    "wof:lastmodified":1480823793,
+    "wof:lastmodified":1611182584,
     "wof:name":"97918",
     "wof:parent_id":102081633,
     "wof:placetype":"postalcode",

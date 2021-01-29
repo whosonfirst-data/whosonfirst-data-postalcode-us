@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01279,
-    "geom:area_square_m":121276372.755149,
+    "geom:area_square_m":121276372.755298,
     "geom:bbox":"-75.73624,39.871811,-75.500632,39.976335",
     "geom:latitude":39.928082,
     "geom:longitude":-75.612293,
@@ -13,20 +13,25 @@
     "lbl:latitude":39.927665,
     "lbl:longitude":-75.613166,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"West Chester",
+    "mz:postal_locality_alt":[
+        "Westtown"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404486007,
         85633793,
-        102081275
+        102081275,
+        404486007,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765612"
     },
     "wof:country":"US",
-    "wof:geomhash":"e7a05fce4473cd6907d527742b3b5bb1",
+    "wof:geomhash":"2b051a8f47fdff251945aebae2fd0b4f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554706429,
-    "wof:lastmodified":1480906379,
+    "wof:lastmodified":1611182708,
     "wof:name":"19382",
     "wof:parent_id":404486007,
     "wof:placetype":"postalcode",

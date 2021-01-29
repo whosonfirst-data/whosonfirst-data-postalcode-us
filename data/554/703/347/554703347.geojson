@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007159,
-    "geom:area_square_m":67112341.831565,
+    "geom:area_square_m":67112341.831542,
     "geom:bbox":"-80.456219,40.627306,-80.287584,40.740602",
     "geom:latitude":40.697963,
     "geom:longitude":-80.365429,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.697912,
     "lbl:longitude":-80.365277,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Beaver",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404484369,
         85633793,
-        102081323
+        102081323,
+        404484369,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763540"
     },
     "wof:country":"US",
-    "wof:geomhash":"82ef011407fa5a32ddd1d7ac186ad727",
+    "wof:geomhash":"f81da3e7db40afcc0d1c7954b2e73a6b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554703347,
-    "wof:lastmodified":1480832487,
+    "wof:lastmodified":1611184464,
     "wof:name":"15009",
     "wof:parent_id":404484369,
     "wof:placetype":"postalcode",

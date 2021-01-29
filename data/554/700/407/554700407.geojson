@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00046,
-    "geom:area_square_m":4373868.790522,
+    "geom:area_square_m":4373868.790515,
     "geom:bbox":"-75.23054,39.788031,-75.186478,39.826065",
     "geom:latitude":39.804518,
     "geom:longitude":-75.207012,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.79887,
     "lbl:longitude":-75.205365,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mt Royal",
+    "mz:postal_locality_alt":[
+        "Mount Royal"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478173,
         85633793,
-        102085999
+        102085999,
+        404478173,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761030"
     },
     "wof:country":"US",
-    "wof:geomhash":"4ba0605479d36695d625b9560a061e5f",
+    "wof:geomhash":"ba413017336f2bf276938666fda0eb01",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554700407,
-    "wof:lastmodified":1480811065,
+    "wof:lastmodified":1611183186,
     "wof:name":"08061",
     "wof:parent_id":404478173,
     "wof:placetype":"postalcode",

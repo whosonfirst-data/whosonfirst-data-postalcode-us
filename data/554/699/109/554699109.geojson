@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029229,
-    "geom:area_square_m":261429580.878667,
+    "geom:area_square_m":261429580.878809,
     "geom:bbox":"-73.430527,43.539549,-73.184664,43.764469",
     "geom:latitude":43.669639,
     "geom:longitude":-73.306046,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.67733,
     "lbl:longitude":-73.304925,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fair Haven",
+    "mz:postal_locality_alt":[
+        "Benson"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688763,
         102191575,
-        404527285,
         85633793,
-        102080771
+        102080771,
+        404527285,
+        85688763
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760085"
     },
     "wof:country":"US",
-    "wof:geomhash":"b4b7609378a21b2f5af1b5edfbeb0721",
+    "wof:geomhash":"5774f7a3bb3055a82999dc0e01306667",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554699109,
-    "wof:lastmodified":1480903938,
+    "wof:lastmodified":1611184618,
     "wof:name":"05743",
     "wof:parent_id":404527285,
     "wof:placetype":"postalcode",

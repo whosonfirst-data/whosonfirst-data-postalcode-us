@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019338,
-    "geom:area_square_m":187732762.433535,
+    "geom:area_square_m":187732762.433447,
     "geom:bbox":"-76.729522,38.174733,-76.519895,38.374748",
     "geom:latitude":38.269112,
     "geom:longitude":-76.634354,
@@ -14,19 +14,24 @@
     "lbl:latitude":38.268654,
     "lbl:longitude":-76.633157,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Leonardtown",
+    "mz:postal_locality_alt":[
+        "Compton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688501,
-        102082729
+        102082729,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766223"
     },
     "wof:country":"US",
-    "wof:geomhash":"ae468a1413ec47b5abca1c870d54d035",
+    "wof:geomhash":"5c63505d04e4e7341854d4ba404fe4b1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554706899,
-    "wof:lastmodified":1480790596,
+    "wof:lastmodified":1611182713,
     "wof:name":"20650",
     "wof:parent_id":102082729,
     "wof:placetype":"postalcode",

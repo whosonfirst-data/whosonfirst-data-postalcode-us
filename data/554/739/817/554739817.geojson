@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015223,
-    "geom:area_square_m":142724551.022653,
+    "geom:area_square_m":142724551.022665,
     "geom:bbox":"-96.349592,40.591483,-96.236075,40.783734",
     "geom:latitude":40.691863,
     "geom:longitude":-96.288479,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.691824,
     "lbl:longitude":-96.288481,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Unadilla",
+    "mz:postal_locality_alt":[
+        "York"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688563,
         102191575,
-        404520149,
         85633793,
-        102082763
+        102082763,
+        404520149,
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787690"
     },
     "wof:country":"US",
-    "wof:geomhash":"bb85d5d3a55f8f603996cd3108b29ea8",
+    "wof:geomhash":"35af2c46aef80d7bef6cc33e31940f86",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554739817,
-    "wof:lastmodified":1480793451,
+    "wof:lastmodified":1611182655,
     "wof:name":"68454",
     "wof:parent_id":404520149,
     "wof:placetype":"postalcode",

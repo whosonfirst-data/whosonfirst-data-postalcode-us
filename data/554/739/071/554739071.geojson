@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.050934,
-    "geom:area_square_m":497196491.680128,
+    "geom:area_square_m":497196491.680025,
     "geom:bbox":"-99.352755,37.73329,-99.096076,38.000552",
     "geom:latitude":37.866189,
     "geom:longitude":-99.228454,
@@ -14,20 +14,25 @@
     "lbl:latitude":37.866129,
     "lbl:longitude":-99.22843,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lewis",
+    "mz:postal_locality_alt":[
+        "Mc Cracken"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404503429,
         85633793,
-        102083425
+        102083425,
+        404503429,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787320"
     },
     "wof:country":"US",
-    "wof:geomhash":"13de03d3ff6bab8bf0d6f1a122af7953",
+    "wof:geomhash":"312cf8a1dec091e3a332b5a37cd2341b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554739071,
-    "wof:lastmodified":1480839137,
+    "wof:lastmodified":1611182656,
     "wof:name":"67552",
     "wof:parent_id":404503429,
     "wof:placetype":"postalcode",

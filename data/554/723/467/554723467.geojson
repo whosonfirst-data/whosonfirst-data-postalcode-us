@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015928,
-    "geom:area_square_m":154549746.394634,
+    "geom:area_square_m":154549746.394556,
     "geom:bbox":"-86.782989,38.225159,-86.623764,38.394943",
     "geom:latitude":38.3061,
     "geom:longitude":-86.703151,
@@ -14,20 +14,25 @@
     "lbl:latitude":38.304259,
     "lbl:longitude":-86.714111,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Birdseye",
+    "mz:postal_locality_alt":[
+        "Celestine"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404499937,
         85633793,
-        102087109
+        102087109,
+        404499937,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778260"
     },
     "wof:country":"US",
-    "wof:geomhash":"6379704cc71b9305cde99b70cb266a49",
+    "wof:geomhash":"bf56fc4def9d9a0d2f176bdaf1b9e72b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554723467,
-    "wof:lastmodified":1480916639,
+    "wof:lastmodified":1611183804,
     "wof:name":"47513",
     "wof:parent_id":404499937,
     "wof:placetype":"postalcode",

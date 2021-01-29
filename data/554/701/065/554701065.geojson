@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022397,
-    "geom:area_square_m":202539630.360558,
+    "geom:area_square_m":202539630.360602,
     "geom:bbox":"-74.001624,42.932673,-73.723908,43.072944",
     "geom:latitude":43.002461,
     "geom:longitude":-73.868013,
@@ -14,20 +14,26 @@
     "lbl:latitude":43.001589,
     "lbl:longitude":-73.868123,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ballston Spa",
+    "mz:postal_locality_alt":[
+        "Malta",
+        "Round Lake"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404521395,
         85633793,
-        102082413
+        102082413,
+        404521395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762044"
     },
     "wof:country":"US",
-    "wof:geomhash":"bdac38939d4fe55455b4d1236a98a5c7",
+    "wof:geomhash":"186d3ed67a63b63a4789d8c344d25b8d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554701065,
-    "wof:lastmodified":1480794677,
+    "wof:lastmodified":1611182620,
     "wof:name":"12020",
     "wof:parent_id":404521395,
     "wof:placetype":"postalcode",

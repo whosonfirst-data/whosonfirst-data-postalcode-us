@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049533,
-    "geom:area_square_m":420502452.326536,
+    "geom:area_square_m":420502452.32647,
     "geom:bbox":"-98.903004,46.514601,-98.460142,46.733007",
     "geom:latitude":46.642658,
     "geom:longitude":-98.66532,
@@ -14,20 +14,26 @@
     "lbl:latitude":46.638569,
     "lbl:longitude":-98.650249,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Montpelier",
+    "mz:postal_locality_alt":[
+        "Adrian",
+        "Millarton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688525,
         102191575,
-        404482413,
         85633793,
-        102082093
+        102082093,
+        404482413,
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12783340"
     },
     "wof:country":"US",
-    "wof:geomhash":"ca8c80ddd074f1ecf70c12ec4ba07a82",
+    "wof:geomhash":"3e7d30859a65980ede06a0f533d7675f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554732027,
-    "wof:lastmodified":1480795379,
+    "wof:lastmodified":1611184394,
     "wof:name":"58472",
     "wof:parent_id":404482413,
     "wof:placetype":"postalcode",

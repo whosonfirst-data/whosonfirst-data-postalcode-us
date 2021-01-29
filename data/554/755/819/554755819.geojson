@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002506,
-    "geom:area_square_m":21054232.167779,
+    "geom:area_square_m":21054232.167775,
     "geom:bbox":"-122.623839,47.184819,-122.502672,47.224312",
     "geom:latitude":47.20328,
     "geom:longitude":-122.568803,
@@ -14,20 +14,25 @@
     "lbl:latitude":47.203279,
     "lbl:longitude":-122.567719,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Tacoma",
+    "mz:postal_locality_alt":[
+        "University Place"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688623,
         102191575,
         85633793,
+        102087547,
         101730265,
-        102087547
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12799195"
     },
     "wof:country":"US",
-    "wof:geomhash":"45963973a692ee6003a9d437d9a7575c",
+    "wof:geomhash":"6b8de1a1fffbab9f0ffa4b14ada83798",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554755819,
-    "wof:lastmodified":1480781957,
+    "wof:lastmodified":1611182570,
     "wof:name":"98467",
     "wof:parent_id":101730265,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006446,
-    "geom:area_square_m":59805235.164259,
+    "geom:area_square_m":59805235.164255,
     "geom:bbox":"-81.4891,41.348272,-81.391694,41.424753",
     "geom:latitude":41.383269,
     "geom:longitude":-81.444403,
@@ -14,21 +14,26 @@
     "lbl:latitude":41.383262,
     "lbl:longitude":-81.444249,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Solon",
+    "mz:postal_locality_alt":[
+        "Cleveland"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404524457,
         85633793,
+        102084837,
+        404524457,
         101712529,
-        102084837
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776665"
     },
     "wof:country":"US",
-    "wof:geomhash":"204d8870cd24274422760e13cf035050",
+    "wof:geomhash":"08b915a80eb8c2c39bc7c6d5da7520a2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554721029,
-    "wof:lastmodified":1480800397,
+    "wof:lastmodified":1611184970,
     "wof:name":"44139",
     "wof:parent_id":101712529,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009816,
-    "geom:area_square_m":93724527.209478,
+    "geom:area_square_m":93724527.209464,
     "geom:bbox":"-88.570363,39.374335,-88.44747,39.520546",
     "geom:latitude":39.450958,
     "geom:longitude":-88.504075,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.451216,
     "lbl:longitude":-88.501263,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Arthur",
+    "mz:postal_locality_alt":[
+        "Gays"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404498623,
         85633793,
-        102082295
+        102082295,
+        404498623,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784888"
     },
     "wof:country":"US",
-    "wof:geomhash":"61b81ceaaa0ee7a2369c498caf440f90",
+    "wof:geomhash":"9df68d5e874b0e49ea0e201e8f314317",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554734483,
-    "wof:lastmodified":1480911662,
+    "wof:lastmodified":1611184182,
     "wof:name":"61928",
     "wof:parent_id":404498623,
     "wof:placetype":"postalcode",

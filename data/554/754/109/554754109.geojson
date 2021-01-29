@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048712,
-    "geom:area_square_m":467990273.493226,
+    "geom:area_square_m":467990273.493315,
     "geom:bbox":"-122.262255,38.903393,-121.904139,39.195609",
     "geom:latitude":39.016513,
     "geom:longitude":-122.061818,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.016702,
     "lbl:longitude":-122.062143,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Arbuckle",
+    "mz:postal_locality_alt":[
+        "Dunnigan"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102080851,
         85927107,
-        102080851
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12798043"
     },
     "wof:country":"US",
-    "wof:geomhash":"a8febc79ec99d93b9d474eac5ff374ec",
+    "wof:geomhash":"07a6159fcf7b353b0ee0d7d5172a3d3b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554754109,
-    "wof:lastmodified":1480907174,
+    "wof:lastmodified":1611182900,
     "wof:name":"95912",
     "wof:parent_id":85927107,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000909,
-    "geom:area_square_m":8942434.275016,
+    "geom:area_square_m":8942434.27501,
     "geom:bbox":"-76.529503,37.238448,-76.47784,37.269478",
     "geom:latitude":37.255211,
     "geom:longitude":-76.50184,
@@ -14,20 +14,25 @@
     "lbl:latitude":37.262931,
     "lbl:longitude":-76.507489,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Gloucester Point",
+    "mz:postal_locality_alt":[
+        "Ordinary"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688747,
         102191575,
         85633793,
+        102081417,
         101729481,
-        102081417
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12767175"
     },
     "wof:country":"US",
-    "wof:geomhash":"b9452def772e17c291dfb842fc972a44",
+    "wof:geomhash":"a1cee4ca23d7285bbfff6e715f2eb43d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554780713,
-    "wof:lastmodified":1480910513,
+    "wof:lastmodified":1611185172,
     "wof:name":"23062",
     "wof:parent_id":101729481,
     "wof:placetype":"postalcode",

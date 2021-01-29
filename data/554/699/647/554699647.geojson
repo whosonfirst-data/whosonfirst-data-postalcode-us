@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004586,
-    "geom:area_square_m":42520965.205982,
+    "geom:area_square_m":42520965.205998,
     "geom:bbox":"-72.963487,41.371047,-72.85136,41.464097",
     "geom:latitude":41.427598,
     "geom:longitude":-72.913446,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.430832,
     "lbl:longitude":-72.912021,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hamden",
+    "mz:postal_locality_alt":[
+        "Fairfield"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688629,
         102191575,
-        404495777,
         85633793,
-        102086923
+        102086923,
+        404495777,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760460"
     },
     "wof:country":"US",
-    "wof:geomhash":"ff87e01472f591bb2958f84b706d9f44",
+    "wof:geomhash":"a5fb4ab8dc295ec43effffb0c2abc643",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554699647,
-    "wof:lastmodified":1480916210,
+    "wof:lastmodified":1611184623,
     "wof:name":"06518",
     "wof:parent_id":404495777,
     "wof:placetype":"postalcode",

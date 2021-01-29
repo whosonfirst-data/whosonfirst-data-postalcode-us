@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008814,
-    "geom:area_square_m":83137173.737247,
+    "geom:area_square_m":83137173.737251,
     "geom:bbox":"-84.738006,40.243136,-84.535996,40.338993",
     "geom:latitude":40.286765,
     "geom:longitude":-84.635712,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.292481,
     "lbl:longitude":-84.627731,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Rossburg",
+    "mz:postal_locality_alt":[
+        "North Star"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404523435,
         85633793,
-        102084823
+        102084823,
+        404523435,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777250"
     },
     "wof:country":"US",
-    "wof:geomhash":"40473ac7a32a4884ab36478f11f6e0c5",
+    "wof:geomhash":"f1d8511eaec673cd60e4278ab4f8e0f5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554721905,
-    "wof:lastmodified":1480800717,
+    "wof:lastmodified":1611184967,
     "wof:name":"45362",
     "wof:parent_id":404523435,
     "wof:placetype":"postalcode",

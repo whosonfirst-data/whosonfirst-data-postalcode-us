@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032768,
-    "geom:area_square_m":304661055.685154,
+    "geom:area_square_m":304661055.685231,
     "geom:bbox":"-82.964622,41.142881,-82.727127,41.357774",
     "geom:latitude":41.244644,
     "geom:longitude":-82.844591,
@@ -14,20 +14,26 @@
     "lbl:latitude":41.246317,
     "lbl:longitude":-82.846599,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bellevue",
+    "mz:postal_locality_alt":[
+        "Attica",
+        "Sandusky"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404525621,
         85633793,
-        102084717
+        102084717,
+        404525621,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776958"
     },
     "wof:country":"US",
-    "wof:geomhash":"1334691febe862540d8a14dec7f33b34",
+    "wof:geomhash":"a54147557ce8df6058f62f639ed8cc56",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554721467,
-    "wof:lastmodified":1480839179,
+    "wof:lastmodified":1611184972,
     "wof:name":"44811",
     "wof:parent_id":404525621,
     "wof:placetype":"postalcode",

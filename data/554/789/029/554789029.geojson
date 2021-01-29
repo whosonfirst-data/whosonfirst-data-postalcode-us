@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000277,
-    "geom:area_square_m":2748834.61439,
+    "geom:area_square_m":2748834.614381,
     "geom:bbox":"-121.936626,36.544166,-121.91392,36.56432",
     "geom:latitude":36.553461,
     "geom:longitude":-121.924105,
@@ -13,20 +13,28 @@
     "lbl:latitude":36.553175,
     "lbl:longitude":-121.92396,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Carmel",
+    "mz:postal_locality_alt":[
+        "Carmel by the Sea",
+        "Carmel-by-the-Sea",
+        "Carmel-By-The-Sea",
+        "Carmel by the"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102080859,
         85922639,
-        102080859
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12797078"
     },
     "wof:country":"US",
-    "wof:geomhash":"be653a60dadc272facf3a4b34aa9a6e4",
+    "wof:geomhash":"4e73ff79871feaae496134a1db92df71",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +46,7 @@
         }
     ],
     "wof:id":554789029,
-    "wof:lastmodified":1480907186,
+    "wof:lastmodified":1611185206,
     "wof:name":"93921",
     "wof:parent_id":85922639,
     "wof:placetype":"postalcode",

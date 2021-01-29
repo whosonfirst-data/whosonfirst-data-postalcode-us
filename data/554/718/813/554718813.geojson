@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001072,
-    "geom:area_square_m":10411715.232313,
+    "geom:area_square_m":10411715.232329,
     "geom:bbox":"-85.56214,38.223346,-85.504845,38.258068",
     "geom:latitude":38.239244,
     "geom:longitude":-85.534232,
@@ -14,20 +14,25 @@
     "lbl:latitude":38.241801,
     "lbl:longitude":-85.536121,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Louisville",
+    "mz:postal_locality_alt":[
+        "Middletown"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688641,
         102191575,
         85633793,
+        102084449,
         85947505,
-        102084449
+        85688641
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12775195"
     },
     "wof:country":"US",
-    "wof:geomhash":"b40a3ac50fabde62c9d58335bacfba86",
+    "wof:geomhash":"207ef956df4b0108213e91508bf29a0b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554718813,
-    "wof:lastmodified":1480802914,
+    "wof:lastmodified":1611185580,
     "wof:name":"40243",
     "wof:parent_id":85947505,
     "wof:placetype":"postalcode",

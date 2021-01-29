@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009522,
-    "geom:area_square_m":86371831.818997,
+    "geom:area_square_m":86371831.818963,
     "geom:bbox":"-77.716087,42.763545,-77.51465,42.865829",
     "geom:latitude":42.811754,
     "geom:longitude":-77.636003,
@@ -14,20 +14,22 @@
     "lbl:latitude":42.811758,
     "lbl:longitude":-77.636006,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Livonia",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404521223,
         85633793,
-        102082381
+        102082381,
+        404521223,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763262"
     },
     "wof:country":"US",
-    "wof:geomhash":"90218fc1eb65f4572602e072cfafeb4e",
+    "wof:geomhash":"6153af8d32ffca76f71c9aa4f0690660",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554702933,
-    "wof:lastmodified":1480795901,
+    "wof:lastmodified":1611184158,
     "wof:name":"14487",
     "wof:parent_id":404521223,
     "wof:placetype":"postalcode",

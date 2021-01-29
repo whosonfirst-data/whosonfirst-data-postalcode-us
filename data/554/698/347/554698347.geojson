@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000651,
-    "geom:area_square_m":5767581.816786,
+    "geom:area_square_m":5767581.816777,
     "geom:bbox":"-69.77039,44.223795,-69.723614,44.246569",
     "geom:latitude":44.234701,
     "geom:longitude":-69.750648,
@@ -14,21 +14,26 @@
     "lbl:latitude":44.237286,
     "lbl:longitude":-69.751247,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Randolph",
+    "mz:postal_locality_alt":[
+        "Gardiner"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404474979,
         85633793,
+        102087461,
+        404474979,
         85948933,
-        102087461
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759531"
     },
     "wof:country":"US",
-    "wof:geomhash":"0704355501a4d712063c0aa315194c4c",
+    "wof:geomhash":"1fc9f8e78772c1c125ee98bd56acf09f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554698347,
-    "wof:lastmodified":1480786871,
+    "wof:lastmodified":1611184689,
     "wof:name":"04346",
     "wof:parent_id":85948933,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044821,
-    "geom:area_square_m":467018209.790266,
+    "geom:area_square_m":467018209.790477,
     "geom:bbox":"-82.957066,32.403751,-82.668557,32.71576",
     "geom:latitude":32.577192,
     "geom:longitude":-82.811366,
@@ -14,19 +14,29 @@
     "lbl:latitude":32.581117,
     "lbl:longitude":-82.804219,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Dublin",
+    "mz:postal_locality_alt":[
+        "East Dublin",
+        "Milledgeville",
+        "Warner Robins",
+        "Eatonton",
+        "Robins Afb",
+        "Adrian"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688535,
-        102083597
+        102083597,
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12771075"
     },
     "wof:country":"US",
-    "wof:geomhash":"a3dcc250c15ca121d26fb2777a94e834",
+    "wof:geomhash":"91ab67d4dc0c3bc6c1edd337464d9a9f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +47,7 @@
         }
     ],
     "wof:id":554713593,
-    "wof:lastmodified":1480834648,
+    "wof:lastmodified":1611183292,
     "wof:name":"31027",
     "wof:parent_id":102083597,
     "wof:placetype":"postalcode",

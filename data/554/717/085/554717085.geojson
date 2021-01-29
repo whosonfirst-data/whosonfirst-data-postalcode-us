@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034316,
-    "geom:area_square_m":343390511.219722,
+    "geom:area_square_m":343390511.220046,
     "geom:bbox":"-83.30295,35.812715,-83.072821,36.151095",
     "geom:latitude":35.976222,
     "geom:longitude":-83.194807,
@@ -13,19 +13,25 @@
     "lbl:latitude":35.97517,
     "lbl:longitude":-83.195566,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Newport",
+    "mz:postal_locality_alt":[
+        "Sevierville",
+        "Surgoinsville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688701,
-        102086241
+        102086241,
+        85688701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12774142"
     },
     "wof:country":"US",
-    "wof:geomhash":"41d2ab216a917287349a5f57bc0987cb",
+    "wof:geomhash":"47b461ec1c6ec9d66d7eac2421a0e24f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +42,7 @@
         }
     ],
     "wof:id":554717085,
-    "wof:lastmodified":1480915604,
+    "wof:lastmodified":1611184995,
     "wof:name":"37821",
     "wof:parent_id":102086241,
     "wof:placetype":"postalcode",

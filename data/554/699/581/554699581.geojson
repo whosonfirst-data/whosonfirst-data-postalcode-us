@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010532,
-    "geom:area_square_m":97779609.41849,
+    "geom:area_square_m":97779609.418402,
     "geom:bbox":"-72.679671,41.246206,-72.532709,41.438256",
     "geom:latitude":41.337646,
     "geom:longitude":-72.626802,
@@ -14,20 +14,26 @@
     "lbl:latitude":41.344481,
     "lbl:longitude":-72.624521,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Madison",
+    "mz:postal_locality_alt":[
+        "Fairfield",
+        "Essex"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688629,
         102191575,
-        404495779,
         85633793,
-        102086923
+        102086923,
+        404495779,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760406"
     },
     "wof:country":"US",
-    "wof:geomhash":"0df07596864feb8da47c1a6b8bcc5ab6",
+    "wof:geomhash":"9ed9df64a0d1860801090afff5ff6f05",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554699581,
-    "wof:lastmodified":1480916209,
+    "wof:lastmodified":1611184613,
     "wof:name":"06443",
     "wof:parent_id":404495779,
     "wof:placetype":"postalcode",

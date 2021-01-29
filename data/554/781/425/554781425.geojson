@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001545,
-    "geom:area_square_m":17169043.773835,
+    "geom:area_square_m":17169043.773849,
     "geom:bbox":"-80.13612,25.986341,-80.102475,26.093062",
     "geom:latitude":26.031052,
     "geom:longitude":-80.119811,
@@ -13,20 +13,25 @@
     "lbl:latitude":26.027459,
     "lbl:longitude":-80.120219,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hollywood",
+    "mz:postal_locality_alt":[
+        "Hialeah"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688651,
         102191575,
         85633793,
+        102084727,
         85932381,
-        102084727
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12772065"
     },
     "wof:country":"US",
-    "wof:geomhash":"21378a63d42cba262285fc726ad9e67f",
+    "wof:geomhash":"e0d120d7748ded8900fd21645e77c326",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554781425,
-    "wof:lastmodified":1480802318,
+    "wof:lastmodified":1611184812,
     "wof:name":"33019",
     "wof:parent_id":85932381,
     "wof:placetype":"postalcode",

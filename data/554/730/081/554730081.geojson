@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027593,
-    "geom:area_square_m":238274392.935112,
+    "geom:area_square_m":238274392.935081,
     "geom:bbox":"-96.160781,45.614577,-95.854506,45.759876",
     "geom:latitude":45.70422,
     "geom:longitude":-96.019172,
@@ -14,20 +14,22 @@
     "lbl:latitude":45.709703,
     "lbl:longitude":-96.016509,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Donnelly",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404514619,
         85633793,
-        102087669
+        102087669,
+        404514619,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782343"
     },
     "wof:country":"US",
-    "wof:geomhash":"9f91276724807508395531e7e6181d61",
+    "wof:geomhash":"5cc623fe696ad674a3ae9889339ba9c7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554730081,
-    "wof:lastmodified":1480785046,
+    "wof:lastmodified":1611182748,
     "wof:name":"56235",
     "wof:parent_id":404514619,
     "wof:placetype":"postalcode",

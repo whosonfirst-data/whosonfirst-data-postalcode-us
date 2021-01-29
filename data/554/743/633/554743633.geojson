@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002116,
-    "geom:area_square_m":21123804.095473,
+    "geom:area_square_m":21123804.095461,
     "geom:bbox":"-95.833386,36.133404,-95.7438,36.161248",
     "geom:latitude":36.147616,
     "geom:longitude":-95.793923,
@@ -13,20 +13,25 @@
     "lbl:latitude":36.139944,
     "lbl:longitude":-95.789657,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Tulsa",
+    "mz:postal_locality_alt":[
+        "Catoosa"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688585,
         102191575,
         85633793,
+        102083277,
         101714287,
-        102083277
+        85688585
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12789987"
     },
     "wof:country":"US",
-    "wof:geomhash":"d81ab57b9f335958bf93a3a98aa2d26d",
+    "wof:geomhash":"795de01646d960f7f2b096e754afa9c5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554743633,
-    "wof:lastmodified":1480838388,
+    "wof:lastmodified":1611184774,
     "wof:name":"74108",
     "wof:parent_id":101714287,
     "wof:placetype":"postalcode",

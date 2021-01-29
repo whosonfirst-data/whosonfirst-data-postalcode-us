@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000681,
-    "geom:area_square_m":6383806.512252,
+    "geom:area_square_m":6383806.512249,
     "geom:bbox":"-73.780012,40.731779,-73.740195,40.76038",
     "geom:latitude":40.745294,
     "geom:longitude":-73.760583,
@@ -14,21 +14,26 @@
     "lbl:latitude":40.745294,
     "lbl:longitude":-73.760583,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Oakland Gardens",
+    "mz:postal_locality_alt":[
+        "Flushing"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404521211,
         85633793,
+        102082361,
+        404521211,
         85977539,
-        102082361
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761781"
     },
     "wof:country":"US",
-    "wof:geomhash":"a9e59db7fd695d893b307dbd6b50c647",
+    "wof:geomhash":"40027be14449a799fb1a8bcc78bc76ff",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554779637,
-    "wof:lastmodified":1480790267,
+    "wof:lastmodified":1611183985,
     "wof:name":"11364",
     "wof:parent_id":85977539,
     "wof:placetype":"postalcode",

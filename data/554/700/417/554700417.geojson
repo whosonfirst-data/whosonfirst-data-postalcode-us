@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001604,
-    "geom:area_square_m":15227641.475422,
+    "geom:area_square_m":15227641.475433,
     "geom:bbox":"-75.26082,39.813065,-75.180841,39.85856",
     "geom:latitude":39.834511,
     "geom:longitude":-75.224989,
@@ -14,20 +14,26 @@
     "lbl:latitude":39.834292,
     "lbl:longitude":-75.228355,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Paulsboro",
+    "mz:postal_locality_alt":[
+        "Gibbstown",
+        "Thorofare"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478119,
         85633793,
-        102085999
+        102085999,
+        404478119,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761035"
     },
     "wof:country":"US",
-    "wof:geomhash":"df45cfce2e90602394fe1063e903aa51",
+    "wof:geomhash":"2323fc5890faff857638ddebdc1462e9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554700417,
-    "wof:lastmodified":1480906379,
+    "wof:lastmodified":1611183197,
     "wof:name":"08066",
     "wof:parent_id":404478119,
     "wof:placetype":"postalcode",

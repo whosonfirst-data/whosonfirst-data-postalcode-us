@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003904,
-    "geom:area_square_m":38156495.30171,
+    "geom:area_square_m":38156495.301719,
     "geom:bbox":"-97.345096,37.722588,-97.280637,37.82507",
     "geom:latitude":37.771805,
     "geom:longitude":-97.317433,
@@ -13,21 +13,26 @@
     "lbl:latitude":37.771483,
     "lbl:longitude":-97.318707,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wichita",
+    "mz:postal_locality_alt":[
+        "Park City"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404504905,
         85633793,
+        102084203,
+        404504905,
         85945863,
-        102084203
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787184"
     },
     "wof:country":"US",
-    "wof:geomhash":"61bd5581bd722573280f8b845ae3ceb8",
+    "wof:geomhash":"fb304bc168be1f2bc66257f8dded699d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554738803,
-    "wof:lastmodified":1480798327,
+    "wof:lastmodified":1611183102,
     "wof:name":"67219",
     "wof:parent_id":85945863,
     "wof:placetype":"postalcode",

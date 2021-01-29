@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035315,
-    "geom:area_square_m":335152437.261326,
+    "geom:area_square_m":335152437.261345,
     "geom:bbox":"-105.700784,39.756309,-105.397649,39.953676",
     "geom:latitude":39.8691,
     "geom:longitude":-105.532373,
@@ -14,19 +14,25 @@
     "lbl:latitude":39.870497,
     "lbl:longitude":-105.528825,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Black Hawk",
+    "mz:postal_locality_alt":[
+        "Central City",
+        "Golden"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688603,
-        102086133
+        102086133,
+        85688603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12793035"
     },
     "wof:country":"US",
-    "wof:geomhash":"7e983c666c7d90d142bf7dd51631b06e",
+    "wof:geomhash":"2f212c5f4b262ce79b43c1034cf5e23f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554748101,
-    "wof:lastmodified":1480911426,
+    "wof:lastmodified":1611183850,
     "wof:name":"80422",
     "wof:parent_id":102086133,
     "wof:placetype":"postalcode",

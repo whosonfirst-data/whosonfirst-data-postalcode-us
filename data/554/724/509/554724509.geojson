@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023341,
-    "geom:area_square_m":206805052.586239,
+    "geom:area_square_m":206805052.586206,
     "geom:bbox":"-84.074067,44.161716,-83.883392,44.331316",
     "geom:latitude":44.22942,
     "geom:longitude":-83.974065,
@@ -14,20 +14,22 @@
     "lbl:latitude":44.233746,
     "lbl:longitude":-83.973379,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Prescott",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404508473,
         85633793,
-        102083113
+        102083113,
+        404508473,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778983"
     },
     "wof:country":"US",
-    "wof:geomhash":"42447184a1c43cbd5cc7783500bffea1",
+    "wof:geomhash":"2f3c3370114fdd34ad788b4a2479c7a9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554724509,
-    "wof:lastmodified":1480839229,
+    "wof:lastmodified":1611183761,
     "wof:name":"48756",
     "wof:parent_id":404508473,
     "wof:placetype":"postalcode",

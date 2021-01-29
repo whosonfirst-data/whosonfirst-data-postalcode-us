@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014586,
-    "geom:area_square_m":135302217.814288,
+    "geom:area_square_m":135302217.814328,
     "geom:bbox":"-85.972116,41.334757,-85.767596,41.459376",
     "geom:latitude":41.391777,
     "geom:longitude":-85.874376,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.396628,
     "lbl:longitude":-85.869691,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Milford",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404501833,
         85633793,
-        102087157
+        102087157,
+        404501833,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777796"
     },
     "wof:country":"US",
-    "wof:geomhash":"f6bfe9c104e1ffa379d77f04d38b6ded",
+    "wof:geomhash":"fee0444fdbf0ab61eddadedfc7f8994e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554722735,
-    "wof:lastmodified":1480914511,
+    "wof:lastmodified":1611183233,
     "wof:name":"46542",
     "wof:parent_id":404501833,
     "wof:placetype":"postalcode",

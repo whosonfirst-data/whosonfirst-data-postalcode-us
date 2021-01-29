@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002493,
-    "geom:area_square_m":26793583.181159,
+    "geom:area_square_m":26793583.181156,
     "geom:bbox":"-95.648984,29.580582,-95.580733,29.662483",
     "geom:latitude":29.619646,
     "geom:longitude":-95.607027,
@@ -13,20 +13,25 @@
     "lbl:latitude":29.620312,
     "lbl:longitude":-95.605693,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Sugar Land",
+    "mz:postal_locality_alt":[
+        "Missouri City"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102087339,
         101725903,
-        102087339
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12791634"
     },
     "wof:country":"US",
-    "wof:geomhash":"f6efbb60fa5ec9c05edeb0caebca8beb",
+    "wof:geomhash":"a4861809a37d9a9908ee3ea96a325bb2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554746219,
-    "wof:lastmodified":1480785305,
+    "wof:lastmodified":1611184000,
     "wof:name":"77478",
     "wof:parent_id":101725903,
     "wof:placetype":"postalcode",

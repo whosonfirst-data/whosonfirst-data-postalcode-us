@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000416,
-    "geom:area_square_m":4080016.788599,
+    "geom:area_square_m":4080016.788603,
     "geom:bbox":"-122.519887,37.495364,-122.488993,37.537414",
     "geom:latitude":37.521845,
     "geom:longitude":-122.50621,
@@ -14,20 +14,26 @@
     "lbl:latitude":37.526902,
     "lbl:longitude":-122.512164,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Moss Beach",
+    "mz:postal_locality_alt":[
+        "Half Moon Bay",
+        "Montara"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102085387,
         85925815,
-        102085387
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12797125"
     },
     "wof:country":"US",
-    "wof:geomhash":"7506c302f70dfcc754af4274d4b17711",
+    "wof:geomhash":"be41a988fcc4398fe64c7050229b9451",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554784637,
-    "wof:lastmodified":1480806943,
+    "wof:lastmodified":1611183954,
     "wof:name":"94038",
     "wof:parent_id":85925815,
     "wof:placetype":"postalcode",

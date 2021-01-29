@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001369,
-    "geom:area_square_m":14987894.188109,
+    "geom:area_square_m":14987894.188111,
     "geom:bbox":"-82.704222,27.694419,-82.6751,27.771003",
     "geom:latitude":27.738829,
     "geom:longitude":-82.688256,
@@ -13,20 +13,26 @@
     "lbl:latitude":27.738611,
     "lbl:longitude":-82.68752,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"St Petersburg",
+    "mz:postal_locality_alt":[
+        "Saint Petersburg",
+        "Gulfport"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688651,
         102191575,
         85633793,
+        102085759,
         85931833,
-        102085759
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12772474"
     },
     "wof:country":"US",
-    "wof:geomhash":"6480574e6f548834202faf5d68a83cdd",
+    "wof:geomhash":"2b225bacb4e4709aa2616b34fcb86b5b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554781899,
-    "wof:lastmodified":1480807076,
+    "wof:lastmodified":1611184835,
     "wof:name":"33711",
     "wof:parent_id":85931833,
     "wof:placetype":"postalcode",

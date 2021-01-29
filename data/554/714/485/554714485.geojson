@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002425,
-    "geom:area_square_m":26051239.74293,
+    "geom:area_square_m":26051239.742948,
     "geom:bbox":"-82.432548,29.652355,-82.339091,29.703368",
     "geom:latitude":29.676595,
     "geom:longitude":-82.373599,
@@ -14,20 +14,25 @@
     "lbl:latitude":29.67918,
     "lbl:longitude":-82.372822,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Gainesville",
+    "mz:postal_locality_alt":[
+        "Chiefland"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688651,
         102191575,
         85633793,
+        102085829,
         85932213,
-        102085829
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12771811"
     },
     "wof:country":"US",
-    "wof:geomhash":"87cc886b255b315f7617649425c557f2",
+    "wof:geomhash":"d3559f892f25902c7dc1b78bc553d752",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554714485,
-    "wof:lastmodified":1480807892,
+    "wof:lastmodified":1611183348,
     "wof:name":"32605",
     "wof:parent_id":85932213,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004033,
-    "geom:area_square_m":41429008.745294,
+    "geom:area_square_m":41429008.745329,
     "geom:bbox":"-116.493477,33.759202,-116.440566,33.867515",
     "geom:latitude":33.818215,
     "geom:longitude":-116.466467,
@@ -13,20 +13,25 @@
     "lbl:latitude":33.818256,
     "lbl:longitude":-116.466743,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cathedral City",
+    "mz:postal_locality_alt":[
+        "Cathedral Cty"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086221,
         85923421,
-        102086221
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796354"
     },
     "wof:country":"US",
-    "wof:geomhash":"94e56b89d9f0739c0379a62366e3c7ab",
+    "wof:geomhash":"987642f7c9cf2e700e4868fbee003781",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554752221,
-    "wof:lastmodified":1480913409,
+    "wof:lastmodified":1611182520,
     "wof:name":"92234",
     "wof:parent_id":85923421,
     "wof:placetype":"postalcode",

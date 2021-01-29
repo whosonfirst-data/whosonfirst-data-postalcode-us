@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03215,
-    "geom:area_square_m":271346680.105775,
+    "geom:area_square_m":271346680.105611,
     "geom:bbox":"-97.787303,46.818189,-97.555305,47.094727",
     "geom:latitude":46.955218,
     "geom:longitude":-97.678311,
@@ -14,20 +14,22 @@
     "lbl:latitude":46.950839,
     "lbl:longitude":-97.671345,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Tower City",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688525,
         102191575,
-        404478905,
         85633793,
-        102082073
+        102082073,
+        404478905,
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12783160"
     },
     "wof:country":"US",
-    "wof:geomhash":"283285158890e61ad457a3208c4d5234",
+    "wof:geomhash":"d1b136a301d4f49fccd9d94d71526981",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554731685,
-    "wof:lastmodified":1480796038,
+    "wof:lastmodified":1611183079,
     "wof:name":"58071",
     "wof:parent_id":404478905,
     "wof:placetype":"postalcode",

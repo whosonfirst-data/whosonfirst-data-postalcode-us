@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037325,
-    "geom:area_square_m":345260294.794064,
+    "geom:area_square_m":345260294.793872,
     "geom:bbox":"-98.022998,41.466357,-97.715618,41.699197",
     "geom:latitude":41.575513,
     "geom:longitude":-97.869706,
@@ -14,21 +14,26 @@
     "lbl:latitude":41.572817,
     "lbl:longitude":-97.869571,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"St Edward",
+    "mz:postal_locality_alt":[
+        "Saint Edward"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688563,
         102191575,
-        404519439,
         85633793,
+        102082795,
+        404519439,
         85973729,
-        102082795
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787767"
     },
     "wof:country":"US",
-    "wof:geomhash":"8749148b52ff14c7e9fd3234232aed4b",
+    "wof:geomhash":"dcb6318039379fd7f61d1ac5c15e48c2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554739969,
-    "wof:lastmodified":1480838221,
+    "wof:lastmodified":1611182668,
     "wof:name":"68660",
     "wof:parent_id":85973729,
     "wof:placetype":"postalcode",

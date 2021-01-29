@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015015,
-    "geom:area_square_m":135375746.475373,
+    "geom:area_square_m":135375746.475351,
     "geom:bbox":"-75.072762,43.119424,-74.867885,43.249641",
     "geom:latitude":43.187087,
     "geom:longitude":-74.956125,
@@ -14,20 +14,22 @@
     "lbl:latitude":43.187371,
     "lbl:longitude":-74.970659,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Newport",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404521891,
         85633793,
-        102081877
+        102081877,
+        404521891,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762809"
     },
     "wof:country":"US",
-    "wof:geomhash":"4a19bf25c14c70f6b4051eac2c45090f",
+    "wof:geomhash":"e66b4f0ee965f1be42d583052da29a27",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554702339,
-    "wof:lastmodified":1480829723,
+    "wof:lastmodified":1611184134,
     "wof:name":"13416",
     "wof:parent_id":404521891,
     "wof:placetype":"postalcode",

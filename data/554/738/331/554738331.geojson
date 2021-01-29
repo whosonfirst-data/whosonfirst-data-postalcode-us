@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012536,
-    "geom:area_square_m":122257396.946087,
+    "geom:area_square_m":122257396.946081,
     "geom:bbox":"-95.335701,37.818107,-95.225156,38.038067",
     "geom:latitude":37.937744,
     "geom:longitude":-95.286674,
@@ -14,20 +14,22 @@
     "lbl:latitude":37.943731,
     "lbl:longitude":-95.289784,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"La Harpe",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404503741,
         85633793,
-        102082659
+        102082659,
+        404503741,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786969"
     },
     "wof:country":"US",
-    "wof:geomhash":"cf9dfdec3938b0cf6748940cdc3f072d",
+    "wof:geomhash":"d5856c8b439cff5b70756858f45f7e29",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554738331,
-    "wof:lastmodified":1480843106,
+    "wof:lastmodified":1611183093,
     "wof:name":"66751",
     "wof:parent_id":404503741,
     "wof:placetype":"postalcode",

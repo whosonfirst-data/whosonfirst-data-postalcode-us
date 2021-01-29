@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006581,
-    "geom:area_square_m":59530590.446506,
+    "geom:area_square_m":59530590.4465,
     "geom:bbox":"-78.798171,42.941227,-78.659468,43.027091",
     "geom:latitude":42.980014,
     "geom:longitude":-78.722863,
@@ -14,20 +14,26 @@
     "lbl:latitude":42.984481,
     "lbl:longitude":-78.722761,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Buffalo",
+    "mz:postal_locality_alt":[
+        "Williamsville",
+        "Amherst"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522321,
         85633793,
-        102082387
+        102082387,
+        404522321,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763183"
     },
     "wof:country":"US",
-    "wof:geomhash":"dfdc31752ceeca63e48d18046373930a",
+    "wof:geomhash":"2b2baadc2266f246d3db0514b40d3092",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554702849,
-    "wof:lastmodified":1480791305,
+    "wof:lastmodified":1611184161,
     "wof:name":"14221",
     "wof:parent_id":404522321,
     "wof:placetype":"postalcode",

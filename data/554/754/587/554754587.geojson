@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006367,
-    "geom:area_square_m":55144793.949633,
+    "geom:area_square_m":55144793.949607,
     "geom:bbox":"-122.433693,45.483166,-122.294653,45.575941",
     "geom:latitude":45.534244,
     "geom:longitude":-122.370308,
@@ -14,20 +14,25 @@
     "lbl:latitude":45.531327,
     "lbl:longitude":-122.36909,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Troutdale",
+    "mz:postal_locality_alt":[
+        "Wood Village"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688513,
         102191575,
         85633793,
+        102081631,
         101716273,
-        102081631
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12798446"
     },
     "wof:country":"US",
-    "wof:geomhash":"1ea675c801f0ea2c989b3ee262dc0ac5",
+    "wof:geomhash":"2c247d3b24a70ac12bdf25ae4921b2aa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554754587,
-    "wof:lastmodified":1480817182,
+    "wof:lastmodified":1611182897,
     "wof:name":"97060",
     "wof:parent_id":101716273,
     "wof:placetype":"postalcode",

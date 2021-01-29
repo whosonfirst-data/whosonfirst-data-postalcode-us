@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01348,
-    "geom:area_square_m":126687721.519042,
+    "geom:area_square_m":126687721.518955,
     "geom:bbox":"-95.078389,40.476493,-94.887084,40.576354",
     "geom:latitude":40.528874,
     "geom:longitude":-94.995907,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.528193,
     "lbl:longitude":-94.996257,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Clearmont",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404517047,
         85633793,
-        102087507
+        102087507,
+        404517047,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786101"
     },
     "wof:country":"US",
-    "wof:geomhash":"45533a5901ddfdaf41a49f7514863295",
+    "wof:geomhash":"898cc32b7540ddaadd11f4d683a8736f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554736647,
-    "wof:lastmodified":1480915996,
+    "wof:lastmodified":1611183043,
     "wof:name":"64431",
     "wof:parent_id":404517047,
     "wof:placetype":"postalcode",

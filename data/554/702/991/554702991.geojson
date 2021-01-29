@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009859,
-    "geom:area_square_m":89110265.898547,
+    "geom:area_square_m":89110265.898542,
     "geom:bbox":"-77.866106,42.988009,-77.684655,43.094701",
     "geom:latitude":43.031022,
     "geom:longitude":-77.773466,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.032675,
     "lbl:longitude":-77.780006,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Scottsville",
+    "mz:postal_locality_alt":[
+        "North Chili"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522659,
         85633793,
-        102081815
+        102081815,
+        404522659,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763301"
     },
     "wof:country":"US",
-    "wof:geomhash":"1639a73656b0990dae3bb247e70f0fc8",
+    "wof:geomhash":"4600454212b3ea93f7b31a8bebae6860",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554702991,
-    "wof:lastmodified":1480829696,
+    "wof:lastmodified":1611184133,
     "wof:name":"14546",
     "wof:parent_id":404522659,
     "wof:placetype":"postalcode",

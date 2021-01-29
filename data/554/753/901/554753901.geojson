@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006674,
-    "geom:area_square_m":64300229.122283,
+    "geom:area_square_m":64300229.12229,
     "geom:bbox":"-121.242152,38.766967,-121.101426,38.864661",
     "geom:latitude":38.812882,
     "geom:longitude":-121.170766,
@@ -14,19 +14,24 @@
     "lbl:latitude":38.809174,
     "lbl:longitude":-121.171375,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Loomis",
+    "mz:postal_locality_alt":[
+        "Rocklin"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688637,
-        102080863
+        102080863,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12797921"
     },
     "wof:country":"US",
-    "wof:geomhash":"dad32bc766c6101374e985cdae5fd51e",
+    "wof:geomhash":"8f7b7cec951b062b15cfd2131f8a59cb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554753901,
-    "wof:lastmodified":1480906294,
+    "wof:lastmodified":1611182927,
     "wof:name":"95650",
     "wof:parent_id":102080863,
     "wof:placetype":"postalcode",

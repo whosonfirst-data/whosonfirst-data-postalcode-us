@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037619,
-    "geom:area_square_m":361540359.954633,
+    "geom:area_square_m":361540359.954564,
     "geom:bbox":"-97.984367,38.899858,-97.639584,39.124879",
     "geom:latitude":38.991567,
     "geom:longitude":-97.831879,
@@ -14,20 +14,25 @@
     "lbl:latitude":38.993508,
     "lbl:longitude":-97.845299,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Tescott",
+    "mz:postal_locality_alt":[
+        "Culver"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404502969,
         85633793,
-        102084197
+        102084197,
+        404502969,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787285"
     },
     "wof:country":"US",
-    "wof:geomhash":"46c31d1b839bc3f148cabe519e521d26",
+    "wof:geomhash":"67c5ce4a0fa289ca81fdea79ad5ef318",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554738995,
-    "wof:lastmodified":1480834990,
+    "wof:lastmodified":1611183110,
     "wof:name":"67484",
     "wof:parent_id":404502969,
     "wof:placetype":"postalcode",

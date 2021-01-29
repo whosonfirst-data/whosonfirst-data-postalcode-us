@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010971,
-    "geom:area_square_m":103841831.671539,
+    "geom:area_square_m":103841831.671587,
     "geom:bbox":"-105.102943,40.000239,-104.942563,40.131486",
     "geom:latitude":40.051235,
     "geom:longitude":-105.018332,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.051112,
     "lbl:longitude":-105.027632,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Erie",
+    "mz:postal_locality_alt":[
+        "Frederick"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688603,
         102191575,
         85633793,
+        102086117,
         85929033,
-        102086117
+        85688603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12793101"
     },
     "wof:country":"US",
-    "wof:geomhash":"5970180f205d111ef199a922ab9af246",
+    "wof:geomhash":"ac3ff282650dc93fe8cc3379c6b119b8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554748181,
-    "wof:lastmodified":1480913969,
+    "wof:lastmodified":1611183842,
     "wof:name":"80516",
     "wof:parent_id":85929033,
     "wof:placetype":"postalcode",

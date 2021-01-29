@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033233,
-    "geom:area_square_m":297060897.439262,
+    "geom:area_square_m":297060897.43939,
     "geom:bbox":"-84.368472,43.583282,-84.10729,43.827635",
     "geom:latitude":43.706127,
     "geom:longitude":-84.229428,
@@ -13,20 +13,25 @@
     "lbl:latitude":43.712749,
     "lbl:longitude":-84.236964,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Midland",
+    "mz:postal_locality_alt":[
+        "Saginaw"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404508841,
         85633793,
-        102082997
+        102082997,
+        404508841,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778923"
     },
     "wof:country":"US",
-    "wof:geomhash":"5505257fd09ebb60159dd370d12e84e3",
+    "wof:geomhash":"1217e2ca2980307e04b30be4ae8606ca",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554724431,
-    "wof:lastmodified":1480839231,
+    "wof:lastmodified":1611183751,
     "wof:name":"48642",
     "wof:parent_id":404508841,
     "wof:placetype":"postalcode",

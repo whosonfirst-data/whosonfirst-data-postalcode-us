@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000809,
-    "geom:area_square_m":7581221.387153,
+    "geom:area_square_m":7581221.387144,
     "geom:bbox":"-74.25629,40.708294,-74.209375,40.74327",
     "geom:latitude":40.724188,
     "geom:longitude":-74.231789,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.723859,
     "lbl:longitude":-74.232522,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Irvington",
+    "mz:postal_locality_alt":[
+        "Newark"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478113,
         85633793,
-        102085043
+        102085043,
+        404478113,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760695"
     },
     "wof:country":"US",
-    "wof:geomhash":"549381fdbc845d75598ad28a15171659",
+    "wof:geomhash":"f1273330512725f3792edaef61debd66",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554699941,
-    "wof:lastmodified":1480816153,
+    "wof:lastmodified":1611184613,
     "wof:name":"07111",
     "wof:parent_id":404478113,
     "wof:placetype":"postalcode",

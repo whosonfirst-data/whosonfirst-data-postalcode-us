@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036102,
-    "geom:area_square_m":310240062.454912,
+    "geom:area_square_m":310240062.454624,
     "geom:bbox":"-93.261383,45.88971,-92.959857,46.071617",
     "geom:latitude":45.975139,
     "geom:longitude":-93.122798,
@@ -14,20 +14,22 @@
     "lbl:latitude":45.971304,
     "lbl:longitude":-93.11782,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Brook Park",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404510399,
         85633793,
-        102087721
+        102087721,
+        404510399,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781667"
     },
     "wof:country":"US",
-    "wof:geomhash":"5f823e2328cdf170b7d461b1c7205e0e",
+    "wof:geomhash":"84d07fd25daae6756d14f95abe18c9d0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554728903,
-    "wof:lastmodified":1480784938,
+    "wof:lastmodified":1611185074,
     "wof:name":"55007",
     "wof:parent_id":404510399,
     "wof:placetype":"postalcode",

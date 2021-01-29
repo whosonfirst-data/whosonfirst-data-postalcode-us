@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031907,
-    "geom:area_square_m":334356682.775282,
+    "geom:area_square_m":334356682.775064,
     "geom:bbox":"-84.255862,31.935445,-83.974778,32.192161",
     "geom:latitude":32.063973,
     "geom:longitude":-84.134078,
@@ -13,19 +13,28 @@
     "lbl:latitude":32.064806,
     "lbl:longitude":-84.123242,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Americus",
+    "mz:postal_locality_alt":[
+        "Blakely",
+        "Colquitt",
+        "Attapulgus",
+        "Cuthbert",
+        "Donalsonville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688535,
-        102082971
+        102082971,
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12771322"
     },
     "wof:country":"US",
-    "wof:geomhash":"6373da5b812827753820a5145d4320da",
+    "wof:geomhash":"b6c71c01a0b489e55981340b66625282",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +45,7 @@
         }
     ],
     "wof:id":554713957,
-    "wof:lastmodified":1480801139,
+    "wof:lastmodified":1611183316,
     "wof:name":"31709",
     "wof:parent_id":102082971,
     "wof:placetype":"postalcode",

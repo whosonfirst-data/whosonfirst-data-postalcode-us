@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021015,
-    "geom:area_square_m":206224386.420241,
+    "geom:area_square_m":206224386.420253,
     "geom:bbox":"-97.93548,37.385316,-97.788342,37.604504",
     "geom:latitude":37.476494,
     "geom:longitude":-97.855177,
@@ -14,20 +14,22 @@
     "lbl:latitude":37.481665,
     "lbl:longitude":-97.854212,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Norwich",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404504421,
         85633793,
-        102083455
+        102083455,
+        404504421,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787137"
     },
     "wof:country":"US",
-    "wof:geomhash":"95fd51097dc1350d0abe4ab38fe87a66",
+    "wof:geomhash":"b191c68408aee4f0bc892b8bc7885f77",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554738703,
-    "wof:lastmodified":1480836573,
+    "wof:lastmodified":1611183112,
     "wof:name":"67118",
     "wof:parent_id":404504421,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013154,
-    "geom:area_square_m":120929670.361234,
+    "geom:area_square_m":120929670.36124,
     "geom:bbox":"-80.441098,41.919975,-80.18413,42.02888",
     "geom:latitude":41.970835,
     "geom:longitude":-80.31331,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.971081,
     "lbl:longitude":-80.315028,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Girard",
+    "mz:postal_locality_alt":[
+        "Fairview"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404486679,
         85633793,
-        102080955
+        102080955,
+        404486679,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764302"
     },
     "wof:country":"US",
-    "wof:geomhash":"a1bb1a722b5432cecd5b4637efda5922",
+    "wof:geomhash":"7db6df640b214756e02966f0a6daccbf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554780321,
-    "wof:lastmodified":1480904870,
+    "wof:lastmodified":1611185194,
     "wof:name":"16417",
     "wof:parent_id":404486679,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004205,
-    "geom:area_square_m":38251793.679186,
+    "geom:area_square_m":38251793.679227,
     "geom:bbox":"-72.552777,42.596399,-72.465087,42.679996",
     "geom:latitude":42.633742,
     "geom:longitude":-72.511096,
@@ -14,20 +14,25 @@
     "lbl:latitude":42.624076,
     "lbl:longitude":-72.508643,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Gill",
+    "mz:postal_locality_alt":[
+        "Turners Falls"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476233,
         85633793,
-        102084457
+        102084457,
+        404476233,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"23509603"
     },
     "wof:country":"US",
-    "wof:geomhash":"9792b9b3f3841ad14f3baba9d580da61",
+    "wof:geomhash":"3647f60ea22c54d9a5e70c7628fb83cf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554756655,
-    "wof:lastmodified":1480798064,
+    "wof:lastmodified":1611184302,
     "wof:name":"01354",
     "wof:parent_id":404476233,
     "wof:placetype":"postalcode",

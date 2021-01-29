@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023564,
-    "geom:area_square_m":206910128.122847,
+    "geom:area_square_m":206910128.122842,
     "geom:bbox":"-90.455874,44.654167,-90.198417,44.843133",
     "geom:latitude":44.756357,
     "geom:longitude":-90.321529,
@@ -14,20 +14,25 @@
     "lbl:latitude":44.750611,
     "lbl:longitude":-90.331989,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Spencer",
+    "mz:postal_locality_alt":[
+        "Loyal"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404493031,
         85633793,
-        102081269
+        102081269,
+        404493031,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781348"
     },
     "wof:country":"US",
-    "wof:geomhash":"b13468e63471db1d45eae9dfb3a05c54",
+    "wof:geomhash":"a0f22bb11a308f5ce8c2f5941730c822",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554728339,
-    "wof:lastmodified":1480830735,
+    "wof:lastmodified":1611185049,
     "wof:name":"54479",
     "wof:parent_id":404493031,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.064176,
-    "geom:area_square_m":555952103.750348,
+    "geom:area_square_m":555952103.750143,
     "geom:bbox":"-91.909764,45.4075,-91.49032,45.655204",
     "geom:latitude":45.525969,
     "geom:longitude":-91.713515,
@@ -14,20 +14,25 @@
     "lbl:latitude":45.525662,
     "lbl:longitude":-91.707548,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Rice Lake",
+    "mz:postal_locality_alt":[
+        "Haugen"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404492869,
         85633793,
-        102081847
+        102081847,
+        404492869,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781578"
     },
     "wof:country":"US",
-    "wof:geomhash":"29c361298cfbd721b68e4527a9c71236",
+    "wof:geomhash":"793a68d44b0780c9f86558d8774a2c09",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554728751,
-    "wof:lastmodified":1480831137,
+    "wof:lastmodified":1611185075,
     "wof:name":"54868",
     "wof:parent_id":404492869,
     "wof:placetype":"postalcode",

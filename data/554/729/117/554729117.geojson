@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021202,
-    "geom:area_square_m":184552193.516941,
+    "geom:area_square_m":184552193.51697,
     "geom:bbox":"-93.407085,45.205813,-93.141987,45.304089",
     "geom:latitude":45.255688,
     "geom:longitude":-93.265581,
@@ -14,21 +14,28 @@
     "lbl:latitude":45.247605,
     "lbl:longitude":-93.275036,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Anoka",
+    "mz:postal_locality_alt":[
+        "Andover",
+        "Ham Lake",
+        "Minneapolis"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404511269,
         85633793,
+        102087861,
+        404511269,
         85953415,
-        102087861
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781788"
     },
     "wof:country":"US",
-    "wof:geomhash":"0cbfe7bdb530b73c8ead34bdcb02b8ae",
+    "wof:geomhash":"379814658309ec1f32539d9696e90530",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +48,7 @@
         }
     ],
     "wof:id":554729117,
-    "wof:lastmodified":1480785926,
+    "wof:lastmodified":1611185425,
     "wof:name":"55304",
     "wof:parent_id":85953415,
     "wof:placetype":"postalcode",

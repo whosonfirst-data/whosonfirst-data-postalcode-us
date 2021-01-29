@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008279,
-    "geom:area_square_m":80262548.530741,
+    "geom:area_square_m":80262548.530817,
     "geom:bbox":"-81.915197,38.319289,-81.744653,38.448109",
     "geom:latitude":38.367473,
     "geom:longitude":-81.847042,
@@ -14,20 +14,25 @@
     "lbl:latitude":38.367283,
     "lbl:longitude":-81.848331,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"St Albans",
+    "mz:postal_locality_alt":[
+        "Saint Albans"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688589,
         102191575,
         85633793,
+        102083335,
         101731773,
-        102083335
+        85688589
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12768187"
     },
     "wof:country":"US",
-    "wof:geomhash":"a7e777dcdf97c382149ea14ec6c0b7b7",
+    "wof:geomhash":"725fc05c9ef7724116541d0d0c3a9daa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554709433,
-    "wof:lastmodified":1480843098,
+    "wof:lastmodified":1611183011,
     "wof:name":"25177",
     "wof:parent_id":101731773,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00659,
-    "geom:area_square_m":62003282.836853,
+    "geom:area_square_m":62003282.836656,
     "geom:bbox":"-82.206792,40.411054,-82.085979,40.512489",
     "geom:latitude":40.458775,
     "geom:longitude":-82.145765,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.459722,
     "lbl:longitude":-82.149286,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Brinkhaven",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404526455,
         85633793,
-        102083651
+        102083651,
+        404526455,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776081"
     },
     "wof:country":"US",
-    "wof:geomhash":"e4dfc41798f31933674024383faaa0bf",
+    "wof:geomhash":"16a3112692a9ed60c6e77b0136ba929f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554720205,
-    "wof:lastmodified":1480837435,
+    "wof:lastmodified":1611185462,
     "wof:name":"43006",
     "wof:parent_id":404526455,
     "wof:placetype":"postalcode",

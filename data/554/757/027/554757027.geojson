@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032489,
-    "geom:area_square_m":308103169.392394,
+    "geom:area_square_m":308103169.392356,
     "geom:bbox":"-77.849674,39.809445,-77.520803,40.048205",
     "geom:latitude":39.921412,
     "geom:longitude":-77.677485,
@@ -13,20 +13,25 @@
     "lbl:latitude":39.875125,
     "lbl:longitude":-77.609075,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Chambersburg",
+    "mz:postal_locality_alt":[
+        "Marion"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485319,
         85633793,
-        102081365
+        102081365,
+        404485319,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"55805622"
     },
     "wof:country":"US",
-    "wof:geomhash":"0435245065d07fdf5729b22c0926680d",
+    "wof:geomhash":"4cd23debccae3178b126bfbe1451edeb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554757027,
-    "wof:lastmodified":1480824804,
+    "wof:lastmodified":1611184580,
     "wof:name":"17202",
     "wof:parent_id":404485319,
     "wof:placetype":"postalcode",

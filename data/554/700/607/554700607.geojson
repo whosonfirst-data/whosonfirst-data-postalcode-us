@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007448,
-    "geom:area_square_m":70088363.414215,
+    "geom:area_square_m":70088363.414169,
     "geom:bbox":"-74.914339,40.387175,-74.76247,40.488345",
     "geom:latitude":40.441751,
     "geom:longitude":-74.840074,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.447111,
     "lbl:longitude":-74.837285,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ringoes",
+    "mz:postal_locality_alt":[
+        "Lambertville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478165,
         85633793,
-        102085997
+        102085997,
+        404478165,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761184"
     },
     "wof:country":"US",
-    "wof:geomhash":"948cb421c41e8b02ac03946a31a2cce7",
+    "wof:geomhash":"907cca4d2ad3fc63d07a432b73620b35",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554700607,
-    "wof:lastmodified":1480812026,
+    "wof:lastmodified":1611183205,
     "wof:name":"08551",
     "wof:parent_id":404478165,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010487,
-    "geom:area_square_m":102356881.959673,
+    "geom:area_square_m":102356881.959659,
     "geom:bbox":"-81.268986,37.824228,-81.119016,37.953382",
     "geom:latitude":37.87816,
     "geom:longitude":-81.205797,
@@ -14,20 +14,26 @@
     "lbl:latitude":37.878948,
     "lbl:longitude":-81.207573,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mt Hope",
+    "mz:postal_locality_alt":[
+        "Mount Hope",
+        "Bradley"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688589,
         102191575,
         85633793,
+        102083349,
         101732005,
-        102083349
+        85688589
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12768503"
     },
     "wof:country":"US",
-    "wof:geomhash":"fbc515949051df31c9f7a7feab9f8274",
+    "wof:geomhash":"56d490f924212c08d333618954f95a46",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554709791,
-    "wof:lastmodified":1480841026,
+    "wof:lastmodified":1611182989,
     "wof:name":"25880",
     "wof:parent_id":101732005,
     "wof:placetype":"postalcode",

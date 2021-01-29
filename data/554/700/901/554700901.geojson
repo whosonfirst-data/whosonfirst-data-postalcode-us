@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002808,
-    "geom:area_square_m":26165887.884131,
+    "geom:area_square_m":26165887.884103,
     "geom:bbox":"-73.87392,41.046494,-73.801754,41.12108",
     "geom:latitude":41.085894,
     "geom:longitude":-73.844166,
@@ -14,20 +14,26 @@
     "lbl:latitude":41.090097,
     "lbl:longitude":-73.841014,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Tarrytown",
+    "mz:postal_locality_alt":[
+        "Sleepy Hollow",
+        "Bedford Hills"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404523367,
         85633793,
-        102082373
+        102082373,
+        404523367,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761587"
     },
     "wof:country":"US",
-    "wof:geomhash":"511c091085469f40eb986be88c4982a1",
+    "wof:geomhash":"8925de7e056000674b9c4dc117d53210",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554700901,
-    "wof:lastmodified":1480796134,
+    "wof:lastmodified":1611183176,
     "wof:name":"10591",
     "wof:parent_id":404523367,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045034,
-    "geom:area_square_m":406241373.263261,
+    "geom:area_square_m":406241373.263258,
     "geom:bbox":"-95.26939,43.024791,-95.01516,43.255613",
     "geom:latitude":43.152926,
     "geom:longitude":-95.14724,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.15317,
     "lbl:longitude":-95.147654,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Spencer",
+    "mz:postal_locality_alt":[
+        "Fostoria"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688713,
         102191575,
         85633793,
+        102086269,
         85943693,
-        102086269
+        85688713
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12780269"
     },
     "wof:country":"US",
-    "wof:geomhash":"84f0da7e60a80a4fb4b0b51fb474a465",
+    "wof:geomhash":"b0b715f0a3ede655a2a9f987c87e8070",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554726505,
-    "wof:lastmodified":1480912383,
+    "wof:lastmodified":1611184866,
     "wof:name":"51301",
     "wof:parent_id":85943693,
     "wof:placetype":"postalcode",

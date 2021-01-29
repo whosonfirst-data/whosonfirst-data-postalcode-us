@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032193,
-    "geom:area_square_m":306550012.644305,
+    "geom:area_square_m":306550012.644127,
     "geom:bbox":"-74.930052,39.539397,-74.585936,39.729909",
     "geom:latitude":39.638003,
     "geom:longitude":-74.772801,
@@ -14,21 +14,26 @@
     "lbl:latitude":39.639958,
     "lbl:longitude":-74.75932,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hammonton",
+    "mz:postal_locality_alt":[
+        "Winslow"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477275,
         85633793,
+        102083869,
+        404477275,
         85975331,
-        102083869
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761010"
     },
     "wof:country":"US",
-    "wof:geomhash":"c192131fa2cd207c5ad29dacb6c1c406",
+    "wof:geomhash":"13e13c9a2f0a772e2726537a0b667323",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554700371,
-    "wof:lastmodified":1480834716,
+    "wof:lastmodified":1611183190,
     "wof:name":"08037",
     "wof:parent_id":85975331,
     "wof:placetype":"postalcode",

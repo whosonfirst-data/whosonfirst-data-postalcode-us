@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.070409,
-    "geom:area_square_m":592122602.911523,
+    "geom:area_square_m":592122602.911642,
     "geom:bbox":"-99.481394,46.980046,-99.143284,47.298738",
     "geom:latitude":47.147481,
     "geom:longitude":-99.329045,
@@ -14,20 +14,25 @@
     "lbl:latitude":47.14646,
     "lbl:longitude":-99.328693,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Woodworth",
+    "mz:postal_locality_alt":[
+        "Sykeston"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688525,
         102191575,
-        404482447,
         85633793,
-        102082093
+        102082093,
+        404482447,
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12783360"
     },
     "wof:country":"US",
-    "wof:geomhash":"54cbb3c8685843abcd6f8ceaee462ec0",
+    "wof:geomhash":"cba25d683df3c8fb086e8bd8e0aabcf2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554732069,
-    "wof:lastmodified":1480795378,
+    "wof:lastmodified":1611184401,
     "wof:name":"58496",
     "wof:parent_id":404482447,
     "wof:placetype":"postalcode",

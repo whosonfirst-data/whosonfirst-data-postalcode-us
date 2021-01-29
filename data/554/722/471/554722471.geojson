@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025042,
-    "geom:area_square_m":238892349.018185,
+    "geom:area_square_m":238892349.018441,
     "geom:bbox":"-86.918584,39.4254,-86.627713,39.589504",
     "geom:latitude":39.513191,
     "geom:longitude":-86.786955,
@@ -14,21 +14,26 @@
     "lbl:latitude":39.511432,
     "lbl:longitude":-86.789094,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cloverdale",
+    "mz:postal_locality_alt":[
+        "Eminence"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404501681,
         85633793,
+        102087217,
+        404501681,
         85942031,
-        102087217
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777596"
     },
     "wof:country":"US",
-    "wof:geomhash":"00ef548dd1b612bdbcff4650eb7b2c3c",
+    "wof:geomhash":"41b042ff7371c488273d7da5b7e8fb6c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554722471,
-    "wof:lastmodified":1480787656,
+    "wof:lastmodified":1611183216,
     "wof:name":"46120",
     "wof:parent_id":85942031,
     "wof:placetype":"postalcode",

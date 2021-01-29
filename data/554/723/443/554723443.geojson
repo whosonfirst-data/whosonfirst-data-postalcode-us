@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007163,
-    "geom:area_square_m":68379707.589739,
+    "geom:area_square_m":68379707.589703,
     "geom:bbox":"-86.775736,39.412956,-86.603866,39.532759",
     "geom:latitude":39.459835,
     "geom:longitude":-86.704371,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.465239,
     "lbl:longitude":-86.691333,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Quincy",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404500291,
         85633793,
-        102087015
+        102087015,
+        404500291,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778243"
     },
     "wof:country":"US",
-    "wof:geomhash":"e2c386133222810d280efe10a06b297b",
+    "wof:geomhash":"5f6d8ee776d45157686d25bceddec435",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554723443,
-    "wof:lastmodified":1480787657,
+    "wof:lastmodified":1611183801,
     "wof:name":"47456",
     "wof:parent_id":404500291,
     "wof:placetype":"postalcode",

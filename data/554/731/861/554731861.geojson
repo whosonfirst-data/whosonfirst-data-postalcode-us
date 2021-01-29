@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.077748,
-    "geom:area_square_m":632321677.154168,
+    "geom:area_square_m":632321677.154048,
     "geom:bbox":"-100.314603,48.690265,-99.919749,48.999306",
     "geom:latitude":48.873227,
     "geom:longitude":-100.080867,
@@ -14,20 +14,22 @@
     "lbl:latitude":48.873307,
     "lbl:longitude":-100.079593,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Dunseith",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688525,
         102191575,
-        404481525,
         85633793,
-        102081515
+        102081515,
+        404481525,
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12783259"
     },
     "wof:country":"US",
-    "wof:geomhash":"27707167471955802190bb8feaa2b7bc",
+    "wof:geomhash":"dfbbe14d48c927f1a8da679e45ff1dcf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554731861,
-    "wof:lastmodified":1480829860,
+    "wof:lastmodified":1611183065,
     "wof:name":"58329",
     "wof:parent_id":404481525,
     "wof:placetype":"postalcode",

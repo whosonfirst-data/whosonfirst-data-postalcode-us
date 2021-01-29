@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012064,
-    "geom:area_square_m":107506914.408184,
+    "geom:area_square_m":107506914.408194,
     "geom:bbox":"-70.423761,43.819822,-70.253169,43.955229",
     "geom:latitude":43.887481,
     "geom:longitude":-70.342149,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.904551,
     "lbl:longitude":-70.367027,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Gray",
+    "mz:postal_locality_alt":[
+        "North Yarmouth"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404474907,
         85633793,
-        102087463
+        102087463,
+        404474907,
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759394"
     },
     "wof:country":"US",
-    "wof:geomhash":"7830df162ed9760b9a309c17008d66d6",
+    "wof:geomhash":"c62bb943bb9379444c82800ccc3b816a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554698173,
-    "wof:lastmodified":1480785910,
+    "wof:lastmodified":1611184687,
     "wof:name":"04039",
     "wof:parent_id":404474907,
     "wof:placetype":"postalcode",

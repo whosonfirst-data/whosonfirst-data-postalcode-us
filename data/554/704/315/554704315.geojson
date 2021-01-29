@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007806,
-    "geom:area_square_m":72478603.544651,
+    "geom:area_square_m":72478603.544592,
     "geom:bbox":"-80.357467,41.287596,-80.175219,41.369639",
     "geom:latitude":41.331833,
     "geom:longitude":-80.265831,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.33617,
     "lbl:longitude":-80.276061,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fredonia",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404487965,
         85633793,
-        102080965
+        102080965,
+        404487965,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764166"
     },
     "wof:country":"US",
-    "wof:geomhash":"04ab3ca2cd783a0e01ea3315fbbae254",
+    "wof:geomhash":"7c2ce4e439650a9204f524949dc91bf2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554704315,
-    "wof:lastmodified":1480906661,
+    "wof:lastmodified":1611184501,
     "wof:name":"16124",
     "wof:parent_id":404487965,
     "wof:placetype":"postalcode",

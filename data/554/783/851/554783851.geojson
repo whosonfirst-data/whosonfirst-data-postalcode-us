@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002818,
-    "geom:area_square_m":29451370.090422,
+    "geom:area_square_m":29451370.090446,
     "geom:bbox":"-106.78902,32.23352,-106.714533,32.34809",
     "geom:latitude":32.29006,
     "geom:longitude":-106.753899,
@@ -13,20 +13,25 @@
     "lbl:latitude":32.290051,
     "lbl:longitude":-106.75389,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Las Cruces",
+    "mz:postal_locality_alt":[
+        "Mesilla Park"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688493,
         102191575,
         85633793,
+        102081557,
         85976635,
-        102081557
+        85688493
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795157"
     },
     "wof:country":"US",
-    "wof:geomhash":"6ce3d5e3a560c294373b0cea4617ba52",
+    "wof:geomhash":"9ec39f262442eb0828c41a657fc1a645",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554783851,
-    "wof:lastmodified":1480831482,
+    "wof:lastmodified":1611183882,
     "wof:name":"88001",
     "wof:parent_id":85976635,
     "wof:placetype":"postalcode",

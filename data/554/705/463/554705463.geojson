@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012686,
-    "geom:area_square_m":118718788.135017,
+    "geom:area_square_m":118718788.135054,
     "geom:bbox":"-76.964115,40.725603,-76.798714,40.906233",
     "geom:latitude":40.813141,
     "geom:longitude":-76.886579,
@@ -14,20 +14,26 @@
     "lbl:latitude":40.817323,
     "lbl:longitude":-76.888636,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Selinsgrove",
+    "mz:postal_locality_alt":[
+        "Shamokin Dam",
+        "Hummels Wharf"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404487937,
         85633793,
-        102083759
+        102083759,
+        404487937,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764947"
     },
     "wof:country":"US",
-    "wof:geomhash":"c14e999069979abd9a19c0d6e2b7e991",
+    "wof:geomhash":"3614456d4cbbf08a1a298578a36abf60",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554705463,
-    "wof:lastmodified":1480836807,
+    "wof:lastmodified":1611184101,
     "wof:name":"17870",
     "wof:parent_id":404487937,
     "wof:placetype":"postalcode",

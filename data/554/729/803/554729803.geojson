@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036354,
-    "geom:area_square_m":322855068.926346,
+    "geom:area_square_m":322855068.926506,
     "geom:bbox":"-93.890211,43.949498,-93.567308,44.196015",
     "geom:latitude":44.092877,
     "geom:longitude":-93.718889,
@@ -14,20 +14,25 @@
     "lbl:latitude":44.092772,
     "lbl:longitude":-93.721097,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Janesville",
+    "mz:postal_locality_alt":[
+        "Waseca"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404510935,
         85633793,
-        102087641
+        102087641,
+        404510935,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782213"
     },
     "wof:country":"US",
-    "wof:geomhash":"82a1c50e52efe28dd844950ce3c91898",
+    "wof:geomhash":"4a4987527df6c4e653545ff354a76a95",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554729803,
-    "wof:lastmodified":1480785415,
+    "wof:lastmodified":1611185416,
     "wof:name":"56048",
     "wof:parent_id":404510935,
     "wof:placetype":"postalcode",

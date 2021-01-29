@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003134,
-    "geom:area_square_m":30581947.62887,
+    "geom:area_square_m":30581947.628862,
     "geom:bbox":"-122.507151,37.849401,-122.418673,37.920984",
     "geom:latitude":37.884265,
     "geom:longitude":-122.463686,
@@ -14,20 +14,26 @@
     "lbl:latitude":37.885629,
     "lbl:longitude":-122.46858,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Belvedere Tibrn",
+    "mz:postal_locality_alt":[
+        "Belvedere Tiburon",
+        "Mill Valley"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102084353,
         85921959,
-        102084353
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12797448"
     },
     "wof:country":"US",
-    "wof:geomhash":"1c95f790e6083099bb62ba87b66f3dfb",
+    "wof:geomhash":"b5ab14390ddf3a00ded5d00ec7472918",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554784791,
-    "wof:lastmodified":1480796905,
+    "wof:lastmodified":1611183929,
     "wof:name":"94920",
     "wof:parent_id":85921959,
     "wof:placetype":"postalcode",

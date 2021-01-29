@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00677,
-    "geom:area_square_m":61460503.139505,
+    "geom:area_square_m":61460503.139521,
     "geom:bbox":"-77.956334,42.667322,-77.850923,42.810524",
     "geom:latitude":42.761809,
     "geom:longitude":-77.921441,
@@ -14,20 +14,22 @@
     "lbl:latitude":42.761795,
     "lbl:longitude":-77.921452,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Leicester",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404521987,
         85633793,
-        102082381
+        102082381,
+        404521987,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763258"
     },
     "wof:country":"US",
-    "wof:geomhash":"05d03b469c4b3af5f0b0cf8958078c89",
+    "wof:geomhash":"05aca49125f7794d5c19533a43d78ec0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554702925,
-    "wof:lastmodified":1480795903,
+    "wof:lastmodified":1611184152,
     "wof:name":"14481",
     "wof:parent_id":404521987,
     "wof:placetype":"postalcode",

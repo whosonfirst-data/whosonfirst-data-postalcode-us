@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005895,
-    "geom:area_square_m":64780657.112775,
+    "geom:area_square_m":64780657.112744,
     "geom:bbox":"-80.342172,27.23243,-80.254844,27.350309",
     "geom:latitude":27.295622,
     "geom:longitude":-80.298863,
@@ -13,20 +13,25 @@
     "lbl:latitude":27.296128,
     "lbl:longitude":-80.299313,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Port St Lucie",
+    "mz:postal_locality_alt":[
+        "Port Saint Lucie"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688651,
         102191575,
         85633793,
+        102085851,
         85933297,
-        102085851
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12772873"
     },
     "wof:country":"US",
-    "wof:geomhash":"b0357c094aba936384cc7cc9a280ca70",
+    "wof:geomhash":"594adf136e000fb92a749e4b6569b8a7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554782191,
-    "wof:lastmodified":1480815702,
+    "wof:lastmodified":1611183618,
     "wof:name":"34952",
     "wof:parent_id":85933297,
     "wof:placetype":"postalcode",

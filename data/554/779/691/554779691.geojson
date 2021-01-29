@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000309,
-    "geom:area_square_m":2895956.131222,
+    "geom:area_square_m":2895956.131221,
     "geom:bbox":"-73.837511,40.679537,-73.808017,40.697153",
     "geom:latitude":40.688638,
     "geom:longitude":-73.822942,
@@ -14,21 +14,29 @@
     "lbl:latitude":40.688638,
     "lbl:longitude":-73.822942,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"South Richmond Hill",
+    "mz:postal_locality_alt":[
+        "Jamaica",
+        "New York",
+        "Queens",
+        "S Richmond Hl"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404521211,
         85633793,
+        102082361,
+        404521211,
         85977539,
-        102082361
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761810"
     },
     "wof:country":"US",
-    "wof:geomhash":"eb24553af1bed1ed439a0dc074cbae5a",
+    "wof:geomhash":"6828fd0f629c10e24dfe10823fd2f0b6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +49,7 @@
         }
     ],
     "wof:id":554779691,
-    "wof:lastmodified":1480790269,
+    "wof:lastmodified":1611183986,
     "wof:name":"11419",
     "wof:parent_id":85977539,
     "wof:placetype":"postalcode",

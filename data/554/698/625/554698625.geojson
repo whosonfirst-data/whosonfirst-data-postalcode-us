@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006338,
-    "geom:area_square_m":55381839.449747,
+    "geom:area_square_m":55381839.449759,
     "geom:bbox":"-69.518602,44.98258,-69.36821,45.070574",
     "geom:latitude":45.032084,
     "geom:longitude":-69.44675,
@@ -14,20 +14,25 @@
     "lbl:latitude":45.029009,
     "lbl:longitude":-69.445746,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cambridge",
+    "mz:postal_locality_alt":[
+        "Corinna"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404475275,
         85633793,
-        102087435
+        102087435,
+        404475275,
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759799"
     },
     "wof:country":"US",
-    "wof:geomhash":"6dbaba0bd84672cc04cc506aae38d2cb",
+    "wof:geomhash":"e13c845449410faf3804e069c2ade05d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554698625,
-    "wof:lastmodified":1480783502,
+    "wof:lastmodified":1611184695,
     "wof:name":"04923",
     "wof:parent_id":404475275,
     "wof:placetype":"postalcode",

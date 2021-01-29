@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040716,
-    "geom:area_square_m":381354917.190606,
+    "geom:area_square_m":381354917.19073,
     "geom:bbox":"-99.04122,40.610955,-98.759737,40.87324",
     "geom:latitude":40.758514,
     "geom:longitude":-98.881143,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.759666,
     "lbl:longitude":-98.877542,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Gibbon",
+    "mz:postal_locality_alt":[
+        "Taylor"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688563,
         102191575,
-        404519351,
         85633793,
-        102084305
+        102084305,
+        404519351,
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787882"
     },
     "wof:country":"US",
-    "wof:geomhash":"f25a467bf46f8c569e4d1e3cf9a3652b",
+    "wof:geomhash":"db5691cccf5ddf74dfcd5c1d14085b68",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554740211,
-    "wof:lastmodified":1480802735,
+    "wof:lastmodified":1611183390,
     "wof:name":"68840",
     "wof:parent_id":404519351,
     "wof:placetype":"postalcode",

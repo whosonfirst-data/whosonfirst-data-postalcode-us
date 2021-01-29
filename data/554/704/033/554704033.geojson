@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006509,
-    "geom:area_square_m":60913327.952211,
+    "geom:area_square_m":60913327.952233,
     "geom:bbox":"-78.949405,40.760439,-78.777358,40.855987",
     "geom:latitude":40.814407,
     "geom:longitude":-78.86301,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.816978,
     "lbl:longitude":-78.864006,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Glen Campbell",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404483471,
         85633793,
-        102081387
+        102081387,
+        404483471,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763995"
     },
     "wof:country":"US",
-    "wof:geomhash":"2074ba85feeae6c6a37afbb47443d3b6",
+    "wof:geomhash":"e35e20d6ecbbb0329d0ad105b9161482",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554704033,
-    "wof:lastmodified":1480904933,
+    "wof:lastmodified":1611184518,
     "wof:name":"15742",
     "wof:parent_id":404483471,
     "wof:placetype":"postalcode",

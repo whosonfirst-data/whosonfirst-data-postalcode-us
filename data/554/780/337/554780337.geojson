@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003205,
-    "geom:area_square_m":29483021.014392,
+    "geom:area_square_m":29483021.014372,
     "geom:bbox":"-80.519388,41.90721,-80.423405,41.965463",
     "geom:latitude":41.938756,
     "geom:longitude":-80.480223,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.939645,
     "lbl:longitude":-80.484235,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"West Springfield",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404486797,
         85633793,
-        102080955
+        102080955,
+        404486797,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764321"
     },
     "wof:country":"US",
-    "wof:geomhash":"73f8cfa84c3c671013fd6a8afd6f87da",
+    "wof:geomhash":"27de17542adfe55b3de0a3385c0bff65",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554780337,
-    "wof:lastmodified":1480904871,
+    "wof:lastmodified":1611185161,
     "wof:name":"16443",
     "wof:parent_id":404486797,
     "wof:placetype":"postalcode",

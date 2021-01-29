@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042469,
-    "geom:area_square_m":447699084.32823,
+    "geom:area_square_m":447699084.328257,
     "geom:bbox":"-81.951659,31.345875,-81.61201,31.664847",
     "geom:latitude":31.511966,
     "geom:longitude":-81.808604,
@@ -13,19 +13,27 @@
     "lbl:latitude":31.509811,
     "lbl:longitude":-81.777301,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Jesup",
+    "mz:postal_locality_alt":[
+        "St Simons Island",
+        "Baxley",
+        "Saint Simons Island",
+        "Lumber City"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688535,
-        102083623
+        102083623,
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12771256"
     },
     "wof:country":"US",
-    "wof:geomhash":"fff749c43d73f3e54eec527b430c81c2",
+    "wof:geomhash":"0db6b54b03887f31e5bbdb036c6fc843",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +44,7 @@
         }
     ],
     "wof:id":554713843,
-    "wof:lastmodified":1480835528,
+    "wof:lastmodified":1611183302,
     "wof:name":"31546",
     "wof:parent_id":102083623,
     "wof:placetype":"postalcode",

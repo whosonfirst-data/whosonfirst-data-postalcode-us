@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02146,
-    "geom:area_square_m":198871094.630746,
+    "geom:area_square_m":198871094.63074,
     "geom:bbox":"-81.133047,41.373533,-80.904237,41.534908",
     "geom:latitude":41.457649,
     "geom:longitude":-81.026002,
@@ -14,20 +14,26 @@
     "lbl:latitude":41.45182,
     "lbl:longitude":-81.036703,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Middlefield",
+    "mz:postal_locality_alt":[
+        "Burton",
+        "Parkman"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404525261,
         85633793,
-        102084789
+        102084789,
+        404525261,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776599"
     },
     "wof:country":"US",
-    "wof:geomhash":"8639bd44456e88902a459ce8b9a5be10",
+    "wof:geomhash":"bd95d3b27932cb4265d4f33affcc07eb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554720951,
-    "wof:lastmodified":1480841912,
+    "wof:lastmodified":1611185472,
     "wof:name":"44062",
     "wof:parent_id":404525261,
     "wof:placetype":"postalcode",

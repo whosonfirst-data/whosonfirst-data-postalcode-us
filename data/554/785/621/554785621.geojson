@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.068378,
-    "geom:area_square_m":796151703.917789,
+    "geom:area_square_m":796151703.917864,
     "geom:bbox":"-155.396864,19.519641,-154.987674,19.800274",
     "geom:latitude":19.674439,
     "geom:longitude":-155.219256,
@@ -14,19 +14,25 @@
     "lbl:latitude":19.65981,
     "lbl:longitude":-155.232473,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hilo",
+    "mz:postal_locality_alt":[
+        "Kihei",
+        "Kaunakakai"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688671,
-        102085433
+        102085433,
+        85688671
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12798269"
     },
     "wof:country":"US",
-    "wof:geomhash":"a3d7967903fb5a75801273d6554b04b5",
+    "wof:geomhash":"638b10e541b6a71d8a1c8f4461b958de",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554785621,
-    "wof:lastmodified":1480805101,
+    "wof:lastmodified":1611183495,
     "wof:name":"96720",
     "wof:parent_id":102085433,
     "wof:placetype":"postalcode",

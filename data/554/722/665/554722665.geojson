@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023354,
-    "geom:area_square_m":217587321.532606,
+    "geom:area_square_m":217587321.53263,
     "geom:bbox":"-87.526696,41.013349,-87.301464,41.174354",
     "geom:latitude":41.10782,
     "geom:longitude":-87.421815,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.097944,
     "lbl:longitude":-87.412468,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lake Village",
+    "mz:postal_locality_alt":[
+        "Roselawn"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404501343,
         85633793,
-        102086363
+        102086363,
+        404501343,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777730"
     },
     "wof:country":"US",
-    "wof:geomhash":"13e8aad8e8302bb31f1ce824326e67b8",
+    "wof:geomhash":"69e15abf720e2ff9cdc75bc8f812bac3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554722665,
-    "wof:lastmodified":1480911845,
+    "wof:lastmodified":1611183243,
     "wof:name":"46349",
     "wof:parent_id":404501343,
     "wof:placetype":"postalcode",

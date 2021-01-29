@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000325,
-    "geom:area_square_m":3065375.511616,
+    "geom:area_square_m":3065375.511614,
     "geom:bbox":"-76.497025,40.230993,-76.462295,40.256952",
     "geom:latitude":40.242231,
     "geom:longitude":-76.476111,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.242231,
     "lbl:longitude":-76.476111,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mt Gretna",
+    "mz:postal_locality_alt":[
+        "Mount Gretna"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404483435,
         85633793,
-        102081341
+        102081341,
+        404483435,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764607"
     },
     "wof:country":"US",
-    "wof:geomhash":"e610d067651de4e44f6d366bb1f0a4e9",
+    "wof:geomhash":"1180f360361a67d42316ef117b9bd28f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554767381,
-    "wof:lastmodified":1480818672,
+    "wof:lastmodified":1611184261,
     "wof:name":"17064",
     "wof:parent_id":404483435,
     "wof:placetype":"postalcode",

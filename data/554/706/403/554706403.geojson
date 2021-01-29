@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010166,
-    "geom:area_square_m":96486048.64347,
+    "geom:area_square_m":96486048.643511,
     "geom:bbox":"-75.791631,39.799724,-75.623945,39.936826",
     "geom:latitude":39.867327,
     "geom:longitude":-75.713771,
@@ -14,20 +14,26 @@
     "lbl:latitude":39.87028,
     "lbl:longitude":-75.712913,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Kennett Square",
+    "mz:postal_locality_alt":[
+        "Unionville",
+        "Toughkenamon"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404482915,
         85633793,
-        102081275
+        102081275,
+        404482915,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765588"
     },
     "wof:country":"US",
-    "wof:geomhash":"92003b4cff31e35126bebead1ebb04a6",
+    "wof:geomhash":"694278442bd7eb845ef1552745193aef",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554706403,
-    "wof:lastmodified":1480835442,
+    "wof:lastmodified":1611182713,
     "wof:name":"19348",
     "wof:parent_id":404482915,
     "wof:placetype":"postalcode",

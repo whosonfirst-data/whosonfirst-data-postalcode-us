@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012404,
-    "geom:area_square_m":112219159.087976,
+    "geom:area_square_m":112219159.087971,
     "geom:bbox":"-71.762447,42.922584,-71.608707,43.032961",
     "geom:latitude":42.977363,
     "geom:longitude":-71.686051,
@@ -14,20 +14,25 @@
     "lbl:latitude":42.981209,
     "lbl:longitude":-71.67752,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"New Boston",
+    "mz:postal_locality_alt":[
+        "Windham"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688689,
         102191575,
-        404476919,
         85633793,
-        102085493
+        102085493,
+        404476919,
+        85688689
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759102"
     },
     "wof:country":"US",
-    "wof:geomhash":"4f5022c5eef1bfbb405f6098ce0e0b90",
+    "wof:geomhash":"e3fb71abdd427e57773b117f3d899322",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554697703,
-    "wof:lastmodified":1480804331,
+    "wof:lastmodified":1611184652,
     "wof:name":"03070",
     "wof:parent_id":404476919,
     "wof:placetype":"postalcode",

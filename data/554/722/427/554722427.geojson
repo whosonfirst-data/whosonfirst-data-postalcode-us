@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010476,
-    "geom:area_square_m":98614501.314853,
+    "geom:area_square_m":98614501.314882,
     "geom:bbox":"-86.694766,40.387671,-86.52507,40.47313",
     "geom:latitude":40.424515,
     "geom:longitude":-86.613226,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.427348,
     "lbl:longitude":-86.610394,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Rossville",
+    "mz:postal_locality_alt":[
+        "Frankfort"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404501255,
         85633793,
-        102087035
+        102087035,
+        404501255,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777571"
     },
     "wof:country":"US",
-    "wof:geomhash":"319e7dce286ae3f557b07a99daa47ddb",
+    "wof:geomhash":"b8bbfefcd6d594403895d826f8c5ac0b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554722427,
-    "wof:lastmodified":1480786758,
+    "wof:lastmodified":1611183239,
     "wof:name":"46065",
     "wof:parent_id":404501255,
     "wof:placetype":"postalcode",

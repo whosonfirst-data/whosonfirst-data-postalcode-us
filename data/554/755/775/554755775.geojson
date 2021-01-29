@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002231,
-    "geom:area_square_m":18713608.822665,
+    "geom:area_square_m":18713608.822684,
     "geom:bbox":"-122.560339,47.268892,-122.464567,47.31852",
     "geom:latitude":47.290417,
     "geom:longitude":-122.517785,
@@ -13,20 +13,25 @@
     "lbl:latitude":47.290365,
     "lbl:longitude":-122.517747,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Tacoma",
+    "mz:postal_locality_alt":[
+        "Ruston"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688623,
         102191575,
         85633793,
+        102087547,
         101730275,
-        102087547
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12799165"
     },
     "wof:country":"US",
-    "wof:geomhash":"675515349b5aca9bd3dbff35747bde2e",
+    "wof:geomhash":"9c9feed7739327398bbc7c524efcedb4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554755775,
-    "wof:lastmodified":1480781956,
+    "wof:lastmodified":1611182606,
     "wof:name":"98407",
     "wof:parent_id":101730275,
     "wof:placetype":"postalcode",

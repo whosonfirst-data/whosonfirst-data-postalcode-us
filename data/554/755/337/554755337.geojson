@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002678,
-    "geom:area_square_m":22320381.05583,
+    "geom:area_square_m":22320381.055817,
     "geom:bbox":"-122.235128,47.574044,-122.181229,47.657588",
     "geom:latitude":47.618805,
     "geom:longitude":-122.205926,
@@ -13,20 +13,30 @@
     "lbl:latitude":47.618337,
     "lbl:longitude":-122.205341,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bellevue",
+    "mz:postal_locality_alt":[
+        "Clyde Hill",
+        "Kirkland",
+        "Yarrow Point",
+        "Hunts Point",
+        "Beaux Arts",
+        "Seattle"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688623,
         102191575,
         85633793,
+        102086191,
         101730457,
-        102086191
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12798881"
     },
     "wof:country":"US",
-    "wof:geomhash":"1d4b0b405aadc2df693eb945aa626d4e",
+    "wof:geomhash":"3cd20fe27af4407df4ee625da44fbc60",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +48,7 @@
         }
     ],
     "wof:id":554755337,
-    "wof:lastmodified":1480915582,
+    "wof:lastmodified":1611182563,
     "wof:name":"98004",
     "wof:parent_id":101730457,
     "wof:placetype":"postalcode",

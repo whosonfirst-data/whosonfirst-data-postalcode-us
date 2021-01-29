@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002501,
-    "geom:area_square_m":20731214.507139,
+    "geom:area_square_m":20731214.507086,
     "geom:bbox":"-122.293251,47.872431,-122.224129,47.924536",
     "geom:latitude":47.901355,
     "geom:longitude":-122.260878,
@@ -13,20 +13,25 @@
     "lbl:latitude":47.901352,
     "lbl:longitude":-122.260877,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Everett",
+    "mz:postal_locality_alt":[
+        "Lynnwood"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688623,
         102191575,
         85633793,
+        102087537,
         101729883,
-        102087537
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12799006"
     },
     "wof:country":"US",
-    "wof:geomhash":"73e93c2d02d4911acf1e3abf7f8a8200",
+    "wof:geomhash":"7aa8df59f563c5e79438073df5c0b28e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554755521,
-    "wof:lastmodified":1480788589,
+    "wof:lastmodified":1611182580,
     "wof:name":"98204",
     "wof:parent_id":101729883,
     "wof:placetype":"postalcode",

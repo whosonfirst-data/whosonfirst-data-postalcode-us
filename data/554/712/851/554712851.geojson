@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00576,
-    "geom:area_square_m":59026095.300147,
+    "geom:area_square_m":59026095.300133,
     "geom:bbox":"-84.675536,33.990528,-84.520518,34.076002",
     "geom:latitude":34.037081,
     "geom:longitude":-84.591962,
@@ -13,19 +13,24 @@
     "lbl:latitude":34.036864,
     "lbl:longitude":-84.591009,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Kennesaw",
+    "mz:postal_locality_alt":[
+        "Acworth"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688535,
-        102082313
+        102082313,
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770615"
     },
     "wof:country":"US",
-    "wof:geomhash":"de3d1cfeb334fe76942b235b48905761",
+    "wof:geomhash":"80c54d7cfe71e17c8fbff46d2db387b7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +41,7 @@
         }
     ],
     "wof:id":554712851,
-    "wof:lastmodified":1480799412,
+    "wof:lastmodified":1611183706,
     "wof:name":"30144",
     "wof:parent_id":102082313,
     "wof:placetype":"postalcode",

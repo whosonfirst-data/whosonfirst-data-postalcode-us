@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.078748,
-    "geom:area_square_m":709392526.661964,
+    "geom:area_square_m":709392526.661633,
     "geom:bbox":"-99.406595,42.997946,-98.995116,43.455641",
     "geom:latitude":43.236591,
     "geom:longitude":-99.239237,
@@ -14,20 +14,22 @@
     "lbl:latitude":43.233401,
     "lbl:longitude":-99.213765,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Burke",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688693,
         102191575,
-        404490637,
         85633793,
-        102086069
+        102086069,
+        404490637,
+        85688693
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782963"
     },
     "wof:country":"US",
-    "wof:geomhash":"8fb15fc2696dc583b0ce32d0b2e74055",
+    "wof:geomhash":"2f14722373c4aafcfd2af95c8142efee",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554731311,
-    "wof:lastmodified":1480912883,
+    "wof:lastmodified":1611183088,
     "wof:name":"57523",
     "wof:parent_id":404490637,
     "wof:placetype":"postalcode",

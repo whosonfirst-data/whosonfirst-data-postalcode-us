@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017365,
-    "geom:area_square_m":175323431.861399,
+    "geom:area_square_m":175323431.861512,
     "geom:bbox":"-82.634568,35.162017,-82.443609,35.343009",
     "geom:latitude":35.263572,
     "geom:longitude":-82.546386,
@@ -13,19 +13,25 @@
     "lbl:latitude":35.256111,
     "lbl:longitude":-82.543707,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hendersonville",
+    "mz:postal_locality_alt":[
+        "Bat Cave",
+        "Weaverville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688773,
-        102080983
+        102080983,
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12769887"
     },
     "wof:country":"US",
-    "wof:geomhash":"726c9afafc42a498f01c6c565ebee800",
+    "wof:geomhash":"1c172d3a103546662f4dd4d3fec84766",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +42,7 @@
         }
     ],
     "wof:id":554711755,
-    "wof:lastmodified":1480903311,
+    "wof:lastmodified":1611185296,
     "wof:name":"28739",
     "wof:parent_id":102080983,
     "wof:placetype":"postalcode",

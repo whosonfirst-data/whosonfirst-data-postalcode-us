@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019895,
-    "geom:area_square_m":176504358.27856,
+    "geom:area_square_m":176504358.27857,
     "geom:bbox":"-68.550128,44.069054,-68.358646,44.249453",
     "geom:latitude":44.151886,
     "geom:longitude":-68.460036,
@@ -14,20 +14,25 @@
     "lbl:latitude":44.151687,
     "lbl:longitude":-68.465212,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Swans Island",
+    "mz:postal_locality_alt":[
+        "Franklin"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404475551,
         85633793,
-        102081201
+        102081201,
+        404475551,
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759712"
     },
     "wof:country":"US",
-    "wof:geomhash":"04bf94ccdacf8b7a7ffbf2ce28e0f16f",
+    "wof:geomhash":"c7f8f4567488ff59f6752a40e1ec0d4a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554778897,
-    "wof:lastmodified":1480830744,
+    "wof:lastmodified":1611183444,
     "wof:name":"04685",
     "wof:parent_id":404475551,
     "wof:placetype":"postalcode",

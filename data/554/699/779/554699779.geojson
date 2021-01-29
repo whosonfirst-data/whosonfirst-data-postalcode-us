@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000944,
-    "geom:area_square_m":8826860.463526,
+    "geom:area_square_m":8826860.463532,
     "geom:bbox":"-74.168276,40.832198,-74.117804,40.895238",
     "geom:latitude":40.87842,
     "geom:longitude":-74.144766,
@@ -13,21 +13,26 @@
     "lbl:latitude":40.878256,
     "lbl:longitude":-74.144073,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Clifton",
+    "mz:postal_locality_alt":[
+        "Paterson"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477809,
         85633793,
+        102081133,
+        404477809,
         85975493,
-        102081133
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760609"
     },
     "wof:country":"US",
-    "wof:geomhash":"bd4c3add9df72a05c8ffbf551c7cdd7d",
+    "wof:geomhash":"6211d7cae953b5e5df5de69be4a7b1bd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554699779,
-    "wof:lastmodified":1480908564,
+    "wof:lastmodified":1611184616,
     "wof:name":"07011",
     "wof:parent_id":85975493,
     "wof:placetype":"postalcode",

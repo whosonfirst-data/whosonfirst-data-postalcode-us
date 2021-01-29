@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017828,
-    "geom:area_square_m":158974196.828691,
+    "geom:area_square_m":158974196.828795,
     "geom:bbox":"-89.25745,43.764016,-89.007518,43.910539",
     "geom:latitude":43.849184,
     "geom:longitude":-89.130527,
@@ -14,21 +14,26 @@
     "lbl:latitude":43.847027,
     "lbl:longitude":-89.135933,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Princeton",
+    "mz:postal_locality_alt":[
+        "New London"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404495261,
         85633793,
+        102081283,
+        404495261,
         101732869,
-        102081283
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781644"
     },
     "wof:country":"US",
-    "wof:geomhash":"fb0e93e300cb876365f8ab829f03b151",
+    "wof:geomhash":"0454848fb150070a3d2465f9b1818856",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554728867,
-    "wof:lastmodified":1480833239,
+    "wof:lastmodified":1611185064,
     "wof:name":"54968",
     "wof:parent_id":101732869,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010164,
-    "geom:area_square_m":105360415.940588,
+    "geom:area_square_m":105360415.940507,
     "geom:bbox":"-81.055996,32.950907,-80.866675,33.102584",
     "geom:latitude":33.037684,
     "geom:longitude":-80.941721,
@@ -14,19 +14,24 @@
     "lbl:latitude":33.038215,
     "lbl:longitude":-80.939141,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lodge",
+    "mz:postal_locality_alt":[
+        "Lamar"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688683,
-        102085669
+        102085669,
+        85688683
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770005"
     },
     "wof:country":"US",
-    "wof:geomhash":"1a3916ae602fa39b376362213dabb8ec",
+    "wof:geomhash":"9c22226047bc5ca9e550abb791b288ee",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554711961,
-    "wof:lastmodified":1480809806,
+    "wof:lastmodified":1611185323,
     "wof:name":"29082",
     "wof:parent_id":102085669,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00196,
-    "geom:area_square_m":18505414.900841,
+    "geom:area_square_m":18505414.90082,
     "geom:bbox":"-74.69458,40.195393,-74.626465,40.269808",
     "geom:latitude":40.225039,
     "geom:longitude":-74.660247,
@@ -13,21 +13,26 @@
     "lbl:latitude":40.224505,
     "lbl:longitude":-74.660279,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Trenton",
+    "mz:postal_locality_alt":[
+        "Lawrenceville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478251,
         85633793,
+        102081129,
+        404478251,
         85976387,
-        102081129
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761223"
     },
     "wof:country":"US",
-    "wof:geomhash":"cb319ddb26a930a68d0686f40cf20876",
+    "wof:geomhash":"e84e63fccbcfdc4d733fc9251780a648",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554700655,
-    "wof:lastmodified":1480831096,
+    "wof:lastmodified":1611183201,
     "wof:name":"08690",
     "wof:parent_id":85976387,
     "wof:placetype":"postalcode",

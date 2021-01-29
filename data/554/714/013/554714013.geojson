@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011487,
-    "geom:area_square_m":121332176.298737,
+    "geom:area_square_m":121332176.29865,
     "geom:bbox":"-83.69923,31.25,-83.51134,31.40826",
     "geom:latitude":31.329993,
     "geom:longitude":-83.597365,
@@ -14,20 +14,25 @@
     "lbl:latitude":31.330841,
     "lbl:longitude":-83.598579,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Omega",
+    "mz:postal_locality_alt":[
+        "Tifton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688535,
         102191575,
         85633793,
+        102084483,
         85936469,
-        102084483
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12771383"
     },
     "wof:country":"US",
-    "wof:geomhash":"82ca696821750922dbe6384c54d661e8",
+    "wof:geomhash":"47c812981bda1898ef095a25c232d0a3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554714013,
-    "wof:lastmodified":1480802767,
+    "wof:lastmodified":1611183350,
     "wof:name":"31775",
     "wof:parent_id":85936469,
     "wof:placetype":"postalcode",

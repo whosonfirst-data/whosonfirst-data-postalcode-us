@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016132,
-    "geom:area_square_m":154143534.798524,
+    "geom:area_square_m":154143534.798548,
     "geom:bbox":"-77.071503,39.309039,-76.873352,39.479108",
     "geom:latitude":39.401061,
     "geom:longitude":-76.973619,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.401084,
     "lbl:longitude":-76.973736,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Sykesville",
+    "mz:postal_locality_alt":[
+        "Eldersburg"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688501,
         102191575,
         85633793,
+        102082717,
         85949877,
-        102082717
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766722"
     },
     "wof:country":"US",
-    "wof:geomhash":"3f249a7e2b618d12873b7477ea28b4fe",
+    "wof:geomhash":"24c3235630c9e6e023cf02b8132810e1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554707473,
-    "wof:lastmodified":1480800771,
+    "wof:lastmodified":1611183161,
     "wof:name":"21784",
     "wof:parent_id":85949877,
     "wof:placetype":"postalcode",

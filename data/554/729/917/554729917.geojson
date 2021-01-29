@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034078,
-    "geom:area_square_m":303716865.424123,
+    "geom:area_square_m":303716865.424372,
     "geom:bbox":"-96.24531,43.789492,-95.972885,44.008429",
     "geom:latitude":43.881483,
     "geom:longitude":-96.11561,
@@ -14,20 +14,27 @@
     "lbl:latitude":43.881542,
     "lbl:longitude":-96.110303,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Edgerton",
+    "mz:postal_locality_alt":[
+        "Steen",
+        "Luverne",
+        "Magnolia"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404513527,
         85633793,
-        102087865
+        102087865,
+        404513527,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782267"
     },
     "wof:country":"US",
-    "wof:geomhash":"1ed38ed536d60a0e2622d61b7016fd80",
+    "wof:geomhash":"c4284b8c75d70b5b16fb26e2f7765242",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554729917,
-    "wof:lastmodified":1480788948,
+    "wof:lastmodified":1611185443,
     "wof:name":"56128",
     "wof:parent_id":404513527,
     "wof:placetype":"postalcode",

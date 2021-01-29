@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005523,
-    "geom:area_square_m":46290254.56342,
+    "geom:area_square_m":46290254.563451,
     "geom:bbox":"-68.360984,47.27406,-68.250478,47.360015",
     "geom:latitude":47.322111,
     "geom:longitude":-68.30327,
@@ -14,20 +14,29 @@
     "lbl:latitude":47.321708,
     "lbl:longitude":-68.298213,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Madawaska",
+    "mz:postal_locality_alt":[
+        "Eagle Lake",
+        "Bridgewater",
+        "Monticello",
+        "St David",
+        "Sherman"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404475405,
         85633793,
-        102081161
+        102081161,
+        404475405,
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759737"
     },
     "wof:country":"US",
-    "wof:geomhash":"4b42380d7f9cf446fc58733e1e2e776c",
+    "wof:geomhash":"2cc49bbee8cd601193ca4de79b55963c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +48,7 @@
         }
     ],
     "wof:id":554778921,
-    "wof:lastmodified":1480823537,
+    "wof:lastmodified":1611183445,
     "wof:name":"04756",
     "wof:parent_id":404475405,
     "wof:placetype":"postalcode",

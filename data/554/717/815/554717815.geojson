@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025525,
-    "geom:area_square_m":259147095.434942,
+    "geom:area_square_m":259147095.434778,
     "geom:bbox":"-90.485038,34.701914,-90.200199,34.891945",
     "geom:latitude":34.809601,
     "geom:longitude":-90.327425,
@@ -14,20 +14,25 @@
     "lbl:latitude":34.811462,
     "lbl:longitude":-90.329253,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Robinsonville",
+    "mz:postal_locality_alt":[
+        "Tunica"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688579,
         102191575,
         85633793,
+        102083785,
         85970197,
-        102083785
+        85688579
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12774585"
     },
     "wof:country":"US",
-    "wof:geomhash":"c84d030226191394fe816fb6dc76efef",
+    "wof:geomhash":"a94ca4bcb79e62df5d7e572a788d2de9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554717815,
-    "wof:lastmodified":1480841724,
+    "wof:lastmodified":1611185024,
     "wof:name":"38664",
     "wof:parent_id":85970197,
     "wof:placetype":"postalcode",

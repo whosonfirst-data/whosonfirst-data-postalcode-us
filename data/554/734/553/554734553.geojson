@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005055,
-    "geom:area_square_m":48573732.183675,
+    "geom:area_square_m":48573732.183632,
     "geom:bbox":"-90.371775,38.942547,-90.282265,39.043327",
     "geom:latitude":39.003733,
     "geom:longitude":-90.331619,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.003162,
     "lbl:longitude":-90.326185,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Dow",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404498271,
         85633793,
-        102080833
+        102080833,
+        404498271,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784923"
     },
     "wof:country":"US",
-    "wof:geomhash":"f6e37b9285ea10d439ba313a9e0ac722",
+    "wof:geomhash":"f1a82ecd432ef9e14abb18803ba3fa26",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554734553,
-    "wof:lastmodified":1480903624,
+    "wof:lastmodified":1611184196,
     "wof:name":"62022",
     "wof:parent_id":404498271,
     "wof:placetype":"postalcode",

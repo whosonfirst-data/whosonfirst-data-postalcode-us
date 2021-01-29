@@ -14,21 +14,29 @@
     "lbl:latitude":40.731829,
     "lbl:longitude":-73.989181,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"New York",
+    "mz:postal_locality_alt":[
+        "Manhattan",
+        "New York City",
+        "Brooklyn",
+        "New York "
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404521211,
         85633793,
+        102082361,
+        404521211,
         85977539,
-        102082361
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761335"
     },
     "wof:country":"US",
-    "wof:geomhash":"3ccf25bce03db9f82900b2055e4a1608",
+    "wof:geomhash":"e43e7366afd6cd89e1fe4735346650b7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +49,7 @@
         }
     ],
     "wof:id":554779279,
-    "wof:lastmodified":1480831338,
+    "wof:lastmodified":1611183981,
     "wof:name":"10003",
     "wof:parent_id":85977539,
     "wof:placetype":"postalcode",

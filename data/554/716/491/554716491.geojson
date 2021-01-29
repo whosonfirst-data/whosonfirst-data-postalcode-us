@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020307,
-    "geom:area_square_m":202222345.538048,
+    "geom:area_square_m":202222345.538198,
     "geom:bbox":"-86.89059,36.272291,-86.633781,36.433993",
     "geom:latitude":36.357541,
     "geom:longitude":-86.744204,
@@ -13,20 +13,26 @@
     "lbl:latitude":36.35214,
     "lbl:longitude":-86.746651,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Goodlettsville",
+    "mz:postal_locality_alt":[
+        "Franklin",
+        "Hendersonville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688701,
         102191575,
         85633793,
+        102087061,
         101723183,
-        102087061
+        85688701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12773796"
     },
     "wof:country":"US",
-    "wof:geomhash":"a9a83c0919d268f8572242f4dbf71f3a",
+    "wof:geomhash":"67b137dba8f13861981a1c9cc5ff5402",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554716491,
-    "wof:lastmodified":1480917083,
+    "wof:lastmodified":1611185369,
     "wof:name":"37072",
     "wof:parent_id":101723183,
     "wof:placetype":"postalcode",

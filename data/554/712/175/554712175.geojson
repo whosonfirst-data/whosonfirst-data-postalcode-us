@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002845,
-    "geom:area_square_m":29527068.523551,
+    "geom:area_square_m":29527068.523583,
     "geom:bbox":"-80.042437,32.899881,-79.950425,32.977926",
     "geom:latitude":32.930154,
     "geom:longitude":-80.002722,
@@ -14,20 +14,25 @@
     "lbl:latitude":32.93271,
     "lbl:longitude":-80.002982,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hanahan",
+    "mz:postal_locality_alt":[
+        "Charleston"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688683,
         102191575,
         85633793,
+        102085397,
         101721135,
-        102085397
+        85688683
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770159"
     },
     "wof:country":"US",
-    "wof:geomhash":"763ac439ce7fa66574cc66a42809fd8f",
+    "wof:geomhash":"b66f8dafcacba3e2dacba7741e193c43",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554712175,
-    "wof:lastmodified":1480813648,
+    "wof:lastmodified":1611183714,
     "wof:name":"29410",
     "wof:parent_id":101721135,
     "wof:placetype":"postalcode",

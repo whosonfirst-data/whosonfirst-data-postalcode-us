@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004907,
-    "geom:area_square_m":43486840.895369,
+    "geom:area_square_m":43486840.895348,
     "geom:bbox":"-71.848014,44.175912,-71.755969,44.271248",
     "geom:latitude":44.220333,
     "geom:longitude":-71.796374,
@@ -14,20 +14,22 @@
     "lbl:latitude":44.21841,
     "lbl:longitude":-71.80024,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lisbon",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688689,
         102191575,
-        404477121,
         85633793,
-        102086567
+        102086567,
+        404477121,
+        85688689
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26814982"
     },
     "wof:country":"US",
-    "wof:geomhash":"a7b7a6f3fc1231d3820b93cc2b57dd4f",
+    "wof:geomhash":"043f4a642be1d585cf02fbfe300d1f45",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554756879,
-    "wof:lastmodified":1480916383,
+    "wof:lastmodified":1611184297,
     "wof:name":"03586",
     "wof:parent_id":404477121,
     "wof:placetype":"postalcode",

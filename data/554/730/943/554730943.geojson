@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.069757,
-    "geom:area_square_m":616492276.434421,
+    "geom:area_square_m":616492276.434496,
     "geom:bbox":"-97.29036,44.19578,-97.007527,44.56291",
     "geom:latitude":44.379427,
     "geom:longitude":-97.14331,
@@ -14,20 +14,25 @@
     "lbl:latitude":44.378729,
     "lbl:longitude":-97.139135,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Arlington",
+    "mz:postal_locality_alt":[
+        "Hetland"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688693,
         102191575,
-        404490277,
         85633793,
-        102086869
+        102086869,
+        404490277,
+        85688693
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782788"
     },
     "wof:country":"US",
-    "wof:geomhash":"42b64dd6df7222105228dc2fff0ef4ef",
+    "wof:geomhash":"f1b1f7978c7c23e96de3828fbf961540",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554730943,
-    "wof:lastmodified":1480912399,
+    "wof:lastmodified":1611182759,
     "wof:name":"57212",
     "wof:parent_id":404490277,
     "wof:placetype":"postalcode",

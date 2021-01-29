@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008297,
-    "geom:area_square_m":79489094.038816,
+    "geom:area_square_m":79489094.038777,
     "geom:bbox":"-94.803789,39.169003,-94.657735,39.248393",
     "geom:latitude":39.212931,
     "geom:longitude":-94.720572,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.219074,
     "lbl:longitude":-94.724733,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Kansas City",
+    "mz:postal_locality_alt":[
+        "Parkville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404515867,
         85633793,
-        102085271
+        102085271,
+        404515867,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786057"
     },
     "wof:country":"US",
-    "wof:geomhash":"cad3ac4195faf9fbc47adabbc68c6dfe",
+    "wof:geomhash":"a57a5209d1a93b5340d5a3c4c8a05fb8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554736593,
-    "wof:lastmodified":1480809132,
+    "wof:lastmodified":1611183018,
     "wof:name":"64152",
     "wof:parent_id":404515867,
     "wof:placetype":"postalcode",

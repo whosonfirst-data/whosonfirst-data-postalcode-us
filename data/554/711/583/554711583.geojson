@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016175,
-    "geom:area_square_m":161559726.372665,
+    "geom:area_square_m":161559726.37259,
     "geom:bbox":"-81.545455,36.047004,-81.308413,36.189477",
     "geom:latitude":36.121144,
     "geom:longitude":-81.42007,
@@ -14,19 +14,24 @@
     "lbl:latitude":36.128356,
     "lbl:longitude":-81.411775,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ferguson",
+    "mz:postal_locality_alt":[
+        "Wilkesboro"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688773,
-        102087899
+        102087899,
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12769782"
     },
     "wof:country":"US",
-    "wof:geomhash":"02e376e4d304c06137591f5932c4e7d7",
+    "wof:geomhash":"4204133b450d5c6746df2380c3e8e96b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554711583,
-    "wof:lastmodified":1480903876,
+    "wof:lastmodified":1611185348,
     "wof:name":"28624",
     "wof:parent_id":102087899,
     "wof:placetype":"postalcode",

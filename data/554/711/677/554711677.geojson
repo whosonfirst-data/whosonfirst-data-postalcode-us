@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005602,
-    "geom:area_square_m":56226587.69343,
+    "geom:area_square_m":56226587.693424,
     "geom:bbox":"-81.637022,35.683931,-81.526,35.78045",
     "geom:latitude":35.732957,
     "geom:longitude":-81.574037,
@@ -14,19 +14,25 @@
     "lbl:latitude":35.732735,
     "lbl:longitude":-81.57423,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Valdese",
+    "mz:postal_locality_alt":[
+        "Morganton",
+        "Rutherford Clg"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688773,
-        102080903
+        102080903,
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12769843"
     },
     "wof:country":"US",
-    "wof:geomhash":"d65143bdd771472949592166d87a94d8",
+    "wof:geomhash":"1b1f7bd7402313717e30c0b426deeb2d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554711677,
-    "wof:lastmodified":1480906190,
+    "wof:lastmodified":1611185335,
     "wof:name":"28690",
     "wof:parent_id":102080903,
     "wof:placetype":"postalcode",

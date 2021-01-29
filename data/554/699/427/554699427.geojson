@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005456,
-    "geom:area_square_m":50297615.31357,
+    "geom:area_square_m":50297615.313571,
     "geom:bbox":"-72.164144,41.744435,-72.092446,41.834945",
     "geom:latitude":41.792929,
     "geom:longitude":-72.12755,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.790889,
     "lbl:longitude":-72.12954,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Chaplin",
+    "mz:postal_locality_alt":[
+        "North Windham"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688629,
         102191575,
-        404495731,
         85633793,
-        102085377
+        102085377,
+        404495731,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760300"
     },
     "wof:country":"US",
-    "wof:geomhash":"062e24bfc34bbc57a3c89f1a22c4b84e",
+    "wof:geomhash":"7050bbfbff3077992ee031abfd000f48",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554699427,
-    "wof:lastmodified":1480814286,
+    "wof:lastmodified":1611184624,
     "wof:name":"06235",
     "wof:parent_id":404495731,
     "wof:placetype":"postalcode",

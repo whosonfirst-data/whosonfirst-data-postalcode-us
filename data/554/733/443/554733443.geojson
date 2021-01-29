@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002485,
-    "geom:area_square_m":22930842.329716,
+    "geom:area_square_m":22930842.329707,
     "geom:bbox":"-88.087136,41.68534,-87.999381,41.779466",
     "geom:latitude":41.741947,
     "geom:longitude":-88.042211,
@@ -14,21 +14,26 @@
     "lbl:latitude":41.740328,
     "lbl:longitude":-88.042149,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Woodridge",
+    "mz:postal_locality_alt":[
+        "Downers Grove"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404497651,
         85633793,
+        102081257,
+        404497651,
         85940203,
-        102081257
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784205"
     },
     "wof:country":"US",
-    "wof:geomhash":"2eac38dcda49e6a886cb6af9c62f2456",
+    "wof:geomhash":"9fcf3a4c79fda896d4d0d5a33a5bf794",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554733443,
-    "wof:lastmodified":1480903215,
+    "wof:lastmodified":1611184237,
     "wof:name":"60517",
     "wof:parent_id":85940203,
     "wof:placetype":"postalcode",

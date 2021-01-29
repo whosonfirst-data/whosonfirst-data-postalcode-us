@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005156,
-    "geom:area_square_m":47579482.730303,
+    "geom:area_square_m":47579482.730321,
     "geom:bbox":"-89.978536,41.673836,-89.840789,41.75803",
     "geom:latitude":41.725701,
     "geom:longitude":-89.915839,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.726842,
     "lbl:longitude":-89.911219,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lyndon",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404499049,
         85633793,
-        102081251
+        102081251,
+        404499049,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784517"
     },
     "wof:country":"US",
-    "wof:geomhash":"e123418c38596934982bbf4cc94fa8b9",
+    "wof:geomhash":"cecfbc6eb1b56935a0b5cee5cba51763",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554733815,
-    "wof:lastmodified":1480816978,
+    "wof:lastmodified":1611184238,
     "wof:name":"61261",
     "wof:parent_id":404499049,
     "wof:placetype":"postalcode",

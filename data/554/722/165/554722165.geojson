@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013583,
-    "geom:area_square_m":130053478.901283,
+    "geom:area_square_m":130053478.901377,
     "geom:bbox":"-82.024825,39.187323,-81.826969,39.334513",
     "geom:latitude":39.254735,
     "geom:longitude":-81.924566,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.261797,
     "lbl:longitude":-81.928258,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Guysville",
+    "mz:postal_locality_alt":[
+        "Marietta"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404523575,
         85633793,
-        102084755
+        102084755,
+        404523575,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777413"
     },
     "wof:country":"US",
-    "wof:geomhash":"24ab5e381252d6d92a9404acb645cc52",
+    "wof:geomhash":"32fd7803e3533cf1a3d3ef6a487d9646",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554722165,
-    "wof:lastmodified":1480843278,
+    "wof:lastmodified":1611183231,
     "wof:name":"45735",
     "wof:parent_id":404523575,
     "wof:placetype":"postalcode",

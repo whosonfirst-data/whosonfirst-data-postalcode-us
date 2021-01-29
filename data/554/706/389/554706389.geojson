@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023287,
-    "geom:area_square_m":220679434.370415,
+    "geom:area_square_m":220679434.370417,
     "geom:bbox":"-75.942434,39.877324,-75.717831,40.059391",
     "geom:latitude":39.969034,
     "geom:longitude":-75.830992,
@@ -14,20 +14,32 @@
     "lbl:latitude":39.963092,
     "lbl:longitude":-75.83203,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Coatesville",
+    "mz:postal_locality_alt":[
+        "Exton",
+        "Glen Mills",
+        "Wagontown",
+        "Thorndale",
+        "Parkesburg",
+        "Sadsburyville",
+        "Concordville",
+        "Berwyn"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404486013,
         85633793,
-        102081275
+        102081275,
+        404486013,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765575"
     },
     "wof:country":"US",
-    "wof:geomhash":"0a2d98ece9137ef204ad8a6a5cb81008",
+    "wof:geomhash":"56b04cd4f133ce5939d36571721c9d7e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +51,7 @@
         }
     ],
     "wof:id":554706389,
-    "wof:lastmodified":1480817360,
+    "wof:lastmodified":1611182715,
     "wof:name":"19320",
     "wof:parent_id":404486013,
     "wof:placetype":"postalcode",

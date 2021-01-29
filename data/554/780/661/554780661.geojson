@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00025,
-    "geom:area_square_m":2380252.258656,
+    "geom:area_square_m":2380252.258661,
     "geom:bbox":"-75.994448,39.563152,-75.963263,39.582005",
     "geom:latitude":39.572675,
     "geom:longitude":-75.978959,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.572339,
     "lbl:longitude":-75.978486,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Charlestown",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688501,
         102191575,
         85633793,
+        102082183,
         85949409,
-        102082183
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766783"
     },
     "wof:country":"US",
-    "wof:geomhash":"cf0163c7cd48cc95d6d8c15964617e14",
+    "wof:geomhash":"e0de85ae8fd1bcdc4181cb33e432f7b5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554780661,
-    "wof:lastmodified":1480794885,
+    "wof:lastmodified":1611185171,
     "wof:name":"21914",
     "wof:parent_id":85949409,
     "wof:placetype":"postalcode",

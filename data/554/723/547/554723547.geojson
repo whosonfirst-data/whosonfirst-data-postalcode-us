@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006754,
-    "geom:area_square_m":65672476.830232,
+    "geom:area_square_m":65672476.830172,
     "geom:bbox":"-86.864994,38.100857,-86.751824,38.200423",
     "geom:latitude":38.152156,
     "geom:longitude":-86.806731,
@@ -14,20 +14,22 @@
     "lbl:latitude":38.152526,
     "lbl:longitude":-86.808938,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"St Meinrad",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404501565,
         85633793,
-        102087069
+        102087069,
+        404501565,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778301"
     },
     "wof:country":"US",
-    "wof:geomhash":"e2d50634d2bc74c1084305fdd882ab0b",
+    "wof:geomhash":"9b395674c9d8b16cf20c95c39954ba29",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554723547,
-    "wof:lastmodified":1480916641,
+    "wof:lastmodified":1611183810,
     "wof:name":"47577",
     "wof:parent_id":404501565,
     "wof:placetype":"postalcode",

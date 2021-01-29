@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001735,
-    "geom:area_square_m":19292016.386504,
+    "geom:area_square_m":19292016.386457,
     "geom:bbox":"-80.160568,25.899132,-80.11379,25.975161",
     "geom:latitude":25.934033,
     "geom:longitude":-80.131891,
@@ -14,20 +14,34 @@
     "lbl:latitude":25.933997,
     "lbl:longitude":-80.135801,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Miami",
+    "mz:postal_locality_alt":[
+        "Sunny Isles Bch",
+        "Aventura",
+        "Sunny Isles Beach",
+        "North Miami Beach",
+        "North Miami Bch",
+        "Sunny Isl Bch",
+        "N Miami Beach",
+        "Golden Beach",
+        "Sunny Isles",
+        "North Miami"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688651,
         102191575,
         85633793,
+        102085771,
         85933569,
-        102085771
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12772170"
     },
     "wof:country":"US",
-    "wof:geomhash":"092bab68964c1d0f7dd0d4d6ffbe4ceb",
+    "wof:geomhash":"61705238fd4293698d090d1e6601b35e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +53,7 @@
         }
     ],
     "wof:id":554781583,
-    "wof:lastmodified":1480806625,
+    "wof:lastmodified":1611184839,
     "wof:name":"33160",
     "wof:parent_id":85933569,
     "wof:placetype":"postalcode",

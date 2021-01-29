@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000452,
-    "geom:area_square_m":4131229.083301,
+    "geom:area_square_m":4131229.083281,
     "geom:bbox":"-71.102944,42.311685,-71.066431,42.334144",
     "geom:latitude":42.324029,
     "geom:longitude":-71.085017,
@@ -13,21 +13,27 @@
     "lbl:latitude":42.324029,
     "lbl:longitude":-71.085017,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Roxbury",
+    "mz:postal_locality_alt":[
+        "Boston",
+        "Roxbury Crossing"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476573,
         85633793,
+        102084423,
+        404476573,
         85950361,
-        102084423
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758718"
     },
     "wof:country":"US",
-    "wof:geomhash":"479338356015b5a02426450f3e9ea89b",
+    "wof:geomhash":"a99cb21e7c946b52264106b51eab9e5c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +46,7 @@
         }
     ],
     "wof:id":554778325,
-    "wof:lastmodified":1480798203,
+    "wof:lastmodified":1611183436,
     "wof:name":"02119",
     "wof:parent_id":85950361,
     "wof:placetype":"postalcode",

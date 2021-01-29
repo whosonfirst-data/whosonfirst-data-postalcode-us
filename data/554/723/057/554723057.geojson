@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015932,
-    "geom:area_square_m":149428491.345032,
+    "geom:area_square_m":149428491.345042,
     "geom:bbox":"-86.355379,40.596375,-86.166159,40.763098",
     "geom:latitude":40.668122,
     "geom:longitude":-86.257236,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.667327,
     "lbl:longitude":-86.25455,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Walton",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404501099,
         85633793,
-        102087039
+        102087039,
+        404501099,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778017"
     },
     "wof:country":"US",
-    "wof:geomhash":"488da2b4affe9c7eca161a6688dc4ae5",
+    "wof:geomhash":"ecf96b32433787a2d43e8b3794947fd0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554723057,
-    "wof:lastmodified":1480789053,
+    "wof:lastmodified":1611183806,
     "wof:name":"46994",
     "wof:parent_id":404501099,
     "wof:placetype":"postalcode",

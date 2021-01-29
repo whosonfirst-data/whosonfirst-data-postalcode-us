@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018768,
-    "geom:area_square_m":164621149.942179,
+    "geom:area_square_m":164621149.9422,
     "geom:bbox":"-73.660399,44.733464,-73.389786,44.911894",
     "geom:latitude":44.815826,
     "geom:longitude":-73.518248,
@@ -13,21 +13,26 @@
     "lbl:latitude":44.817751,
     "lbl:longitude":-73.516729,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"West Chazy",
+    "mz:postal_locality_alt":[
+        "Malone"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522171,
         85633793,
+        102081797,
+        404522171,
         85979381,
-        102081797
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762599"
     },
     "wof:country":"US",
-    "wof:geomhash":"85cd99f9f3a4e8b95b608330a095f650",
+    "wof:geomhash":"f1d45d5591b482a2ed57703b15d0537e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554701999,
-    "wof:lastmodified":1480829810,
+    "wof:lastmodified":1611182615,
     "wof:name":"12992",
     "wof:parent_id":85979381,
     "wof:placetype":"postalcode",

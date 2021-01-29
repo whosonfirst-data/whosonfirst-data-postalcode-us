@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034841,
-    "geom:area_square_m":368892215.251607,
+    "geom:area_square_m":368892215.251586,
     "geom:bbox":"-84.35064,30.995181,-84.050031,31.200012",
     "geom:latitude":31.10134,
     "geom:longitude":-84.193144,
@@ -14,19 +14,25 @@
     "lbl:latitude":31.108022,
     "lbl:longitude":-84.211198,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pelham",
+    "mz:postal_locality_alt":[
+        "Camilla",
+        "Colquitt"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688535,
-        102082965
+        102082965,
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12771387"
     },
     "wof:country":"US",
-    "wof:geomhash":"ac251aa80605fcf39fbb283d1be2a1b4",
+    "wof:geomhash":"a47e0c5ebbddf7beb6f57c40eaebb3e3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554714017,
-    "wof:lastmodified":1480842786,
+    "wof:lastmodified":1611183373,
     "wof:name":"31779",
     "wof:parent_id":102082965,
     "wof:placetype":"postalcode",

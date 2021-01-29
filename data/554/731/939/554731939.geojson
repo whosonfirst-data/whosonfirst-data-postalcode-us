@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.131508,
-    "geom:area_square_m":1111447516.940789,
+    "geom:area_square_m":1111447516.941072,
     "geom:bbox":"-99.069181,46.674399,-98.438796,47.082918",
     "geom:latitude":46.882509,
     "geom:longitude":-98.764014,
@@ -13,20 +13,25 @@
     "lbl:latitude":46.884369,
     "lbl:longitude":-98.766655,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Jamestown",
+    "mz:postal_locality_alt":[
+        "Eldridge"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688525,
         102191575,
-        404482461,
         85633793,
-        102082093
+        102082093,
+        404482461,
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12783299"
     },
     "wof:country":"US",
-    "wof:geomhash":"7b3def4f43749fcd65365240808fc9e9",
+    "wof:geomhash":"30e84a08aa7b76e72aa1ae6a6a6f1a9e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554731939,
-    "wof:lastmodified":1480796038,
+    "wof:lastmodified":1611183057,
     "wof:name":"58401",
     "wof:parent_id":404482461,
     "wof:placetype":"postalcode",

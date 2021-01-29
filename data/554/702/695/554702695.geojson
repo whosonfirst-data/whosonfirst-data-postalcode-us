@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014646,
-    "geom:area_square_m":134483826.949888,
+    "geom:area_square_m":134483826.949849,
     "geom:bbox":"-76.108922,41.998779,-75.945445,42.114867",
     "geom:latitude":42.04874,
     "geom:longitude":-76.026631,
@@ -14,20 +14,22 @@
     "lbl:latitude":42.049394,
     "lbl:longitude":-76.017594,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Vestal",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404521831,
         85633793,
-        102081755
+        102081755,
+        404521831,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763041"
     },
     "wof:country":"US",
-    "wof:geomhash":"97373d8d045d73c64db38c5e079dd4e8",
+    "wof:geomhash":"9db40dfe86e95d9103877f8e7ba61834",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554702695,
-    "wof:lastmodified":1480833357,
+    "wof:lastmodified":1611184146,
     "wof:name":"13850",
     "wof:parent_id":404521831,
     "wof:placetype":"postalcode",

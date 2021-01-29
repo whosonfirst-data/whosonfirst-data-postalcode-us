@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028011,
-    "geom:area_square_m":247229399.688249,
+    "geom:area_square_m":247229399.688148,
     "geom:bbox":"-84.250352,44.334679,-84.027623,44.569271",
     "geom:latitude":44.455988,
     "geom:longitude":-84.131635,
@@ -14,20 +14,22 @@
     "lbl:latitude":44.45742,
     "lbl:longitude":-84.137319,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Rose City",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404508475,
         85633793,
-        102083113
+        102083113,
+        404508475,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778930"
     },
     "wof:country":"US",
-    "wof:geomhash":"42fc1eb5083ae190438d12247ed055f2",
+    "wof:geomhash":"0d783dcbb59607eaa2901b373e2d8512",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554724447,
-    "wof:lastmodified":1480840090,
+    "wof:lastmodified":1611183745,
     "wof:name":"48654",
     "wof:parent_id":404508475,
     "wof:placetype":"postalcode",

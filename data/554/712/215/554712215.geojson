@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029415,
-    "geom:area_square_m":306101068.856773,
+    "geom:area_square_m":306101068.856447,
     "geom:bbox":"-80.209161,32.54469,-79.986997,32.864236",
     "geom:latitude":32.693042,
     "geom:longitude":-80.090598,
@@ -14,20 +14,25 @@
     "lbl:latitude":32.624718,
     "lbl:longitude":-80.040587,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Johns Island",
+    "mz:postal_locality_alt":[
+        "Charleston"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688683,
         102191575,
         85633793,
+        102085591,
         101720765,
-        102085591
+        85688683
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770196"
     },
     "wof:country":"US",
-    "wof:geomhash":"8b83791a7c6ba8bfbddc8cc86b3766c4",
+    "wof:geomhash":"2d2bfbacf4ef285700beea957538c20c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554712215,
-    "wof:lastmodified":1480813957,
+    "wof:lastmodified":1611183723,
     "wof:name":"29455",
     "wof:parent_id":101720765,
     "wof:placetype":"postalcode",

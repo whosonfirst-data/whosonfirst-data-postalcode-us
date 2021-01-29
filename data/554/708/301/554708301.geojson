@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00082,
-    "geom:area_square_m":8093048.883754,
+    "geom:area_square_m":8093048.883766,
     "geom:bbox":"-76.322968,36.968552,-76.288698,37.03519",
     "geom:latitude":37.006015,
     "geom:longitude":-76.304329,
@@ -14,20 +14,25 @@
     "lbl:latitude":37.005711,
     "lbl:longitude":-76.305389,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fort Monroe",
+    "mz:postal_locality_alt":[
+        "Hampton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688747,
         102191575,
         85633793,
+        102084913,
         101728661,
-        102084913
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12767451"
     },
     "wof:country":"US",
-    "wof:geomhash":"3fc64772e97697cdf48dd48657189aa5",
+    "wof:geomhash":"eda86576ccbfc25d7c8ca55434aa1d52",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554708301,
-    "wof:lastmodified":1480813076,
+    "wof:lastmodified":1611182763,
     "wof:name":"23651",
     "wof:parent_id":101728661,
     "wof:placetype":"postalcode",

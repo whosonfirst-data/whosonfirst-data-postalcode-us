@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015412,
-    "geom:area_square_m":135194315.681384,
+    "geom:area_square_m":135194315.681309,
     "geom:bbox":"-86.093799,44.746418,-85.886784,44.896332",
     "geom:latitude":44.814359,
     "geom:longitude":-85.999859,
@@ -14,20 +14,22 @@
     "lbl:latitude":44.818252,
     "lbl:longitude":-86.009304,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Empire",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404508319,
         85633793,
-        102083155
+        102083155,
+        404508319,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779440"
     },
     "wof:country":"US",
-    "wof:geomhash":"36c27c2448ea8142ab0839435ee50f92",
+    "wof:geomhash":"5566d1b567be5e686bc762297c8706c3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554725169,
-    "wof:lastmodified":1480841434,
+    "wof:lastmodified":1611183257,
     "wof:name":"49630",
     "wof:parent_id":404508319,
     "wof:placetype":"postalcode",

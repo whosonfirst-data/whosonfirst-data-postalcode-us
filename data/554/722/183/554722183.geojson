@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005295,
-    "geom:area_square_m":50867408.560723,
+    "geom:area_square_m":50867408.56072,
     "geom:bbox":"-82.201747,38.967428,-82.044439,39.049927",
     "geom:latitude":39.016114,
     "geom:longitude":-82.12329,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.016845,
     "lbl:longitude":-82.121702,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Middleport",
+    "mz:postal_locality_alt":[
+        "Belpre"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404526475,
         85633793,
-        102083655
+        102083655,
+        404526475,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777423"
     },
     "wof:country":"US",
-    "wof:geomhash":"67f4b4d7f31fd61709dda1b77ae2b89c",
+    "wof:geomhash":"ce3a38767a5d6994f57a5ed266d231ae",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554722183,
-    "wof:lastmodified":1480843277,
+    "wof:lastmodified":1611183247,
     "wof:name":"45760",
     "wof:parent_id":404526475,
     "wof:placetype":"postalcode",

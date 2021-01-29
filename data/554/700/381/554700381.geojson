@@ -14,20 +14,28 @@
     "lbl:latitude":40.027949,
     "lbl:longitude":-74.886984,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Willingboro",
+    "mz:postal_locality_alt":[
+        "Cherry Hill",
+        "Voorhees",
+        "Columbus",
+        "Riverside"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477975,
         85633793,
-        102087415
+        102087415,
+        404477975,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761017"
     },
     "wof:country":"US",
-    "wof:geomhash":"0c0f05961363341901e877232432596c",
+    "wof:geomhash":"7641b7df18517982f4771399124048e1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +47,7 @@
         }
     ],
     "wof:id":554700381,
-    "wof:lastmodified":1480786572,
+    "wof:lastmodified":1611183209,
     "wof:name":"08046",
     "wof:parent_id":404477975,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00406,
-    "geom:area_square_m":37538314.928645,
+    "geom:area_square_m":37538314.928627,
     "geom:bbox":"-74.048479,41.559438,-73.953263,41.653836",
     "geom:latitude":41.60742,
     "geom:longitude":-73.997165,
@@ -14,20 +14,26 @@
     "lbl:latitude":41.613876,
     "lbl:longitude":-74.015014,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Marlboro",
+    "mz:postal_locality_alt":[
+        "Newburgh",
+        "Wappingers Falls"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404521653,
         85633793,
-        102081775
+        102081775,
+        404521653,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762358"
     },
     "wof:country":"US",
-    "wof:geomhash":"3578ec7f5643a8015b7ffacb18a3d23b",
+    "wof:geomhash":"2e7fc3d2ece3dd965fb5f5e5c8132c47",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554701559,
-    "wof:lastmodified":1480834096,
+    "wof:lastmodified":1611182613,
     "wof:name":"12542",
     "wof:parent_id":404521653,
     "wof:placetype":"postalcode",

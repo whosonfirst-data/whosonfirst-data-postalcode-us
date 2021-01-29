@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011472,
-    "geom:area_square_m":105569113.201813,
+    "geom:area_square_m":105569113.201773,
     "geom:bbox":"-73.755031,41.840761,-73.623304,41.981035",
     "geom:latitude":41.906969,
     "geom:longitude":-73.693441,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.901615,
     "lbl:longitude":-73.700592,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Stanfordville",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404521331,
         85633793,
-        102082363
+        102082363,
+        404521331,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762387"
     },
     "wof:country":"US",
-    "wof:geomhash":"97117c08e4eb0594d988704d56ffb90d",
+    "wof:geomhash":"df0e5ff2c856f8b17398b6661af9a396",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554701609,
-    "wof:lastmodified":1480791529,
+    "wof:lastmodified":1611182643,
     "wof:name":"12581",
     "wof:parent_id":404521331,
     "wof:placetype":"postalcode",

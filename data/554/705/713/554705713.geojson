@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00077,
-    "geom:area_square_m":7187271.796045,
+    "geom:area_square_m":7187271.796039,
     "geom:bbox":"-75.318694,40.997849,-75.269143,41.034731",
     "geom:latitude":41.016768,
     "geom:longitude":-75.289627,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.02575,
     "lbl:longitude":-75.28331,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bartonsville",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404488225,
         85633793,
-        102080945
+        102080945,
+        404488225,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765130"
     },
     "wof:country":"US",
-    "wof:geomhash":"d8a5cbc78e57634bb8965700fac25e1e",
+    "wof:geomhash":"002c83f22900c3a819958563dde3b1aa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554705713,
-    "wof:lastmodified":1480906479,
+    "wof:lastmodified":1611184106,
     "wof:name":"18321",
     "wof:parent_id":404488225,
     "wof:placetype":"postalcode",

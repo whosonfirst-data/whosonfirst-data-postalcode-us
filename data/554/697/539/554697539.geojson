@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0052,
-    "geom:area_square_m":47809874.064345,
+    "geom:area_square_m":47809874.064329,
     "geom:bbox":"-71.3817,41.9148,-71.268739,42.014379",
     "geom:latitude":41.970008,
     "geom:longitude":-71.335878,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.972509,
     "lbl:longitude":-71.334397,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"North Attleboro",
+    "mz:postal_locality_alt":[
+        "North Attleborough"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476133,
         85633793,
-        102084407
+        102084407,
+        404476133,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758968"
     },
     "wof:country":"US",
-    "wof:geomhash":"c5a067b995aa7ba9b4de03b59b3e04ab",
+    "wof:geomhash":"8d792cac856f5319dff13be2836e44f8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554697539,
-    "wof:lastmodified":1480817073,
+    "wof:lastmodified":1611184650,
     "wof:name":"02760",
     "wof:parent_id":404476133,
     "wof:placetype":"postalcode",

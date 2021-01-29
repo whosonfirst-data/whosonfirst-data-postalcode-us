@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000076,
-    "geom:area_square_m":761816.403088,
+    "geom:area_square_m":761816.403089,
     "geom:bbox":"-77.287183,35.568521,-77.272667,35.580956",
     "geom:latitude":35.574391,
     "geom:longitude":-77.279486,
@@ -14,20 +14,25 @@
     "lbl:latitude":35.57439,
     "lbl:longitude":-77.279486,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Grimesland",
+    "mz:postal_locality_alt":[
+        "Simpson"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688773,
         102191575,
         85633793,
+        102087595,
         85980589,
-        102087595
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12769276"
     },
     "wof:country":"US",
-    "wof:geomhash":"cf9f836b7eee8e00280760f37f767b8f",
+    "wof:geomhash":"0605db6941af91b409ba0a54e621434d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554788657,
-    "wof:lastmodified":1480786756,
+    "wof:lastmodified":1611184761,
     "wof:name":"27879",
     "wof:parent_id":85980589,
     "wof:placetype":"postalcode",

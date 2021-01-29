@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018933,
-    "geom:area_square_m":171549145.220082,
+    "geom:area_square_m":171549145.220096,
     "geom:bbox":"-73.01195,42.826467,-72.770821,42.930087",
     "geom:latitude":42.881809,
     "geom:longitude":-72.892885,
@@ -14,20 +14,25 @@
     "lbl:latitude":42.882781,
     "lbl:longitude":-72.893126,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wilmington",
+    "mz:postal_locality_alt":[
+        "Brattleboro"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688763,
         102191575,
-        404527101,
         85633793,
-        102080773
+        102080773,
+        404527101,
+        85688763
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759965"
     },
     "wof:country":"US",
-    "wof:geomhash":"415d15af1855312eb8e0493ed949cb09",
+    "wof:geomhash":"c0131269bb8e96f4fafe8998c9bae075",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554698925,
-    "wof:lastmodified":1480903160,
+    "wof:lastmodified":1611184689,
     "wof:name":"05363",
     "wof:parent_id":404527101,
     "wof:placetype":"postalcode",

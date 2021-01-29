@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021883,
-    "geom:area_square_m":191403987.892346,
+    "geom:area_square_m":191403987.892216,
     "geom:bbox":"-92.801789,44.87674,-92.598716,45.07876",
     "geom:latitude":44.978915,
     "geom:longitude":-92.693269,
@@ -14,20 +14,22 @@
     "lbl:latitude":44.981117,
     "lbl:longitude":-92.69486,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hudson",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404493643,
         85633793,
-        102081855
+        102081855,
+        404493643,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781168"
     },
     "wof:country":"US",
-    "wof:geomhash":"8c2dcbadde2621ce3069bc2ca4a15468",
+    "wof:geomhash":"4cf65fea9f94fa300b0354ab7bebeeb0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554728061,
-    "wof:lastmodified":1480830590,
+    "wof:lastmodified":1611185087,
     "wof:name":"54016",
     "wof:parent_id":404493643,
     "wof:placetype":"postalcode",

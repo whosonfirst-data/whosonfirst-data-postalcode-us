@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000737,
-    "geom:area_square_m":6458338.324516,
+    "geom:area_square_m":6458338.324511,
     "geom:bbox":"-93.223087,44.861789,-93.178494,44.899357",
     "geom:latitude":44.878931,
     "geom:longitude":-93.198504,
@@ -13,20 +13,26 @@
     "lbl:latitude":44.878414,
     "lbl:longitude":-93.19639,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Saint Paul",
+    "mz:postal_locality_alt":[
+        "Fort Snelling",
+        "St Paul"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404511715,
         85633793,
-        102087709
+        102087709,
+        404511715,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781746"
     },
     "wof:country":"US",
-    "wof:geomhash":"647a5dfef3cbe29ce4dbf7ed7fd244b3",
+    "wof:geomhash":"167a9a2ac10312f816b430595a17def7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554729069,
-    "wof:lastmodified":1480789094,
+    "wof:lastmodified":1611185439,
     "wof:name":"55111",
     "wof:parent_id":404511715,
     "wof:placetype":"postalcode",

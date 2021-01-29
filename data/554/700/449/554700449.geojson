@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002426,
-    "geom:area_square_m":23035211.007375,
+    "geom:area_square_m":23035211.007394,
     "geom:bbox":"-75.229116,39.799818,-75.159384,39.882649",
     "geom:latitude":39.845668,
     "geom:longitude":-75.194246,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.854719,
     "lbl:longitude":-75.198716,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Thorofare",
+    "mz:postal_locality_alt":[
+        "West Deptford"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478119,
         85633793,
-        102085999
+        102085999,
+        404478119,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761054"
     },
     "wof:country":"US",
-    "wof:geomhash":"ce176f847abc969c8a7740a5bfd13d0c",
+    "wof:geomhash":"b2ab50664ba9b6ac8951c8fce9715310",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554700449,
-    "wof:lastmodified":1480906382,
+    "wof:lastmodified":1611183179,
     "wof:name":"08086",
     "wof:parent_id":404478119,
     "wof:placetype":"postalcode",

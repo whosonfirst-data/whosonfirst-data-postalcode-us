@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014996,
-    "geom:area_square_m":146983586.467481,
+    "geom:area_square_m":146983586.46744,
     "geom:bbox":"-97.310686,37.504459,-97.152743,37.635516",
     "geom:latitude":37.564443,
     "geom:longitude":-97.219752,
@@ -14,20 +14,25 @@
     "lbl:latitude":37.571832,
     "lbl:longitude":-97.217235,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Derby",
+    "mz:postal_locality_alt":[
+        "Wichita"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404504899,
         85633793,
-        102084203
+        102084203,
+        404504899,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787092"
     },
     "wof:country":"US",
-    "wof:geomhash":"cf611683950d3070e3abe02d346c84f1",
+    "wof:geomhash":"df17158dfc22eb3060baa698f11d7ed8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554738601,
-    "wof:lastmodified":1480798324,
+    "wof:lastmodified":1611183121,
     "wof:name":"67037",
     "wof:parent_id":404504899,
     "wof:placetype":"postalcode",

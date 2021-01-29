@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007358,
-    "geom:area_square_m":73526823.29114,
+    "geom:area_square_m":73526823.29102,
     "geom:bbox":"-80.51642,36.04297,-80.364418,36.138763",
     "geom:latitude":36.090827,
     "geom:longitude":-80.450482,
@@ -14,19 +14,24 @@
     "lbl:latitude":36.089784,
     "lbl:longitude":-80.456712,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lewisville",
+    "mz:postal_locality_alt":[
+        "Winston Salem"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688773,
-        102080957
+        102080957,
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12768893"
     },
     "wof:country":"US",
-    "wof:geomhash":"9b60d2692908001ffc9d01d029ba2517",
+    "wof:geomhash":"5cf630611d942ad6f5b85f5308b2d772",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554710439,
-    "wof:lastmodified":1480905022,
+    "wof:lastmodified":1611185110,
     "wof:name":"27023",
     "wof:parent_id":102080957,
     "wof:placetype":"postalcode",

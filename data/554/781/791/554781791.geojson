@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001965,
-    "geom:area_square_m":21663078.028394,
+    "geom:area_square_m":21663078.028406,
     "geom:bbox":"-80.095367,26.882486,-80.052488,26.947496",
     "geom:latitude":26.914598,
     "geom:longitude":-80.078092,
@@ -13,20 +13,25 @@
     "lbl:latitude":26.920057,
     "lbl:longitude":-80.076529,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Jupiter",
+    "mz:postal_locality_alt":[
+        "Lake Worth"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688651,
         102191575,
         85633793,
+        102085845,
         85932095,
-        102085845
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12772340"
     },
     "wof:country":"US",
-    "wof:geomhash":"195d1d27ea0ba6f40c0600b10cafdba3",
+    "wof:geomhash":"5fedd02ffc8ca47a1adc9dd511f672fc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554781791,
-    "wof:lastmodified":1480804000,
+    "wof:lastmodified":1611184809,
     "wof:name":"33477",
     "wof:parent_id":85932095,
     "wof:placetype":"postalcode",

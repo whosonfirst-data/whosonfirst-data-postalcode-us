@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021734,
-    "geom:area_square_m":198729385.329273,
+    "geom:area_square_m":198729385.329345,
     "geom:bbox":"-89.456027,42.230844,-89.223715,42.38993",
     "geom:latitude":42.312171,
     "geom:longitude":-89.347322,
@@ -14,20 +14,25 @@
     "lbl:latitude":42.319493,
     "lbl:longitude":-89.340658,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pecatonica",
+    "mz:postal_locality_alt":[
+        "Seward"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404497121,
         85633793,
-        102080827
+        102080827,
+        404497121,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784448"
     },
     "wof:country":"US",
-    "wof:geomhash":"7efb63f29d6b6a04d4c9be4aeff12c6d",
+    "wof:geomhash":"9ccead2e7154c99a8de8e9cd9aa6852b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554733703,
-    "wof:lastmodified":1480906997,
+    "wof:lastmodified":1611184233,
     "wof:name":"61063",
     "wof:parent_id":404497121,
     "wof:placetype":"postalcode",

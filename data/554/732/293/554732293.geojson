@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.051646,
-    "geom:area_square_m":425013900.684721,
+    "geom:area_square_m":425013900.684512,
     "geom:bbox":"-100.951761,48.138288,-100.653812,48.444082",
     "geom:latitude":48.277536,
     "geom:longitude":-100.824472,
@@ -14,20 +14,22 @@
     "lbl:latitude":48.2768,
     "lbl:longitude":-100.830825,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Granville",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688525,
         102191575,
-        404480885,
         85633793,
-        102082517
+        102082517,
+        404480885,
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12783467"
     },
     "wof:country":"US",
-    "wof:geomhash":"54ea96f5cf9fde6c55f495dbf3821fad",
+    "wof:geomhash":"4c43e79894bb68f325f744f9279ccc44",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554732293,
-    "wof:lastmodified":1480794176,
+    "wof:lastmodified":1611184376,
     "wof:name":"58741",
     "wof:parent_id":404480885,
     "wof:placetype":"postalcode",

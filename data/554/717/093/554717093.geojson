@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023175,
-    "geom:area_square_m":231934573.263776,
+    "geom:area_square_m":231934573.263845,
     "geom:bbox":"-84.438401,35.874865,-84.156558,36.069826",
     "geom:latitude":35.965006,
     "geom:longitude":-84.291207,
@@ -13,20 +13,25 @@
     "lbl:latitude":35.966483,
     "lbl:longitude":-84.290549,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Oak Ridge",
+    "mz:postal_locality_alt":[
+        "Oneida"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688701,
         102191575,
         85633793,
+        102087051,
         101722567,
-        102087051
+        85688701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12774149"
     },
     "wof:country":"US",
-    "wof:geomhash":"e4b74242c87b66c4bb4861629acc8579",
+    "wof:geomhash":"70e60798926f69ee8d5c1d9cb44ba829",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554717093,
-    "wof:lastmodified":1480915977,
+    "wof:lastmodified":1611185035,
     "wof:name":"37830",
     "wof:parent_id":101722567,
     "wof:placetype":"postalcode",

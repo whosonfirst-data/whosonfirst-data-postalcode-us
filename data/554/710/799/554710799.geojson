@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031898,
-    "geom:area_square_m":319742433.712272,
+    "geom:area_square_m":319742433.712126,
     "geom:bbox":"-78.450163,35.667866,-78.183544,35.953139",
     "geom:latitude":35.840977,
     "geom:longitude":-78.300231,
@@ -14,19 +14,26 @@
     "lbl:latitude":35.841015,
     "lbl:longitude":-78.30268,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Zebulon",
+    "mz:postal_locality_alt":[
+        "Middlesex",
+        "Wake Forest",
+        "Morrisville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688773,
-        102087821
+        102087821,
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12769139"
     },
     "wof:country":"US",
-    "wof:geomhash":"0e81a8686b3395f2b3371d2f386c4965",
+    "wof:geomhash":"10a7c007a71b69f56b1a88d255f4473d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +44,7 @@
         }
     ],
     "wof:id":554710799,
-    "wof:lastmodified":1480904783,
+    "wof:lastmodified":1611185099,
     "wof:name":"27597",
     "wof:parent_id":102087821,
     "wof:placetype":"postalcode",

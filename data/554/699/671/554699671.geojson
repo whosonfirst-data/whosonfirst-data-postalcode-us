@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005903,
-    "geom:area_square_m":54579858.762068,
+    "geom:area_square_m":54579858.762033,
     "geom:bbox":"-73.021471,41.553349,-72.933644,41.644311",
     "geom:latitude":41.600656,
     "geom:longitude":-72.97336,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.594792,
     "lbl:longitude":-72.968514,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wolcott",
+    "mz:postal_locality_alt":[
+        "Watertown"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688629,
         102191575,
-        404495713,
         85633793,
-        102086923
+        102086923,
+        404495713,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760499"
     },
     "wof:country":"US",
-    "wof:geomhash":"f66cf63f9295ad986a720ab0af380860",
+    "wof:geomhash":"c3eb09385a95f172db14da4fda98b276",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554699671,
-    "wof:lastmodified":1480916211,
+    "wof:lastmodified":1611184623,
     "wof:name":"06716",
     "wof:parent_id":404495713,
     "wof:placetype":"postalcode",

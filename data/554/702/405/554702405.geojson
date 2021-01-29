@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005793,
-    "geom:area_square_m":52359248.486502,
+    "geom:area_square_m":52359248.486515,
     "geom:bbox":"-75.574489,42.986036,-75.448932,43.073357",
     "geom:latitude":43.032896,
     "geom:longitude":-75.512945,
@@ -14,20 +14,22 @@
     "lbl:latitude":43.032894,
     "lbl:longitude":-75.512948,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Vernon Center",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522809,
         85633793,
-        102083149
+        102083149,
+        404522809,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762847"
     },
     "wof:country":"US",
-    "wof:geomhash":"362cea8161288b525285734b8db37a86",
+    "wof:geomhash":"ddd2d8fd4d7ddb06f64ee694d989f743",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554702405,
-    "wof:lastmodified":1480903549,
+    "wof:lastmodified":1611184165,
     "wof:name":"13477",
     "wof:parent_id":404522809,
     "wof:placetype":"postalcode",

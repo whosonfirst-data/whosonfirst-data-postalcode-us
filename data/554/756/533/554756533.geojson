@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001239,
-    "geom:area_square_m":13211288.552987,
+    "geom:area_square_m":13211288.552993,
     "geom:bbox":"-88.918901,30.416303,-88.88309,30.464857",
     "geom:latitude":30.441758,
     "geom:longitude":-88.899007,
@@ -14,20 +14,25 @@
     "lbl:latitude":30.443102,
     "lbl:longitude":-88.897238,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Diberville",
+    "mz:postal_locality_alt":[
+        "Biloxi"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688579,
         102191575,
         85633793,
+        102087223,
         85969865,
-        102087223
+        85688579
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"23424612"
     },
     "wof:country":"US",
-    "wof:geomhash":"7d5919776d1ed609c66344b8f876bfdd",
+    "wof:geomhash":"78061c396785001d00556963a5789476",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554756533,
-    "wof:lastmodified":1480838248,
+    "wof:lastmodified":1611184268,
     "wof:name":"39540",
     "wof:parent_id":85969865,
     "wof:placetype":"postalcode",

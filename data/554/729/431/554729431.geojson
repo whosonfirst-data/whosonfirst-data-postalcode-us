@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027405,
-    "geom:area_square_m":228471937.806661,
+    "geom:area_square_m":228471937.806625,
     "geom:bbox":"-91.023131,47.46494,-90.873137,47.758941",
     "geom:latitude":47.606859,
     "geom:longitude":-90.957459,
@@ -14,20 +14,22 @@
     "lbl:latitude":47.581631,
     "lbl:longitude":-90.922164,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Schroeder",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404511843,
         85633793,
-        102087727
+        102087727,
+        404511843,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782007"
     },
     "wof:country":"US",
-    "wof:geomhash":"cac2883c9cfbb36b24df684822dff870",
+    "wof:geomhash":"401564c3194ae019a081d8a57786d898",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554729431,
-    "wof:lastmodified":1480787258,
+    "wof:lastmodified":1611185418,
     "wof:name":"55613",
     "wof:parent_id":404511843,
     "wof:placetype":"postalcode",

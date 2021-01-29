@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006421,
-    "geom:area_square_m":59537837.126571,
+    "geom:area_square_m":59537837.126567,
     "geom:bbox":"-75.081963,41.354082,-74.97115,41.486895",
     "geom:latitude":41.425708,
     "geom:longitude":-75.020509,
@@ -13,20 +13,25 @@
     "lbl:latitude":41.438445,
     "lbl:longitude":-75.043141,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Greeley",
+    "mz:postal_locality_alt":[
+        "Shohola"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404486263,
         85633793,
-        102081385
+        102081385,
+        404486263,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765183"
     },
     "wof:country":"US",
-    "wof:geomhash":"da2a0e6bd5b6525c6afd397d052ded19",
+    "wof:geomhash":"ba18dd355bbf48d604f6d636ec067e06",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554705799,
-    "wof:lastmodified":1480824515,
+    "wof:lastmodified":1611184091,
     "wof:name":"18425",
     "wof:parent_id":404486263,
     "wof:placetype":"postalcode",

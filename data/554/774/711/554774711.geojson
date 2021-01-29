@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002571,
-    "geom:area_square_m":25160313.238359,
+    "geom:area_square_m":25160313.238389,
     "geom:bbox":"-96.580639,37.650402,-96.525557,37.710807",
     "geom:latitude":37.676556,
     "geom:longitude":-96.549845,
@@ -14,20 +14,22 @@
     "lbl:latitude":37.674225,
     "lbl:longitude":-96.544425,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Beaumont",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404503823,
         85633793,
-        102082695
+        102082695,
+        404503823,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787073"
     },
     "wof:country":"US",
-    "wof:geomhash":"80a2a3df14b94bb48bdfc43acba629ba",
+    "wof:geomhash":"b0dd49d59010c720ab886589e45ecba2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554774711,
-    "wof:lastmodified":1480800136,
+    "wof:lastmodified":1611185201,
     "wof:name":"67012",
     "wof:parent_id":404503823,
     "wof:placetype":"postalcode",

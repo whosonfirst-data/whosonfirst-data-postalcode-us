@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053058,
-    "geom:area_square_m":546744392.963148,
+    "geom:area_square_m":546744392.963032,
     "geom:bbox":"-83.348991,33.378214,-82.992987,33.733289",
     "geom:latitude":33.5544,
     "geom:longitude":-83.193442,
@@ -14,20 +14,29 @@
     "lbl:latitude":33.554175,
     "lbl:longitude":-83.194404,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Greensboro",
+    "mz:postal_locality_alt":[
+        "Hartwell",
+        "Winder",
+        "Watkinsville",
+        "Madison",
+        "White Plains"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688535,
         102191575,
         85633793,
+        102082969,
         85935959,
-        102082969
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770951"
     },
     "wof:country":"US",
-    "wof:geomhash":"5654866dab391d898bb4bcb9b461338a",
+    "wof:geomhash":"6694d05b0397bc53e906be01848654cc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +48,7 @@
         }
     ],
     "wof:id":554713373,
-    "wof:lastmodified":1480832858,
+    "wof:lastmodified":1611183338,
     "wof:name":"30642",
     "wof:parent_id":85935959,
     "wof:placetype":"postalcode",

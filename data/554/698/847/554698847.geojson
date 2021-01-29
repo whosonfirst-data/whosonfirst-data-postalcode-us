@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003628,
-    "geom:area_square_m":32593219.570844,
+    "geom:area_square_m":32593219.570874,
     "geom:bbox":"-72.661331,43.350383,-72.6038,43.456996",
     "geom:latitude":43.409989,
     "geom:longitude":-72.641551,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.418436,
     "lbl:longitude":-72.642552,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Proctorsville",
+    "mz:postal_locality_alt":[
+        "Weston"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688763,
         102191575,
-        404527359,
         85633793,
-        102080777
+        102080777,
+        404527359,
+        85688763
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759923"
     },
     "wof:country":"US",
-    "wof:geomhash":"1e9f9629be94019ccd415de3262cbb7f",
+    "wof:geomhash":"f4923028de316dae526c4b6e5b29facc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554698847,
-    "wof:lastmodified":1480905332,
+    "wof:lastmodified":1611184697,
     "wof:name":"05153",
     "wof:parent_id":404527359,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004753,
-    "geom:area_square_m":43638702.404091,
+    "geom:area_square_m":43638702.404101,
     "geom:bbox":"-76.65747,42.000449,-76.589207,42.108188",
     "geom:latitude":42.055039,
     "geom:longitude":-76.621144,
@@ -14,20 +14,22 @@
     "lbl:latitude":42.056296,
     "lbl:longitude":-76.618187,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Chemung",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522111,
         85633793,
-        102081819
+        102081819,
+        404522111,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763468"
     },
     "wof:country":"US",
-    "wof:geomhash":"55790aef12a869e89ee24eac79c90d98",
+    "wof:geomhash":"db99f4f846bbfa676054ad6bcb42dbc8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554703223,
-    "wof:lastmodified":1480817424,
+    "wof:lastmodified":1611184473,
     "wof:name":"14825",
     "wof:parent_id":404522111,
     "wof:placetype":"postalcode",

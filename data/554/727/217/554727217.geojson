@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010125,
-    "geom:area_square_m":94591593.271616,
+    "geom:area_square_m":94591593.271621,
     "geom:bbox":"-92.333101,40.877335,-92.140292,40.979103",
     "geom:latitude":40.92594,
     "geom:longitude":-92.229256,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.925319,
     "lbl:longitude":-92.227697,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Eldon",
+    "mz:postal_locality_alt":[
+        "Agency"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688713,
         102191575,
         85633793,
+        102086647,
         85944667,
-        102086647
+        85688713
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12780627"
     },
     "wof:country":"US",
-    "wof:geomhash":"caaf701ab6ebe84322e3d42d196de5c2",
+    "wof:geomhash":"5187913d8321aa71e055b7f1bed12709",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554727217,
-    "wof:lastmodified":1480916822,
+    "wof:lastmodified":1611185500,
     "wof:name":"52554",
     "wof:parent_id":85944667,
     "wof:placetype":"postalcode",

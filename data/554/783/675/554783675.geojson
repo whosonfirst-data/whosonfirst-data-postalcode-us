@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009085,
-    "geom:area_square_m":97545530.364035,
+    "geom:area_square_m":97545530.364058,
     "geom:bbox":"-95.082685,29.673698,-94.913246,29.792512",
     "geom:latitude":29.732976,
     "geom:longitude":-94.994189,
@@ -13,20 +13,26 @@
     "lbl:latitude":29.733275,
     "lbl:longitude":-94.994118,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Baytown",
+    "mz:postal_locality_alt":[
+        "Mont Belvieu",
+        "La Porte"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102081111,
         101724811,
-        102081111
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12791669"
     },
     "wof:country":"US",
-    "wof:geomhash":"f3fef8950eef2f6cbe52f447c6544eff",
+    "wof:geomhash":"57dc527c87119d06872580e034926788",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554783675,
-    "wof:lastmodified":1480915798,
+    "wof:lastmodified":1611183875,
     "wof:name":"77520",
     "wof:parent_id":101724811,
     "wof:placetype":"postalcode",

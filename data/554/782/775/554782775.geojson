@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020798,
-    "geom:area_square_m":179532535.147784,
+    "geom:area_square_m":179532535.147804,
     "geom:bbox":"-85.084567,45.66487,-84.679446,45.773896",
     "geom:latitude":45.724775,
     "geom:longitude":-84.860042,
@@ -14,20 +14,25 @@
     "lbl:latitude":45.734622,
     "lbl:longitude":-84.861522,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Carp Lake",
+    "mz:postal_locality_alt":[
+        "Mackinaw City"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404507365,
         85633793,
-        102083073
+        102083073,
+        404507365,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779502"
     },
     "wof:country":"US",
-    "wof:geomhash":"f08c2a384467229dfd2b2d1fb350087d",
+    "wof:geomhash":"5aa778876df927c0addfe2f9257b113f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554782775,
-    "wof:lastmodified":1480841990,
+    "wof:lastmodified":1611183632,
     "wof:name":"49718",
     "wof:parent_id":404507365,
     "wof:placetype":"postalcode",

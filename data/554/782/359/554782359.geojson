@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010462,
-    "geom:area_square_m":97056328.198578,
+    "geom:area_square_m":97056328.198609,
     "geom:bbox":"-82.46889,41.345709,-82.282407,41.43237",
     "geom:latitude":41.390519,
     "geom:longitude":-82.369068,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.392084,
     "lbl:longitude":-82.377454,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Vermilion",
+    "mz:postal_locality_alt":[
+        "Painesville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404524565,
         85633793,
-        102084735
+        102084735,
+        404524565,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776618"
     },
     "wof:country":"US",
-    "wof:geomhash":"d9ee1966b07b6a109013dc2694f93170",
+    "wof:geomhash":"409ffdf55c208e7a0fa9b1865efd9140",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554782359,
-    "wof:lastmodified":1480835324,
+    "wof:lastmodified":1611183617,
     "wof:name":"44089",
     "wof:parent_id":404524565,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009841,
-    "geom:area_square_m":92877536.934218,
+    "geom:area_square_m":92877536.934111,
     "geom:bbox":"-76.247707,40.173482,-76.00919,40.312167",
     "geom:latitude":40.244484,
     "geom:longitude":-76.132468,
@@ -14,20 +14,27 @@
     "lbl:latitude":40.244751,
     "lbl:longitude":-76.13288,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Denver",
+    "mz:postal_locality_alt":[
+        "Stevens",
+        "Bowmansville",
+        "Reamstown"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485441,
         85633793,
-        102081377
+        102081377,
+        404485441,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764793"
     },
     "wof:country":"US",
-    "wof:geomhash":"934b6afab411f504da4daa52b471324f",
+    "wof:geomhash":"a689df385a9bcf9080cda4d42882eef6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554705239,
-    "wof:lastmodified":1480818669,
+    "wof:lastmodified":1611184123,
     "wof:name":"17517",
     "wof:parent_id":404485441,
     "wof:placetype":"postalcode",

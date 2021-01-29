@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020373,
-    "geom:area_square_m":181802660.847832,
+    "geom:area_square_m":181802660.847887,
     "geom:bbox":"-72.768546,43.688614,-72.568632,43.894559",
     "geom:latitude":43.806535,
     "geom:longitude":-72.659372,
@@ -14,20 +14,26 @@
     "lbl:latitude":43.80158,
     "lbl:longitude":-72.65776,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bethel",
+    "mz:postal_locality_alt":[
+        "Chelsea",
+        "Quechee"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688763,
         102191575,
-        404527357,
         85633793,
-        102080777
+        102080777,
+        404527357,
+        85688763
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759862"
     },
     "wof:country":"US",
-    "wof:geomhash":"a86fde39cdac96ec221f25cb65460879",
+    "wof:geomhash":"38911cf2e335c8c326627938e8c00727",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554698731,
-    "wof:lastmodified":1480905333,
+    "wof:lastmodified":1611184678,
     "wof:name":"05032",
     "wof:parent_id":404527357,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009947,
-    "geom:area_square_m":92421527.015195,
+    "geom:area_square_m":92421527.015258,
     "geom:bbox":"-96.813534,41.226905,-96.667501,41.353589",
     "geom:latitude":41.284467,
     "geom:longitude":-96.736697,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.283485,
     "lbl:longitude":-96.734999,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Malmo",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688563,
         102191575,
-        404520965,
         85633793,
-        102082199
+        102082199,
+        404520965,
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787496"
     },
     "wof:country":"US",
-    "wof:geomhash":"ea4c04ae041ce228b1258b319abe4e49",
+    "wof:geomhash":"3e78965c87917c25840194329c90a08b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554739445,
-    "wof:lastmodified":1480796033,
+    "wof:lastmodified":1611182673,
     "wof:name":"68040",
     "wof:parent_id":404520965,
     "wof:placetype":"postalcode",

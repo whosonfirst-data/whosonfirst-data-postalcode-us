@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004353,
-    "geom:area_square_m":40024671.748387,
+    "geom:area_square_m":40024671.748389,
     "geom:bbox":"-72.837743,41.917997,-72.762939,42.002195",
     "geom:latitude":41.960584,
     "geom:longitude":-72.800944,
@@ -14,21 +14,26 @@
     "lbl:latitude":41.960681,
     "lbl:longitude":-72.803847,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Granby",
+    "mz:postal_locality_alt":[
+        "East Granby"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688629,
         102191575,
-        404495827,
         85633793,
+        102085381,
+        404495827,
         85931053,
-        102085381
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760192"
     },
     "wof:country":"US",
-    "wof:geomhash":"11b191e949449c020863fb0c1e8a195a",
+    "wof:geomhash":"a7269cc716fd5a51740ed4a8bb51d0e9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554699301,
-    "wof:lastmodified":1480815744,
+    "wof:lastmodified":1611184602,
     "wof:name":"06035",
     "wof:parent_id":85931053,
     "wof:placetype":"postalcode",

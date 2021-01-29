@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018602,
-    "geom:area_square_m":175029244.719597,
+    "geom:area_square_m":175029244.719635,
     "geom:bbox":"-75.466713,40.38465,-75.217449,40.538407",
     "geom:latitude":40.4524,
     "geom:longitude":-75.344612,
@@ -14,20 +14,29 @@
     "lbl:latitude":40.452964,
     "lbl:longitude":-75.348855,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Quakertown",
+    "mz:postal_locality_alt":[
+        "Sellersville",
+        "Montgomeryville",
+        "Hilltown",
+        "Trumbauersville",
+        "Line Lexington"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404484765,
         85633793,
-        102080987
+        102080987,
+        404484765,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765381"
     },
     "wof:country":"US",
-    "wof:geomhash":"96b2a81844b5d1c97b73a63efc503f7c",
+    "wof:geomhash":"922ada861613db094483c9a150e386d2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +48,7 @@
         }
     ],
     "wof:id":554706105,
-    "wof:lastmodified":1480906417,
+    "wof:lastmodified":1611182684,
     "wof:name":"18951",
     "wof:parent_id":404484765,
     "wof:placetype":"postalcode",

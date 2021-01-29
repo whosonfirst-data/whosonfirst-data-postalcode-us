@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020264,
-    "geom:area_square_m":180367667.853491,
+    "geom:area_square_m":180367667.8535,
     "geom:bbox":"-72.79206,43.870081,-72.613441,44.076717",
     "geom:latitude":43.959188,
     "geom:longitude":-72.690018,
@@ -14,20 +14,22 @@
     "lbl:latitude":43.967072,
     "lbl:longitude":-72.708604,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Randolph",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688763,
         102191575,
-        404527029,
         85633793,
-        102087431
+        102087431,
+        404527029,
+        85688763
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759888"
     },
     "wof:country":"US",
-    "wof:geomhash":"7b0e2709b8dee70dfa3cac54c826330c",
+    "wof:geomhash":"e37c9011fb22928a3a077562b97b217c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554698779,
-    "wof:lastmodified":1480906207,
+    "wof:lastmodified":1611184690,
     "wof:name":"05060",
     "wof:parent_id":404527029,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017729,
-    "geom:area_square_m":164991345.122074,
+    "geom:area_square_m":164991345.122076,
     "geom:bbox":"-77.199457,41.096878,-76.893808,41.245466",
     "geom:latitude":41.183448,
     "geom:longitude":-77.07837,
@@ -13,20 +13,26 @@
     "lbl:latitude":41.183488,
     "lbl:longitude":-77.077271,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Williamsport",
+    "mz:postal_locality_alt":[
+        "S Williamsport",
+        "Jersey Shore"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404487091,
         85633793,
-        102081317
+        102081317,
+        404487091,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764851"
     },
     "wof:country":"US",
-    "wof:geomhash":"00c13eeac804cdea1cb3b42cb4dc0ab0",
+    "wof:geomhash":"85d5abbe92c781d8931899925c506e42",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554705321,
-    "wof:lastmodified":1480903553,
+    "wof:lastmodified":1611184129,
     "wof:name":"17702",
     "wof:parent_id":404487091,
     "wof:placetype":"postalcode",

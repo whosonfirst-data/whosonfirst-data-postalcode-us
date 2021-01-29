@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000036,
-    "geom:area_square_m":339061.134786,
+    "geom:area_square_m":339061.134787,
     "geom:bbox":"-79.370205,40.276649,-79.36079,40.283524",
     "geom:latitude":40.280112,
     "geom:longitude":-79.366167,
@@ -14,21 +14,26 @@
     "lbl:latitude":40.280112,
     "lbl:longitude":-79.366167,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Youngstown",
+    "mz:postal_locality_alt":[
+        "Latrobe"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404484125,
         85633793,
+        102081383,
+        404484125,
         101717105,
-        102081383
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763963"
     },
     "wof:country":"US",
-    "wof:geomhash":"8b09afb528fe14e84f131cdb577245a2",
+    "wof:geomhash":"c6b8a1948f649637de04ed9138169c72",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554767121,
-    "wof:lastmodified":1480823406,
+    "wof:lastmodified":1611184256,
     "wof:name":"15696",
     "wof:parent_id":101717105,
     "wof:placetype":"postalcode",

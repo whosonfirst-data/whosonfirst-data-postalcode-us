@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00894,
-    "geom:area_square_m":84545497.407787,
+    "geom:area_square_m":84545497.407962,
     "geom:bbox":"-76.591356,40.058909,-76.425997,40.169555",
     "geom:latitude":40.108245,
     "geom:longitude":-76.510352,
@@ -14,21 +14,26 @@
     "lbl:latitude":40.108352,
     "lbl:longitude":-76.51092,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mount Joy",
+    "mz:postal_locality_alt":[
+        "Mt Joy"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485329,
         85633793,
+        102081377,
+        404485329,
         101718631,
-        102081377
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764816"
     },
     "wof:country":"US",
-    "wof:geomhash":"01ad9fba0971f1c66d662a4d2439f963",
+    "wof:geomhash":"1a9ced120d40938ab6e73c8a9dc6c8ad",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554705275,
-    "wof:lastmodified":1480817417,
+    "wof:lastmodified":1611184099,
     "wof:name":"17552",
     "wof:parent_id":101718631,
     "wof:placetype":"postalcode",

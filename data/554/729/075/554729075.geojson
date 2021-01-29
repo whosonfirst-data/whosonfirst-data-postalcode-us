@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000393,
-    "geom:area_square_m":3440898.135067,
+    "geom:area_square_m":3440898.135068,
     "geom:bbox":"-93.20777,44.954327,-93.16698,44.97574",
     "geom:latitude":44.966089,
     "geom:longitude":-93.194368,
@@ -13,21 +13,26 @@
     "lbl:latitude":44.96669,
     "lbl:longitude":-93.195072,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Saint Paul",
+    "mz:postal_locality_alt":[
+        "St Paul"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404514465,
         85633793,
+        102087007,
+        404514465,
         85953191,
-        102087007
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781749"
     },
     "wof:country":"US",
-    "wof:geomhash":"0d1990e97311ded89499666291e622af",
+    "wof:geomhash":"68a0fdafbb49550ea18a939302e82ec3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554729075,
-    "wof:lastmodified":1480789092,
+    "wof:lastmodified":1611185432,
     "wof:name":"55114",
     "wof:parent_id":85953191,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016006,
-    "geom:area_square_m":138863225.684932,
+    "geom:area_square_m":138863225.684783,
     "geom:bbox":"-123.103117,45.362795,-122.899312,45.525361",
     "geom:latitude":45.441641,
     "geom:longitude":-122.984102,
@@ -13,19 +13,24 @@
     "lbl:latitude":45.440165,
     "lbl:longitude":-122.980083,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hillsboro",
+    "mz:postal_locality_alt":[
+        "Carlton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688513,
-        102082215
+        102082215,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12798479"
     },
     "wof:country":"US",
-    "wof:geomhash":"10085a0ee1673f19f1a289defaa4a847",
+    "wof:geomhash":"ecec01f87a71327372c552d515c48d85",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +41,7 @@
         }
     ],
     "wof:id":554754641,
-    "wof:lastmodified":1480818653,
+    "wof:lastmodified":1611182910,
     "wof:name":"97123",
     "wof:parent_id":102082215,
     "wof:placetype":"postalcode",

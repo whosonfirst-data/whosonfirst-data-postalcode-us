@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017878,
-    "geom:area_square_m":160729884.541773,
+    "geom:area_square_m":160729884.541801,
     "geom:bbox":"-72.415978,43.270202,-72.225087,43.428868",
     "geom:latitude":43.358144,
     "geom:longitude":-72.325347,
@@ -14,21 +14,28 @@
     "lbl:latitude":43.360727,
     "lbl:longitude":-72.326929,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Claremont",
+    "mz:postal_locality_alt":[
+        "Lebanon",
+        "Canaan",
+        "Springfield"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688689,
         102191575,
-        404477067,
         85633793,
+        102086583,
+        404477067,
         85975069,
-        102086583
+        85688689
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759250"
     },
     "wof:country":"US",
-    "wof:geomhash":"28333c70678072390b8939349a9811f0",
+    "wof:geomhash":"610b3002b2081251f4ba6898042a7b71",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +48,7 @@
         }
     ],
     "wof:id":554697965,
-    "wof:lastmodified":1480908975,
+    "wof:lastmodified":1611184636,
     "wof:name":"03743",
     "wof:parent_id":85975069,
     "wof:placetype":"postalcode",

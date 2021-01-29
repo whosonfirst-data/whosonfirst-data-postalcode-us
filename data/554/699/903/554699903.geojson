@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001432,
-    "geom:area_square_m":13428525.284036,
+    "geom:area_square_m":13428525.284042,
     "geom:bbox":"-74.36039,40.677433,-74.296151,40.720176",
     "geom:latitude":40.699463,
     "geom:longitude":-74.325609,
@@ -14,20 +14,26 @@
     "lbl:latitude":40.697893,
     "lbl:longitude":-74.334535,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Springfield",
+    "mz:postal_locality_alt":[
+        "Bayonne",
+        "Short Hills"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478519,
         85633793,
-        102085995
+        102085995,
+        404478519,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760671"
     },
     "wof:country":"US",
-    "wof:geomhash":"dd4459716cef9be0f10f1167b67f135c",
+    "wof:geomhash":"f8971063369efb16947f8b9dd44760c8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554699903,
-    "wof:lastmodified":1480816154,
+    "wof:lastmodified":1611184618,
     "wof:name":"07081",
     "wof:parent_id":404478519,
     "wof:placetype":"postalcode",

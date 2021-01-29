@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016678,
-    "geom:area_square_m":148347420.193677,
+    "geom:area_square_m":148347420.193684,
     "geom:bbox":"-71.821933,43.919835,-71.641294,44.078389",
     "geom:latitude":43.999216,
     "geom:longitude":-71.737962,
@@ -14,20 +14,26 @@
     "lbl:latitude":43.999889,
     "lbl:longitude":-71.714447,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"North Woodstock",
+    "mz:postal_locality_alt":[
+        "Lincoln",
+        "Woodstock"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688689,
         102191575,
-        404477129,
         85633793,
-        102086567
+        102086567,
+        404477129,
+        85688689
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759162"
     },
     "wof:country":"US",
-    "wof:geomhash":"2d5869c0e036f377c7a48dc3551de7fb",
+    "wof:geomhash":"6ed5c62d1f523b2179997c493240820e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554697809,
-    "wof:lastmodified":1480916383,
+    "wof:lastmodified":1611184659,
     "wof:name":"03262",
     "wof:parent_id":404477129,
     "wof:placetype":"postalcode",

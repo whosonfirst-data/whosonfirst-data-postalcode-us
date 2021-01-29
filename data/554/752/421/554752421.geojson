@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002729,
-    "geom:area_square_m":27945849.054518,
+    "geom:area_square_m":27945849.054568,
     "geom:bbox":"-117.306876,34.050346,-117.20878,34.106788",
     "geom:latitude":34.084517,
     "geom:longitude":-117.265826,
@@ -13,20 +13,25 @@
     "lbl:latitude":34.083458,
     "lbl:longitude":-117.270016,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"San Bernardino",
+    "mz:postal_locality_alt":[
+        "Ontario"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102085395,
         85923951,
-        102085395
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796476"
     },
     "wof:country":"US",
-    "wof:geomhash":"340d901a14c7890230a80dcb95f7a4c2",
+    "wof:geomhash":"6389ffe47563f86b127000f01d56e6bb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554752421,
-    "wof:lastmodified":1480814339,
+    "wof:lastmodified":1611182541,
     "wof:name":"92408",
     "wof:parent_id":85923951,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011144,
-    "geom:area_square_m":105727601.540017,
+    "geom:area_square_m":105727601.539996,
     "geom:bbox":"-77.451776,39.803881,-77.314333,39.96187",
     "geom:latitude":39.889003,
     "geom:longitude":-77.385119,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.883086,
     "lbl:longitude":-77.371736,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Orrtanna",
+    "mz:postal_locality_alt":[
+        "Cashtown"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404484823,
         85633793,
-        102080899
+        102080899,
+        404484823,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764758"
     },
     "wof:country":"US",
-    "wof:geomhash":"075f7e6434ef85483800d28db4751ceb",
+    "wof:geomhash":"e34fe0aff7ab76a9e760688b02240ea6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554705185,
-    "wof:lastmodified":1480903178,
+    "wof:lastmodified":1611184131,
     "wof:name":"17353",
     "wof:parent_id":404484823,
     "wof:placetype":"postalcode",

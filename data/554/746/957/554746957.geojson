@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006884,
-    "geom:area_square_m":73339282.52835,
+    "geom:area_square_m":73339282.528265,
     "geom:bbox":"-97.894323,30.448264,-97.745444,30.556436",
     "geom:latitude":30.503972,
     "geom:longitude":-97.824616,
@@ -13,20 +13,25 @@
     "lbl:latitude":30.503909,
     "lbl:longitude":-97.82418,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cedar Park",
+    "mz:postal_locality_alt":[
+        "Austin"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102085993,
         101725039,
-        102085993
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12792219"
     },
     "wof:country":"US",
-    "wof:geomhash":"780724abee269fc5823a752526b6793a",
+    "wof:geomhash":"64088af818043ee4351360b3e1bdbbd0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554746957,
-    "wof:lastmodified":1480831123,
+    "wof:lastmodified":1611184013,
     "wof:name":"78613",
     "wof:parent_id":101725039,
     "wof:placetype":"postalcode",

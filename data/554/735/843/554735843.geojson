@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004045,
-    "geom:area_square_m":39034330.75392,
+    "geom:area_square_m":39034330.753879,
     "geom:bbox":"-90.537616,38.670988,-90.404005,38.736272",
     "geom:latitude":38.698434,
     "geom:longitude":-90.473332,
@@ -13,20 +13,26 @@
     "lbl:latitude":38.697692,
     "lbl:longitude":-90.472081,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"St Louis",
+    "mz:postal_locality_alt":[
+        "Saint Louis",
+        "Creve Coeur"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404517323,
         85633793,
-        102086173
+        102086173,
+        404517323,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785630"
     },
     "wof:country":"US",
-    "wof:geomhash":"335e8ce79a17146597797f63fb16b694",
+    "wof:geomhash":"c6b4a68a3b865ae1b2af03f775b59e3e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554735843,
-    "wof:lastmodified":1480914491,
+    "wof:lastmodified":1611184417,
     "wof:name":"63146",
     "wof:parent_id":404517323,
     "wof:placetype":"postalcode",

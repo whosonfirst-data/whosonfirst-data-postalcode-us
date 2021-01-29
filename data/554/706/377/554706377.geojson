@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000919,
-    "geom:area_square_m":8702287.542881,
+    "geom:area_square_m":8702287.542896,
     "geom:bbox":"-75.508674,40.017597,-75.459009,40.05946",
     "geom:latitude":40.041128,
     "geom:longitude":-75.480254,
@@ -14,21 +14,28 @@
     "lbl:latitude":40.040279,
     "lbl:longitude":-75.480341,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Paoli",
+    "mz:postal_locality_alt":[
+        "Berwyn",
+        "Southeastern",
+        "Malvern"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404486639,
         85633793,
+        102081275,
+        404486639,
         101720361,
-        102081275
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765567"
     },
     "wof:country":"US",
-    "wof:geomhash":"64d00290b5e55ef849e9405912d90784",
+    "wof:geomhash":"26008e8ab3beecfb227d742bb398020b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +48,7 @@
         }
     ],
     "wof:id":554706377,
-    "wof:lastmodified":1480817364,
+    "wof:lastmodified":1611182696,
     "wof:name":"19301",
     "wof:parent_id":101720361,
     "wof:placetype":"postalcode",

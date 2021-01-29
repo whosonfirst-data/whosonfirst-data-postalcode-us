@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001367,
-    "geom:area_square_m":14371985.090312,
+    "geom:area_square_m":14371985.090302,
     "geom:bbox":"-89.05681,31.769841,-89.006423,31.81981",
     "geom:latitude":31.792603,
     "geom:longitude":-89.034759,
@@ -14,20 +14,22 @@
     "lbl:latitude":31.788272,
     "lbl:longitude":-89.033802,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Sandersville",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688579,
         102191575,
         85633793,
+        102085901,
         85969993,
-        102085901
+        85688579
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12774961"
     },
     "wof:country":"US",
-    "wof:geomhash":"19eff79ce8aa6ac0079d6b020600e275",
+    "wof:geomhash":"10b20b806b6c8fb22c60af21a938c266",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554775137,
-    "wof:lastmodified":1480839226,
+    "wof:lastmodified":1611184804,
     "wof:name":"39477",
     "wof:parent_id":85969993,
     "wof:placetype":"postalcode",

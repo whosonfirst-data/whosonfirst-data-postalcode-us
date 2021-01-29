@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004682,
-    "geom:area_square_m":41364894.028025,
+    "geom:area_square_m":41364894.028027,
     "geom:bbox":"-72.757042,44.353118,-72.654398,44.43293",
     "geom:latitude":44.392881,
     "geom:longitude":-72.709667,
@@ -14,20 +14,25 @@
     "lbl:latitude":44.4083,
     "lbl:longitude":-72.709972,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Waterbury Center",
+    "mz:postal_locality_alt":[
+        "Waterbury"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688763,
         102191575,
-        404527315,
         85633793,
-        102080779
+        102080779,
+        404527315,
+        85688763
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760064"
     },
     "wof:country":"US",
-    "wof:geomhash":"2864a8ad8feed2f25dcecf9b4aff0a6c",
+    "wof:geomhash":"66f018a2a4aa4702114610d6037acde5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554699073,
-    "wof:lastmodified":1480906390,
+    "wof:lastmodified":1611184622,
     "wof:name":"05677",
     "wof:parent_id":404527315,
     "wof:placetype":"postalcode",

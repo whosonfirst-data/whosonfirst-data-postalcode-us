@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006974,
-    "geom:area_square_m":70392955.154523,
+    "geom:area_square_m":70392955.154557,
     "geom:bbox":"-82.471084,35.2313,-82.305069,35.337524",
     "geom:latitude":35.288957,
     "geom:longitude":-82.393531,
@@ -14,19 +14,26 @@
     "lbl:latitude":35.288036,
     "lbl:longitude":-82.394669,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Flat Rock",
+    "mz:postal_locality_alt":[
+        "Candler",
+        "Burnsville",
+        "Hendersonville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688773,
-        102080983
+        102080983,
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12769879"
     },
     "wof:country":"US",
-    "wof:geomhash":"3604a6f94aba2feaa8f94acaf0e34a7f",
+    "wof:geomhash":"07d26ce25a4e89bb2d71e2386e07adab",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +44,7 @@
         }
     ],
     "wof:id":554711741,
-    "wof:lastmodified":1480903310,
+    "wof:lastmodified":1611185322,
     "wof:name":"28731",
     "wof:parent_id":102080983,
     "wof:placetype":"postalcode",

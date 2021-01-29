@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008316,
-    "geom:area_square_m":73714748.976536,
+    "geom:area_square_m":73714748.976547,
     "geom:bbox":"-88.46513,44.133693,-88.219065,44.240127",
     "geom:latitude":44.200348,
     "geom:longitude":-88.328876,
@@ -14,20 +14,25 @@
     "lbl:latitude":44.20104,
     "lbl:longitude":-88.329483,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Menasha",
+    "mz:postal_locality_alt":[
+        "Appleton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404492905,
         85633793,
-        102081289
+        102081289,
+        404492905,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781633"
     },
     "wof:country":"US",
-    "wof:geomhash":"3515ce5a328887f8e6e3f8f7ff2f3419",
+    "wof:geomhash":"0bfa0f4038753dbfa5d6bcb20268687e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554728845,
-    "wof:lastmodified":1480833823,
+    "wof:lastmodified":1611185053,
     "wof:name":"54952",
     "wof:parent_id":404492905,
     "wof:placetype":"postalcode",

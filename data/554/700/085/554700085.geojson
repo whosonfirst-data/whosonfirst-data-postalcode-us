@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000352,
-    "geom:area_square_m":3286460.570798,
+    "geom:area_square_m":3286460.570795,
     "geom:bbox":"-74.072273,40.88681,-74.05056,40.917153",
     "geom:latitude":40.902527,
     "geom:longitude":-74.06316,
@@ -14,21 +14,26 @@
     "lbl:latitude":40.902885,
     "lbl:longitude":-74.063457,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Maywood",
+    "mz:postal_locality_alt":[
+        "Rochelle Park"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477689,
         85633793,
+        102086773,
+        404477689,
         85975977,
-        102086773
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760802"
     },
     "wof:country":"US",
-    "wof:geomhash":"284a325d1a73ae77545f21fce5da7318",
+    "wof:geomhash":"66fa34e61cf3ebd0bfabec72f7c0012e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554700085,
-    "wof:lastmodified":1480908562,
+    "wof:lastmodified":1611183182,
     "wof:name":"07607",
     "wof:parent_id":85975977,
     "wof:placetype":"postalcode",

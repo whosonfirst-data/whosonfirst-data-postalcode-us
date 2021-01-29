@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004814,
-    "geom:area_square_m":43033648.722385,
+    "geom:area_square_m":43033648.722418,
     "geom:bbox":"-71.582088,43.664439,-71.432897,43.765028",
     "geom:latitude":43.704212,
     "geom:longitude":-71.51118,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.711765,
     "lbl:longitude":-71.504236,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Center Harbor",
+    "mz:postal_locality_alt":[
+        "Moultonborough"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688689,
         102191575,
-        404476815,
         85633793,
-        102086503
+        102086503,
+        404476815,
+        85688689
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759133"
     },
     "wof:country":"US",
-    "wof:geomhash":"79929dfd80c753e364872177ec0806e8",
+    "wof:geomhash":"3f549bad55060ff4ccb5b6916b458ce5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554697759,
-    "wof:lastmodified":1480916381,
+    "wof:lastmodified":1611184654,
     "wof:name":"03226",
     "wof:parent_id":404476815,
     "wof:placetype":"postalcode",

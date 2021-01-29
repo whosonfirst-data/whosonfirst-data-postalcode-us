@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.071381,
-    "geom:area_square_m":758213063.631421,
+    "geom:area_square_m":758213063.631141,
     "geom:bbox":"-98.457382,30.611226,-98.062673,30.924516",
     "geom:latitude":30.791765,
     "geom:longitude":-98.260157,
@@ -14,19 +14,25 @@
     "lbl:latitude":30.801039,
     "lbl:longitude":-98.283488,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Burnet",
+    "mz:postal_locality_alt":[
+        "Buchanan Dam",
+        "Kyle"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688753,
-        102081431
+        102081431,
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12792217"
     },
     "wof:country":"US",
-    "wof:geomhash":"e573d8af2c8eca5428afa71aac5ef971",
+    "wof:geomhash":"ddba67c725c751fd127c4becec999b0e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554746953,
-    "wof:lastmodified":1480840112,
+    "wof:lastmodified":1611183993,
     "wof:name":"78611",
     "wof:parent_id":102081431,
     "wof:placetype":"postalcode",

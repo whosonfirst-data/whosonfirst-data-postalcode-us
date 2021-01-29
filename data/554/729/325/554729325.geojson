@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000879,
-    "geom:area_square_m":7693808.203857,
+    "geom:area_square_m":7693808.203871,
     "geom:bbox":"-93.33165,44.886924,-93.307969,44.937759",
     "geom:latitude":44.911824,
     "geom:longitude":-93.319644,
@@ -13,21 +13,26 @@
     "lbl:latitude":44.911821,
     "lbl:longitude":-93.319644,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Minneapolis",
+    "mz:postal_locality_alt":[
+        "Edina"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404511883,
         85633793,
+        102087709,
+        404511883,
         85969169,
-        102087709
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781891"
     },
     "wof:country":"US",
-    "wof:geomhash":"bb97c69430e185fde69444b5eafa048f",
+    "wof:geomhash":"ac8949bcfcaab3bb7e80cfa2de41c096",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554729325,
-    "wof:lastmodified":1480789095,
+    "wof:lastmodified":1611185424,
     "wof:name":"55410",
     "wof:parent_id":85969169,
     "wof:placetype":"postalcode",

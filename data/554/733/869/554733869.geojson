@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013888,
-    "geom:area_square_m":129566173.260154,
+    "geom:area_square_m":129566173.260191,
     "geom:bbox":"-88.83282,40.9524,-88.64325,41.10661",
     "geom:latitude":41.018472,
     "geom:longitude":-88.743545,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.018416,
     "lbl:longitude":-88.742318,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cornell",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404497967,
         85633793,
-        102082873
+        102082873,
+        404497967,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784548"
     },
     "wof:country":"US",
-    "wof:geomhash":"003d54bdd31e83d96d26f1726834d646",
+    "wof:geomhash":"eb9c7426aa0cffda7c156197876ef2c3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554733869,
-    "wof:lastmodified":1480833835,
+    "wof:lastmodified":1611184222,
     "wof:name":"61319",
     "wof:parent_id":404497967,
     "wof:placetype":"postalcode",

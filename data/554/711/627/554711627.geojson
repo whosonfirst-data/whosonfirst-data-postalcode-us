@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.082733,
-    "geom:area_square_m":830175304.738238,
+    "geom:area_square_m":830175304.737799,
     "geom:bbox":"-81.919242,35.574955,-81.536179,35.961533",
     "geom:latitude":35.757165,
     "geom:longitude":-81.744088,
@@ -13,19 +13,26 @@
     "lbl:latitude":35.763266,
     "lbl:longitude":-81.749862,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Morganton",
+    "mz:postal_locality_alt":[
+        "Glen Alpine",
+        "Drexel",
+        "Hickory"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688773,
-        102080903
+        102080903,
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12769810"
     },
     "wof:country":"US",
-    "wof:geomhash":"11796e25d3e3f49df5c14c0f3e36b91f",
+    "wof:geomhash":"cfb0b0d0b4f13d68a4e0a1289014d41f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +43,7 @@
         }
     ],
     "wof:id":554711627,
-    "wof:lastmodified":1480906191,
+    "wof:lastmodified":1611185307,
     "wof:name":"28655",
     "wof:parent_id":102080903,
     "wof:placetype":"postalcode",

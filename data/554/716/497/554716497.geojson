@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016902,
-    "geom:area_square_m":168351132.226302,
+    "geom:area_square_m":168351132.226407,
     "geom:bbox":"-86.679286,36.244204,-86.524252,36.445361",
     "geom:latitude":36.340009,
     "geom:longitude":-86.606567,
@@ -13,20 +13,26 @@
     "lbl:latitude":36.339969,
     "lbl:longitude":-86.607922,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hendersonville",
+    "mz:postal_locality_alt":[
+        "Goodlettsville",
+        "Ashland City"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688701,
         102191575,
         85633793,
+        102086357,
         101723169,
-        102086357
+        85688701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12773799"
     },
     "wof:country":"US",
-    "wof:geomhash":"0146a7e74c966b6bcb1a72ae4fea39d3",
+    "wof:geomhash":"0bce39ece127ee85d4b4e297b59ff66c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554716497,
-    "wof:lastmodified":1480917083,
+    "wof:lastmodified":1611185365,
     "wof:name":"37075",
     "wof:parent_id":101723169,
     "wof:placetype":"postalcode",

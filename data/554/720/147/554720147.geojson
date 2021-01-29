@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.086472,
-    "geom:area_square_m":852690249.395179,
+    "geom:area_square_m":852690249.395048,
     "geom:bbox":"-85.526881,36.925069,-85.05433,37.310136",
     "geom:latitude":37.110903,
     "geom:longitude":-85.288588,
@@ -14,19 +14,26 @@
     "lbl:latitude":37.117032,
     "lbl:longitude":-85.29007,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Columbia",
+    "mz:postal_locality_alt":[
+        "Casey Creek",
+        "Fairplay",
+        "Munfordville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688641,
-        102085473
+        102085473,
+        85688641
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776047"
     },
     "wof:country":"US",
-    "wof:geomhash":"938b3b646433e980fd8671af18cf7225",
+    "wof:geomhash":"a74d261760929a748fb3f076d5c4d4e8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +44,7 @@
         }
     ],
     "wof:id":554720147,
-    "wof:lastmodified":1480807053,
+    "wof:lastmodified":1611185490,
     "wof:name":"42728",
     "wof:parent_id":102085473,
     "wof:placetype":"postalcode",

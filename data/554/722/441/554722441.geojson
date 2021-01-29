@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008442,
-    "geom:area_square_m":79933895.320679,
+    "geom:area_square_m":79933895.320632,
     "geom:bbox":"-86.41281,39.92545,-86.261151,40.11382",
     "geom:latitude":40.025266,
     "geom:longitude":-86.334889,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.020795,
     "lbl:longitude":-86.330724,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Whitestown",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404501097,
         85633793,
-        102086453
+        102086453,
+        404501097,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777579"
     },
     "wof:country":"US",
-    "wof:geomhash":"29ac4866d7bd84f9c56dfe02b5336647",
+    "wof:geomhash":"2b8ad1029d107500e3f64a9babf61ae1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554722441,
-    "wof:lastmodified":1480908996,
+    "wof:lastmodified":1611183218,
     "wof:name":"46075",
     "wof:parent_id":404501097,
     "wof:placetype":"postalcode",

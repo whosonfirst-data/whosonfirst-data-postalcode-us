@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015141,
-    "geom:area_square_m":141478093.134586,
+    "geom:area_square_m":141478093.134514,
     "geom:bbox":"-84.418083,40.83754,-84.182902,40.99358",
     "geom:latitude":40.917439,
     "geom:longitude":-84.277374,
@@ -14,20 +14,26 @@
     "lbl:latitude":40.910907,
     "lbl:longitude":-84.282481,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fort Jennings",
+    "mz:postal_locality_alt":[
+        "Ottoville",
+        "Kalida"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404525833,
         85633793,
-        102084773
+        102084773,
+        404525833,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777482"
     },
     "wof:country":"US",
-    "wof:geomhash":"8c54bd6b14c3d2ec9bc9eed38db00dd5",
+    "wof:geomhash":"2654221fe4065b0476aba5e7069332db",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554722279,
-    "wof:lastmodified":1480839039,
+    "wof:lastmodified":1611183236,
     "wof:name":"45844",
     "wof:parent_id":404525833,
     "wof:placetype":"postalcode",

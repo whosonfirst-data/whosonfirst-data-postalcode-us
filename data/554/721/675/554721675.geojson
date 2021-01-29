@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008931,
-    "geom:area_square_m":85619906.708028,
+    "geom:area_square_m":85619906.707962,
     "geom:bbox":"-84.302102,39.103974,-84.160713,39.215378",
     "geom:latitude":39.165725,
     "geom:longitude":-84.232981,
@@ -14,21 +14,26 @@
     "lbl:latitude":39.166379,
     "lbl:longitude":-84.230309,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Milford",
+    "mz:postal_locality_alt":[
+        "Loveland"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404525021,
         85633793,
+        102084793,
+        404525021,
         101713507,
-        102084793
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777101"
     },
     "wof:country":"US",
-    "wof:geomhash":"8895befe4090c019b83be68fd8db9979",
+    "wof:geomhash":"085d2a92b9a22f8ca41fd8138c750556",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554721675,
-    "wof:lastmodified":1480838312,
+    "wof:lastmodified":1611184948,
     "wof:name":"45150",
     "wof:parent_id":101713507,
     "wof:placetype":"postalcode",

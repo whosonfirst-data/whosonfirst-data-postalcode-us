@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.157627,
-    "geom:area_square_m":1552945003.988512,
+    "geom:area_square_m":1552945003.988926,
     "geom:bbox":"-104.840358,36.993363,-104.131168,37.380665",
     "geom:latitude":37.178621,
     "geom:longitude":-104.51612,
@@ -14,20 +14,25 @@
     "lbl:latitude":37.181854,
     "lbl:longitude":-104.518043,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Trinidad",
+    "mz:postal_locality_alt":[
+        "Pueblo"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688603,
         102191575,
         85633793,
+        102083357,
         85929549,
-        102083357
+        85688603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12793344"
     },
     "wof:country":"US",
-    "wof:geomhash":"d4f8d7aff481fde4fe689fb9bb730ed9",
+    "wof:geomhash":"cde617853d9ec97141a613487e607420",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554748573,
-    "wof:lastmodified":1480843151,
+    "wof:lastmodified":1611183844,
     "wof:name":"81082",
     "wof:parent_id":85929549,
     "wof:placetype":"postalcode",

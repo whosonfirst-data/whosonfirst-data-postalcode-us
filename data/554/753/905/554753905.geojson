@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001013,
-    "geom:area_square_m":9775964.932911,
+    "geom:area_square_m":9775964.932907,
     "geom:bbox":"-121.421372,38.639788,-121.382833,38.690593",
     "geom:latitude":38.662984,
     "geom:longitude":-121.401112,
@@ -14,20 +14,27 @@
     "lbl:latitude":38.662982,
     "lbl:longitude":-121.401113,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mcclellan",
+    "mz:postal_locality_alt":[
+        "McClellan",
+        "Mc Clellan",
+        "Mcclellan Afb"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102082889,
         85926687,
-        102082889
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12797923"
     },
     "wof:country":"US",
-    "wof:geomhash":"2254e66794bca86ea3ea3f5f8a0431ed",
+    "wof:geomhash":"d5e8230b0b2fd8a66d041b3ec675c6a9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554753905,
-    "wof:lastmodified":1480796112,
+    "wof:lastmodified":1611182955,
     "wof:name":"95652",
     "wof:parent_id":85926687,
     "wof:placetype":"postalcode",

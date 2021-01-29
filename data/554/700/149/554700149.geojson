@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000752,
-    "geom:area_square_m":7025998.598638,
+    "geom:area_square_m":7025998.598642,
     "geom:bbox":"-74.113374,40.884437,-74.078923,40.921098",
     "geom:latitude":40.903126,
     "geom:longitude":-74.09551,
@@ -14,20 +14,26 @@
     "lbl:latitude":40.902924,
     "lbl:longitude":-74.094005,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Saddle Brook",
+    "mz:postal_locality_alt":[
+        "Fair Lawn",
+        "Rochelle Park"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477729,
         85633793,
-        102086773
+        102086773,
+        404477729,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760831"
     },
     "wof:country":"US",
-    "wof:geomhash":"516a474b7700d75c6b7b961a2685aa45",
+    "wof:geomhash":"a77629418311c2ac716be60f3369ab2f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554700149,
-    "wof:lastmodified":1480908562,
+    "wof:lastmodified":1611183209,
     "wof:name":"07663",
     "wof:parent_id":404477729,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023322,
-    "geom:area_square_m":240432243.558648,
+    "geom:area_square_m":240432243.558828,
     "geom:bbox":"-84.055221,33.395184,-83.843995,33.628898",
     "geom:latitude":33.517148,
     "geom:longitude":-83.929437,
@@ -13,19 +13,26 @@
     "lbl:latitude":33.517433,
     "lbl:longitude":-83.928703,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Covington",
+    "mz:postal_locality_alt":[
+        "Suwanee",
+        "Conyers",
+        "Lawrenceville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688535,
-        102082963
+        102082963,
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770503"
     },
     "wof:country":"US",
-    "wof:geomhash":"7bdc154f50646acbbc2b42922009f4c3",
+    "wof:geomhash":"21ea54a838fb7d3690d0fe7cca209b1c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +43,7 @@
         }
     ],
     "wof:id":554712675,
-    "wof:lastmodified":1480823667,
+    "wof:lastmodified":1611183697,
     "wof:name":"30016",
     "wof:parent_id":102082963,
     "wof:placetype":"postalcode",

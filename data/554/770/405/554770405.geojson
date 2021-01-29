@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000049,
-    "geom:area_square_m":459927.456076,
+    "geom:area_square_m":459927.456075,
     "geom:bbox":"-81.806182,40.556186,-81.794128,40.563372",
     "geom:latitude":40.559625,
     "geom:longitude":-81.799762,
@@ -14,21 +14,23 @@
     "lbl:latitude":40.559625,
     "lbl:longitude":-81.799762,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Berlin",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404526439,
         85633793,
+        102083651,
+        404526439,
         101713867,
-        102083651
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776855"
     },
     "wof:country":"US",
-    "wof:geomhash":"6295e6ea7d02659c351e17c1af687685",
+    "wof:geomhash":"e10801fded70744bc1d91675cddd5b5c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +43,7 @@
         }
     ],
     "wof:id":554770405,
-    "wof:lastmodified":1480835886,
+    "wof:lastmodified":1611183924,
     "wof:name":"44610",
     "wof:parent_id":101713867,
     "wof:placetype":"postalcode",

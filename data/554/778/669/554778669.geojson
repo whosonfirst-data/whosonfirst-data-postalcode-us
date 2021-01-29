@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015763,
-    "geom:area_square_m":140451286.468269,
+    "geom:area_square_m":140451286.468217,
     "geom:bbox":"-70.087892,43.816697,-69.857032,43.975661",
     "geom:latitude":43.897253,
     "geom:longitude":-69.977902,
@@ -14,21 +14,29 @@
     "lbl:latitude":43.896405,
     "lbl:longitude":-69.973436,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Brunswick",
+    "mz:postal_locality_alt":[
+        "Naples",
+        "Harpswell",
+        "Windham",
+        "Cornish"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404475515,
         85633793,
+        102087463,
+        404475515,
         85948985,
-        102087463
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759374"
     },
     "wof:country":"US",
-    "wof:geomhash":"1c9e1f7115d9a2401cb3e1c2786cf6e0",
+    "wof:geomhash":"c8fddff5676e3fbce2dbc9eda4aedca3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +49,7 @@
         }
     ],
     "wof:id":554778669,
-    "wof:lastmodified":1480785909,
+    "wof:lastmodified":1611183430,
     "wof:name":"04011",
     "wof:parent_id":85948985,
     "wof:placetype":"postalcode",

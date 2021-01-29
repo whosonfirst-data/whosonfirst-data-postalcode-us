@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000762,
-    "geom:area_square_m":7728377.223213,
+    "geom:area_square_m":7728377.22321,
     "geom:bbox":"-83.40753,34.904534,-83.342345,34.935161",
     "geom:latitude":34.921562,
     "geom:longitude":-83.377411,
@@ -14,20 +14,26 @@
     "lbl:latitude":34.921475,
     "lbl:longitude":-83.381098,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mountain City",
+    "mz:postal_locality_alt":[
+        "Clayton",
+        "Dillard"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688535,
         102191575,
         85633793,
+        102081683,
         85936145,
-        102081683
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770902"
     },
     "wof:country":"US",
-    "wof:geomhash":"53d18abd60978708c8e7f55b77b863a4",
+    "wof:geomhash":"6293fba9c2a6ad4e3f1c32e5a2798b11",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554769251,
-    "wof:lastmodified":1480817318,
+    "wof:lastmodified":1611184316,
     "wof:name":"30562",
     "wof:parent_id":85936145,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001221,
-    "geom:area_square_m":11263572.814018,
+    "geom:area_square_m":11263572.813957,
     "geom:bbox":"-87.836798,41.704134,-87.789788,41.775334",
     "geom:latitude":41.742098,
     "geom:longitude":-87.808652,
@@ -14,21 +14,29 @@
     "lbl:latitude":41.742093,
     "lbl:longitude":-87.808649,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bridgeview",
+    "mz:postal_locality_alt":[
+        "Oak Lawn",
+        "Bedford Park",
+        "Chicago Ridge",
+        "Burbank"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404497627,
         85633793,
+        102084317,
+        404497627,
         85940897,
-        102084317
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784163"
     },
     "wof:country":"US",
-    "wof:geomhash":"1d57582bd61c30fedbfafdd58c495dc2",
+    "wof:geomhash":"04405317948307cb680e5db1522dbc37",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +49,7 @@
         }
     ],
     "wof:id":554783297,
-    "wof:lastmodified":1480802056,
+    "wof:lastmodified":1611183903,
     "wof:name":"60455",
     "wof:parent_id":85940897,
     "wof:placetype":"postalcode",

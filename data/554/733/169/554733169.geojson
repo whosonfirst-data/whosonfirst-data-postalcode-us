@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003141,
-    "geom:area_square_m":28693826.375894,
+    "geom:area_square_m":28693826.375888,
     "geom:bbox":"-88.19863,42.328879,-88.101757,42.406572",
     "geom:latitude":42.368402,
     "geom:longitude":-88.155409,
@@ -14,21 +14,26 @@
     "lbl:latitude":42.364552,
     "lbl:longitude":-88.15112,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ingleside",
+    "mz:postal_locality_alt":[
+        "Fox Lake"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404498449,
         85633793,
+        102086215,
+        404498449,
         85938397,
-        102086215
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12783965"
     },
     "wof:country":"US",
-    "wof:geomhash":"4f61cba0bffe71a8665f01937fe94a9a",
+    "wof:geomhash":"f6cb0ba754de04b71a6fd3abc777a46c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554733169,
-    "wof:lastmodified":1480915984,
+    "wof:lastmodified":1611184214,
     "wof:name":"60041",
     "wof:parent_id":85938397,
     "wof:placetype":"postalcode",

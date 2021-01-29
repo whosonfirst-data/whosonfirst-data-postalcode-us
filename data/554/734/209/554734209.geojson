@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009112,
-    "geom:area_square_m":85507475.897824,
+    "geom:area_square_m":85507475.897895,
     "geom:bbox":"-89.756507,40.552486,-89.610339,40.691778",
     "geom:latitude":40.630084,
     "geom:longitude":-89.685142,
@@ -13,20 +13,25 @@
     "lbl:latitude":40.627135,
     "lbl:longitude":-89.685132,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bartonville",
+    "mz:postal_locality_alt":[
+        "Peoria"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404498777,
         85633793,
-        102081247
+        102081247,
+        404498777,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784727"
     },
     "wof:country":"US",
-    "wof:geomhash":"1f6bdeaca3e9812581c5fc12da0628b6",
+    "wof:geomhash":"c8a170470ec10243fb702f823a77c941",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554734209,
-    "wof:lastmodified":1480839384,
+    "wof:lastmodified":1611184201,
     "wof:name":"61607",
     "wof:parent_id":404498777,
     "wof:placetype":"postalcode",

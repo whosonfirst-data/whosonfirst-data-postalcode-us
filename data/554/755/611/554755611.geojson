@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.091342,
-    "geom:area_square_m":747619827.650965,
+    "geom:area_square_m":747619827.650837,
     "geom:bbox":"-122.36276,48.399867,-121.868872,48.730685",
     "geom:latitude":48.553174,
     "geom:longitude":-122.120432,
@@ -14,19 +14,26 @@
     "lbl:latitude":48.546832,
     "lbl:longitude":-122.135222,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Sedro Woolley",
+    "mz:postal_locality_alt":[
+        "Sedro-Woolley",
+        "Clearlake",
+        "Lyman"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688623,
-        102084225
+        102084225,
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12799067"
     },
     "wof:country":"US",
-    "wof:geomhash":"965f78519a297d892fcce680ef2412a3",
+    "wof:geomhash":"6b5e2fa83e191ce95ac1b80d4a294983",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +44,7 @@
         }
     ],
     "wof:id":554755611,
-    "wof:lastmodified":1480807880,
+    "wof:lastmodified":1611182572,
     "wof:name":"98284",
     "wof:parent_id":102084225,
     "wof:placetype":"postalcode",

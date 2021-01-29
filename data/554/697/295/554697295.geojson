@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002743,
-    "geom:area_square_m":24973318.252549,
+    "geom:area_square_m":24973318.252545,
     "geom:bbox":"-71.33309,42.529285,-71.240664,42.613011",
     "geom:latitude":42.574869,
     "geom:longitude":-71.29341,
@@ -14,20 +14,25 @@
     "lbl:latitude":42.578543,
     "lbl:longitude":-71.295592,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"North Billerica",
+    "mz:postal_locality_alt":[
+        "Billerica"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476471,
         85633793,
-        102084643
+        102084643,
+        404476471,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758606"
     },
     "wof:country":"US",
-    "wof:geomhash":"b71a9c93f8c3a200d77e3736bf9752d5",
+    "wof:geomhash":"c5d2ea8c3d9f0e5851434b23e162ec04",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554697295,
-    "wof:lastmodified":1480799922,
+    "wof:lastmodified":1611184643,
     "wof:name":"01862",
     "wof:parent_id":404476471,
     "wof:placetype":"postalcode",

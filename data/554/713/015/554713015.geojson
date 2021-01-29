@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008217,
-    "geom:area_square_m":84593223.177481,
+    "geom:area_square_m":84593223.177475,
     "geom:bbox":"-84.347737,33.586327,-84.170176,33.683587",
     "geom:latitude":33.636325,
     "geom:longitude":-84.263832,
@@ -14,19 +14,24 @@
     "lbl:latitude":33.639853,
     "lbl:longitude":-84.26715,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ellenwood",
+    "mz:postal_locality_alt":[
+        "Stockbridge"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688535,
-        102082899
+        102082899,
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770711"
     },
     "wof:country":"US",
-    "wof:geomhash":"84154b34ce30b1cd8e455f4fc3e84c74",
+    "wof:geomhash":"e1873df4d4f8121e8712f4329ce8720e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554713015,
-    "wof:lastmodified":1480823668,
+    "wof:lastmodified":1611183298,
     "wof:name":"30294",
     "wof:parent_id":102082899,
     "wof:placetype":"postalcode",

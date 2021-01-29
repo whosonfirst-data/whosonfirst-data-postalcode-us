@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019249,
-    "geom:area_square_m":167004468.792123,
+    "geom:area_square_m":167004468.792092,
     "geom:bbox":"-84.893814,45.332143,-84.661198,45.536476",
     "geom:latitude":45.44029,
     "geom:longitude":-84.780409,
@@ -14,21 +14,27 @@
     "lbl:latitude":45.438274,
     "lbl:longitude":-84.779397,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Alanson",
+    "mz:postal_locality_alt":[
+        "Conway",
+        "Petoskey"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404508333,
         85633793,
+        102083073,
+        404508333,
         85951369,
-        102083073
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779492"
     },
     "wof:country":"US",
-    "wof:geomhash":"27de983c0192883f759b2d4d697e1980",
+    "wof:geomhash":"d5075a6095794fe3bfc99d9937eaefc2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554725241,
-    "wof:lastmodified":1480841990,
+    "wof:lastmodified":1611183276,
     "wof:name":"49706",
     "wof:parent_id":85951369,
     "wof:placetype":"postalcode",

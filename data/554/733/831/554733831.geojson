@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013004,
-    "geom:area_square_m":120687731.139474,
+    "geom:area_square_m":120687731.139476,
     "geom:bbox":"-90.502895,41.310144,-90.319408,41.414171",
     "geom:latitude":41.362902,
     "geom:longitude":-90.39888,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.362901,
     "lbl:longitude":-90.398881,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Orion",
+    "mz:postal_locality_alt":[
+        "Coal Valley"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404498163,
         85633793,
-        102086205
+        102086205,
+        404498163,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784525"
     },
     "wof:country":"US",
-    "wof:geomhash":"56512843472c5f45e37fdba889a1b273",
+    "wof:geomhash":"7fb2201dc18e31a0291290e1b2db93f4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554733831,
-    "wof:lastmodified":1480912691,
+    "wof:lastmodified":1611184241,
     "wof:name":"61273",
     "wof:parent_id":404498163,
     "wof:placetype":"postalcode",

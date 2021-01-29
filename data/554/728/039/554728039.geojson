@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025222,
-    "geom:area_square_m":219337408.081507,
+    "geom:area_square_m":219337408.081555,
     "geom:bbox":"-92.285688,45.209233,-91.971852,45.381383",
     "geom:latitude":45.308642,
     "geom:longitude":-92.1259,
@@ -14,20 +14,25 @@
     "lbl:latitude":45.30222,
     "lbl:longitude":-92.125177,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Clayton",
+    "mz:postal_locality_alt":[
+        "Hudson"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404491503,
         85633793,
-        102081847
+        102081847,
+        404491503,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781157"
     },
     "wof:country":"US",
-    "wof:geomhash":"3939a1614c3d9f9e859f34b26ada0e49",
+    "wof:geomhash":"96e5063ea066bd9a227dee7b9d492d5f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554728039,
-    "wof:lastmodified":1480831138,
+    "wof:lastmodified":1611185065,
     "wof:name":"54004",
     "wof:parent_id":404491503,
     "wof:placetype":"postalcode",

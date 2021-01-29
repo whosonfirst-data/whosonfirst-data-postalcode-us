@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012316,
-    "geom:area_square_m":108573579.611919,
+    "geom:area_square_m":108573579.611996,
     "geom:bbox":"-73.146285,44.468035,-72.971119,44.597455",
     "geom:latitude":44.524153,
     "geom:longitude":-73.062405,
@@ -13,20 +13,25 @@
     "lbl:latitude":44.538624,
     "lbl:longitude":-73.050223,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Essex Junction",
+    "mz:postal_locality_alt":[
+        "Burlington"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688763,
         102191575,
-        404527487,
         85633793,
-        102087451
+        102087451,
+        404527487,
+        85688763
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759986"
     },
     "wof:country":"US",
-    "wof:geomhash":"15c13282e791c9587c79b5f09b9b30f1",
+    "wof:geomhash":"8b893104011af1ba990504e3f0cbacce",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554698959,
-    "wof:lastmodified":1480782816,
+    "wof:lastmodified":1611184691,
     "wof:name":"05452",
     "wof:parent_id":404527487,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035405,
-    "geom:area_square_m":335889334.657241,
+    "geom:area_square_m":335889334.657258,
     "geom:bbox":"-105.959047,39.785605,-105.675075,40.041219",
     "geom:latitude":39.893937,
     "geom:longitude":-105.78446,
@@ -14,20 +14,26 @@
     "lbl:latitude":39.892341,
     "lbl:longitude":-105.785971,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Winter Park",
+    "mz:postal_locality_alt":[
+        "Fraser",
+        "Granby"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688603,
         102191575,
         85633793,
+        102085239,
         85929639,
-        102085239
+        85688603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12793085"
     },
     "wof:country":"US",
-    "wof:geomhash":"1a200105876b020ef7e069ccd1b5f476",
+    "wof:geomhash":"649df135925932a8f6eb925cdacb7884",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554771937,
-    "wof:lastmodified":1480911424,
+    "wof:lastmodified":1611183524,
     "wof:name":"80482",
     "wof:parent_id":85929639,
     "wof:placetype":"postalcode",

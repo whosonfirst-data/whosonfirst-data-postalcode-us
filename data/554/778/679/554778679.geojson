@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013471,
-    "geom:area_square_m":120128524.348654,
+    "geom:area_square_m":120128524.348611,
     "geom:bbox":"-70.17138,43.770816,-70.013293,43.931953",
     "geom:latitude":43.846701,
     "geom:longitude":-70.093976,
@@ -13,20 +13,25 @@
     "lbl:latitude":43.844826,
     "lbl:longitude":-70.089953,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Freeport",
+    "mz:postal_locality_alt":[
+        "Waterboro"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404475527,
         85633793,
-        102087463
+        102087463,
+        404475527,
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759389"
     },
     "wof:country":"US",
-    "wof:geomhash":"9b5aef8be889db9f948ea2b2d86daef5",
+    "wof:geomhash":"bef4adc5850d8bb8bbf0d56d6c847b3d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554778679,
-    "wof:lastmodified":1480785911,
+    "wof:lastmodified":1611183441,
     "wof:name":"04032",
     "wof:parent_id":404475527,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020882,
-    "geom:area_square_m":213100774.378579,
+    "geom:area_square_m":213100774.378714,
     "geom:bbox":"-117.416086,34.272549,-117.233729,34.471359",
     "geom:latitude":34.382137,
     "geom:longitude":-117.309403,
@@ -13,20 +13,27 @@
     "lbl:latitude":34.376159,
     "lbl:longitude":-117.294397,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hesperia",
+    "mz:postal_locality_alt":[
+        "Oak Hills",
+        "Lake Arrowhead",
+        "Fontana"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102085395,
         85923911,
-        102085395
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796433"
     },
     "wof:country":"US",
-    "wof:geomhash":"cc4c627b330700605ca49d40b6f3a2be",
+    "wof:geomhash":"2ee08eca031b2f4477aaa2591376f859",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +45,7 @@
         }
     ],
     "wof:id":554752351,
-    "wof:lastmodified":1480814342,
+    "wof:lastmodified":1611182537,
     "wof:name":"92345",
     "wof:parent_id":85923911,
     "wof:placetype":"postalcode",

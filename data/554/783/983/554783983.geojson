@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000154,
-    "geom:area_square_m":1580501.596297,
+    "geom:area_square_m":1580501.596296,
     "geom:bbox":"-118.432009,33.96588,-118.397569,33.984006",
     "geom:latitude":33.975411,
     "geom:longitude":-118.416996,
@@ -13,20 +13,25 @@
     "lbl:latitude":33.975411,
     "lbl:longitude":-118.416997,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Playa Vista",
+    "mz:postal_locality_alt":[
+        "Los Angeles"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086957,
         85923517,
-        102086957
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795699"
     },
     "wof:country":"US",
-    "wof:geomhash":"31ce9d8f5034213244394a3165847ce9",
+    "wof:geomhash":"7623fb8b73b7b4dfb91565f306023fdb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554783983,
-    "wof:lastmodified":1480912629,
+    "wof:lastmodified":1611183885,
     "wof:name":"90094",
     "wof:parent_id":85923517,
     "wof:placetype":"postalcode",

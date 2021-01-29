@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004683,
-    "geom:area_square_m":51775316.415496,
+    "geom:area_square_m":51775316.415461,
     "geom:bbox":"-81.66986,26.564612,-81.532343,26.684828",
     "geom:latitude":26.615705,
     "geom:longitude":-81.589912,
@@ -14,20 +14,25 @@
     "lbl:latitude":26.623407,
     "lbl:longitude":-81.601499,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lehigh Acres",
+    "mz:postal_locality_alt":[
+        "Fort Myers"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688651,
         102191575,
         85633793,
+        102084769,
         85934577,
-        102084769
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12772618"
     },
     "wof:country":"US",
-    "wof:geomhash":"f43ee117b183dd6d1fc3610ecd6ba760",
+    "wof:geomhash":"6a7e6c6fee83fd185241e14ebb52b346",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554714897,
-    "wof:lastmodified":1480806324,
+    "wof:lastmodified":1611183379,
     "wof:name":"33936",
     "wof:parent_id":85934577,
     "wof:placetype":"postalcode",

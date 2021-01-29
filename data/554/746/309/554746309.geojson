@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001088,
-    "geom:area_square_m":11704528.745775,
+    "geom:area_square_m":11704528.745759,
     "geom:bbox":"-95.060181,29.511312,-95.001689,29.555717",
     "geom:latitude":29.53647,
     "geom:longitude":-95.030015,
@@ -14,19 +14,25 @@
     "lbl:latitude":29.535935,
     "lbl:longitude":-95.026393,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Kemah",
+    "mz:postal_locality_alt":[
+        "Friendswood",
+        "League City"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688753,
-        102085003
+        102085003,
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12791698"
     },
     "wof:country":"US",
-    "wof:geomhash":"033a7650855458f949d23e5938c903fa",
+    "wof:geomhash":"bf00f5ea0a98fe6b9573c6dd59e3cb2e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554746309,
-    "wof:lastmodified":1480915799,
+    "wof:lastmodified":1611183992,
     "wof:name":"77565",
     "wof:parent_id":102085003,
     "wof:placetype":"postalcode",

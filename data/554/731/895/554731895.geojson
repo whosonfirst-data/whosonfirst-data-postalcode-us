@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.090541,
-    "geom:area_square_m":753858167.674447,
+    "geom:area_square_m":753858167.674348,
     "geom:bbox":"-99.426014,47.55839,-98.75598,47.774471",
     "geom:latitude":47.673306,
     "geom:longitude":-99.071259,
@@ -14,20 +14,25 @@
     "lbl:latitude":47.678659,
     "lbl:longitude":-99.085157,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"New Rockford",
+    "mz:postal_locality_alt":[
+        "Fort Totten"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688525,
         102191575,
-        404481047,
         85633793,
-        102081503
+        102081503,
+        404481047,
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12783277"
     },
     "wof:country":"US",
-    "wof:geomhash":"5135d497ffd46223a6b38098ab33557b",
+    "wof:geomhash":"dee21e681686fa09efea7b3a92b00f36",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554731895,
-    "wof:lastmodified":1480832851,
+    "wof:lastmodified":1611183065,
     "wof:name":"58356",
     "wof:parent_id":404481047,
     "wof:placetype":"postalcode",

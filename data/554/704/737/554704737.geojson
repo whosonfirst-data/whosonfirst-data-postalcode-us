@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011371,
-    "geom:area_square_m":106126368.028414,
+    "geom:area_square_m":106126368.028253,
     "geom:bbox":"-78.708085,40.916992,-78.549197,41.057493",
     "geom:latitude":40.993723,
     "geom:longitude":-78.640272,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.006463,
     "lbl:longitude":-78.651726,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Grampian",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404482979,
         85633793,
-        102080967
+        102080967,
+        404482979,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764474"
     },
     "wof:country":"US",
-    "wof:geomhash":"34b0837e0321938bfddb8194e6cc7592",
+    "wof:geomhash":"fbc4091dcdb872e9a80da067c2e4e588",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554704737,
-    "wof:lastmodified":1480904930,
+    "wof:lastmodified":1611184487,
     "wof:name":"16838",
     "wof:parent_id":404482979,
     "wof:placetype":"postalcode",

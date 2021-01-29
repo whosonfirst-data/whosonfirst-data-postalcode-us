@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.054669,
-    "geom:area_square_m":288227022.191613,
+    "geom:area_square_m":288227022.191414,
     "geom:bbox":"-147.58197,64.61803,-147.074973,64.876035",
     "geom:latitude":64.762397,
     "geom:longitude":-147.31228,
@@ -14,20 +14,25 @@
     "lbl:latitude":64.761825,
     "lbl:longitude":-147.313674,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"North Pole",
+    "mz:postal_locality_alt":[
+        "Fairbanks"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688573,
         102191575,
         85633793,
+        102081397,
         85916555,
-        102081397
+        85688573
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12799752"
     },
     "wof:country":"US",
-    "wof:geomhash":"b53f4f2b67a8c8ce8efe1570d6a3123b",
+    "wof:geomhash":"0438c0e3199ac2787c175ef35ffe62e0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554785205,
-    "wof:lastmodified":1480831023,
+    "wof:lastmodified":1611183500,
     "wof:name":"99705",
     "wof:parent_id":85916555,
     "wof:placetype":"postalcode",

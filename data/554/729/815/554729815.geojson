@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035365,
-    "geom:area_square_m":313880589.745389,
+    "geom:area_square_m":313880589.745265,
     "geom:bbox":"-94.369161,43.999995,-94.098482,44.247116",
     "geom:latitude":44.128207,
     "geom:longitude":-94.245713,
@@ -14,20 +14,22 @@
     "lbl:latitude":44.128471,
     "lbl:longitude":-94.23528,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lake Crystal",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404511533,
         85633793,
-        102087625
+        102087625,
+        404511533,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782218"
     },
     "wof:country":"US",
-    "wof:geomhash":"e876e62400c4d2d552616da9eb261df1",
+    "wof:geomhash":"cfc427df1c0452d3bf5e15d424989442",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554729815,
-    "wof:lastmodified":1480784871,
+    "wof:lastmodified":1611185432,
     "wof:name":"56055",
     "wof:parent_id":404511533,
     "wof:placetype":"postalcode",

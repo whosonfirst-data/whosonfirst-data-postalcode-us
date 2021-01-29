@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001621,
-    "geom:area_square_m":15902269.447768,
+    "geom:area_square_m":15902269.447778,
     "geom:bbox":"-122.303554,37.474146,-122.238135,37.521398",
     "geom:latitude":37.497625,
     "geom:longitude":-122.270035,
@@ -14,20 +14,26 @@
     "lbl:latitude":37.496466,
     "lbl:longitude":-122.272565,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"San Carlos",
+    "mz:postal_locality_alt":[
+        "Belmont",
+        "Redwood City"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102085387,
         85922437,
-        102085387
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12797142"
     },
     "wof:country":"US",
-    "wof:geomhash":"d3e298c314de75c217c9ad06c1baded6",
+    "wof:geomhash":"55b0b1d4096d173d89e62c6eb31f1570",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554784659,
-    "wof:lastmodified":1480806943,
+    "wof:lastmodified":1611183939,
     "wof:name":"94070",
     "wof:parent_id":85922437,
     "wof:placetype":"postalcode",

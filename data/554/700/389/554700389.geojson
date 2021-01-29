@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001045,
-    "geom:area_square_m":9908564.813055,
+    "geom:area_square_m":9908564.81306,
     "geom:bbox":"-75.019212,39.92694,-74.966743,39.972982",
     "geom:latitude":39.951848,
     "geom:longitude":-74.995001,
@@ -14,20 +14,26 @@
     "lbl:latitude":39.952381,
     "lbl:longitude":-74.994896,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Maple Shade",
+    "mz:postal_locality_alt":[
+        "Hainesport",
+        "Stratford"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477857,
         85633793,
-        102087415
+        102087415,
+        404477857,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761022"
     },
     "wof:country":"US",
-    "wof:geomhash":"ce885c6b52f71f5a5921e4d5efe33359",
+    "wof:geomhash":"20fa47e4086dc98e329b32f5f65801b0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554700389,
-    "wof:lastmodified":1480823436,
+    "wof:lastmodified":1611183206,
     "wof:name":"08052",
     "wof:parent_id":404477857,
     "wof:placetype":"postalcode",

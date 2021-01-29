@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002548,
-    "geom:area_square_m":27649877.89439,
+    "geom:area_square_m":27649877.894372,
     "geom:bbox":"-81.349305,28.625161,-81.278742,28.698043",
     "geom:latitude":28.662671,
     "geom:longitude":-81.314293,
@@ -13,20 +13,26 @@
     "lbl:latitude":28.664104,
     "lbl:longitude":-81.314908,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Casselberry",
+    "mz:postal_locality_alt":[
+        "Winter Springs",
+        "Winter Park"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688651,
         102191575,
         85633793,
+        102085775,
         85932143,
-        102085775
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12771868"
     },
     "wof:country":"US",
-    "wof:geomhash":"74b9a9a6d37714ea5a73f67ca2718920",
+    "wof:geomhash":"7d5141edbdc32a3331f74b682cd9d472",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554714553,
-    "wof:lastmodified":1480807920,
+    "wof:lastmodified":1611183369,
     "wof:name":"32707",
     "wof:parent_id":85932143,
     "wof:placetype":"postalcode",

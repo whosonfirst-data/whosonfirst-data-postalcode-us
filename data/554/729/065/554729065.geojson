@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008979,
-    "geom:area_square_m":78387822.728702,
+    "geom:area_square_m":78387822.728764,
     "geom:bbox":"-93.06275,45.034276,-92.93832,45.15358",
     "geom:latitude":45.090253,
     "geom:longitude":-93.006243,
@@ -13,21 +13,30 @@
     "lbl:latitude":45.089912,
     "lbl:longitude":-93.005988,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Saint Paul",
+    "mz:postal_locality_alt":[
+        "St Paul",
+        "White Bear Lake",
+        "Hugo",
+        "Forest Lake",
+        "Dellwood"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404514473,
         85633793,
+        102087007,
+        404514473,
         85953019,
-        102087007
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781745"
     },
     "wof:country":"US",
-    "wof:geomhash":"cb0192aff945fcfbd42759d0ca899535",
+    "wof:geomhash":"55d4c031ab44ff07cf0f1d650872f456",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +49,7 @@
         }
     ],
     "wof:id":554729065,
-    "wof:lastmodified":1480785925,
+    "wof:lastmodified":1611185415,
     "wof:name":"55110",
     "wof:parent_id":85953019,
     "wof:placetype":"postalcode",

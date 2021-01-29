@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003704,
-    "geom:area_square_m":39629480.114131,
+    "geom:area_square_m":39629480.114166,
     "geom:bbox":"-90.614212,30.048994,-90.518898,30.10469",
     "geom:latitude":30.075229,
     "geom:longitude":-90.567896,
@@ -14,20 +14,22 @@
     "lbl:latitude":30.075645,
     "lbl:longitude":-90.567481,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Reserve",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688735,
         102191575,
         85633793,
+        102082461,
         85948629,
-        102082461
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12788151"
     },
     "wof:country":"US",
-    "wof:geomhash":"124d10b64caeb8f1265e1b6b7964f1c3",
+    "wof:geomhash":"20b10a747e820a5153d6febc0ae53743",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554740667,
-    "wof:lastmodified":1480793826,
+    "wof:lastmodified":1611183396,
     "wof:name":"70084",
     "wof:parent_id":85948629,
     "wof:placetype":"postalcode",

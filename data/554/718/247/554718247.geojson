@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007302,
-    "geom:area_square_m":76241586.889139,
+    "geom:area_square_m":76241586.889121,
     "geom:bbox":"-90.297503,32.317289,-90.144898,32.48774",
     "geom:latitude":32.392414,
     "geom:longitude":-90.233715,
@@ -13,20 +13,26 @@
     "lbl:latitude":32.392757,
     "lbl:longitude":-90.23659,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Jackson",
+    "mz:postal_locality_alt":[
+        "Madison",
+        "Ridgeland"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688579,
         102191575,
         85633793,
+        102081407,
         85969693,
-        102081407
+        85688579
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12774861"
     },
     "wof:country":"US",
-    "wof:geomhash":"65b788b57e896e8cdc9618251062d7e3",
+    "wof:geomhash":"4f509bd7b13d0a037097a838801bfa67",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554718247,
-    "wof:lastmodified":1480829244,
+    "wof:lastmodified":1611185578,
     "wof:name":"39213",
     "wof:parent_id":85969693,
     "wof:placetype":"postalcode",

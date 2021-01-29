@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019871,
-    "geom:area_square_m":188149018.224327,
+    "geom:area_square_m":188149018.224545,
     "geom:bbox":"-81.820751,39.886027,-81.665248,40.154168",
     "geom:latitude":40.027609,
     "geom:longitude":-81.740618,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.025878,
     "lbl:longitude":-81.741187,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"New Concord",
+    "mz:postal_locality_alt":[
+        "Buffalo"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404524113,
         85633793,
-        102084785
+        102084785,
+        404524113,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776460"
     },
     "wof:country":"US",
-    "wof:geomhash":"9e6d3ca73b78a43daed99bc750485102",
+    "wof:geomhash":"f5fda1b70853775e537d92616b7e1605",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554720757,
-    "wof:lastmodified":1480837436,
+    "wof:lastmodified":1611185472,
     "wof:name":"43762",
     "wof:parent_id":404524113,
     "wof:placetype":"postalcode",

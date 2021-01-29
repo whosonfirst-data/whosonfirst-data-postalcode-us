@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002614,
-    "geom:area_square_m":24746690.954339,
+    "geom:area_square_m":24746690.954361,
     "geom:bbox":"-75.487409,39.993607,-75.423078,40.071766",
     "geom:latitude":40.032397,
     "geom:longitude":-75.451636,
@@ -14,20 +14,26 @@
     "lbl:latitude":40.031291,
     "lbl:longitude":-75.454948,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Berwyn",
+    "mz:postal_locality_alt":[
+        "Devon",
+        "Paoli"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485199,
         85633793,
-        102081275
+        102081275,
+        404485199,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765570"
     },
     "wof:country":"US",
-    "wof:geomhash":"2cf1beabba6bc65b8daef06cef44b527",
+    "wof:geomhash":"0413d257d0adc0c17eec864cb399be6a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554706383,
-    "wof:lastmodified":1480906381,
+    "wof:lastmodified":1611182696,
     "wof:name":"19312",
     "wof:parent_id":404485199,
     "wof:placetype":"postalcode",

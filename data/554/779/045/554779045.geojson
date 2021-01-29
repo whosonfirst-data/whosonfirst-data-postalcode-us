@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003214,
-    "geom:area_square_m":29889783.2338,
+    "geom:area_square_m":29889783.233821,
     "geom:bbox":"-73.162827,41.192533,-73.086752,41.268582",
     "geom:latitude":41.23011,
     "geom:longitude":-73.127899,
@@ -13,21 +13,26 @@
     "lbl:latitude":41.232466,
     "lbl:longitude":-73.129873,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Stratford",
+    "mz:postal_locality_alt":[
+        "Bridgeport"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688629,
         102191575,
-        404495857,
         85633793,
+        102084283,
+        404495857,
         85930997,
-        102084283
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760486"
     },
     "wof:country":"US",
-    "wof:geomhash":"cfc5f58270820d4885676c5dea09734a",
+    "wof:geomhash":"bf024c48d03e3e0f68783853f1d0bce7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554779045,
-    "wof:lastmodified":1480916211,
+    "wof:lastmodified":1611183980,
     "wof:name":"06614",
     "wof:parent_id":85930997,
     "wof:placetype":"postalcode",

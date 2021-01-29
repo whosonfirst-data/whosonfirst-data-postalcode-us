@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003014,
-    "geom:area_square_m":28216691.001641,
+    "geom:area_square_m":28216691.001614,
     "geom:bbox":"-73.295162,40.754762,-73.209234,40.80849",
     "geom:latitude":40.783806,
     "geom:longitude":-73.252266,
@@ -13,21 +13,27 @@
     "lbl:latitude":40.783805,
     "lbl:longitude":-73.252263,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Brentwood",
+    "mz:postal_locality_alt":[
+        "Edgewood",
+        "Bay Shore"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522517,
         85633793,
+        102082395,
+        404522517,
         85979867,
-        102082395
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761909"
     },
     "wof:country":"US",
-    "wof:geomhash":"0f7ea96728a918247dbf82a1b1a3584d",
+    "wof:geomhash":"0434e984013fd798ede8f281498890e9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +46,7 @@
         }
     ],
     "wof:id":554779847,
-    "wof:lastmodified":1480794859,
+    "wof:lastmodified":1611183982,
     "wof:name":"11717",
     "wof:parent_id":85979867,
     "wof:placetype":"postalcode",

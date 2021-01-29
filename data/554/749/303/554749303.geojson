@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.099289,
-    "geom:area_square_m":889568830.14997,
+    "geom:area_square_m":889568830.150026,
     "geom:bbox":"-114.558132,43.324921,-114.065629,43.825939",
     "geom:latitude":43.567436,
     "geom:longitude":-114.314787,
@@ -14,19 +14,25 @@
     "lbl:latitude":43.568308,
     "lbl:longitude":-114.31095,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hailey",
+    "mz:postal_locality_alt":[
+        "Bellevue",
+        "Ketchum"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688657,
-        102086031
+        102086031,
+        85688657
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12793782"
     },
     "wof:country":"US",
-    "wof:geomhash":"377a5e6bd334272721d95d2431bb0b5f",
+    "wof:geomhash":"c15d13557759bb7b3531360c866af239",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554749303,
-    "wof:lastmodified":1480913282,
+    "wof:lastmodified":1611183567,
     "wof:name":"83333",
     "wof:parent_id":102086031,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002237,
-    "geom:area_square_m":20695797.889141,
+    "geom:area_square_m":20695797.889103,
     "geom:bbox":"-87.583773,41.53955,-87.525281,41.595257",
     "geom:latitude":41.566621,
     "geom:longitude":-87.550863,
@@ -14,21 +14,23 @@
     "lbl:latitude":41.566242,
     "lbl:longitude":-87.550204,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lansing",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404497591,
         85633793,
+        102084317,
+        404497591,
         85940801,
-        102084317
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784146"
     },
     "wof:country":"US",
-    "wof:geomhash":"919715fee73dd1689d4f1e95e2239dd8",
+    "wof:geomhash":"4c250d62ac172a5ad5673cceac917f44",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +43,7 @@
         }
     ],
     "wof:id":554783289,
-    "wof:lastmodified":1480802047,
+    "wof:lastmodified":1611183877,
     "wof:name":"60438",
     "wof:parent_id":85940801,
     "wof:placetype":"postalcode",

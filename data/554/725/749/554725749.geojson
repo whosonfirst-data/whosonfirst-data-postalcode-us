@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021254,
-    "geom:area_square_m":197458996.142583,
+    "geom:area_square_m":197458996.1427,
     "geom:bbox":"-93.922014,41.235185,-93.673414,41.37091",
     "geom:latitude":41.295044,
     "geom:longitude":-93.794787,
@@ -14,19 +14,25 @@
     "lbl:latitude":41.29709,
     "lbl:longitude":-93.792788,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"St Charles",
+    "mz:postal_locality_alt":[
+        "Saint Charles",
+        "St Marys"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688713,
-        102086617
+        102086617,
+        85688713
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779850"
     },
     "wof:country":"US",
-    "wof:geomhash":"d48e7fe9519fe0b3c5ec4dd423aeb1b7",
+    "wof:geomhash":"ce1e3f0cbf212682dc5ecf4f3d78d8be",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554725749,
-    "wof:lastmodified":1480916915,
+    "wof:lastmodified":1611183268,
     "wof:name":"50240",
     "wof:parent_id":102086617,
     "wof:placetype":"postalcode",

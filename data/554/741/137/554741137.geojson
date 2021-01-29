@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027311,
-    "geom:area_square_m":284593200.218694,
+    "geom:area_square_m":284593200.218194,
     "geom:bbox":"-93.63468,32.405543,-93.433084,32.761166",
     "geom:latitude":32.569591,
     "geom:longitude":-93.523218,
@@ -14,19 +14,24 @@
     "lbl:latitude":32.475074,
     "lbl:longitude":-93.48761,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Haughton",
+    "mz:postal_locality_alt":[
+        "Taylor"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688735,
-        102084883
+        102084883,
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12788564"
     },
     "wof:country":"US",
-    "wof:geomhash":"927aa7032d5eacd63af115f425b95536",
+    "wof:geomhash":"d887c04f05c73fbdec95f08722315432",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554741137,
-    "wof:lastmodified":1480814614,
+    "wof:lastmodified":1611184069,
     "wof:name":"71037",
     "wof:parent_id":102084883,
     "wof:placetype":"postalcode",

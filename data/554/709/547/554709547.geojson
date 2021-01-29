@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01496,
-    "geom:area_square_m":143244525.100521,
+    "geom:area_square_m":143244525.100621,
     "geom:bbox":"-77.949649,39.153427,-77.780744,39.356892",
     "geom:latitude":39.251054,
     "geom:longitude":-77.868953,
@@ -14,19 +14,26 @@
     "lbl:latitude":39.242415,
     "lbl:longitude":-77.865749,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Charles Town",
+    "mz:postal_locality_alt":[
+        "Berkeley Springs",
+        "Martinsburg",
+        "Kearneysville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688589,
-        102082647
+        102082647,
+        85688589
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12768294"
     },
     "wof:country":"US",
-    "wof:geomhash":"9892ab096b0e25b6f5017ee6c0814671",
+    "wof:geomhash":"8e130055c51dd813dc32f748171480b9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +44,7 @@
         }
     ],
     "wof:id":554709547,
-    "wof:lastmodified":1480796433,
+    "wof:lastmodified":1611183014,
     "wof:name":"25414",
     "wof:parent_id":102082647,
     "wof:placetype":"postalcode",

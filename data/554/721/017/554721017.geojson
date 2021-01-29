@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005904,
-    "geom:area_square_m":54836869.578387,
+    "geom:area_square_m":54836869.578403,
     "geom:bbox":"-81.785339,41.27645,-81.703675,41.352807",
     "geom:latitude":41.3141,
     "geom:longitude":-81.745338,
@@ -14,21 +14,26 @@
     "lbl:latitude":41.313701,
     "lbl:longitude":-81.74518,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cleveland",
+    "mz:postal_locality_alt":[
+        "North Royalton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404524435,
         85633793,
+        102084837,
+        404524435,
         101712621,
-        102084837
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776659"
     },
     "wof:country":"US",
-    "wof:geomhash":"0c908763cadf5b5130f794ddb6a3d70f",
+    "wof:geomhash":"85d64f0ff9f96f77a91899babf5e2cd9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554721017,
-    "wof:lastmodified":1480831405,
+    "wof:lastmodified":1611184971,
     "wof:name":"44133",
     "wof:parent_id":101712621,
     "wof:placetype":"postalcode",

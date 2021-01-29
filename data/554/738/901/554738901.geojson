@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016014,
-    "geom:area_square_m":154976371.936583,
+    "geom:area_square_m":154976371.936519,
     "geom:bbox":"-98.480377,38.415494,-98.312449,38.579913",
     "geom:latitude":38.496173,
     "geom:longitude":-98.397511,
@@ -14,20 +14,22 @@
     "lbl:latitude":38.498461,
     "lbl:longitude":-98.399346,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bushton",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404504995,
         85633793,
-        102082709
+        102082709,
+        404504995,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787243"
     },
     "wof:country":"US",
-    "wof:geomhash":"dbff1c21d7e2a80186406278abe12f1f",
+    "wof:geomhash":"05fe8c329bf6c6df2b96ac167fd090d6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554738901,
-    "wof:lastmodified":1480841978,
+    "wof:lastmodified":1611183094,
     "wof:name":"67427",
     "wof:parent_id":404504995,
     "wof:placetype":"postalcode",

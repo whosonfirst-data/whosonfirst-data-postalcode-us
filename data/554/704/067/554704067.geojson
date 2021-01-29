@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009292,
-    "geom:area_square_m":86938890.926956,
+    "geom:area_square_m":86938890.926901,
     "geom:bbox":"-79.08164,40.780669,-78.90322,40.880817",
     "geom:latitude":40.830844,
     "geom:longitude":-78.989176,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.831556,
     "lbl:longitude":-78.989146,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Rochester Mills",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404483473,
         85633793,
-        102081387
+        102081387,
+        404483473,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764018"
     },
     "wof:country":"US",
-    "wof:geomhash":"cf7fa89845d2bbca0fd7ecfb3d7b7d8c",
+    "wof:geomhash":"3b47d8c75d75790a5984a8c68ba6da0c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554704067,
-    "wof:lastmodified":1480819041,
+    "wof:lastmodified":1611184519,
     "wof:name":"15771",
     "wof:parent_id":404483473,
     "wof:placetype":"postalcode",

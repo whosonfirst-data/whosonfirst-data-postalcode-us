@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025884,
-    "geom:area_square_m":247084120.928688,
+    "geom:area_square_m":247084120.928513,
     "geom:bbox":"-82.785192,39.351551,-82.56563,39.569066",
     "geom:latitude":39.466422,
     "geom:longitude":-82.697556,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.468184,
     "lbl:longitude":-82.69342,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Laurelville",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404526433,
         85633793,
-        102083709
+        102083709,
+        404526433,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776168"
     },
     "wof:country":"US",
-    "wof:geomhash":"9f76f0582e3a40ba798fd7acd09e886a",
+    "wof:geomhash":"bc6db7726b3734d488d422469ea8bc51",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554720345,
-    "wof:lastmodified":1480843207,
+    "wof:lastmodified":1611185487,
     "wof:name":"43135",
     "wof:parent_id":404526433,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01819,
-    "geom:area_square_m":193513994.067793,
+    "geom:area_square_m":193513994.067816,
     "geom:bbox":"-97.865137,30.55759,-97.651745,30.731164",
     "geom:latitude":30.641067,
     "geom:longitude":-97.751134,
@@ -13,19 +13,26 @@
     "lbl:latitude":30.66451,
     "lbl:longitude":-97.778568,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Georgetown",
+    "mz:postal_locality_alt":[
+        "Round Rock",
+        "Harper",
+        "Fredericksburg"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688753,
-        102085993
+        102085993,
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12792233"
     },
     "wof:country":"US",
-    "wof:geomhash":"bc5ccd4ec707fc99c42bb042206007e5",
+    "wof:geomhash":"393d4c56afc385b34b261369eb0fc1f0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +43,7 @@
         }
     ],
     "wof:id":554746985,
-    "wof:lastmodified":1480805198,
+    "wof:lastmodified":1611184010,
     "wof:name":"78628",
     "wof:parent_id":102085993,
     "wof:placetype":"postalcode",

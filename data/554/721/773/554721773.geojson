@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003089,
-    "geom:area_square_m":29638386.310722,
+    "geom:area_square_m":29638386.310713,
     "geom:bbox":"-84.71216,39.074474,-84.623605,39.145042",
     "geom:latitude":39.118293,
     "geom:longitude":-84.665869,
@@ -13,20 +13,26 @@
     "lbl:latitude":39.116908,
     "lbl:longitude":-84.672574,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cincinnati",
+    "mz:postal_locality_alt":[
+        "Addyston",
+        "Cleves"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404525445,
         85633793,
-        102083687
+        102083687,
+        404525445,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777154"
     },
     "wof:country":"US",
-    "wof:geomhash":"251b23ba53a3013691bceaa552e4c28b",
+    "wof:geomhash":"9b292071f6924689dc695f6ceb3b9435",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554721773,
-    "wof:lastmodified":1480838313,
+    "wof:lastmodified":1611184980,
     "wof:name":"45233",
     "wof:parent_id":404525445,
     "wof:placetype":"postalcode",

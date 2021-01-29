@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.080997,
-    "geom:area_square_m":774779291.758058,
+    "geom:area_square_m":774779291.758026,
     "geom:bbox":"-85.686693,39.182776,-85.270655,39.467632",
     "geom:latitude":39.323171,
     "geom:longitude":-85.479936,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.305991,
     "lbl:longitude":-85.478417,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Greensburg",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404501419,
         85633793,
-        102087125
+        102087125,
+        404501419,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778124"
     },
     "wof:country":"US",
-    "wof:geomhash":"b23c818ff53fb488f3c483f7515b4292",
+    "wof:geomhash":"ca6205895eb453576a623aa07fcbca8f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554723245,
-    "wof:lastmodified":1480912736,
+    "wof:lastmodified":1611183782,
     "wof:name":"47240",
     "wof:parent_id":404501419,
     "wof:placetype":"postalcode",

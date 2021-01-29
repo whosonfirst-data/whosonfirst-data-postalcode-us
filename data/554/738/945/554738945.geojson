@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035304,
-    "geom:area_square_m":338107817.137886,
+    "geom:area_square_m":338107817.137913,
     "geom:bbox":"-98.490265,39.132234,-98.191192,39.379445",
     "geom:latitude":39.238774,
     "geom:longitude":-98.371662,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.240071,
     "lbl:longitude":-98.371606,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hunter",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404502645,
         85633793,
-        102085275
+        102085275,
+        404502645,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787263"
     },
     "wof:country":"US",
-    "wof:geomhash":"0fe3cea1a911dc6b7a2eba88dbe0b8c6",
+    "wof:geomhash":"fe703d5a3ef1bc9a6e05c455633d5a81",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554738945,
-    "wof:lastmodified":1480805311,
+    "wof:lastmodified":1611183126,
     "wof:name":"67452",
     "wof:parent_id":404502645,
     "wof:placetype":"postalcode",

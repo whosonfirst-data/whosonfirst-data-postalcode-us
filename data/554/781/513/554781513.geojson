@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001403,
-    "geom:area_square_m":15622282.21296,
+    "geom:area_square_m":15622282.212961,
     "geom:bbox":"-80.337263,25.782613,-80.264225,25.809362",
     "geom:latitude":25.797389,
     "geom:longitude":-80.29841,
@@ -13,19 +13,24 @@
     "lbl:latitude":25.794856,
     "lbl:longitude":-80.288376,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Miami",
+    "mz:postal_locality_alt":[
+        "Doral"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688651,
-        102085771
+        102085771,
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12772133"
     },
     "wof:country":"US",
-    "wof:geomhash":"504b78f04453738c19e86f2bffbdf56f",
+    "wof:geomhash":"e152b673db03e172370973184f88a8d4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +41,7 @@
         }
     ],
     "wof:id":554781513,
-    "wof:lastmodified":1480806628,
+    "wof:lastmodified":1611184837,
     "wof:name":"33122",
     "wof:parent_id":102085771,
     "wof:placetype":"postalcode",

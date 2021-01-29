@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002192,
-    "geom:area_square_m":20194271.780729,
+    "geom:area_square_m":20194271.780735,
     "geom:bbox":"-87.782691,41.80436,-87.738533,41.867408",
     "geom:latitude":41.837811,
     "geom:longitude":-87.760168,
@@ -14,21 +14,26 @@
     "lbl:latitude":41.838036,
     "lbl:longitude":-87.75987,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cicero",
+    "mz:postal_locality_alt":[
+        "Chicago"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404497617,
         85633793,
+        102084317,
+        404497617,
         85940877,
-        102084317
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784343"
     },
     "wof:country":"US",
-    "wof:geomhash":"cbbf8502dc87f44ecb3052360112a7d0",
+    "wof:geomhash":"6d159b1bd456e1833a9f52d9aa2ff719",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554783479,
-    "wof:lastmodified":1480802055,
+    "wof:lastmodified":1611183878,
     "wof:name":"60804",
     "wof:parent_id":85940877,
     "wof:placetype":"postalcode",

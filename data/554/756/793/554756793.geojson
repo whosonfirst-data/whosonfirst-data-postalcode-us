@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022881,
-    "geom:area_square_m":230842607.574358,
+    "geom:area_square_m":230842607.574396,
     "geom:bbox":"-106.857297,35.265437,-106.565874,35.379137",
     "geom:latitude":35.323955,
     "geom:longitude":-106.709854,
@@ -14,20 +14,25 @@
     "lbl:latitude":35.325201,
     "lbl:longitude":-106.705446,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Rio Rancho",
+    "mz:postal_locality_alt":[
+        "Albuquerque"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688493,
         102191575,
         85633793,
+        102081569,
         85976575,
-        102081569
+        85688493
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"23510103"
     },
     "wof:country":"US",
-    "wof:geomhash":"203d3c83208dd8aba9e0d0711cb1f80e",
+    "wof:geomhash":"678302473bb9c21318ddc7beb2bdecd4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554756793,
-    "wof:lastmodified":1480817313,
+    "wof:lastmodified":1611184292,
     "wof:name":"87144",
     "wof:parent_id":85976575,
     "wof:placetype":"postalcode",

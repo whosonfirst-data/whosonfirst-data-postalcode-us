@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012988,
-    "geom:area_square_m":131757678.379088,
+    "geom:area_square_m":131757678.379311,
     "geom:bbox":"-89.111568,34.785535,-88.893858,34.954707",
     "geom:latitude":34.875024,
     "geom:longitude":-89.001006,
@@ -14,19 +14,24 @@
     "lbl:latitude":34.862808,
     "lbl:longitude":-89.009788,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Falkner",
+    "mz:postal_locality_alt":[
+        "Ripley"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688579,
-        102084845
+        102084845,
+        85688579
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12774558"
     },
     "wof:country":"US",
-    "wof:geomhash":"3b34fbc17bad0acf7c6ccac0c04cd2ac",
+    "wof:geomhash":"713afbbd7174ae9b1f41e680100d623c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554717769,
-    "wof:lastmodified":1480817467,
+    "wof:lastmodified":1611185015,
     "wof:name":"38629",
     "wof:parent_id":102084845,
     "wof:placetype":"postalcode",

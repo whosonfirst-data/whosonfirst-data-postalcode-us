@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026846,
-    "geom:area_square_m":254015025.788092,
+    "geom:area_square_m":254015025.787425,
     "geom:bbox":"-80.739236,39.951433,-80.526636,40.215635",
     "geom:latitude":40.073963,
     "geom:longitude":-80.65005,
@@ -14,19 +14,26 @@
     "lbl:latitude":40.070163,
     "lbl:longitude":-80.647242,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wheeling",
+    "mz:postal_locality_alt":[
+        "Warwood",
+        "Elm Grove",
+        "Benwood"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688589,
-        102082621
+        102082621,
+        85688589
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12768554"
     },
     "wof:country":"US",
-    "wof:geomhash":"084baf30e9c6e07af4c9f33a6847f178",
+    "wof:geomhash":"0c678746203c36c78fea21a58a0cb8c1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +44,7 @@
         }
     ],
     "wof:id":554709857,
-    "wof:lastmodified":1480838320,
+    "wof:lastmodified":1611182995,
     "wof:name":"26003",
     "wof:parent_id":102082621,
     "wof:placetype":"postalcode",

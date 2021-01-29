@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043684,
-    "geom:area_square_m":455198818.325716,
+    "geom:area_square_m":455198818.325562,
     "geom:bbox":"-96.45889,32.477289,-96.075708,32.674604",
     "geom:latitude":32.573589,
     "geom:longitude":-96.247149,
@@ -14,19 +14,25 @@
     "lbl:latitude":32.568163,
     "lbl:longitude":-96.250214,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Kaufman",
+    "mz:postal_locality_alt":[
+        "Crandall",
+        "Terrell"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688753,
-        102083833
+        102083833,
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12790404"
     },
     "wof:country":"US",
-    "wof:geomhash":"9dcd702a59942d8ac7bc64dbb8e30472",
+    "wof:geomhash":"e0a338ae939b7f4a66f3fa522d054aad",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554744317,
-    "wof:lastmodified":1480835606,
+    "wof:lastmodified":1611184752,
     "wof:name":"75142",
     "wof:parent_id":102083833,
     "wof:placetype":"postalcode",

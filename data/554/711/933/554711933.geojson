@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027976,
-    "geom:area_square_m":289036984.467061,
+    "geom:area_square_m":289036984.467052,
     "geom:bbox":"-80.57413,33.233008,-80.276682,33.424899",
     "geom:latitude":33.32917,
     "geom:longitude":-80.417621,
@@ -14,20 +14,22 @@
     "lbl:latitude":33.33003,
     "lbl:longitude":-80.418508,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Holly Hill",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688683,
         102191575,
         85633793,
+        102085413,
         101720847,
-        102085413
+        85688683
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12769988"
     },
     "wof:country":"US",
-    "wof:geomhash":"cc93cdabc3eb220eff9c535bef757535",
+    "wof:geomhash":"72ccb045904099e1be3ad1b87e29ec2e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554711933,
-    "wof:lastmodified":1480814059,
+    "wof:lastmodified":1611185329,
     "wof:name":"29059",
     "wof:parent_id":101720847,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011831,
-    "geom:area_square_m":110948210.014914,
+    "geom:area_square_m":110948210.014913,
     "geom:bbox":"-79.06121,40.600199,-78.851168,40.762867",
     "geom:latitude":40.675462,
     "geom:longitude":-78.96694,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.675665,
     "lbl:longitude":-78.97178,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Clymer",
+    "mz:postal_locality_alt":[
+        "Dixonville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404486349,
         85633793,
-        102081387
+        102081387,
+        404486349,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763983"
     },
     "wof:country":"US",
-    "wof:geomhash":"b9922dedaf9e76f39979f4239c8d9f23",
+    "wof:geomhash":"6acf34ea3ef50b7cf9613e900086bd86",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554704021,
-    "wof:lastmodified":1480819041,
+    "wof:lastmodified":1611184514,
     "wof:name":"15728",
     "wof:parent_id":404486349,
     "wof:placetype":"postalcode",

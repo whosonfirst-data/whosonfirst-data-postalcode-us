@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014162,
-    "geom:area_square_m":127396555.511326,
+    "geom:area_square_m":127396555.511296,
     "geom:bbox":"-76.267287,43.23452,-76.065143,43.41538",
     "geom:latitude":43.323783,
     "geom:longitude":-76.173373,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.309256,
     "lbl:longitude":-76.166775,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Central Square",
+    "mz:postal_locality_alt":[
+        "Fulton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522959,
         85633793,
-        102081783
+        102081783,
+        404522959,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762619"
     },
     "wof:country":"US",
-    "wof:geomhash":"ff5e75fb78c4f4268c6959dde0c67f43",
+    "wof:geomhash":"b95e89a24455e112095361cb4351064c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554702033,
-    "wof:lastmodified":1480832041,
+    "wof:lastmodified":1611184166,
     "wof:name":"13036",
     "wof:parent_id":404522959,
     "wof:placetype":"postalcode",

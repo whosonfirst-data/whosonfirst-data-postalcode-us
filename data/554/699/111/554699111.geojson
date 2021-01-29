@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006457,
-    "geom:area_square_m":57721769.708794,
+    "geom:area_square_m":57721769.708816,
     "geom:bbox":"-73.131342,43.631195,-73.022197,43.753912",
     "geom:latitude":43.698455,
     "geom:longitude":-73.084988,
@@ -14,20 +14,22 @@
     "lbl:latitude":43.694013,
     "lbl:longitude":-73.080457,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Florence",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688763,
         102191575,
-        404527309,
         85633793,
-        102080771
+        102080771,
+        404527309,
+        85688763
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760086"
     },
     "wof:country":"US",
-    "wof:geomhash":"dd114cdd24202228b3a63db7d2452cd6",
+    "wof:geomhash":"34ac3d864df15ba725b0968dbb1bf03f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554699111,
-    "wof:lastmodified":1480903865,
+    "wof:lastmodified":1611184613,
     "wof:name":"05744",
     "wof:parent_id":404527309,
     "wof:placetype":"postalcode",

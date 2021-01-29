@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008192,
-    "geom:area_square_m":75869410.855427,
+    "geom:area_square_m":75869410.855481,
     "geom:bbox":"-71.660995,41.429486,-71.514896,41.56414",
     "geom:latitude":41.49594,
     "geom:longitude":-71.59688,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.492004,
     "lbl:longitude":-71.594774,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"West Kingston",
+    "mz:postal_locality_alt":[
+        "Wyoming"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688509,
         102191575,
-        404488343,
         85633793,
-        102081219
+        102081219,
+        404488343,
+        85688509
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759048"
     },
     "wof:country":"US",
-    "wof:geomhash":"6c3445119005869879ff2f9ea1193411",
+    "wof:geomhash":"31c006d988886f4837795fd286065457",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554697627,
-    "wof:lastmodified":1480829249,
+    "wof:lastmodified":1611184641,
     "wof:name":"02892",
     "wof:parent_id":404488343,
     "wof:placetype":"postalcode",

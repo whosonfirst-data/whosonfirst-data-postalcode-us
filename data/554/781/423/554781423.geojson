@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005201,
-    "geom:area_square_m":57843919.362461,
+    "geom:area_square_m":57843919.362465,
     "geom:bbox":"-80.440928,25.867404,-80.338961,25.957171",
     "geom:latitude":25.925922,
     "geom:longitude":-80.379458,
@@ -13,19 +13,25 @@
     "lbl:latitude":25.917733,
     "lbl:longitude":-80.384455,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hialeah",
+    "mz:postal_locality_alt":[
+        "Hialeah Gardens",
+        "Miami"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688651,
-        102085771
+        102085771,
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12772064"
     },
     "wof:country":"US",
-    "wof:geomhash":"4a5aaa02a3e1eef06252710b3b4194fb",
+    "wof:geomhash":"84d67c26f9a39b2545104d50ed95f2dc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +42,7 @@
         }
     ],
     "wof:id":554781423,
-    "wof:lastmodified":1480806624,
+    "wof:lastmodified":1611184815,
     "wof:name":"33018",
     "wof:parent_id":102085771,
     "wof:placetype":"postalcode",

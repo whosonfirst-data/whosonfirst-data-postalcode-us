@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00718,
-    "geom:area_square_m":70177064.413635,
+    "geom:area_square_m":70177064.413607,
     "geom:bbox":"-97.262524,37.722969,-97.170483,37.8402",
     "geom:latitude":37.773296,
     "geom:longitude":-97.215281,
@@ -13,21 +13,26 @@
     "lbl:latitude":37.773213,
     "lbl:longitude":-97.213036,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wichita",
+    "mz:postal_locality_alt":[
+        "Bel Aire"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404504889,
         85633793,
+        102084203,
+        404504889,
         85945835,
-        102084203
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787188"
     },
     "wof:country":"US",
-    "wof:geomhash":"236dc7bd1c265291994d1c6db35c440e",
+    "wof:geomhash":"518e9a9cb7aa5d571f29b444160cddb7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554738813,
-    "wof:lastmodified":1480798325,
+    "wof:lastmodified":1611183118,
     "wof:name":"67226",
     "wof:parent_id":85945835,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004582,
-    "geom:area_square_m":42608514.273766,
+    "geom:area_square_m":42608514.273764,
     "geom:bbox":"-81.159164,41.201998,-81.002746,41.271922",
     "geom:latitude":41.238605,
     "geom:longitude":-81.084406,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.239093,
     "lbl:longitude":-81.076054,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Windham",
+    "mz:postal_locality_alt":[
+        "Tallmadge"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404525757,
         85633793,
-        102084819
+        102084819,
+        404525757,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776743"
     },
     "wof:country":"US",
-    "wof:geomhash":"bfae2b0557397b3193e8d43bdcbd8e34",
+    "wof:geomhash":"fc42485c74a44a55f3deafdeed32e889",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554721131,
-    "wof:lastmodified":1480841911,
+    "wof:lastmodified":1611184964,
     "wof:name":"44288",
     "wof:parent_id":404525757,
     "wof:placetype":"postalcode",

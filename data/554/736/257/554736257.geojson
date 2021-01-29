@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020285,
-    "geom:area_square_m":202587974.476054,
+    "geom:area_square_m":202587974.476032,
     "geom:bbox":"-89.77981,36.000523,-89.591605,36.219746",
     "geom:latitude":36.130057,
     "geom:longitude":-89.690668,
@@ -14,20 +14,22 @@
     "lbl:latitude":36.13535,
     "lbl:longitude":-89.690139,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Caruthersville",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404517349,
         85633793,
-        102085321
+        102085321,
+        404517349,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785875"
     },
     "wof:country":"US",
-    "wof:geomhash":"c4db2bd1d08411b1bb6f298bb6ef9070",
+    "wof:geomhash":"ed3e55ad84d4faabca4435d6de168559",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554736257,
-    "wof:lastmodified":1480912294,
+    "wof:lastmodified":1611183027,
     "wof:name":"63830",
     "wof:parent_id":404517349,
     "wof:placetype":"postalcode",

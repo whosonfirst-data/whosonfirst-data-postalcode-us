@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027377,
-    "geom:area_square_m":254086563.860836,
+    "geom:area_square_m":254086563.860868,
     "geom:bbox":"-85.537572,41.265181,-85.309172,41.456109",
     "geom:latitude":41.360624,
     "geom:longitude":-85.429916,
@@ -14,20 +14,26 @@
     "lbl:latitude":41.360791,
     "lbl:longitude":-85.431238,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Albion",
+    "mz:postal_locality_alt":[
+        "Lagrange",
+        "Wolflake"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404501367,
         85633793,
-        102086977
+        102086977,
+        404501367,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777842"
     },
     "wof:country":"US",
-    "wof:geomhash":"633c879dfa2c07593d22c97d84ec512a",
+    "wof:geomhash":"5d0474672f156f53e70ef28087c9c460",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554722807,
-    "wof:lastmodified":1480915898,
+    "wof:lastmodified":1611183240,
     "wof:name":"46701",
     "wof:parent_id":404501367,
     "wof:placetype":"postalcode",

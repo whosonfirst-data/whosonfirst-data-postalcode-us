@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025132,
-    "geom:area_square_m":255293717.29971,
+    "geom:area_square_m":255293717.30042,
     "geom:bbox":"-82.169431,34.653013,-81.888707,34.88503",
     "geom:latitude":34.763997,
     "geom:longitude":-82.043879,
@@ -14,19 +14,26 @@
     "lbl:latitude":34.764315,
     "lbl:longitude":-82.044633,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Woodruff",
+    "mz:postal_locality_alt":[
+        "Spartanburg",
+        "Reidville",
+        "Duncan"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688683,
-        102085437
+        102085437,
+        85688683
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770148"
     },
     "wof:country":"US",
-    "wof:geomhash":"c7add3df7c08c31a8e08ff2718581f98",
+    "wof:geomhash":"5ec3e5f2e0060e5b1116f7340111ee48",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +44,7 @@
         }
     ],
     "wof:id":554712163,
-    "wof:lastmodified":1480814012,
+    "wof:lastmodified":1611183719,
     "wof:name":"29388",
     "wof:parent_id":102085437,
     "wof:placetype":"postalcode",

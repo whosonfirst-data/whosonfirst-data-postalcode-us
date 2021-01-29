@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000095,
-    "geom:area_square_m":833894.968073,
+    "geom:area_square_m":833894.968075,
     "geom:bbox":"-123.289725,44.56191,-123.269877,44.567953",
     "geom:latitude":44.564604,
     "geom:longitude":-123.280419,
@@ -14,20 +14,22 @@
     "lbl:latitude":44.564604,
     "lbl:longitude":-123.280419,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Corvallis",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688513,
         102191575,
         85633793,
+        102081237,
         101715853,
-        102081237
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12798584"
     },
     "wof:country":"US",
-    "wof:geomhash":"b90a085fe55cd38cd732b1de84f8c621",
+    "wof:geomhash":"cffbee0fb2d28e35964d12bb8a460e65",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554754781,
-    "wof:lastmodified":1480833651,
+    "wof:lastmodified":1611182918,
     "wof:name":"97331",
     "wof:parent_id":101715853,
     "wof:placetype":"postalcode",

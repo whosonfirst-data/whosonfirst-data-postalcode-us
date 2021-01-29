@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036945,
-    "geom:area_square_m":328252987.512718,
+    "geom:area_square_m":328252987.512634,
     "geom:bbox":"-85.84293,43.94029,-85.563041,44.164854",
     "geom:latitude":44.06545,
     "geom:longitude":-85.697652,
@@ -14,20 +14,22 @@
     "lbl:latitude":44.067819,
     "lbl:longitude":-85.692017,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Luther",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404507965,
         85633793,
-        102083055
+        102083055,
+        404507965,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779463"
     },
     "wof:country":"US",
-    "wof:geomhash":"aea3ce86beee2775a309ac3d3084aa76",
+    "wof:geomhash":"bb5a19461c1acd2e363549e75672c03a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554725205,
-    "wof:lastmodified":1480841094,
+    "wof:lastmodified":1611183266,
     "wof:name":"49656",
     "wof:parent_id":404507965,
     "wof:placetype":"postalcode",

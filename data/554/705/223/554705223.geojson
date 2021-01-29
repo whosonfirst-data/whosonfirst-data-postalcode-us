@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000417,
-    "geom:area_square_m":3954665.323665,
+    "geom:area_square_m":3954665.323666,
     "geom:bbox":"-76.72906,39.869771,-76.694802,39.897702",
     "geom:latitude":39.883281,
     "geom:longitude":-76.711928,
@@ -13,21 +13,26 @@
     "lbl:latitude":39.883773,
     "lbl:longitude":-76.712102,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"York",
+    "mz:postal_locality_alt":[
+        "Jacobus"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404484213,
         85633793,
+        102080953,
+        404484213,
         101717243,
-        102080953
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764780"
     },
     "wof:country":"US",
-    "wof:geomhash":"0e40a23482893ba3e31ef9fb5564ab0d",
+    "wof:geomhash":"c44c72b93e48aefb3309d0e72d7d3a12",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554705223,
-    "wof:lastmodified":1480903980,
+    "wof:lastmodified":1611184118,
     "wof:name":"17407",
     "wof:parent_id":101717243,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.169254,
-    "geom:area_square_m":1447528579.625742,
+    "geom:area_square_m":1447528579.625214,
     "geom:bbox":"-100.628976,45.942938,-99.878415,46.429258",
     "geom:latitude":46.238962,
     "geom:longitude":-100.301054,
@@ -14,20 +14,22 @@
     "lbl:latitude":46.244129,
     "lbl:longitude":-100.287175,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Linton",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688525,
         102191575,
-        404481067,
         85633793,
-        102081477
+        102081477,
+        404481067,
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12783386"
     },
     "wof:country":"US",
-    "wof:geomhash":"8c9cb13fa2da9ea320fc92162202794e",
+    "wof:geomhash":"21e05f363d3a9f04dbe0dbf1494d707d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554732119,
-    "wof:lastmodified":1480913554,
+    "wof:lastmodified":1611184385,
     "wof:name":"58552",
     "wof:parent_id":404481067,
     "wof:placetype":"postalcode",

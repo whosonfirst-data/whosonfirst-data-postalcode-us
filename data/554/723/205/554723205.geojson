@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043241,
-    "geom:area_square_m":417373142.900555,
+    "geom:area_square_m":417373142.900763,
     "geom:bbox":"-86.05938,38.561269,-85.657067,38.809385",
     "geom:latitude":38.684933,
     "geom:longitude":-85.843578,
@@ -14,20 +14,26 @@
     "lbl:latitude":38.685201,
     "lbl:longitude":-85.844056,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Scottsburg",
+    "mz:postal_locality_alt":[
+        "Jeffersonville",
+        "Underwood"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404501475,
         85633793,
-        102087167
+        102087167,
+        404501475,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778101"
     },
     "wof:country":"US",
-    "wof:geomhash":"79f1d87a0a2cb78688042b4aebf53ffd",
+    "wof:geomhash":"b888ee62903ec6df717acc96e89913d2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554723205,
-    "wof:lastmodified":1480917013,
+    "wof:lastmodified":1611183789,
     "wof:name":"47170",
     "wof:parent_id":404501475,
     "wof:placetype":"postalcode",

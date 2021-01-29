@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031532,
-    "geom:area_square_m":307503390.69899,
+    "geom:area_square_m":307503390.698782,
     "geom:bbox":"-95.519429,37.820195,-95.299053,38.038594",
     "geom:latitude":37.937567,
     "geom:longitude":-95.407789,
@@ -14,21 +14,27 @@
     "lbl:latitude":37.935949,
     "lbl:longitude":-95.406943,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Iola",
+    "mz:postal_locality_alt":[
+        "Gas",
+        "La Harpe"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404503751,
         85633793,
+        102082659,
+        404503751,
         85946087,
-        102082659
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786968"
     },
     "wof:country":"US",
-    "wof:geomhash":"bbd2f29e1682dadb3a67c26f85eef860",
+    "wof:geomhash":"d7291107c9057c728a342a86a784b3fe",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554738329,
-    "wof:lastmodified":1480843106,
+    "wof:lastmodified":1611183125,
     "wof:name":"66749",
     "wof:parent_id":85946087,
     "wof:placetype":"postalcode",

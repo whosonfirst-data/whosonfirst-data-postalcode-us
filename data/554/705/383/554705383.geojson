@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019794,
-    "geom:area_square_m":185181523.302396,
+    "geom:area_square_m":185181523.302137,
     "geom:bbox":"-76.859252,40.743058,-76.628874,40.924824",
     "geom:latitude":40.834523,
     "geom:longitude":-76.757417,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.834725,
     "lbl:longitude":-76.755008,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Sunbury",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404486509,
         85633793,
-        102081349
+        102081349,
+        404486509,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764899"
     },
     "wof:country":"US",
-    "wof:geomhash":"61da0ea196bc311f0f9d56ea92caecb9",
+    "wof:geomhash":"a35ead1c6f05c7908d7b4328bbde1181",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554705383,
-    "wof:lastmodified":1480836805,
+    "wof:lastmodified":1611184106,
     "wof:name":"17801",
     "wof:parent_id":404486509,
     "wof:placetype":"postalcode",

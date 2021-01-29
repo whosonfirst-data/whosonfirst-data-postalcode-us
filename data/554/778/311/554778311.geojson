@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000081,
-    "geom:area_square_m":742576.901906,
+    "geom:area_square_m":742576.901909,
     "geom:bbox":"-71.064472,42.343703,-71.052186,42.356268",
     "geom:latitude":42.350023,
     "geom:longitude":-71.059111,
@@ -13,21 +13,23 @@
     "lbl:latitude":42.350518,
     "lbl:longitude":-71.059077,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Boston",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476573,
         85633793,
+        102084423,
+        404476573,
         85950361,
-        102084423
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758710"
     },
     "wof:country":"US",
-    "wof:geomhash":"1a7d45bf9d7c62dd0a8afba32188e74a",
+    "wof:geomhash":"cdbadec36ebcd75db1744b6624c6eaa3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +42,7 @@
         }
     ],
     "wof:id":554778311,
-    "wof:lastmodified":1480798201,
+    "wof:lastmodified":1611183444,
     "wof:name":"02111",
     "wof:parent_id":85950361,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016807,
-    "geom:area_square_m":160653481.682951,
+    "geom:area_square_m":160653481.682901,
     "geom:bbox":"-86.04447,39.295812,-85.84541,39.473947",
     "geom:latitude":39.373353,
     "geom:longitude":-85.927462,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.370017,
     "lbl:longitude":-85.92791,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Edinburgh",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404501541,
         85633793,
-        102086435
+        102086435,
+        404501541,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777600"
     },
     "wof:country":"US",
-    "wof:geomhash":"00a363012484417e7891ebd162962dc2",
+    "wof:geomhash":"f971c73e616afb8e58b38f6a5de98a98",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554722481,
-    "wof:lastmodified":1480908879,
+    "wof:lastmodified":1611183237,
     "wof:name":"46124",
     "wof:parent_id":404501541,
     "wof:placetype":"postalcode",

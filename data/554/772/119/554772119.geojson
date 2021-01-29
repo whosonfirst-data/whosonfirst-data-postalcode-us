@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000436,
-    "geom:area_square_m":4023514.830928,
+    "geom:area_square_m":4023514.830939,
     "geom:bbox":"-110.55309,41.749083,-110.528618,41.789366",
     "geom:latitude":41.772587,
     "geom:longitude":-110.535777,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.769544,
     "lbl:longitude":-110.533471,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Diamondville",
+    "mz:postal_locality_alt":[
+        "Kemmerer"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688475,
         102191575,
         85633793,
+        102081151,
         101734063,
-        102081151
+        85688475
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12793695"
     },
     "wof:country":"US",
-    "wof:geomhash":"e294b06058269c96d19dfe6849ddf926",
+    "wof:geomhash":"7a05cb2d7126fca699c0345d200fe45e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554772119,
-    "wof:lastmodified":1480818005,
+    "wof:lastmodified":1611184855,
     "wof:name":"83116",
     "wof:parent_id":101734063,
     "wof:placetype":"postalcode",

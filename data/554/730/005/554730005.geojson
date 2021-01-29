@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041285,
-    "geom:area_square_m":365633983.802858,
+    "geom:area_square_m":365633983.802841,
     "geom:bbox":"-95.816289,44.108991,-95.513163,44.38496",
     "geom:latitude":44.255153,
     "geom:longitude":-95.635278,
@@ -14,20 +14,25 @@
     "lbl:latitude":44.260701,
     "lbl:longitude":-95.638506,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Tracy",
+    "mz:postal_locality_alt":[
+        "Russell"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404512665,
         85633793,
-        102087885
+        102087885,
+        404512665,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782308"
     },
     "wof:country":"US",
-    "wof:geomhash":"b5437e4ccf6d7d6da133d675344c716e",
+    "wof:geomhash":"d02991bb4f5157d28c5e1bf4662081c5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554730005,
-    "wof:lastmodified":1480783842,
+    "wof:lastmodified":1611182754,
     "wof:name":"56175",
     "wof:parent_id":404512665,
     "wof:placetype":"postalcode",

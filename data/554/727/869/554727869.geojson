@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020441,
-    "geom:area_square_m":184291523.801374,
+    "geom:area_square_m":184291523.801155,
     "geom:bbox":"-89.058276,43.050142,-88.869857,43.285296",
     "geom:latitude":43.187064,
     "geom:longitude":-88.97218,
@@ -14,21 +14,26 @@
     "lbl:latitude":43.190778,
     "lbl:longitude":-88.973848,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Waterloo",
+    "mz:postal_locality_alt":[
+        "Middleton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404491921,
         85633793,
+        102081287,
+        404491921,
         101732303,
-        102081287
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781037"
     },
     "wof:country":"US",
-    "wof:geomhash":"b7b0e6206dced39ad1bebe5c50aa96f2",
+    "wof:geomhash":"e1696ab831a6ce0f10319f17df3646da",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554727869,
-    "wof:lastmodified":1480833313,
+    "wof:lastmodified":1611185505,
     "wof:name":"53594",
     "wof:parent_id":101732303,
     "wof:placetype":"postalcode",

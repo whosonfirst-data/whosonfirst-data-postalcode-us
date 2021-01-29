@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030658,
-    "geom:area_square_m":291260865.475508,
+    "geom:area_square_m":291260865.475467,
     "geom:bbox":"-95.30927,39.679417,-94.993445,39.906841",
     "geom:latitude":39.798128,
     "geom:longitude":-95.124225,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.802081,
     "lbl:longitude":-95.122122,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Troy",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404503519,
         85633793,
-        102082137
+        102082137,
+        404503519,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786764"
     },
     "wof:country":"US",
-    "wof:geomhash":"4dd78fdde982a2d44648e2143f91d5b9",
+    "wof:geomhash":"e5c7d3482acf29d88e93607c25a768a9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554737965,
-    "wof:lastmodified":1480808141,
+    "wof:lastmodified":1611182825,
     "wof:name":"66087",
     "wof:parent_id":404503519,
     "wof:placetype":"postalcode",

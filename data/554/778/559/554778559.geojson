@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007067,
-    "geom:area_square_m":65299958.978752,
+    "geom:area_square_m":65299958.97881,
     "geom:bbox":"-71.54668,41.601891,-71.390103,41.688469",
     "geom:latitude":41.645747,
     "geom:longitude":-71.485026,
@@ -14,20 +14,26 @@
     "lbl:latitude":41.642919,
     "lbl:longitude":-71.485719,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"East Greenwich",
+    "mz:postal_locality_alt":[
+        "Coventry",
+        "Narragansett"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688509,
         102191575,
-        404488311,
         85633793,
-        102081209
+        102081209,
+        404488311,
+        85688509
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758998"
     },
     "wof:country":"US",
-    "wof:geomhash":"71f811a1d31cb53ba19a5363322249a6",
+    "wof:geomhash":"81959f5ae1b829bfa3a4b1877552c1d2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554778559,
-    "wof:lastmodified":1480829250,
+    "wof:lastmodified":1611183425,
     "wof:name":"02818",
     "wof:parent_id":404488311,
     "wof:placetype":"postalcode",

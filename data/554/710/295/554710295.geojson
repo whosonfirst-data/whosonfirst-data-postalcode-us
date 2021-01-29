@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003883,
-    "geom:area_square_m":37746916.697288,
+    "geom:area_square_m":37746916.697248,
     "geom:bbox":"-80.951035,38.108153,-80.870066,38.208952",
     "geom:latitude":38.168489,
     "geom:longitude":-80.910716,
@@ -14,19 +14,24 @@
     "lbl:latitude":38.178882,
     "lbl:longitude":-80.916062,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mt Lookout",
+    "mz:postal_locality_alt":[
+        "Mount Lookout"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688589,
-        102082623
+        102082623,
+        85688589
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12768822"
     },
     "wof:country":"US",
-    "wof:geomhash":"badf04d915f02c775338f4e7226a3b02",
+    "wof:geomhash":"5692eaadb729983a201c33dc14c142d2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554710295,
-    "wof:lastmodified":1480836986,
+    "wof:lastmodified":1611185110,
     "wof:name":"26678",
     "wof:parent_id":102082623,
     "wof:placetype":"postalcode",

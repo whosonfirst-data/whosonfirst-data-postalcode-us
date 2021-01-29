@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011382,
-    "geom:area_square_m":102662879.774243,
+    "geom:area_square_m":102662879.774217,
     "geom:bbox":"-77.250279,43.104158,-77.082569,43.205976",
     "geom:latitude":43.160564,
     "geom:longitude":-77.173231,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.159419,
     "lbl:longitude":-77.168961,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Marion",
+    "mz:postal_locality_alt":[
+        "Palmyra"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404523343,
         85633793,
-        102082409
+        102082409,
+        404523343,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763267"
     },
     "wof:country":"US",
-    "wof:geomhash":"4ccc675d690e157f4e42306c4c8eb4a2",
+    "wof:geomhash":"7ca732e0e9996ea1d761f236d9928fdb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554702941,
-    "wof:lastmodified":1480794598,
+    "wof:lastmodified":1611184149,
     "wof:name":"14505",
     "wof:parent_id":404523343,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021403,
-    "geom:area_square_m":214302526.781955,
+    "geom:area_square_m":214302526.781982,
     "geom:bbox":"-86.568167,35.812021,-86.364201,36.049897",
     "geom:latitude":35.927145,
     "geom:longitude":-86.440475,
@@ -13,19 +13,24 @@
     "lbl:latitude":35.932526,
     "lbl:longitude":-86.442648,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Murfreesboro",
+    "mz:postal_locality_alt":[
+        "Smyrna"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688701,
-        102086355
+        102086355,
+        85688701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12773829"
     },
     "wof:country":"US",
-    "wof:geomhash":"c005af1cefa7cb4b0b9e5132cba04846",
+    "wof:geomhash":"ef2553ffb5f33fa0fec9b6d0d847b583",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +41,7 @@
         }
     ],
     "wof:id":554716549,
-    "wof:lastmodified":1480911521,
+    "wof:lastmodified":1611185397,
     "wof:name":"37129",
     "wof:parent_id":102086355,
     "wof:placetype":"postalcode",

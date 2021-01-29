@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019502,
-    "geom:area_square_m":182125638.952646,
+    "geom:area_square_m":182125638.952528,
     "geom:bbox":"-86.711726,40.88299,-86.467926,41.011854",
     "geom:latitude":40.952846,
     "geom:longitude":-86.578267,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.950787,
     "lbl:longitude":-86.573883,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Star City",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404501673,
         85633793,
-        102086331
+        102086331,
+        404501673,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778009"
     },
     "wof:country":"US",
-    "wof:geomhash":"e9c0a8731f54918e096e5bab71fdc80f",
+    "wof:geomhash":"fd720588976793dd5492ae3d382d77d6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554723041,
-    "wof:lastmodified":1480915627,
+    "wof:lastmodified":1611183781,
     "wof:name":"46985",
     "wof:parent_id":404501673,
     "wof:placetype":"postalcode",

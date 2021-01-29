@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006678,
-    "geom:area_square_m":62027919.925536,
+    "geom:area_square_m":62027919.925513,
     "geom:bbox":"-84.08602,41.273811,-83.92131,41.341849",
     "geom:latitude":41.307278,
     "geom:longitude":-84.02204,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.30728,
     "lbl:longitude":-84.022034,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Malinta",
+    "mz:postal_locality_alt":[
+        "Grelton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404523851,
         85633793,
-        102081329
+        102081329,
+        404523851,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776357"
     },
     "wof:country":"US",
-    "wof:geomhash":"5ad434ce3aac81d0bff99f16851e9693",
+    "wof:geomhash":"fb4e2e6e370a64dde446ddf2136d3de9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554720623,
-    "wof:lastmodified":1480832493,
+    "wof:lastmodified":1611185476,
     "wof:name":"43535",
     "wof:parent_id":404523851,
     "wof:placetype":"postalcode",

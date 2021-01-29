@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00418,
-    "geom:area_square_m":41532466.925244,
+    "geom:area_square_m":41532466.925233,
     "geom:bbox":"-92.037863,36.498338,-91.935028,36.565225",
     "geom:latitude":36.522869,
     "geom:longitude":-91.990184,
@@ -14,20 +14,22 @@
     "lbl:latitude":36.525746,
     "lbl:longitude":-91.997786,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Moody",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404517093,
         85633793,
-        102086179
+        102086179,
+        404517093,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786671"
     },
     "wof:country":"US",
-    "wof:geomhash":"d88fb24375e001d173170557dfc38774",
+    "wof:geomhash":"fe4da4a5e9c2d94c615f4a391941f97c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554737787,
-    "wof:lastmodified":1480915961,
+    "wof:lastmodified":1611182864,
     "wof:name":"65777",
     "wof:parent_id":404517093,
     "wof:placetype":"postalcode",

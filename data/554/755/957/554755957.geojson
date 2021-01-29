@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0112,
-    "geom:area_square_m":96673068.870229,
+    "geom:area_square_m":96673068.8702,
     "geom:bbox":"-122.578251,45.690159,-122.346402,45.773481",
     "geom:latitude":45.729734,
     "geom:longitude":-122.456374,
@@ -14,20 +14,25 @@
     "lbl:latitude":45.729741,
     "lbl:longitude":-122.456373,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Brush Prairie",
+    "mz:postal_locality_alt":[
+        "Vancouver"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688623,
         102191575,
         85633793,
+        102084251,
         101730737,
-        102084251
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12799285"
     },
     "wof:country":"US",
-    "wof:geomhash":"11e1af93c9946d521531aa709a679fd2",
+    "wof:geomhash":"b51a3ca363829cc7f7c1935bd182292d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554755957,
-    "wof:lastmodified":1480796528,
+    "wof:lastmodified":1611182585,
     "wof:name":"98606",
     "wof:parent_id":101730737,
     "wof:placetype":"postalcode",

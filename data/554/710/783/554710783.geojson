@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009081,
-    "geom:area_square_m":90605721.066314,
+    "geom:area_square_m":90605721.066326,
     "geom:bbox":"-78.803242,36.145763,-78.644179,36.262147",
     "geom:latitude":36.201329,
     "geom:longitude":-78.730751,
@@ -14,20 +14,25 @@
     "lbl:latitude":36.199608,
     "lbl:longitude":-78.728985,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Stem",
+    "mz:postal_locality_alt":[
+        "Creedmoor"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688773,
         102191575,
         85633793,
+        102087901,
         85980723,
-        102087901
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12769126"
     },
     "wof:country":"US",
-    "wof:geomhash":"0854b7035c424e8de42e87ad8f3ddeb5",
+    "wof:geomhash":"d1d05819750c73e214bab66b5f3b2841",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554710783,
-    "wof:lastmodified":1480905452,
+    "wof:lastmodified":1611185117,
     "wof:name":"27581",
     "wof:parent_id":85980723,
     "wof:placetype":"postalcode",

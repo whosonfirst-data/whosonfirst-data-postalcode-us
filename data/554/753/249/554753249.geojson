@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000392,
-    "geom:area_square_m":3823033.44195,
+    "geom:area_square_m":3823033.441954,
     "geom:bbox":"-122.309339,37.880135,-122.28068,37.899561",
     "geom:latitude":37.889704,
     "geom:longitude":-122.295532,
@@ -14,20 +14,26 @@
     "lbl:latitude":37.889704,
     "lbl:longitude":-122.295531,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Albany",
+    "mz:postal_locality_alt":[
+        "Berkeley",
+        "Kensington"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086959,
         85921919,
-        102086959
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12797424"
     },
     "wof:country":"US",
-    "wof:geomhash":"8d18b53a203b3a8da0e958bf0115b775",
+    "wof:geomhash":"bd6f46608e7f85036ae6c6a83c8ee006",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554753249,
-    "wof:lastmodified":1480915081,
+    "wof:lastmodified":1611182961,
     "wof:name":"94706",
     "wof:parent_id":85921919,
     "wof:placetype":"postalcode",

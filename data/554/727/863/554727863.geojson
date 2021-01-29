@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025811,
-    "geom:area_square_m":233690225.585935,
+    "geom:area_square_m":233690225.58599,
     "geom:bbox":"-89.323448,42.840665,-89.091729,43.01632",
     "geom:latitude":42.926938,
     "geom:longitude":-89.212775,
@@ -14,21 +14,26 @@
     "lbl:latitude":42.924555,
     "lbl:longitude":-89.212885,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Stoughton",
+    "mz:postal_locality_alt":[
+        "Verona"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404493355,
         85633793,
+        102081795,
+        404493355,
         101732777,
-        102081795
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781033"
     },
     "wof:country":"US",
-    "wof:geomhash":"a38df6349bcfea387bee4cad344406f5",
+    "wof:geomhash":"e97272d7e44b08fc3b0c6b2dde158f72",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554727863,
-    "wof:lastmodified":1480820040,
+    "wof:lastmodified":1611185528,
     "wof:name":"53589",
     "wof:parent_id":101732777,
     "wof:placetype":"postalcode",

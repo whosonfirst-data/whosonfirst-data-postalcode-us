@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011516,
-    "geom:area_square_m":107252260.540702,
+    "geom:area_square_m":107252260.540687,
     "geom:bbox":"-81.396813,41.064549,-81.261282,41.212545",
     "geom:latitude":41.133036,
     "geom:longitude":-81.341511,
@@ -13,20 +13,25 @@
     "lbl:latitude":41.132323,
     "lbl:longitude":-81.332781,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Kent",
+    "mz:postal_locality_alt":[
+        "Medina"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404525649,
         85633793,
-        102084819
+        102084819,
+        404525649,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776714"
     },
     "wof:country":"US",
-    "wof:geomhash":"49e70be855af04bbc6a4aa05ab579bac",
+    "wof:geomhash":"697451f6770711e40cfa877fdb023c86",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554721083,
-    "wof:lastmodified":1480800398,
+    "wof:lastmodified":1611184950,
     "wof:name":"44240",
     "wof:parent_id":404525649,
     "wof:placetype":"postalcode",

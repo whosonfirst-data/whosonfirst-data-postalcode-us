@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.119813,
-    "geom:area_square_m":988978448.355673,
+    "geom:area_square_m":988978448.355888,
     "geom:bbox":"-96.50117,47.96346,-95.851554,48.30076",
     "geom:latitude":48.122108,
     "geom:longitude":-96.192439,
@@ -14,21 +14,28 @@
     "lbl:latitude":48.121195,
     "lbl:longitude":-96.192034,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Thief River Fls",
+    "mz:postal_locality_alt":[
+        "Thief River Falls",
+        "Kennedy",
+        "Red Lake Falls"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404513225,
         85633793,
+        102086989,
+        404513225,
         85953149,
-        102086989
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782649"
     },
     "wof:country":"US",
-    "wof:geomhash":"fa9db1a6812e1cc53e9db0c09acae8d6",
+    "wof:geomhash":"37f551e9535d3109c83415a3311176ed",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +48,7 @@
         }
     ],
     "wof:id":554730683,
-    "wof:lastmodified":1480910618,
+    "wof:lastmodified":1611182750,
     "wof:name":"56701",
     "wof:parent_id":85953149,
     "wof:placetype":"postalcode",

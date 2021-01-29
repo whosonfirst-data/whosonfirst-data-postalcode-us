@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001638,
-    "geom:area_square_m":15311660.145289,
+    "geom:area_square_m":15311660.14529,
     "geom:bbox":"-74.254476,40.859799,-74.174388,40.907578",
     "geom:latitude":40.883666,
     "geom:longitude":-74.205983,
@@ -14,21 +14,27 @@
     "lbl:latitude":40.882814,
     "lbl:longitude":-74.205693,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Little Falls",
+    "mz:postal_locality_alt":[
+        "West Paterson",
+        "Woodland Park"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477351,
         85633793,
+        102081133,
+        404477351,
         85975467,
-        102081133
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760745"
     },
     "wof:country":"US",
-    "wof:geomhash":"84e2933d86e0ff30c3293acd4b9c6a63",
+    "wof:geomhash":"ccf7072003c28a57efe92986cc6606ca",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554699993,
-    "wof:lastmodified":1480818573,
+    "wof:lastmodified":1611184619,
     "wof:name":"07424",
     "wof:parent_id":85975467,
     "wof:placetype":"postalcode",

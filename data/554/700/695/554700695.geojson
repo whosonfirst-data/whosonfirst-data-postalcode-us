@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00238,
-    "geom:area_square_m":22327034.970786,
+    "geom:area_square_m":22327034.970777,
     "geom:bbox":"-74.962549,40.624571,-74.882308,40.687704",
     "geom:latitude":40.651215,
     "geom:longitude":-74.922321,
@@ -14,20 +14,26 @@
     "lbl:latitude":40.651832,
     "lbl:longitude":-74.934206,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Clinton",
+    "mz:postal_locality_alt":[
+        "Annandale",
+        "Phillipsburg"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478241,
         85633793,
-        102085997
+        102085997,
+        404478241,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761261"
     },
     "wof:country":"US",
-    "wof:geomhash":"6c37b1cf0d1e59fb178fcfc166186395",
+    "wof:geomhash":"691f9b9da8d2a6fd3b858d91353cb9d4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554700695,
-    "wof:lastmodified":1480812025,
+    "wof:lastmodified":1611183187,
     "wof:name":"08809",
     "wof:parent_id":404478241,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000277,
-    "geom:area_square_m":2543019.761406,
+    "geom:area_square_m":2543019.761402,
     "geom:bbox":"-71.29303,42.088492,-71.253816,42.115372",
     "geom:latitude":42.102789,
     "geom:longitude":-71.272092,
@@ -14,20 +14,22 @@
     "lbl:latitude":42.103425,
     "lbl:longitude":-71.273589,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"South Walpole",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476599,
         85633793,
-        102084403
+        102084403,
+        404476599,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758695"
     },
     "wof:country":"US",
-    "wof:geomhash":"54811386d59dcc5b02ad5328d3d4b7bf",
+    "wof:geomhash":"098fc40ec37c6aa753bd8d6381fa9eb4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554697375,
-    "wof:lastmodified":1480799555,
+    "wof:lastmodified":1611184665,
     "wof:name":"02071",
     "wof:parent_id":404476599,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.089128,
-    "geom:area_square_m":817192282.157638,
+    "geom:area_square_m":817192282.15687,
     "geom:bbox":"-121.934029,42.000311,-121.450178,42.375341",
     "geom:latitude":42.140901,
     "geom:longitude":-121.680728,
@@ -13,19 +13,25 @@
     "lbl:latitude":42.152018,
     "lbl:longitude":-121.683526,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Klamath Falls",
+    "mz:postal_locality_alt":[
+        "Midland",
+        "Lakeview"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688513,
-        102082231
+        102082231,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12798751"
     },
     "wof:country":"US",
-    "wof:geomhash":"688c08282f572d6c268fbe9add55e874",
+    "wof:geomhash":"7bf87a10b7c99694e8ea7fc0d6dab018",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +42,7 @@
         }
     ],
     "wof:id":554755087,
-    "wof:lastmodified":1480824401,
+    "wof:lastmodified":1611182591,
     "wof:name":"97603",
     "wof:parent_id":102082231,
     "wof:placetype":"postalcode",

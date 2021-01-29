@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001921,
-    "geom:area_square_m":18307930.091742,
+    "geom:area_square_m":18307930.091765,
     "geom:bbox":"-104.993048,39.566025,-104.922883,39.595799",
     "geom:latitude":39.580578,
     "geom:longitude":-104.956011,
@@ -13,20 +13,27 @@
     "lbl:latitude":39.580309,
     "lbl:longitude":-104.954917,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Littleton",
+    "mz:postal_locality_alt":[
+        "Centennial",
+        "Englewood",
+        "Denver"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688603,
         102191575,
         85633793,
+        102086877,
         85929851,
-        102086877
+        85688603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12792917"
     },
     "wof:country":"US",
-    "wof:geomhash":"9c8ae4c8110b59cda2e491f25c0c9cd3",
+    "wof:geomhash":"c787b77f6d36ea5d33490f89dd0af6b5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +45,7 @@
         }
     ],
     "wof:id":554747959,
-    "wof:lastmodified":1480913399,
+    "wof:lastmodified":1611183469,
     "wof:name":"80122",
     "wof:parent_id":85929851,
     "wof:placetype":"postalcode",

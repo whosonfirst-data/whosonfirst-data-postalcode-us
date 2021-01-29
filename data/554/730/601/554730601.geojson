@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.086631,
-    "geom:area_square_m":720147457.856298,
+    "geom:area_square_m":720147457.855933,
     "geom:bbox":"-94.806478,47.494845,-94.16055,47.950511",
     "geom:latitude":47.756999,
     "geom:longitude":-94.499163,
@@ -14,20 +14,26 @@
     "lbl:latitude":47.756974,
     "lbl:longitude":-94.498076,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Blackduck",
+    "mz:postal_locality_alt":[
+        "Gonvick",
+        "Kelliher"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404511431,
         85633793,
-        102087773
+        102087773,
+        404511431,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782604"
     },
     "wof:country":"US",
-    "wof:geomhash":"c87d839597ba89d4fbd899b13394f4d5",
+    "wof:geomhash":"a1f22be23fd1e099fe336a761cb9a673",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554730601,
-    "wof:lastmodified":1480911793,
+    "wof:lastmodified":1611182753,
     "wof:name":"56630",
     "wof:parent_id":404511431,
     "wof:placetype":"postalcode",

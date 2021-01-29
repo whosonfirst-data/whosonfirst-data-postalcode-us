@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005273,
-    "geom:area_square_m":49385268.42992,
+    "geom:area_square_m":49385268.429923,
     "geom:bbox":"-81.052722,40.682812,-80.901887,40.813844",
     "geom:latitude":40.761129,
     "geom:longitude":-80.999949,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.76337,
     "lbl:longitude":-81.003737,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"East Rochester",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404523667,
         85633793,
-        102083745
+        102083745,
+        404523667,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776868"
     },
     "wof:country":"US",
-    "wof:geomhash":"78c369613511359fa87a9cd654eb27aa",
+    "wof:geomhash":"67afd4696041b2c59ab6481094ea39ef",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554721341,
-    "wof:lastmodified":1480841632,
+    "wof:lastmodified":1611184959,
     "wof:name":"44625",
     "wof:parent_id":404523667,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001468,
-    "geom:area_square_m":13741322.258192,
+    "geom:area_square_m":13741322.258195,
     "geom:bbox":"-74.21189,40.768277,-74.162628,40.848799",
     "geom:latitude":40.809947,
     "geom:longitude":-74.186906,
@@ -14,20 +14,26 @@
     "lbl:latitude":40.809141,
     "lbl:longitude":-74.187142,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bloomfield",
+    "mz:postal_locality_alt":[
+        "Fairfield",
+        "Fairview"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478101,
         85633793,
-        102085043
+        102085043,
+        404478101,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760601"
     },
     "wof:country":"US",
-    "wof:geomhash":"f071162967b90f97916ea01e8def2b12",
+    "wof:geomhash":"73fe8170ac6f17d4525c3929852942f6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554699767,
-    "wof:lastmodified":1480818575,
+    "wof:lastmodified":1611184618,
     "wof:name":"07003",
     "wof:parent_id":404478101,
     "wof:placetype":"postalcode",

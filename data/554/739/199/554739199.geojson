@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021596,
-    "geom:area_square_m":207213089.304694,
+    "geom:area_square_m":207213089.304504,
     "geom:bbox":"-99.029373,39.006606,-98.824884,39.220828",
     "geom:latitude":39.105869,
     "geom:longitude":-98.93125,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.103222,
     "lbl:longitude":-98.947174,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Paradise",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404505247,
         85633793,
-        102084163
+        102084163,
+        404505247,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787377"
     },
     "wof:country":"US",
-    "wof:geomhash":"420ac161c79f33e504a55109cb29b53c",
+    "wof:geomhash":"eca8e2404620ee47ea75f3494f0acb2d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554739199,
-    "wof:lastmodified":1480799309,
+    "wof:lastmodified":1611182668,
     "wof:name":"67658",
     "wof:parent_id":404505247,
     "wof:placetype":"postalcode",

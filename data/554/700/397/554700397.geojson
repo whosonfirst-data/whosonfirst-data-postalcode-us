@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011238,
-    "geom:area_square_m":106661028.702765,
+    "geom:area_square_m":106661028.702814,
     "geom:bbox":"-74.86294,39.785269,-74.754367,39.936058",
     "geom:latitude":39.863662,
     "geom:longitude":-74.822342,
@@ -14,20 +14,26 @@
     "lbl:latitude":39.862696,
     "lbl:longitude":-74.822311,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Medford",
+    "mz:postal_locality_alt":[
+        "Medford Lakes",
+        "Lumberton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477859,
         85633793,
-        102087415
+        102087415,
+        404477859,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761025"
     },
     "wof:country":"US",
-    "wof:geomhash":"cca6c6f29346e9236f9de837cfea594b",
+    "wof:geomhash":"81d4ee5dde409ff66a14d2ec9a079d00",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554700397,
-    "wof:lastmodified":1480823436,
+    "wof:lastmodified":1611183178,
     "wof:name":"08055",
     "wof:parent_id":404477859,
     "wof:placetype":"postalcode",

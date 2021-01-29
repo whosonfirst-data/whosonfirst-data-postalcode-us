@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005876,
-    "geom:area_square_m":54500345.474843,
+    "geom:area_square_m":54500345.474869,
     "geom:bbox":"-73.314381,41.357319,-73.183269,41.452635",
     "geom:latitude":41.406711,
     "geom:longitude":-73.244949,
@@ -14,20 +14,26 @@
     "lbl:latitude":41.409,
     "lbl:longitude":-73.24263,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Sandy Hook",
+    "mz:postal_locality_alt":[
+        "Fairfield",
+        "Wallingford"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688629,
         102191575,
-        404495957,
         85633793,
-        102084283
+        102084283,
+        404495957,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760431"
     },
     "wof:country":"US",
-    "wof:geomhash":"3cbdd4b8ab44b92235f4b144cf7888be",
+    "wof:geomhash":"69bc8a3327b17678a1fdc5302f6b64f7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554699621,
-    "wof:lastmodified":1480916208,
+    "wof:lastmodified":1611184604,
     "wof:name":"06482",
     "wof:parent_id":404495957,
     "wof:placetype":"postalcode",

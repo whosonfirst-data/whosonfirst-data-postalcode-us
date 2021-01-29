@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.080127,
-    "geom:area_square_m":782080916.582685,
+    "geom:area_square_m":782080916.582365,
     "geom:bbox":"-95.922282,37.732727,-95.524982,38.040048",
     "geom:latitude":37.874942,
     "geom:longitude":-95.736692,
@@ -14,21 +14,23 @@
     "lbl:latitude":37.874967,
     "lbl:longitude":-95.737007,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Yates Center",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404504869,
         85633793,
+        102082147,
+        404504869,
         85945987,
-        102082147
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786995"
     },
     "wof:country":"US",
-    "wof:geomhash":"9fe2f6b5e03f79234a7045a89ea4c61d",
+    "wof:geomhash":"57198fbc8e6133394ede1c8b9e642fd0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +43,7 @@
         }
     ],
     "wof:id":554738387,
-    "wof:lastmodified":1480835008,
+    "wof:lastmodified":1611183126,
     "wof:name":"66783",
     "wof:parent_id":85945987,
     "wof:placetype":"postalcode",

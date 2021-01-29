@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.105475,
-    "geom:area_square_m":999854293.115008,
+    "geom:area_square_m":999854293.11561,
     "geom:bbox":"-106.351354,39.684122,-105.880481,40.290593",
     "geom:latitude":39.947651,
     "geom:longitude":-106.118918,
@@ -14,19 +14,25 @@
     "lbl:latitude":39.951923,
     "lbl:longitude":-106.122681,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Parshall",
+    "mz:postal_locality_alt":[
+        "Frisco",
+        "Silverthorne"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688603,
-        102085239
+        102085239,
+        85688603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12793072"
     },
     "wof:country":"US",
-    "wof:geomhash":"97a7e4a524324e70e8421fe1f63e5099",
+    "wof:geomhash":"4b000bcc32553e31ccdf1b8421118d88",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554748149,
-    "wof:lastmodified":1480807886,
+    "wof:lastmodified":1611183870,
     "wof:name":"80468",
     "wof:parent_id":102085239,
     "wof:placetype":"postalcode",

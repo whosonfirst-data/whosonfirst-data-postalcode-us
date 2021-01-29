@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00197,
-    "geom:area_square_m":18245033.700297,
+    "geom:area_square_m":18245033.700312,
     "geom:bbox":"-81.969465,41.476866,-81.87356,41.510786",
     "geom:latitude":41.488557,
     "geom:longitude":-81.928533,
@@ -14,21 +14,26 @@
     "lbl:latitude":41.487794,
     "lbl:longitude":-81.931435,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bay Village",
+    "mz:postal_locality_alt":[
+        "Cleveland"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404525037,
         85633793,
+        102084837,
+        404525037,
         101712513,
-        102084837
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776666"
     },
     "wof:country":"US",
-    "wof:geomhash":"daef6b70fe8c076fe59c22bd04006ea1",
+    "wof:geomhash":"8b0fa16cfa6cb08a311dfd670b0329ce",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554782407,
-    "wof:lastmodified":1480835324,
+    "wof:lastmodified":1611183611,
     "wof:name":"44140",
     "wof:parent_id":101712513,
     "wof:placetype":"postalcode",

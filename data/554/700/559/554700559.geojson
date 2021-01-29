@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007537,
-    "geom:area_square_m":71227699.547584,
+    "geom:area_square_m":71227699.547537,
     "geom:bbox":"-74.620304,40.07913,-74.471477,40.214574",
     "geom:latitude":40.155618,
     "geom:longitude":-74.554471,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.163841,
     "lbl:longitude":-74.566056,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Allentown",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478401,
         85633793,
-        102085049
+        102085049,
+        404478401,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761158"
     },
     "wof:country":"US",
-    "wof:geomhash":"5a2b7ca37b38737175d144905b73a234",
+    "wof:geomhash":"aaf79b381f98161ed8e75c51e8720dd2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554700559,
-    "wof:lastmodified":1480831097,
+    "wof:lastmodified":1611183176,
     "wof:name":"08501",
     "wof:parent_id":404478401,
     "wof:placetype":"postalcode",

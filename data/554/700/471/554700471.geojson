@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015455,
-    "geom:area_square_m":147162407.32138,
+    "geom:area_square_m":147162407.321396,
     "geom:bbox":"-75.426158,39.557669,-75.230552,39.713587",
     "geom:latitude":39.638935,
     "geom:longitude":-75.329401,
@@ -14,21 +14,27 @@
     "lbl:latitude":39.639535,
     "lbl:longitude":-75.329849,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Woodstown",
+    "mz:postal_locality_alt":[
+        "Pilesgrove",
+        "Penns Grove"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477907,
         85633793,
+        102083879,
+        404477907,
         85975347,
-        102083879
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761066"
     },
     "wof:country":"US",
-    "wof:geomhash":"fba97fb2ba6d2d33b58b6563c0cbc2ad",
+    "wof:geomhash":"6f243371a9b5b881e4ec2c94c898598e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554700471,
-    "wof:lastmodified":1480835588,
+    "wof:lastmodified":1611183179,
     "wof:name":"08098",
     "wof:parent_id":85975347,
     "wof:placetype":"postalcode",

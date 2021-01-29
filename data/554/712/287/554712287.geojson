@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026464,
-    "geom:area_square_m":270397232.111557,
+    "geom:area_square_m":270397232.111506,
     "geom:bbox":"-80.02268,34.188233,-79.702417,34.360336",
     "geom:latitude":34.278884,
     "geom:longitude":-79.872422,
@@ -13,19 +13,25 @@
     "lbl:latitude":34.280331,
     "lbl:longitude":-79.869336,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Darlington",
+    "mz:postal_locality_alt":[
+        "Florence",
+        "Myrtle Beach"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688683,
-        102085743
+        102085743,
+        85688683
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770241"
     },
     "wof:country":"US",
-    "wof:geomhash":"4f5a12b6ff37555d9351e30edf1b7290",
+    "wof:geomhash":"4e025b3beb852844e394247252bc8a1d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +42,7 @@
         }
     ],
     "wof:id":554712287,
-    "wof:lastmodified":1480811574,
+    "wof:lastmodified":1611183698,
     "wof:name":"29532",
     "wof:parent_id":102085743,
     "wof:placetype":"postalcode",

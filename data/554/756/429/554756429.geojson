@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004451,
-    "geom:area_square_m":38080853.046779,
+    "geom:area_square_m":38080853.046742,
     "geom:bbox":"-119.259221,46.194179,-119.093314,46.241229",
     "geom:latitude":46.213828,
     "geom:longitude":-119.178969,
@@ -13,20 +13,25 @@
     "lbl:latitude":46.21405,
     "lbl:longitude":-119.175728,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Kennewick",
+    "mz:postal_locality_alt":[
+        "Camano Island"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688623,
         102191575,
         85633793,
+        102085367,
         101729987,
-        102085367
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12799568"
     },
     "wof:country":"US",
-    "wof:geomhash":"98db1197ebcc5f7ca3fd3df80b17a5a2",
+    "wof:geomhash":"eecbe79ceec01439cc4a269bd1d3732a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554756429,
-    "wof:lastmodified":1480811100,
+    "wof:lastmodified":1611184300,
     "wof:name":"99336",
     "wof:parent_id":101729987,
     "wof:placetype":"postalcode",

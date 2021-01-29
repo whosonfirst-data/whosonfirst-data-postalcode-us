@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004623,
-    "geom:area_square_m":45339741.750399,
+    "geom:area_square_m":45339741.750405,
     "geom:bbox":"-77.61615,37.444344,-77.522737,37.560546",
     "geom:latitude":37.513341,
     "geom:longitude":-77.564555,
@@ -13,20 +13,25 @@
     "lbl:latitude":37.51457,
     "lbl:longitude":-77.564758,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Richmond",
+    "mz:postal_locality_alt":[
+        "Bon Air"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688747,
         102191575,
         85633793,
+        102084955,
         101729299,
-        102084955
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12767277"
     },
     "wof:country":"US",
-    "wof:geomhash":"27ffa794cc7331b6798bf6e1c7d4fd68",
+    "wof:geomhash":"a0f2b1d0c96b104b70ef490fcb362e60",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554708215,
-    "wof:lastmodified":1480812144,
+    "wof:lastmodified":1611182793,
     "wof:name":"23235",
     "wof:parent_id":101729299,
     "wof:placetype":"postalcode",

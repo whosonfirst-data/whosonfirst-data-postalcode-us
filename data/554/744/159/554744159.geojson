@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004565,
-    "geom:area_square_m":47360049.785677,
+    "geom:area_square_m":47360049.785672,
     "geom:bbox":"-97.032587,32.923703,-96.932727,32.997422",
     "geom:latitude":32.96328,
     "geom:longitude":-96.985509,
@@ -13,20 +13,25 @@
     "lbl:latitude":32.963417,
     "lbl:longitude":-96.984664,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Coppell",
+    "mz:postal_locality_alt":[
+        "Lewisville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102080647,
         101724393,
-        102080647
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12790309"
     },
     "wof:country":"US",
-    "wof:geomhash":"efe69ce04463ef6b0166173729bea8a1",
+    "wof:geomhash":"02df306b28e66f3fe1acd31f4c38915b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554744159,
-    "wof:lastmodified":1480904887,
+    "wof:lastmodified":1611184709,
     "wof:name":"75019",
     "wof:parent_id":101724393,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002323,
-    "geom:area_square_m":21717919.282807,
+    "geom:area_square_m":21717919.282806,
     "geom:bbox":"-73.288521,40.865218,-73.208725,40.92115",
     "geom:latitude":40.889448,
     "geom:longitude":-73.247218,
@@ -14,21 +14,26 @@
     "lbl:latitude":40.885566,
     "lbl:longitude":-73.249901,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Kings Park",
+    "mz:postal_locality_alt":[
+        "East Northport"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522669,
         85633793,
+        102082395,
+        404522669,
         85979669,
-        102082395
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761941"
     },
     "wof:country":"US",
-    "wof:geomhash":"82efbd50976075c6f611eb51c6ec07e5",
+    "wof:geomhash":"284186aec670f289020b5d5a4db74f25",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554779905,
-    "wof:lastmodified":1480794861,
+    "wof:lastmodified":1611183979,
     "wof:name":"11754",
     "wof:parent_id":85979669,
     "wof:placetype":"postalcode",

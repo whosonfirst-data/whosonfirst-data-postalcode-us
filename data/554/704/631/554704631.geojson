@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008521,
-    "geom:area_square_m":80342442.064451,
+    "geom:area_square_m":80342442.064411,
     "geom:bbox":"-78.442462,40.231715,-78.344558,40.394532",
     "geom:latitude":40.312456,
     "geom:longitude":-78.391476,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.312437,
     "lbl:longitude":-78.391483,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Roaring Spring",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404484727,
         85633793,
-        102081325
+        102081325,
+        404484727,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764408"
     },
     "wof:country":"US",
-    "wof:geomhash":"ed89eb345e0b501f3b24f7dcb210eba1",
+    "wof:geomhash":"844e4c3687f85a2d995cb746a2e18213",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554704631,
-    "wof:lastmodified":1480903175,
+    "wof:lastmodified":1611184519,
     "wof:name":"16673",
     "wof:parent_id":404484727,
     "wof:placetype":"postalcode",

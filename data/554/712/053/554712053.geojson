@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003121,
-    "geom:area_square_m":31991059.251491,
+    "geom:area_square_m":31991059.251479,
     "geom:bbox":"-81.149512,33.956076,-81.048109,34.025681",
     "geom:latitude":33.996515,
     "geom:longitude":-81.097207,
@@ -13,20 +13,26 @@
     "lbl:latitude":33.997503,
     "lbl:longitude":-81.097405,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"West Columbia",
+    "mz:postal_locality_alt":[
+        "Lexington",
+        "Cayce"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688683,
         102191575,
         85633793,
+        102085573,
         101720985,
-        102085573
+        85688683
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770053"
     },
     "wof:country":"US",
-    "wof:geomhash":"5780cdeb6596b726f619f68e2d0edf0b",
+    "wof:geomhash":"ca4c1c48b043a2bd0841c8e24364cbc1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554712053,
-    "wof:lastmodified":1480814074,
+    "wof:lastmodified":1611183704,
     "wof:name":"29169",
     "wof:parent_id":101720985,
     "wof:placetype":"postalcode",

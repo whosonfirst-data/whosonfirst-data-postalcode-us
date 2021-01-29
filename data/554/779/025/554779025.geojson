@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00334,
-    "geom:area_square_m":31035744.867225,
+    "geom:area_square_m":31035744.867243,
     "geom:bbox":"-72.994637,41.231658,-72.917032,41.313297",
     "geom:latitude":41.27242,
     "geom:longitude":-72.964909,
@@ -14,21 +14,27 @@
     "lbl:latitude":41.272573,
     "lbl:longitude":-72.964967,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"West Haven",
+    "mz:postal_locality_alt":[
+        "New Haven",
+        "Orange"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688629,
         102191575,
-        404495805,
         85633793,
+        102086923,
+        404495805,
         85930885,
-        102086923
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760458"
     },
     "wof:country":"US",
-    "wof:geomhash":"4498f7d016ead81bfe52c8a964202ce3",
+    "wof:geomhash":"41fd6f10dafcb14ac251cea1075ddcf7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554779025,
-    "wof:lastmodified":1480916211,
+    "wof:lastmodified":1611183968,
     "wof:name":"06516",
     "wof:parent_id":85930885,
     "wof:placetype":"postalcode",

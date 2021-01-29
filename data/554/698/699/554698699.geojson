@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013905,
-    "geom:area_square_m":121726278.848879,
+    "geom:area_square_m":121726278.848875,
     "geom:bbox":"-69.475444,44.87885,-69.305521,44.986901",
     "geom:latitude":44.931886,
     "geom:longitude":-69.392199,
@@ -14,20 +14,26 @@
     "lbl:latitude":44.92968,
     "lbl:longitude":-69.391278,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"St Albans",
+    "mz:postal_locality_alt":[
+        "Saint Albans",
+        "Corinna"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404474803,
         85633793,
-        102087435
+        102087435,
+        404474803,
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759840"
     },
     "wof:country":"US",
-    "wof:geomhash":"c4fff6874b6f6f0d212f6d986bba7696",
+    "wof:geomhash":"36e9ed1fe2860ad3959659cd584cbffe",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554698699,
-    "wof:lastmodified":1480906067,
+    "wof:lastmodified":1611184699,
     "wof:name":"04971",
     "wof:parent_id":404474803,
     "wof:placetype":"postalcode",

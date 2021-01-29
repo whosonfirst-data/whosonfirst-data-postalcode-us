@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000479,
-    "geom:area_square_m":4489031.456827,
+    "geom:area_square_m":4489031.456831,
     "geom:bbox":"-73.837917,40.738603,-73.807506,40.763153",
     "geom:latitude":40.751463,
     "geom:longitude":-73.820996,
@@ -14,21 +14,27 @@
     "lbl:latitude":40.751463,
     "lbl:longitude":-73.820996,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Flushing",
+    "mz:postal_locality_alt":[
+        "Queens",
+        "New York"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404521211,
         85633793,
+        102082361,
+        404521211,
         85977539,
-        102082361
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761772"
     },
     "wof:country":"US",
-    "wof:geomhash":"59225adbe97795d2ad6c94d4563b792b",
+    "wof:geomhash":"0e16cea96e15c5bc5104204a0dee42b3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554779619,
-    "wof:lastmodified":1480790267,
+    "wof:lastmodified":1611183967,
     "wof:name":"11355",
     "wof:parent_id":85977539,
     "wof:placetype":"postalcode",

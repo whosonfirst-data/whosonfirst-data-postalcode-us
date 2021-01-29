@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008942,
-    "geom:area_square_m":84538899.411407,
+    "geom:area_square_m":84538899.411394,
     "geom:bbox":"-91.123254,40.077589,-90.930106,40.180313",
     "geom:latitude":40.131616,
     "geom:longitude":-91.041119,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.128504,
     "lbl:longitude":-91.0381,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Golden",
+    "mz:postal_locality_alt":[
+        "Barry"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404496149,
         85633793,
-        102086213
+        102086213,
+        404496149,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785088"
     },
     "wof:country":"US",
-    "wof:geomhash":"2300347bed1692aff02a0ae970b43291",
+    "wof:geomhash":"516a5eafa7f051ae050d27ae4f57df8a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554734851,
-    "wof:lastmodified":1480911664,
+    "wof:lastmodified":1611184186,
     "wof:name":"62339",
     "wof:parent_id":404496149,
     "wof:placetype":"postalcode",

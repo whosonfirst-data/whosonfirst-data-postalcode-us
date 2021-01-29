@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.088194,
-    "geom:area_square_m":763225418.555994,
+    "geom:area_square_m":763225418.556378,
     "geom:bbox":"-84.725541,45.413601,-84.204029,45.781981",
     "geom:latitude":45.583953,
     "geom:longitude":-84.460939,
@@ -14,20 +14,25 @@
     "lbl:latitude":45.582257,
     "lbl:longitude":-84.460476,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cheboygan",
+    "mz:postal_locality_alt":[
+        "Topinabee"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404507023,
         85633793,
-        102083095
+        102083095,
+        404507023,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779505"
     },
     "wof:country":"US",
-    "wof:geomhash":"32eaaefd6f3bf2b4b9967bf6c51638a4",
+    "wof:geomhash":"61f7ab5f35a9090012b8e9fb6cb04a59",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554725253,
-    "wof:lastmodified":1480837929,
+    "wof:lastmodified":1611183282,
     "wof:name":"49721",
     "wof:parent_id":404507023,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012819,
-    "geom:area_square_m":115510766.754279,
+    "geom:area_square_m":115510766.75429,
     "geom:bbox":"-77.536919,43.16619,-77.365472,43.276896",
     "geom:latitude":43.219852,
     "geom:longitude":-77.445857,
@@ -14,20 +14,26 @@
     "lbl:latitude":43.217283,
     "lbl:longitude":-77.444534,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Webster",
+    "mz:postal_locality_alt":[
+        "Penfield",
+        "Rochester"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522657,
         85633793,
-        102081815
+        102081815,
+        404522657,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763320"
     },
     "wof:country":"US",
-    "wof:geomhash":"0f013c89cb26d32ed4b205decfcc8d3c",
+    "wof:geomhash":"167a3445e066fab295f6aea791c51460",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554780287,
-    "wof:lastmodified":1480829696,
+    "wof:lastmodified":1611185164,
     "wof:name":"14580",
     "wof:parent_id":404522657,
     "wof:placetype":"postalcode",

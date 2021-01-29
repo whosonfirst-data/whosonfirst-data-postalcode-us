@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0018,
-    "geom:area_square_m":19199385.228618,
+    "geom:area_square_m":19199385.228612,
     "geom:bbox":"-86.397503,30.367466,-86.304167,30.415242",
     "geom:latitude":30.384977,
     "geom:longitude":-86.347412,
@@ -14,20 +14,26 @@
     "lbl:latitude":30.380705,
     "lbl:longitude":-86.348138,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Destin",
+    "mz:postal_locality_alt":[
+        "Miramar Beach",
+        "Sandestin"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688651,
         102191575,
         85633793,
+        102085813,
         85935853,
-        102085813
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"23424601"
     },
     "wof:country":"US",
-    "wof:geomhash":"edc0cbddb4d19fc749515a799ac0da15",
+    "wof:geomhash":"879a643e16a5d04f63c0be17ef843b83",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554785405,
-    "wof:lastmodified":1480815715,
+    "wof:lastmodified":1611183511,
     "wof:name":"32550",
     "wof:parent_id":85935853,
     "wof:placetype":"postalcode",

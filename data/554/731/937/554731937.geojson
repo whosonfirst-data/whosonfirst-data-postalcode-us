@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039217,
-    "geom:area_square_m":322529430.590893,
+    "geom:area_square_m":322529430.590959,
     "geom:bbox":"-99.718363,48.122155,-99.492919,48.487197",
     "geom:latitude":48.308994,
     "geom:longitude":-99.596549,
@@ -14,20 +14,22 @@
     "lbl:latitude":48.303584,
     "lbl:longitude":-99.598866,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"York",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688525,
         102191575,
-        404480145,
         85633793,
-        102082071
+        102082071,
+        404480145,
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12783298"
     },
     "wof:country":"US",
-    "wof:geomhash":"0a89ef474e88d0d376f7040dedb30bbe",
+    "wof:geomhash":"21a593e69daf9b9867e60f857e305448",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554731937,
-    "wof:lastmodified":1480795678,
+    "wof:lastmodified":1611183058,
     "wof:name":"58386",
     "wof:parent_id":404480145,
     "wof:placetype":"postalcode",

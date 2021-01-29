@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001705,
-    "geom:area_square_m":15363752.723225,
+    "geom:area_square_m":15363752.72322,
     "geom:bbox":"-77.733352,43.204795,-77.628641,43.252962",
     "geom:latitude":43.234622,
     "geom:longitude":-77.657665,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.234622,
     "lbl:longitude":-77.657663,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Rochester",
+    "mz:postal_locality_alt":[
+        "Greece"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522633,
         85633793,
-        102081815
+        102081815,
+        404522633,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763343"
     },
     "wof:country":"US",
-    "wof:geomhash":"b4aad40fff32d6ac25cec8b8029d9189",
+    "wof:geomhash":"878251e60c9144f0799878727e15a49b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554703043,
-    "wof:lastmodified":1480829698,
+    "wof:lastmodified":1611184474,
     "wof:name":"14616",
     "wof:parent_id":404522633,
     "wof:placetype":"postalcode",

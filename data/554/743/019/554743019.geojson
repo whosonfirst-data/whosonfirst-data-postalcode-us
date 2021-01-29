@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003502,
-    "geom:area_square_m":35217443.697926,
+    "geom:area_square_m":35217443.697976,
     "geom:bbox":"-97.611492,35.54512,-97.531507,35.609167",
     "geom:latitude":35.580423,
     "geom:longitude":-97.572234,
@@ -13,20 +13,25 @@
     "lbl:latitude":35.581316,
     "lbl:longitude":-97.573674,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Oklahoma City",
+    "mz:postal_locality_alt":[
+        "Nichols Hills"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688585,
         102191575,
         85633793,
+        102082577,
         101714461,
-        102082577
+        85688585
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12789636"
     },
     "wof:country":"US",
-    "wof:geomhash":"5793d7eedc823e24bcebbc5ca593f391",
+    "wof:geomhash":"cceaaccdd0da3a4cd30445c983a1f7e2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554743019,
-    "wof:lastmodified":1480791343,
+    "wof:lastmodified":1611184792,
     "wof:name":"73120",
     "wof:parent_id":101714461,
     "wof:placetype":"postalcode",

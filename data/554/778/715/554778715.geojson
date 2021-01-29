@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010487,
-    "geom:area_square_m":93687636.930863,
+    "geom:area_square_m":93687636.930815,
     "geom:bbox":"-70.359087,43.681123,-70.169036,43.810306",
     "geom:latitude":43.742511,
     "geom:longitude":-70.271563,
@@ -14,20 +14,22 @@
     "lbl:latitude":43.740472,
     "lbl:longitude":-70.277173,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Falmouth",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404474903,
         85633793,
-        102087463
+        102087463,
+        404474903,
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759448"
     },
     "wof:country":"US",
-    "wof:geomhash":"3629eb69366191a9fb1a3747ed4c0059",
+    "wof:geomhash":"cb783177bc87095b37288227ff193f2b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554778715,
-    "wof:lastmodified":1480785909,
+    "wof:lastmodified":1611183434,
     "wof:name":"04105",
     "wof:parent_id":404474903,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04476,
-    "geom:area_square_m":471146609.313937,
+    "geom:area_square_m":471146609.314297,
     "geom:bbox":"-89.755799,31.535945,-89.400269,31.771587",
     "geom:latitude":31.65048,
     "geom:longitude":-89.573394,
@@ -14,20 +14,25 @@
     "lbl:latitude":31.651053,
     "lbl:longitude":-89.57284,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Collins",
+    "mz:postal_locality_alt":[
+        "Hattiesburg"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688579,
         102191575,
         85633793,
+        102083789,
         85970131,
-        102083789
+        85688579
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12774935"
     },
     "wof:country":"US",
-    "wof:geomhash":"42cb0ce9977352b961d39d5c8b09dd56",
+    "wof:geomhash":"ad3bbf5e9d38b495081221f2fcfca76b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554718369,
-    "wof:lastmodified":1480835639,
+    "wof:lastmodified":1611185571,
     "wof:name":"39428",
     "wof:parent_id":85970131,
     "wof:placetype":"postalcode",

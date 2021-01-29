@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.096281,
-    "geom:area_square_m":820984684.864445,
+    "geom:area_square_m":820984684.864408,
     "geom:bbox":"-101.943153,46.147117,-101.633329,46.659942",
     "geom:latitude":46.401905,
     "geom:longitude":-101.796743,
@@ -14,20 +14,22 @@
     "lbl:latitude":46.405842,
     "lbl:longitude":-101.789702,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Elgin",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688525,
         102191575,
-        404480641,
         85633793,
-        102081497
+        102081497,
+        404480641,
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12783377"
     },
     "wof:country":"US",
-    "wof:geomhash":"77a163eb68e997ff82c7f081ba4b5ad7",
+    "wof:geomhash":"f15a2265dfb5a6e23e697fd5154d3ba3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554732099,
-    "wof:lastmodified":1480816757,
+    "wof:lastmodified":1611184376,
     "wof:name":"58533",
     "wof:parent_id":404480641,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006805,
-    "geom:area_square_m":68540137.100608,
+    "geom:area_square_m":68540137.100612,
     "geom:bbox":"-89.876819,35.397468,-89.754607,35.5153",
     "geom:latitude":35.458951,
     "geom:longitude":-89.819698,
@@ -14,20 +14,26 @@
     "lbl:latitude":35.458137,
     "lbl:longitude":-89.816306,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Munford",
+    "mz:postal_locality_alt":[
+        "Atoka",
+        "Brighton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688701,
         102191575,
         85633793,
+        102086277,
         101723135,
-        102086277
+        85688701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12774268"
     },
     "wof:country":"US",
-    "wof:geomhash":"7506492fe4e37e6a583e1353dd56935e",
+    "wof:geomhash":"fa91671c62f31fda68af651c5d411797",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554717275,
-    "wof:lastmodified":1480912689,
+    "wof:lastmodified":1611184997,
     "wof:name":"38058",
     "wof:parent_id":101723135,
     "wof:placetype":"postalcode",

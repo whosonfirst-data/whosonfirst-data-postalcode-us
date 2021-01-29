@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002749,
-    "geom:area_square_m":26907400.316947,
+    "geom:area_square_m":26907400.316992,
     "geom:bbox":"-122.471864,37.634258,-122.374315,37.68297",
     "geom:latitude":37.655576,
     "geom:longitude":-122.422176,
@@ -13,20 +13,30 @@
     "lbl:latitude":37.65549,
     "lbl:longitude":-122.422075,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"South San Francisco",
+    "mz:postal_locality_alt":[
+        "S San Francisco",
+        "San Francisco",
+        "Redwood City",
+        "San Bruno",
+        "Moss Beach",
+        "South San Francisco "
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102085387,
         85922427,
-        102085387
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12797145"
     },
     "wof:country":"US",
-    "wof:geomhash":"2ef21ea3e7e0d7d9787f0d2edab19b88",
+    "wof:geomhash":"0820ee0d97810687cdf2d5359f90f671",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +48,7 @@
         }
     ],
     "wof:id":554780793,
-    "wof:lastmodified":1480806940,
+    "wof:lastmodified":1611185178,
     "wof:name":"94080",
     "wof:parent_id":85922427,
     "wof:placetype":"postalcode",

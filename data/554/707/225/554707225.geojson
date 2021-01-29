@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015632,
-    "geom:area_square_m":149173097.200624,
+    "geom:area_square_m":149173097.200525,
     "geom:bbox":"-76.895596,39.396529,-76.701337,39.569626",
     "geom:latitude":39.489042,
     "geom:longitude":-76.808485,
@@ -14,19 +14,24 @@
     "lbl:latitude":39.483784,
     "lbl:longitude":-76.794208,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Reisterstown",
+    "mz:postal_locality_alt":[
+        "Glyndon"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688501,
-        102082193
+        102082193,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766477"
     },
     "wof:country":"US",
-    "wof:geomhash":"a7fba3a10b452534ca5197ec700a0d52",
+    "wof:geomhash":"a32a1e9fb5dc246fc6c321ace88fc21d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554707225,
-    "wof:lastmodified":1480791342,
+    "wof:lastmodified":1611183161,
     "wof:name":"21136",
     "wof:parent_id":102082193,
     "wof:placetype":"postalcode",

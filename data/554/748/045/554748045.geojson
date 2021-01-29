@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003006,
-    "geom:area_square_m":28601700.912681,
+    "geom:area_square_m":28601700.912699,
     "geom:bbox":"-105.193665,39.656469,-105.118953,39.725286",
     "geom:latitude":39.689922,
     "geom:longitude":-105.156722,
@@ -13,20 +13,25 @@
     "lbl:latitude":39.69499,
     "lbl:longitude":-105.173144,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Denver",
+    "mz:postal_locality_alt":[
+        "Lakewood"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688603,
         102191575,
         85633793,
+        102084113,
         85929751,
-        102084113
+        85688603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12792967"
     },
     "wof:country":"US",
-    "wof:geomhash":"e02956ff3e63077b244ed23e6a81f807",
+    "wof:geomhash":"17aa8f151396512a0df4d6600979351a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554748045,
-    "wof:lastmodified":1480801044,
+    "wof:lastmodified":1611183852,
     "wof:name":"80228",
     "wof:parent_id":85929751,
     "wof:placetype":"postalcode",

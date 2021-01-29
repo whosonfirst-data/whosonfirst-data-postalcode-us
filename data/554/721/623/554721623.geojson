@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005452,
-    "geom:area_square_m":52027338.229825,
+    "geom:area_square_m":52027338.22983,
     "geom:bbox":"-84.550366,39.424957,-84.424977,39.542098",
     "geom:latitude":39.487836,
     "geom:longitude":-84.478698,
@@ -14,20 +14,27 @@
     "lbl:latitude":39.494819,
     "lbl:longitude":-84.480997,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Trenton",
+    "mz:postal_locality_alt":[
+        "Hamilton",
+        "Fairfield",
+        "Middletown"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404523617,
         85633793,
-        102084743
+        102084743,
+        404523617,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777063"
     },
     "wof:country":"US",
-    "wof:geomhash":"340b0390bca81a43ce0eda92bfc38d5a",
+    "wof:geomhash":"53fd7d2bb54a4937220dc29427ebca78",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554721623,
-    "wof:lastmodified":1480799315,
+    "wof:lastmodified":1611184970,
     "wof:name":"45067",
     "wof:parent_id":404523617,
     "wof:placetype":"postalcode",

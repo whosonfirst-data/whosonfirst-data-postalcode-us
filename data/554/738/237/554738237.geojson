@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012379,
-    "geom:area_square_m":117951947.426736,
+    "geom:area_square_m":117951947.426704,
     "geom:bbox":"-95.71412,39.506152,-95.56415,39.653084",
     "geom:latitude":39.59328,
     "geom:longitude":-95.625403,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.587681,
     "lbl:longitude":-95.629828,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Whiting",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404504177,
         85633793,
-        102082125
+        102082125,
+        404504177,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786904"
     },
     "wof:country":"US",
-    "wof:geomhash":"7ef90d8863a0bd5857574cc9df0e44fd",
+    "wof:geomhash":"1b2f9b33522f4933481caf52cba87d10",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554738237,
-    "wof:lastmodified":1480795650,
+    "wof:lastmodified":1611183122,
     "wof:name":"66552",
     "wof:parent_id":404504177,
     "wof:placetype":"postalcode",

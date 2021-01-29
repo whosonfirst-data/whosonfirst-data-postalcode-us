@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015613,
-    "geom:area_square_m":137010071.516288,
+    "geom:area_square_m":137010071.516212,
     "geom:bbox":"-88.190534,44.732804,-87.949999,44.849879",
     "geom:latitude":44.789592,
     "geom:longitude":-88.062782,
@@ -14,20 +14,22 @@
     "lbl:latitude":44.785785,
     "lbl:longitude":-88.075081,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Abrams",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404494511,
         85633793,
-        102081293
+        102081293,
+        404494511,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781180"
     },
     "wof:country":"US",
-    "wof:geomhash":"642ced371693fe94184f21fd1782fc5d",
+    "wof:geomhash":"fc1dd1624b844d6b134f207ddf1d14f3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554783009,
-    "wof:lastmodified":1480829691,
+    "wof:lastmodified":1611183882,
     "wof:name":"54101",
     "wof:parent_id":404494511,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028773,
-    "geom:area_square_m":280493308.877122,
+    "geom:area_square_m":280493308.877212,
     "geom:bbox":"-93.072447,37.87822,-92.840146,38.08179",
     "geom:latitude":37.965832,
     "geom:longitude":-92.966458,
@@ -14,21 +14,26 @@
     "lbl:latitude":37.964471,
     "lbl:longitude":-92.962937,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Macks Creek",
+    "mz:postal_locality_alt":[
+        "Urbana"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404516531,
         85633793,
+        102087517,
+        404516531,
         85971293,
-        102087517
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786678"
     },
     "wof:country":"US",
-    "wof:geomhash":"556141d6af20b5c0f49d4ae89d91f531",
+    "wof:geomhash":"cc529ed7effc4ec15d61fdec32f04ce3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554737803,
-    "wof:lastmodified":1480911566,
+    "wof:lastmodified":1611182836,
     "wof:name":"65786",
     "wof:parent_id":85971293,
     "wof:placetype":"postalcode",

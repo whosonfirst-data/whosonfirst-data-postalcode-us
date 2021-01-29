@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.125589,
-    "geom:area_square_m":1026915871.765655,
+    "geom:area_square_m":1026915871.765392,
     "geom:bbox":"-100.625068,48.429247,-99.928196,48.791602",
     "geom:latitude":48.602852,
     "geom:longitude":-100.25675,
@@ -14,20 +14,22 @@
     "lbl:latitude":48.595867,
     "lbl:longitude":-100.26556,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Willow City",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688525,
         102191575,
-        404480271,
         85633793,
-        102082109
+        102082109,
+        404480271,
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12783296"
     },
     "wof:country":"US",
-    "wof:geomhash":"161460a43586467fce0c092eeda7c8b1",
+    "wof:geomhash":"415114cf88b616191c8afa585633b2ea",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554731933,
-    "wof:lastmodified":1480829861,
+    "wof:lastmodified":1611183077,
     "wof:name":"58384",
     "wof:parent_id":404480271,
     "wof:placetype":"postalcode",

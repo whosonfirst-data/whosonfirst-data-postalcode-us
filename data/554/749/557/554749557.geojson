@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004306,
-    "geom:area_square_m":38567016.813525,
+    "geom:area_square_m":38567016.813503,
     "geom:bbox":"-116.687121,43.560545,-116.546765,43.633986",
     "geom:latitude":43.588084,
     "geom:longitude":-116.620007,
@@ -13,20 +13,22 @@
     "lbl:latitude":43.587742,
     "lbl:longitude":-116.620351,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Nampa",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688657,
         102191575,
         85633793,
+        102085081,
         85938009,
-        102085081
+        85688657
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12793916"
     },
     "wof:country":"US",
-    "wof:geomhash":"d20926b90a637e734c129ebe57d223f5",
+    "wof:geomhash":"231c204c813791887ca4d1b3223d2c2c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +40,7 @@
         }
     ],
     "wof:id":554749557,
-    "wof:lastmodified":1480806316,
+    "wof:lastmodified":1611183539,
     "wof:name":"83651",
     "wof:parent_id":85938009,
     "wof:placetype":"postalcode",

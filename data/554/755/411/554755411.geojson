@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006491,
-    "geom:area_square_m":54038564.494653,
+    "geom:area_square_m":54038564.494683,
     "geom:bbox":"-122.164898,47.627183,-122.077888,47.733618",
     "geom:latitude":47.681302,
     "geom:longitude":-122.120331,
@@ -13,20 +13,27 @@
     "lbl:latitude":47.68099,
     "lbl:longitude":-122.120531,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Redmond",
+    "mz:postal_locality_alt":[
+        "Bonney Lake",
+        "Kirkland",
+        "Bellevue"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688623,
         102191575,
         85633793,
+        102086191,
         101730409,
-        102086191
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12798922"
     },
     "wof:country":"US",
-    "wof:geomhash":"9c4ded1c42dac34b01e32f0b460e4e81",
+    "wof:geomhash":"1f8a4db6658c01c8e6d04be597596d10",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +45,7 @@
         }
     ],
     "wof:id":554755411,
-    "wof:lastmodified":1480915583,
+    "wof:lastmodified":1611182594,
     "wof:name":"98052",
     "wof:parent_id":101730409,
     "wof:placetype":"postalcode",

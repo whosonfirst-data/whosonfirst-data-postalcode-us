@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009269,
-    "geom:area_square_m":98801084.427557,
+    "geom:area_square_m":98801084.427594,
     "geom:bbox":"-98.035531,30.370952,-97.905,30.514391",
     "geom:latitude":30.448999,
     "geom:longitude":-97.970001,
@@ -13,19 +13,25 @@
     "lbl:latitude":30.449996,
     "lbl:longitude":-97.971806,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Leander",
+    "mz:postal_locality_alt":[
+        "Lago Vista",
+        "Jonestown"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688753,
-        102081935
+        102081935,
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12792248"
     },
     "wof:country":"US",
-    "wof:geomhash":"1efb7ab192dc0938f68abaddbab8823f",
+    "wof:geomhash":"a6d43a70d4de65e177d6631475b4dfa7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +42,7 @@
         }
     ],
     "wof:id":554747017,
-    "wof:lastmodified":1480831119,
+    "wof:lastmodified":1611183476,
     "wof:name":"78645",
     "wof:parent_id":102081935,
     "wof:placetype":"postalcode",

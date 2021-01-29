@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006467,
-    "geom:area_square_m":66195288.271133,
+    "geom:area_square_m":66195288.271143,
     "geom:bbox":"-117.2375,34.084456,-117.100315,34.181906",
     "geom:latitude":34.12429,
     "geom:longitude":-117.179985,
@@ -14,20 +14,26 @@
     "lbl:latitude":34.126779,
     "lbl:longitude":-117.183104,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Highland",
+    "mz:postal_locality_alt":[
+        "Patton",
+        "San Bernardino"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102085395,
         85923915,
-        102085395
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796434"
     },
     "wof:country":"US",
-    "wof:geomhash":"09508f3e0cf7a246d09f2fcd97612f1e",
+    "wof:geomhash":"c4c0aa287c333baad4d294a23170bdca",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554752353,
-    "wof:lastmodified":1480814338,
+    "wof:lastmodified":1611182514,
     "wof:name":"92346",
     "wof:parent_id":85923915,
     "wof:placetype":"postalcode",

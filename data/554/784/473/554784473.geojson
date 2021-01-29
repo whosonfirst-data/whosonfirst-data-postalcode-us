@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002561,
-    "geom:area_square_m":26373645.211137,
+    "geom:area_square_m":26373645.211084,
     "geom:bbox":"-117.673552,33.537145,-117.616203,33.669593",
     "geom:latitude":33.606753,
     "geom:longitude":-117.643056,
@@ -13,20 +13,25 @@
     "lbl:latitude":33.606496,
     "lbl:longitude":-117.643112,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mission Viejo",
+    "mz:postal_locality_alt":[
+        "Irvine"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102080847,
         85923083,
-        102080847
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796602"
     },
     "wof:country":"US",
-    "wof:geomhash":"b821573eed717d9fe662dc83054225b2",
+    "wof:geomhash":"6b6526d8ab6dea1f6da15005d7cf7f6e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554784473,
-    "wof:lastmodified":1480906250,
+    "wof:lastmodified":1611183952,
     "wof:name":"92692",
     "wof:parent_id":85923083,
     "wof:placetype":"postalcode",

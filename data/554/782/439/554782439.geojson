@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009949,
-    "geom:area_square_m":92111408.321261,
+    "geom:area_square_m":92111408.321241,
     "geom:bbox":"-87.317153,41.470683,-87.15308,41.565736",
     "geom:latitude":41.518056,
     "geom:longitude":-87.245212,
@@ -14,21 +14,27 @@
     "lbl:latitude":41.518185,
     "lbl:longitude":-87.244907,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hobart",
+    "mz:postal_locality_alt":[
+        "Portage",
+        "Lake Station"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404501867,
         85633793,
+        102087149,
+        404501867,
         85941823,
-        102087149
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777725"
     },
     "wof:country":"US",
-    "wof:geomhash":"be1d3e69641b533c78b01b956c5ae8a0",
+    "wof:geomhash":"fab196b5f4bf0ceb3b75d5601a72ea15",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554782439,
-    "wof:lastmodified":1480788509,
+    "wof:lastmodified":1611183609,
     "wof:name":"46342",
     "wof:parent_id":85941823,
     "wof:placetype":"postalcode",

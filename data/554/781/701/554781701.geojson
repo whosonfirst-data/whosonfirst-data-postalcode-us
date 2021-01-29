@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001126,
-    "geom:area_square_m":12498465.262904,
+    "geom:area_square_m":12498465.262911,
     "geom:bbox":"-80.147564,26.15914,-80.119529,26.209003",
     "geom:latitude":26.183147,
     "geom:longitude":-80.134403,
@@ -13,20 +13,26 @@
     "lbl:latitude":26.182552,
     "lbl:longitude":-80.133727,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fort Lauderdale",
+    "mz:postal_locality_alt":[
+        "Oakland Park",
+        "Wilton Manors"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688651,
         102191575,
         85633793,
+        102084727,
         85932311,
-        102084727
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12772258"
     },
     "wof:country":"US",
-    "wof:geomhash":"12afb5adf9b98eb7186a8dd3db54fc8d",
+    "wof:geomhash":"aabd0301abafb860ecd72d82675b4f3b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554781701,
-    "wof:lastmodified":1480802318,
+    "wof:lastmodified":1611184808,
     "wof:name":"33334",
     "wof:parent_id":85932311,
     "wof:placetype":"postalcode",

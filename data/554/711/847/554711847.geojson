@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016208,
-    "geom:area_square_m":163771652.907439,
+    "geom:area_square_m":163771652.907515,
     "geom:bbox":"-83.919926,35.137537,-83.690031,35.257392",
     "geom:latitude":35.198079,
     "geom:longitude":-83.810345,
@@ -14,20 +14,26 @@
     "lbl:latitude":35.198079,
     "lbl:longitude":-83.810349,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Andrews",
+    "mz:postal_locality_alt":[
+        "Murphy",
+        "Marble"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688773,
         102191575,
         85633793,
+        102087769,
         85980173,
-        102087769
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12769947"
     },
     "wof:country":"US",
-    "wof:geomhash":"3f2bf42fe7091cbe504c50e8315e8deb",
+    "wof:geomhash":"afe905f2310224991c3b3eed46efb65a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554711847,
-    "wof:lastmodified":1480788396,
+    "wof:lastmodified":1611185333,
     "wof:name":"28901",
     "wof:parent_id":85980173,
     "wof:placetype":"postalcode",

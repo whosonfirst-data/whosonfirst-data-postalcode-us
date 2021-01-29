@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027379,
-    "geom:area_square_m":259704636.458105,
+    "geom:area_square_m":259704636.458042,
     "geom:bbox":"-92.62723,39.837288,-92.287882,39.957978",
     "geom:latitude":39.905448,
     "geom:longitude":-92.454453,
@@ -13,20 +13,22 @@
     "lbl:latitude":39.90762,
     "lbl:longitude":-92.455054,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Atlanta",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404517651,
         85633793,
-        102086189
+        102086189,
+        404517651,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785749"
     },
     "wof:country":"US",
-    "wof:geomhash":"a1fc81aff53f0e7f92701972664c8f0f",
+    "wof:geomhash":"b42b2edd5f8c5d292decf3e0c7e67eec",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +40,7 @@
         }
     ],
     "wof:id":554736031,
-    "wof:lastmodified":1480915091,
+    "wof:lastmodified":1611183029,
     "wof:name":"63530",
     "wof:parent_id":404517651,
     "wof:placetype":"postalcode",

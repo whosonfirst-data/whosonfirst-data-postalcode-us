@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028954,
-    "geom:area_square_m":269951285.229107,
+    "geom:area_square_m":269951285.228914,
     "geom:bbox":"-74.938971,40.95475,-74.686727,41.175",
     "geom:latitude":41.060163,
     "geom:longitude":-74.813322,
@@ -14,20 +14,26 @@
     "lbl:latitude":41.056547,
     "lbl:longitude":-74.819113,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Newton",
+    "mz:postal_locality_alt":[
+        "Fredon",
+        "Blairstown"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478481,
         85633793,
-        102086779
+        102086779,
+        404478481,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760923"
     },
     "wof:country":"US",
-    "wof:geomhash":"fe4a0fafda24b0ade06c3af4789b7058",
+    "wof:geomhash":"3aefc9f171e8655e9b065e471e849764",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554700239,
-    "wof:lastmodified":1480914755,
+    "wof:lastmodified":1611183203,
     "wof:name":"07860",
     "wof:parent_id":404478481,
     "wof:placetype":"postalcode",

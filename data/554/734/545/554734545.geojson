@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008834,
-    "geom:area_square_m":84811288.763873,
+    "geom:area_square_m":84811288.763838,
     "geom:bbox":"-89.4667,39.02772,-89.298895,39.116672",
     "geom:latitude":39.06886,
     "geom:longitude":-89.368961,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.065099,
     "lbl:longitude":-89.368619,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Coffeen",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404498551,
         85633793,
-        102080819
+        102080819,
+        404498551,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784919"
     },
     "wof:country":"US",
-    "wof:geomhash":"080c748d085b8569255408aa8329e33b",
+    "wof:geomhash":"674a2601d1ab3fb8e2bdf24c1dcc7252",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554734545,
-    "wof:lastmodified":1480903246,
+    "wof:lastmodified":1611184191,
     "wof:name":"62017",
     "wof:parent_id":404498551,
     "wof:placetype":"postalcode",

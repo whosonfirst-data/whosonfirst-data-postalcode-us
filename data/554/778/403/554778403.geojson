@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006615,
-    "geom:area_square_m":60723826.706053,
+    "geom:area_square_m":60723826.706085,
     "geom:bbox":"-70.847319,42.012871,-70.749716,42.117002",
     "geom:latitude":42.065427,
     "geom:longitude":-70.801383,
@@ -14,20 +14,22 @@
     "lbl:latitude":42.067804,
     "lbl:longitude":-70.805713,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pembroke",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476559,
         85633793,
-        102084367
+        102084367,
+        404476559,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758823"
     },
     "wof:country":"US",
-    "wof:geomhash":"eaf4ab43378e80e38c933f06869e5afe",
+    "wof:geomhash":"276cd60497cac3f25e8ff2d49e090e9d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554778403,
-    "wof:lastmodified":1480801204,
+    "wof:lastmodified":1611183444,
     "wof:name":"02359",
     "wof:parent_id":404476559,
     "wof:placetype":"postalcode",

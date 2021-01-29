@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003385,
-    "geom:area_square_m":31869068.050632,
+    "geom:area_square_m":31869068.050637,
     "geom:bbox":"-76.2927,40.342237,-76.227352,40.472802",
     "geom:latitude":40.405169,
     "geom:longitude":-76.26225,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.43576,
     "lbl:longitude":-76.280811,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Richland",
+    "mz:postal_locality_alt":[
+        "Annville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404484599,
         85633793,
-        102080991
+        102080991,
+        404484599,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764629"
     },
     "wof:country":"US",
-    "wof:geomhash":"ffa393913130a5fdce6d6569a8b7a5e1",
+    "wof:geomhash":"3ffc65a9f249b9415d93584c91a642ac",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554705007,
-    "wof:lastmodified":1480903402,
+    "wof:lastmodified":1611184101,
     "wof:name":"17087",
     "wof:parent_id":404484599,
     "wof:placetype":"postalcode",

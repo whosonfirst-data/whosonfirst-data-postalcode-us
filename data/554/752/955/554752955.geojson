@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005984,
-    "geom:area_square_m":59382745.666844,
+    "geom:area_square_m":59382745.666906,
     "geom:bbox":"-119.574844,36.575563,-119.464962,36.663164",
     "geom:latitude":36.620637,
     "geom:longitude":-119.520729,
@@ -14,19 +14,24 @@
     "lbl:latitude":36.620634,
     "lbl:longitude":-119.520731,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Parlier",
+    "mz:postal_locality_alt":[
+        "Sanger"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688637,
-        102084347
+        102084347,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796989"
     },
     "wof:country":"US",
-    "wof:geomhash":"547b22a313cd17366236d25e4e224b4e",
+    "wof:geomhash":"db6315b4c0133dd37dd5098d885c8b34",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554752955,
-    "wof:lastmodified":1480802376,
+    "wof:lastmodified":1611182517,
     "wof:name":"93648",
     "wof:parent_id":102084347,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.051048,
-    "geom:area_square_m":499322876.058539,
+    "geom:area_square_m":499322876.058359,
     "geom:bbox":"-85.401784,37.612067,-85.026526,37.84412",
     "geom:latitude":37.716027,
     "geom:longitude":-85.216018,
@@ -14,19 +14,24 @@
     "lbl:latitude":37.723856,
     "lbl:longitude":-85.207678,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Springfield",
+    "mz:postal_locality_alt":[
+        "Lebanon"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688641,
-        102084609
+        102084609,
+        85688641
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12775121"
     },
     "wof:country":"US",
-    "wof:geomhash":"05095395a631250e4d8305b317efd4d3",
+    "wof:geomhash":"6083355788f6426268e97b516ba8c432",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554718673,
-    "wof:lastmodified":1480809664,
+    "wof:lastmodified":1611185548,
     "wof:name":"40069",
     "wof:parent_id":102084609,
     "wof:placetype":"postalcode",

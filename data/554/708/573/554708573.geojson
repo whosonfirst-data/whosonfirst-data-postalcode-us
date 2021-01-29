@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023358,
-    "geom:area_square_m":230275531.525867,
+    "geom:area_square_m":230275531.525853,
     "geom:bbox":"-80.542022,37.036021,-80.295652,37.214169",
     "geom:latitude":37.128512,
     "geom:longitude":-80.422088,
@@ -13,20 +13,25 @@
     "lbl:latitude":37.132343,
     "lbl:longitude":-80.424778,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Christiansburg",
+    "mz:postal_locality_alt":[
+        "Blacksburg"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688747,
         102191575,
         85633793,
+        102087271,
         101728703,
-        102087271
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12767636"
     },
     "wof:country":"US",
-    "wof:geomhash":"974585df6c25aa892352e90d66e22842",
+    "wof:geomhash":"795a56cab3dce6fc7c85f2264453d3d1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554708573,
-    "wof:lastmodified":1480833747,
+    "wof:lastmodified":1611182784,
     "wof:name":"24073",
     "wof:parent_id":101728703,
     "wof:placetype":"postalcode",

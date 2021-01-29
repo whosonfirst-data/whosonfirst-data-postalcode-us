@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.061525,
-    "geom:area_square_m":642300693.411951,
+    "geom:area_square_m":642300693.412071,
     "geom:bbox":"-82.277862,32.268783,-81.918652,32.560063",
     "geom:latitude":32.405693,
     "geom:longitude":-82.076479,
@@ -14,20 +14,26 @@
     "lbl:latitude":32.407098,
     "lbl:longitude":-82.078788,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Metter",
+    "mz:postal_locality_alt":[
+        "Millen",
+        "Claxton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688535,
         102191575,
         85633793,
+        102083605,
         85936533,
-        102083605
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770823"
     },
     "wof:country":"US",
-    "wof:geomhash":"e711b06319eca6463d05e98a085931bb",
+    "wof:geomhash":"78392d0c5161d104e1d8c986a1532ae9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554713147,
-    "wof:lastmodified":1480838447,
+    "wof:lastmodified":1611183340,
     "wof:name":"30439",
     "wof:parent_id":85936533,
     "wof:placetype":"postalcode",

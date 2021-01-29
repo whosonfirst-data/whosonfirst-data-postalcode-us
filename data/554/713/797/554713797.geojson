@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016852,
-    "geom:area_square_m":176725885.354066,
+    "geom:area_square_m":176725885.354133,
     "geom:bbox":"-81.361577,31.893957,-81.094506,32.094052",
     "geom:latitude":31.995725,
     "geom:longitude":-81.235728,
@@ -13,20 +13,25 @@
     "lbl:latitude":31.997154,
     "lbl:longitude":-81.230649,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Savannah",
+    "mz:postal_locality_alt":[
+        "Pooler"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688535,
         102191575,
         85633793,
+        102082337,
         85937321,
-        102082337
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12771225"
     },
     "wof:country":"US",
-    "wof:geomhash":"f5531cee20dba3849861e2125b467bc7",
+    "wof:geomhash":"ac181e8583d0d85c311cd7e6cda9cb40",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554713797,
-    "wof:lastmodified":1480832833,
+    "wof:lastmodified":1611183291,
     "wof:name":"31419",
     "wof:parent_id":85937321,
     "wof:placetype":"postalcode",

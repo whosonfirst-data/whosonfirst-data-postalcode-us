@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007868,
-    "geom:area_square_m":81523251.215038,
+    "geom:area_square_m":81523251.215029,
     "geom:bbox":"-96.971576,33.024537,-96.842367,33.120913",
     "geom:latitude":33.073973,
     "geom:longitude":-96.914836,
@@ -14,20 +14,26 @@
     "lbl:latitude":33.070183,
     "lbl:longitude":-96.917762,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lewisville",
+    "mz:postal_locality_alt":[
+        "The Colony",
+        "Carrollton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102087371,
         101724413,
-        102087371
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12790342"
     },
     "wof:country":"US",
-    "wof:geomhash":"553ae3a25d4f095ae1deec08822ffb6b",
+    "wof:geomhash":"38378b86cc2f9cd8932f5cafc283e688",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554744211,
-    "wof:lastmodified":1480911655,
+    "wof:lastmodified":1611184713,
     "wof:name":"75056",
     "wof:parent_id":101724413,
     "wof:placetype":"postalcode",

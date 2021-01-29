@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02394,
-    "geom:area_square_m":225840178.288875,
+    "geom:area_square_m":225840178.288837,
     "geom:bbox":"-82.96243,40.181768,-82.735887,40.358123",
     "geom:latitude":40.278326,
     "geom:longitude":-82.849575,
@@ -14,20 +14,26 @@
     "lbl:latitude":40.269531,
     "lbl:longitude":-82.850655,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Sunbury",
+    "mz:postal_locality_alt":[
+        "Galena",
+        "New Albany"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404524369,
         85633793,
-        102084739
+        102084739,
+        404524369,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776133"
     },
     "wof:country":"US",
-    "wof:geomhash":"b4570e8ece509b5dcbe4134a0d390a01",
+    "wof:geomhash":"21a6d584015c0f4f1a805dc3c7be2dd3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554720291,
-    "wof:lastmodified":1480834155,
+    "wof:lastmodified":1611185481,
     "wof:name":"43074",
     "wof:parent_id":404524369,
     "wof:placetype":"postalcode",

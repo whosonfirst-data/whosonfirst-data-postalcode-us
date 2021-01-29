@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01351,
-    "geom:area_square_m":55377040.730559,
+    "geom:area_square_m":55377040.730553,
     "geom:bbox":"-160.106263,70.611219,-159.808651,70.685572",
     "geom:latitude":70.640669,
     "geom:longitude":-159.930791,
@@ -14,20 +14,22 @@
     "lbl:latitude":70.645765,
     "lbl:longitude":-159.898711,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wainwright",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688573,
         102191575,
         85633793,
+        102081001,
         85915563,
-        102081001
+        85688573
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12799821"
     },
     "wof:country":"US",
-    "wof:geomhash":"080df4e2f0cecb26237a0c648024023d",
+    "wof:geomhash":"244c4e7ed78e2485fa6ae98ee8c54991",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554785329,
-    "wof:lastmodified":1480822884,
+    "wof:lastmodified":1611183516,
     "wof:name":"99782",
     "wof:parent_id":85915563,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005498,
-    "geom:area_square_m":50536746.642661,
+    "geom:area_square_m":50536746.642675,
     "geom:bbox":"-88.263376,41.929564,-88.150149,42.018274",
     "geom:latitude":41.979414,
     "geom:longitude":-88.206339,
@@ -14,21 +14,26 @@
     "lbl:latitude":41.980546,
     "lbl:longitude":-88.204761,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bartlett",
+    "mz:postal_locality_alt":[
+        "Hanover Park"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404497657,
         85633793,
+        102081257,
+        404497657,
         85940219,
-        102081257
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784019"
     },
     "wof:country":"US",
-    "wof:geomhash":"51d5d063fbcc074a2372d225f93193dc",
+    "wof:geomhash":"aa72d58fc302517c679c3f068677cd32",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554733219,
-    "wof:lastmodified":1480916337,
+    "wof:lastmodified":1611184218,
     "wof:name":"60103",
     "wof:parent_id":85940219,
     "wof:placetype":"postalcode",

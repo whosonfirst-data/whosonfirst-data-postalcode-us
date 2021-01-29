@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034857,
-    "geom:area_square_m":323567722.844023,
+    "geom:area_square_m":323567722.844033,
     "geom:bbox":"-79.241524,41.225147,-78.878458,41.456526",
     "geom:latitude":41.347794,
     "geom:longitude":-79.048064,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.334002,
     "lbl:longitude":-79.020323,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Sigel",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404486605,
         85633793,
-        102083883
+        102083883,
+        404486605,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764054"
     },
     "wof:country":"US",
-    "wof:geomhash":"335aa9d096072e07d7ef1fc7bfc51695",
+    "wof:geomhash":"3c700f56577a1bce62929a6ee5fcaa8e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554704131,
-    "wof:lastmodified":1480906443,
+    "wof:lastmodified":1611184506,
     "wof:name":"15860",
     "wof:parent_id":404486605,
     "wof:placetype":"postalcode",

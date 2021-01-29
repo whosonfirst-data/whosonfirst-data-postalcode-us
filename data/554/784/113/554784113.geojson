@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001548,
-    "geom:area_square_m":15906642.491419,
+    "geom:area_square_m":15906642.491424,
     "geom:bbox":"-118.064955,33.791998,-118.01068,33.846121",
     "geom:latitude":33.818102,
     "geom:longitude":-118.038168,
@@ -14,20 +14,26 @@
     "lbl:latitude":33.818477,
     "lbl:longitude":-118.038307,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cypress",
+    "mz:postal_locality_alt":[
+        "Garden Grove",
+        "Stanton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102080847,
         85923159,
-        102080847
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795809"
     },
     "wof:country":"US",
-    "wof:geomhash":"7a9953004b9f61ee0b95280b6a887aec",
+    "wof:geomhash":"31092821f00c8b5c475d2b7d86465ad2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554784113,
-    "wof:lastmodified":1480912603,
+    "wof:lastmodified":1611183960,
     "wof:name":"90630",
     "wof:parent_id":85923159,
     "wof:placetype":"postalcode",

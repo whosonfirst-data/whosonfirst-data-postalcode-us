@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.072023,
-    "geom:area_square_m":736410733.452527,
+    "geom:area_square_m":736410733.453017,
     "geom:bbox":"-89.286638,34.074543,-88.82822,34.380212",
     "geom:latitude":34.219321,
     "geom:longitude":-89.019349,
@@ -14,19 +14,26 @@
     "lbl:latitude":34.217914,
     "lbl:longitude":-89.019053,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pontotoc",
+    "mz:postal_locality_alt":[
+        "Tupelo",
+        "Mantachie",
+        "Ecru"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688579,
-        102084865
+        102084865,
+        85688579
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12774685"
     },
     "wof:country":"US",
-    "wof:geomhash":"cfd7851c12f3d5455bf233e5ccd54d87",
+    "wof:geomhash":"8f691e40b93559135a3b8a0aba8a1f59",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +44,7 @@
         }
     ],
     "wof:id":554717975,
-    "wof:lastmodified":1480837203,
+    "wof:lastmodified":1611185043,
     "wof:name":"38863",
     "wof:parent_id":102084865,
     "wof:placetype":"postalcode",

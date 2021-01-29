@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012288,
-    "geom:area_square_m":102732236.572764,
+    "geom:area_square_m":102732236.57277,
     "geom:bbox":"-96.868519,47.411691,-96.665476,47.499081",
     "geom:latitude":47.460822,
     "geom:longitude":-96.769077,
@@ -14,20 +14,26 @@
     "lbl:latitude":47.462333,
     "lbl:longitude":-96.761827,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Shelly",
+    "mz:postal_locality_alt":[
+        "Bluffton",
+        "Wolf Lake"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404512307,
         85633793,
-        102087699
+        102087699,
+        404512307,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782583"
     },
     "wof:country":"US",
-    "wof:geomhash":"591e38c0da85f49d520e557fe6ef7eda",
+    "wof:geomhash":"98ed05a9b2eabe8ad05c6587668b3187",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554730559,
-    "wof:lastmodified":1480819796,
+    "wof:lastmodified":1611182722,
     "wof:name":"56581",
     "wof:parent_id":404512307,
     "wof:placetype":"postalcode",

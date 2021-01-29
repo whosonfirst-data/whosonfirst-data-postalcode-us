@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015638,
-    "geom:area_square_m":143072550.623513,
+    "geom:area_square_m":143072550.623505,
     "geom:bbox":"-72.472287,42.185812,-72.331642,42.358762",
     "geom:latitude":42.278691,
     "geom:longitude":-72.400316,
@@ -14,21 +14,26 @@
     "lbl:latitude":42.27901,
     "lbl:longitude":-72.400468,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Belchertown",
+    "mz:postal_locality_alt":[
+        "Whately"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476383,
         85633793,
+        102084459,
+        404476383,
         85950853,
-        102084459
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758290"
     },
     "wof:country":"US",
-    "wof:geomhash":"d4ac17ad3f1b64a3e5e3c83a28ee61d5",
+    "wof:geomhash":"f372fb9627653a6a3c594b865dca628d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554696767,
-    "wof:lastmodified":1480803258,
+    "wof:lastmodified":1611184671,
     "wof:name":"01007",
     "wof:parent_id":85950853,
     "wof:placetype":"postalcode",

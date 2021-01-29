@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001885,
-    "geom:area_square_m":19282538.805915,
+    "geom:area_square_m":19282538.805922,
     "geom:bbox":"-118.668163,34.157924,-118.562201,34.190895",
     "geom:latitude":34.177047,
     "geom:longitude":-118.615455,
@@ -13,20 +13,27 @@
     "lbl:latitude":34.17731,
     "lbl:longitude":-118.615704,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Woodland Hills",
+    "mz:postal_locality_alt":[
+        "Woodland Hls",
+        "San Fernando Valley",
+        "Los Angeles"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086957,
         85923517,
-        102086957
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796011"
     },
     "wof:country":"US",
-    "wof:geomhash":"1446dd61f65d107b86abe106017f773a",
+    "wof:geomhash":"4183b3f3bb39748374bccd75ee4366e1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +45,7 @@
         }
     ],
     "wof:id":554784221,
-    "wof:lastmodified":1480912614,
+    "wof:lastmodified":1611183933,
     "wof:name":"91367",
     "wof:parent_id":85923517,
     "wof:placetype":"postalcode",

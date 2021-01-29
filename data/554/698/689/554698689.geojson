@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012208,
-    "geom:area_square_m":107027951.575472,
+    "geom:area_square_m":107027951.575497,
     "geom:bbox":"-69.44915,44.797187,-69.281275,44.895988",
     "geom:latitude":44.845591,
     "geom:longitude":-69.362665,
@@ -14,20 +14,29 @@
     "lbl:latitude":44.843151,
     "lbl:longitude":-69.368356,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Palmyra",
+    "mz:postal_locality_alt":[
+        "Jackman",
+        "Vassalboro",
+        "Bingham",
+        "Moose River",
+        "Kingfield"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404474801,
         85633793,
-        102087435
+        102087435,
+        404474801,
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759835"
     },
     "wof:country":"US",
-    "wof:geomhash":"2b7ceca8bc71efb0c4dbe5683677e919",
+    "wof:geomhash":"e47291cb0ffe20b3c07aeb78372c9b23",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +48,7 @@
         }
     ],
     "wof:id":554698689,
-    "wof:lastmodified":1480906065,
+    "wof:lastmodified":1611184680,
     "wof:name":"04965",
     "wof:parent_id":404474801,
     "wof:placetype":"postalcode",

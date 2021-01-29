@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043017,
-    "geom:area_square_m":408514794.68896,
+    "geom:area_square_m":408514794.688982,
     "geom:bbox":"-78.65826,39.722472,-78.269043,39.95758",
     "geom:latitude":39.824475,
     "geom:longitude":-78.451966,
@@ -13,20 +13,25 @@
     "lbl:latitude":39.821183,
     "lbl:longitude":-78.444171,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Clearville",
+    "mz:postal_locality_alt":[
+        "Everett"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404484495,
         85633793,
-        102080939
+        102080939,
+        404484495,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763859"
     },
     "wof:country":"US",
-    "wof:geomhash":"5cf45467a7e6a86673773313d5425b8c",
+    "wof:geomhash":"2e79c7d619e7d64c024018f956c48ed5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554703835,
-    "wof:lastmodified":1480903172,
+    "wof:lastmodified":1611184458,
     "wof:name":"15535",
     "wof:parent_id":404484495,
     "wof:placetype":"postalcode",

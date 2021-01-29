@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001585,
-    "geom:area_square_m":16925153.778059,
+    "geom:area_square_m":16925153.778064,
     "geom:bbox":"-89.407499,30.260522,-89.34503,30.312222",
     "geom:latitude":30.288888,
     "geom:longitude":-89.383811,
@@ -14,20 +14,25 @@
     "lbl:latitude":30.290082,
     "lbl:longitude":-89.383278,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Waveland",
+    "mz:postal_locality_alt":[
+        "Bay St Louis"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688579,
         102191575,
         85633793,
+        102082425,
         85970161,
-        102082425
+        85688579
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12775004"
     },
     "wof:country":"US",
-    "wof:geomhash":"3bc0d6fe3ae2c6bd10e3644ebee2e449",
+    "wof:geomhash":"83fcb58588970a985635b55a8da4335b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554782295,
-    "wof:lastmodified":1480793059,
+    "wof:lastmodified":1611183609,
     "wof:name":"39576",
     "wof:parent_id":85970161,
     "wof:placetype":"postalcode",

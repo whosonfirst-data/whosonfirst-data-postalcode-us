@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00182,
-    "geom:area_square_m":17591199.390688,
+    "geom:area_square_m":17591199.390703,
     "geom:bbox":"-90.111606,38.571398,-90.042623,38.621179",
     "geom:latitude":38.600227,
     "geom:longitude":-90.077509,
@@ -13,21 +13,26 @@
     "lbl:latitude":38.600388,
     "lbl:longitude":-90.077596,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"East Saint Louis",
+    "mz:postal_locality_alt":[
+        "East St Louis"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404499737,
         85633793,
+        102084321,
+        404499737,
         85940677,
-        102084321
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784988"
     },
     "wof:country":"US",
-    "wof:geomhash":"7e538eae42bdd1d3cc0c5f320bc14bfe",
+    "wof:geomhash":"6ec06e477fdf3d470df81689b370b7df",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554734671,
-    "wof:lastmodified":1480796995,
+    "wof:lastmodified":1611184198,
     "wof:name":"62203",
     "wof:parent_id":85940677,
     "wof:placetype":"postalcode",

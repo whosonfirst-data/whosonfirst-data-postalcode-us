@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016261,
-    "geom:area_square_m":160239018.726317,
+    "geom:area_square_m":160239018.726217,
     "geom:bbox":"-87.588652,37.083327,-87.393154,37.238777",
     "geom:latitude":37.163701,
     "geom:longitude":-87.495584,
@@ -14,19 +14,24 @@
     "lbl:latitude":37.167103,
     "lbl:longitude":-87.488393,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Nortonville",
+    "mz:postal_locality_alt":[
+        "St Charles"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688641,
-        102084409
+        102084409,
+        85688641
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12775985"
     },
     "wof:country":"US",
-    "wof:geomhash":"786e95fa2dc02f29197d2249c039573e",
+    "wof:geomhash":"1673b94bd0dbd2eb3d15e7a1946a5827",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554720035,
-    "wof:lastmodified":1480813777,
+    "wof:lastmodified":1611185480,
     "wof:name":"42442",
     "wof:parent_id":102084409,
     "wof:placetype":"postalcode",

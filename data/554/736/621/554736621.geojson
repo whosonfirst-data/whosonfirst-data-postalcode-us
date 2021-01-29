@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010345,
-    "geom:area_square_m":98512776.896657,
+    "geom:area_square_m":98512776.896646,
     "geom:bbox":"-94.788541,39.574864,-94.633345,39.688148",
     "geom:latitude":39.633273,
     "geom:longitude":-94.717235,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.633348,
     "lbl:longitude":-94.715618,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Agency",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404516445,
         85633793,
-        102086153
+        102086153,
+        404516445,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786089"
     },
     "wof:country":"US",
-    "wof:geomhash":"06e92a3d4ae76ff87ff4f66524028745",
+    "wof:geomhash":"16c7fd2230bcd9401f7d8e34e2b8e9e9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554736621,
-    "wof:lastmodified":1480910353,
+    "wof:lastmodified":1611183024,
     "wof:name":"64401",
     "wof:parent_id":404516445,
     "wof:placetype":"postalcode",

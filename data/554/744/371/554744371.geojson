@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004402,
-    "geom:area_square_m":45790687.652542,
+    "geom:area_square_m":45790687.652561,
     "geom:bbox":"-96.610746,32.684097,-96.519793,32.764955",
     "geom:latitude":32.726945,
     "geom:longitude":-96.555175,
@@ -13,20 +13,25 @@
     "lbl:latitude":32.723893,
     "lbl:longitude":-96.555804,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mesquite",
+    "mz:postal_locality_alt":[
+        "Balch Springs"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102080647,
         101725853,
-        102080647
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12790432"
     },
     "wof:country":"US",
-    "wof:geomhash":"01973a9b9a232d6aec285e9e55cffaea",
+    "wof:geomhash":"f147519c377df11ff9bf90cc62e90948",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554744371,
-    "wof:lastmodified":1480904885,
+    "wof:lastmodified":1611184728,
     "wof:name":"75181",
     "wof:parent_id":101725853,
     "wof:placetype":"postalcode",

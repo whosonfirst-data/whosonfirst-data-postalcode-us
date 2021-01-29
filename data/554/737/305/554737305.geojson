@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.065069,
-    "geom:area_square_m":627942767.626797,
+    "geom:area_square_m":627942767.626616,
     "geom:bbox":"-93.43952,38.534071,-93.053011,38.872024",
     "geom:latitude":38.698482,
     "geom:longitude":-93.226149,
@@ -13,21 +13,28 @@
     "lbl:latitude":38.69822,
     "lbl:longitude":-93.226582,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Sedalia",
+    "mz:postal_locality_alt":[
+        "Warsaw",
+        "Hughesville",
+        "Smithton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404517433,
         85633793,
+        102087467,
+        404517433,
         85972143,
-        102087467
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786436"
     },
     "wof:country":"US",
-    "wof:geomhash":"9643d494298d15e96e87d11b456c0439",
+    "wof:geomhash":"890dd0000adad7389d63d86950bc2815",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +47,7 @@
         }
     ],
     "wof:id":554737305,
-    "wof:lastmodified":1480813714,
+    "wof:lastmodified":1611182850,
     "wof:name":"65301",
     "wof:parent_id":85972143,
     "wof:placetype":"postalcode",

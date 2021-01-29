@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001321,
-    "geom:area_square_m":11744268.962299,
+    "geom:area_square_m":11744268.962294,
     "geom:bbox":"-72.078823,44.00623,-72.016702,44.065948",
     "geom:latitude":44.033906,
     "geom:longitude":-72.052405,
@@ -14,20 +14,25 @@
     "lbl:latitude":44.035225,
     "lbl:longitude":-72.050202,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Haverhill",
+    "mz:postal_locality_alt":[
+        "Lyme"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688689,
         102191575,
-        404477239,
         85633793,
-        102086567
+        102086567,
+        404477239,
+        85688689
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759262"
     },
     "wof:country":"US",
-    "wof:geomhash":"1e4904ad904f8c8ba168e286da8a1ce2",
+    "wof:geomhash":"b3861516d922a2420c2291586a075933",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554697979,
-    "wof:lastmodified":1480916380,
+    "wof:lastmodified":1611184646,
     "wof:name":"03765",
     "wof:parent_id":404477239,
     "wof:placetype":"postalcode",

@@ -14,20 +14,25 @@
     "lbl:latitude":42.875727,
     "lbl:longitude":-72.456114,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Chesterfield",
+    "mz:postal_locality_alt":[
+        "Spofford"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688689,
         102191575,
-        404476975,
         85633793,
-        102085643
+        102085643,
+        404476975,
+        85688689
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759197"
     },
     "wof:country":"US",
-    "wof:geomhash":"670781084e519d64feb629193d78e48e",
+    "wof:geomhash":"949612f299663003f5b305afc8d1b20f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554697865,
-    "wof:lastmodified":1480809136,
+    "wof:lastmodified":1611184659,
     "wof:name":"03443",
     "wof:parent_id":404476975,
     "wof:placetype":"postalcode",

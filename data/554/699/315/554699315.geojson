@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00072,
-    "geom:area_square_m":6653585.685697,
+    "geom:area_square_m":6653585.685689,
     "geom:bbox":"-72.825624,41.64448,-72.782833,41.669676",
     "geom:latitude":41.657211,
     "geom:longitude":-72.805215,
@@ -13,21 +13,26 @@
     "lbl:latitude":41.655568,
     "lbl:longitude":-72.803107,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"New Britain",
+    "mz:postal_locality_alt":[
+        "East Windsor"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688629,
         102191575,
-        404495989,
         85633793,
+        102085381,
+        404495989,
         85930815,
-        102085381
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760202"
     },
     "wof:country":"US",
-    "wof:geomhash":"000a6c6b703f816cc3c907422ef86317",
+    "wof:geomhash":"b773ae252d88dac7b7e959d4c7131afd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554699315,
-    "wof:lastmodified":1480815743,
+    "wof:lastmodified":1611184614,
     "wof:name":"06052",
     "wof:parent_id":85930815,
     "wof:placetype":"postalcode",

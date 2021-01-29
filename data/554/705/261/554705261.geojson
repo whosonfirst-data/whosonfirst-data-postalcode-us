@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001051,
-    "geom:area_square_m":9944129.715033,
+    "geom:area_square_m":9944129.715024,
     "geom:bbox":"-76.445941,40.067486,-76.381459,40.105737",
     "geom:latitude":40.089186,
     "geom:longitude":-76.415648,
@@ -14,21 +14,26 @@
     "lbl:latitude":40.082629,
     "lbl:longitude":-76.414548,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Landisville",
+    "mz:postal_locality_alt":[
+        "Salunga"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404487069,
         85633793,
+        102081377,
+        404487069,
         101720455,
-        102081377
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764808"
     },
     "wof:country":"US",
-    "wof:geomhash":"037f14f70c5cd3a5f02aa6d512a0940d",
+    "wof:geomhash":"9cdc7ded7e83559150448d9349466940",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554705261,
-    "wof:lastmodified":1480817411,
+    "wof:lastmodified":1611184101,
     "wof:name":"17538",
     "wof:parent_id":101720455,
     "wof:placetype":"postalcode",

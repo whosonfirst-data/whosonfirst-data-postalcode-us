@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000862,
-    "geom:area_square_m":8671453.016567,
+    "geom:area_square_m":8671453.01655,
     "geom:bbox":"-97.632225,35.499619,-97.601131,35.536935",
     "geom:latitude":35.519873,
     "geom:longitude":-97.61433,
@@ -13,20 +13,25 @@
     "lbl:latitude":35.520484,
     "lbl:longitude":-97.61344,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Oklahoma City",
+    "mz:postal_locality_alt":[
+        "Warr Acres"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688585,
         102191575,
         85633793,
+        102082577,
         101714421,
-        102082577
+        85688585
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12789638"
     },
     "wof:country":"US",
-    "wof:geomhash":"5e4d076ca298ecb3206f5699f3bdc26f",
+    "wof:geomhash":"d77c96cba1e7637fc5d4d4b06c8cef8f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554743023,
-    "wof:lastmodified":1480791347,
+    "wof:lastmodified":1611184771,
     "wof:name":"73122",
     "wof:parent_id":101714421,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013949,
-    "geom:area_square_m":129525057.932617,
+    "geom:area_square_m":129525057.932717,
     "geom:bbox":"-88.664878,41.195077,-88.53663,41.486243",
     "geom:latitude":41.32726,
     "geom:longitude":-88.604804,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.328215,
     "lbl:longitude":-88.600511,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Seneca",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404498495,
         85633793,
-        102081255
+        102081255,
+        404498495,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784582"
     },
     "wof:country":"US",
-    "wof:geomhash":"d3366f5390c0c66f6702c2ead1b607db",
+    "wof:geomhash":"c21e65c6fae12e393718ace29e681edb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554733925,
-    "wof:lastmodified":1480911706,
+    "wof:lastmodified":1611184229,
     "wof:name":"61360",
     "wof:parent_id":404498495,
     "wof:placetype":"postalcode",

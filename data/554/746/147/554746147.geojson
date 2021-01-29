@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046776,
-    "geom:area_square_m":501015940.233323,
+    "geom:area_square_m":501015940.233599,
     "geom:bbox":"-96.465286,29.86946,-96.084541,30.070229",
     "geom:latitude":29.978794,
     "geom:longitude":-96.250557,
@@ -14,19 +14,26 @@
     "lbl:latitude":29.987116,
     "lbl:longitude":-96.252942,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bellville",
+    "mz:postal_locality_alt":[
+        "New Ulm",
+        "Garwood",
+        "Palacios"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688753,
-        102087275
+        102087275,
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12791582"
     },
     "wof:country":"US",
-    "wof:geomhash":"c509e2000b722bb119a19e69c0a5d6c7",
+    "wof:geomhash":"118221a26183e9ed593f03ae18e8c081",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +44,7 @@
         }
     ],
     "wof:id":554746147,
-    "wof:lastmodified":1480843053,
+    "wof:lastmodified":1611184034,
     "wof:name":"77418",
     "wof:parent_id":102087275,
     "wof:placetype":"postalcode",

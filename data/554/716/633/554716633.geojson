@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037883,
-    "geom:area_square_m":379789242.893049,
+    "geom:area_square_m":379789242.892998,
     "geom:bbox":"-86.155934,35.711356,-85.88921,35.964928",
     "geom:latitude":35.829133,
     "geom:longitude":-86.039893,
@@ -14,19 +14,25 @@
     "lbl:latitude":35.816563,
     "lbl:longitude":-86.021265,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Woodbury",
+    "mz:postal_locality_alt":[
+        "Smithville",
+        "Liberty"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688701,
-        102086999
+        102086999,
+        85688701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12773874"
     },
     "wof:country":"US",
-    "wof:geomhash":"dd20ac6c6409f46619cd0e892a9cde29",
+    "wof:geomhash":"b6fcfb939752fa0511d54866d6a2b5f0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554716633,
-    "wof:lastmodified":1480913807,
+    "wof:lastmodified":1611185363,
     "wof:name":"37190",
     "wof:parent_id":102086999,
     "wof:placetype":"postalcode",

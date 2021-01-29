@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00107,
-    "geom:area_square_m":9834856.532568,
+    "geom:area_square_m":9834856.532559,
     "geom:bbox":"-74.011107,41.974035,-73.969108,42.021721",
     "geom:latitude":41.993531,
     "geom:longitude":-73.993031,
@@ -14,21 +14,27 @@
     "lbl:latitude":41.992378,
     "lbl:longitude":-73.993774,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lake Katrine",
+    "mz:postal_locality_alt":[
+        "Kingston",
+        "Saugerties"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404523273,
         85633793,
+        102081775,
+        404523273,
         85978947,
-        102081775
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12762281"
     },
     "wof:country":"US",
-    "wof:geomhash":"3e72fe69e6416c3f066de5b2576ac16e",
+    "wof:geomhash":"19672cdd56e7c452bf51bac083f16683",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554701427,
-    "wof:lastmodified":1480819674,
+    "wof:lastmodified":1611182637,
     "wof:name":"12449",
     "wof:parent_id":85978947,
     "wof:placetype":"postalcode",

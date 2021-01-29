@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026146,
-    "geom:area_square_m":275820241.926839,
+    "geom:area_square_m":275820241.926835,
     "geom:bbox":"-97.532979,31.319234,-97.27564,31.547484",
     "geom:latitude":31.445817,
     "geom:longitude":-97.394529,
@@ -14,19 +14,24 @@
     "lbl:latitude":31.446184,
     "lbl:longitude":-97.380488,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mc Gregor",
+    "mz:postal_locality_alt":[
+        "Moody"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688753,
-        102085007
+        102085007,
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12791196"
     },
     "wof:country":"US",
-    "wof:geomhash":"f95bff31e236936a0901278a86feb38d",
+    "wof:geomhash":"c65aabf1b0de9e643462d8c266e1cf43",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554745595,
-    "wof:lastmodified":1480904015,
+    "wof:lastmodified":1611185255,
     "wof:name":"76657",
     "wof:parent_id":102085007,
     "wof:placetype":"postalcode",

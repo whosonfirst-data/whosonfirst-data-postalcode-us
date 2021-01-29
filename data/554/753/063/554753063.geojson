@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001927,
-    "geom:area_square_m":18938492.343985,
+    "geom:area_square_m":18938492.344044,
     "geom:bbox":"-122.14173,37.328328,-122.059575,37.38645",
     "geom:latitude":37.35223,
     "geom:longitude":-122.094397,
@@ -13,20 +13,26 @@
     "lbl:latitude":37.352229,
     "lbl:longitude":-122.094396,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Los Altos",
+    "mz:postal_locality_alt":[
+        "Los Altos Hills",
+        "Mountain View"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102081673,
         85925395,
-        102081673
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12797115"
     },
     "wof:country":"US",
-    "wof:geomhash":"dbf46f5c3fbfdfb252db0ee95bbe9b1a",
+    "wof:geomhash":"a32675ba1b7b78503324166257b165d7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554753063,
-    "wof:lastmodified":1480829309,
+    "wof:lastmodified":1611182941,
     "wof:name":"94024",
     "wof:parent_id":85925395,
     "wof:placetype":"postalcode",

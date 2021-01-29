@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004295,
-    "geom:area_square_m":41246314.432017,
+    "geom:area_square_m":41246314.432037,
     "geom:bbox":"-76.96143,39.014786,-76.847685,39.085067",
     "geom:latitude":39.04793,
     "geom:longitude":-76.901339,
@@ -13,20 +13,25 @@
     "lbl:latitude":39.049423,
     "lbl:longitude":-76.900362,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Beltsville",
+    "mz:postal_locality_alt":[
+        "College Park"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688501,
         102191575,
         85633793,
+        102082191,
         85949921,
-        102082191
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766255"
     },
     "wof:country":"US",
-    "wof:geomhash":"d1deed8df19d241b48069a9f02add931",
+    "wof:geomhash":"0ea0eaf9b2ec48159e06b621446d1e8c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554706929,
-    "wof:lastmodified":1480795127,
+    "wof:lastmodified":1611182714,
     "wof:name":"20705",
     "wof:parent_id":85949921,
     "wof:placetype":"postalcode",

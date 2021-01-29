@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019255,
-    "geom:area_square_m":196873138.72224,
+    "geom:area_square_m":196873138.722527,
     "geom:bbox":"-88.878082,34.152001,-88.66083,34.301933",
     "geom:latitude":34.221338,
     "geom:longitude":-88.773037,
@@ -13,19 +13,28 @@
     "lbl:latitude":34.222629,
     "lbl:longitude":-88.774588,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Tupelo",
+    "mz:postal_locality_alt":[
+        "Verona",
+        "Booneville",
+        "Saltillo",
+        "Corinth",
+        "Fulton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688579,
-        102083171
+        102083171,
+        85688579
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12774650"
     },
     "wof:country":"US",
-    "wof:geomhash":"843cbefb45b94d33a9d332c679d1e491",
+    "wof:geomhash":"423a052e763fe1358952769d4c7c1af4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +45,7 @@
         }
     ],
     "wof:id":554717913,
-    "wof:lastmodified":1480838070,
+    "wof:lastmodified":1611185011,
     "wof:name":"38801",
     "wof:parent_id":102083171,
     "wof:placetype":"postalcode",

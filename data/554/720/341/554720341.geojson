@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012944,
-    "geom:area_square_m":123213766.359526,
+    "geom:area_square_m":123213766.359541,
     "geom:bbox":"-83.658598,39.596622,-83.474294,39.71395",
     "geom:latitude":39.66413,
     "geom:longitude":-83.577514,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.659722,
     "lbl:longitude":-83.594024,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Jeffersonville",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404524497,
         85633793,
-        102083691
+        102083691,
+        404524497,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776166"
     },
     "wof:country":"US",
-    "wof:geomhash":"cab9b60f164ab4efd64643fb818074ce",
+    "wof:geomhash":"73b2a6a2fb65e2eca348f8720f8ad2a6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554720341,
-    "wof:lastmodified":1480840051,
+    "wof:lastmodified":1611185463,
     "wof:name":"43128",
     "wof:parent_id":404524497,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041307,
-    "geom:area_square_m":357204637.344952,
+    "geom:area_square_m":357204637.344841,
     "geom:bbox":"-88.331235,45.50587,-87.774682,45.721341",
     "geom:latitude":45.624806,
     "geom:longitude":-88.012965,
@@ -14,20 +14,22 @@
     "lbl:latitude":45.628708,
     "lbl:longitude":-88.024459,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pembine",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404493931,
         85633793,
-        102081785
+        102081785,
+        404493931,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781219"
     },
     "wof:country":"US",
-    "wof:geomhash":"122d99d1e6968e48caa8c4b28d81c638",
+    "wof:geomhash":"907d72b2cbc58eb0820ec32d7a4a064e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554728157,
-    "wof:lastmodified":1480837962,
+    "wof:lastmodified":1611185045,
     "wof:name":"54156",
     "wof:parent_id":404493931,
     "wof:placetype":"postalcode",

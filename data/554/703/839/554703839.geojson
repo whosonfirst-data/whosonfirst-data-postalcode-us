@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030879,
-    "geom:area_square_m":292490814.957149,
+    "geom:area_square_m":292490814.957239,
     "geom:bbox":"-78.534976,39.831207,-78.186836,40.109794",
     "geom:latitude":40.001723,
     "geom:longitude":-78.365009,
@@ -13,20 +13,25 @@
     "lbl:latitude":40.000385,
     "lbl:longitude":-78.366843,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Everett",
+    "mz:postal_locality_alt":[
+        "Bedford"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404484499,
         85633793,
-        102080939
+        102080939,
+        404484499,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763861"
     },
     "wof:country":"US",
-    "wof:geomhash":"47c76c7b09acf032b14c6c66fbaa6c4e",
+    "wof:geomhash":"0d50db4afa2af430b82f9ce8f0580587",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554703839,
-    "wof:lastmodified":1480903170,
+    "wof:lastmodified":1611184479,
     "wof:name":"15537",
     "wof:parent_id":404484499,
     "wof:placetype":"postalcode",

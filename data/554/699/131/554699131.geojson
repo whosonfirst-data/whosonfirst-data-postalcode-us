@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011574,
-    "geom:area_square_m":103293794.326065,
+    "geom:area_square_m":103293794.326103,
     "geom:bbox":"-73.390316,43.742593,-73.216556,43.858072",
     "geom:latitude":43.802766,
     "geom:longitude":-73.292832,
@@ -14,20 +14,22 @@
     "lbl:latitude":43.800615,
     "lbl:longitude":-73.289701,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Orwell",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688763,
         102191575,
-        404527445,
         85633793,
-        102080765
+        102080765,
+        404527445,
+        85688763
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760097"
     },
     "wof:country":"US",
-    "wof:geomhash":"53866677fe6b835aa105676add09e759",
+    "wof:geomhash":"5acb9cb6ef0b17e9e384d18bef44733e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554699131,
-    "wof:lastmodified":1480903938,
+    "wof:lastmodified":1611184618,
     "wof:name":"05760",
     "wof:parent_id":404527445,
     "wof:placetype":"postalcode",

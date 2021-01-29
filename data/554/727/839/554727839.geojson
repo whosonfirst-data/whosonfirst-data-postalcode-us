@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014475,
-    "geom:area_square_m":130209851.959383,
+    "geom:area_square_m":130209851.959281,
     "geom:bbox":"-89.899442,43.261308,-89.659567,43.401881",
     "geom:latitude":43.322088,
     "geom:longitude":-89.776123,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.327442,
     "lbl:longitude":-89.775538,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Prairie Du Sac",
+    "mz:postal_locality_alt":[
+        "Sauk City"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404494071,
         85633793,
-        102081845
+        102081845,
+        404494071,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781022"
     },
     "wof:country":"US",
-    "wof:geomhash":"8be0c9be702b2d4070c0d7904545754c",
+    "wof:geomhash":"4f0efd18284d8f19b0e87e9ba5a6a893",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554727839,
-    "wof:lastmodified":1480824373,
+    "wof:lastmodified":1611185527,
     "wof:name":"53578",
     "wof:parent_id":404494071,
     "wof:placetype":"postalcode",

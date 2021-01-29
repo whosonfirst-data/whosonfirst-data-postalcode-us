@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004737,
-    "geom:area_square_m":48524089.258842,
+    "geom:area_square_m":48524089.258858,
     "geom:bbox":"-117.243974,34.027919,-117.103473,34.099346",
     "geom:latitude":34.066501,
     "geom:longitude":-117.171929,
@@ -13,20 +13,25 @@
     "lbl:latitude":34.067146,
     "lbl:longitude":-117.171885,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Redlands",
+    "mz:postal_locality_alt":[
+        "Loma Linda"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102085395,
         85923941,
-        102085395
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796452"
     },
     "wof:country":"US",
-    "wof:geomhash":"6aa502f77066c71688b1628b16c14dcf",
+    "wof:geomhash":"c16c961d05bf091f7ce41ca7e330a9f6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554752387,
-    "wof:lastmodified":1480814335,
+    "wof:lastmodified":1611182555,
     "wof:name":"92374",
     "wof:parent_id":85923941,
     "wof:placetype":"postalcode",

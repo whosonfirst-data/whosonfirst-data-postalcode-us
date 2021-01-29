@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039744,
-    "geom:area_square_m":345803831.76045,
+    "geom:area_square_m":345803831.760538,
     "geom:bbox":"-97.226418,45.150633,-96.9662,45.41437",
     "geom:latitude":45.279119,
     "geom:longitude":-97.096983,
@@ -14,20 +14,22 @@
     "lbl:latitude":45.28044,
     "lbl:longitude":-97.095259,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Summit",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688693,
         102191575,
-        404490535,
         85633793,
-        102086849
+        102086849,
+        404490535,
+        85688693
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782834"
     },
     "wof:country":"US",
-    "wof:geomhash":"14a51e6cee6ec4b3983a259f7174979f",
+    "wof:geomhash":"a35e23ca8b2274400cc2473eb50037f6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554731039,
-    "wof:lastmodified":1480917000,
+    "wof:lastmodified":1611183069,
     "wof:name":"57266",
     "wof:parent_id":404490535,
     "wof:placetype":"postalcode",

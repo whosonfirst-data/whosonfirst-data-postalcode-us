@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005121,
-    "geom:area_square_m":46331063.889124,
+    "geom:area_square_m":46331063.889176,
     "geom:bbox":"-88.138646,42.929865,-88.067252,43.016959",
     "geom:latitude":42.9741,
     "geom:longitude":-88.098731,
@@ -13,21 +13,26 @@
     "lbl:latitude":42.974779,
     "lbl:longitude":-88.098607,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"New Berlin",
+    "mz:postal_locality_alt":[
+        "Milwaukee"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404492511,
         85633793,
+        102081741,
+        404492511,
         101733503,
-        102081741
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12780868"
     },
     "wof:country":"US",
-    "wof:geomhash":"dd4b9e23096085820f6b9a8f98f85091",
+    "wof:geomhash":"3ab9faf05abc235762cbbb474b29cac9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554727639,
-    "wof:lastmodified":1480832497,
+    "wof:lastmodified":1611185525,
     "wof:name":"53151",
     "wof:parent_id":101733503,
     "wof:placetype":"postalcode",

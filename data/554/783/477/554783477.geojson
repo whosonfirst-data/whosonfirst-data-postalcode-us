@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002156,
-    "geom:area_square_m":19916642.439302,
+    "geom:area_square_m":19916642.439308,
     "geom:bbox":"-87.778572,41.651233,-87.695354,41.690948",
     "geom:latitude":41.672062,
     "geom:longitude":-87.735668,
@@ -14,21 +14,27 @@
     "lbl:latitude":41.674064,
     "lbl:longitude":-87.736222,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Alsip",
+    "mz:postal_locality_alt":[
+        "Merrionette Park",
+        "Merrionett Pk"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404497667,
         85633793,
+        102084317,
+        404497667,
         85940911,
-        102084317
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784342"
     },
     "wof:country":"US",
-    "wof:geomhash":"4ca08013790a0da227e1a1a41cc9a27c",
+    "wof:geomhash":"0f3044f7f3c42496ae7bfdf61e655d17",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554783477,
-    "wof:lastmodified":1480802054,
+    "wof:lastmodified":1611183878,
     "wof:name":"60803",
     "wof:parent_id":85940911,
     "wof:placetype":"postalcode",

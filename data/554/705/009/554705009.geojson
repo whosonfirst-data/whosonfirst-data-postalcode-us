@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009359,
-    "geom:area_square_m":88226077.794194,
+    "geom:area_square_m":88226077.794174,
     "geom:bbox":"-77.263388,40.283744,-77.116542,40.402243",
     "geom:latitude":40.329282,
     "geom:longitude":-77.181967,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.318207,
     "lbl:longitude":-77.181043,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Shermans Dale",
+    "mz:postal_locality_alt":[
+        "New Bloomfield"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485843,
         85633793,
-        102080963
+        102080963,
+        404485843,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764632"
     },
     "wof:country":"US",
-    "wof:geomhash":"a80c4d020c6656466f957726967d55a1",
+    "wof:geomhash":"2cf28bdb3d3f9275cea73447c520b4d8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554705009,
-    "wof:lastmodified":1480904076,
+    "wof:lastmodified":1611184102,
     "wof:name":"17090",
     "wof:parent_id":404485843,
     "wof:placetype":"postalcode",

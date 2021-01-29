@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.093744,
-    "geom:area_square_m":938453408.101072,
+    "geom:area_square_m":938453408.099696,
     "geom:bbox":"-85.726551,35.775005,-85.197841,36.085141",
     "geom:latitude":35.943255,
     "geom:longitude":-85.439273,
@@ -14,19 +14,26 @@
     "lbl:latitude":35.94454,
     "lbl:longitude":-85.442214,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Sparta",
+    "mz:postal_locality_alt":[
+        "Cookeville",
+        "Spencer",
+        "Crossville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688701,
-        102086369
+        102086369,
+        85688701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12774534"
     },
     "wof:country":"US",
-    "wof:geomhash":"db06840f89c9b0a5a113429652e1f067",
+    "wof:geomhash":"5d2b42342e98b3b00ff104518a56e7f3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +44,7 @@
         }
     ],
     "wof:id":554717725,
-    "wof:lastmodified":1480916768,
+    "wof:lastmodified":1611185005,
     "wof:name":"38583",
     "wof:parent_id":102086369,
     "wof:placetype":"postalcode",

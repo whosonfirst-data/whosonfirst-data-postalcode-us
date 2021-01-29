@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048472,
-    "geom:area_square_m":449113238.299821,
+    "geom:area_square_m":449113238.299867,
     "geom:bbox":"-90.329109,41.342992,-89.972474,41.584653",
     "geom:latitude":41.46861,
     "geom:longitude":-90.150853,
@@ -14,21 +14,27 @@
     "lbl:latitude":41.467229,
     "lbl:longitude":-90.149632,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Geneseo",
+    "mz:postal_locality_alt":[
+        "Colona",
+        "Springfield"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404498147,
         85633793,
+        102086205,
+        404498147,
         85939031,
-        102086205
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784511"
     },
     "wof:country":"US",
-    "wof:geomhash":"32f5bd10e930bfa6465951bee0396761",
+    "wof:geomhash":"9f1656a6eaf3bb41d8a0911204532ff9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554733805,
-    "wof:lastmodified":1480912694,
+    "wof:lastmodified":1611184224,
     "wof:name":"61254",
     "wof:parent_id":85939031,
     "wof:placetype":"postalcode",

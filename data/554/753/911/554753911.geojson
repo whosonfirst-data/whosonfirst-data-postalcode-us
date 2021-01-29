@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002548,
-    "geom:area_square_m":24641789.913461,
+    "geom:area_square_m":24641789.913504,
     "geom:bbox":"-121.321663,38.525532,-121.242743,38.574005",
     "geom:latitude":38.54953,
     "geom:longitude":-121.279293,
@@ -14,20 +14,25 @@
     "lbl:latitude":38.549228,
     "lbl:longitude":-121.278598,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mather",
+    "mz:postal_locality_alt":[
+        "Rancho Cordova"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102082889,
         85926679,
-        102082889
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12797926"
     },
     "wof:country":"US",
-    "wof:geomhash":"229909590738b111a0ba71c10dda45f7",
+    "wof:geomhash":"86001acb0199f4e8908af9e5e1e70ea5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554753911,
-    "wof:lastmodified":1480796110,
+    "wof:lastmodified":1611182968,
     "wof:name":"95655",
     "wof:parent_id":85926679,
     "wof:placetype":"postalcode",

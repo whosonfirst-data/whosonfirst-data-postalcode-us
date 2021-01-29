@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.063032,
-    "geom:area_square_m":596376841.429122,
+    "geom:area_square_m":596376841.428654,
     "geom:bbox":"-93.764921,39.896719,-93.437664,40.207255",
     "geom:latitude":40.077406,
     "geom:longitude":-93.601659,
@@ -14,21 +14,26 @@
     "lbl:latitude":40.078432,
     "lbl:longitude":-93.60105,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Trenton",
+    "mz:postal_locality_alt":[
+        "Marceline"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404517099,
         85633793,
+        102080789,
+        404517099,
         85971667,
-        102080789
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786219"
     },
     "wof:country":"US",
-    "wof:geomhash":"3be73f24a8dff98411cdc7a4ccdef708",
+    "wof:geomhash":"5dd64ed5f06081cf64300d2de171e7ff",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554736903,
-    "wof:lastmodified":1480910529,
+    "wof:lastmodified":1611183038,
     "wof:name":"64683",
     "wof:parent_id":85971667,
     "wof:placetype":"postalcode",

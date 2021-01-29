@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00121,
-    "geom:area_square_m":11184879.334158,
+    "geom:area_square_m":11184879.334151,
     "geom:bbox":"-70.654258,41.61655,-70.60229,41.658414",
     "geom:latitude":41.639572,
     "geom:longitude":-70.625852,
@@ -14,21 +14,26 @@
     "lbl:latitude":41.639445,
     "lbl:longitude":-70.624515,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"North Falmouth",
+    "mz:postal_locality_alt":[
+        "Pocasset"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476181,
         85633793,
+        102084379,
+        404476181,
         85950573,
-        102084379
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758885"
     },
     "wof:country":"US",
-    "wof:geomhash":"10ca8f76106f406dfdf95f4e9942cae5",
+    "wof:geomhash":"f6648c45dff4f389dd5b18543c0d0be1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554778437,
-    "wof:lastmodified":1480802731,
+    "wof:lastmodified":1611183430,
     "wof:name":"02556",
     "wof:parent_id":85950573,
     "wof:placetype":"postalcode",

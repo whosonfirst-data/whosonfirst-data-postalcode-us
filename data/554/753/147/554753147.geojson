@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011902,
-    "geom:area_square_m":116422030.034915,
+    "geom:area_square_m":116422030.035288,
     "geom:bbox":"-122.106302,37.590968,-121.923618,37.802194",
     "geom:latitude":37.71306,
     "geom:longitude":-122.017909,
@@ -13,20 +13,25 @@
     "lbl:latitude":37.722719,
     "lbl:longitude":-122.021556,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Castro Valley",
+    "mz:postal_locality_alt":[
+        "Danville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086959,
         85924511,
-        102086959
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12797345"
     },
     "wof:country":"US",
-    "wof:geomhash":"797a1718523c59a530d12ca91ee31169",
+    "wof:geomhash":"84a82a96e74416ba2942605ab54d7b76",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554753147,
-    "wof:lastmodified":1480915083,
+    "wof:lastmodified":1611182973,
     "wof:name":"94552",
     "wof:parent_id":85924511,
     "wof:placetype":"postalcode",

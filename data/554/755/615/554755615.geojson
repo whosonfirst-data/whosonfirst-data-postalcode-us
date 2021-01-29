@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037816,
-    "geom:area_square_m":313186939.723353,
+    "geom:area_square_m":313186939.723389,
     "geom:bbox":"-122.171935,47.822361,-121.722518,48.059218",
     "geom:latitude":47.95104,
     "geom:longitude":-121.980248,
@@ -13,20 +13,25 @@
     "lbl:latitude":47.955366,
     "lbl:longitude":-121.978502,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Snohomish",
+    "mz:postal_locality_alt":[
+        "Everett"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688623,
         102191575,
         85633793,
+        102087537,
         101730595,
-        102087537
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12799071"
     },
     "wof:country":"US",
-    "wof:geomhash":"b922cd00c3d8a8514be235d227036f8d",
+    "wof:geomhash":"397bed6afdec70c32bcfd56f90d1c6a8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554755615,
-    "wof:lastmodified":1480788590,
+    "wof:lastmodified":1611182596,
     "wof:name":"98290",
     "wof:parent_id":101730595,
     "wof:placetype":"postalcode",

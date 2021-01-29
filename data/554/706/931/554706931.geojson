@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002804,
-    "geom:area_square_m":26960859.132496,
+    "geom:area_square_m":26960859.132523,
     "geom:bbox":"-76.899087,38.91649,-76.810529,38.99853",
     "geom:latitude":38.965501,
     "geom:longitude":-76.850989,
@@ -13,20 +13,25 @@
     "lbl:latitude":38.96588,
     "lbl:longitude":-76.851092,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lanham",
+    "mz:postal_locality_alt":[
+        "Glenarden"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688501,
         102191575,
         85633793,
+        102082191,
         85949959,
-        102082191
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766256"
     },
     "wof:country":"US",
-    "wof:geomhash":"b53ac604388c46cea213c205e0ac53d7",
+    "wof:geomhash":"8bf5f90d229e8db19fafc40c2294def0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554706931,
-    "wof:lastmodified":1480794375,
+    "wof:lastmodified":1611182682,
     "wof:name":"20706",
     "wof:parent_id":85949959,
     "wof:placetype":"postalcode",

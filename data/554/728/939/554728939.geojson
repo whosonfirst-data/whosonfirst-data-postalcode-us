@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034719,
-    "geom:area_square_m":306676640.369871,
+    "geom:area_square_m":306676640.369866,
     "geom:bbox":"-92.805768,44.344529,-92.430436,44.486803",
     "geom:latitude":44.409497,
     "geom:longitude":-92.620952,
@@ -14,20 +14,25 @@
     "lbl:latitude":44.406368,
     "lbl:longitude":-92.609457,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Goodhue",
+    "mz:postal_locality_alt":[
+        "Bellchester"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404514543,
         85633793,
-        102087843
+        102087843,
+        404514543,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781684"
     },
     "wof:country":"US",
-    "wof:geomhash":"920ebb985c9cdfc29754ee124fce9c5e",
+    "wof:geomhash":"a6ab777a1603e1cdc03d28f018f8f140",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554728939,
-    "wof:lastmodified":1480787642,
+    "wof:lastmodified":1611185047,
     "wof:name":"55027",
     "wof:parent_id":404514543,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004402,
-    "geom:area_square_m":40683742.369519,
+    "geom:area_square_m":40683742.369517,
     "geom:bbox":"-70.919982,41.580874,-70.81392,41.681167",
     "geom:latitude":41.63429,
     "geom:longitude":-70.86936,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.633618,
     "lbl:longitude":-70.871306,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fairhaven",
+    "mz:postal_locality_alt":[
+        "Taunton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476175,
         85633793,
-        102084407
+        102084407,
+        404476175,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758949"
     },
     "wof:country":"US",
-    "wof:geomhash":"a946adf21d0bd4086ddb1804a364f7a8",
+    "wof:geomhash":"8317d25e97e40df1b5019f3a9776da15",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554778523,
-    "wof:lastmodified":1480801203,
+    "wof:lastmodified":1611183446,
     "wof:name":"02719",
     "wof:parent_id":404476175,
     "wof:placetype":"postalcode",

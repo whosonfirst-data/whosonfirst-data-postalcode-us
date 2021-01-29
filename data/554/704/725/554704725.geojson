@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035879,
-    "geom:area_square_m":334398876.925045,
+    "geom:area_square_m":334398876.925476,
     "geom:bbox":"-78.559527,40.925357,-78.280246,41.24394",
     "geom:latitude":41.084455,
     "geom:longitude":-78.436077,
@@ -14,20 +14,27 @@
     "lbl:latitude":41.078677,
     "lbl:longitude":-78.428662,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Clearfield",
+    "mz:postal_locality_alt":[
+        "University Park",
+        "State College",
+        "Philipsburg"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404487031,
         85633793,
-        102080967
+        102080967,
+        404487031,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764467"
     },
     "wof:country":"US",
-    "wof:geomhash":"47fe347681c715463e2947c5ae8231b1",
+    "wof:geomhash":"3b6fa237dc1cd5c3f127f73c7a49072f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554704725,
-    "wof:lastmodified":1480904931,
+    "wof:lastmodified":1611184499,
     "wof:name":"16830",
     "wof:parent_id":404487031,
     "wof:placetype":"postalcode",

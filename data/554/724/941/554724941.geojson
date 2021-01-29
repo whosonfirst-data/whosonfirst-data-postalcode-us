@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011317,
-    "geom:area_square_m":104384875.296442,
+    "geom:area_square_m":104384875.296475,
     "geom:bbox":"-83.822641,41.721872,-83.644235,41.822148",
     "geom:latitude":41.760863,
     "geom:longitude":-83.722576,
@@ -14,20 +14,22 @@
     "lbl:latitude":41.757323,
     "lbl:longitude":-83.719429,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ottawa Lake",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404506281,
         85633793,
-        102083117
+        102083117,
+        404506281,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779267"
     },
     "wof:country":"US",
-    "wof:geomhash":"4b258c4af7482590398dcdb27d50f637",
+    "wof:geomhash":"d77545a02e241eae24b39f4f116b2a5b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554724941,
-    "wof:lastmodified":1480843194,
+    "wof:lastmodified":1611183754,
     "wof:name":"49267",
     "wof:parent_id":404506281,
     "wof:placetype":"postalcode",

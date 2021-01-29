@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002339,
-    "geom:area_square_m":22558887.191656,
+    "geom:area_square_m":22558887.191672,
     "geom:bbox":"-90.24143,38.72135,-90.166574,38.774431",
     "geom:latitude":38.750629,
     "geom:longitude":-90.21117,
@@ -13,21 +13,26 @@
     "lbl:latitude":38.750543,
     "lbl:longitude":-90.21166,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"St Louis",
+    "mz:postal_locality_alt":[
+        "Saint Louis"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404517463,
         85633793,
+        102086173,
+        404517463,
         85972189,
-        102086173
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12785622"
     },
     "wof:country":"US",
-    "wof:geomhash":"f3e0b23697ce990914df5c74e592bb33",
+    "wof:geomhash":"ae3282b6fdcc764f9a4101669df1cc30",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554735825,
-    "wof:lastmodified":1480914491,
+    "wof:lastmodified":1611184435,
     "wof:name":"63137",
     "wof:parent_id":85972189,
     "wof:placetype":"postalcode",

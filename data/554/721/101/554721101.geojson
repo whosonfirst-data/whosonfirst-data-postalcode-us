@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000655,
-    "geom:area_square_m":6102022.873362,
+    "geom:area_square_m":6102022.873353,
     "geom:bbox":"-81.453223,41.124315,-81.414298,41.152138",
     "geom:latitude":41.140425,
     "geom:longitude":-81.437246,
@@ -14,21 +14,26 @@
     "lbl:latitude":41.139576,
     "lbl:longitude":-81.436066,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Munroe Falls",
+    "mz:postal_locality_alt":[
+        "Stow"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404525993,
         85633793,
+        102084807,
+        404525993,
         101713381,
-        102084807
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776726"
     },
     "wof:country":"US",
-    "wof:geomhash":"1b3926dd23c62c1c4b5c0d9089906a49",
+    "wof:geomhash":"78b57dee2f1d4283a9399494e1d9d642",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554721101,
-    "wof:lastmodified":1480800399,
+    "wof:lastmodified":1611184967,
     "wof:name":"44262",
     "wof:parent_id":101713381,
     "wof:placetype":"postalcode",

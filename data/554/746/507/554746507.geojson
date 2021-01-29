@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.075539,
-    "geom:area_square_m":810093060.053994,
+    "geom:area_square_m":810093060.053506,
     "geom:bbox":"-98.918662,29.653506,-98.548449,30.102001",
     "geom:latitude":29.855355,
     "geom:longitude":-98.722622,
@@ -13,19 +13,27 @@
     "lbl:latitude":29.85855,
     "lbl:longitude":-98.703353,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Boerne",
+    "mz:postal_locality_alt":[
+        "Laredo",
+        "Pearsall",
+        "San Antonio",
+        "Ingram"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688753,
-        102080707
+        102080707,
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12791864"
     },
     "wof:country":"US",
-    "wof:geomhash":"7379cbbc1354445385e8cd818c98e3ad",
+    "wof:geomhash":"31e4e0d98912f2ce755b74c20f494989",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +44,7 @@
         }
     ],
     "wof:id":554746507,
-    "wof:lastmodified":1480904952,
+    "wof:lastmodified":1611184015,
     "wof:name":"78006",
     "wof:parent_id":102080707,
     "wof:placetype":"postalcode",

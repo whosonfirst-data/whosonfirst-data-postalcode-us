@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003248,
-    "geom:area_square_m":31319999.535082,
+    "geom:area_square_m":31319999.535104,
     "geom:bbox":"-76.311144,38.707728,-76.236211,38.791883",
     "geom:latitude":38.748825,
     "geom:longitude":-76.274886,
@@ -14,19 +14,24 @@
     "lbl:latitude":38.751513,
     "lbl:longitude":-76.275426,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bozman",
+    "mz:postal_locality_alt":[
+        "Neavitt"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688501,
-        102082179
+        102082179,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766602"
     },
     "wof:country":"US",
-    "wof:geomhash":"4bb3c50176cd779475017b94d504e5fc",
+    "wof:geomhash":"555596a4f18cfef8afcf4b7b619d824a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554780545,
-    "wof:lastmodified":1480794797,
+    "wof:lastmodified":1611185175,
     "wof:name":"21612",
     "wof:parent_id":102082179,
     "wof:placetype":"postalcode",

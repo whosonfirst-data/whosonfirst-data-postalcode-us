@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003599,
-    "geom:area_square_m":33928457.582452,
+    "geom:area_square_m":33928457.582421,
     "geom:bbox":"-74.296999,40.277376,-74.197556,40.355091",
     "geom:latitude":40.318063,
     "geom:longitude":-74.249817,
@@ -14,20 +14,29 @@
     "lbl:latitude":40.32349,
     "lbl:longitude":-74.254572,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Marlboro",
+    "mz:postal_locality_alt":[
+        "Freehold",
+        "Asbury Park",
+        "Howell",
+        "Manalapan",
+        "Englishtown"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478365,
         85633793,
-        102085049
+        102085049,
+        404478365,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760866"
     },
     "wof:country":"US",
-    "wof:geomhash":"97ac31bbae912b722043a6a54dd7a2d2",
+    "wof:geomhash":"2f117a871975f761beca0e79faee132c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +48,7 @@
         }
     ],
     "wof:id":554700179,
-    "wof:lastmodified":1480809858,
+    "wof:lastmodified":1611183208,
     "wof:name":"07746",
     "wof:parent_id":404478365,
     "wof:placetype":"postalcode",

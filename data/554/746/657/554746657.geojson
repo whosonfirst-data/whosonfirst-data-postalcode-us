@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0089,
-    "geom:area_square_m":95843606.524456,
+    "geom:area_square_m":95843606.524475,
     "geom:bbox":"-98.282692,29.37753,-98.138033,29.497203",
     "geom:latitude":29.434158,
     "geom:longitude":-98.206501,
@@ -14,20 +14,26 @@
     "lbl:latitude":29.43659,
     "lbl:longitude":-98.205116,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Saint Hedwig",
+    "mz:postal_locality_alt":[
+        "St Hedwig",
+        "Converse"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102082471,
         101723587,
-        102082471
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12791956"
     },
     "wof:country":"US",
-    "wof:geomhash":"5f0c33bb035db26718954d9a03ea2f21",
+    "wof:geomhash":"7a8db3b05bdfa93f06a339ab82353976",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554746657,
-    "wof:lastmodified":1480790248,
+    "wof:lastmodified":1611184006,
     "wof:name":"78152",
     "wof:parent_id":101723587,
     "wof:placetype":"postalcode",

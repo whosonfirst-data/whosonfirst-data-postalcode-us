@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.07988,
-    "geom:area_square_m":668998636.299594,
+    "geom:area_square_m":668998636.299508,
     "geom:bbox":"-91.639658,47.18394,-91.018547,47.534526",
     "geom:latitude":47.366788,
     "geom:longitude":-91.382139,
@@ -14,20 +14,25 @@
     "lbl:latitude":47.368243,
     "lbl:longitude":-91.375995,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Silver Bay",
+    "mz:postal_locality_alt":[
+        "Beaver Bay"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404514449,
         85633793,
-        102087863
+        102087863,
+        404514449,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782008"
     },
     "wof:country":"US",
-    "wof:geomhash":"1685a0f6c1cea273a5916f6b7d22140c",
+    "wof:geomhash":"30c65e8a6810323e6267bdb2139aa669",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554783105,
-    "wof:lastmodified":1480787256,
+    "wof:lastmodified":1611183873,
     "wof:name":"55614",
     "wof:parent_id":404514449,
     "wof:placetype":"postalcode",

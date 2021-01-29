@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000827,
-    "geom:area_square_m":7788237.009879,
+    "geom:area_square_m":7788237.009881,
     "geom:bbox":"-80.096554,40.35891,-80.052332,40.393243",
     "geom:latitude":40.374818,
     "geom:longitude":-80.073083,
@@ -13,20 +13,22 @@
     "lbl:latitude":40.375511,
     "lbl:longitude":-80.072372,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pittsburgh",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404484139,
         85633793,
-        102080887
+        102080887,
+        404484139,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763684"
     },
     "wof:country":"US",
-    "wof:geomhash":"97e4767fb88ef439d44f4af25e20712c",
+    "wof:geomhash":"3529ecab4fea700f73dc0b8acd78ce6e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +40,7 @@
         }
     ],
     "wof:id":554703609,
-    "wof:lastmodified":1480905389,
+    "wof:lastmodified":1611184480,
     "wof:name":"15243",
     "wof:parent_id":404484139,
     "wof:placetype":"postalcode",

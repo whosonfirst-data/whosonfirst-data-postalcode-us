@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024567,
-    "geom:area_square_m":214835979.932614,
+    "geom:area_square_m":214835979.932649,
     "geom:bbox":"-96.882838,44.889952,-96.699638,45.084481",
     "geom:latitude":44.990218,
     "geom:longitude":-96.789949,
@@ -14,20 +14,25 @@
     "lbl:latitude":44.992121,
     "lbl:longitude":-96.781513,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Strandburg",
+    "mz:postal_locality_alt":[
+        "Goodwin"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688693,
         102191575,
-        404490559,
         85633793,
-        102086849
+        102086849,
+        404490559,
+        85688693
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782833"
     },
     "wof:country":"US",
-    "wof:geomhash":"f35248f359c96ba292a0b13e1bae192a",
+    "wof:geomhash":"2d3b2c215672ad3e5e27b3a8fa84b476",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554731037,
-    "wof:lastmodified":1480916830,
+    "wof:lastmodified":1611183068,
     "wof:name":"57265",
     "wof:parent_id":404490559,
     "wof:placetype":"postalcode",

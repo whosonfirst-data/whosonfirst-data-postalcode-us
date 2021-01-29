@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008099,
-    "geom:area_square_m":76868534.507815,
+    "geom:area_square_m":76868534.507845,
     "geom:bbox":"-74.957223,39.781631,-74.862426,39.919828",
     "geom:latitude":39.860205,
     "geom:longitude":-74.894591,
@@ -14,20 +14,29 @@
     "lbl:latitude":39.856677,
     "lbl:longitude":-74.90081,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Marlton",
+    "mz:postal_locality_alt":[
+        "Winslow",
+        "Voorhees",
+        "Atco",
+        "Sicklerville",
+        "Cedar Brook"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477845,
         85633793,
-        102087415
+        102087415,
+        404477845,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761023"
     },
     "wof:country":"US",
-    "wof:geomhash":"c4efde879b3f939468fe805dca633a76",
+    "wof:geomhash":"d7f9a79e874b446bf039399b03b25226",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +48,7 @@
         }
     ],
     "wof:id":554700391,
-    "wof:lastmodified":1480823435,
+    "wof:lastmodified":1611183175,
     "wof:name":"08053",
     "wof:parent_id":404477845,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031716,
-    "geom:area_square_m":293128902.427626,
+    "geom:area_square_m":293128902.427644,
     "geom:bbox":"-80.316105,41.535517,-79.977004,41.752599",
     "geom:latitude":41.630942,
     "geom:longitude":-80.156325,
@@ -13,21 +13,26 @@
     "lbl:latitude":41.630953,
     "lbl:longitude":-80.156056,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Meadville",
+    "mz:postal_locality_alt":[
+        "Saegertown"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404486157,
         85633793,
+        102080911,
+        404486157,
         101716635,
-        102080911
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764259"
     },
     "wof:country":"US",
-    "wof:geomhash":"0aa9596d862588a77dfc0e5fa29a641b",
+    "wof:geomhash":"b9e503e16765a628cc4cd0d288189783",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554704465,
-    "wof:lastmodified":1480906216,
+    "wof:lastmodified":1611184499,
     "wof:name":"16335",
     "wof:parent_id":101716635,
     "wof:placetype":"postalcode",

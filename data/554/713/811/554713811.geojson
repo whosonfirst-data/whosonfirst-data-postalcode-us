@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040391,
-    "geom:area_square_m":426703564.607656,
+    "geom:area_square_m":426703564.607723,
     "geom:bbox":"-82.416987,31.202082,-82.103558,31.428529",
     "geom:latitude":31.309935,
     "geom:longitude":-82.25521,
@@ -14,20 +14,25 @@
     "lbl:latitude":31.309373,
     "lbl:longitude":-82.25325,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Blackshear",
+    "mz:postal_locality_alt":[
+        "Waycross"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688535,
         102191575,
         85633793,
+        102082921,
         85937141,
-        102082921
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12771236"
     },
     "wof:country":"US",
-    "wof:geomhash":"bf22a854ff9791b230b2690e12f59e73",
+    "wof:geomhash":"3099d44ed7401c9ec89c91d30310ff64",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554713811,
-    "wof:lastmodified":1480832772,
+    "wof:lastmodified":1611183298,
     "wof:name":"31516",
     "wof:parent_id":85937141,
     "wof:placetype":"postalcode",

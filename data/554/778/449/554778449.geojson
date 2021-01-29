@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006928,
-    "geom:area_square_m":63903374.314239,
+    "geom:area_square_m":63903374.314235,
     "geom:bbox":"-70.756599,41.689609,-70.63939,41.805678",
     "geom:latitude":41.760727,
     "geom:longitude":-70.69718,
@@ -14,20 +14,26 @@
     "lbl:latitude":41.761187,
     "lbl:longitude":-70.695991,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wareham",
+    "mz:postal_locality_alt":[
+        "West Wareham",
+        "Vineyard Haven"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476567,
         85633793,
-        102084367
+        102084367,
+        404476567,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758895"
     },
     "wof:country":"US",
-    "wof:geomhash":"1b1161f22126ed0b07350070bcc3cc50",
+    "wof:geomhash":"ae057192496b15f3e9889c8e7de5077a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554778449,
-    "wof:lastmodified":1480802731,
+    "wof:lastmodified":1611183428,
     "wof:name":"02571",
     "wof:parent_id":404476567,
     "wof:placetype":"postalcode",

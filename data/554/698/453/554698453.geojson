@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.051107,
-    "geom:area_square_m":443592655.546857,
+    "geom:area_square_m":443592655.54682,
     "geom:bbox":"-68.679953,45.267057,-68.34107,45.575945",
     "geom:latitude":45.416285,
     "geom:longitude":-68.478236,
@@ -14,20 +14,25 @@
     "lbl:latitude":45.413427,
     "lbl:longitude":-68.479871,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lincoln",
+    "mz:postal_locality_alt":[
+        "Greenville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404475033,
         85633793,
-        102080723
+        102080723,
+        404475033,
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759587"
     },
     "wof:country":"US",
-    "wof:geomhash":"c71dde6f99c3869db8ea85589721f486",
+    "wof:geomhash":"081351f94fb6d658416d71eb31a2db93",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554698453,
-    "wof:lastmodified":1480906067,
+    "wof:lastmodified":1611184686,
     "wof:name":"04457",
     "wof:parent_id":404475033,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026322,
-    "geom:area_square_m":248466693.688535,
+    "geom:area_square_m":248466693.68851,
     "geom:bbox":"-104.980132,40.173971,-104.657939,40.337284",
     "geom:latitude":40.236869,
     "geom:longitude":-104.815597,
@@ -14,19 +14,26 @@
     "lbl:latitude":40.241735,
     "lbl:longitude":-104.80941,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Platteville",
+    "mz:postal_locality_alt":[
+        "Gilcrest",
+        "Hudson",
+        "Hazlet"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688603,
-        102086117
+        102086117,
+        85688603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12793159"
     },
     "wof:country":"US",
-    "wof:geomhash":"6b91b232d2e60f61010edae17082fdc9",
+    "wof:geomhash":"cab90206a9b414917178e26e898bf5cb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +44,7 @@
         }
     ],
     "wof:id":554748269,
-    "wof:lastmodified":1480913966,
+    "wof:lastmodified":1611183835,
     "wof:name":"80651",
     "wof:parent_id":102086117,
     "wof:placetype":"postalcode",

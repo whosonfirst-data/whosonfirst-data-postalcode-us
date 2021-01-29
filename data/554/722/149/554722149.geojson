@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011774,
-    "geom:area_square_m":112169257.348992,
+    "geom:area_square_m":112169257.348964,
     "geom:bbox":"-81.720996,39.540446,-81.528291,39.680659",
     "geom:latitude":39.604587,
     "geom:longitude":-81.62985,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.605069,
     "lbl:longitude":-81.628021,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Beverly",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404526975,
         85633793,
-        102083711
+        102083711,
+        404526975,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777402"
     },
     "wof:country":"US",
-    "wof:geomhash":"1c038d404be664fdb3e53be3df84ce00",
+    "wof:geomhash":"322c679d6427f0853901e5b0059a397d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554722149,
-    "wof:lastmodified":1480841961,
+    "wof:lastmodified":1611183251,
     "wof:name":"45715",
     "wof:parent_id":404526975,
     "wof:placetype":"postalcode",

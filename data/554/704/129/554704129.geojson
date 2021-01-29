@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028011,
-    "geom:area_square_m":259582833.395391,
+    "geom:area_square_m":259582833.395406,
     "geom:bbox":"-78.64852,41.386446,-78.419566,41.523252",
     "geom:latitude":41.457062,
     "geom:longitude":-78.534223,
@@ -14,21 +14,27 @@
     "lbl:latitude":41.455085,
     "lbl:longitude":-78.520228,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"St Marys",
+    "mz:postal_locality_alt":[
+        "Saint Marys",
+        "Du Bois"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404486717,
         85633793,
+        102081265,
+        404486717,
         101716717,
-        102081265
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764053"
     },
     "wof:country":"US",
-    "wof:geomhash":"be1ffd94f6c102945314c6e5be7b8f92",
+    "wof:geomhash":"314ee2b8f4649c96689300d32943607b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554704129,
-    "wof:lastmodified":1480830974,
+    "wof:lastmodified":1611184500,
     "wof:name":"15857",
     "wof:parent_id":101716717,
     "wof:placetype":"postalcode",

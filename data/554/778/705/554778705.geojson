@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006645,
-    "geom:area_square_m":59317629.578362,
+    "geom:area_square_m":59317629.578324,
     "geom:bbox":"-70.227751,43.738269,-70.083982,43.842932",
     "geom:latitude":43.788337,
     "geom:longitude":-70.159308,
@@ -14,20 +14,27 @@
     "lbl:latitude":43.788137,
     "lbl:longitude":-70.156478,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Yarmouth",
+    "mz:postal_locality_alt":[
+        "Denmark",
+        "Kennebunk",
+        "Scarborough"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404475445,
         85633793,
-        102087463
+        102087463,
+        404475445,
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759441"
     },
     "wof:country":"US",
-    "wof:geomhash":"1c55805619dc52bf7488aae88e36c4b3",
+    "wof:geomhash":"02821da995a582018da4717eadfdae2f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554778705,
-    "wof:lastmodified":1480785908,
+    "wof:lastmodified":1611183436,
     "wof:name":"04096",
     "wof:parent_id":404475445,
     "wof:placetype":"postalcode",

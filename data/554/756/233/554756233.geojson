@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021912,
-    "geom:area_square_m":183315540.369702,
+    "geom:area_square_m":183315540.369546,
     "geom:bbox":"-117.45639,47.31799,-117.24498,47.52751",
     "geom:latitude":47.423517,
     "geom:longitude":-117.362441,
@@ -14,19 +14,24 @@
     "lbl:latitude":47.423494,
     "lbl:longitude":-117.362419,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Spangle",
+    "mz:postal_locality_alt":[
+        "Spokane"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688623,
-        102087555
+        102087555,
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12799448"
     },
     "wof:country":"US",
-    "wof:geomhash":"e6ae8270772f32d1a152f500e37badf9",
+    "wof:geomhash":"f7c8c97e22ff13cda5921c659cb30069",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554756233,
-    "wof:lastmodified":1480787762,
+    "wof:lastmodified":1611184284,
     "wof:name":"99031",
     "wof:parent_id":102087555,
     "wof:placetype":"postalcode",

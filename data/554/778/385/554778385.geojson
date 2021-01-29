@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000869,
-    "geom:area_square_m":7952170.789005,
+    "geom:area_square_m":7952170.789023,
     "geom:bbox":"-70.968591,42.224101,-70.917081,42.264276",
     "geom:latitude":42.243936,
     "geom:longitude":-70.941826,
@@ -14,21 +14,27 @@
     "lbl:latitude":42.243453,
     "lbl:longitude":-70.942033,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Weymouth",
+    "mz:postal_locality_alt":[
+        "North Weymouth",
+        "Jamaica Plain"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476603,
         85633793,
+        102084403,
+        404476603,
         85950427,
-        102084403
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758766"
     },
     "wof:country":"US",
-    "wof:geomhash":"3eac6798c84871955e538a5e7c82a9f1",
+    "wof:geomhash":"1d99f35ec5dd5d6832a045114a406787",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554778385,
-    "wof:lastmodified":1480801203,
+    "wof:lastmodified":1611183434,
     "wof:name":"02191",
     "wof:parent_id":85950427,
     "wof:placetype":"postalcode",

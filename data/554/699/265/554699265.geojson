@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007364,
-    "geom:area_square_m":67834275.399025,
+    "geom:area_square_m":67834275.399009,
     "geom:bbox":"-72.798552,41.800168,-72.686039,41.905705",
     "geom:latitude":41.842538,
     "geom:longitude":-72.740622,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.84493,
     "lbl:longitude":-72.740951,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bloomfield",
+    "mz:postal_locality_alt":[
+        "Manchester"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688629,
         102191575,
-        404495871,
         85633793,
-        102085381
+        102085381,
+        404495871,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760169"
     },
     "wof:country":"US",
-    "wof:geomhash":"240653f0e41b89037c4254a67d1e3ef5",
+    "wof:geomhash":"09e87c6672b1990ffe0d713c581340e5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554699265,
-    "wof:lastmodified":1480815744,
+    "wof:lastmodified":1611184627,
     "wof:name":"06002",
     "wof:parent_id":404495871,
     "wof:placetype":"postalcode",

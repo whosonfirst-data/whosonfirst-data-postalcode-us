@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043093,
-    "geom:area_square_m":432565947.859462,
+    "geom:area_square_m":432565947.859658,
     "geom:bbox":"-79.616751,35.590764,-79.275001,35.843786",
     "geom:latitude":35.729304,
     "geom:longitude":-79.43197,
@@ -14,19 +14,25 @@
     "lbl:latitude":35.722265,
     "lbl:longitude":-79.43369,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Siler City",
+    "mz:postal_locality_alt":[
+        "Ramseur",
+        "Pittsboro"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688773,
-        102080923
+        102080923,
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12769021"
     },
     "wof:country":"US",
-    "wof:geomhash":"865a59a92a3d90f33566eb9540043364",
+    "wof:geomhash":"9ef9524d6dcde6dbd229f84b531cd55c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554710623,
-    "wof:lastmodified":1480906615,
+    "wof:lastmodified":1611185126,
     "wof:name":"27344",
     "wof:parent_id":102080923,
     "wof:placetype":"postalcode",

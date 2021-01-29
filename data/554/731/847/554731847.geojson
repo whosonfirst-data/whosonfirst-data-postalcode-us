@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.094631,
-    "geom:area_square_m":769915734.088323,
+    "geom:area_square_m":769915734.088259,
     "geom:bbox":"-100.665167,48.690034,-100.182773,48.999604",
     "geom:latitude":48.854586,
     "geom:longitude":-100.418856,
@@ -14,20 +14,22 @@
     "lbl:latitude":48.858084,
     "lbl:longitude":-100.397421,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bottineau",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688525,
         102191575,
-        404480279,
         85633793,
-        102082109
+        102082109,
+        404480279,
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12783251"
     },
     "wof:country":"US",
-    "wof:geomhash":"4b4c00924d2090f69ac19af5cfb46501",
+    "wof:geomhash":"92ac968cea175fc366124dfbc8fa1d55",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554731847,
-    "wof:lastmodified":1480829860,
+    "wof:lastmodified":1611183080,
     "wof:name":"58318",
     "wof:parent_id":404480279,
     "wof:placetype":"postalcode",

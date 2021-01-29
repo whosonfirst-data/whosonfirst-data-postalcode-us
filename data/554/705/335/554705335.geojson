@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038467,
-    "geom:area_square_m":357628817.066685,
+    "geom:area_square_m":357628817.066679,
     "geom:bbox":"-77.517922,41.091329,-77.142065,41.477059",
     "geom:latitude":41.247027,
     "geom:longitude":-77.270631,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.249445,
     "lbl:longitude":-77.269646,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Jersey Shore",
+    "mz:postal_locality_alt":[
+        "Salladasburg"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485231,
         85633793,
-        102081317
+        102081317,
+        404485231,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764868"
     },
     "wof:country":"US",
-    "wof:geomhash":"7c069ed8e8f1ae4203612f67be7fdc27",
+    "wof:geomhash":"09e38f3057651f7e8357b3eaabcd1b46",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554705335,
-    "wof:lastmodified":1480903553,
+    "wof:lastmodified":1611184112,
     "wof:name":"17740",
     "wof:parent_id":404485231,
     "wof:placetype":"postalcode",

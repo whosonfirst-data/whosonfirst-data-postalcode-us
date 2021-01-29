@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033944,
-    "geom:area_square_m":286685292.60491,
+    "geom:area_square_m":286685292.604996,
     "geom:bbox":"-97.663918,46.803548,-97.429508,47.050635",
     "geom:latitude":46.918721,
     "geom:longitude":-97.542157,
@@ -14,20 +14,22 @@
     "lbl:latitude":46.91875,
     "lbl:longitude":-97.539887,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Buffalo",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688525,
         102191575,
-        404480549,
         85633793,
-        102082073
+        102082073,
+        404480549,
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12783115"
     },
     "wof:country":"US",
-    "wof:geomhash":"b75d1b43aaf7a6b8e399c869f5a3d694",
+    "wof:geomhash":"2385bead133835b4198a00db7c89fb57",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554731591,
-    "wof:lastmodified":1480795317,
+    "wof:lastmodified":1611183076,
     "wof:name":"58011",
     "wof:parent_id":404480549,
     "wof:placetype":"postalcode",

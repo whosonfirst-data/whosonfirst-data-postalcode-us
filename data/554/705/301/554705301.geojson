@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004231,
-    "geom:area_square_m":39947315.719005,
+    "geom:area_square_m":39947315.719026,
     "geom:bbox":"-76.271856,40.175028,-76.076644,40.260407",
     "geom:latitude":40.221782,
     "geom:longitude":-76.163051,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.226099,
     "lbl:longitude":-76.159806,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Stevens",
+    "mz:postal_locality_alt":[
+        "Reamstown"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404485441,
         85633793,
-        102081377
+        102081377,
+        404485441,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764834"
     },
     "wof:country":"US",
-    "wof:geomhash":"7ebf05517d8d31b75a7083f853dfbfe0",
+    "wof:geomhash":"85bdc85e1096e53aa5fad7d4094e0041",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554705301,
-    "wof:lastmodified":1480817414,
+    "wof:lastmodified":1611184093,
     "wof:name":"17578",
     "wof:parent_id":404485441,
     "wof:placetype":"postalcode",

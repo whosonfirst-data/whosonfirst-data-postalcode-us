@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017292,
-    "geom:area_square_m":186356297.549691,
+    "geom:area_square_m":186356297.549591,
     "geom:bbox":"-98.979485,29.265716,-98.804622,29.442015",
     "geom:latitude":29.357305,
     "geom:longitude":-98.886678,
@@ -14,20 +14,22 @@
     "lbl:latitude":29.357252,
     "lbl:longitude":-98.886655,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Castroville",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102080693,
         101725513,
-        102080693
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12791867"
     },
     "wof:country":"US",
-    "wof:geomhash":"ae5e3736e6bd97f4f759b5a4b7a8c6fd",
+    "wof:geomhash":"7d9855d67acec9ce55f3ce6102103d9c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554746515,
-    "wof:lastmodified":1480903558,
+    "wof:lastmodified":1611184035,
     "wof:name":"78009",
     "wof:parent_id":101725513,
     "wof:placetype":"postalcode",

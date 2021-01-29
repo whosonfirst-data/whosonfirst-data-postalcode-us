@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001886,
-    "geom:area_square_m":20118585.83901,
+    "geom:area_square_m":20118585.838976,
     "geom:bbox":"-89.001536,30.387022,-88.930736,30.420897",
     "geom:latitude":30.404052,
     "geom:longitude":-88.967627,
@@ -13,20 +13,22 @@
     "lbl:latitude":30.403994,
     "lbl:longitude":-88.966133,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Biloxi",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688579,
         102191575,
         85633793,
+        102087223,
         85969861,
-        102087223
+        85688579
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12774980"
     },
     "wof:country":"US",
-    "wof:geomhash":"63043330283ed95492f4e58f235164f1",
+    "wof:geomhash":"758fd0c43e0d1aa1fd2619f260a8bf27",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +40,7 @@
         }
     ],
     "wof:id":554718439,
-    "wof:lastmodified":1480788184,
+    "wof:lastmodified":1611185552,
     "wof:name":"39531",
     "wof:parent_id":85969861,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006442,
-    "geom:area_square_m":61670809.416718,
+    "geom:area_square_m":61670809.416605,
     "geom:bbox":"-84.145285,39.211045,-84.013986,39.329371",
     "geom:latitude":39.267795,
     "geom:longitude":-84.078262,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.269737,
     "lbl:longitude":-84.074728,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pleasant Plain",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404526205,
         85633793,
-        102082423
+        102082423,
+        404526205,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777111"
     },
     "wof:country":"US",
-    "wof:geomhash":"002d26fbaacfad812be7da0c64d45676",
+    "wof:geomhash":"3bcc5cc6c9a7cd812e4a01ce884b6c7f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554721691,
-    "wof:lastmodified":1480800801,
+    "wof:lastmodified":1611184975,
     "wof:name":"45162",
     "wof:parent_id":404526205,
     "wof:placetype":"postalcode",

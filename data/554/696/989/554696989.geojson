@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003082,
-    "geom:area_square_m":27996526.606642,
+    "geom:area_square_m":27996526.606641,
     "geom:bbox":"-73.023709,42.701264,-72.927162,42.741133",
     "geom:latitude":42.722672,
     "geom:longitude":-72.982398,
@@ -14,20 +14,22 @@
     "lbl:latitude":42.727772,
     "lbl:longitude":-72.985346,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Monroe Bridge",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476241,
         85633793,
-        102084457
+        102084457,
+        404476241,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758430"
     },
     "wof:country":"US",
-    "wof:geomhash":"11732811d36a10e08c0358bedc69efd7",
+    "wof:geomhash":"121b69de1f8525ccf1ecfb99b91aa243",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554696989,
-    "wof:lastmodified":1480903160,
+    "wof:lastmodified":1611184674,
     "wof:name":"01350",
     "wof:parent_id":404476241,
     "wof:placetype":"postalcode",

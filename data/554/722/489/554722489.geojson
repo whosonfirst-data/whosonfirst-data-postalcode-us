@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008105,
-    "geom:area_square_m":77138259.800653,
+    "geom:area_square_m":77138259.800702,
     "geom:bbox":"-85.926211,39.638563,-85.764506,39.727939",
     "geom:latitude":39.675447,
     "geom:longitude":-85.835842,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.672748,
     "lbl:longitude":-85.835022,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fountaintown",
+    "mz:postal_locality_alt":[
+        "Morristown"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404501555,
         85633793,
-        102086435
+        102086435,
+        404501555,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777606"
     },
     "wof:country":"US",
-    "wof:geomhash":"950ddece95e95de93821ac295727bd6e",
+    "wof:geomhash":"6f813bc16ae435930cf20308e94e0358",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554722489,
-    "wof:lastmodified":1480911623,
+    "wof:lastmodified":1611183240,
     "wof:name":"46130",
     "wof:parent_id":404501555,
     "wof:placetype":"postalcode",

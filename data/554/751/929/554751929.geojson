@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002041,
-    "geom:area_square_m":20868357.52815,
+    "geom:area_square_m":20868357.528134,
     "geom:bbox":"-118.715388,34.183756,-118.614091,34.224156",
     "geom:latitude":34.2016,
     "geom:longitude":-118.662185,
@@ -14,20 +14,27 @@
     "lbl:latitude":34.200834,
     "lbl:longitude":-118.6649,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"West Hills",
+    "mz:postal_locality_alt":[
+        "Canoga Park",
+        "Bell Canyon",
+        "Los Angeles"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086957,
         85923517,
-        102086957
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795964"
     },
     "wof:country":"US",
-    "wof:geomhash":"43f7278033bb52deb40577358a8b9fad",
+    "wof:geomhash":"2421d769120e8781b14f9406bed5c374",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554751929,
-    "wof:lastmodified":1480912620,
+    "wof:lastmodified":1611184358,
     "wof:name":"91307",
     "wof:parent_id":85923517,
     "wof:placetype":"postalcode",

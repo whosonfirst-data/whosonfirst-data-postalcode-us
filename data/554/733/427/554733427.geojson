@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005352,
-    "geom:area_square_m":49357618.281662,
+    "geom:area_square_m":49357618.281675,
     "geom:bbox":"-88.443878,41.721786,-88.309502,41.795658",
     "geom:latitude":41.765261,
     "geom:longitude":-88.365016,
@@ -13,21 +13,26 @@
     "lbl:latitude":41.765703,
     "lbl:longitude":-88.363853,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Aurora",
+    "mz:postal_locality_alt":[
+        "Montgomery"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404498347,
         85633793,
+        102086925,
+        404498347,
         85940221,
-        102086925
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784196"
     },
     "wof:country":"US",
-    "wof:geomhash":"375965bff1863ac061ceaf335a859bbd",
+    "wof:geomhash":"70f542b67baadfa66ab0c3764f2b15b0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554733427,
-    "wof:lastmodified":1480916336,
+    "wof:lastmodified":1611184239,
     "wof:name":"60506",
     "wof:parent_id":85940221,
     "wof:placetype":"postalcode",

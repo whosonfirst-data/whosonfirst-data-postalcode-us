@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000907,
-    "geom:area_square_m":8548954.441201,
+    "geom:area_square_m":8548954.441212,
     "geom:bbox":"-74.063703,40.320494,-74.002658,40.352242",
     "geom:latitude":40.335708,
     "geom:longitude":-74.034566,
@@ -14,21 +14,26 @@
     "lbl:latitude":40.336952,
     "lbl:longitude":-74.034535,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Little Silver",
+    "mz:postal_locality_alt":[
+        "Red Bank"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478359,
         85633793,
+        102085049,
+        404478359,
         85975429,
-        102085049
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760864"
     },
     "wof:country":"US",
-    "wof:geomhash":"38134cb5e50b2bb2be5ef501d9175b34",
+    "wof:geomhash":"c62297547421b502cb92133dff7a7462",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554779155,
-    "wof:lastmodified":1480809857,
+    "wof:lastmodified":1611183979,
     "wof:name":"07739",
     "wof:parent_id":85975429,
     "wof:placetype":"postalcode",

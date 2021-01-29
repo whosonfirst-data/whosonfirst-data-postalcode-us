@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01129,
-    "geom:area_square_m":106016820.083222,
+    "geom:area_square_m":106016820.083145,
     "geom:bbox":"-76.317593,40.520529,-76.110156,40.692253",
     "geom:latitude":40.589632,
     "geom:longitude":-76.205381,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.592165,
     "lbl:longitude":-76.20579,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Schuylkill Haven",
+    "mz:postal_locality_alt":[
+        "Pottsville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404487365,
         85633793,
-        102081271
+        102081271,
+        404487365,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765001"
     },
     "wof:country":"US",
-    "wof:geomhash":"9f2a2250a7173ecaf2768636a3769b8f",
+    "wof:geomhash":"96e44836ce8da1f74c0028b6d0c5cb91",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554705531,
-    "wof:lastmodified":1480903398,
+    "wof:lastmodified":1611184114,
     "wof:name":"17972",
     "wof:parent_id":404487365,
     "wof:placetype":"postalcode",

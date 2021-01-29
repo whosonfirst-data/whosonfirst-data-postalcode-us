@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002926,
-    "geom:area_square_m":26924226.323678,
+    "geom:area_square_m":26924226.323656,
     "geom:bbox":"-88.174862,41.887655,-88.08147,41.942805",
     "geom:latitude":41.915859,
     "geom:longitude":-88.129185,
@@ -13,21 +13,26 @@
     "lbl:latitude":41.915737,
     "lbl:longitude":-88.129434,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Carol Stream",
+    "mz:postal_locality_alt":[
+        "Wheaton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404497763,
         85633793,
+        102081257,
+        404497763,
         85940171,
-        102081257
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784094"
     },
     "wof:country":"US",
-    "wof:geomhash":"15a54ff5e3a1a6b731705d70ddc699d9",
+    "wof:geomhash":"90b94e5f139ee776c4318fec44d0a429",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554733309,
-    "wof:lastmodified":1480830866,
+    "wof:lastmodified":1611184210,
     "wof:name":"60188",
     "wof:parent_id":85940171,
     "wof:placetype":"postalcode",

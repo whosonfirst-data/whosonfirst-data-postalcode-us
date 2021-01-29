@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011805,
-    "geom:area_square_m":105384472.423208,
+    "geom:area_square_m":105384472.423211,
     "geom:bbox":"-88.16119,43.717299,-88.039477,43.841023",
     "geom:latitude":43.782314,
     "geom:longitude":-88.106392,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.780438,
     "lbl:longitude":-88.106671,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Glenbeulah",
+    "mz:postal_locality_alt":[
+        "Greenbush"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404494437,
         85633793,
-        102081869
+        102081869,
+        404494437,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12780771"
     },
     "wof:country":"US",
-    "wof:geomhash":"f9dccf5be8b772c0b2a162f5ef7cae03",
+    "wof:geomhash":"5ddf750676f93cf4056b3b75f172c8a3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554727485,
-    "wof:lastmodified":1480819307,
+    "wof:lastmodified":1611185498,
     "wof:name":"53023",
     "wof:parent_id":404494437,
     "wof:placetype":"postalcode",

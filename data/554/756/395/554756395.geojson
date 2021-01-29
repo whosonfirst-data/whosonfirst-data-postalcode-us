@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004176,
-    "geom:area_square_m":34768851.132448,
+    "geom:area_square_m":34768851.132465,
     "geom:bbox":"-117.249103,47.627857,-117.154426,47.715044",
     "geom:latitude":47.67999,
     "geom:longitude":-117.209402,
@@ -13,20 +13,26 @@
     "lbl:latitude":47.686363,
     "lbl:longitude":-117.216681,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Spokane Valley",
+    "mz:postal_locality_alt":[
+        "Spokane",
+        "Veradale"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688623,
         102191575,
         85633793,
+        102087555,
         101730011,
-        102087555
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12799540"
     },
     "wof:country":"US",
-    "wof:geomhash":"a546b8a755a416e38d84112707af236d",
+    "wof:geomhash":"a7b936368c4e5774f482eea654937bba",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554756395,
-    "wof:lastmodified":1480787762,
+    "wof:lastmodified":1611184290,
     "wof:name":"99216",
     "wof:parent_id":101730011,
     "wof:placetype":"postalcode",

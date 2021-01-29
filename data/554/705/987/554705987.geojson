@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004627,
-    "geom:area_square_m":42986797.607682,
+    "geom:area_square_m":42986797.607617,
     "geom:bbox":"-76.049422,41.249755,-75.894842,41.344936",
     "geom:latitude":41.294142,
     "geom:longitude":-75.965341,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.295848,
     "lbl:longitude":-75.963463,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Shavertown",
+    "mz:postal_locality_alt":[
+        "Trucksville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404483531,
         85633793,
-        102081351
+        102081351,
+        404483531,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12765292"
     },
     "wof:country":"US",
-    "wof:geomhash":"e3017465405c0c8266164d3eb6df9c42",
+    "wof:geomhash":"880b625b4c6c3144a98da9228b4759fd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554705987,
-    "wof:lastmodified":1480831061,
+    "wof:lastmodified":1611184127,
     "wof:name":"18708",
     "wof:parent_id":404483531,
     "wof:placetype":"postalcode",

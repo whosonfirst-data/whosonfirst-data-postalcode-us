@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005739,
-    "geom:area_square_m":50336742.764333,
+    "geom:area_square_m":50336742.764412,
     "geom:bbox":"-93.106801,44.775174,-93.020006,44.884729",
     "geom:latitude":44.81831,
     "geom:longitude":-93.073611,
@@ -13,21 +13,26 @@
     "lbl:latitude":44.81941,
     "lbl:longitude":-93.06781,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Inver Grove Heights",
+    "mz:postal_locality_alt":[
+        "Inver Grove Hts"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404511971,
         85633793,
+        102087895,
+        404511971,
         85968481,
-        102087895
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781723"
     },
     "wof:country":"US",
-    "wof:geomhash":"2c3b9fa4706e1e4ae2395a833340ee58",
+    "wof:geomhash":"c961ddd371e8b056e2f468d92224153c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554729025,
-    "wof:lastmodified":1480782098,
+    "wof:lastmodified":1611185413,
     "wof:name":"55077",
     "wof:parent_id":85968481,
     "wof:placetype":"postalcode",

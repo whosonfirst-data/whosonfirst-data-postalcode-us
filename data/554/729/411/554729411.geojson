@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006654,
-    "geom:area_square_m":58002191.924441,
+    "geom:area_square_m":58002191.924457,
     "geom:bbox":"-93.235536,45.118895,-93.142421,45.211483",
     "geom:latitude":45.172831,
     "geom:longitude":-93.194588,
@@ -13,21 +13,26 @@
     "lbl:latitude":45.17658,
     "lbl:longitude":-93.181858,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Minneapolis",
+    "mz:postal_locality_alt":[
+        "Blaine"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404511275,
         85633793,
+        102087861,
+        404511275,
         85953007,
-        102087861
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781930"
     },
     "wof:country":"US",
-    "wof:geomhash":"7db6d964ea3bff3aab7e754be2ef1d5f",
+    "wof:geomhash":"42dd2eb0b2e735ae8511e29ab4553672",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554729411,
-    "wof:lastmodified":1480785926,
+    "wof:lastmodified":1611185432,
     "wof:name":"55449",
     "wof:parent_id":85953007,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035512,
-    "geom:area_square_m":362061357.657398,
+    "geom:area_square_m":362061357.657226,
     "geom:bbox":"-84.591941,34.36404,-84.256867,34.583633",
     "geom:latitude":34.458812,
     "geom:longitude":-84.433223,
@@ -14,20 +14,29 @@
     "lbl:latitude":34.459958,
     "lbl:longitude":-84.431753,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Jasper",
+    "mz:postal_locality_alt":[
+        "Big Canoe",
+        "Dallas",
+        "Dawsonville",
+        "Marble Hill",
+        "Tate"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688535,
         102191575,
         85633793,
+        102083619,
         85936881,
-        102083619
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770614"
     },
     "wof:country":"US",
-    "wof:geomhash":"e513888722e4e4541d0838668b7050bf",
+    "wof:geomhash":"117d2766a8aa0194927b4ce04b6a1bff",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +48,7 @@
         }
     ],
     "wof:id":554712847,
-    "wof:lastmodified":1480836119,
+    "wof:lastmodified":1611183725,
     "wof:name":"30143",
     "wof:parent_id":85936881,
     "wof:placetype":"postalcode",

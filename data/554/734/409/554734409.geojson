@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013375,
-    "geom:area_square_m":126283697.960246,
+    "geom:area_square_m":126283697.960307,
     "geom:bbox":"-88.499848,40.147281,-88.346424,40.296468",
     "geom:latitude":40.221469,
     "geom:longitude":-88.416799,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.214956,
     "lbl:longitude":-88.421171,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mahomet",
+    "mz:postal_locality_alt":[
+        "Fisher"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404497333,
         85633793,
-        102081657
+        102081657,
+        404497333,
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12784853"
     },
     "wof:country":"US",
-    "wof:geomhash":"d40b7b1ac82b7096a478bcdd030c11b1",
+    "wof:geomhash":"9c50315d7a8cf5fb4f059b9ef040083e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554734409,
-    "wof:lastmodified":1480823185,
+    "wof:lastmodified":1611184186,
     "wof:name":"61853",
     "wof:parent_id":404497333,
     "wof:placetype":"postalcode",

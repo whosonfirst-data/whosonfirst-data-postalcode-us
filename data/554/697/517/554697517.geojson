@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007819,
-    "geom:area_square_m":71927154.356918,
+    "geom:area_square_m":71927154.356934,
     "geom:bbox":"-71.3817,41.893199,-71.208162,41.9873",
     "geom:latitude":41.931067,
     "geom:longitude":-71.294981,
@@ -14,21 +14,28 @@
     "lbl:latitude":41.931653,
     "lbl:longitude":-71.294503,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Attleboro",
+    "mz:postal_locality_alt":[
+        "South Attleboro",
+        "Assonet",
+        "Taunton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476165,
         85633793,
+        102084407,
+        404476165,
         85950363,
-        102084407
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758942"
     },
     "wof:country":"US",
-    "wof:geomhash":"bf1b593deb83079a67c1a6d2a329dee2",
+    "wof:geomhash":"d633f674b98ee30dc63ee51609ea38f4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +48,7 @@
         }
     ],
     "wof:id":554697517,
-    "wof:lastmodified":1480817072,
+    "wof:lastmodified":1611184646,
     "wof:name":"02703",
     "wof:parent_id":85950363,
     "wof:placetype":"postalcode",

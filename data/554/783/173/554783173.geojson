@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006436,
-    "geom:area_square_m":58921559.65476,
+    "geom:area_square_m":58921559.654769,
     "geom:bbox":"-87.925254,42.200234,-87.799034,42.280025",
     "geom:latitude":42.238937,
     "geom:longitude":-87.865957,
@@ -14,21 +14,26 @@
     "lbl:latitude":42.235997,
     "lbl:longitude":-87.864777,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lake Forest",
+    "mz:postal_locality_alt":[
+        "Mettawa"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688697,
         102191575,
-        404498369,
         85633793,
+        102086215,
+        404498369,
         85938355,
-        102086215
+        85688697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12783969"
     },
     "wof:country":"US",
-    "wof:geomhash":"e5ce6436ffdf79a23a56ac5d9416fa79",
+    "wof:geomhash":"56387925d08e82f3e0d53dea3aac1a62",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554783173,
-    "wof:lastmodified":1480915984,
+    "wof:lastmodified":1611183885,
     "wof:name":"60045",
     "wof:parent_id":85938355,
     "wof:placetype":"postalcode",

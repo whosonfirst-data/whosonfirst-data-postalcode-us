@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001761,
-    "geom:area_square_m":16507537.011938,
+    "geom:area_square_m":16507537.011937,
     "geom:bbox":"-74.39332,40.685397,-74.330619,40.739229",
     "geom:latitude":40.714707,
     "geom:longitude":-74.365919,
@@ -13,21 +13,26 @@
     "lbl:latitude":40.714923,
     "lbl:longitude":-74.366372,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Summit",
+    "mz:postal_locality_alt":[
+        "Morristown"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478403,
         85633793,
+        102085995,
+        404478403,
         85975829,
-        102085995
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760941"
     },
     "wof:country":"US",
-    "wof:geomhash":"a9d634011a6b24ff0fb696545f908cac",
+    "wof:geomhash":"ee71ad41fb4ec56ee3e3bd257945edd2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554700261,
-    "wof:lastmodified":1480816152,
+    "wof:lastmodified":1611183184,
     "wof:name":"07901",
     "wof:parent_id":85975829,
     "wof:placetype":"postalcode",

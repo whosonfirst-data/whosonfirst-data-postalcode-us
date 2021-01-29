@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006513,
-    "geom:area_square_m":59403681.916695,
+    "geom:area_square_m":59403681.916675,
     "geom:bbox":"-72.534657,42.428853,-72.439607,42.518586",
     "geom:latitude":42.473576,
     "geom:longitude":-72.487458,
@@ -14,20 +14,25 @@
     "lbl:latitude":42.468898,
     "lbl:longitude":-72.484579,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Leverett",
+    "mz:postal_locality_alt":[
+        "Whately"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476237,
         85633793,
-        102084457
+        102084457,
+        404476237,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758319"
     },
     "wof:country":"US",
-    "wof:geomhash":"ad580b29059dab8117f6bcb8b7153e1b",
+    "wof:geomhash":"748f2dbf9aae3808ae44954a7e083f80",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554696819,
-    "wof:lastmodified":1480803256,
+    "wof:lastmodified":1611184667,
     "wof:name":"01054",
     "wof:parent_id":404476237,
     "wof:placetype":"postalcode",

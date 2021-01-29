@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001092,
-    "geom:area_square_m":10577553.01299,
+    "geom:area_square_m":10577553.012964,
     "geom:bbox":"-120.890504,38.405799,-120.827919,38.455588",
     "geom:latitude":38.435423,
     "geom:longitude":-120.859498,
@@ -14,20 +14,25 @@
     "lbl:latitude":38.436774,
     "lbl:longitude":-120.857624,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"El Dorado",
+    "mz:postal_locality_alt":[
+        "Drytown"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102080865,
         85926797,
-        102080865
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12797969"
     },
     "wof:country":"US",
-    "wof:geomhash":"0a60cc58c4ef6e969ae0fc13491ba1c1",
+    "wof:geomhash":"419aa603b1a6e850c5198910ac72a5ed",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554773035,
-    "wof:lastmodified":1480904908,
+    "wof:lastmodified":1611185149,
     "wof:name":"95699",
     "wof:parent_id":85926797,
     "wof:placetype":"postalcode",

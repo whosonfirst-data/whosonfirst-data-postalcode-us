@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001375,
-    "geom:area_square_m":12688580.49083,
+    "geom:area_square_m":12688580.490825,
     "geom:bbox":"-72.90848,41.717272,-72.859852,41.776196",
     "geom:latitude":41.746418,
     "geom:longitude":-72.888086,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.748955,
     "lbl:longitude":-72.889415,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Unionville",
+    "mz:postal_locality_alt":[
+        "Canton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688629,
         102191575,
-        404495977,
         85633793,
-        102085381
+        102085381,
+        404495977,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760232"
     },
     "wof:country":"US",
-    "wof:geomhash":"b2236655fe94510869154faf281e6334",
+    "wof:geomhash":"a98931f7635aa6731d35edc153e581e8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554699363,
-    "wof:lastmodified":1480815742,
+    "wof:lastmodified":1611184602,
     "wof:name":"06085",
     "wof:parent_id":404495977,
     "wof:placetype":"postalcode",

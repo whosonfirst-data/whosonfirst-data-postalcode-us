@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001464,
-    "geom:area_square_m":15043791.949875,
+    "geom:area_square_m":15043791.949906,
     "geom:bbox":"-118.375171,33.780445,-118.325299,33.82929",
     "geom:latitude":33.808881,
     "geom:longitude":-118.34798,
@@ -13,20 +13,26 @@
     "lbl:latitude":33.807882,
     "lbl:longitude":-118.347957,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Torrance",
+    "mz:postal_locality_alt":[
+        "Rolling Hls Ests",
+        "Palos Verdes Peninsula"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086957,
         85923785,
-        102086957
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795788"
     },
     "wof:country":"US",
-    "wof:geomhash":"abce9bf9e9d43e4bc0c5ac51db7d2442",
+    "wof:geomhash":"b659bb8eaeae7722eab6c71ae609ecb9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554784101,
-    "wof:lastmodified":1480912622,
+    "wof:lastmodified":1611183948,
     "wof:name":"90505",
     "wof:parent_id":85923785,
     "wof:placetype":"postalcode",

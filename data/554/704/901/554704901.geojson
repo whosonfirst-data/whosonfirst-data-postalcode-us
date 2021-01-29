@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008685,
-    "geom:area_square_m":81772534.065426,
+    "geom:area_square_m":81772534.065378,
     "geom:bbox":"-77.408006,40.357322,-77.227961,40.461041",
     "geom:latitude":40.40961,
     "geom:longitude":-77.312083,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.406934,
     "lbl:longitude":-77.306825,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Elliottsburg",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404483693,
         85633793,
-        102080963
+        102080963,
+        404483693,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764568"
     },
     "wof:country":"US",
-    "wof:geomhash":"01e7aca388177d218b615d7d4aa2b194",
+    "wof:geomhash":"b333b91afa2082dce3f1a466fc866a71",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554704901,
-    "wof:lastmodified":1480904077,
+    "wof:lastmodified":1611184487,
     "wof:name":"17024",
     "wof:parent_id":404483693,
     "wof:placetype":"postalcode",

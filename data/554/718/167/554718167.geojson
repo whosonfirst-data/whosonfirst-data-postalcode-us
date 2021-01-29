@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032644,
-    "geom:area_square_m":341030772.008572,
+    "geom:area_square_m":341030772.008803,
     "geom:bbox":"-89.902181,32.156779,-89.707321,32.50522",
     "geom:latitude":32.342934,
     "geom:longitude":-89.798046,
@@ -14,19 +14,25 @@
     "lbl:latitude":32.344663,
     "lbl:longitude":-89.794359,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pelahatchie",
+    "mz:postal_locality_alt":[
+        "Morton",
+        "Brandon"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688579,
-        102084869
+        102084869,
+        85688579
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12774809"
     },
     "wof:country":"US",
-    "wof:geomhash":"95323d3d22cf204f1df901216da80a1b",
+    "wof:geomhash":"4d168db6483c81b8778f3c07229f36e7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554718167,
-    "wof:lastmodified":1480839163,
+    "wof:lastmodified":1611185540,
     "wof:name":"39145",
     "wof:parent_id":102084869,
     "wof:placetype":"postalcode",

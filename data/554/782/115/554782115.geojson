@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003901,
-    "geom:area_square_m":42960502.150566,
+    "geom:area_square_m":42960502.150542,
     "geom:bbox":"-82.293708,27.026081,-82.191288,27.082437",
     "geom:latitude":27.0539,
     "geom:longitude":-82.24463,
@@ -13,20 +13,22 @@
     "lbl:latitude":27.052571,
     "lbl:longitude":-82.244353,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"North Port",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688651,
         102191575,
         85633793,
+        102085795,
         85932715,
-        102085795
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12772734"
     },
     "wof:country":"US",
-    "wof:geomhash":"285d7066f833b4d77bf2f651d88615ec",
+    "wof:geomhash":"3a7ddd7a1a73e90fcdcb09a58f67ec8e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +40,7 @@
         }
     ],
     "wof:id":554782115,
-    "wof:lastmodified":1480811103,
+    "wof:lastmodified":1611183632,
     "wof:name":"34287",
     "wof:parent_id":85932715,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019308,
-    "geom:area_square_m":185308118.010816,
+    "geom:area_square_m":185308118.010464,
     "geom:bbox":"-121.021776,38.991723,-120.784446,39.176783",
     "geom:latitude":39.089974,
     "geom:longitude":-120.916062,
@@ -14,19 +14,24 @@
     "lbl:latitude":39.111833,
     "lbl:longitude":-120.877969,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Colfax",
+    "mz:postal_locality_alt":[
+        "Weimar"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688637,
-        102080863
+        102080863,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12797974"
     },
     "wof:country":"US",
-    "wof:geomhash":"892a2eae28fa76d8f0cd1f19a7221ad0",
+    "wof:geomhash":"2cc25aefe62faa2ed78f190f24ba8e50",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554753995,
-    "wof:lastmodified":1480906296,
+    "wof:lastmodified":1611182950,
     "wof:name":"95713",
     "wof:parent_id":102080863,
     "wof:placetype":"postalcode",

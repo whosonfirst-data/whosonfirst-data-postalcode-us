@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008865,
-    "geom:area_square_m":77685351.480495,
+    "geom:area_square_m":77685351.48054,
     "geom:bbox":"-85.327595,44.80142,-85.144996,44.946319",
     "geom:latitude":44.871329,
     "geom:longitude":-85.242426,
@@ -14,20 +14,25 @@
     "lbl:latitude":44.864922,
     "lbl:longitude":-85.239456,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Alden",
+    "mz:postal_locality_alt":[
+        "Bellaire"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404506847,
         85633793,
-        102083069
+        102083069,
+        404506847,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779423"
     },
     "wof:country":"US",
-    "wof:geomhash":"c69c594a7887a63f050139ec612d652c",
+    "wof:geomhash":"5e3ed169fed534522d7a77d0173345ce",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554725145,
-    "wof:lastmodified":1480839055,
+    "wof:lastmodified":1611183267,
     "wof:name":"49612",
     "wof:parent_id":404506847,
     "wof:placetype":"postalcode",

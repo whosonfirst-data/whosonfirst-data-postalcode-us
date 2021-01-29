@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048047,
-    "geom:area_square_m":451413972.184287,
+    "geom:area_square_m":451413972.184332,
     "geom:bbox":"-84.80267,40.422102,-84.455052,40.647866",
     "geom:latitude":40.552664,
     "geom:longitude":-84.598046,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.555742,
     "lbl:longitude":-84.598725,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Celina",
+    "mz:postal_locality_alt":[
+        "Chickasaw"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404526595,
         85633793,
-        102083647
+        102083647,
+        404526595,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777466"
     },
     "wof:country":"US",
-    "wof:geomhash":"7905727406a27d31010f1d3bdf401e36",
+    "wof:geomhash":"6a46f2780eea3ff31c909432a42006c9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554722253,
-    "wof:lastmodified":1480908860,
+    "wof:lastmodified":1611183242,
     "wof:name":"45822",
     "wof:parent_id":404526595,
     "wof:placetype":"postalcode",

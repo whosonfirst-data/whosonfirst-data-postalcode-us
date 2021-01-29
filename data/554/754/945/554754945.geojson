@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041948,
-    "geom:area_square_m":371795199.233212,
+    "geom:area_square_m":371795199.233092,
     "geom:bbox":"-123.473987,44.10193,-123.116346,44.31701",
     "geom:latitude":44.210572,
     "geom:longitude":-123.281618,
@@ -14,19 +14,24 @@
     "lbl:latitude":44.208157,
     "lbl:longitude":-123.279934,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Junction City",
+    "mz:postal_locality_alt":[
+        "Alvadore"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688513,
-        102081603
+        102081603,
+        85688513
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12798678"
     },
     "wof:country":"US",
-    "wof:geomhash":"3643b037d92159daa5056683fdf6fea0",
+    "wof:geomhash":"d3c9f028d9c7016bbea8bdeb64a3d925",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +42,7 @@
         }
     ],
     "wof:id":554754945,
-    "wof:lastmodified":1480833650,
+    "wof:lastmodified":1611182920,
     "wof:name":"97448",
     "wof:parent_id":102081603,
     "wof:placetype":"postalcode",

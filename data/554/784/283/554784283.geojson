@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003201,
-    "geom:area_square_m":33096923.447169,
+    "geom:area_square_m":33096923.44716,
     "geom:bbox":"-117.582777,33.163783,-117.322427,33.418232",
     "geom:latitude":33.269597,
     "geom:longitude":-117.42871,
@@ -13,20 +13,26 @@
     "lbl:latitude":33.195534,
     "lbl:longitude":-117.354538,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Oceanside",
+    "mz:postal_locality_alt":[
+        "San Marcos",
+        "Encinitas"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102083569,
         85922239,
-        102083569
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796223"
     },
     "wof:country":"US",
-    "wof:geomhash":"e1fc300d0521b3b1132dfe92e592ed2b",
+    "wof:geomhash":"4aa8da3b46d1f0bae5151d55507851ca",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554784283,
-    "wof:lastmodified":1480835295,
+    "wof:lastmodified":1611183948,
     "wof:name":"92054",
     "wof:parent_id":85922239,
     "wof:placetype":"postalcode",

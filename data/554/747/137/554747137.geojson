@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005658,
-    "geom:area_square_m":60411587.126795,
+    "geom:area_square_m":60411587.126879,
     "geom:bbox":"-97.86619,30.239543,-97.760657,30.352277",
     "geom:latitude":30.29729,
     "geom:longitude":-97.810556,
@@ -13,20 +13,25 @@
     "lbl:latitude":30.296865,
     "lbl:longitude":-97.809578,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Austin",
+    "mz:postal_locality_alt":[
+        "West Lake Hills"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102081935,
         101725987,
-        102081935
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12792324"
     },
     "wof:country":"US",
-    "wof:geomhash":"b08c48502b8570c8e49bd6fabda5b3a6",
+    "wof:geomhash":"ee1b4ca9cd0a3fec303e738be5e9238b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554747137,
-    "wof:lastmodified":1480831121,
+    "wof:lastmodified":1611183472,
     "wof:name":"78746",
     "wof:parent_id":101725987,
     "wof:placetype":"postalcode",

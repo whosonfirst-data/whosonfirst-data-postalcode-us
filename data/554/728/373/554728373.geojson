@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033402,
-    "geom:area_square_m":293114662.539297,
+    "geom:area_square_m":293114662.539045,
     "geom:bbox":"-89.346503,44.671371,-88.992408,44.924597",
     "geom:latitude":44.791195,
     "geom:longitude":-89.178126,
@@ -14,20 +14,25 @@
     "lbl:latitude":44.789831,
     "lbl:longitude":-89.176405,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wittenberg",
+    "mz:postal_locality_alt":[
+        "Elderon"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404494427,
         85633793,
-        102081859
+        102081859,
+        404494427,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781364"
     },
     "wof:country":"US",
-    "wof:geomhash":"a388a93683fdac8dc91658490292e8b1",
+    "wof:geomhash":"11e035ec7ca37d14d1e0940ac290ae37",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554728373,
-    "wof:lastmodified":1480833330,
+    "wof:lastmodified":1611185094,
     "wof:name":"54499",
     "wof:parent_id":404494427,
     "wof:placetype":"postalcode",

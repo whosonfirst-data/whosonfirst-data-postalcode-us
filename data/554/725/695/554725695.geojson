@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.058247,
-    "geom:area_square_m":543306967.952589,
+    "geom:area_square_m":543306967.95249,
     "geom:bbox":"-93.918794,40.896761,-93.585986,41.162082",
     "geom:latitude":41.032051,
     "geom:longitude":-93.766151,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.031685,
     "lbl:longitude":-93.766137,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Osceola",
+    "mz:postal_locality_alt":[
+        "Weldon"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688713,
         102191575,
         85633793,
+        102086511,
         85943229,
-        102086511
+        85688713
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779826"
     },
     "wof:country":"US",
-    "wof:geomhash":"7254334e7136f5e2cbca7d9e52490a89",
+    "wof:geomhash":"8df812f5f2516a0517d646ec79d77b98",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554725695,
-    "wof:lastmodified":1480916915,
+    "wof:lastmodified":1611183266,
     "wof:name":"50213",
     "wof:parent_id":85943229,
     "wof:placetype":"postalcode",

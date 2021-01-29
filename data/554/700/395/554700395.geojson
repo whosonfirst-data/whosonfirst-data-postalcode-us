@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005998,
-    "geom:area_square_m":56857839.072897,
+    "geom:area_square_m":56857839.072903,
     "geom:bbox":"-74.983717,39.91428,-74.84855,40.000745",
     "geom:latitude":39.948365,
     "geom:longitude":-74.904694,
@@ -14,20 +14,26 @@
     "lbl:latitude":39.948992,
     "lbl:longitude":-74.900247,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mount Laurel",
+    "mz:postal_locality_alt":[
+        "Mt Laurel",
+        "Maple Shade"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404477867,
         85633793,
-        102087415
+        102087415,
+        404477867,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761024"
     },
     "wof:country":"US",
-    "wof:geomhash":"112985ba1edf0876474c11e5b032dfc8",
+    "wof:geomhash":"fc790585baadd3c87facd028062f1b51",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554700395,
-    "wof:lastmodified":1480823436,
+    "wof:lastmodified":1611183193,
     "wof:name":"08054",
     "wof:parent_id":404477867,
     "wof:placetype":"postalcode",

@@ -14,21 +14,27 @@
     "lbl:latitude":42.299489,
     "lbl:longitude":-71.232519,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Needham",
+    "mz:postal_locality_alt":[
+        "Needham Heights",
+        "Waltham"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476585,
         85633793,
+        102084403,
+        404476585,
         85950835,
-        102084403
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758869"
     },
     "wof:country":"US",
-    "wof:geomhash":"2efeb3103f9dc17875b8551790c6589b",
+    "wof:geomhash":"cfa6ab7239c82732dcfdca7d712f7e51",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554697511,
-    "wof:lastmodified":1480799918,
+    "wof:lastmodified":1611184649,
     "wof:name":"02494",
     "wof:parent_id":85950835,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015613,
-    "geom:area_square_m":157257945.688701,
+    "geom:area_square_m":157257945.68866,
     "geom:bbox":"-76.854488,35.378284,-76.663,35.531715",
     "geom:latitude":35.455176,
     "geom:longitude":-76.755799,
@@ -14,19 +14,25 @@
     "lbl:latitude":35.467089,
     "lbl:longitude":-76.759752,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bath",
+    "mz:postal_locality_alt":[
+        "Pinetown",
+        "Belhaven"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688773,
-        102080941
+        102080941,
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12769207"
     },
     "wof:country":"US",
-    "wof:geomhash":"8b348f0f5a1403453820396cf6f84136",
+    "wof:geomhash":"4278bf633d901b3c1e352241ec09ebcc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554780911,
-    "wof:lastmodified":1480906283,
+    "wof:lastmodified":1611185191,
     "wof:name":"27808",
     "wof:parent_id":102080941,
     "wof:placetype":"postalcode",

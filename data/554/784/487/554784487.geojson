@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002308,
-    "geom:area_square_m":23742519.716514,
+    "geom:area_square_m":23742519.716511,
     "geom:bbox":"-117.98054,33.686782,-117.915164,33.733504",
     "geom:latitude":33.710491,
     "geom:longitude":-117.95119,
@@ -13,20 +13,25 @@
     "lbl:latitude":33.710582,
     "lbl:longitude":-117.951129,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fountain Valley",
+    "mz:postal_locality_alt":[
+        "Huntington Beach"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102080847,
         85923149,
-        102080847
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796613"
     },
     "wof:country":"US",
-    "wof:geomhash":"b82df77763e491699dd2a48cd1519edd",
+    "wof:geomhash":"a41a370d850c29f9f709974e4a9dd96d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554784487,
-    "wof:lastmodified":1480906254,
+    "wof:lastmodified":1611183952,
     "wof:name":"92708",
     "wof:parent_id":85923149,
     "wof:placetype":"postalcode",

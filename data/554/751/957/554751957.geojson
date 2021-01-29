@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000825,
-    "geom:area_square_m":8429600.254163,
+    "geom:area_square_m":8429600.254158,
     "geom:bbox":"-118.472187,34.249597,-118.44202,34.291621",
     "geom:latitude":34.265932,
     "geom:longitude":-118.459475,
@@ -13,20 +13,25 @@
     "lbl:latitude":34.265879,
     "lbl:longitude":-118.456748,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mission Hills",
+    "mz:postal_locality_alt":[
+        "San Fernando"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102086957,
         85923517,
-        102086957
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12795993"
     },
     "wof:country":"US",
-    "wof:geomhash":"19469f6c68c88b02944d99d75a531ce0",
+    "wof:geomhash":"9c12700f21d4af1054cab657b26554b4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554751957,
-    "wof:lastmodified":1480912615,
+    "wof:lastmodified":1611184344,
     "wof:name":"91345",
     "wof:parent_id":85923517,
     "wof:placetype":"postalcode",

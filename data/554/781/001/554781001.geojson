@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014498,
-    "geom:area_square_m":147721790.425168,
+    "geom:area_square_m":147721790.425028,
     "geom:bbox":"-77.654918,34.347588,-77.457794,34.620518",
     "geom:latitude":34.511235,
     "geom:longitude":-77.547627,
@@ -14,20 +14,27 @@
     "lbl:latitude":34.483968,
     "lbl:longitude":-77.556317,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Holly Ridge",
+    "mz:postal_locality_alt":[
+        "Surf City",
+        "Topsail Beach",
+        "Southern Pines"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688773,
         102191575,
         85633793,
+        102087881,
         85981261,
-        102087881
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12769659"
     },
     "wof:country":"US",
-    "wof:geomhash":"4755dbcc57b10423dd2975ed58f010aa",
+    "wof:geomhash":"95dfdd75b144b32125bab8ef49ca297d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554781001,
-    "wof:lastmodified":1480786749,
+    "wof:lastmodified":1611184819,
     "wof:name":"28445",
     "wof:parent_id":85981261,
     "wof:placetype":"postalcode",

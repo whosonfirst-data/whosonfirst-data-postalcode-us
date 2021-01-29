@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016394,
-    "geom:area_square_m":157041578.822361,
+    "geom:area_square_m":157041578.822486,
     "geom:bbox":"-96.172332,39.126527,-95.998446,39.299876",
     "geom:latitude":39.221621,
     "geom:longitude":-96.079273,
@@ -14,20 +14,25 @@
     "lbl:latitude":39.225094,
     "lbl:longitude":-96.080292,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"St Marys",
+    "mz:postal_locality_alt":[
+        "Saint Marys"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404505573,
         85633793,
-        102082663
+        102082663,
+        404505573,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786889"
     },
     "wof:country":"US",
-    "wof:geomhash":"a1841a3396bb2d00e229ea472714e942",
+    "wof:geomhash":"f2b2080e5f487c44d61ea1998639d668",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554738205,
-    "wof:lastmodified":1480800694,
+    "wof:lastmodified":1611183104,
     "wof:name":"66536",
     "wof:parent_id":404505573,
     "wof:placetype":"postalcode",

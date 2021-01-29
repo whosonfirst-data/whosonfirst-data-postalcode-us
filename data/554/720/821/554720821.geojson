@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008088,
-    "geom:area_square_m":76318624.762656,
+    "geom:area_square_m":76318624.762664,
     "geom:bbox":"-81.802765,40.218223,-81.647569,40.294333",
     "geom:latitude":40.256939,
     "geom:longitude":-81.731208,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.26491,
     "lbl:longitude":-81.731281,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"West Lafayette",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404525117,
         85633793,
-        102083635
+        102083635,
+        404525117,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776498"
     },
     "wof:country":"US",
-    "wof:geomhash":"15d9df4b876ea4f380e52341fc4e3eae",
+    "wof:geomhash":"500c1f99dcaaf0d26c79b2bda98b72ea",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554720821,
-    "wof:lastmodified":1480837436,
+    "wof:lastmodified":1611185455,
     "wof:name":"43845",
     "wof:parent_id":404525117,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000757,
-    "geom:area_square_m":7812824.431499,
+    "geom:area_square_m":7812824.4315,
     "geom:bbox":"-94.154299,33.423325,-94.10429,33.454233",
     "geom:latitude":33.441473,
     "geom:longitude":-94.126515,
@@ -14,20 +14,25 @@
     "lbl:latitude":33.441822,
     "lbl:longitude":-94.128587,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Nash",
+    "mz:postal_locality_alt":[
+        "Texarkana"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688753,
         102191575,
         85633793,
+        102081075,
         101724691,
-        102081075
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12790658"
     },
     "wof:country":"US",
-    "wof:geomhash":"654f85bee2fb3fea584b297873029393",
+    "wof:geomhash":"ebaf267edfb45e9b537ff2fa8fd78253",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554744675,
-    "wof:lastmodified":1480829821,
+    "wof:lastmodified":1611184713,
     "wof:name":"75569",
     "wof:parent_id":101724691,
     "wof:placetype":"postalcode",

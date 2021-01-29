@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003219,
-    "geom:area_square_m":29471300.338104,
+    "geom:area_square_m":29471300.3381,
     "geom:bbox":"-73.256797,42.196991,-73.161462,42.260061",
     "geom:latitude":42.234144,
     "geom:longitude":-73.198934,
@@ -14,20 +14,25 @@
     "lbl:latitude":42.23159,
     "lbl:longitude":-73.202428,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Tyringham",
+    "mz:postal_locality_alt":[
+        "Monterey"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404475927,
         85633793,
-        102084369
+        102084369,
+        404475927,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758411"
     },
     "wof:country":"US",
-    "wof:geomhash":"ca6ba3d056a6f9e37ea07fce16a5d6bc",
+    "wof:geomhash":"3f77bc2b120005bfb75bd539123a5167",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554765867,
-    "wof:lastmodified":1480803163,
+    "wof:lastmodified":1611182978,
     "wof:name":"01264",
     "wof:parent_id":404475927,
     "wof:placetype":"postalcode",

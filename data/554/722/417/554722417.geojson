@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00684,
-    "geom:area_square_m":64474852.119825,
+    "geom:area_square_m":64474852.119898,
     "geom:bbox":"-86.430922,40.279223,-86.318394,40.402749",
     "geom:latitude":40.336274,
     "geom:longitude":-86.377328,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.336265,
     "lbl:longitude":-86.377328,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Michigantown",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404501251,
         85633793,
-        102087035
+        102087035,
+        404501251,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777565"
     },
     "wof:country":"US",
-    "wof:geomhash":"0488a5e4bac4abeb8621f8e0218d7cb0",
+    "wof:geomhash":"b9e991a4375bc4e9cf35b8a7b57801d3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554722417,
-    "wof:lastmodified":1480784940,
+    "wof:lastmodified":1611183236,
     "wof:name":"46057",
     "wof:parent_id":404501251,
     "wof:placetype":"postalcode",

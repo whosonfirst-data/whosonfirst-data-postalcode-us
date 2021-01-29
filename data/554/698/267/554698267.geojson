@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003699,
-    "geom:area_square_m":32891571.732384,
+    "geom:area_square_m":32891571.732352,
     "geom:bbox":"-70.158558,43.98386,-70.081613,44.06559",
     "geom:latitude":44.025985,
     "geom:longitude":-70.116561,
@@ -14,20 +14,22 @@
     "lbl:latitude":44.010547,
     "lbl:longitude":-70.127409,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Lisbon",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404475339,
         85633793,
-        102087457
+        102087457,
+        404475339,
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759484"
     },
     "wof:country":"US",
-    "wof:geomhash":"1898c66dca824fe5936b9c8b91687be8",
+    "wof:geomhash":"f4295e121e522bbebc2a871d331689bc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554698267,
-    "wof:lastmodified":1480783487,
+    "wof:lastmodified":1611184685,
     "wof:name":"04250",
     "wof:parent_id":404475339,
     "wof:placetype":"postalcode",

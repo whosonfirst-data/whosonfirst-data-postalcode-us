@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002703,
-    "geom:area_square_m":30020901.985128,
+    "geom:area_square_m":30020901.985053,
     "geom:bbox":"-80.202994,26.046801,-80.145418,26.126773",
     "geom:latitude":26.088273,
     "geom:longitude":-80.181666,
@@ -13,20 +13,25 @@
     "lbl:latitude":26.088127,
     "lbl:longitude":-80.181807,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Fort Lauderdale",
+    "mz:postal_locality_alt":[
+        "Davie"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688651,
         102191575,
         85633793,
+        102084727,
         85932397,
-        102084727
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12772237"
     },
     "wof:country":"US",
-    "wof:geomhash":"61f9737e9a6eb9ddb3a67521e618f719",
+    "wof:geomhash":"7d1fc20e942a843d174f02781055b7be",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554781665,
-    "wof:lastmodified":1480802318,
+    "wof:lastmodified":1611184834,
     "wof:name":"33312",
     "wof:parent_id":85932397,
     "wof:placetype":"postalcode",

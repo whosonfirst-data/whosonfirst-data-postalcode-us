@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018845,
-    "geom:area_square_m":202225300.771966,
+    "geom:area_square_m":202225300.772091,
     "geom:bbox":"-81.532927,29.723807,-81.346671,29.861354",
     "geom:latitude":29.789074,
     "geom:longitude":-81.441765,
@@ -14,19 +14,25 @@
     "lbl:latitude":29.788112,
     "lbl:longitude":-81.434324,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Elkton",
+    "mz:postal_locality_alt":[
+        "Hastings",
+        "Chester"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688651,
-        102085787
+        102085787,
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12771459"
     },
     "wof:country":"US",
-    "wof:geomhash":"8d2661d7d9430ef3b0b779788c2f95a4",
+    "wof:geomhash":"fbab214154f6a1bde99b5076e37650f8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554781175,
-    "wof:lastmodified":1480815401,
+    "wof:lastmodified":1611184822,
     "wof:name":"32033",
     "wof:parent_id":102085787,
     "wof:placetype":"postalcode",

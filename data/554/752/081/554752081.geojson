@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007371,
-    "geom:area_square_m":75530662.537461,
+    "geom:area_square_m":75530662.537443,
     "geom:bbox":"-117.654503,33.983079,-117.524085,34.067736",
     "geom:latitude":34.034565,
     "geom:longitude":-117.592091,
@@ -13,20 +13,25 @@
     "lbl:latitude":34.035602,
     "lbl:longitude":-117.591528,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ontario",
+    "mz:postal_locality_alt":[
+        "Guasti"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688637,
         102191575,
         85633793,
+        102085395,
         85923933,
-        102085395
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12796119"
     },
     "wof:country":"US",
-    "wof:geomhash":"b0da268a060f1e0c24bcc08fb40575c9",
+    "wof:geomhash":"1dfbeff0eb33dd0a3dbecae3737f51a7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554752081,
-    "wof:lastmodified":1480913409,
+    "wof:lastmodified":1611182543,
     "wof:name":"91761",
     "wof:parent_id":85923933,
     "wof:placetype":"postalcode",

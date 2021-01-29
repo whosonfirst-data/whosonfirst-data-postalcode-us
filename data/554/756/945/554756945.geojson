@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007655,
-    "geom:area_square_m":72138481.322611,
+    "geom:area_square_m":72138481.322533,
     "geom:bbox":"-75.188177,40.302408,-75.027152,40.403349",
     "geom:latitude":40.353069,
     "geom:longitude":-75.096764,
@@ -13,20 +13,28 @@
     "lbl:latitude":40.352134,
     "lbl:longitude":-75.09568,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Doylestown",
+    "mz:postal_locality_alt":[
+        "Buckingham",
+        "Plumsteadville",
+        "Mechanicsville",
+        "Danboro"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404484803,
         85633793,
-        102080987
+        102080987,
+        404484803,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"28350083"
     },
     "wof:country":"US",
-    "wof:geomhash":"b39ed6646bdcd05ec8a280f5e882bdef",
+    "wof:geomhash":"2de970efec6dd93e67f9d75e04355320",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +46,7 @@
         }
     ],
     "wof:id":554756945,
-    "wof:lastmodified":1480906423,
+    "wof:lastmodified":1611184311,
     "wof:name":"18902",
     "wof:parent_id":404484803,
     "wof:placetype":"postalcode",

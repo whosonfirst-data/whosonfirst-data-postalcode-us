@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040868,
-    "geom:area_square_m":390641243.688834,
+    "geom:area_square_m":390641243.688865,
     "geom:bbox":"-100.164044,39.171939,-100.021813,39.567344",
     "geom:latitude":39.373417,
     "geom:longitude":-100.10611,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.37267,
     "lbl:longitude":-100.102673,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Morland",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404503715,
         85633793,
-        102084143
+        102084143,
+        404503715,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787371"
     },
     "wof:country":"US",
-    "wof:geomhash":"9864405f39c99b7c3bb80199af25534c",
+    "wof:geomhash":"c1a6e9f4385c4f50b2d036e8ed8eda6a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554739187,
-    "wof:lastmodified":1480800138,
+    "wof:lastmodified":1611182661,
     "wof:name":"67650",
     "wof:parent_id":404503715,
     "wof:placetype":"postalcode",

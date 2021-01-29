@@ -14,21 +14,27 @@
     "lbl:latitude":40.715359,
     "lbl:longitude":-73.793072,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Jamaica",
+    "mz:postal_locality_alt":[
+        "Queens",
+        "New York"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404521211,
         85633793,
+        102082361,
+        404521211,
         85977539,
-        102082361
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761823"
     },
     "wof:country":"US",
-    "wof:geomhash":"326f845feb9d2a9f683f7e312b88fe34",
+    "wof:geomhash":"fb95d56589f92b9bdf215422c30b192d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +47,7 @@
         }
     ],
     "wof:id":554779713,
-    "wof:lastmodified":1480790270,
+    "wof:lastmodified":1611183973,
     "wof:name":"11432",
     "wof:parent_id":85977539,
     "wof:placetype":"postalcode",

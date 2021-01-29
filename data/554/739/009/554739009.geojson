@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049204,
-    "geom:area_square_m":479552107.974056,
+    "geom:area_square_m":479552107.974046,
     "geom:bbox":"-98.08751,37.831725,-97.720341,38.092884",
     "geom:latitude":37.98303,
     "geom:longitude":-97.929732,
@@ -13,20 +13,25 @@
     "lbl:latitude":37.977493,
     "lbl:longitude":-97.926452,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hutchinson",
+    "mz:postal_locality_alt":[
+        "Yoder"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404504719,
         85633793,
-        102082171
+        102082171,
+        404504719,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787291"
     },
     "wof:country":"US",
-    "wof:geomhash":"070f3dff719c5a7093a39cd212dfa141",
+    "wof:geomhash":"ed1184f268e4a4520308e1a84ddb5289",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554739009,
-    "wof:lastmodified":1480792192,
+    "wof:lastmodified":1611182658,
     "wof:name":"67501",
     "wof:parent_id":404504719,
     "wof:placetype":"postalcode",

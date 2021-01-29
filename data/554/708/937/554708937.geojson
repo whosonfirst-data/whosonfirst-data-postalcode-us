@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006316,
-    "geom:area_square_m":61327049.694168,
+    "geom:area_square_m":61327049.694184,
     "geom:bbox":"-79.050017,38.197501,-78.88088,38.305552",
     "geom:latitude":38.259977,
     "geom:longitude":-78.972233,
@@ -14,20 +14,25 @@
     "lbl:latitude":38.254994,
     "lbl:longitude":-78.971328,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mount Sidney",
+    "mz:postal_locality_alt":[
+        "Mt Sidney"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688747,
         102191575,
         85633793,
+        102086699,
         101729677,
-        102086699
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12767831"
     },
     "wof:country":"US",
-    "wof:geomhash":"e164f2512f24ee639f06f513405b7250",
+    "wof:geomhash":"f2bba2e39899f0f8b7a7fe0a40dea8bf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554708937,
-    "wof:lastmodified":1480913500,
+    "wof:lastmodified":1611182763,
     "wof:name":"24467",
     "wof:parent_id":101729677,
     "wof:placetype":"postalcode",

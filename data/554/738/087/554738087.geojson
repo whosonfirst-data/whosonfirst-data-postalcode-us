@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031865,
-    "geom:area_square_m":303419737.754887,
+    "geom:area_square_m":303419737.754659,
     "geom:bbox":"-96.732132,39.472918,-96.536187,39.769261",
     "geom:latitude":39.639755,
     "geom:longitude":-96.636219,
@@ -14,20 +14,22 @@
     "lbl:latitude":39.64546,
     "lbl:longitude":-96.628455,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Blue Rapids",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404504111,
         85633793,
-        102082145
+        102082145,
+        404504111,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786831"
     },
     "wof:country":"US",
-    "wof:geomhash":"5692493c2ad0ddc94bec98a78f904c36",
+    "wof:geomhash":"bb46227e0237b4465e0fb67a54d9c514",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554738087,
-    "wof:lastmodified":1480802728,
+    "wof:lastmodified":1611183115,
     "wof:name":"66411",
     "wof:parent_id":404504111,
     "wof:placetype":"postalcode",

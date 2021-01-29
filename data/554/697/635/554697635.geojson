@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006883,
-    "geom:area_square_m":63278459.845537,
+    "geom:area_square_m":63278459.845497,
     "geom:bbox":"-71.606255,41.934098,-71.48396,42.014998",
     "geom:latitude":41.972373,
     "geom:longitude":-71.550858,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.975186,
     "lbl:longitude":-71.544069,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"North Smithfield",
+    "mz:postal_locality_alt":[
+        "Slatersville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688509,
         102191575,
-        404488329,
         85633793,
-        102081597
+        102081597,
+        404488329,
+        85688509
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759052"
     },
     "wof:country":"US",
-    "wof:geomhash":"7b791c58fc9ffbf78314d38472133a0e",
+    "wof:geomhash":"aae26395367e08c39552122c283320c0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554697635,
-    "wof:lastmodified":1480817073,
+    "wof:lastmodified":1611184644,
     "wof:name":"02896",
     "wof:parent_id":404488329,
     "wof:placetype":"postalcode",

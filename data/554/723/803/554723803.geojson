@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016246,
-    "geom:area_square_m":152819456.719197,
+    "geom:area_square_m":152819456.719159,
     "geom:bbox":"-87.182678,40.334721,-87.08403,40.606465",
     "geom:latitude":40.473246,
     "geom:longitude":-87.131465,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.46212,
     "lbl:longitude":-87.143054,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Otterbein",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404502071,
         85633793,
-        102087047
+        102087047,
+        404502071,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778494"
     },
     "wof:country":"US",
-    "wof:geomhash":"f790c8c0913e7dfb80e0f92a4114a611",
+    "wof:geomhash":"26c9747b6dd934c7ca8b7b35038df51c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554723803,
-    "wof:lastmodified":1480913709,
+    "wof:lastmodified":1611183786,
     "wof:name":"47970",
     "wof:parent_id":404502071,
     "wof:placetype":"postalcode",

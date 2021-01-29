@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000198,
-    "geom:area_square_m":1903069.604749,
+    "geom:area_square_m":1903069.604757,
     "geom:bbox":"-76.978404,38.93155,-76.955712,38.954033",
     "geom:latitude":38.943074,
     "geom:longitude":-76.965111,
@@ -14,20 +14,25 @@
     "lbl:latitude":38.942361,
     "lbl:longitude":-76.964578,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mount Rainier",
+    "mz:postal_locality_alt":[
+        "Mt Rainier"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688501,
         102191575,
         85633793,
+        102082191,
         85949299,
-        102082191
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12766262"
     },
     "wof:country":"US",
-    "wof:geomhash":"9fb72097ef1579167cad33bf0bac36d5",
+    "wof:geomhash":"834d569b6ef3eea4a349143b02ff5464",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554706941,
-    "wof:lastmodified":1480803496,
+    "wof:lastmodified":1611182697,
     "wof:name":"20712",
     "wof:parent_id":85949299,
     "wof:placetype":"postalcode",

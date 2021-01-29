@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010913,
-    "geom:area_square_m":98205467.780458,
+    "geom:area_square_m":98205467.78042,
     "geom:bbox":"-70.925048,43.237728,-70.744389,43.372445",
     "geom:latitude":43.300628,
     "geom:longitude":-70.843625,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.29932,
     "lbl:longitude":-70.842062,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Berwick",
+    "mz:postal_locality_alt":[
+        "York"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404475881,
         85633793,
-        102087449
+        102087449,
+        404475881,
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759353"
     },
     "wof:country":"US",
-    "wof:geomhash":"087c9e76157447561ab58338977e97ca",
+    "wof:geomhash":"165423211bf13607d2866eb9d3e7ab41",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554698131,
-    "wof:lastmodified":1480806747,
+    "wof:lastmodified":1611184691,
     "wof:name":"03901",
     "wof:parent_id":404475881,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.251364,
-    "geom:area_square_m":2735084544.83852,
+    "geom:area_square_m":2735084544.835644,
     "geom:bbox":"-99.614245,28.05134,-98.800064,28.647022",
     "geom:latitude":28.361235,
     "geom:longitude":-99.144839,
@@ -14,19 +14,25 @@
     "lbl:latitude":28.371399,
     "lbl:longitude":-99.135334,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cotulla",
+    "mz:postal_locality_alt":[
+        "Center Point",
+        "Encinal"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688753,
-        102081975
+        102081975,
+        85688753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12791872"
     },
     "wof:country":"US",
-    "wof:geomhash":"deb25253c876ddebeb36acb8057d992c",
+    "wof:geomhash":"14fdb23bd6044d9f7ea415b0daa643fd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":554746523,
-    "wof:lastmodified":1480906657,
+    "wof:lastmodified":1611184034,
     "wof:name":"78014",
     "wof:parent_id":102081975,
     "wof:placetype":"postalcode",

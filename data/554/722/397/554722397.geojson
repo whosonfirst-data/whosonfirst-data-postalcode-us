@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.069022,
-    "geom:area_square_m":650941526.217245,
+    "geom:area_square_m":650941526.216646,
     "geom:bbox":"-86.695544,40.176942,-86.247224,40.448871",
     "geom:latitude":40.297537,
     "geom:longitude":-86.491849,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.295035,
     "lbl:longitude":-86.493864,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Frankfort",
+    "mz:postal_locality_alt":[
+        "Sedalia"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404501241,
         85633793,
-        102087035
+        102087035,
+        404501241,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777554"
     },
     "wof:country":"US",
-    "wof:geomhash":"1f1dac7acd9f611f25586e747308256e",
+    "wof:geomhash":"744f1ba1721a444d5bb156c154d8cf02",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554722397,
-    "wof:lastmodified":1480912802,
+    "wof:lastmodified":1611183214,
     "wof:name":"46041",
     "wof:parent_id":404501241,
     "wof:placetype":"postalcode",

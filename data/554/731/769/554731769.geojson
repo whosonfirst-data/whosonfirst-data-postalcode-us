@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015477,
-    "geom:area_square_m":126310667.230125,
+    "geom:area_square_m":126310667.23008,
     "geom:bbox":"-97.818427,48.644588,-97.556876,48.761263",
     "geom:latitude":48.698411,
     "geom:longitude":-97.677452,
@@ -14,20 +14,25 @@
     "lbl:latitude":48.698421,
     "lbl:longitude":-97.677426,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Hensel",
+    "mz:postal_locality_alt":[
+        "Gilby"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688525,
         102191575,
-        404481469,
         85633793,
-        102081509
+        102081509,
+        404481469,
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12783215"
     },
     "wof:country":"US",
-    "wof:geomhash":"2a7415c26a3ef91a2eced629dde44b1a",
+    "wof:geomhash":"a32b36dfffee944923713eb63c7ff5e6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554731769,
-    "wof:lastmodified":1480833230,
+    "wof:lastmodified":1611183074,
     "wof:name":"58241",
     "wof:parent_id":404481469,
     "wof:placetype":"postalcode",

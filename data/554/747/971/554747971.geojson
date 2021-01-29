@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014154,
-    "geom:area_square_m":134971899.920822,
+    "geom:area_square_m":134971899.920868,
     "geom:bbox":"-105.225046,39.466271,-105.088577,39.639099",
     "geom:latitude":39.540306,
     "geom:longitude":-105.151332,
@@ -13,19 +13,24 @@
     "lbl:latitude":39.530726,
     "lbl:longitude":-105.164344,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Littleton",
+    "mz:postal_locality_alt":[
+        "Denver"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688603,
-        102084113
+        102084113,
+        85688603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12792922"
     },
     "wof:country":"US",
-    "wof:geomhash":"a6937f84d2b60ff076c1e13eb7295ac5",
+    "wof:geomhash":"a460d133911d325ad886f0e124a2c135",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +41,7 @@
         }
     ],
     "wof:id":554747971,
-    "wof:lastmodified":1480911601,
+    "wof:lastmodified":1611183466,
     "wof:name":"80127",
     "wof:parent_id":102084113,
     "wof:placetype":"postalcode",

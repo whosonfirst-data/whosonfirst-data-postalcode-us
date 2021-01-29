@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023955,
-    "geom:area_square_m":212295572.622199,
+    "geom:area_square_m":212295572.6222,
     "geom:bbox":"-69.591749,44.101012,-69.403633,44.34287",
     "geom:latitude":44.21522,
     "geom:longitude":-69.499201,
@@ -14,20 +14,29 @@
     "lbl:latitude":44.210864,
     "lbl:longitude":-69.499152,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Jefferson",
+    "mz:postal_locality_alt":[
+        "Litchfield",
+        "Windsor",
+        "Winthrop",
+        "Vienna",
+        "Somerville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688769,
         102191575,
-        404475655,
         85633793,
-        102087447
+        102087447,
+        404475655,
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759533"
     },
     "wof:country":"US",
-    "wof:geomhash":"66293db9b888e376556c42f0198ba50d",
+    "wof:geomhash":"e556d6dbb4a9d4485caccc8167aa6e84",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +48,7 @@
         }
     ],
     "wof:id":554698351,
-    "wof:lastmodified":1480787196,
+    "wof:lastmodified":1611184693,
     "wof:name":"04348",
     "wof:parent_id":404475655,
     "wof:placetype":"postalcode",

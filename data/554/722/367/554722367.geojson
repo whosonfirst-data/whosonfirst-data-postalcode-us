@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005912,
-    "geom:area_square_m":55956077.977906,
+    "geom:area_square_m":55956077.977853,
     "geom:bbox":"-85.737941,40.004093,-85.633501,40.092237",
     "geom:latitude":40.049108,
     "geom:longitude":-85.678271,
@@ -13,21 +13,23 @@
     "lbl:latitude":40.047933,
     "lbl:longitude":-85.681768,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Anderson",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404502009,
         85633793,
+        102086407,
+        404502009,
         85942059,
-        102086407
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12777538"
     },
     "wof:country":"US",
-    "wof:geomhash":"a3b6315034780300b05599485d2a0118",
+    "wof:geomhash":"3ac795287953822714fa467438695d41",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +42,7 @@
         }
     ],
     "wof:id":554722367,
-    "wof:lastmodified":1480912895,
+    "wof:lastmodified":1611183233,
     "wof:name":"46013",
     "wof:parent_id":85942059,
     "wof:placetype":"postalcode",

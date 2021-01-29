@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.063682,
-    "geom:area_square_m":545202236.114477,
+    "geom:area_square_m":545202236.114367,
     "geom:bbox":"-93.559412,46.010536,-93.173448,46.333914",
     "geom:latitude":46.181311,
     "geom:longitude":-93.408133,
@@ -14,20 +14,25 @@
     "lbl:latitude":46.183805,
     "lbl:longitude":-93.368993,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Isle",
+    "mz:postal_locality_alt":[
+        "Wahkon"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404509161,
         85633793,
-        102087811
+        102087811,
+        404509161,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782430"
     },
     "wof:country":"US",
-    "wof:geomhash":"4e8f55a706786e8278babfcc5a694680",
+    "wof:geomhash":"d315021d838595a3648858130d90efa6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554730263,
-    "wof:lastmodified":1480788583,
+    "wof:lastmodified":1611182755,
     "wof:name":"56342",
     "wof:parent_id":404509161,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009981,
-    "geom:area_square_m":89798254.617049,
+    "geom:area_square_m":89798254.617043,
     "geom:bbox":"-72.867902,43.239805,-72.755812,43.38029",
     "geom:latitude":43.315681,
     "geom:longitude":-72.805971,
@@ -14,20 +14,22 @@
     "lbl:latitude":43.321441,
     "lbl:longitude":-72.802903,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Weston",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688763,
         102191575,
-        404527541,
         85633793,
-        102080777
+        102080777,
+        404527541,
+        85688763
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759929"
     },
     "wof:country":"US",
-    "wof:geomhash":"c7fd85612bc8a7f2a49590ca5b96b9a5",
+    "wof:geomhash":"ed655ac5b690efb14620b41c8fa82453",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554698857,
-    "wof:lastmodified":1480905329,
+    "wof:lastmodified":1611184683,
     "wof:name":"05161",
     "wof:parent_id":404527541,
     "wof:placetype":"postalcode",

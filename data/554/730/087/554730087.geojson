@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007871,
-    "geom:area_square_m":69416840.927809,
+    "geom:area_square_m":69416840.92782,
     "geom:bbox":"-95.95858,44.42498,-95.81718,44.54343",
     "geom:latitude":44.504201,
     "geom:longitude":-95.910419,
@@ -14,20 +14,25 @@
     "lbl:latitude":44.504193,
     "lbl:longitude":-95.910436,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ghent",
+    "mz:postal_locality_alt":[
+        "Bellingham"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404512649,
         85633793,
-        102087885
+        102087885,
+        404512649,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782346"
     },
     "wof:country":"US",
-    "wof:geomhash":"938b686326e0f50f32ed231b612b6384",
+    "wof:geomhash":"e96a9a26ceaed3a3e366a1810688760a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554730087,
-    "wof:lastmodified":1480783840,
+    "wof:lastmodified":1611182746,
     "wof:name":"56239",
     "wof:parent_id":404512649,
     "wof:placetype":"postalcode",

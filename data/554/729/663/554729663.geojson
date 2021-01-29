@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010497,
-    "geom:area_square_m":93149774.631877,
+    "geom:area_square_m":93149774.631901,
     "geom:bbox":"-92.6089,44.079197,-92.462436,44.197843",
     "geom:latitude":44.14076,
     "geom:longitude":-92.537394,
@@ -14,20 +14,25 @@
     "lbl:latitude":44.140242,
     "lbl:longitude":-92.535165,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Oronoco",
+    "mz:postal_locality_alt":[
+        "Stewartville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688727,
         102191575,
-        404512585,
         85633793,
-        102087829
+        102087829,
+        404512585,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12782147"
     },
     "wof:country":"US",
-    "wof:geomhash":"74df4e470d9b8a292e70edbf7a199fe4",
+    "wof:geomhash":"18af78824a0ccad7e4d4d4284f43d0e7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554729663,
-    "wof:lastmodified":1480787644,
+    "wof:lastmodified":1611185436,
     "wof:name":"55960",
     "wof:parent_id":404512585,
     "wof:placetype":"postalcode",

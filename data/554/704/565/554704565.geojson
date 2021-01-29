@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008792,
-    "geom:area_square_m":82931685.168288,
+    "geom:area_square_m":82931685.168281,
     "geom:bbox":"-78.574818,40.221564,-78.431781,40.346388",
     "geom:latitude":40.282093,
     "geom:longitude":-78.508321,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.28255,
     "lbl:longitude":-78.504283,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Claysburg",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404484427,
         85633793,
-        102080939
+        102080939,
+        404484427,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764368"
     },
     "wof:country":"US",
-    "wof:geomhash":"c6c32d7ac8b2ca0374d63b370fc5821e",
+    "wof:geomhash":"9d0209dc3fb8402bd91e152c74f901e4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554704565,
-    "wof:lastmodified":1480903172,
+    "wof:lastmodified":1611184508,
     "wof:name":"16625",
     "wof:parent_id":404484427,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012523,
-    "geom:area_square_m":125618157.251644,
+    "geom:area_square_m":125618157.251668,
     "geom:bbox":"-86.418757,35.710288,-86.246274,35.841014",
     "geom:latitude":35.781307,
     "geom:longitude":-86.327531,
@@ -13,20 +13,26 @@
     "lbl:latitude":35.781304,
     "lbl:longitude":-86.327533,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Murfreesboro",
+    "mz:postal_locality_alt":[
+        "Christiana",
+        "Smyrna"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688701,
         102191575,
         85633793,
+        102086355,
         101723111,
-        102086355
+        85688701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12773827"
     },
     "wof:country":"US",
-    "wof:geomhash":"08a9ff6c057231ba2db37eae30f10f47",
+    "wof:geomhash":"0c67fe983bd05215c475ecc6d182b8ec",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554716545,
-    "wof:lastmodified":1480911522,
+    "wof:lastmodified":1611185375,
     "wof:name":"37127",
     "wof:parent_id":101723111,
     "wof:placetype":"postalcode",

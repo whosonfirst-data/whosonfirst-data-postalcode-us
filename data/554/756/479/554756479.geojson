@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015495,
-    "geom:area_square_m":138843723.070187,
+    "geom:area_square_m":138843723.07019,
     "geom:bbox":"-71.45856,43.481095,-71.311299,43.640942",
     "geom:latitude":43.557917,
     "geom:longitude":-71.384792,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.519157,
     "lbl:longitude":-71.375592,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Gilford",
+    "mz:postal_locality_alt":[
+        "Laconia"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688689,
         102191575,
-        404477089,
         85633793,
-        102086503
+        102086503,
+        404477089,
+        85688689
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"23424562"
     },
     "wof:country":"US",
-    "wof:geomhash":"31055f39db89a8514cce7758760f955f",
+    "wof:geomhash":"9612ccb11c09eb2a582665f08049ce46",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554756479,
-    "wof:lastmodified":1480911761,
+    "wof:lastmodified":1611184277,
     "wof:name":"03249",
     "wof:parent_id":404477089,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000107,
-    "geom:area_square_m":1003937.688031,
+    "geom:area_square_m":1003937.688032,
     "geom:bbox":"-73.927635,40.735784,-73.909443,40.751637",
     "geom:latitude":40.744647,
     "geom:longitude":-73.920203,
@@ -14,21 +14,28 @@
     "lbl:latitude":40.744647,
     "lbl:longitude":-73.920203,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Sunnyside",
+    "mz:postal_locality_alt":[
+        "Long Island City",
+        "Queens",
+        "New York"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404521211,
         85633793,
+        102082361,
+        404521211,
         85977539,
-        102082361
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761714"
     },
     "wof:country":"US",
-    "wof:geomhash":"454d695af1c58a7dbff9920b8e220d4b",
+    "wof:geomhash":"f49069bb7b29d606d7fc3afd677918f4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +48,7 @@
         }
     ],
     "wof:id":554779523,
-    "wof:lastmodified":1480790268,
+    "wof:lastmodified":1611183991,
     "wof:name":"11104",
     "wof:parent_id":85977539,
     "wof:placetype":"postalcode",

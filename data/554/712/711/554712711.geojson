@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017153,
-    "geom:area_square_m":175424588.183103,
+    "geom:area_square_m":175424588.183373,
     "geom:bbox":"-84.210515,34.074225,-84.009552,34.329715",
     "geom:latitude":34.200381,
     "geom:longitude":-84.094195,
@@ -13,19 +13,25 @@
     "lbl:latitude":34.204626,
     "lbl:longitude":-84.100357,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Cumming",
+    "mz:postal_locality_alt":[
+        "Alpharetta",
+        "Suwanee"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688535,
-        102082317
+        102082317,
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770526"
     },
     "wof:country":"US",
-    "wof:geomhash":"c4da736c883dfd8b90d5a4455daaa5e2",
+    "wof:geomhash":"6d4d2376f7e8431b279381d9d3930455",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +42,7 @@
         }
     ],
     "wof:id":554712711,
-    "wof:lastmodified":1480841938,
+    "wof:lastmodified":1611183739,
     "wof:name":"30041",
     "wof:parent_id":102082317,
     "wof:placetype":"postalcode",

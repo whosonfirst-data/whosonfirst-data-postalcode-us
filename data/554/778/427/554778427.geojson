@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01319,
-    "geom:area_square_m":122381868.314825,
+    "geom:area_square_m":122381868.314841,
     "geom:bbox":"-70.615118,41.338353,-70.436871,41.431282",
     "geom:latitude":41.3794,
     "geom:longitude":-70.522247,
@@ -14,20 +14,26 @@
     "lbl:latitude":41.377655,
     "lbl:longitude":-70.52208,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Edgartown",
+    "mz:postal_locality_alt":[
+        "Oak Bluffs",
+        "Vineyard Haven"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688645,
         102191575,
-        404476273,
         85633793,
-        102084629
+        102084629,
+        404476273,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12758877"
     },
     "wof:country":"US",
-    "wof:geomhash":"e76efafa5bf224b74ce3a1e5dd1cc440",
+    "wof:geomhash":"43dcb40662e04f1d4f4811a4f3a90f50",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554778427,
-    "wof:lastmodified":1480798639,
+    "wof:lastmodified":1611183441,
     "wof:name":"02539",
     "wof:parent_id":404476273,
     "wof:placetype":"postalcode",

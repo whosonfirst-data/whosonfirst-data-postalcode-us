@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023936,
-    "geom:area_square_m":224872534.579478,
+    "geom:area_square_m":224872534.579512,
     "geom:bbox":"-78.537116,40.442572,-78.232721,40.647913",
     "geom:latitude":40.555665,
     "geom:longitude":-78.370162,
@@ -13,20 +13,22 @@
     "lbl:latitude":40.555264,
     "lbl:longitude":-78.370416,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Altoona",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404484717,
         85633793,
-        102081325
+        102081325,
+        404484717,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12764354"
     },
     "wof:country":"US",
-    "wof:geomhash":"ee43de762ff72b6414239c2ee8fa13bc",
+    "wof:geomhash":"6d9e79f65a8fe57a3adf02c6832309aa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +40,7 @@
         }
     ],
     "wof:id":554704543,
-    "wof:lastmodified":1480903610,
+    "wof:lastmodified":1611184501,
     "wof:name":"16601",
     "wof:parent_id":404484717,
     "wof:placetype":"postalcode",

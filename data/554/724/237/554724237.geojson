@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040027,
-    "geom:area_square_m":357219564.835511,
+    "geom:area_square_m":357219564.835498,
     "geom:bbox":"-83.160587,43.691625,-82.839508,43.89788",
     "geom:latitude":43.801935,
     "geom:longitude":-82.994745,
@@ -14,21 +14,26 @@
     "lbl:latitude":43.798506,
     "lbl:longitude":-82.9942,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Bad Axe",
+    "mz:postal_locality_alt":[
+        "Filion"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404507463,
         85633793,
+        102083017,
+        404507463,
         85950901,
-        102083017
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778809"
     },
     "wof:country":"US",
-    "wof:geomhash":"50c9a562803dafe4654e4c813a226af3",
+    "wof:geomhash":"7435628e4f8e3674cf89634078bdae34",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554724237,
-    "wof:lastmodified":1480836194,
+    "wof:lastmodified":1611183770,
     "wof:name":"48413",
     "wof:parent_id":85950901,
     "wof:placetype":"postalcode",

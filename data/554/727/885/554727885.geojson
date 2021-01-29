@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008289,
-    "geom:area_square_m":74945695.742208,
+    "geom:area_square_m":74945695.742213,
     "geom:bbox":"-89.503627,42.97063,-89.30407,43.07012",
     "geom:latitude":43.015043,
     "geom:longitude":-89.409206,
@@ -13,21 +13,26 @@
     "lbl:latitude":43.011403,
     "lbl:longitude":-89.40933,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Madison",
+    "mz:postal_locality_alt":[
+        "Fitchburg"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404493257,
         85633793,
+        102081795,
+        404493257,
         101732773,
-        102081795
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781053"
     },
     "wof:country":"US",
-    "wof:geomhash":"5e52f0586ef08a70729ba6e7ccd1e073",
+    "wof:geomhash":"9a795075bf9a60e341840a8a8bab8b88",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554727885,
-    "wof:lastmodified":1480820038,
+    "wof:lastmodified":1611185522,
     "wof:name":"53711",
     "wof:parent_id":101732773,
     "wof:placetype":"postalcode",

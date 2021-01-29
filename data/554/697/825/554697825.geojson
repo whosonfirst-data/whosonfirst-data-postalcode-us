@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011728,
-    "geom:area_square_m":105318141.333975,
+    "geom:area_square_m":105318141.333945,
     "geom:bbox":"-71.651701,43.363694,-71.485264,43.502264",
     "geom:latitude":43.427699,
     "geom:longitude":-71.575008,
@@ -14,20 +14,27 @@
     "lbl:latitude":43.431031,
     "lbl:longitude":-71.575998,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Tilton",
+    "mz:postal_locality_alt":[
+        "Northfield",
+        "Ashland",
+        "Winnisquam"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688689,
         102191575,
-        404477255,
         85633793,
-        102086515
+        102086515,
+        404477255,
+        85688689
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12759172"
     },
     "wof:country":"US",
-    "wof:geomhash":"910511bc26c2a6ad76bdda860570b3f0",
+    "wof:geomhash":"e569fc17e11c321c9fceb44007cdbaf7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +46,7 @@
         }
     ],
     "wof:id":554697825,
-    "wof:lastmodified":1480913718,
+    "wof:lastmodified":1611184657,
     "wof:name":"03276",
     "wof:parent_id":404477255,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041245,
-    "geom:area_square_m":373024787.341335,
+    "geom:area_square_m":373024787.341699,
     "geom:bbox":"-90.317421,42.903192,-89.956065,43.10159",
     "geom:latitude":42.993973,
     "geom:longitude":-90.146746,
@@ -13,20 +13,25 @@
     "lbl:latitude":42.996737,
     "lbl:longitude":-90.162179,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Dodgeville",
+    "mz:postal_locality_alt":[
+        "Spring Green"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404495383,
         85633793,
-        102081277
+        102081277,
+        404495383,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12780983"
     },
     "wof:country":"US",
-    "wof:geomhash":"dfadea6d8c85764129d5301799d48b21",
+    "wof:geomhash":"3a5999c763ec3d3a76f8ecd03cfe02dd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554727765,
-    "wof:lastmodified":1480823810,
+    "wof:lastmodified":1611185495,
     "wof:name":"53533",
     "wof:parent_id":404495383,
     "wof:placetype":"postalcode",

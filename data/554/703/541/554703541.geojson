@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001283,
-    "geom:area_square_m":12059767.476785,
+    "geom:area_square_m":12059767.476762,
     "geom:bbox":"-79.993986,40.469436,-79.951054,40.528747",
     "geom:latitude":40.499902,
     "geom:longitude":-79.973945,
@@ -13,20 +13,25 @@
     "lbl:latitude":40.498846,
     "lbl:longitude":-79.969725,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Pittsburgh",
+    "mz:postal_locality_alt":[
+        "Millvale"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404484307,
         85633793,
-        102080887
+        102080887,
+        404484307,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763650"
     },
     "wof:country":"US",
-    "wof:geomhash":"8a9278642fe74b1acbb5d8029ab90ce1",
+    "wof:geomhash":"25e9dd2544bf1e292cc1e78e0c2c3bf4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554703541,
-    "wof:lastmodified":1480905388,
+    "wof:lastmodified":1611184483,
     "wof:name":"15209",
     "wof:parent_id":404484307,
     "wof:placetype":"postalcode",

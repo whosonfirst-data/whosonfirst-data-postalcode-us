@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015312,
-    "geom:area_square_m":143903507.937096,
+    "geom:area_square_m":143903507.93716,
     "geom:bbox":"-87.344938,40.476172,-87.137281,40.591539",
     "geom:latitude":40.532119,
     "geom:longitude":-87.238263,
@@ -14,20 +14,22 @@
     "lbl:latitude":40.532018,
     "lbl:longitude":-87.233923,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Oxford",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404501063,
         85633793,
-        102087193
+        102087193,
+        404501063,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778495"
     },
     "wof:country":"US",
-    "wof:geomhash":"569852b49d8b50186cea87e55f186665",
+    "wof:geomhash":"f1ae4604669bc94ffe60ab4bf12dcfe6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554723805,
-    "wof:lastmodified":1480784966,
+    "wof:lastmodified":1611183789,
     "wof:name":"47971",
     "wof:parent_id":404501063,
     "wof:placetype":"postalcode",

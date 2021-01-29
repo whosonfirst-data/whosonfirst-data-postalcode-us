@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001045,
-    "geom:area_square_m":9783487.178304,
+    "geom:area_square_m":9783487.178311,
     "geom:bbox":"-74.23764,40.788323,-74.195144,40.836049",
     "geom:latitude":40.813744,
     "geom:longitude":-74.217777,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.813487,
     "lbl:longitude":-74.219011,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Montclair",
+    "mz:postal_locality_alt":[
+        "Glen Ridge"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688607,
         102191575,
-        404478047,
         85633793,
-        102085043
+        102085043,
+        404478047,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12760637"
     },
     "wof:country":"US",
-    "wof:geomhash":"e878462c3406ee6c2d1a8457be4d481c",
+    "wof:geomhash":"9f4dbbae87caa681642f0a2f536f66de",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554699833,
-    "wof:lastmodified":1480816152,
+    "wof:lastmodified":1611184611,
     "wof:name":"07042",
     "wof:parent_id":404478047,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01511,
-    "geom:area_square_m":142794436.754392,
+    "geom:area_square_m":142794436.754375,
     "geom:bbox":"-79.616921,40.06956,-79.432832,40.225968",
     "geom:latitude":40.156192,
     "geom:longitude":-79.514432,
@@ -14,20 +14,29 @@
     "lbl:latitude":40.161024,
     "lbl:longitude":-79.509814,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Mt Pleasant",
+    "mz:postal_locality_alt":[
+        "Mount Pleasant",
+        "Acme",
+        "Ruffs Dale",
+        "Youngwood",
+        "Norvelt"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688481,
         102191575,
-        404487537,
         85633793,
-        102081383
+        102081383,
+        404487537,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12763936"
     },
     "wof:country":"US",
-    "wof:geomhash":"76c6c7d68369bb1b626d4607682e0308",
+    "wof:geomhash":"e28c7530d59192f89588159d35c821e9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +48,7 @@
         }
     ],
     "wof:id":554703953,
-    "wof:lastmodified":1480906233,
+    "wof:lastmodified":1611184447,
     "wof:name":"15666",
     "wof:parent_id":404487537,
     "wof:placetype":"postalcode",

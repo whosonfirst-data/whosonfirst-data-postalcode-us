@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027972,
-    "geom:area_square_m":286781624.040676,
+    "geom:area_square_m":286781624.040808,
     "geom:bbox":"-84.980588,33.875265,-84.741487,34.082598",
     "geom:latitude":33.988376,
     "geom:longitude":-84.858676,
@@ -13,19 +13,29 @@
     "lbl:latitude":33.988832,
     "lbl:longitude":-84.858967,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Dallas",
+    "mz:postal_locality_alt":[
+        "Iron City",
+        "Powder Springs",
+        "Jasper",
+        "Temple",
+        "Douglasville",
+        "Mableton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688535,
-        102084665
+        102084665,
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770604"
     },
     "wof:country":"US",
-    "wof:geomhash":"30923229a2cc3b06a2ba85c171b6d87c",
+    "wof:geomhash":"fa52bd11d04b5f92b2413e3f5e073cc4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -36,7 +46,7 @@
         }
     ],
     "wof:id":554712835,
-    "wof:lastmodified":1480832124,
+    "wof:lastmodified":1611183705,
     "wof:name":"30132",
     "wof:parent_id":102084665,
     "wof:placetype":"postalcode",

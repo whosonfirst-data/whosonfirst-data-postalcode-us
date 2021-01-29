@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006965,
-    "geom:area_square_m":63149309.698495,
+    "geom:area_square_m":63149309.698519,
     "geom:bbox":"-83.18375,42.79892,-83.099432,42.888647",
     "geom:latitude":42.842829,
     "geom:longitude":-83.141437,
@@ -14,20 +14,25 @@
     "lbl:latitude":42.836233,
     "lbl:longitude":-83.136902,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Leonard",
+    "mz:postal_locality_alt":[
+        "Addison Twp"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404508109,
         85633793,
-        102083713
+        102083713,
+        404508109,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778787"
     },
     "wof:country":"US",
-    "wof:geomhash":"b873852ddb953c7794a8c477d4b46ef4",
+    "wof:geomhash":"106054800d64147f701b0b0ed156db91",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554724203,
-    "wof:lastmodified":1480841031,
+    "wof:lastmodified":1611183751,
     "wof:name":"48367",
     "wof:parent_id":404508109,
     "wof:placetype":"postalcode",

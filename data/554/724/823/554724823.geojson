@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009305,
-    "geom:area_square_m":85254216.674081,
+    "geom:area_square_m":85254216.674055,
     "geom:bbox":"-85.530612,42.143856,-85.334473,42.230322",
     "geom:latitude":42.18513,
     "geom:longitude":-85.428886,
@@ -14,20 +14,22 @@
     "lbl:latitude":42.179736,
     "lbl:longitude":-85.422562,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Scotts",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688599,
         102191575,
-        404507695,
         85633793,
-        102083671
+        102083671,
+        404507695,
+        85688599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12779191"
     },
     "wof:country":"US",
-    "wof:geomhash":"d2e9acb53fb6f45bd3378b65881ad58a",
+    "wof:geomhash":"ec37dff2b49e1d6432bb96ea1f07c9e9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554724823,
-    "wof:lastmodified":1480834259,
+    "wof:lastmodified":1611183763,
     "wof:name":"49088",
     "wof:parent_id":404507695,
     "wof:placetype":"postalcode",

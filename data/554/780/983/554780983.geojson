@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003637,
-    "geom:area_square_m":37186242.785882,
+    "geom:area_square_m":37186242.785888,
     "geom:bbox":"-77.927606,34.193333,-77.812617,34.247918",
     "geom:latitude":34.221856,
     "geom:longitude":-77.879849,
@@ -13,20 +13,26 @@
     "lbl:latitude":34.221691,
     "lbl:longitude":-77.880633,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Wilmington",
+    "mz:postal_locality_alt":[
+        "Wrightsville Bch",
+        "Wrightsville Beach"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688773,
         102191575,
         85633793,
+        102087757,
         85980683,
-        102087757
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12769628"
     },
     "wof:country":"US",
-    "wof:geomhash":"479e10480faf9f6c73db09e8608ee8c2",
+    "wof:geomhash":"ea80aebe042db20eaf11cefa15b575c3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554780983,
-    "wof:lastmodified":1480787190,
+    "wof:lastmodified":1611185172,
     "wof:name":"28403",
     "wof:parent_id":85980683,
     "wof:placetype":"postalcode",

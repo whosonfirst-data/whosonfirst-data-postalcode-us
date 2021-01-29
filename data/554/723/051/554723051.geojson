@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00845,
-    "geom:area_square_m":79299650.721306,
+    "geom:area_square_m":79299650.72132,
     "geom:bbox":"-85.581655,40.580123,-85.439858,40.668749",
     "geom:latitude":40.628689,
     "geom:longitude":-85.50557,
@@ -14,20 +14,25 @@
     "lbl:latitude":40.628038,
     "lbl:longitude":-85.51421,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Van Buren",
+    "mz:postal_locality_alt":[
+        "Greentown"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688709,
         102191575,
-        404500763,
         85633793,
-        102087025
+        102087025,
+        404500763,
+        85688709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12778015"
     },
     "wof:country":"US",
-    "wof:geomhash":"dfea21d6cacc6272488dc2abbfb954b9",
+    "wof:geomhash":"e48f94b96658c8d80e6b82b3ccca2d77",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554723051,
-    "wof:lastmodified":1480912346,
+    "wof:lastmodified":1611183808,
     "wof:name":"46991",
     "wof:parent_id":404500763,
     "wof:placetype":"postalcode",

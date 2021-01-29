@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008092,
-    "geom:area_square_m":78692113.207113,
+    "geom:area_square_m":78692113.207157,
     "geom:bbox":"-97.316868,38.086751,-97.172667,38.203887",
     "geom:latitude":38.141865,
     "geom:longitude":-97.249083,
@@ -14,20 +14,22 @@
     "lbl:latitude":38.142145,
     "lbl:longitude":-97.257065,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Walton",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688555,
         102191575,
-        404504087,
         85633793,
-        102083457
+        102083457,
+        404504087,
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787160"
     },
     "wof:country":"US",
-    "wof:geomhash":"d780eb2391e35acdb00237791f639c86",
+    "wof:geomhash":"bfe871882124b563e897699d0df6c9ce",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":554738753,
-    "wof:lastmodified":1480835923,
+    "wof:lastmodified":1611183095,
     "wof:name":"67151",
     "wof:parent_id":404504087,
     "wof:placetype":"postalcode",

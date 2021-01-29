@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.070426,
-    "geom:area_square_m":687115635.260223,
+    "geom:area_square_m":687115635.260117,
     "geom:bbox":"-91.948506,37.695057,-91.596629,38.080468",
     "geom:latitude":37.904656,
     "geom:longitude":-91.765358,
@@ -13,20 +13,25 @@
     "lbl:latitude":37.899825,
     "lbl:longitude":-91.768905,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Rolla",
+    "mz:postal_locality_alt":[
+        "Ft Leonard Wood"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688661,
         102191575,
-        404517451,
         85633793,
-        102086893
+        102086893,
+        404517451,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12786468"
     },
     "wof:country":"US",
-    "wof:geomhash":"84a9bb76bcd235daf0a952ac318b01d2",
+    "wof:geomhash":"224dcceda0c5d7a5c8c4cbe453195c0d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554737371,
-    "wof:lastmodified":1480912184,
+    "wof:lastmodified":1611182841,
     "wof:name":"65401",
     "wof:parent_id":404517451,
     "wof:placetype":"postalcode",

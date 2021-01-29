@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.071256,
-    "geom:area_square_m":745706875.18701,
+    "geom:area_square_m":745706875.186583,
     "geom:bbox":"-83.373931,32.001603,-83.026835,32.348188",
     "geom:latitude":32.184006,
     "geom:longitude":-83.200447,
@@ -14,19 +14,27 @@
     "lbl:latitude":32.183213,
     "lbl:longitude":-83.199454,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Eastman",
+    "mz:postal_locality_alt":[
+        "Eatonton",
+        "Fort Valley",
+        "Hawkinsville",
+        "Gray"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
         102191575,
         85633793,
-        85688535,
-        102084377
+        102084377,
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12771072"
     },
     "wof:country":"US",
-    "wof:geomhash":"80ace0a28c2592f758930ab12cbcde3d",
+    "wof:geomhash":"83047a3253a36a071716300cfeb8b358",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,7 +45,7 @@
         }
     ],
     "wof:id":554713585,
-    "wof:lastmodified":1480834648,
+    "wof:lastmodified":1611183336,
     "wof:name":"31023",
     "wof:parent_id":102084377,
     "wof:placetype":"postalcode",

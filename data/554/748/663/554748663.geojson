@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023544,
-    "geom:area_square_m":228076166.971227,
+    "geom:area_square_m":228076166.971157,
     "geom:bbox":"-105.969328,38.346618,-105.68755,38.514122",
     "geom:latitude":38.425227,
     "geom:longitude":-105.82737,
@@ -14,20 +14,25 @@
     "lbl:latitude":38.425974,
     "lbl:longitude":-105.824878,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Howard",
+    "mz:postal_locality_alt":[
+        "Salida"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688603,
         102191575,
         85633793,
+        102083363,
         85930619,
-        102083363
+        85688603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12793403"
     },
     "wof:country":"US",
-    "wof:geomhash":"1c50c9640d98042155a11e8abfe77b0d",
+    "wof:geomhash":"11d774b001576af535475e5f58c7b965",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554748663,
-    "wof:lastmodified":1480836995,
+    "wof:lastmodified":1611183859,
     "wof:name":"81233",
     "wof:parent_id":85930619,
     "wof:placetype":"postalcode",

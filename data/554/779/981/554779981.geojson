@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000404,
-    "geom:area_square_m":3787962.108918,
+    "geom:area_square_m":3787962.108919,
     "geom:bbox":"-73.109048,40.716499,-73.089667,40.745709",
     "geom:latitude":40.731278,
     "geom:longitude":-73.099701,
@@ -13,21 +13,26 @@
     "lbl:latitude":40.731246,
     "lbl:longitude":-73.099419,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"West Sayville",
+    "mz:postal_locality_alt":[
+        "Bellport"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688543,
         102191575,
-        404522517,
         85633793,
+        102082395,
+        404522517,
         85979851,
-        102082395
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12761979"
     },
     "wof:country":"US",
-    "wof:geomhash":"9006485b6658da83cedde2b272d9f388",
+    "wof:geomhash":"d99a272901138c793c7d4d28dd0b092e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +45,7 @@
         }
     ],
     "wof:id":554779981,
-    "wof:lastmodified":1480794863,
+    "wof:lastmodified":1611183991,
     "wof:name":"11796",
     "wof:parent_id":85979851,
     "wof:placetype":"postalcode",

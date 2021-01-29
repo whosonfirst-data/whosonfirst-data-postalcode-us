@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.063878,
-    "geom:area_square_m":656040101.730172,
+    "geom:area_square_m":656040101.729896,
     "geom:bbox":"-88.72042,33.679897,-88.342261,34.022601",
     "geom:latitude":33.841773,
     "geom:longitude":-88.56428,
@@ -14,20 +14,25 @@
     "lbl:latitude":33.843635,
     "lbl:longitude":-88.565614,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Aberdeen",
+    "mz:postal_locality_alt":[
+        "Brooksville"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688579,
         102191575,
         85633793,
+        102083163,
         85969841,
-        102083163
+        85688579
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12775044"
     },
     "wof:country":"US",
-    "wof:geomhash":"042b59ba3464519a294895778cf80394",
+    "wof:geomhash":"cb56a0ebed4b9b3944d649433840f8c3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554718539,
-    "wof:lastmodified":1480837306,
+    "wof:lastmodified":1611185569,
     "wof:name":"39730",
     "wof:parent_id":85969841,
     "wof:placetype":"postalcode",

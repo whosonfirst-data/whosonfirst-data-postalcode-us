@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003668,
-    "geom:area_square_m":36736665.204687,
+    "geom:area_square_m":36736665.204693,
     "geom:bbox":"-75.729883,35.853505,-75.627205,35.942571",
     "geom:latitude":35.910883,
     "geom:longitude":-75.678214,
@@ -14,20 +14,26 @@
     "lbl:latitude":35.910123,
     "lbl:longitude":-75.677877,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Manteo",
+    "mz:postal_locality_alt":[
+        "Maple",
+        "Edenton"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688773,
         102191575,
         85633793,
+        102087745,
         85981243,
-        102087745
+        85688773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12769330"
     },
     "wof:country":"US",
-    "wof:geomhash":"b2e9efd89437f6a6448b24fd03d65585",
+    "wof:geomhash":"d920f6d1ca4503f1b01d77001a5ad6c5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":554780959,
-    "wof:lastmodified":1480787654,
+    "wof:lastmodified":1611185178,
     "wof:name":"27954",
     "wof:parent_id":85981243,
     "wof:placetype":"postalcode",

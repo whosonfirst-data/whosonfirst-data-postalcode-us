@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002413,
-    "geom:area_square_m":26222408.894855,
+    "geom:area_square_m":26222408.894854,
     "geom:bbox":"-81.357635,28.450405,-81.309133,28.531913",
     "geom:latitude":28.48504,
     "geom:longitude":-81.328504,
@@ -13,20 +13,25 @@
     "lbl:latitude":28.483991,
     "lbl:longitude":-81.322838,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Orlando",
+    "mz:postal_locality_alt":[
+        "Belle Isle"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688651,
         102191575,
         85633793,
+        102085847,
         85935275,
-        102085847
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12771946"
     },
     "wof:country":"US",
-    "wof:geomhash":"0e2deda57ace645c0eb1136b8fd6dc7d",
+    "wof:geomhash":"5cc2491c668c96e5848a11ff52c31265",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +43,7 @@
         }
     ],
     "wof:id":554714651,
-    "wof:lastmodified":1480813113,
+    "wof:lastmodified":1611183354,
     "wof:name":"32812",
     "wof:parent_id":85935275,
     "wof:placetype":"postalcode",

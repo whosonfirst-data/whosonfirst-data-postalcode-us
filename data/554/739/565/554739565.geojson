@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001846,
-    "geom:area_square_m":17158265.495092,
+    "geom:area_square_m":17158265.495083,
     "geom:bbox":"-96.158076,41.247874,-96.07568,41.277789",
     "geom:latitude":41.264717,
     "geom:longitude":-96.115676,
@@ -13,21 +13,23 @@
     "lbl:latitude":41.265139,
     "lbl:longitude":-96.114445,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Omaha",
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688563,
         102191575,
-        404518711,
         85633793,
+        102082789,
+        404518711,
         85973483,
-        102082789
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12787563"
     },
     "wof:country":"US",
-    "wof:geomhash":"723ab618a225e89c778489a7d02f98a9",
+    "wof:geomhash":"3f52e4e7097b93ec06578fe71eb2d393",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -40,7 +42,7 @@
         }
     ],
     "wof:id":554739565,
-    "wof:lastmodified":1480790419,
+    "wof:lastmodified":1611182669,
     "wof:name":"68154",
     "wof:parent_id":85973483,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001051,
-    "geom:area_square_m":9166742.450136,
+    "geom:area_square_m":9166742.450109,
     "geom:bbox":"-87.194725,45.138282,-87.153161,45.186766",
     "geom:latitude":45.159348,
     "geom:longitude":-87.167646,
@@ -14,21 +14,26 @@
     "lbl:latitude":45.160359,
     "lbl:longitude":-87.166369,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Ephraim",
+    "mz:postal_locality_alt":[
+        "Sister Bay"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404492641,
         85633793,
+        102081831,
+        404492641,
         101732587,
-        102081831
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12781245"
     },
     "wof:country":"US",
-    "wof:geomhash":"71a8998f0cde049136f11a2c1279d1c5",
+    "wof:geomhash":"378d9ce44040a464416bfedf7f54ddf4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,7 +46,7 @@
         }
     ],
     "wof:id":554788933,
-    "wof:lastmodified":1480817147,
+    "wof:lastmodified":1611184762,
     "wof:name":"54211",
     "wof:parent_id":101732587,
     "wof:placetype":"postalcode",

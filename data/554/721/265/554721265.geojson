@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006703,
-    "geom:area_square_m":62315977.48675,
+    "geom:area_square_m":62315977.486758,
     "geom:bbox":"-80.711706,41.202985,-80.606916,41.28772",
     "geom:latitude":41.246155,
     "geom:longitude":-80.662488,
@@ -14,20 +14,25 @@
     "lbl:latitude":41.254956,
     "lbl:longitude":-80.649928,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Vienna",
+    "mz:postal_locality_alt":[
+        "Warren"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688485,
         102191575,
-        404526221,
         85633793,
-        102083719
+        102083719,
+        404526221,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12776823"
     },
     "wof:country":"US",
-    "wof:geomhash":"1916599f790e771ce799e62220c2e741",
+    "wof:geomhash":"4c8ccb0372d05f01f22d1341aa481ba9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554721265,
-    "wof:lastmodified":1480841913,
+    "wof:lastmodified":1611184974,
     "wof:name":"44473",
     "wof:parent_id":404526221,
     "wof:placetype":"postalcode",

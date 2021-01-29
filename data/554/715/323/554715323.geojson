@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003566,
-    "geom:area_square_m":36808266.748333,
+    "geom:area_square_m":36808266.748361,
     "geom:bbox":"-86.813869,33.366878,-86.752485,33.473216",
     "geom:latitude":33.41873,
     "geom:longitude":-86.786697,
@@ -13,20 +13,26 @@
     "lbl:latitude":33.419246,
     "lbl:longitude":-86.789433,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Birmingham",
+    "mz:postal_locality_alt":[
+        "Vestavia Hills",
+        "Vestavia"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688675,
         102191575,
         85633793,
+        102085481,
         85914483,
-        102085481
+        85688675
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12773027"
     },
     "wof:country":"US",
-    "wof:geomhash":"9fdc0d78d6525ca1f2ee9a003243d56c",
+    "wof:geomhash":"eb231e727d7ea1ea81a36e053906e855",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -38,7 +44,7 @@
         }
     ],
     "wof:id":554715323,
-    "wof:lastmodified":1480811906,
+    "wof:lastmodified":1611183658,
     "wof:name":"35216",
     "wof:parent_id":85914483,
     "wof:placetype":"postalcode",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011923,
-    "geom:area_square_m":106724979.150123,
+    "geom:area_square_m":106724979.150134,
     "geom:bbox":"-88.686676,43.572884,-88.440913,43.675485",
     "geom:latitude":43.62009,
     "geom:longitude":-88.536457,
@@ -14,20 +14,25 @@
     "lbl:latitude":43.620098,
     "lbl:longitude":-88.533555,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Brownsville",
+    "mz:postal_locality_alt":[
+        "Byron"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688517,
         102191575,
-        404492599,
         85633793,
-        102081887
+        102081887,
+        404492599,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12780755"
     },
     "wof:country":"US",
-    "wof:geomhash":"c3372558cd638162d2635c3097b5a892",
+    "wof:geomhash":"687f9108c03d33513c83fd135f915977",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +44,7 @@
         }
     ],
     "wof:id":554727455,
-    "wof:lastmodified":1480829727,
+    "wof:lastmodified":1611185505,
     "wof:name":"53006",
     "wof:parent_id":404492599,
     "wof:placetype":"postalcode",

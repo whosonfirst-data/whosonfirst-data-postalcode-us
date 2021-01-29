@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027961,
-    "geom:area_square_m":286269307.977619,
+    "geom:area_square_m":286269307.977526,
     "geom:bbox":"-83.707985,33.998291,-83.44377,34.194336",
     "geom:latitude":34.106783,
     "geom:longitude":-83.577372,
@@ -14,20 +14,29 @@
     "lbl:latitude":34.10799,
     "lbl:longitude":-83.577448,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:postal_locality":"Jefferson",
+    "mz:postal_locality_alt":[
+        "Dawsonville",
+        "Ellijay",
+        "Gainesville",
+        "Clarkesville",
+        "Cleveland"
+    ],
     "src:geom":"uszcta",
     "wof:belongsto":[
-        85688535,
         102191575,
         85633793,
+        102084689,
         85936751,
-        102084689
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12770893"
     },
     "wof:country":"US",
-    "wof:geomhash":"f40c7a03ab6ef3593bd4082908000178",
+    "wof:geomhash":"7667e4e6dc004f5e53de57f00d9cd5d4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -39,7 +48,7 @@
         }
     ],
     "wof:id":554713275,
-    "wof:lastmodified":1480798061,
+    "wof:lastmodified":1611183303,
     "wof:name":"30549",
     "wof:parent_id":85936751,
     "wof:placetype":"postalcode",
