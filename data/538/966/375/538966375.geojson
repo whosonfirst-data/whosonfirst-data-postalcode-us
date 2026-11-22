@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2026-11-22",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.0,0.0,0.0,0.0",
@@ -10,6 +11,7 @@
     "geom:longitude":0.0,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "src:geom":"geoplanet",
     "wof:belongsto":[
         85688493,
@@ -35,7 +37,7 @@
         }
     ],
     "wof:id":538966375,
-    "wof:lastmodified":1470247095,
+    "wof:lastmodified":1795321061,
     "wof:name":"Lea County-Zip Franklin Memorial Airport",
     "wof:parent_id":85976537,
     "wof:placetype":"postalcode",
